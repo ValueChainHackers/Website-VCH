@@ -3,15 +3,15 @@ Here's the _config.yml file content:
 # Site settings
 title: "Value Chain Hackers"
 description: "Collaborative research community focused on sustainable supply chain innovation through transparent partnerships between academia and industry."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # Update this with your GitHub Pages URL
+baseurl: "/Website-VCH" # the subpath of your site, e.g. /blog
+url: "https://valuechainhackers.github.io/" # Update this with your GitHub Pages URL
 author: "Value Chain Hackers Team"
 
 # Social media and contact
 email: "info@valuechainhackers.org"
-discord_url: "https://discord.gg/your-discord-invite"
+discord_url: "https://discord.gg/uVKrPbKFF3"
 github_url: "https://github.com/yourusername/value-chain-hackers"
-linkedin_url: "https://linkedin.com/company/value-chain-hackers"
+linkedin_url: "https://www.linkedin.com/company/valuechainhackers/"
 twitter_url: "https://twitter.com/valuechainhackers"
 
 # Organization details
