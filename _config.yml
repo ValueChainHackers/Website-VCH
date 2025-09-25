@@ -1,0 +1,41 @@
+# _config.yml
+
+# Site Settings
+title: Value Chain Hackers
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  We are students, researchers, and industry partners collaborating to solve 
+  real-world supply chain challenges through innovative research and transparent partnerships.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Build Settings
+markdown: kramdown
+theme: minima # You can change this or remove it if you use a custom theme/layout
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclusions
+# Files and folders to exclude from the build process
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+
+# Custom Variables for Tailwind/CSS Reference
+# These are available in Liquid using: site.data.colors.vch_green
+data:
+  colors:
+    vch_green: "#7DB04D"
+    vch_yellow: "#F1C144"
+    vch_orange: "#F4A300"
+    vch_gray: "#333333"
+    vch_light_gray: "#666666"
+    vch_bg: "#F9F9F9"
+  font:
+    primary: "Inter, system-ui, sans-serif"
+
+# Permalinks
+permalink: /:title/
