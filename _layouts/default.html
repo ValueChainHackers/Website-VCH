@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'vch-green': '#7DB04D',
+                        'vch-yellow': '#F1C144',
+                        'vch-orange': '#F4A300',
+                        'vch-gray': '#333333',
+                        'vch-light-gray': '#666666',
+                        'vch-bg': '#F9F9F9'
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+</head>
+<body class="text-vch-gray">
+    <!-- Navigation Bar -->
+    <nav class="bg-white shadow-sm py-4 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
+            <div class="flex items-center">
+                <!-- Main Logo -->
+                <img src="{{ '/assets/images/vch-logo.png' | relative_url }}" alt="VCH Logo" class="h-10 w-10 mr-3">
+                <div class="text-2xl font-bold text-vch-green">VCH</div>
+                <div class="ml-2 text-lg font-semibold">Value Chain Hackers</div>
+            </div>
+            
+            <!-- Desktop Navigation -->
+            <div class="hidden md:flex space-x-8">
+                <a href="#home" class="text-vch-gray font-semibold hover:text-vch-green transition-colors">Home</a>
+                <a href="#about" class="text-vch-light-gray font-semibold hover:text-vch-green transition-colors">About</a>
+                <a href="#research" class="text-vch-light-gray font-semibold hover:text-vch-green transition-colors">Research & Projects</a>
+                <a href="#events" class="text-vch-light-gray font-semibold hover:text-vch-green transition-colors">Events</a>
+                <a href="#contact" class="text-vch-light-gray font-semibold hover:text-vch-green transition-colors">Contact</a>
+            </div>
+            
+            <!-- Mobile Menu Button -->
+            <button class="md:hidden text-vch-gray" id="mobile-menu-btn">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                </svg>
+            </button>
+        </div>
+        
+        <!-- Mobile Navigation -->
+        <div class="md:hidden hidden bg-white border-t" id="mobile-menu">
+            <div class="px-4 py-2 space-y-2">
+                <a href="#home" class="block py-2 text-vch-gray font-semibold">Home</a>
+                <a href="#about" class="block py-2 text-vch-light-gray font-semibold">About</a>
+                <a href="#research" class="block py-2 text-vch-light-gray font-semibold">Research & Projects</a>
+                <a href="#events" class="block py-2 text-vch-light-gray font-semibold">Events</a>
+                <a href="#contact" class="block py-2 text-vch-light-gray font-semibold">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main id="home">
+        {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white section-spacing border-t">
+        <div class="max-w-7xl mx-auto px-4">
+            <!-- Partner Logos Section -->
+            <div class="text-center mb-12">
+                <h3 class="text-2xl font-semibold text-vch-gray mb-8">Our Partners</h3>
+                <div class="grid grid-cols-2 md:grid-cols-5 gap-8 items-center justify-items-center">
+                    <img src="{{ '/assets/images/partners/windesheim-logo.png' | relative_url }}" alt="Windesheim University" class="h-12 opacity-70 hover:opacity-100 transition-opacity">
+                    <img src="{{ '/assets/images/partners/scania-logo.png' | relative_url }}" alt="Scania" class="h-12 opacity-70 hover:opacity-100 transition-opacity">
+                    <img src="{{ '/assets/images/partners/puma-logo.png' | relative_url }}" alt="Puma" class="h-12 opacity-70 hover:opacity-100 transition-opacity">
+                    <img src="{{ '/assets/images/partners/danone-logo.png' | relative_url }}" alt="Danone" class="h-12 opacity-70 hover:opacity-100 transition-opacity">
+                    <img src="{{ '/assets/images/partners/evofenedx-logo.png' | relative_url }}" alt="Evofenedx" class="h-12 opacity-70 hover:opacity-100 transition-opacity">
+                </div>
+            </div>
+
+            <!-- Team Section -->
+            <div class="text-center mb-12">
+                <h3 class="text-2xl font-semibold text-vch-gray mb-8">Meet Our Team</h3>
+                <div class="grid md:grid-cols-4 gap-8">
+                    <!-- Team Member 1 -->
+                    <div class="text-center">
+                        <img src="{{ '/assets/images/team/member-1.jpg' | relative_url }}" alt="Team Member 1" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">
+                        <h4 class="font-semibold text-vch-gray">Dr. Sarah Johnson</h4>
+                        <p class="text-sm text-vch-light-gray">Research Director</p>
+                    </div>
+                    <!-- Team Member 2 -->
+                    <div class="text-center">
+                        <img src="{{ '/assets/images/team/member-2.jpg' | relative_url }}" alt="Team Member 2" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">
+                        <h4 class="font-semibold text-vch-gray">Prof. Mark van der Berg</h4>
+                        <p class="text-sm text-vch-light-gray">Academic Lead</p>
+                    </div>
+                    <!-- Team Member 3 -->
+                    <div class="text-center">
+                        <img src="{{ '/assets/images/team/member-3.jpg' | relative_url }}" alt="Team Member 3" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">
+                        <h4 class="font-semibold text-vch-gray">Lisa Chen</h4>
+                        <p class="text-sm text-vch-light-gray">Industry Relations</p>
+                    </div>
+                    <!-- Team Member 4 -->
+                    <div class="text-center">
+                        <img src="{{ '/assets/images/team/member-4.jpg' | relative_url }}" alt="Team Member 4" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">
+                        <h4 class="font-semibold text-vch-gray">Alex Rodriguez</h4>
+                        <p class="text-sm text-vch-light-gray">Student Coordinator</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Footer Links -->
+            <div class="grid md:grid-cols-4 gap-8 mb-8">
+                <div>
+                    <div class="flex items-center mb-4">
+                        <img src="{{ '/assets/images/vch-logo.png' | relative_url }}" alt="VCH Logo" class="h-8 w-8 mr-2">
+                        <div class="text-2xl font-bold text-vch-green">VCH</div>
+                        <div class="ml-2 text-lg font-semibold">Value Chain Hackers</div>
+                    </div>
+                    <p class="text-vch-light-gray">
+                        Collaborative research community focused on sustainable supply chain innovation.
+                    </p>
+                </div>
+                <div>
+                    <h4 class="font-semibold text-vch-gray mb-4">Quick Links</h4>
+                    <div class="space-y-2">
+                        <a href="#about" class="block text-vch-light-gray hover:text-vch-green transition-colors">About</a>
+                        <a href="#research" class="block text-vch-light-gray hover:text-vch-green transition-colors">Research</a>
+                        <a href="#events" class="block text-vch-light-gray hover:text-vch-green transition-colors">Events</a>
+                        <a href="#contact" class="block text-vch-light-gray hover:text-vch-green transition-colors">Contact</a>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="font-semibold text-vch-gray mb-4">Community</h4>
+                    <div class="space-y-2">
+                        <a href="{{ site.discord_url }}" target="_blank" rel="noopener noreferrer" class="block text-vch-light-gray hover:text-vch-green transition-colors">Discord</a>
+                        <a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer" class="block text-vch-light-gray hover:text-vch-green transition-colors">GitHub</a>
+                        <a href="{{ site.linkedin_url }}" target="_blank" rel="noopener noreferrer" class="block text-vch-light-gray hover:text-vch-green transition-colors">LinkedIn</a>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="font-semibold text-vch-gray mb-4">Partners</h4>
+                    <div class="space-y-2 text-vch-light-gray">
+                        <div>Windesheim University</div>
+                        <div>Scania</div>
+                        <div>Puma</div>
+                        <div>Danone</div>
+                        <div>Evofenedx</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="border-t border-gray-300 pt-8 flex flex-col md:flex-row justify-between items-center">
+                <div class="text-vch-light-gray text-sm">
+                    © {{ 'now' | date: "%Y" }} Value Chain Hackers. All rights reserved.
+                </div>
+                <div class="flex space-x-6 mt-4 md:mt-0">
+                    <a href="/privacy" class="text-vch-light-gray text-sm hover:text-vch-green transition-colors">Privacy Policy</a>
+                    <a href="/terms" class="text-vch-light-gray text-sm hover:text-vch-green transition-colors">Terms of Service</a>
+                    <a href="/newsletter" class="text-vch-light-gray text-sm hover:text-vch-green transition-colors">Newsletter</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        // Mobile menu toggle
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+            const mobileMenu = document.getElementById('mobile-menu');
+            
+            mobileMenuBtn.addEventListener('click', function() {
+                mobileMenu.classList.toggle('hidden');
+            });
+
+            // Smooth scrolling for anchor links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                        // Close mobile menu if open
+                        mobileMenu.classList.add('hidden');
+                    }
+                });
+            });
+        });
+    </script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'984ad07620d7d7a1',t:'MTc1ODgwNjM3OC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
