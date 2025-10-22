@@ -7,11 +7,15 @@
 
 ## PRIORITY 1: Maxime's Open Issues (MUST DO FIRST)
 
-### Issue #30: Change website URL ⭐
+### Issue #30: Change website URL ⭐ PARTIALLY DONE
 **Created:** 2025-10-06 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/30)
 
-- [ ] Make website URL clean, just "Value Chain Hackers"
-- **Files to update:** `_config.yml`, potentially navigation
+- [x] CNAME file is correct: `valuechainhackers.xyz`
+- [ ] **STILL NEEDED:** Fix baseurl in `_config.yml`
+  - Current: `baseurl: "/Website-VCH"`
+  - Should be: `baseurl: ""`
+  - This is causing asset loading issues with the custom domain
+- **Files to update:** [_config.yml](/_config.yml) line 6
 
 ---
 
@@ -19,15 +23,17 @@
 **Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/29)
 
 - [ ] Replace placeholder team members with real VCH team:
-  - Rea (Rea Vaz)
-  - Michiel (Michiel Steeman)
-  - Maxime (Maxime Bouillon)
-  - Christiaan (Christiaan Verhoef)
+  - **Rea Vaz** - Image: `rea.jpg` ✅
+  - **Michiel Steeman** - Image: `michiel.png` ✅
+  - **Maxime Bouillon** - Image: `maxime.jpg` ✅
+  - **Christiaan Verhoef** - Image: `christiaan.jpeg` ✅
+
 - **Files to update:**
   - [_layouts/default.html](/_layouts/default.html) (lines 100-125)
   - [about.html](/about.html) (lines 170-226)
 - **Current placeholders to remove:** Dr. Sarah Johnson, Prof. Mark van der Berg, Lisa Chen, Alex Rodriguez
-- **Images needed:** Real team photos in [assets/images/team/](/assets/images/team/)
+- **Images available:** All team photos exist in [assets/images/](/assets/images/) in different formats
+- **Note:** Hendryk Dittfeld also has an image (`hendryk Dittfeld.jpg`) if needed
 
 ---
 
@@ -38,16 +44,18 @@
   - SCF lectorate
   - SCF community
   - ZWINC
+- [ ] Find and download partner logos from internet
 - **Files to update:**
   - [_layouts/default.html](/_layouts/default.html) (lines 85-94, 158-165)
-- **Note:** May need new partner logos for these organizations
+- **Save logos to:** [assets/images/partners/](/assets/images/partners/)
+- **Current partners to replace:** Windesheim, Scania, Puma, Danone, Evofenedex
 
 ---
 
 ### Issue #27: Partnership section improvements ⭐
 **Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/27)
 
-- [ ] Change "industry" to "business" in partnership section
+- [ ] Change "Industry Partnerships" to "Business Partnerships"
 - [ ] Add "Reach out to us" before mail address
 - **Files to update:** [index.html](/index.html) (lines 336-380)
 
@@ -56,11 +64,12 @@
 ### Issue #26: Events & workshop section ⭐
 **Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/26)
 
-- [ ] Populate events section with:
-  - AI workshops (Christiaan's)
-  - Final event (online for external)
+- [ ] Update featured event to **October 30th** (next event)
+- [ ] Add AI workshops (Christiaan's)
+- [ ] Add final event (online for external)
 - **Files to update:** [index.html](/index.html) (lines 183-272)
 - **Current issue:** Events are outdated (March 2024, April 2024)
+- **EVENT DATE:** October 30, 2025
 
 ---
 
