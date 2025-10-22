@@ -67,30 +67,87 @@
 - [ ] Update featured event to **October 30th** (next event)
 - [ ] Add AI workshops (Christiaan's)
 - [ ] Add final event (online for external)
+- [ ] **Fix event registration links** - currently go nowhere (#)
+  - **Options:**
+    - A) Meetup.com links (recommended - easy to update later)
+    - B) Google Forms
+    - C) Eventbrite
+    - D) Direct mailto: links to info@valuechainhackers.org
 - **Files to update:** [index.html](/index.html) (lines 183-272)
 - **Current issue:** Events are outdated (March 2024, April 2024)
 - **EVENT DATE:** October 30, 2025
 
 ---
 
-### Issue #25: Update projects with real names ⭐
+### NEW: Fix Icon Rendering 🔧
+**Priority:** High - Visual issue affecting user experience
+
+- [ ] Icons aren't rendering properly on the site
+- **Current implementation:** Using emoji characters (💡, 👥, ⚡, 🔬, 🤝, 🌱, etc.)
+- **Files affected:**
+  - [index.html](/index.html) (lines 42, 48, 56, and throughout)
+  - [about.html](/about.html)
+- **Recommended solutions:**
+  - A) **Font Awesome** (free CDN, most reliable)
+    - Add to `<head>`: `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">`
+    - Replace emoji with: `<i class="fas fa-lightbulb"></i>`, etc.
+  - B) **Bootstrap Icons** (lightweight)
+  - C) **Custom SVG icons** (best performance but more work)
+  - D) **Fix emoji rendering** by ensuring UTF-8 charset and proper fonts
+
+---
+
+### NEW: Fix Placeholder Research Links 📄
+**Priority:** High - Broken user journey
+
+- [ ] Research project links currently lead nowhere (#)
+- [ ] "View on GitHub", "Read Paper", "Download PDF" buttons are broken
+- **Files to update:** [index.html](/index.html) (lines 121, 132, 143, 154, 165, 176)
+- **Recommended solutions:**
+  - **Option A:** Create placeholder documents in `/assets/documents/`
+    - Example: `sample-research-paper.pdf`
+    - Example: `project-template.docx`
+    - Example: `presentation-template.pptx`
+  - **Option B:** Link to GitHub repos under ValueChainHackers org
+    - Real repos when available
+    - Template repo for placeholders
+  - **Option C:** Remove links until real content is ready
+  - **Option D:** Show "Coming Soon" modal/message instead of link
+
+---
+
+### Issue #25: Update projects with real names ⭐ PARTIALLY DONE
 **Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/25)
 
-- [ ] Replace placeholder projects with real VCH projects
+- [x] Replace placeholder project names with real VCH project names
+- [ ] **Replace generic descriptions with actual project descriptions**
+  - Currently: Generic descriptions written based on project names only
+  - Need: Real descriptions from project teams/documentation
+- [ ] **Add real GitHub repo links when available**
+  - Currently: All links point to https://github.com/ValueChainHackers (org page)
+  - Need: Individual repository URLs for each project
+- [ ] **Add real PDF/document links when ready**
+  - Currently: "Read Paper", "Download PDF", "View on GitHub" all link to org page
+  - Need: Actual documents, papers, or reports
+- [ ] **Categorize projects more accurately**
+  - Currently: Guessed at Student Project / Research Output / Partner Collaboration
+  - Need: Proper categorization confirmed by Maxime
+
+**Current projects in system:**
 
 **Completed projects:**
-- CRM lemonti
-- Textile Twicely
-- Cacao guide
+- CRM Lemonti (currently: Student Project)
+- Textile Twicely (currently: Student Project)
+- Cacao Guide (currently: Research Output)
 
 **Ongoing projects:**
-- Bakery network
-- Cacao chain improvement
-- Beer bottle waste reduction
-- Windmill gearbox Niobium
-- Phone battery Cobalt
+- Bakery Network (currently: Partner Collaboration)
+- Cacao Chain Improvement (currently: Student Project)
+- Beer Bottle Waste Reduction (currently: Partner Collaboration)
+- Windmill Gearbox Niobium (currently: Research Output)
+- Phone Battery Cobalt (currently: Research Output)
 
-- **Files to update:** [index.html](/index.html) (lines 112-178)
+- **Files to update:** [index.html](/index.html) (lines 107-196)
 - **Consider:** Moving to Jekyll collections for easier management
 
 ---

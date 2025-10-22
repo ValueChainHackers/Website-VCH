@@ -3,8 +3,8 @@ Here's the _config.yml file content:
 # Site settings
 title: "Value Chain Hackers"
 description: "Collaborative research community focused on sustainable supply chain innovation through transparent partnerships between academia and industry."
-baseurl: "/Website-VCH" # the subpath of your site, e.g. /blog
-url: "https://valuechainhackers.github.io/" # Update this with your GitHub Pages URL
+baseurl: "" # Empty for custom domain (valuechainhackers.xyz)
+url: "https://valuechainhackers.xyz" # Custom domain URL
 author: "Value Chain Hackers Team"
 
 # Social media and contact
