@@ -123,9 +123,20 @@
 - [ ] **Replace generic descriptions with actual project descriptions**
   - Currently: Generic descriptions written based on project names only
   - Need: Real descriptions from project teams/documentation
-- [ ] **Add real GitHub repo links when available**
-  - Currently: All links point to https://github.com/ValueChainHackers (org page)
-  - Need: Individual repository URLs for each project
+- [x] **Add subdomain links for each project**
+  - ✅ Updated all projects to use subdomains (e.g., beerbottle.valuechainhackers.xyz)
+  - Project subdomains created:
+    - lemonti.valuechainhackers.xyz
+    - textile.valuechainhackers.xyz
+    - cacao.valuechainhackers.xyz
+    - bakery.valuechainhackers.xyz
+    - cacaochain.valuechainhackers.xyz
+    - beerbottle.valuechainhackers.xyz
+    - windmill.valuechainhackers.xyz
+    - phonebattery.valuechainhackers.xyz
+- [ ] **Configure DNS for project subdomains**
+  - Need to add CNAME records or A records for each subdomain
+  - Point to appropriate hosting (GitHub Pages or other)
 - [ ] **Add real PDF/document links when ready**
   - Currently: "Read Paper", "Download PDF", "View on GitHub" all link to org page
   - Need: Actual documents, papers, or reports
