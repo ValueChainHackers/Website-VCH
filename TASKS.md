@@ -207,6 +207,54 @@
 
 ## Additional Tasks
 
+### Task #0: Update Project Detail Pages 📄 NEW!
+**Priority:** High
+**Status:** Infrastructure Complete - Content Needed
+**Created:** 2025-10-22
+
+Each project now has a dedicated detail page with comprehensive sections.
+
+**What's been created:**
+- [x] Project detail page template (`_layouts/project.html`)
+- [x] 8 individual project pages in `_projects/` directory
+- [x] Updated project cards with "Website" + "Learn More" buttons
+- [x] Complete documentation in [PROJECT_PAGES_GUIDE.md](/PROJECT_PAGES_GUIDE.md)
+
+**Project pages created:**
+1. `/projects/lemonti/` - CRM Lemonti (example with full content)
+2. `/projects/textile-twicely/` - Textile Twicely
+3. `/projects/cacao-guide/` - Cacao Guide
+4. `/projects/bakery-network/` - Bakery Network
+5. `/projects/cacao-chain/` - Cacao Chain Improvement
+6. `/projects/beer-bottle/` - Beer Bottle Waste Reduction
+7. `/projects/windmill/` - Windmill Gearbox Niobium
+8. `/projects/phone-battery/` - Phone Battery Cobalt
+
+**Each project page includes sections for:**
+- ✅ Project overview and description
+- ✅ Presentation (embed or download)
+- ✅ Documentation (PDFs, reports)
+- ✅ Live demo
+- ✅ LinkedIn posts/updates
+- ✅ Background information
+- ✅ Project roadmap with milestones
+- ✅ GitHub and website links
+- ✅ Team info, duration, partners, tags
+
+**What's still needed:**
+- [ ] Gather real content from project teams
+- [ ] Replace "TBD" placeholders with actual team names
+- [ ] Add real GitHub repository URLs
+- [ ] Upload actual documentation PDFs
+- [ ] Add LinkedIn post URLs
+- [ ] Write detailed project descriptions
+- [ ] Add presentation files
+- [ ] Create/link demos where applicable
+
+**Reference:** See [PROJECT_PAGES_GUIDE.md](/PROJECT_PAGES_GUIDE.md) for complete instructions
+
+---
+
 ### Task #1: Configure DNS for Project Subdomains 🌐
 **Priority:** Medium
 **Status:** Pending
