@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Background -->
+  <rect width="200" height="60" fill="white"/>
+
+  <!-- Icon/Symbol - Abstract Z shape -->
+  <path d="M 15 20 L 35 20 L 15 40 L 35 40" stroke="#7DB04D" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Text -->
+  <text x="50" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333333">ZWINC</text>
+  <text x="50" y="48" font-family="Arial, sans-serif" font-size="9" fill="#666666">Zwolle Innovation Center</text>
+</svg>

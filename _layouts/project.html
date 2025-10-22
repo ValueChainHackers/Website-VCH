@@ -1,0 +1,235 @@
+---
+layout: default
+---
+
+<!-- Project Detail Page -->
+<section class="section-spacing bg-vch-bg">
+    <div class="max-w-7xl mx-auto px-4">
+        <!-- Breadcrumb -->
+        <nav class="mb-8">
+            <ol class="flex items-center space-x-2 text-sm text-vch-light-gray">
+                <li><a href="/" class="hover:text-vch-green">Home</a></li>
+                <li>/</li>
+                <li><a href="/#research" class="hover:text-vch-green">Projects</a></li>
+                <li>/</li>
+                <li class="text-vch-gray font-semibold">{{ page.title }}</li>
+            </ol>
+        </nav>
+
+        <!-- Project Header -->
+        <div class="bg-gradient-to-r from-vch-green to-vch-yellow rounded-2xl p-8 md:p-12 text-white mb-12">
+            <div class="flex items-center gap-4 mb-4">
+                <span class="bg-white text-vch-gray px-4 py-2 rounded-full text-sm font-bold">
+                    {{ page.status }}
+                </span>
+                <span class="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm">
+                    {{ page.category }}
+                </span>
+            </div>
+            <h1 class="text-4xl font-bold mb-4">{{ page.title }}</h1>
+            <p class="text-xl text-white mb-6">{{ page.description }}</p>
+
+            <div class="flex flex-wrap gap-4">
+                {% if page.website %}
+                <a href="{{ page.website }}" target="_blank" rel="noopener noreferrer" class="bg-white text-vch-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors inline-flex items-center gap-2">
+                    <i class="fas fa-external-link-alt"></i> Visit Website
+                </a>
+                {% endif %}
+                {% if page.github %}
+                <a href="{{ page.github }}" target="_blank" rel="noopener noreferrer" class="bg-white bg-opacity-20 text-white px-6 py-3 rounded-lg font-semibold hover:bg-opacity-30 transition-colors inline-flex items-center gap-2">
+                    <i class="fab fa-github"></i> GitHub Repository
+                </a>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="grid lg:grid-cols-3 gap-8">
+            <!-- Main Content -->
+            <div class="lg:col-span-2 space-y-8">
+                <!-- Project Overview -->
+                <div class="bg-white rounded-xl shadow-sm border p-8">
+                    <h2 class="text-2xl font-bold text-vch-gray mb-4">Project Overview</h2>
+                    <div class="prose max-w-none text-vch-light-gray">
+                        {{ content }}
+                    </div>
+                </div>
+
+                <!-- Presentation -->
+                {% if page.presentation %}
+                <div class="bg-white rounded-xl shadow-sm border p-8">
+                    <h2 class="text-2xl font-bold text-vch-gray mb-4">
+                        <i class="fas fa-presentation text-vch-green mr-2"></i>
+                        Presentation
+                    </h2>
+                    <div class="aspect-video bg-gray-100 rounded-lg flex items-center justify-center">
+                        {% if page.presentation contains 'http' %}
+                        <iframe src="{{ page.presentation }}" class="w-full h-full rounded-lg" allowfullscreen></iframe>
+                        {% else %}
+                        <div class="text-center p-8">
+                            <i class="fas fa-file-powerpoint text-6xl text-vch-green mb-4"></i>
+                            <p class="text-vch-light-gray mb-4">Presentation Coming Soon</p>
+                            <a href="{{ page.presentation }}" class="text-vch-green hover:text-green-600 font-semibold">Download Presentation →</a>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- Documentation -->
+                {% if page.documentation %}
+                <div class="bg-white rounded-xl shadow-sm border p-8">
+                    <h2 class="text-2xl font-bold text-vch-gray mb-4">
+                        <i class="fas fa-file-alt text-vch-green mr-2"></i>
+                        Documentation
+                    </h2>
+                    <div class="space-y-4">
+                        {% for doc in page.documentation %}
+                        <a href="{{ doc.url }}" target="_blank" rel="noopener noreferrer" class="flex items-center justify-between p-4 bg-vch-bg rounded-lg hover:bg-gray-100 transition-colors">
+                            <div class="flex items-center gap-3">
+                                <i class="fas fa-file-pdf text-2xl text-vch-green"></i>
+                                <div>
+                                    <div class="font-semibold text-vch-gray">{{ doc.title }}</div>
+                                    <div class="text-sm text-vch-light-gray">{{ doc.type }}</div>
+                                </div>
+                            </div>
+                            <i class="fas fa-download text-vch-green"></i>
+                        </a>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- Demo -->
+                {% if page.demo %}
+                <div class="bg-white rounded-xl shadow-sm border p-8">
+                    <h2 class="text-2xl font-bold text-vch-gray mb-4">
+                        <i class="fas fa-rocket text-vch-green mr-2"></i>
+                        Live Demo
+                    </h2>
+                    <div class="aspect-video bg-gray-100 rounded-lg overflow-hidden">
+                        {% if page.demo contains 'http' %}
+                        <iframe src="{{ page.demo }}" class="w-full h-full"></iframe>
+                        {% else %}
+                        <div class="flex items-center justify-center h-full">
+                            <div class="text-center p-8">
+                                <i class="fas fa-laptop-code text-6xl text-vch-green mb-4"></i>
+                                <p class="text-vch-light-gray mb-4">Demo Coming Soon</p>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- LinkedIn Posts -->
+                {% if page.linkedin_posts %}
+                <div class="bg-white rounded-xl shadow-sm border p-8">
+                    <h2 class="text-2xl font-bold text-vch-gray mb-4">
+                        <i class="fab fa-linkedin text-vch-green mr-2"></i>
+                        Latest Updates
+                    </h2>
+                    <div class="space-y-4">
+                        {% for post in page.linkedin_posts %}
+                        <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer" class="block p-4 bg-vch-bg rounded-lg hover:bg-gray-100 transition-colors">
+                            <div class="text-sm text-vch-light-gray mb-2">{{ post.date }}</div>
+                            <div class="text-vch-gray">{{ post.excerpt }}</div>
+                        </a>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+
+            <!-- Sidebar -->
+            <div class="space-y-6">
+                <!-- Project Info -->
+                <div class="bg-white rounded-xl shadow-sm border p-6">
+                    <h3 class="text-xl font-bold text-vch-gray mb-4">Project Information</h3>
+                    <dl class="space-y-3 text-sm">
+                        {% if page.team %}
+                        <div>
+                            <dt class="font-semibold text-vch-gray">Team</dt>
+                            <dd class="text-vch-light-gray">{{ page.team }}</dd>
+                        </div>
+                        {% endif %}
+                        {% if page.duration %}
+                        <div>
+                            <dt class="font-semibold text-vch-gray">Duration</dt>
+                            <dd class="text-vch-light-gray">{{ page.duration }}</dd>
+                        </div>
+                        {% endif %}
+                        {% if page.partners %}
+                        <div>
+                            <dt class="font-semibold text-vch-gray">Partners</dt>
+                            <dd class="text-vch-light-gray">{{ page.partners }}</dd>
+                        </div>
+                        {% endif %}
+                        {% if page.tags %}
+                        <div>
+                            <dt class="font-semibold text-vch-gray mb-2">Tags</dt>
+                            <dd class="flex flex-wrap gap-2">
+                                {% for tag in page.tags %}
+                                <span class="bg-vch-yellow bg-opacity-20 text-vch-gray px-2 py-1 rounded text-xs">{{ tag }}</span>
+                                {% endfor %}
+                            </dd>
+                        </div>
+                        {% endif %}
+                    </dl>
+                </div>
+
+                <!-- Project Roadmap -->
+                {% if page.roadmap %}
+                <div class="bg-white rounded-xl shadow-sm border p-6">
+                    <h3 class="text-xl font-bold text-vch-gray mb-4">
+                        <i class="fas fa-road text-vch-green mr-2"></i>
+                        Project Roadmap
+                    </h3>
+                    <div class="space-y-4">
+                        {% for milestone in page.roadmap %}
+                        <div class="relative pl-6 border-l-2 {% if milestone.completed %}border-vch-green{% else %}border-gray-300{% endif %}">
+                            <div class="absolute -left-2 top-0 w-4 h-4 rounded-full {% if milestone.completed %}bg-vch-green{% else %}bg-gray-300{% endif %}"></div>
+                            <div class="{% if milestone.completed %}text-vch-gray{% else %}text-vch-light-gray{% endif %} font-semibold text-sm">
+                                {{ milestone.phase }}
+                            </div>
+                            <div class="text-xs text-vch-light-gray">{{ milestone.date }}</div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- Background Information -->
+                {% if page.background %}
+                <div class="bg-white rounded-xl shadow-sm border p-6">
+                    <h3 class="text-xl font-bold text-vch-gray mb-4">Background</h3>
+                    <div class="text-sm text-vch-light-gray space-y-2">
+                        {{ page.background }}
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- Links -->
+                <div class="bg-white rounded-xl shadow-sm border p-6">
+                    <h3 class="text-xl font-bold text-vch-gray mb-4">Quick Links</h3>
+                    <div class="space-y-2">
+                        {% if page.github %}
+                        <a href="{{ page.github }}" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 text-vch-light-gray hover:text-vch-green transition-colors text-sm">
+                            <i class="fab fa-github"></i> GitHub Repository
+                        </a>
+                        {% endif %}
+                        {% if page.website %}
+                        <a href="{{ page.website }}" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 text-vch-light-gray hover:text-vch-green transition-colors text-sm">
+                            <i class="fas fa-globe"></i> Project Website
+                        </a>
+                        {% endif %}
+                        {% if page.linkedin %}
+                        <a href="{{ page.linkedin }}" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 text-vch-light-gray hover:text-vch-green transition-colors text-sm">
+                            <i class="fab fa-linkedin"></i> LinkedIn Updates
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

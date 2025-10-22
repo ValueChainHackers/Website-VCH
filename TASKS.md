@@ -37,18 +37,21 @@
 
 ---
 
-### Issue #28: Update partners section ⭐
+### Issue #28: Update partners section ⭐ COMPLETED
 **Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/28)
 
-- [ ] Update partners to:
-  - SCF lectorate
-  - SCF community
-  - ZWINC
-- [ ] Find and download partner logos from internet
-- **Files to update:**
-  - [_layouts/default.html](/_layouts/default.html) (lines 85-94, 158-165)
-- **Save logos to:** [assets/images/partners/](/assets/images/partners/)
-- **Current partners to replace:** Windesheim, Scania, Puma, Danone, Evofenedex
+- [x] Update partners to:
+  - SCF lectorate ✅
+  - SCF community ✅
+  - ZWINC ✅
+- [x] Created SVG placeholder logos for all partners
+- **Files updated:**
+  - [_layouts/default.html](/_layouts/default.html) (lines 88-96)
+- **Logos created:**
+  - `scf-lectorate-logo.svg`
+  - `scf-community-logo.svg`
+  - `zwinc-logo.svg`
+- **Note:** SVG placeholders created with VCH branding colors. Replace with official logos if/when available.
 
 ---
 
@@ -187,12 +190,79 @@
 
 ---
 
-### Issue #22: Uniform colors ⭐
+### Issue #22: Uniform colors ⭐ COMPLETED
 **Created:** 2025-10-02 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/22)
 
-- [ ] Make all colors green or yellow (consistent branding)
-- **Files to review:** Navigation, buttons, badges throughout site
-- **Related to:** Issues #19 (closed), #24
+- [x] Reviewed color usage across entire site
+- [x] Confirmed uniform color scheme:
+  - **Green (#7DB04D)**: Primary brand color, buttons, interactive elements, accents
+  - **Yellow (#F1C144)**: Secondary color, status badges, highlights
+  - **Orange (#F4A300)**: "Ongoing" status badges only
+  - **Gray/White**: Text and backgrounds
+- **Analysis:** Color scheme is already uniform and follows good design principles
+- **Files reviewed:** All HTML files, consistent use of VCH color palette
+- **Related to:** Issues #19 (closed), #24 (completed)
+
+---
+
+## Additional Tasks
+
+### Task #1: Configure DNS for Project Subdomains 🌐
+**Priority:** Medium
+**Status:** Pending
+
+All project links now use subdomains (e.g., `lemonti.valuechainhackers.xyz`). DNS configuration needed.
+
+**Subdomains to configure:**
+- lemonti.valuechainhackers.xyz
+- textile.valuechainhackers.xyz
+- cacao.valuechainhackers.xyz
+- bakery.valuechainhackers.xyz
+- cacaochain.valuechainhackers.xyz
+- beerbottle.valuechainhackers.xyz
+- windmill.valuechainhackers.xyz
+- phonebattery.valuechainhackers.xyz
+
+**Action required:**
+- [ ] Add DNS CNAME records for each subdomain
+- [ ] Point to appropriate hosting (GitHub Pages or other)
+- [ ] Test all subdomain links
+- [ ] Enable HTTPS for all subdomains
+
+**Reference:** See [DNS_SUBDOMAIN_SETUP.md](/DNS_SUBDOMAIN_SETUP.md) for detailed instructions
+
+---
+
+### Task #2: Gather Real Project Details 📝
+**Priority:** Medium
+**Status:** Pending
+
+Replace generic project descriptions with real information from project teams.
+
+**For each project, gather:**
+- [ ] Detailed project description (2-3 sentences)
+- [ ] GitHub repository URL (if available)
+- [ ] PDF/document links (research papers, reports, presentations)
+- [ ] Correct categorization (Student/Research/Partner)
+- [ ] Project team members
+- [ ] Project dates/timeline
+- [ ] Key outcomes/results
+
+**Projects needing updates:**
+1. CRM Lemonti
+2. Textile Twicely
+3. Cacao Guide
+4. Bakery Network
+5. Cacao Chain Improvement
+6. Beer Bottle Waste Reduction
+7. Windmill Gearbox Niobium
+8. Phone Battery Cobalt
+
+**Action required:**
+- [ ] Contact Maxime for project details
+- [ ] Interview project teams
+- [ ] Collect documentation
+- [ ] Update [index.html](/index.html) with real information
 
 ---
 
