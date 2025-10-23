@@ -1,0 +1,28 @@
+# robots.txt for Value Chain Hackers
+# https://valuechainhackers.xyz
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://valuechainhackers.xyz/sitemap.xml
+
+# Disallow admin or private areas (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Crawl delay (optional - use if server gets overloaded)
+# Crawl-delay: 10
