@@ -1,0 +1,478 @@
+---
+layout: default
+title: Workshops & Learning Resources
+description: Access Value Chain Hackers workshops, presentations, and educational materials on supply chain management, AI, and sustainability
+---
+
+<div class="bg-gradient-to-r from-vch-green to-vch-yellow py-20">
+    <div class="max-w-7xl mx-auto px-4 text-center">
+        <h1 class="text-4xl md:text-5xl font-bold text-white mb-6">
+            <i class="fas fa-chalkboard-teacher mr-3"></i>
+            Workshops & Learning Resources
+        </h1>
+        <p class="text-xl text-white/90 max-w-3xl mx-auto">
+            Access our comprehensive collection of workshops, presentations, and educational materials covering supply chain management, AI applications, sustainability, and supply chain finance.
+        </p>
+    </div>
+</div>
+
+<!-- Workshop Categories -->
+<div class="bg-white border-b sticky top-0 z-10 shadow-sm">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="flex gap-4 overflow-x-auto py-4">
+            <button class="category-btn active px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-category="all">
+                <i class="fas fa-th mr-2"></i>All Workshops
+            </button>
+            <button class="category-btn px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-category="ai">
+                <i class="fas fa-robot mr-2"></i>AI & Technology
+            </button>
+            <button class="category-btn px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-category="supply-chain">
+                <i class="fas fa-truck mr-2"></i>Supply Chain
+            </button>
+            <button class="category-btn px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-category="sustainability">
+                <i class="fas fa-leaf mr-2"></i>Sustainability
+            </button>
+            <button class="category-btn px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-category="finance">
+                <i class="fas fa-chart-line mr-2"></i>Finance
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- Main Content -->
+<div class="max-w-7xl mx-auto px-4 py-12">
+
+    <!-- Upload Instructions (Admin Only - Hidden from public view with HTML comment) -->
+    <!--
+    📋 WORKSHOP UPLOAD INSTRUCTIONS FOR ADMINISTRATORS
+
+    To add a new workshop:
+    1. Upload your Quarto (.qmd/.html) or PowerPoint (.pptx) file to: assets/workshops/
+    2. Add a new workshop card below following the template
+    3. Update the data-category attribute to match the workshop type
+    4. For Quarto presentations: Upload rendered HTML output
+    5. For PowerPoint: Consider converting to PDF for web viewing
+
+    Naming convention: YYYY-MM-DD-workshop-name.ext
+    Example: 2025-10-15-ai-supply-chain.html
+    -->
+
+    <!-- Featured Workshops Section -->
+    <div class="mb-12">
+        <h2 class="text-3xl font-bold text-vch-gray mb-8 flex items-center">
+            <i class="fas fa-star text-vch-yellow mr-3"></i>
+            Featured Workshops
+        </h2>
+
+        <div class="grid md:grid-cols-2 gap-8">
+
+            <!-- Example Workshop 1: AI in Supply Chain -->
+            <article class="workshop-card bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all" data-category="ai">
+                <div class="relative">
+                    <div class="bg-gradient-to-r from-vch-green to-vch-yellow h-40 rounded-t-xl flex items-center justify-center">
+                        <i class="fas fa-robot text-white text-6xl"></i>
+                    </div>
+                    <div class="absolute top-4 right-4">
+                        <span class="px-3 py-1 bg-white rounded-full text-xs font-semibold text-vch-green">New</span>
+                    </div>
+                </div>
+                <div class="p-6">
+                    <div class="flex items-center gap-2 mb-3">
+                        <span class="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-xs font-semibold">AI & Technology</span>
+                        <span class="text-sm text-vch-light-gray">2 hours</span>
+                    </div>
+                    <h3 class="text-xl font-bold text-vch-gray mb-3">
+                        Introduction to AI in Supply Chain Management
+                    </h3>
+                    <p class="text-vch-light-gray mb-4">
+                        Discover how artificial intelligence is transforming supply chain operations, from demand forecasting to inventory optimization. Learn practical applications and implementation strategies.
+                    </p>
+                    <div class="flex items-center gap-4 text-sm text-vch-light-gray mb-4">
+                        <div class="flex items-center gap-2">
+                            <i class="fas fa-user"></i>
+                            <span>Christiaan Verhoef</span>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <i class="fas fa-calendar"></i>
+                            <span>Oct 2025</span>
+                        </div>
+                    </div>
+                    <!-- Uncomment when workshop file is uploaded
+                    <a href="{{ '/assets/workshops/2025-10-ai-supply-chain.html' | relative_url }}"
+                       target="_blank"
+                       class="block bg-vch-green text-white px-6 py-3 rounded-lg font-semibold text-center hover:bg-green-600 transition-all">
+                        <i class="fas fa-play-circle mr-2"></i>View Workshop
+                    </a>
+                    -->
+                    <div class="block bg-gray-100 text-gray-500 px-6 py-3 rounded-lg font-semibold text-center">
+                        <i class="fas fa-clock mr-2"></i>Coming Soon
+                    </div>
+                </div>
+            </article>
+
+            <!-- Example Workshop 2: Quarto Fundamentals -->
+            <article class="workshop-card bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all" data-category="ai">
+                <div class="relative">
+                    <div class="bg-gradient-to-r from-blue-500 to-blue-700 h-40 rounded-t-xl flex items-center justify-center">
+                        <i class="fas fa-code text-white text-6xl"></i>
+                    </div>
+                </div>
+                <div class="p-6">
+                    <div class="flex items-center gap-2 mb-3">
+                        <span class="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-xs font-semibold">Technical Skills</span>
+                        <span class="text-sm text-vch-light-gray">1.5 hours</span>
+                    </div>
+                    <h3 class="text-xl font-bold text-vch-gray mb-3">
+                        Quarto for Presentations & Reports
+                    </h3>
+                    <p class="text-vch-light-gray mb-4">
+                        Learn how to create beautiful, reproducible presentations and reports using Quarto. Perfect for students and professionals who want to combine code, data, and narrative.
+                    </p>
+                    <div class="flex items-center gap-4 text-sm text-vch-light-gray mb-4">
+                        <div class="flex items-center gap-2">
+                            <i class="fas fa-user"></i>
+                            <span>Maxime Bouillon</span>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <i class="fas fa-calendar"></i>
+                            <span>Oct 2025</span>
+                        </div>
+                    </div>
+                    <div class="block bg-gray-100 text-gray-500 px-6 py-3 rounded-lg font-semibold text-center">
+                        <i class="fas fa-clock mr-2"></i>Coming Soon
+                    </div>
+                </div>
+            </article>
+
+        </div>
+    </div>
+
+    <!-- All Workshops Section -->
+    <div class="mb-12">
+        <h2 class="text-3xl font-bold text-vch-gray mb-8">
+            Workshop Library
+        </h2>
+
+        <div class="grid md:grid-cols-3 gap-6">
+
+            <!-- Supply Chain Basics -->
+            <article class="workshop-card bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all" data-category="supply-chain">
+                <div class="relative">
+                    <div class="bg-gradient-to-r from-vch-green to-green-600 h-32 rounded-t-xl flex items-center justify-center">
+                        <i class="fas fa-truck text-white text-5xl"></i>
+                    </div>
+                </div>
+                <div class="p-5">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="px-3 py-1 bg-green-100 text-green-700 rounded-full text-xs font-semibold">Supply Chain</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-vch-gray mb-2">
+                        Supply Chain Fundamentals
+                    </h3>
+                    <p class="text-vch-light-gray text-sm mb-3">
+                        Essential concepts for understanding modern supply chain management.
+                    </p>
+                    <div class="text-xs text-vch-light-gray mb-3">
+                        <i class="fas fa-clock mr-1"></i>1 hour
+                    </div>
+                    <div class="block bg-gray-100 text-gray-500 px-4 py-2 rounded-lg font-semibold text-center text-sm">
+                        Coming Soon
+                    </div>
+                </div>
+            </article>
+
+            <!-- Sustainability Workshop -->
+            <article class="workshop-card bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all" data-category="sustainability">
+                <div class="relative">
+                    <div class="bg-gradient-to-r from-green-500 to-teal-600 h-32 rounded-t-xl flex items-center justify-center">
+                        <i class="fas fa-leaf text-white text-5xl"></i>
+                    </div>
+                </div>
+                <div class="p-5">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="px-3 py-1 bg-teal-100 text-teal-700 rounded-full text-xs font-semibold">Sustainability</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-vch-gray mb-2">
+                        Circular Economy in Practice
+                    </h3>
+                    <p class="text-vch-light-gray text-sm mb-3">
+                        Implementing circular economy principles in your supply chain operations.
+                    </p>
+                    <div class="text-xs text-vch-light-gray mb-3">
+                        <i class="fas fa-clock mr-1"></i>1.5 hours
+                    </div>
+                    <div class="block bg-gray-100 text-gray-500 px-4 py-2 rounded-lg font-semibold text-center text-sm">
+                        Coming Soon
+                    </div>
+                </div>
+            </article>
+
+            <!-- Supply Chain Finance -->
+            <article class="workshop-card bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all" data-category="finance">
+                <div class="relative">
+                    <div class="bg-gradient-to-r from-vch-yellow to-orange-500 h-32 rounded-t-xl flex items-center justify-center">
+                        <i class="fas fa-chart-line text-white text-5xl"></i>
+                    </div>
+                </div>
+                <div class="p-5">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="px-3 py-1 bg-orange-100 text-orange-700 rounded-full text-xs font-semibold">Finance</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-vch-gray mb-2">
+                        Supply Chain Finance Basics
+                    </h3>
+                    <p class="text-vch-light-gray text-sm mb-3">
+                        Understanding financing mechanisms and working capital optimization.
+                    </p>
+                    <div class="text-xs text-vch-light-gray mb-3">
+                        <i class="fas fa-clock mr-1"></i>2 hours
+                    </div>
+                    <div class="block bg-gray-100 text-gray-500 px-4 py-2 rounded-lg font-semibold text-center text-sm">
+                        Coming Soon
+                    </div>
+                </div>
+            </article>
+
+            <!-- Data Analytics -->
+            <article class="workshop-card bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all" data-category="ai">
+                <div class="relative">
+                    <div class="bg-gradient-to-r from-purple-500 to-pink-600 h-32 rounded-t-xl flex items-center justify-center">
+                        <i class="fas fa-chart-bar text-white text-5xl"></i>
+                    </div>
+                </div>
+                <div class="p-5">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-xs font-semibold">AI & Technology</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-vch-gray mb-2">
+                        Data Analytics for Supply Chain
+                    </h3>
+                    <p class="text-vch-light-gray text-sm mb-3">
+                        Leveraging data to make better supply chain decisions.
+                    </p>
+                    <div class="text-xs text-vch-light-gray mb-3">
+                        <i class="fas fa-clock mr-1"></i>2.5 hours
+                    </div>
+                    <div class="block bg-gray-100 text-gray-500 px-4 py-2 rounded-lg font-semibold text-center text-sm">
+                        Coming Soon
+                    </div>
+                </div>
+            </article>
+
+            <!-- Risk Management -->
+            <article class="workshop-card bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all" data-category="supply-chain">
+                <div class="relative">
+                    <div class="bg-gradient-to-r from-red-500 to-orange-600 h-32 rounded-t-xl flex items-center justify-center">
+                        <i class="fas fa-shield-alt text-white text-5xl"></i>
+                    </div>
+                </div>
+                <div class="p-5">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="px-3 py-1 bg-red-100 text-red-700 rounded-full text-xs font-semibold">Supply Chain</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-vch-gray mb-2">
+                        Supply Chain Risk Management
+                    </h3>
+                    <p class="text-vch-light-gray text-sm mb-3">
+                        Identifying and mitigating risks in complex supply networks.
+                    </p>
+                    <div class="text-xs text-vch-light-gray mb-3">
+                        <i class="fas fa-clock mr-1"></i>1.5 hours
+                    </div>
+                    <div class="block bg-gray-100 text-gray-500 px-4 py-2 rounded-lg font-semibold text-center text-sm">
+                        Coming Soon
+                    </div>
+                </div>
+            </article>
+
+            <!-- ESG & Reporting -->
+            <article class="workshop-card bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all" data-category="sustainability">
+                <div class="relative">
+                    <div class="bg-gradient-to-r from-teal-500 to-cyan-600 h-32 rounded-t-xl flex items-center justify-center">
+                        <i class="fas fa-file-alt text-white text-5xl"></i>
+                    </div>
+                </div>
+                <div class="p-5">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="px-3 py-1 bg-teal-100 text-teal-700 rounded-full text-xs font-semibold">Sustainability</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-vch-gray mb-2">
+                        ESG Reporting Standards
+                    </h3>
+                    <p class="text-vch-light-gray text-sm mb-3">
+                        Navigating environmental, social, and governance reporting requirements.
+                    </p>
+                    <div class="text-xs text-vch-light-gray mb-3">
+                        <i class="fas fa-clock mr-1"></i>2 hours
+                    </div>
+                    <div class="block bg-gray-100 text-gray-500 px-4 py-2 rounded-lg font-semibold text-center text-sm">
+                        Coming Soon
+                    </div>
+                </div>
+            </article>
+
+        </div>
+    </div>
+
+    <!-- Resources & Tools Section -->
+    <div class="bg-gradient-to-r from-vch-green/10 to-vch-yellow/10 rounded-2xl p-8 md:p-12 mb-12">
+        <h2 class="text-3xl font-bold text-vch-gray mb-6 flex items-center">
+            <i class="fas fa-tools text-vch-green mr-3"></i>
+            Additional Resources
+        </h2>
+        <div class="grid md:grid-cols-3 gap-6">
+            <div class="bg-white rounded-xl p-6 shadow-sm">
+                <div class="w-12 h-12 bg-vch-green/10 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-file-pdf text-vch-green text-2xl"></i>
+                </div>
+                <h3 class="font-bold text-vch-gray mb-2">Workshop Materials</h3>
+                <p class="text-sm text-vch-light-gray mb-4">
+                    Download slides, exercises, and supplementary materials for self-paced learning.
+                </p>
+                <a href="#" class="text-vch-green hover:text-green-600 font-semibold text-sm">
+                    Browse Materials →
+                </a>
+            </div>
+            <div class="bg-white rounded-xl p-6 shadow-sm">
+                <div class="w-12 h-12 bg-vch-yellow/10 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-video text-vch-yellow text-2xl"></i>
+                </div>
+                <h3 class="font-bold text-vch-gray mb-2">Video Recordings</h3>
+                <p class="text-sm text-vch-light-gray mb-4">
+                    Watch recorded sessions from past workshops and events.
+                </p>
+                <a href="#" class="text-vch-green hover:text-green-600 font-semibold text-sm">
+                    Watch Videos →
+                </a>
+            </div>
+            <div class="bg-white rounded-xl p-6 shadow-sm">
+                <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-book text-purple-600 text-2xl"></i>
+                </div>
+                <h3 class="font-bold text-vch-gray mb-2">Reading List</h3>
+                <p class="text-sm text-vch-light-gray mb-4">
+                    Curated list of articles, papers, and books for deeper learning.
+                </p>
+                <a href="#" class="text-vch-green hover:text-green-600 font-semibold text-sm">
+                    View Reading List →
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Upcoming Workshop Schedule -->
+    <div class="bg-white rounded-xl shadow-sm border p-8 mb-12">
+        <h2 class="text-2xl font-bold text-vch-gray mb-6 flex items-center">
+            <i class="fas fa-calendar-alt text-vch-green mr-3"></i>
+            Upcoming Workshop Schedule
+        </h2>
+        <div class="space-y-4">
+            <div class="flex items-start gap-6 p-4 rounded-lg hover:bg-gray-50 transition-all">
+                <div class="bg-vch-green/10 rounded-lg p-4 text-center min-w-[80px]">
+                    <div class="text-2xl font-bold text-vch-green">TBA</div>
+                    <div class="text-xs text-vch-light-gray">2025</div>
+                </div>
+                <div class="flex-1">
+                    <h3 class="font-bold text-vch-gray mb-1">AI in Supply Chain Workshop Series</h3>
+                    <p class="text-sm text-vch-light-gray mb-2">Interactive workshop covering AI applications in demand forecasting, inventory optimization, and logistics.</p>
+                    <div class="flex items-center gap-4 text-xs text-vch-light-gray">
+                        <span><i class="fas fa-clock mr-1"></i>2 hours</span>
+                        <span><i class="fas fa-map-marker-alt mr-1"></i>Location TBA</span>
+                    </div>
+                </div>
+                <button class="px-6 py-2 bg-vch-green text-white rounded-lg font-semibold hover:bg-green-600 transition-all">
+                    Register Interest
+                </button>
+            </div>
+
+            <div class="flex items-start gap-6 p-4 rounded-lg hover:bg-gray-50 transition-all">
+                <div class="bg-vch-yellow/10 rounded-lg p-4 text-center min-w-[80px]">
+                    <div class="text-2xl font-bold text-vch-yellow">TBA</div>
+                    <div class="text-xs text-vch-light-gray">2025</div>
+                </div>
+                <div class="flex-1">
+                    <h3 class="font-bold text-vch-gray mb-1">Sustainable Finance Fundamentals</h3>
+                    <p class="text-sm text-vch-light-gray mb-2">Learn about ESG integration, green financing, and sustainable supply chain finance mechanisms.</p>
+                    <div class="flex items-center gap-4 text-xs text-vch-light-gray">
+                        <span><i class="fas fa-clock mr-1"></i>1.5 hours</span>
+                        <span><i class="fas fa-map-marker-alt mr-1"></i>Location TBA</span>
+                    </div>
+                </div>
+                <button class="px-6 py-2 bg-vch-green text-white rounded-lg font-semibold hover:bg-green-600 transition-all">
+                    Register Interest
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Section -->
+    <div class="bg-gradient-to-r from-vch-green to-vch-yellow rounded-2xl p-8 md:p-12 text-white text-center">
+        <h2 class="text-3xl font-bold mb-4">Want to Host a Workshop?</h2>
+        <p class="text-lg text-white/90 mb-6 max-w-2xl mx-auto">
+            We're always looking for industry experts and academics to share their knowledge. If you'd like to host a workshop with Value Chain Hackers, get in touch!
+        </p>
+        <a href="mailto:info@valuechainhackers.xyz?subject=Workshop%20Proposal"
+           class="inline-block bg-white text-vch-green px-8 py-3 rounded-lg font-bold hover:bg-gray-100 transition-all">
+            <i class="fas fa-envelope mr-2"></i>Contact Us
+        </a>
+    </div>
+
+</div>
+
+<!-- Category Filter JavaScript -->
+<script>
+    // Category filter functionality
+    const categoryButtons = document.querySelectorAll('.category-btn');
+    const workshopCards = document.querySelectorAll('.workshop-card');
+
+    categoryButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const category = this.getAttribute('data-category');
+
+            // Update active button
+            categoryButtons.forEach(btn => {
+                btn.classList.remove('active', 'bg-vch-green', 'text-white');
+                btn.classList.add('bg-gray-100', 'text-vch-gray');
+            });
+            this.classList.remove('bg-gray-100', 'text-vch-gray');
+            this.classList.add('active', 'bg-vch-green', 'text-white');
+
+            // Filter cards
+            workshopCards.forEach(card => {
+                if (category === 'all' || card.getAttribute('data-category') === category) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    });
+
+    // Set initial active state
+    document.querySelector('.category-btn.active').classList.add('bg-vch-green', 'text-white');
+    document.querySelectorAll('.category-btn:not(.active)').forEach(btn => {
+        btn.classList.add('bg-gray-100', 'text-vch-gray');
+    });
+
+    // Register Interest buttons (placeholder functionality)
+    document.querySelectorAll('button:contains("Register Interest")').forEach(btn => {
+        btn.addEventListener('click', function() {
+            alert('Workshop registration is coming soon! Contact us at info@valuechainhackers.xyz to express your interest.');
+        });
+    });
+</script>
+
+<style>
+    .category-btn.active {
+        background-color: #7DB04D;
+        color: white;
+    }
+
+    .workshop-card {
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .workshop-card:hover {
+        transform: translateY(-4px);
+    }
+</style>
