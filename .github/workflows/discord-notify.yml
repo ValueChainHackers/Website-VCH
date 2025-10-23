@@ -1,0 +1,78 @@
+name: Discord Deployment Notification
+
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types:
+      - completed
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Get commit info
+        id: commit
+        run: |
+          COMMIT_MSG=$(git log -1 --pretty=%B)
+          COMMIT_AUTHOR=$(git log -1 --pretty=%an)
+          COMMIT_SHA=$(git log -1 --pretty=%h)
+          echo "message=${COMMIT_MSG}" >> $GITHUB_OUTPUT
+          echo "author=${COMMIT_AUTHOR}" >> $GITHUB_OUTPUT
+          echo "sha=${COMMIT_SHA}" >> $GITHUB_OUTPUT
+
+      - name: Send Discord notification
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK" ]; then
+            echo "⚠️  DISCORD_WEBHOOK secret not configured. Skipping notification."
+            echo "To enable Discord notifications:"
+            echo "1. Create webhook in Discord Server Settings → Integrations → Webhooks"
+            echo "2. Add webhook URL to GitHub repository Settings → Secrets → DISCORD_WEBHOOK"
+            exit 0
+          fi
+
+          curl -H "Content-Type: application/json" \
+          -X POST \
+          -d "{
+            \"embeds\": [{
+              \"title\": \"🚀 Website Deployed Successfully\",
+              \"description\": \"The VCH website has been updated and deployed to production.\",
+              \"color\": 8245565,
+              \"fields\": [
+                {
+                  \"name\": \"📝 Commit\",
+                  \"value\": \"[\`${{ steps.commit.outputs.sha }}\`](https://github.com/${{ github.repository }}/commit/${{ github.sha }})\",
+                  \"inline\": true
+                },
+                {
+                  \"name\": \"👤 Author\",
+                  \"value\": \"${{ steps.commit.outputs.author }}\",
+                  \"inline\": true
+                },
+                {
+                  \"name\": \"🌐 Website\",
+                  \"value\": \"[valuechainhackers.xyz](https://valuechainhackers.xyz)\",
+                  \"inline\": false
+                },
+                {
+                  \"name\": \"💬 Message\",
+                  \"value\": \"${{ steps.commit.outputs.message }}\",
+                  \"inline\": false
+                }
+              ],
+              \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%S.000Z)\",
+              \"footer\": {
+                \"text\": \"VCH Deployment Bot\",
+                \"icon_url\": \"https://valuechainhackers.xyz/assets/images/vch-logo.png\"
+              }
+            }],
+            \"username\": \"VCH Bot\",
+            \"avatar_url\": \"https://valuechainhackers.xyz/assets/images/vch-logo.png\"
+          }" \
+          $DISCORD_WEBHOOK
