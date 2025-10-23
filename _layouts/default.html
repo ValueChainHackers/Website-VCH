@@ -126,12 +126,10 @@
     <!-- Navigation Bar -->
     <nav class="bg-white shadow-sm py-4 sticky top-0 z-50">
         <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
-            <div class="flex items-center">
-                <!-- Main Logo -->
-                <img src="{{ '/assets/images/vch-logo.png' | relative_url }}" alt="VCH Logo" class="h-10 w-10 mr-3" width="40" height="40" loading="eager">
-                <div class="text-2xl font-bold text-vch-green">VCH</div>
-                <div class="ml-2 text-lg font-semibold">Value Chain Hackers</div>
-            </div>
+            <a href="/" class="flex items-center hover:opacity-80 transition-opacity">
+                <!-- Main Logo - Single Image -->
+                <img src="{{ '/assets/images/vch-logo.png' | relative_url }}" alt="Value Chain Hackers" class="h-12" width="auto" height="48" loading="eager">
+            </a>
             
             <!-- Desktop Navigation -->
             <div class="hidden md:flex space-x-8">

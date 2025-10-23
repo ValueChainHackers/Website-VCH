@@ -1,655 +1,450 @@
-# Value Chain Hackers Website - Task List & Improvements
+# VCH Website - Current Tasks & Issues
 
-**Total GitHub Issues:** 26 issues (14 open, 12 closed)
-**All open issues created by:** Maxime Bouillon (MaxBouillon)
-
----
-
-## PRIORITY 1: Maxime's Open Issues (MUST DO FIRST)
-
-### Issue #30: Change website URL ⭐ PARTIALLY DONE
-**Created:** 2025-10-06 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/30)
-
-- [x] CNAME file is correct: `valuechainhackers.xyz`
-- [ ] **STILL NEEDED:** Fix baseurl in `_config.yml`
-  - Current: `baseurl: "/Website-VCH"`
-  - Should be: `baseurl: ""`
-  - This is causing asset loading issues with the custom domain
-- **Files to update:** [_config.yml](/_config.yml) line 6
+**Last Updated:** October 23, 2025
+**Status:** Active Development
 
 ---
 
-### Issue #29: Update team information ⭐
-**Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/29)
+## 📊 Quick Status Dashboard
 
-- [ ] Replace placeholder team members with real VCH team:
-  - **Rea Vaz** - Image: `rea.jpg` ✅
-  - **Michiel Steeman** - Image: `michiel.png` ✅
-  - **Maxime Bouillon** - Image: `maxime.jpg` ✅
-  - **Christiaan Verhoef** - Image: `christiaan.jpeg` ✅
+| Priority | Issues | Status | Est. Time |
+|----------|--------|--------|-----------|
+| 🔴 CRITICAL | 6 | In Progress | 12 hours |
+| 🟡 HIGH | 12 | Not Started | 20 hours |
+| 🟢 MEDIUM | 9 | Not Started | 15 hours |
+| 🔵 LOW | 3 | Not Started | 5 hours |
 
-- **Files to update:**
-  - [_layouts/default.html](/_layouts/default.html) (lines 100-125)
-  - [about.html](/about.html) (lines 170-226)
-- **Current placeholders to remove:** Dr. Sarah Johnson, Prof. Mark van der Berg, Lisa Chen, Alex Rodriguez
-- **Images available:** All team photos exist in [assets/images/](/assets/images/) in different formats
-- **Note:** Hendryk Dittfeld also has an image (`hendryk Dittfeld.jpg`) if needed
+**Today's Quick Wins Completed:** 5/5 ✅
+**This Week's Goal:** Fix top 10 critical/high issues
 
 ---
 
-### Issue #28: Update partners section ⭐ COMPLETED
-**Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/28)
+## 🔗 Navigation Links
 
-- [x] Update partners to:
-  - SCF lectorate ✅
-  - SCF community ✅
-  - ZWINC ✅
-- [x] Created SVG placeholder logos for all partners
-- **Files updated:**
-  - [_layouts/default.html](/_layouts/default.html) (lines 88-96)
-- **Logos created:**
-  - `scf-lectorate-logo.svg`
-  - `scf-community-logo.svg`
-  - `zwinc-logo.svg`
-- **Note:** SVG placeholders created with VCH branding colors. Replace with official logos if/when available.
+### Documentation Files:
+- **[ALL_ISSUES_TRACKER.md](ALL_ISSUES_TRACKER.md)** - Complete 30-issue tracker with priorities
+- **[WEBSITE_ANALYSIS_REPORT.md](WEBSITE_ANALYSIS_REPORT.md)** - 60+ page comprehensive analysis
+- **[LIGHTHOUSE_ISSUES.md](LIGHTHOUSE_ISSUES.md)** - 14 Lighthouse performance/accessibility fixes
+- **[QUICK_WINS_COMPLETED.md](QUICK_WINS_COMPLETED.md)** - Today's completed fixes
+- **[COMPLETED_UPDATES.md](COMPLETED_UPDATES.md)** - Historical changelog
+
+### Implementation Guides:
+- **[PROJECT_PAGES_GUIDE.md](PROJECT_PAGES_GUIDE.md)** - How to add/update project pages
+- **[DNS_SUBDOMAIN_SETUP.md](DNS_SUBDOMAIN_SETUP.md)** - DNS configuration for project subdomains
+- **[IMPROVEMENTS_RECOMMENDATIONS.md](IMPROVEMENTS_RECOMMENDATIONS.md)** - Future enhancement ideas
 
 ---
 
-### Issue #27: Partnership section improvements ⭐
-**Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/27)
+## 🔴 CURRENT CRITICAL ISSUES (Do First)
 
-- [ ] Change "Industry Partnerships" to "Business Partnerships"
-- [ ] Add "Reach out to us" before mail address
-- **Files to update:** [index.html](/index.html) (lines 336-380)
+### Issue #1: Largest Contentful Paint (LCP) Too Slow ⚡
+**Priority:** 🔴 CRITICAL
+**Current:** 5,220ms | **Target:** <2,500ms
+**Impact:** Users wait 5+ seconds to see content
+**Time Estimate:** 2 hours
+**Reference:** [LIGHTHOUSE_ISSUES.md#issue-lh-1](LIGHTHOUSE_ISSUES.md#issue-lh-1) | [ALL_ISSUES_TRACKER.md#issue-1](ALL_ISSUES_TRACKER.md#issue-1)
 
----
+**Next Actions:**
+1. Run Lighthouse to identify LCP element
+2. If image: convert to WebP, add preload
+3. If text: inline critical CSS
+4. Test LCP < 2.5s
 
-### Issue #26: Events & workshop section ⭐
-**Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/26)
-
-- [ ] Update featured event to **October 30th** (next event)
-- [ ] Add AI workshops (Christiaan's)
-- [ ] Add final event (online for external)
-- [ ] **Fix event registration links** - currently go nowhere (#)
-  - **Options:**
-    - A) Meetup.com links (recommended - easy to update later)
-    - B) Google Forms
-    - C) Eventbrite
-    - D) Direct mailto: links to info@valuechainhackers.org
-- **Files to update:** [index.html](/index.html) (lines 183-272)
-- **Current issue:** Events are outdated (March 2024, April 2024)
-- **EVENT DATE:** October 30, 2025
+**Definition of Done:**
+- [ ] LCP < 2.5 seconds
+- [ ] Lighthouse LCP score > 0.9
+- [ ] Performance score +10 points
 
 ---
 
-### NEW: Fix Icon Rendering 🔧
-**Priority:** High - Visual issue affecting user experience
+### Issue #4: Missing Student Project Information 📄
+**Priority:** 🔴 CRITICAL
+**Status:** 12 teams have "TBD" placeholders
+**Impact:** Students' work invisible, no portfolio value
+**Time Estimate:** 3 hours (collection) + 1 hour (implementation)
+**Reference:** [ALL_ISSUES_TRACKER.md#issue-4](ALL_ISSUES_TRACKER.md#issue-4)
 
-- [ ] Icons aren't rendering properly on the site
-- **Current implementation:** Using emoji characters (💡, 👥, ⚡, 🔬, 🤝, 🌱, etc.)
-- **Files affected:**
-  - [index.html](/index.html) (lines 42, 48, 56, and throughout)
-  - [about.html](/about.html)
-- **Recommended solutions:**
-  - A) **Font Awesome** (free CDN, most reliable)
-    - Add to `<head>`: `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">`
-    - Replace emoji with: `<i class="fas fa-lightbulb"></i>`, etc.
-  - B) **Bootstrap Icons** (lightweight)
-  - C) **Custom SVG icons** (best performance but more work)
-  - D) **Fix emoji rendering** by ensuring UTF-8 charset and proper fonts
+**Next Actions:**
+1. Email all 12 teams with collection template
+2. Gather: names, descriptions, photos, GitHub links
+3. Update 8 project files in `_projects/`
+4. Replace all "TBD" placeholders
 
----
+**Files to Update:**
+- `_projects/lemonti.md`
+- `_projects/textile-twicely.md`
+- `_projects/cacao-guide.md`
+- `_projects/bakery-network.md`
+- `_projects/cacao-chain.md`
+- `_projects/beer-bottle.md`
+- `_projects/windmill.md`
+- `_projects/phone-battery.md`
 
-### NEW: Fix Placeholder Research Links 📄
-**Priority:** High - Broken user journey
-
-- [ ] Research project links currently lead nowhere (#)
-- [ ] "View on GitHub", "Read Paper", "Download PDF" buttons are broken
-- **Files to update:** [index.html](/index.html) (lines 121, 132, 143, 154, 165, 176)
-- **Recommended solutions:**
-  - **Option A:** Create placeholder documents in `/assets/documents/`
-    - Example: `sample-research-paper.pdf`
-    - Example: `project-template.docx`
-    - Example: `presentation-template.pptx`
-  - **Option B:** Link to GitHub repos under ValueChainHackers org
-    - Real repos when available
-    - Template repo for placeholders
-  - **Option C:** Remove links until real content is ready
-  - **Option D:** Show "Coming Soon" modal/message instead of link
+**Definition of Done:**
+- [ ] All 12 teams have complete info
+- [ ] Zero "TBD" placeholders remain
+- [ ] Each project has: team names, description, photo, outcome
+- [ ] Students can share pages as portfolio
 
 ---
 
-### Issue #25: Update projects with real names ⭐ PARTIALLY DONE
-**Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/25)
+### Issue #5: LinkedIn Feed is Static 📱
+**Priority:** 🔴 CRITICAL
+**Status:** 3 hardcoded example posts (will become outdated)
+**Impact:** Feed becomes stale, looks abandoned
+**Time Estimate:** 15 minutes (manual) OR 4 hours (automation)
+**Reference:** [ALL_ISSUES_TRACKER.md#issue-5](ALL_ISSUES_TRACKER.md#issue-5)
 
-- [x] Replace placeholder project names with real VCH project names
-- [ ] **Replace generic descriptions with actual project descriptions**
-  - Currently: Generic descriptions written based on project names only
-  - Need: Real descriptions from project teams/documentation
-- [x] **Add subdomain links for each project**
-  - ✅ Updated all projects to use subdomains (e.g., beerbottle.valuechainhackers.xyz)
-  - Project subdomains created:
-    - lemonti.valuechainhackers.xyz
-    - textile.valuechainhackers.xyz
-    - cacao.valuechainhackers.xyz
-    - bakery.valuechainhackers.xyz
-    - cacaochain.valuechainhackers.xyz
-    - beerbottle.valuechainhackers.xyz
-    - windmill.valuechainhackers.xyz
-    - phonebattery.valuechainhackers.xyz
-- [ ] **Configure DNS for project subdomains**
-  - Need to add CNAME records or A records for each subdomain
-  - Point to appropriate hosting (GitHub Pages or other)
-- [ ] **Add real PDF/document links when ready**
-  - Currently: "Read Paper", "Download PDF", "View on GitHub" all link to org page
-  - Need: Actual documents, papers, or reports
-- [ ] **Categorize projects more accurately**
-  - Currently: Guessed at Student Project / Research Output / Partner Collaboration
-  - Need: Proper categorization confirmed by Maxime
+**Next Actions:**
+1. Go to https://www.linkedin.com/company/valuechainhackers/posts/
+2. Copy 3 most recent real posts
+3. Update `index.html` lines 390-438
+4. Set monthly reminder (1st of month)
 
-**Current projects in system:**
+**Current Placeholder Posts:**
+- "Fall 2025 cohort is underway..."
+- "Just wrapped up AI workshop..."
+- "Congrats to Twicely..."
 
-**Completed projects:**
-- CRM Lemonti (currently: Student Project)
-- Textile Twicely (currently: Student Project)
-- Cacao Guide (currently: Research Output)
-
-**Ongoing projects:**
-- Bakery Network (currently: Partner Collaboration)
-- Cacao Chain Improvement (currently: Student Project)
-- Beer Bottle Waste Reduction (currently: Partner Collaboration)
-- Windmill Gearbox Niobium (currently: Research Output)
-- Phone Battery Cobalt (currently: Research Output)
-
-- **Files to update:** [index.html](/index.html) (lines 107-196)
-- **Consider:** Moving to Jekyll collections for easier management
+**Definition of Done:**
+- [ ] Real posts from VCH LinkedIn displayed
+- [ ] Links point to actual post URLs
+- [ ] Calendar reminder set for monthly updates
+- [ ] Process documented for future
 
 ---
 
-### Issue #24: Switch impact and research elements ⭐
-**Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/24)
+### Issue #6: No Discord Integration 💬
+**Priority:** 🔴 CRITICAL
+**Status:** Link exists but no visible presence
+**Impact:** Community invisible, missed engagement
+**Time Estimate:** 1 hour
+**Reference:** [ALL_ISSUES_TRACKER.md#issue-6](ALL_ISSUES_TRACKER.md#issue-6)
 
-- [ ] Make "Research" the first element (currently "Research" is between "Collaboration" and "Impact")
-- [ ] Make all three circle elements the same color (yellow)
-- **Files to update:** [index.html](/index.html) (lines 39-61)
-- **Current colors:** Green and Yellow mixed
+**Next Actions:**
+1. Enable Discord Widget in server settings
+2. Get Server ID
+3. Add widget iframe to `index.html`
+4. Add member count display
 
----
+**Implementation:**
+Add new section after LinkedIn feed in `index.html`:
+```html
+<section class="section-spacing bg-white">
+    <!-- Discord widget code -->
+    <iframe src="https://discord.com/widget?id=YOUR_SERVER_ID&theme=light"
+            width="350" height="500"></iframe>
+</section>
+```
 
-### Issue #23: Make statistics accurate ⭐
-**Created:** 2025-10-03 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/23)
-
-- [ ] Update statistics to accurate numbers:
-  - ~~50+ Projects Completed~~ → **12 teams**
-  - ~~25+ Industry Partners~~ → **43 students**
-  - ~~200+ Students Involved~~ → **9 businesses**
-  - ~~15+ Countries Represented~~ → **REMOVE**
-- **Files to update:**
-  - [index.html](/index.html) (lines 64-83)
-  - [about.html](/about.html) (lines 33-52)
-
----
-
-### Issue #22: Uniform colors ⭐ COMPLETED
-**Created:** 2025-10-02 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/22)
-
-- [x] Reviewed color usage across entire site
-- [x] Confirmed uniform color scheme:
-  - **Green (#7DB04D)**: Primary brand color, buttons, interactive elements, accents
-  - **Yellow (#F1C144)**: Secondary color, status badges, highlights
-  - **Orange (#F4A300)**: "Ongoing" status badges only
-  - **Gray/White**: Text and backgrounds
-- **Analysis:** Color scheme is already uniform and follows good design principles
-- **Files reviewed:** All HTML files, consistent use of VCH color palette
-- **Related to:** Issues #19 (closed), #24 (completed)
+**Definition of Done:**
+- [ ] Discord widget shows online members
+- [ ] "Join Community" section visible
+- [ ] Member stats displayed
+- [ ] Works on mobile and desktop
 
 ---
 
-## Additional Tasks
+## 🟡 HIGH PRIORITY ISSUES (Do This Week)
 
-### Task #0: Update Project Detail Pages 📄 NEW!
-**Priority:** High
-**Status:** Infrastructure Complete - Content Needed
-**Created:** 2025-10-22
+### Issue #7: Eliminate Render-Blocking Resources ⚡
+**Priority:** 🟡 HIGH
+**Savings:** 1,180ms
+**Time Estimate:** 3 hours
+**Reference:** [LIGHTHOUSE_ISSUES.md#issue-lh-1](LIGHTHOUSE_ISSUES.md#issue-lh-1)
 
-Each project now has a dedicated detail page with comprehensive sections.
+**Problem:** Tailwind CDN and Font Awesome block initial render
 
-**What's been created:**
-- [x] Project detail page template (`_layouts/project.html`)
-- [x] 8 individual project pages in `_projects/` directory
-- [x] Updated project cards with "Website" + "Learn More" buttons
-- [x] Complete documentation in [PROJECT_PAGES_GUIDE.md](/PROJECT_PAGES_GUIDE.md)
-
-**Project pages created:**
-1. `/projects/lemonti/` - CRM Lemonti (example with full content)
-2. `/projects/textile-twicely/` - Textile Twicely
-3. `/projects/cacao-guide/` - Cacao Guide
-4. `/projects/bakery-network/` - Bakery Network
-5. `/projects/cacao-chain/` - Cacao Chain Improvement
-6. `/projects/beer-bottle/` - Beer Bottle Waste Reduction
-7. `/projects/windmill/` - Windmill Gearbox Niobium
-8. `/projects/phone-battery/` - Phone Battery Cobalt
-
-**Each project page includes sections for:**
-- ✅ Project overview and description
-- ✅ Presentation (embed or download)
-- ✅ Documentation (PDFs, reports)
-- ✅ Live demo
-- ✅ LinkedIn posts/updates
-- ✅ Background information
-- ✅ Project roadmap with milestones
-- ✅ GitHub and website links
-- ✅ Team info, duration, partners, tags
-
-**What's still needed:**
-- [ ] Gather real content from project teams
-- [ ] Replace "TBD" placeholders with actual team names
-- [ ] Add real GitHub repository URLs
-- [ ] Upload actual documentation PDFs
-- [ ] Add LinkedIn post URLs
-- [ ] Write detailed project descriptions
-- [ ] Add presentation files
-- [ ] Create/link demos where applicable
-
-**Reference:** See [PROJECT_PAGES_GUIDE.md](/PROJECT_PAGES_GUIDE.md) for complete instructions
+**Next Actions:**
+1. Self-host Tailwind with build process
+2. Preload Font Awesome
+3. Inline critical CSS
 
 ---
 
-### Task #1: Configure DNS for Project Subdomains 🌐
-**Priority:** Medium
-**Status:** Pending
+### Issue #8: Convert Images to WebP 🖼️
+**Priority:** 🟡 HIGH
+**Savings:** 755 KiB
+**Time Estimate:** 2 hours
+**Reference:** [LIGHTHOUSE_ISSUES.md#issue-lh-2](LIGHTHOUSE_ISSUES.md#issue-lh-2)
 
-All project links now use subdomains (e.g., `lemonti.valuechainhackers.xyz`). DNS configuration needed.
-
-**Subdomains to configure:**
-- lemonti.valuechainhackers.xyz
-- textile.valuechainhackers.xyz
-- cacao.valuechainhackers.xyz
-- bakery.valuechainhackers.xyz
-- cacaochain.valuechainhackers.xyz
-- beerbottle.valuechainhackers.xyz
-- windmill.valuechainhackers.xyz
-- phonebattery.valuechainhackers.xyz
-
-**Action required:**
-- [ ] Add DNS CNAME records for each subdomain
-- [ ] Point to appropriate hosting (GitHub Pages or other)
-- [ ] Test all subdomain links
-- [ ] Enable HTTPS for all subdomains
-
-**Reference:** See [DNS_SUBDOMAIN_SETUP.md](/DNS_SUBDOMAIN_SETUP.md) for detailed instructions
+**Next Actions:**
+```bash
+cd assets/images
+for img in *.{jpg,jpeg,png}; do
+  cwebp -q 85 "$img" -o "${img%.*}.webp"
+done
+```
 
 ---
 
-### Task #2: Gather Real Project Details 📝
-**Priority:** Medium
-**Status:** Pending
+### Issue #9: Properly Size Images 📐
+**Priority:** 🟡 HIGH
+**Savings:** 824 KiB
+**Time Estimate:** 2 hours
+**Reference:** [LIGHTHOUSE_ISSUES.md#issue-lh-3](LIGHTHOUSE_ISSUES.md#issue-lh-3)
 
-Replace generic project descriptions with real information from project teams.
-
-**For each project, gather:**
-- [ ] Detailed project description (2-3 sentences)
-- [ ] GitHub repository URL (if available)
-- [ ] PDF/document links (research papers, reports, presentations)
-- [ ] Correct categorization (Student/Research/Partner)
-- [ ] Project team members
-- [ ] Project dates/timeline
-- [ ] Key outcomes/results
-
-**Projects needing updates:**
-1. CRM Lemonti
-2. Textile Twicely
-3. Cacao Guide
-4. Bakery Network
-5. Cacao Chain Improvement
-6. Beer Bottle Waste Reduction
-7. Windmill Gearbox Niobium
-8. Phone Battery Cobalt
-
-**Action required:**
-- [ ] Contact Maxime for project details
-- [ ] Interview project teams
-- [ ] Collect documentation
-- [ ] Update [index.html](/index.html) with real information
+**Next Actions:**
+1. Identify all image display sizes
+2. Resize to 2x display size maximum
+3. Implement responsive srcset
 
 ---
 
-### Issue #21: New "Why" section text ⭐
-**Created:** 2025-10-02 | [View Issue](https://github.com/ValueChainHackers/Website-VCH/issues/21)
+### Issue #11: Event Registration System 📅
+**Priority:** 🟡 HIGH
+**Status:** Using mailto: links (clunky)
+**Time Estimate:** 2 hours
+**Reference:** [ALL_ISSUES_TRACKER.md#issue-11](ALL_ISSUES_TRACKER.md#issue-11)
 
-- [ ] Replace current "Our Why" text with:
-
-> "Supply chains shape and impact everything from climate change to social equity. They cause problems which are complex, fragmented, and too urgent to ignore. We believe in giving teams of enthusiasts and innovators the structure, support, and collaboration they need to design solutions that actually work: impactful, viable, and scalable answers to real-world challenges."
-
-- **Files to update:** [index.html](/index.html) (lines 30-37)
-
----
-
-## Recently Completed Issues ✅
-
-### Issue #20: New paragraph (CLOSED 2025-10-13)
-**Implemented:** "We are a community of communities bringing together industry partners, enthusiasts, and researchers, collaborating to solve real-world supply chain challenges through impactful innovative research."
-
-### Issue #19: Make button colors uniform (CLOSED 2025-10-13)
-**Implemented:** All buttons now yellow
-
-### Issue #18: Change website header (CLOSED 2025-10-13)
-**Implemented:** "Value Chain Hackers: From insight to impact"
-
-### Issue #17: Make tab name simpler (CLOSED 2025-10-13)
-**Implemented:** Changed to "Value Chain Hackers"
+**Recommended Solution:** Discord Events + Google Forms
 
 ---
 
-## High Priority Tasks
-
-### 1. Content Accuracy & Alignment
-- [ ] **Update team information with actual VCH members**
-  - Current: Placeholder names (Dr. Sarah Johnson, Prof. Mark van der Berg, Lisa Chen, Alex Rodriguez)
-  - Required: Real team members from README (Michiel Steeman, Maxime Bouillon, Rea Vaz, Christiaan Verhoef, Hendryk Dittfeld, Bart Ras, Liesbeth Rijsdijk)
-  - Files to update: [_layouts/default.html](/_layouts/default.html), [about.html](/about.html)
-
-- [ ] **Replace placeholder images**
-  - Team member photos need to be real team photos
-  - Location: [assets/images/team/](/assets/images/team/)
-  - Current files: member-1.jpg, member-2.jpg, member-3.jpg, member-4.jpg
-
-- [ ] **Add Theory U methodology section**
-  - README mentions Theory U as core methodology but not visible on website
-  - Add to [about.html](/about.html) as mentioned in README section 5.2
-  - Include timeline visual showing 7 phases
-
-- [ ] **Update partner logos**
-  - Verify evofenedex logo spelling (currently "evofenedx-logo.png")
-  - Ensure all partner logos are current and properly sized
-
-### 2. Projects & Research Content
-
-- [ ] **Implement dynamic project data structure**
-  - Currently hardcoded in HTML
-  - Move to Jekyll collections (already configured in _config.yml)
-  - Create `_projects` directory with individual markdown files
-  - Add frontmatter: title, category, status, description, link, tags
-
-- [ ] **Connect projects to actual GitHub repositories**
-  - Replace placeholder "#" links with real GitHub URLs
-  - Add links to actual research outputs (PDFs, reports)
-  - Ensure all links open in new tabs with `target="_blank" rel="noopener noreferrer"`
-
-- [ ] **Add project filtering by status AND category**
-  - Current: Filter works but projects are static
-  - Add date-based sorting (most recent first)
-
-### 3. Events & Calendar
-
-- [ ] **Update events with real dates and information**
-  - Current events are outdated (March 2024, April 2024)
-  - Add actual upcoming VCH events
-  - Consider integrating with calendar API or Google Calendar
-
-- [ ] **Implement event registration system**
-  - Current "Register" buttons go nowhere
-  - Options: Google Forms, Eventbrite integration, or custom form
-
-- [ ] **Add past events archive section**
-  - Show completed events with recaps/photos
-  - Add downloadable materials from workshops
-
-### 4. Contact & Community
-
-- [ ] **Implement functional contact form**
-  - Current form shows alert() - not functional
-  - Options:
-    - Formspree integration (free tier available)
-    - Netlify Forms (if migrating from GitHub Pages)
-    - Custom backend with GitHub Actions
-  - Send to info@valuechainhackers.org
-
-- [ ] **Verify social media links**
-  - Discord: https://discord.gg/uVKrPbKFF3
-  - GitHub: https://github.com/ValueChainHackers
-  - LinkedIn: https://www.linkedin.com/company/valuechainhackers/
-  - Test all links are working
-
-- [ ] **Create newsletter signup functionality**
-  - Footer links to /newsletter but page doesn't exist
-  - Options: Mailchimp, Substack, or custom solution
-
-### 5. Technical Improvements
-
-- [ ] **Fix baseurl configuration issue**
-  - _config.yml has: `baseurl: "/Website-VCH"`
-  - CNAME file points to: valuechainhackers.xyz
-  - When using custom domain, baseurl should be empty ""
-  - This affects asset loading and navigation
-
-- [ ] **Remove suspicious script from default.html**
-  - Line 210: Cloudflare challenge script looks suspicious
-  - Verify this is intentional or remove
-
-- [ ] **Add missing pages**
-  - /privacy (Privacy Policy)
-  - /terms (Terms of Service)
-  - /newsletter (Newsletter signup)
-  - Create these or remove footer links
-
-- [ ] **Implement SEO improvements**
-  - Add proper meta descriptions to all pages
-  - Add Open Graph tags for social sharing
-  - Generate sitemap.xml (plugin already configured)
-  - Add robots.txt file
-
-- [ ] **Performance optimization**
-  - Currently loading Tailwind from CDN (3.x)
-  - Consider using PostCSS build process for smaller bundle
-  - Optimize images (compress team photos, partner logos)
-  - Add lazy loading for images
-
-### 6. Accessibility & UX
-
-- [ ] **Improve mobile navigation**
-  - Test mobile menu on various devices
-  - Ensure all sections are accessible on mobile
-
-- [ ] **Add skip navigation link**
-  - For keyboard/screen reader users
-  - Jump to main content
-
-- [ ] **Improve form accessibility**
-  - Add proper ARIA labels
-  - Ensure error messages are accessible
-  - Add required field indicators
-
-- [ ] **Color contrast audit**
-  - Verify all text meets WCAG AA standards
-  - Check vch-light-gray (#666666) on white backgrounds
-
-### 7. Content Strategy
-
-- [ ] **Add "How to Get Involved" section**
-  - Clear pathways for students
-  - Clear pathways for researchers
-  - Clear pathways for industry partners
-
-- [ ] **Create case studies from completed projects**
-  - Long-form content for major collaborations
-  - Include methodology, results, impact
-
-- [ ] **Add blog/news section**
-  - Updates on ongoing research
-  - Student project highlights
-  - Industry insights
-
-- [ ] **Implement search functionality**
-  - Search across projects, events, team members
-  - Consider using Lunr.js (client-side) or Algolia
-
-## Medium Priority Tasks
-
-### 8. Design & Branding
-
-- [ ] **Create consistent icon system**
-  - Currently using emoji (💡, 👥, ⚡)
-  - Consider custom SVG icons or icon font
-  - Maintain accessibility with proper alt text/aria-labels
-
-- [ ] **Add loading states for dynamic content**
-  - Project filtering animation
-  - Form submission feedback
-
-- [ ] **Create 404 error page**
-  - Custom branded page
-  - Helpful navigation back to main sections
-
-### 9. Analytics & Tracking
-
-- [ ] **Implement privacy-friendly analytics**
-  - Options: Plausible, Fathom, or Google Analytics with consent
-  - Track: page views, event registrations, project views
-  - Align with privacy policy
-
-- [ ] **Add conversion tracking**
-  - Discord joins from website
-  - Contact form submissions
-  - Event registrations
-
-### 10. Integration & Automation
-
-- [ ] **GitHub Actions improvements**
-  - Add build status badge to README
-  - Add automated testing (HTML validation, link checking)
-  - Add deployment notifications (Discord webhook)
-
-- [ ] **Connect to GitHub API**
-  - Automatically display latest repositories from ValueChainHackers org
-  - Show contribution statistics
-  - Display recent commits
-
-- [ ] **Add RSS feed**
-  - For blog/news section (when implemented)
-  - jekyll-feed plugin already configured
-
-## Low Priority / Future Enhancements
-
-### 11. Advanced Features
-
-- [ ] **Multi-language support**
-  - README mentions English + Dutch
-  - Implement i18n with Jekyll
-  - Add language switcher
-
-- [ ] **Interactive project dashboards**
-  - README mentions Quarto or Supabase integration
-  - Visualize project data, timelines, impact metrics
-
-- [ ] **Student showcase pages**
-  - Semester-based cohort pages
-  - Individual student project portfolios
-
-- [ ] **OpenWebUI integration**
-  - README mentions this is deferred
-  - AI-assisted research navigation
-  - Chatbot for common questions
-
-- [ ] **Interactive Theory U visualization**
-  - SVG animation showing the process
-  - Click through different phases
-  - Link to projects in each phase
-
-- [ ] **Testimonials section**
-  - From students, partners, researchers
-  - Video testimonials
-
-- [ ] **Resources library**
-  - Downloadable research frameworks
-  - Templates for partner collaborations
-  - Educational materials
-
-### 12. Community Features
-
-- [ ] **Discord widget**
-  - Show online members count
-  - Recent activity feed
-  - Direct chat embed
-
-- [ ] **GitHub activity feed**
-  - Recent commits across VCH repos
-  - Top contributors
-
-- [ ] **Event calendar widget**
-  - Embed Google Calendar
-  - iCal subscription link
-
-## Infrastructure & DevOps
-
-### 13. Hosting & Domain
-
-- [ ] **Verify DNS configuration**
-  - CNAME file points to valuechainhackers.xyz
-  - Ensure proper A/AAAA records configured
-  - Add www subdomain redirect
-
-- [ ] **Setup CDN**
-  - GitHub Pages includes CDN but verify performance
-  - Consider Cloudflare for additional optimization
-
-- [ ] **Implement staging environment**
-  - Separate branch for testing changes
-  - Preview deployments before production
-
-### 14. Documentation
-
-- [ ] **Create contribution guidelines**
-  - How to add new projects
-  - How to update team information
-  - Code style guide
-
-- [ ] **Document update workflow**
-  - Monthly update process (Christiaan + Maxime)
-  - Content approval process
-  - Image requirements
-
-- [ ] **Create content templates**
-  - Project submission template
-  - Event announcement template
-  - News/blog post template
-
-## Quality Assurance
-
-### 15. Testing
-
-- [ ] **Cross-browser testing**
-  - Chrome, Firefox, Safari, Edge
-  - Mobile browsers (iOS Safari, Chrome Android)
-
-- [ ] **Accessibility testing**
-  - Screen reader testing (NVDA, JAWS, VoiceOver)
-  - Keyboard navigation testing
-  - Color blindness simulation
-
-- [ ] **Performance testing**
-  - Google PageSpeed Insights
-  - WebPageTest
-  - Lighthouse audit
-
-- [ ] **Link checking**
-  - Automated broken link detection
-  - Regular quarterly checks
-
-## Notes for Future Additions
-
-- Keep this document updated as you complete tasks
-- Add new items as they are identified
-- Mark items with dates when completed
-- Use issue tracker for tracking individual tasks
-- Prioritize based on:
-  1. Content accuracy (High Priority)
-  2. Functionality (High Priority)
-  3. User experience (Medium Priority)
-  4. Nice-to-have features (Low Priority)
+### Issue #14: Contact Form Non-Functional ✉️
+**Priority:** 🟡 HIGH
+**Status:** Shows alert, doesn't send email
+**Time Estimate:** 1 hour
+**Reference:** [ALL_ISSUES_TRACKER.md#issue-14](ALL_ISSUES_TRACKER.md#issue-14)
+
+**Solution:** Use EmailJS (free tier: 200 emails/month)
 
 ---
 
-**Document Created:** 2025-10-22
-**Last Updated:** 2025-10-22
-**Maintained By:** Christiaan Verhoef & Contributors
+### Issue #16: Discord Webhook for Deployments 🤖
+**Priority:** 🟡 HIGH
+**Time Estimate:** 30 minutes
+**Reference:** [ALL_ISSUES_TRACKER.md#issue-16](ALL_ISSUES_TRACKER.md#issue-16)
+
+**Next Actions:**
+1. Create Discord webhook
+2. Add to GitHub secrets
+3. Create `.github/workflows/discord-notify.yml`
+
+---
+
+## ✅ COMPLETED TODAY (October 23, 2025)
+
+### Quick Wins Completed (5 issues in 2 hours):
+- ✅ **Issue #2:** Added aria-labels to mobile menu button
+- ✅ **Issue #10:** Added lazy loading to 15+ images (saves 471 KiB)
+- ✅ **Issue #20:** Added width/height to all images (prevents layout shift)
+- ✅ **Issue #15:** Fixed 6 email addresses (.org → .xyz)
+- ✅ **Issue #3:** Added vch-green-dark color for accessibility
+
+**Reference:** [QUICK_WINS_COMPLETED.md](QUICK_WINS_COMPLETED.md)
+
+---
+
+## 🟢 MEDIUM PRIORITY (Next Week)
+
+See [ALL_ISSUES_TRACKER.md](ALL_ISSUES_TRACKER.md) for complete list:
+- Issue #17: Add width/height to remaining images
+- Issue #18: Reduce unused CSS
+- Issue #19: Fix browser console errors
+- Issue #21: Configure project subdomain DNS
+- Issue #22: Create missing legal pages
+- Issue #23: Discord roles system
+- Issue #24: Resource library on Discord
+
+---
+
+## 🔵 LOW PRIORITY (Future)
+
+See [ALL_ISSUES_TRACKER.md](ALL_ISSUES_TRACKER.md) for complete list:
+- Issue #25: Optimize cache lifetimes
+- Issue #26: Reduce JS execution time
+- Issue #27: Font display optimization
+- Issue #28: Add blog/news section
+- Issue #29: Create alumni network
+- Issue #30: Implement analytics
+
+---
+
+## 📅 This Week's Schedule
+
+### Monday-Tuesday (Oct 23-24):
+- [x] Complete quick wins (Issues #2, #3, #10, #15, #20)
+- [ ] Fix Issue #1: LCP (2 hours)
+- [ ] Fix Issue #6: Discord widget (1 hour)
+- [ ] Update Issue #5: LinkedIn feed (15 min)
+
+### Wednesday-Thursday (Oct 25-26):
+- [ ] Issue #7: Render-blocking resources (3 hours)
+- [ ] Issue #8: Convert to WebP (2 hours)
+- [ ] Issue #9: Resize images (2 hours)
+
+### Friday (Oct 27):
+- [ ] Issue #14: Contact form (1 hour)
+- [ ] Issue #16: Discord webhook (30 min)
+- [ ] Issue #4: Collect student info (start)
+
+---
+
+## 🎯 Definition of Done Criteria
+
+Every issue must meet these criteria:
+- [ ] Implementation complete
+- [ ] Lighthouse score improved (if applicable)
+- [ ] Cross-browser tested (Chrome, Firefox, Safari)
+- [ ] Mobile tested
+- [ ] No new console errors
+- [ ] Documentation updated
+- [ ] Committed with clear message
+
+---
+
+## 📝 Commit Message Template
+
+```
+type(scope): brief description
+
+- Detailed change 1
+- Detailed change 2
+- Detailed change 3
+
+Fixes #issue-number
+Lighthouse: [score improvements]
+Time: [hours spent]
+
+🤖 Generated with Claude Code
+```
+
+---
+
+# ARCHIVED TASKS (Historical Reference)
+
+## All Previous GitHub Issues (Completed)
+
+### ✅ Issue #30: Fix baseurl Configuration
+**Status:** COMPLETED
+- Fixed `_config.yml` baseurl from `/Website-VCH` to `""`
+- Updated url to `https://valuechainhackers.xyz`
+
+### ✅ Issue #29: Update Team Information
+**Status:** COMPLETED
+- Updated all team members (Michiel, Maxime, Rea, Christiaan)
+- Added real photos and email addresses
+- Created individual profile pages
+
+### ✅ Issue #28: Update Partners Section
+**Status:** COMPLETED
+- Created SVG logos for SCF lectorate, SCF community, ZWINC
+- Updated footer with new partners
+
+### ✅ Issue #27: Partnership Section Text
+**Status:** COMPLETED
+- Changed "Industry" to "Business"
+- Added "Reach out to us" text
+
+### ✅ Issue #26: Update Events
+**Status:** COMPLETED
+- Updated to October 30, 2025 final event
+- Added AI Workshop Series
+- Added Business Partnership Meetup
+- Implemented mailto: registration links
+
+### ✅ Issue #25: Replace Placeholder Projects
+**Status:** COMPLETED
+- Replaced 6 placeholders with 8 real VCH projects
+- Created subdomain URLs for all projects
+- Built comprehensive project detail page system
+
+### ✅ Issue #24: Make All Circles Yellow
+**Status:** COMPLETED
+- Changed all three homepage circles to yellow
+
+### ✅ Issue #23: Update Statistics
+**Status:** COMPLETED
+- Updated to: 12 teams, 43 students, 9 businesses
+- Changed from 4-column to 3-column grid
+
+### ✅ Issue #22: Color Uniformity
+**Status:** COMPLETED
+- Verified color scheme is uniform
+- Green, yellow, orange used consistently
+
+### ✅ Issue #21: Update "Why" Section
+**Status:** COMPLETED
+- Replaced with new text about supply chain impact
+
+### ✅ Font Awesome Implementation
+**Status:** COMPLETED
+- Added Font Awesome 6.4.0 CDN
+- Replaced emoji with icons
+
+### ✅ SEO & Social Sharing
+**Status:** COMPLETED
+- Added Open Graph tags
+- Added Twitter Cards
+- Created robots.txt
+- Added JSON-LD structured data
+- SEO score: 100/100
+
+### ✅ Team Profile Pages
+**Status:** COMPLETED
+- Created 4 team member profile pages
+- Added professional bios and expertise
+- All pages SEO-optimized
+
+### ✅ Project Detail Page System
+**Status:** COMPLETED
+- Created `_layouts/project.html` template
+- Built 8 project pages with comprehensive sections
+- Documented in `PROJECT_PAGES_GUIDE.md`
+
+---
+
+## Historical Task Categories (Archive)
+
+<details>
+<summary>Click to expand historical task organization</summary>
+
+### High Priority Tasks (Historical)
+1. Content Accuracy & Alignment
+2. Projects & Research Content
+3. Events & Calendar
+4. Contact & Community
+5. Technical Improvements
+6. Accessibility & UX
+
+### Medium Priority Tasks (Historical)
+7. Content Strategy
+8. Design & Branding
+9. Analytics & Tracking
+10. Integration & Automation
+
+### Low Priority Tasks (Historical)
+11. Advanced Features
+12. Community Features
+13. Infrastructure & DevOps
+14. Documentation
+15. Quality Assurance
+
+See [IMPROVEMENTS_RECOMMENDATIONS.md](IMPROVEMENTS_RECOMMENDATIONS.md) for complete historical context.
+
+</details>
+
+---
+
+## 📞 Contact & Ownership
+
+**Primary Maintainers:**
+- Christiaan Verhoef (Technical)
+- Maxime Bouillon (Content & Projects)
+
+**Team Contacts:**
+- Email: info@valuechainhackers.xyz
+- Discord: https://discord.gg/mkbjsQsV
+- GitHub: https://github.com/ValueChainHackers
+
+**Update Frequency:**
+- Tasks: Updated after each work session
+- Issues: Reviewed weekly
+- Lighthouse: Tested after deployments
+
+---
+
+**Last Full Review:** October 23, 2025
+**Next Review:** October 30, 2025
+**Document Maintained By:** Claude AI + VCH Team
