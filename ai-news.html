@@ -1,0 +1,532 @@
+---
+layout: default
+title: AI in Supply Chain News
+description: Latest artificial intelligence applications in supply chain management, logistics, and operations - automatically updated from leading AI and supply chain sources
+---
+
+<div class="bg-gradient-to-r from-purple-600 via-vch-green to-blue-600 py-20">
+    <div class="max-w-7xl mx-auto px-4 text-center">
+        <h1 class="text-4xl md:text-5xl font-bold text-white mb-6">
+            <i class="fas fa-robot mr-3"></i>
+            AI in Supply Chain News
+        </h1>
+        <p class="text-xl text-white/90 max-w-3xl mx-auto">
+            Latest developments in artificial intelligence, machine learning, and automation for supply chain management - automatically updated from trusted sources
+        </p>
+        <div class="mt-4 text-sm text-white/80">
+            <i class="fas fa-sync-alt mr-2"></i>
+            Last updated: <span id="last-updated">Loading...</span>
+        </div>
+    </div>
+</div>
+
+<!-- Filter Tabs -->
+<div class="bg-white border-b sticky top-0 z-10 shadow-sm">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="flex gap-4 overflow-x-auto py-4">
+            <button class="source-filter active px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="all">
+                <i class="fas fa-th mr-2"></i>All News
+            </button>
+            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="ai-research">
+                <i class="fas fa-flask mr-2"></i>AI Research
+            </button>
+            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="supply-chain">
+                <i class="fas fa-truck mr-2"></i>Supply Chain AI
+            </button>
+            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="machine-learning">
+                <i class="fas fa-brain mr-2"></i>Machine Learning
+            </button>
+            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="automation">
+                <i class="fas fa-cogs mr-2"></i>Automation
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- Main Content -->
+<div class="max-w-7xl mx-auto px-4 py-12">
+
+    <!-- Featured Stats -->
+    <div class="grid md:grid-cols-4 gap-6 mb-12">
+        <div class="bg-gradient-to-br from-purple-500 to-purple-700 rounded-xl p-6 text-white">
+            <div class="text-3xl font-bold mb-2">$9.94B</div>
+            <div class="text-sm text-white/90">AI in Supply Chain Market 2025</div>
+        </div>
+        <div class="bg-gradient-to-br from-vch-green to-green-700 rounded-xl p-6 text-white">
+            <div class="text-3xl font-bold mb-2">46%</div>
+            <div class="text-sm text-white/90">Organizations Using AI in SC</div>
+        </div>
+        <div class="bg-gradient-to-br from-blue-500 to-blue-700 rounded-xl p-6 text-white">
+            <div class="text-3xl font-bold mb-2">5-20%</div>
+            <div class="text-sm text-white/90">Logistics Cost Reduction</div>
+        </div>
+        <div class="bg-gradient-to-br from-orange-500 to-orange-700 rounded-xl p-6 text-white">
+            <div class="text-3xl font-bold mb-2">74%</div>
+            <div class="text-sm text-white/90">CEOs Expect AI Impact</div>
+        </div>
+    </div>
+
+    <!-- Loading State -->
+    <div id="loading-state" class="text-center py-12">
+        <div class="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-vch-green mb-4"></div>
+        <p class="text-vch-light-gray">Loading latest AI news from RSS feeds...</p>
+    </div>
+
+    <!-- Error State -->
+    <div id="error-state" class="hidden bg-red-50 border border-red-200 rounded-xl p-6 mb-8">
+        <div class="flex items-start gap-4">
+            <i class="fas fa-exclamation-triangle text-red-500 text-2xl"></i>
+            <div>
+                <h3 class="font-bold text-red-900 mb-2">Unable to Load News Feeds</h3>
+                <p class="text-red-700 text-sm mb-3">We're having trouble loading the latest news. This might be due to network connectivity or RSS feed availability.</p>
+                <button onclick="location.reload()" class="px-4 py-2 bg-red-600 text-white rounded-lg text-sm font-semibold hover:bg-red-700">
+                    <i class="fas fa-sync-alt mr-2"></i>Try Again
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- News Feed Container -->
+    <div id="news-container" class="hidden">
+        <!-- News articles will be dynamically inserted here -->
+    </div>
+
+    <!-- AI Use Cases Section -->
+    <div class="mt-16 mb-12">
+        <h2 class="text-3xl font-bold text-vch-gray mb-8 flex items-center">
+            <i class="fas fa-lightbulb text-vch-yellow mr-3"></i>
+            Top AI Use Cases in Supply Chain
+        </h2>
+        <div class="grid md:grid-cols-3 gap-6">
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-chart-line text-purple-600 text-2xl"></i>
+                </div>
+                <h3 class="font-bold text-vch-gray mb-2">Demand Forecasting</h3>
+                <p class="text-sm text-vch-light-gray mb-3">
+                    Machine learning models analyze historical data, market trends, and external factors to predict future demand with unprecedented accuracy.
+                </p>
+                <div class="text-xs text-vch-green font-semibold">
+                    <i class="fas fa-arrow-up mr-1"></i>30-50% improvement in forecast accuracy
+                </div>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <div class="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-box text-blue-600 text-2xl"></i>
+                </div>
+                <h3 class="font-bold text-vch-gray mb-2">Inventory Optimization</h3>
+                <p class="text-sm text-vch-light-gray mb-3">
+                    AI algorithms optimize stock levels across locations, reducing carrying costs while ensuring product availability when and where needed.
+                </p>
+                <div class="text-xs text-vch-green font-semibold">
+                    <i class="fas fa-arrow-down mr-1"></i>20-30% reduction in inventory costs
+                </div>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <div class="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-route text-green-600 text-2xl"></i>
+                </div>
+                <h3 class="font-bold text-vch-gray mb-2">Route Optimization</h3>
+                <p class="text-sm text-vch-light-gray mb-3">
+                    AI-powered routing systems dynamically adjust delivery routes based on real-time traffic, weather, and other variables.
+                </p>
+                <div class="text-xs text-vch-green font-semibold">
+                    <i class="fas fa-arrow-down mr-1"></i>10-15% reduction in fuel costs
+                </div>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <div class="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-robot text-yellow-600 text-2xl"></i>
+                </div>
+                <h3 class="font-bold text-vch-gray mb-2">Warehouse Automation</h3>
+                <p class="text-sm text-vch-light-gray mb-3">
+                    Autonomous robots and AI systems handle picking, packing, and sorting operations with minimal human intervention.
+                </p>
+                <div class="text-xs text-vch-green font-semibold">
+                    <i class="fas fa-arrow-up mr-1"></i>40-60% increase in throughput
+                </div>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <div class="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-exclamation-triangle text-red-600 text-2xl"></i>
+                </div>
+                <h3 class="font-bold text-vch-gray mb-2">Risk Prediction</h3>
+                <p class="text-sm text-vch-light-gray mb-3">
+                    AI models identify potential supply chain disruptions before they occur, enabling proactive mitigation strategies.
+                </p>
+                <div class="text-xs text-vch-green font-semibold">
+                    <i class="fas fa-shield-alt mr-1"></i>Early warning of potential disruptions
+                </div>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <div class="w-12 h-12 bg-indigo-100 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-comments text-indigo-600 text-2xl"></i>
+                </div>
+                <h3 class="font-bold text-vch-gray mb-2">Intelligent Chatbots</h3>
+                <p class="text-sm text-vch-light-gray mb-3">
+                    AI-powered assistants handle customer inquiries, track shipments, and provide real-time updates 24/7.
+                </p>
+                <div class="text-xs text-vch-green font-semibold">
+                    <i class="fas fa-clock mr-1"></i>24/7 customer support availability
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- RSS Feed Sources Info -->
+    <div class="bg-gradient-to-r from-purple-50 via-green-50 to-blue-50 rounded-2xl p-8">
+        <h2 class="text-2xl font-bold text-vch-gray mb-6 flex items-center">
+            <i class="fas fa-rss text-vch-green mr-3"></i>
+            News Sources
+        </h2>
+        <div class="grid md:grid-cols-4 gap-6">
+            <div class="bg-white rounded-lg p-5">
+                <h3 class="font-bold text-vch-gray mb-2">AI Research</h3>
+                <ul class="text-sm text-vch-light-gray space-y-1">
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Google AI Blog</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>MIT News AI</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>OpenAI Blog</li>
+                </ul>
+            </div>
+            <div class="bg-white rounded-lg p-5">
+                <h3 class="font-bold text-vch-gray mb-2">Machine Learning</h3>
+                <ul class="text-sm text-vch-light-gray space-y-1">
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>KDnuggets</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>MarkTechPost</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Towards Data Science</li>
+                </ul>
+            </div>
+            <div class="bg-white rounded-lg p-5">
+                <h3 class="font-bold text-vch-gray mb-2">Supply Chain AI</h3>
+                <ul class="text-sm text-vch-light-gray space-y-1">
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Supply Chain Dive</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>SupplyChainBrain</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Inbound Logistics</li>
+                </ul>
+            </div>
+            <div class="bg-white rounded-lg p-5">
+                <h3 class="font-bold text-vch-gray mb-2">Tech Giants</h3>
+                <ul class="text-sm text-vch-light-gray space-y-1">
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>AWS ML Blog</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Microsoft AI</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>IBM Research</li>
+                </ul>
+            </div>
+        </div>
+        <p class="text-sm text-vch-light-gray mt-6 text-center">
+            <i class="fas fa-sync-alt mr-2"></i>
+            News feeds are automatically updated every hour from leading AI and supply chain sources
+        </p>
+    </div>
+
+</div>
+
+<!-- RSS Feed Configuration & JavaScript -->
+<script>
+    // RSS Feed Configuration
+    const RSS_FEEDS = [
+        // AI Research Feeds
+        {
+            url: 'https://blog.google/technology/ai/rss',
+            name: 'Google AI Blog',
+            category: 'ai-research',
+            icon: 'fa-google'
+        },
+        {
+            url: 'https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml',
+            name: 'MIT AI News',
+            category: 'ai-research',
+            icon: 'fa-graduation-cap'
+        },
+        {
+            url: 'https://openai.com/blog/rss.xml',
+            name: 'OpenAI Blog',
+            category: 'ai-research',
+            icon: 'fa-brain'
+        },
+        // Machine Learning Feeds
+        {
+            url: 'https://www.kdnuggets.com/feed',
+            name: 'KDnuggets',
+            category: 'machine-learning',
+            icon: 'fa-chart-bar'
+        },
+        {
+            url: 'https://www.marktechpost.com/feed',
+            name: 'MarkTechPost',
+            category: 'machine-learning',
+            icon: 'fa-robot'
+        },
+        {
+            url: 'https://aws.amazon.com/blogs/machine-learning/feed',
+            name: 'AWS ML Blog',
+            category: 'machine-learning',
+            icon: 'fa-aws'
+        },
+        // Supply Chain AI Feeds
+        {
+            url: 'https://www.supplychaindive.com/feeds/news/',
+            name: 'Supply Chain Dive',
+            category: 'supply-chain',
+            icon: 'fa-truck'
+        },
+        {
+            url: 'https://www.supplychainbrain.com/rss',
+            name: 'SupplyChainBrain',
+            category: 'supply-chain',
+            icon: 'fa-boxes'
+        },
+        {
+            url: 'https://www.inboundlogistics.com/feed',
+            name: 'Inbound Logistics',
+            category: 'supply-chain',
+            icon: 'fa-warehouse'
+        },
+        // Automation & Technology
+        {
+            url: 'https://www.intelligentautomation.network/rss/articles.xml',
+            name: 'Intelligent Automation',
+            category: 'automation',
+            icon: 'fa-cogs'
+        }
+    ];
+
+    // State Management
+    let allArticles = [];
+    let currentFilter = 'all';
+
+    // Initialize on page load
+    document.addEventListener('DOMContentLoaded', function() {
+        loadAllFeeds();
+        setupFilterButtons();
+    });
+
+    // Load all RSS feeds
+    async function loadAllFeeds() {
+        const loadingState = document.getElementById('loading-state');
+        const errorState = document.getElementById('error-state');
+        const newsContainer = document.getElementById('news-container');
+
+        try {
+            // Fetch all feeds in parallel
+            const feedPromises = RSS_FEEDS.map(feed => fetchFeed(feed));
+            const results = await Promise.allSettled(feedPromises);
+
+            // Collect all articles
+            results.forEach((result, index) => {
+                if (result.status === 'fulfilled' && result.value) {
+                    allArticles = allArticles.concat(result.value);
+                }
+            });
+
+            // Sort by date (newest first)
+            allArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+            // Update UI
+            loadingState.style.display = 'none';
+
+            if (allArticles.length === 0) {
+                errorState.classList.remove('hidden');
+            } else {
+                newsContainer.classList.remove('hidden');
+                renderArticles();
+                updateLastUpdated();
+            }
+
+        } catch (error) {
+            console.error('Error loading feeds:', error);
+            loadingState.style.display = 'none';
+            errorState.classList.remove('hidden');
+        }
+    }
+
+    // Fetch individual RSS feed using rss2json API
+    async function fetchFeed(feed) {
+        try {
+            // Using rss2json.com free API (max 10,000 requests/day)
+            const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}&api_key=public&count=10`;
+
+            const response = await fetch(apiUrl);
+            const data = await response.json();
+
+            if (data.status === 'ok' && data.items) {
+                return data.items.map(item => ({
+                    title: item.title,
+                    link: item.link,
+                    description: stripHtml(item.description || item.content || '').substring(0, 200) + '...',
+                    pubDate: item.pubDate,
+                    source: feed.name,
+                    category: feed.category,
+                    icon: feed.icon
+                }));
+            }
+            return [];
+        } catch (error) {
+            console.error(`Error fetching ${feed.name}:`, error);
+            return [];
+        }
+    }
+
+    // Strip HTML tags from description
+    function stripHtml(html) {
+        const tmp = document.createElement('DIV');
+        tmp.innerHTML = html;
+        return tmp.textContent || tmp.innerText || '';
+    }
+
+    // Render articles to the page
+    function renderArticles() {
+        const container = document.getElementById('news-container');
+        const filtered = currentFilter === 'all'
+            ? allArticles
+            : allArticles.filter(article => article.category === currentFilter);
+
+        if (filtered.length === 0) {
+            container.innerHTML = `
+                <div class="text-center py-12">
+                    <i class="fas fa-robot text-vch-light-gray text-6xl mb-4"></i>
+                    <p class="text-vch-light-gray">No articles found for this category.</p>
+                </div>
+            `;
+            return;
+        }
+
+        const html = `
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                ${filtered.map(article => createArticleCard(article)).join('')}
+            </div>
+        `;
+
+        container.innerHTML = html;
+    }
+
+    // Create article card HTML
+    function createArticleCard(article) {
+        const date = new Date(article.pubDate);
+        const formattedDate = date.toLocaleDateString('en-US', {
+            month: 'short',
+            day: 'numeric',
+            year: 'numeric'
+        });
+
+        const categoryColors = {
+            'ai-research': 'bg-purple-100 text-purple-700',
+            'machine-learning': 'bg-blue-100 text-blue-700',
+            'supply-chain': 'bg-green-100 text-green-700',
+            'automation': 'bg-orange-100 text-orange-700'
+        };
+
+        return `
+            <article class="news-article bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all">
+                <div class="p-6">
+                    <div class="flex items-center gap-2 mb-3">
+                        <span class="px-3 py-1 ${categoryColors[article.category] || 'bg-gray-100 text-gray-700'} rounded-full text-xs font-semibold">
+                            <i class="fas ${article.icon} mr-1"></i>${article.source}
+                        </span>
+                    </div>
+                    <h3 class="text-lg font-bold text-vch-gray mb-3 line-clamp-2">
+                        ${article.title}
+                    </h3>
+                    <p class="text-vch-light-gray text-sm mb-4 line-clamp-3">
+                        ${article.description}
+                    </p>
+                    <div class="flex items-center justify-between">
+                        <div class="text-xs text-vch-light-gray">
+                            <i class="fas fa-calendar mr-1"></i>${formattedDate}
+                        </div>
+                        <a href="${article.link}"
+                           target="_blank"
+                           rel="noopener noreferrer"
+                           class="text-vch-green hover:text-green-600 font-semibold text-sm">
+                            Read More →
+                        </a>
+                    </div>
+                </div>
+            </article>
+        `;
+    }
+
+    // Setup filter buttons
+    function setupFilterButtons() {
+        const filterButtons = document.querySelectorAll('.source-filter');
+
+        filterButtons.forEach(button => {
+            button.addEventListener('click', function() {
+                const source = this.getAttribute('data-source');
+
+                // Update active button
+                filterButtons.forEach(btn => {
+                    btn.classList.remove('active', 'bg-vch-green', 'text-white');
+                    btn.classList.add('bg-gray-100', 'text-vch-gray');
+                });
+                this.classList.remove('bg-gray-100', 'text-vch-gray');
+                this.classList.add('active', 'bg-vch-green', 'text-white');
+
+                // Update filter and re-render
+                currentFilter = source;
+                renderArticles();
+            });
+        });
+
+        // Set initial active state
+        document.querySelector('.source-filter.active').classList.add('bg-vch-green', 'text-white');
+        document.querySelectorAll('.source-filter:not(.active)').forEach(btn => {
+            btn.classList.add('bg-gray-100', 'text-vch-gray');
+        });
+    }
+
+    // Update last updated timestamp
+    function updateLastUpdated() {
+        const now = new Date();
+        const formatted = now.toLocaleString('en-US', {
+            month: 'short',
+            day: 'numeric',
+            year: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
+        });
+        document.getElementById('last-updated').textContent = formatted;
+    }
+</script>
+
+<style>
+    .source-filter.active {
+        background-color: #7DB04D;
+        color: white;
+    }
+
+    .news-article {
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .news-article:hover {
+        transform: translateY(-4px);
+    }
+
+    .line-clamp-2 {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .line-clamp-3 {
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    @keyframes spin {
+        to { transform: rotate(360deg); }
+    }
+
+    .animate-spin {
+        animation: spin 1s linear infinite;
+    }
+</style>
