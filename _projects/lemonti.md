@@ -96,4 +96,4 @@ This project provided valuable hands-on experience in full-stack development, ag
 
 ---
 
-**Want to learn more?** Contact the Value Chain Hackers team at info@valuechainhackers.org
+**Want to learn more?** Contact the Value Chain Hackers team at info@valuechainhackers.xyz
