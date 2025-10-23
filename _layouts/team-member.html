@@ -1,0 +1,149 @@
+---
+layout: default
+---
+
+<!-- Team Member Profile Page -->
+<section class="section-spacing bg-vch-bg">
+    <div class="max-w-5xl mx-auto px-4">
+        <!-- Breadcrumb -->
+        <nav class="mb-8">
+            <ol class="flex items-center space-x-2 text-sm text-vch-light-gray">
+                <li><a href="/" class="hover:text-vch-green">Home</a></li>
+                <li>/</li>
+                <li><a href="/about" class="hover:text-vch-green">About</a></li>
+                <li>/</li>
+                <li class="text-vch-gray font-semibold">{{ page.name }}</li>
+            </ol>
+        </nav>
+
+        <div class="grid md:grid-cols-3 gap-8">
+            <!-- Profile Card -->
+            <div class="md:col-span-1">
+                <div class="bg-white rounded-xl shadow-sm border p-6 sticky top-24">
+                    <img src="{{ page.photo | relative_url }}" alt="{{ page.name }}" class="w-32 h-32 rounded-full mx-auto mb-4 object-cover">
+
+                    <div class="text-center mb-6">
+                        <h1 class="text-2xl font-bold text-vch-gray mb-2">{{ page.name }}</h1>
+                        <p class="text-vch-green font-semibold mb-4">{{ page.role }}</p>
+                    </div>
+
+                    <!-- Contact Links -->
+                    <div class="space-y-3 mb-6">
+                        {% if page.email %}
+                        <a href="mailto:{{ page.email }}" class="flex items-center gap-3 text-vch-light-gray hover:text-vch-green transition-colors">
+                            <i class="fas fa-envelope w-5"></i>
+                            <span class="text-sm">Email</span>
+                        </a>
+                        {% endif %}
+                        {% if page.linkedin %}
+                        <a href="{{ page.linkedin }}" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 text-vch-light-gray hover:text-vch-green transition-colors">
+                            <i class="fab fa-linkedin w-5"></i>
+                            <span class="text-sm">LinkedIn</span>
+                        </a>
+                        {% endif %}
+                        {% if page.github %}
+                        <a href="{{ page.github }}" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 text-vch-light-gray hover:text-vch-green transition-colors">
+                            <i class="fab fa-github w-5"></i>
+                            <span class="text-sm">GitHub</span>
+                        </a>
+                        {% endif %}
+                    </div>
+
+                    <!-- Quick Info -->
+                    <div class="border-t pt-6">
+                        <h3 class="font-semibold text-vch-gray mb-3">Quick Info</h3>
+                        <dl class="space-y-2 text-sm">
+                            {% if page.department %}
+                            <div>
+                                <dt class="text-vch-light-gray">Department</dt>
+                                <dd class="font-semibold text-vch-gray">{{ page.department }}</dd>
+                            </div>
+                            {% endif %}
+                            {% if page.expertise %}
+                            <div>
+                                <dt class="text-vch-light-gray">Expertise</dt>
+                                <dd class="font-semibold text-vch-gray">{{ page.expertise }}</dd>
+                            </div>
+                            {% endif %}
+                        </dl>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Content -->
+            <div class="md:col-span-2 space-y-8">
+                <!-- Bio -->
+                <div class="bg-white rounded-xl shadow-sm border p-8">
+                    <h2 class="text-2xl font-bold text-vch-gray mb-4">About {{ page.first_name }}</h2>
+                    <div class="prose max-w-none text-vch-light-gray">
+                        {{ content }}
+                    </div>
+                </div>
+
+                <!-- Projects -->
+                {% if page.projects %}
+                <div class="bg-white rounded-xl shadow-sm border p-8">
+                    <h2 class="text-2xl font-bold text-vch-gray mb-6">
+                        <i class="fas fa-briefcase text-vch-green mr-2"></i>
+                        Projects & Contributions
+                    </h2>
+                    <div class="space-y-4">
+                        {% for project in page.projects %}
+                        <div class="border-l-4 border-vch-yellow pl-4 py-2">
+                            <h3 class="font-semibold text-vch-gray mb-1">{{ project.name }}</h3>
+                            <p class="text-sm text-vch-light-gray">{{ project.description }}</p>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- Interests -->
+                {% if page.interests %}
+                <div class="bg-white rounded-xl shadow-sm border p-8">
+                    <h2 class="text-2xl font-bold text-vch-gray mb-4">
+                        <i class="fas fa-lightbulb text-vch-green mr-2"></i>
+                        Research Interests
+                    </h2>
+                    <div class="flex flex-wrap gap-2">
+                        {% for interest in page.interests %}
+                        <span class="bg-vch-yellow bg-opacity-20 text-vch-gray px-3 py-1 rounded-full text-sm">{{ interest }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- Publications (if any) -->
+                {% if page.publications %}
+                <div class="bg-white rounded-xl shadow-sm border p-8">
+                    <h2 class="text-2xl font-bold text-vch-gray mb-6">
+                        <i class="fas fa-book text-vch-green mr-2"></i>
+                        Publications & Research
+                    </h2>
+                    <div class="space-y-4">
+                        {% for pub in page.publications %}
+                        <div class="pb-4 border-b last:border-0">
+                            <h3 class="font-semibold text-vch-gray mb-1">{{ pub.title }}</h3>
+                            <p class="text-sm text-vch-light-gray mb-2">{{ pub.journal }} ({{ pub.year }})</p>
+                            {% if pub.link %}
+                            <a href="{{ pub.link }}" target="_blank" rel="noopener noreferrer" class="text-vch-green hover:text-green-600 text-sm font-semibold">
+                                Read More →
+                            </a>
+                            {% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- Back to Team -->
+        <div class="mt-12 text-center">
+            <a href="/about#team" class="inline-flex items-center gap-2 text-vch-green hover:text-green-600 font-semibold">
+                <i class="fas fa-arrow-left"></i>
+                Back to Team
+            </a>
+        </div>
+    </div>
+</section>

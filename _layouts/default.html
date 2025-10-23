@@ -3,9 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <!-- SEO Meta Tags -->
+    <title>{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} - Transforming Supply Chains from Within{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    
+    <meta name="keywords" content="supply chain, sustainability, circular economy, value chain, research, students, innovation, Windesheim, Netherlands, {% if page.tags %}{{ page.tags | join: ', ' }}{% endif %}">
+    <meta name="author" content="{{ site.author }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="{% if page.layout == 'project' %}article{% else %}website{% endif %}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:image" content="{{ site.url }}/assets/images/vch-logo.png">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="{{ site.url }}/assets/images/vch-logo.png">
+
+    <!-- Additional SEO -->
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="7 days">
+
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -36,6 +63,63 @@
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Value Chain Hackers",
+      "url": "{{ site.url }}",
+      "logo": "{{ site.url }}/assets/images/vch-logo.png",
+      "description": "{{ site.description }}",
+      "foundingDate": "2023",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Campus 2",
+        "addressLocality": "Zwolle",
+        "postalCode": "8017 CA",
+        "addressCountry": "NL"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "{{ site.email }}",
+        "contactType": "General Inquiry"
+      },
+      "sameAs": [
+        "{{ site.linkedin_url }}",
+        "{{ site.github_url }}",
+        "{{ site.discord_url }}"
+      ]
+    }
+    </script>
+    {% if page.layout == 'project' %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "{{ page.title }}",
+      "description": "{{ page.description }}",
+      "author": {
+        "@type": "Organization",
+        "name": "Value Chain Hackers"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Value Chain Hackers",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/assets/images/vch-logo.png"
+        }
+      },
+      "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      }
+    }
+    </script>
+    {% endif %}
 </head>
 <body class="text-vch-gray">
     <!-- Navigation Bar -->
@@ -101,26 +185,42 @@
                 <div class="grid md:grid-cols-4 gap-8">
                     <!-- Team Member 1 -->
                     <div class="text-center">
-                        <img src="{{ '/assets/images/michiel.png' | relative_url }}" alt="Michiel Steeman" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">
-                        <h4 class="font-semibold text-vch-gray">Michiel Steeman</h4>
+                        <a href="{{ '/team/michiel-steeman/' | relative_url }}">
+                            <img src="{{ '/assets/images/michiel.png' | relative_url }}" alt="Michiel Steeman" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity">
+                        </a>
+                        <a href="{{ '/team/michiel-steeman/' | relative_url }}" class="hover:text-vch-green">
+                            <h4 class="font-semibold text-vch-gray">Michiel Steeman</h4>
+                        </a>
                         <p class="text-sm text-vch-light-gray">Lector</p>
                     </div>
                     <!-- Team Member 2 -->
                     <div class="text-center">
-                        <img src="{{ '/assets/images/maxime.jpg' | relative_url }}" alt="Maxime Bouillon" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">
-                        <h4 class="font-semibold text-vch-gray">Maxime Bouillon</h4>
+                        <a href="{{ '/team/maxime-bouillon/' | relative_url }}">
+                            <img src="{{ '/assets/images/maxime.jpg' | relative_url }}" alt="Maxime Bouillon" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity">
+                        </a>
+                        <a href="{{ '/team/maxime-bouillon/' | relative_url }}" class="hover:text-vch-green">
+                            <h4 class="font-semibold text-vch-gray">Maxime Bouillon</h4>
+                        </a>
                         <p class="text-sm text-vch-light-gray">Teacher/Researcher</p>
                     </div>
                     <!-- Team Member 3 -->
                     <div class="text-center">
-                        <img src="{{ '/assets/images/rea.jpg' | relative_url }}" alt="Rea Vaz" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">
-                        <h4 class="font-semibold text-vch-gray">Rea Vaz</h4>
+                        <a href="{{ '/team/rea-vaz/' | relative_url }}">
+                            <img src="{{ '/assets/images/rea.jpg' | relative_url }}" alt="Rea Vaz" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity">
+                        </a>
+                        <a href="{{ '/team/rea-vaz/' | relative_url }}" class="hover:text-vch-green">
+                            <h4 class="font-semibold text-vch-gray">Rea Vaz</h4>
+                        </a>
                         <p class="text-sm text-vch-light-gray">Researcher</p>
                     </div>
                     <!-- Team Member 4 -->
                     <div class="text-center">
-                        <img src="{{ '/assets/images/christiaan.jpeg' | relative_url }}" alt="Christiaan Verhoef" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">
-                        <h4 class="font-semibold text-vch-gray">Christiaan Verhoef</h4>
+                        <a href="{{ '/team/christiaan-verhoef/' | relative_url }}">
+                            <img src="{{ '/assets/images/christiaan.jpeg' | relative_url }}" alt="Christiaan Verhoef" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity">
+                        </a>
+                        <a href="{{ '/team/christiaan-verhoef/' | relative_url }}" class="hover:text-vch-green">
+                            <h4 class="font-semibold text-vch-gray">Christiaan Verhoef</h4>
+                        </a>
                         <p class="text-sm text-vch-light-gray">Technical Facilitator</p>
                     </div>
                 </div>
