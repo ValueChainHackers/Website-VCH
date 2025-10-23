@@ -41,6 +41,7 @@
                 extend: {
                     colors: {
                         'vch-green': '#7DB04D',
+                        'vch-green-dark': '#5A8037',
                         'vch-yellow': '#F1C144',
                         'vch-orange': '#F4A300',
                         'vch-gray': '#333333',
@@ -127,7 +128,7 @@
         <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
             <div class="flex items-center">
                 <!-- Main Logo -->
-                <img src="{{ '/assets/images/vch-logo.png' | relative_url }}" alt="VCH Logo" class="h-10 w-10 mr-3">
+                <img src="{{ '/assets/images/vch-logo.png' | relative_url }}" alt="VCH Logo" class="h-10 w-10 mr-3" width="40" height="40" loading="eager">
                 <div class="text-2xl font-bold text-vch-green">VCH</div>
                 <div class="ml-2 text-lg font-semibold">Value Chain Hackers</div>
             </div>
@@ -142,8 +143,8 @@
             </div>
             
             <!-- Mobile Menu Button -->
-            <button class="md:hidden text-vch-gray" id="mobile-menu-btn">
-                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <button class="md:hidden text-vch-gray" id="mobile-menu-btn" aria-label="Toggle mobile menu" aria-expanded="false">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
                 </svg>
             </button>
@@ -173,9 +174,9 @@
             <div class="text-center mb-12">
                 <h3 class="text-2xl font-semibold text-vch-gray mb-8">Our Partners</h3>
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-8 items-center justify-items-center">
-                    <img src="{{ '/assets/images/partners/scf-lectorate-logo.svg' | relative_url }}" alt="SCF Lectorate" class="h-12 opacity-70 hover:opacity-100 transition-opacity">
-                    <img src="{{ '/assets/images/partners/scf-community-logo.svg' | relative_url }}" alt="SCF Community" class="h-12 opacity-70 hover:opacity-100 transition-opacity">
-                    <img src="{{ '/assets/images/partners/zwinc-logo.svg' | relative_url }}" alt="ZWINC" class="h-12 opacity-70 hover:opacity-100 transition-opacity">
+                    <img src="{{ '/assets/images/partners/scf-lectorate-logo.svg' | relative_url }}" alt="SCF Lectorate" class="h-12 opacity-70 hover:opacity-100 transition-opacity" width="auto" height="48" loading="lazy">
+                    <img src="{{ '/assets/images/partners/scf-community-logo.svg' | relative_url }}" alt="SCF Community" class="h-12 opacity-70 hover:opacity-100 transition-opacity" width="auto" height="48" loading="lazy">
+                    <img src="{{ '/assets/images/partners/zwinc-logo.svg' | relative_url }}" alt="ZWINC" class="h-12 opacity-70 hover:opacity-100 transition-opacity" width="auto" height="48" loading="lazy">
                 </div>
             </div>
 
@@ -186,7 +187,7 @@
                     <!-- Team Member 1 -->
                     <div class="text-center">
                         <a href="{{ '/team/michiel-steeman/' | relative_url }}">
-                            <img src="{{ '/assets/images/michiel.png' | relative_url }}" alt="Michiel Steeman" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity">
+                            <img src="{{ '/assets/images/michiel.png' | relative_url }}" alt="Michiel Steeman" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
                         </a>
                         <a href="{{ '/team/michiel-steeman/' | relative_url }}" class="hover:text-vch-green">
                             <h4 class="font-semibold text-vch-gray">Michiel Steeman</h4>
@@ -196,7 +197,7 @@
                     <!-- Team Member 2 -->
                     <div class="text-center">
                         <a href="{{ '/team/maxime-bouillon/' | relative_url }}">
-                            <img src="{{ '/assets/images/maxime.jpg' | relative_url }}" alt="Maxime Bouillon" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity">
+                            <img src="{{ '/assets/images/maxime.jpg' | relative_url }}" alt="Maxime Bouillon" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
                         </a>
                         <a href="{{ '/team/maxime-bouillon/' | relative_url }}" class="hover:text-vch-green">
                             <h4 class="font-semibold text-vch-gray">Maxime Bouillon</h4>
@@ -206,7 +207,7 @@
                     <!-- Team Member 3 -->
                     <div class="text-center">
                         <a href="{{ '/team/rea-vaz/' | relative_url }}">
-                            <img src="{{ '/assets/images/rea.jpg' | relative_url }}" alt="Rea Vaz" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity">
+                            <img src="{{ '/assets/images/rea.jpg' | relative_url }}" alt="Rea Vaz" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
                         </a>
                         <a href="{{ '/team/rea-vaz/' | relative_url }}" class="hover:text-vch-green">
                             <h4 class="font-semibold text-vch-gray">Rea Vaz</h4>
@@ -216,7 +217,7 @@
                     <!-- Team Member 4 -->
                     <div class="text-center">
                         <a href="{{ '/team/christiaan-verhoef/' | relative_url }}">
-                            <img src="{{ '/assets/images/christiaan.jpeg' | relative_url }}" alt="Christiaan Verhoef" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity">
+                            <img src="{{ '/assets/images/christiaan.jpeg' | relative_url }}" alt="Christiaan Verhoef" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
                         </a>
                         <a href="{{ '/team/christiaan-verhoef/' | relative_url }}" class="hover:text-vch-green">
                             <h4 class="font-semibold text-vch-gray">Christiaan Verhoef</h4>
@@ -230,7 +231,7 @@
             <div class="grid md:grid-cols-4 gap-8 mb-8">
                 <div>
                     <div class="flex items-center mb-4">
-                        <img src="{{ '/assets/images/vch-logo.png' | relative_url }}" alt="VCH Logo" class="h-8 w-8 mr-2">
+                        <img src="{{ '/assets/images/vch-logo.png' | relative_url }}" alt="VCH Logo" class="h-8 w-8 mr-2" width="32" height="32" loading="lazy">
                         <div class="text-2xl font-bold text-vch-green">VCH</div>
                         <div class="ml-2 text-lg font-semibold">Value Chain Hackers</div>
                     </div>
@@ -288,7 +289,8 @@
             const mobileMenu = document.getElementById('mobile-menu');
             
             mobileMenuBtn.addEventListener('click', function() {
-                mobileMenu.classList.toggle('hidden');
+                const isExpanded = mobileMenu.classList.toggle('hidden');
+                mobileMenuBtn.setAttribute('aria-expanded', !isExpanded);
             });
 
             // Smooth scrolling for anchor links
