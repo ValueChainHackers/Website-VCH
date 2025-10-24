@@ -1,0 +1,28 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+.bundle/
+vendor/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Documentation (kept locally, not published)
+# Note: .docs/ is intentionally tracked in git but excluded from Jekyll build
+# via _config.yml exclude setting
+
+# Logs
+*.log
+npm-debug.log*

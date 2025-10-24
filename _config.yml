@@ -79,8 +79,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - README.md
-  - LICENSE
+  - .docs/
+  - TASKS.md
   - .gitignore
 
 # Include files
