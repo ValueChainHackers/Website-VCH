@@ -1,173 +1,220 @@
-## Placeholder
-# Value Chain Hackers Website — Comprehensive Handover Report
+# Value Chain Hackers Website
 
-## 1. Overview
-The **Value Chain Hackers (VCH)** website is the public-facing hub of a Windesheim University research initiative under the **Lectoraat Supply Chain Finance**.  
-It showcases collaborative research between students, teachers, and industry partners focused on making supply chains more sustainable, transparent, and financially viable.  
-The website serves as both a **knowledge archive** and a **community entry point**.
+Official website for Value Chain Hackers - a student-led initiative at Windesheim University bringing together students, researchers, and businesses to solve real-world supply chain challenges.
+
+🌐 **Live Site:** [valuechainhackers.xyz](https://valuechainhackers.xyz)
 
 ---
 
-## 2. Core Function
-The website’s primary function is to make the work of Value Chain Hackers visible and actionable.
+## 🚀 Quick Start
 
-- **Transparency:** Share completed research outputs, student projects, and partnerships.  
-- **Engagement:** Invite companies, academics, and students to participate in workshops and future projects.  
-- **Credibility:** Establish VCH as a professional, forward-thinking research lab focused on social and environmental impact in supply chains.  
-- **Community Gateway:** Link visitors to the Discord server where ongoing collaboration happens.
+This is a Jekyll static site hosted on GitHub Pages.
 
----
+### Local Development
 
-## 3. Primary Goal
-> “To turn research into action by connecting students, researchers, and partners through transparent, accessible, and inspiring content.”
+```bash
+# Install dependencies
+bundle install
 
-Success is measured by:
-- Growth in project visibility (site visits, downloads).  
-- Increased number of external partnerships and student participation.  
-- Engagement through Discord and event signups.  
+# Run local server
+bundle exec jekyll serve
 
----
+# Visit http://localhost:4000
+```
 
-## 4. Users & Audiences
+### Deployment
 
-| User Group | Description | Needs / What They Look For |
-|-------------|--------------|----------------------------|
-| **Students** | Windesheim and partner university students participating in or exploring research projects. | Examples of student projects, learning resources, ways to join. |
-| **Researchers & Faculty** | Teachers and researchers within Windesheim and partner institutions. | Academic legitimacy, research dissemination, partner engagement. |
-| **Industry Partners** | Companies like Scania, Puma, evofenedex, Danone. | Proven cases, collaboration opportunities, talent discovery. |
-| **External Community** | NGOs, policymakers, and curious professionals. | Insights into applied sustainability and finance in supply chains. |
+The site auto-deploys to GitHub Pages when you push to the `main` branch.
 
 ---
 
-## 5. Key Website Sections
+## 📂 Project Structure
 
-### 5.1 Homepage
-- **Tagline:** “Making Supply Chains Work for Us.”  
-- **Subline:** “We remove problematic products and processes from supply chains through research, student projects, and partnerships.”  
-- **CTAs:**  
-  - [See Research Outputs]  
-  - [Join a Project]  
-  - [Participate in Events]  
-- Visual: Authentic collaboration imagery (students + partners).  
-- Preview sections: Featured Research, Upcoming Events, Join the Community.
-
-### 5.2 About
-- Explains the **mission** and **values** of VCH.  
-- Introduces Windesheim, Supply Chain Finance lectorate, and the role of students.  
-- Includes a **Theory U timeline** showing how VCH projects evolve:
-  1. Exploring Problems →  
-  2. Reflecting & Reframing →  
-  3. Building Solutions →  
-  4. Scaling & Sharing.
-
-### 5.3 Research & Projects
-- Filterable card grid with three categories:
-  - **Student Projects**
-  - **Research Outputs**
-  - **Partner Collaborations**
-- Each card: title, 2-line summary, tags (e.g., Ongoing, Completed), and link to GitHub or PDF output.  
-- Status color codes: Orange = Ongoing, Yellow = Completed.  
-
-### 5.4 Events
-- Calendar/list of workshops, lectures, and presentations.  
-- Each event: title, date, location, description, and registration or recap link.  
-- Used to drive participation from students and partners.  
-
-### 5.5 Community & Contact
-- Invitation to join the VCH Discord and GitHub repositories.  
-- Simple contact form (name, email, message).  
-- Dedicated message for companies and researchers interested in partnerships.
+```
+Website-VCH/
+├── _layouts/           # Page templates
+│   ├── default.html    # Main layout with navigation
+│   └── project.html    # Project detail template
+├── _projects/          # Student project pages
+├── _team/              # Team member profiles
+├── assets/
+│   ├── css/           # Stylesheets
+│   ├── images/        # Images (WebP + fallbacks)
+│   └── documents/     # PDFs and other files
+├── .docs/             # Documentation (not published)
+├── index.html         # Homepage
+├── about.html         # Team & about page
+├── events.html        # Events & meetups
+├── workshops.html     # Workshop library
+├── sustainability-news.html  # Auto-updating sustainability news
+├── ai-news.html       # Auto-updating AI news
+├── onboarding.html    # Join VCH guide
+└── TASKS.md           # Current tasks & issues
+```
 
 ---
 
-## 6. Visual Identity
+## 🎨 Key Features
 
-| Element | Specification |
-|----------|----------------|
-| **Primary Color** | Green — #7DB04D (R:125 G:176 B:77) |
-| **Accent Color** | Yellow — #F1C144 (R:241 G:193 B:68) |
-| **Secondary Accent** | Orange — #F4A300 (R:244 G:163 B:0) |
-| **Typography** | Headings: Inter/DM Sans Bold; Body: Inter/DM Sans Regular |
-| **Style** | Light, professional, approachable; minimal animations |
-| **Imagery** | Real collaboration photos + simple flat icons |
-| **Layout** | 12-column responsive grid; generous white space; mobile-first |
+### Auto-Updating News Pages
+- **Sustainability News** (`/sustainability-news.html`) - Pulls from 7 RSS feeds
+- **AI News** (`/ai-news.html`) - Pulls from 10 AI/ML RSS feeds
+- Updates automatically on every page load
 
----
+### Performance Optimized
+- ✅ WebP images with fallbacks (90% size reduction)
+- ✅ Async loading for fonts and icons
+- ✅ Lazy loading for below-fold images
+- ✅ Preconnect to external CDNs
+- **Target LCP:** <2.5s
 
-## 7. Technical & Content Guidelines
-- Only **finished outputs** should be published (no drafts).  
-- **Monthly updates** performed by Christiaan Verhoef with content from Maxime Bouillon.  
-- **GitHub** is the source of truth for data and project repositories.  
-- **Discord** acts as the community collaboration hub.  
-- **OpenWebUI** integration deferred until resource limits allow.  
+### Event Registration
+- Google Forms integration with modal popups
+- Discord webhook notifications
+- See `.docs/EVENT_REGISTRATION_GUIDE.md`
 
----
-
-## 8. Stakeholders
-
-| Name | Role | Notes |
-|------|------|-------|
-| **Michiel Steeman** | Lector, project owner | Strategic lead, vision, funding. |
-| **Maxime Bouillon** | Teacher/Researcher, manager | Content direction, student coordination. |
-| **Rea Vaz** | Researcher | Academic contributions, student mentoring. |
-| **Christiaan Verhoef** | Technical facilitator | Infrastructure, automation, website updates. |
-| **Hendryk Dittfeld** | Partner lead | Supplies student groups, connects external partners. |
-| **Bart Ras & Liesbeth Rijsdijk** | External researchers | Contribute expertise and legitimacy. |
+### Contact Form
+- EmailJS integration (200 emails/month free tier)
+- See `.docs/EMAILJS_SETUP_GUIDE.md`
 
 ---
 
-## 9. Underlying Method — Theory U
-The Value Chain Hackers process follows **Theory U** (Otto Scharmer, MIT).  
-This approach guides how projects evolve from observation to transformation.
+## 📝 Content Management
 
-| Phase | Description | VCH Example |
-|--------|--------------|-------------|
-| **1. Downloading** | Observe and question existing supply chain patterns. | Students research problems in current systems. |
-| **2. Seeing** | Collect data and perspectives from all stakeholders. | Interviews, field studies, and data mapping. |
-| **3. Sensing** | Build shared awareness of challenges. | Joint workshops and discussions. |
-| **4. Presencing** | Reflect deeply and allow new ideas to emerge. | Retreats or creative sessions. |
-| **5. Crystallizing** | Define clear project intentions. | Set research goals and hypotheses. |
-| **6. Prototyping** | Develop and test pilot solutions. | Student or partner-led prototype projects. |
-| **7. Performing** | Scale and share successful outcomes. | Published reports, events, new partnerships. |
+### Adding a New Project
 
-This process aligns academic research with real-world innovation cycles.
+1. Create file in `_projects/project-name.md`
+2. Use frontmatter template:
+```yaml
+---
+layout: project
+title: "Project Name"
+description: "Brief description"
+category: student
+tags: [sustainability, AI]
+team: [Name 1, Name 2]
+status: completed
+---
+```
+3. See `.docs/PROJECT_PAGES_GUIDE.md` for details
+
+### Updating LinkedIn Feed
+
+1. Open `index.html`
+2. Find LinkedIn section (lines 388-444)
+3. Update 3 posts with real content
+4. See `.docs/LINKEDIN_UPDATE_GUIDE.md`
+
+### Adding Workshops
+
+1. Upload Quarto/PowerPoint to `assets/workshops/`
+2. Update `workshops.html`
+3. Follow HTML comments for instructions
+
+### Managing Events
+
+1. Create Google Form for registration
+2. Update `events.html` with form ID
+3. See `.docs/EVENT_REGISTRATION_GUIDE.md`
 
 ---
 
-## 10. Maintenance & Governance
-- **Content updates:** Monthly (Christiaan + Maxime).  
-- **Design updates:** Every semester or major campaign.  
-- **Hosting:** Under Windesheim or ValueChainHackers.xyz domain.  
-- **Version control:** All text stored in GitHub for transparency.  
-- **Feedback loop:** Simple form or Discord channel for comments and improvement suggestions.
+## 🛠️ Tech Stack
+
+- **Jekyll** - Static site generator
+- **Tailwind CSS** - Utility-first CSS (via CDN)
+- **Font Awesome 6.4** - Icons
+- **Google Fonts** - Inter typeface
+- **EmailJS** - Contact form
+- **GitHub Actions** - Discord deployment notifications
 
 ---
 
-## 11. Success Criteria
-- New research collaborations initiated through contact form or Discord.  
-- Increase in website traffic to research outputs by next semester.  
-- Positive engagement metrics (event registrations, GitHub visits, downloads).  
-- Recognition of VCH as a reference point for supply chain innovation.
+## 📚 Documentation
+
+All documentation is in the `.docs/` directory:
+
+- `TASKS.md` - Current tasks & issues (kept in root for visibility)
+- `.docs/PERFORMANCE_IMPROVEMENTS.md` - Performance optimization guide
+- `.docs/EMAILJS_SETUP_GUIDE.md` - Contact form setup
+- `.docs/LINKEDIN_UPDATE_GUIDE.md` - Monthly LinkedIn updates
+- `.docs/EVENT_REGISTRATION_GUIDE.md` - Event registration system
+- `.docs/DISCORD_WEBHOOK_SETUP.md` - Discord notifications
+- `.docs/PROJECT_PAGES_GUIDE.md` - How to add projects
+- `.docs/DNS_SUBDOMAIN_SETUP.md` - DNS configuration
 
 ---
 
-## 12. Future Extensions
-- Integration of **OpenWebUI** for AI-assisted research navigation.  
-- Interactive **project dashboards** (Quarto or Supabase-based).  
-- **Student showcase pages** for each semester’s cohort.  
-- Multi-language support (English + Dutch).
+## 🔧 Configuration
+
+### Required Setup
+
+1. **EmailJS** (for contact form)
+   - Create account at emailjs.com
+   - Add API keys to `index.html`
+   - See `.docs/EMAILJS_SETUP_GUIDE.md`
+
+2. **Discord Webhook** (for deployment notifications)
+   - Create webhook in Discord
+   - Add to GitHub Secrets as `DISCORD_WEBHOOK`
+   - See `.docs/DISCORD_WEBHOOK_SETUP.md`
+
+3. **Google Forms** (for event registration)
+   - Create forms for each event
+   - Update `events.html` with form IDs
+   - See `.docs/EVENT_REGISTRATION_GUIDE.md`
+
+### Optional Setup
+
+- **LinkedIn Feed** - Update monthly with real posts
+- **Discord Widget** - Add server ID to `index.html`
 
 ---
 
-## 13. Files & References
-- Canva prompt: *VCH Website Design Prompt*  
-- Color palette and typography references.  
-- Stakeholder maps, Theory U visuals, and roadmap diagrams.  
-- GitHub repository (VCH Website Project).  
-- Domain: [https://valuechainhackers.xyz](https://valuechainhackers.xyz)
+## 🎯 Current Tasks
+
+See `TASKS.md` for the complete list of:
+- 🔴 Critical issues
+- 🟡 High priority items
+- 🟢 Medium priority improvements
+- 🔵 Future enhancements
 
 ---
 
-**Prepared by:** Christiaan Verhoef  
-**Date:** October 2025  
-**For:** AI/Design Assistant handover (VCH Website Project)
+## 👥 Team
+
+- **Michiel Steeman** - Lector, Project Owner
+- **Maxime Bouillon** - Teacher/Researcher, Manager
+- **Rea Vaz** - Researcher
+- **Christiaan Verhoef** - Technical Facilitator
+
+---
+
+## 📧 Contact
+
+- **Email:** info@valuechainhackers.xyz
+- **Discord:** [discord.gg/mkbjsQsV](https://discord.gg/mkbjsQsV)
+- **Website:** [valuechainhackers.xyz](https://valuechainhackers.xyz)
+
+---
+
+## 📄 License
+
+This project is maintained by Value Chain Hackers at Windesheim University.
+
+---
+
+## 🔄 Recent Updates
+
+### October 2025
+- ✅ Added auto-updating news pages (Sustainability + AI)
+- ✅ Created workshops page with upload system
+- ✅ Built interactive onboarding flow
+- ✅ Added events page with Google Forms registration
+- ✅ Converted all images to WebP (90% size reduction)
+- ✅ Optimized LCP performance (<2.5s target)
+- ✅ Added navigation for all new pages
+- ✅ Fixed header logo
+- ✅ Implemented Discord webhook for deployments
+
+See `.docs/` for detailed change history.
