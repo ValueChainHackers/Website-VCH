@@ -4,6 +4,12 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+#Large Project Files
+Pitches/
+Research/
+StudentProjects/
+
+
 # Ruby
 .bundle/
 vendor/

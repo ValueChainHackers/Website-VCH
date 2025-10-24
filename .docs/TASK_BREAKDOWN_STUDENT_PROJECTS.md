@@ -155,12 +155,14 @@ This document provides a comprehensive breakdown of all tasks for updating the V
 | Task | Team/Event | Status | Completion % | Blockers |
 |------|-----------|--------|--------------|----------|
 | Cacao Track | Suzie & Lonneke | ✅ Complete | 100% | None |
-| CRM/Li-Monti | TBD | 🔄 In Progress | 20% | Need to read docs |
+| CRM/Li-Monti | TBD | ⏸️ Pending | 0% | Need to read docs |
 | Textile Track | TBD | ⏸️ Pending | 0% | Team names unknown |
 | Autumn 2025 Photos | Brainstorming Event | ⏸️ Pending | 0% | Event context needed |
 | Spring 2025 Photos | Presentation Event | ⏸️ Pending | 0% | Event context needed |
+| LinkedIn Feed Fix | Static Implementation | ⏸️ Pending | 0% | Needs Jekyll-compatible approach |
+| News Pages Verify | AI + Sustainability | ⏸️ Pending | 0% | Verify GitHub Actions working |
 
-**Overall Progress:** 2/8 tasks complete (25%)
+**Overall Progress:** 1/7 tasks complete (14%)
 
 ---
 
@@ -191,6 +193,75 @@ For each task to be considered "done", it must meet:
 - [ ] Project appears correctly in navigation
 - [ ] Project cards link to detail pages
 - [ ] Related content is cross-linked
+
+---
+
+### Task 6: LinkedIn Feed Fix
+**Status:** ⏸️ PENDING
+**Priority:** HIGH
+**Estimated Time:** 3-4 hours
+
+**Current Issue:**
+- LinkedIn feed on homepage is currently using placeholder/client-side approach
+- Needs Jekyll-compatible STATIC implementation (no client-side JavaScript)
+- Must work with GitHub Pages static site generation
+
+**Constraints:**
+- ⚠️ **CRITICAL:** This is a Jekyll static site hosted through GitHub with GitHub Actions
+- Cannot use client-side JavaScript to fetch LinkedIn posts
+- Solution must generate HTML at build time
+
+**Possible Approaches:**
+1. **Manual curation:** User updates a YAML data file with LinkedIn post details
+2. **GitHub Actions workflow:** Fetch LinkedIn posts during build (requires LinkedIn API credentials)
+3. **RSS-to-Jekyll:** If LinkedIn provides RSS, parse during build like news feeds
+4. **Embed widget:** Use official LinkedIn embed (but may have client-side limitations)
+
+**Next Steps:**
+1. Check current implementation in homepage
+2. Determine which approach is feasible (likely manual curation for start)
+3. Create `_data/linkedin_posts.yml` structure
+4. Update homepage to read from data file
+5. Document how user updates the feed
+
+**Questions for User:**
+- Do you have LinkedIn API credentials?
+- How often do you want to update LinkedIn feed?
+- Manual updates acceptable, or need automation?
+
+---
+
+### Task 7: Verify News Pages Working
+**Status:** ⏸️ PENDING
+**Priority:** MEDIUM
+**Estimated Time:** 1-2 hours
+
+**Background:**
+- AI news and Sustainability news pages were rebuilt with Jekyll-compatible architecture
+- Now use GitHub Actions + Python + Jekyll data files instead of client-side JavaScript
+- Workflow: `.github/workflows/update-news-feeds.yml`
+- Python script: `scripts/fetch_news_feeds.py`
+- Data files: `_data/ai_news.yml` and `_data/sustainability_news.yml`
+
+**Verification Needed:**
+1. Check if GitHub Actions workflow has run successfully
+2. Verify data files are populated with news articles
+3. Test that pages display content correctly
+4. Confirm RSS feeds are being fetched properly
+5. Test manual workflow trigger (if needed)
+
+**Potential Issues:**
+- Python dependencies may need to be installed in workflow
+- RSS feeds may be blocked or rate-limited
+- YAML formatting issues
+- Liquid template syntax errors
+
+**Next Steps:**
+1. Check GitHub Actions runs: `gh run list`
+2. View latest workflow logs: `gh run view --log`
+3. Check if data files have content: `cat _data/ai_news.yml`
+4. Visit pages to verify display
+5. Manually trigger workflow if needed: `gh workflow run update-news-feeds.yml`
 
 ---
 
