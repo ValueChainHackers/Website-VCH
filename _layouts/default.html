@@ -33,6 +33,12 @@
     <meta name="language" content="English">
     <meta name="revisit-after" content="7 days">
 
+    <!-- Performance Optimizations: Preconnect to External Domains -->
+    <link rel="preconnect" href="https://cdn.tailwindcss.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -52,12 +58,14 @@
             }
         }
     </script>
-    
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Google Fonts: Optimized with font-display swap for better LCP -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet"></noscript>
+
+    <!-- Font Awesome: Deferred loading (not needed for LCP) -->
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -185,7 +193,10 @@
                     <!-- Team Member 1 -->
                     <div class="text-center">
                         <a href="{{ '/team/michiel-steeman/' | relative_url }}">
-                            <img src="{{ '/assets/images/michiel.png' | relative_url }}" alt="Michiel Steeman" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
+                            <picture>
+                                <source srcset="{{ '/assets/images/michiel.webp' | relative_url }}" type="image/webp">
+                                <img src="{{ '/assets/images/michiel.png' | relative_url }}" alt="Michiel Steeman" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
+                            </picture>
                         </a>
                         <a href="{{ '/team/michiel-steeman/' | relative_url }}" class="hover:text-vch-green">
                             <h4 class="font-semibold text-vch-gray">Michiel Steeman</h4>
@@ -195,7 +206,10 @@
                     <!-- Team Member 2 -->
                     <div class="text-center">
                         <a href="{{ '/team/maxime-bouillon/' | relative_url }}">
-                            <img src="{{ '/assets/images/maxime.jpg' | relative_url }}" alt="Maxime Bouillon" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
+                            <picture>
+                                <source srcset="{{ '/assets/images/maxime.webp' | relative_url }}" type="image/webp">
+                                <img src="{{ '/assets/images/maxime.jpg' | relative_url }}" alt="Maxime Bouillon" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
+                            </picture>
                         </a>
                         <a href="{{ '/team/maxime-bouillon/' | relative_url }}" class="hover:text-vch-green">
                             <h4 class="font-semibold text-vch-gray">Maxime Bouillon</h4>
@@ -205,7 +219,10 @@
                     <!-- Team Member 3 -->
                     <div class="text-center">
                         <a href="{{ '/team/rea-vaz/' | relative_url }}">
-                            <img src="{{ '/assets/images/rea.jpg' | relative_url }}" alt="Rea Vaz" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
+                            <picture>
+                                <source srcset="{{ '/assets/images/rea.webp' | relative_url }}" type="image/webp">
+                                <img src="{{ '/assets/images/rea.jpg' | relative_url }}" alt="Rea Vaz" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
+                            </picture>
                         </a>
                         <a href="{{ '/team/rea-vaz/' | relative_url }}" class="hover:text-vch-green">
                             <h4 class="font-semibold text-vch-gray">Rea Vaz</h4>
@@ -215,7 +232,10 @@
                     <!-- Team Member 4 -->
                     <div class="text-center">
                         <a href="{{ '/team/christiaan-verhoef/' | relative_url }}">
-                            <img src="{{ '/assets/images/christiaan.jpeg' | relative_url }}" alt="Christiaan Verhoef" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
+                            <picture>
+                                <source srcset="{{ '/assets/images/christiaan.webp' | relative_url }}" type="image/webp">
+                                <img src="{{ '/assets/images/christiaan.jpeg' | relative_url }}" alt="Christiaan Verhoef" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover hover:opacity-80 transition-opacity" width="96" height="96" loading="lazy">
+                            </picture>
                         </a>
                         <a href="{{ '/team/christiaan-verhoef/' | relative_url }}" class="hover:text-vch-green">
                             <h4 class="font-semibold text-vch-gray">Christiaan Verhoef</h4>
