@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sustainability & Supply Chain Finance News
-description: Live news feed covering sustainable supply chain finance, circular economy initiatives, and green finance projects - automatically updated
+description: Curated news feed covering sustainable supply chain finance, circular economy initiatives, and green finance projects - updated daily via automated RSS aggregation
 ---
 
 <div class="bg-gradient-to-r from-vch-green to-vch-yellow py-20">
@@ -11,12 +11,14 @@ description: Live news feed covering sustainable supply chain finance, circular 
             Sustainability & Supply Chain Finance News
         </h1>
         <p class="text-xl text-white/90 max-w-3xl mx-auto">
-            Live news feed from leading industry sources - automatically updated daily
+            Curated news feed from leading industry sources - automatically updated daily
         </p>
+        {% if site.data.sustainability_news.last_updated %}
         <div class="mt-4 text-sm text-white/80">
             <i class="fas fa-sync-alt mr-2"></i>
-            Last updated: <span id="last-updated">Loading...</span>
+            Last updated: {{ site.data.sustainability_news.last_updated | date: "%B %d, %Y at %I:%M %p" }}
         </div>
+        {% endif %}
     </div>
 </div>
 
@@ -24,20 +26,17 @@ description: Live news feed covering sustainable supply chain finance, circular 
 <div class="bg-white border-b sticky top-0 z-10 shadow-sm">
     <div class="max-w-7xl mx-auto px-4">
         <div class="flex gap-4 overflow-x-auto py-4">
-            <button class="source-filter active px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="all">
+            <button class="source-filter active px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all bg-vch-green text-white" data-source="all">
                 <i class="fas fa-th mr-2"></i>All Sources
             </button>
-            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="supply-chain">
+            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all bg-gray-100 text-vch-gray" data-source="supply-chain">
                 <i class="fas fa-truck mr-2"></i>Supply Chain
             </button>
-            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="sustainability">
+            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all bg-gray-100 text-vch-gray" data-source="sustainability">
                 <i class="fas fa-leaf mr-2"></i>Sustainability
             </button>
-            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="circular">
+            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all bg-gray-100 text-vch-gray" data-source="circular">
                 <i class="fas fa-recycle mr-2"></i>Circular Economy
-            </button>
-            <button class="source-filter px-6 py-2 rounded-full font-semibold whitespace-nowrap transition-all" data-source="finance">
-                <i class="fas fa-chart-line mr-2"></i>Finance
             </button>
         </div>
     </div>
@@ -46,30 +45,57 @@ description: Live news feed covering sustainable supply chain finance, circular 
 <!-- Main Content -->
 <div class="max-w-7xl mx-auto px-4 py-12">
 
-    <!-- Loading State -->
-    <div id="loading-state" class="text-center py-12">
-        <div class="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-vch-green mb-4"></div>
-        <p class="text-vch-light-gray">Loading latest news from RSS feeds...</p>
+    {% if site.data.sustainability_news.articles.size == 0 %}
+    <!-- Empty State -->
+    <div class="text-center py-12">
+        <i class="fas fa-newspaper text-vch-light-gray text-6xl mb-4"></i>
+        <p class="text-vch-light-gray text-lg mb-2">News articles will appear here once the feed is updated</p>
+        <p class="text-sm text-vch-light-gray">The automated RSS feed aggregator runs daily to fetch the latest news</p>
     </div>
-
-    <!-- Error State -->
-    <div id="error-state" class="hidden bg-red-50 border border-red-200 rounded-xl p-6 mb-8">
-        <div class="flex items-start gap-4">
-            <i class="fas fa-exclamation-triangle text-red-500 text-2xl"></i>
-            <div>
-                <h3 class="font-bold text-red-900 mb-2">Unable to Load News Feeds</h3>
-                <p class="text-red-700 text-sm mb-3">We're having trouble loading the latest news. This might be due to network connectivity or RSS feed availability.</p>
-                <button onclick="location.reload()" class="px-4 py-2 bg-red-600 text-white rounded-lg text-sm font-semibold hover:bg-red-700">
-                    <i class="fas fa-sync-alt mr-2"></i>Try Again
-                </button>
+    {% else %}
+    <!-- News Feed Grid -->
+    <div id="news-container" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {% for article in site.data.sustainability_news.articles %}
+        <article class="news-article bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all" data-category="{{ article.category }}">
+            <div class="p-6">
+                <div class="flex items-center gap-2 mb-3">
+                    {% assign category_class = '' %}
+                    {% case article.category %}
+                        {% when 'supply-chain' %}
+                            {% assign category_class = 'bg-blue-100 text-blue-700' %}
+                        {% when 'sustainability' %}
+                            {% assign category_class = 'bg-green-100 text-green-700' %}
+                        {% when 'circular' %}
+                            {% assign category_class = 'bg-purple-100 text-purple-700' %}
+                        {% else %}
+                            {% assign category_class = 'bg-gray-100 text-gray-700' %}
+                    {% endcase %}
+                    <span class="px-3 py-1 {{ category_class }} rounded-full text-xs font-semibold">
+                        <i class="fas {{ article.icon }} mr-1"></i>{{ article.source }}
+                    </span>
+                </div>
+                <h3 class="text-lg font-bold text-vch-gray mb-3 line-clamp-2">
+                    {{ article.title }}
+                </h3>
+                <p class="text-vch-light-gray text-sm mb-4 line-clamp-3">
+                    {{ article.description }}
+                </p>
+                <div class="flex items-center justify-between">
+                    <div class="text-xs text-vch-light-gray">
+                        <i class="fas fa-calendar mr-1"></i>{{ article.pub_date | date: "%b %d, %Y" }}
+                    </div>
+                    <a href="{{ article.link }}"
+                       target="_blank"
+                       rel="noopener noreferrer"
+                       class="text-vch-green hover:text-green-600 font-semibold text-sm">
+                        Read More →
+                    </a>
+                </div>
             </div>
-        </div>
+        </article>
+        {% endfor %}
     </div>
-
-    <!-- News Feed Container -->
-    <div id="news-container" class="hidden">
-        <!-- News articles will be dynamically inserted here -->
-    </div>
+    {% endif %}
 
     <!-- RSS Feed Sources Info -->
     <div class="mt-16 bg-gradient-to-r from-vch-green/10 to-vch-yellow/10 rounded-2xl p-8">
@@ -90,236 +116,30 @@ description: Live news feed covering sustainable supply chain finance, circular 
                 <h3 class="font-bold text-vch-gray mb-2">Sustainability</h3>
                 <ul class="text-sm text-vch-light-gray space-y-1">
                     <li><i class="fas fa-check text-vch-green mr-2"></i>Circular Online</li>
-                    <li><i class="fas fa-check text-vch-green mr-2"></i>Sustainability Matters</li>
                     <li><i class="fas fa-check text-vch-green mr-2"></i>BSR Insights</li>
                 </ul>
             </div>
             <div class="bg-white rounded-lg p-5">
-                <h3 class="font-bold text-vch-gray mb-2">Circular Economy</h3>
-                <ul class="text-sm text-vch-light-gray space-y-1">
-                    <li><i class="fas fa-check text-vch-green mr-2"></i>Zero Waste Europe</li>
-                    <li><i class="fas fa-check text-vch-green mr-2"></i>Recycling Product News</li>
-                    <li><i class="fas fa-check text-vch-green mr-2"></i>UNEP News</li>
-                </ul>
+                <h3 class="font-bold text-vch-gray mb-2">How It Works</h3>
+                <p class="text-sm text-vch-light-gray">
+                    <i class="fas fa-sync-alt mr-2 text-vch-green"></i>
+                    News feeds are automatically aggregated daily via GitHub Actions. The RSS feeds are fetched, processed, and built into this static page for optimal performance and SEO.
+                </p>
             </div>
         </div>
-        <p class="text-sm text-vch-light-gray mt-6 text-center">
-            <i class="fas fa-sync-alt mr-2"></i>
-            News feeds are automatically updated every hour from trusted industry sources
-        </p>
     </div>
 
 </div>
 
-<!-- RSS Feed Configuration & JavaScript -->
+<!-- Filter JavaScript (client-side filtering only) -->
 <script>
-    // RSS Feed Configuration
-    const RSS_FEEDS = [
-        // Supply Chain Feeds
-        {
-            url: 'https://www.supplychainbrain.com/rss',
-            name: 'SupplyChainBrain',
-            category: 'supply-chain',
-            icon: 'fa-truck'
-        },
-        {
-            url: 'https://www.supplychain247.com/rss',
-            name: 'Supply Chain 24/7',
-            category: 'supply-chain',
-            icon: 'fa-boxes'
-        },
-        {
-            url: 'https://www.logisticsmgmt.com/rss',
-            name: 'Logistics Management',
-            category: 'supply-chain',
-            icon: 'fa-warehouse'
-        },
-        // Sustainability Feeds
-        {
-            url: 'https://www.sustainabilitymatters.net.au/feeds/rss',
-            name: 'Sustainability Matters',
-            category: 'sustainability',
-            icon: 'fa-leaf'
-        },
-        {
-            url: 'https://www.bsr.org/en/latest.rss',
-            name: 'BSR Insights',
-            category: 'sustainability',
-            icon: 'fa-globe'
-        },
-        // Circular Economy Feeds
-        {
-            url: 'https://www.unep.org/news-and-stories/rss.xml',
-            name: 'UNEP News',
-            category: 'circular',
-            icon: 'fa-recycle'
-        },
-        {
-            url: 'https://www.recyclingproductnews.com/rss',
-            name: 'Recycling Product News',
-            category: 'circular',
-            icon: 'fa-sync-alt'
-        }
-    ];
-
-    // State Management
-    let allArticles = [];
-    let currentFilter = 'all';
-
-    // Initialize on page load
     document.addEventListener('DOMContentLoaded', function() {
-        loadAllFeeds();
         setupFilterButtons();
     });
 
-    // Load all RSS feeds
-    async function loadAllFeeds() {
-        const loadingState = document.getElementById('loading-state');
-        const errorState = document.getElementById('error-state');
-        const newsContainer = document.getElementById('news-container');
-
-        try {
-            // Fetch all feeds in parallel
-            const feedPromises = RSS_FEEDS.map(feed => fetchFeed(feed));
-            const results = await Promise.allSettled(feedPromises);
-
-            // Collect all articles
-            results.forEach((result, index) => {
-                if (result.status === 'fulfilled' && result.value) {
-                    allArticles = allArticles.concat(result.value);
-                }
-            });
-
-            // Sort by date (newest first)
-            allArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-            // Update UI
-            loadingState.style.display = 'none';
-
-            if (allArticles.length === 0) {
-                errorState.classList.remove('hidden');
-            } else {
-                newsContainer.classList.remove('hidden');
-                renderArticles();
-                updateLastUpdated();
-            }
-
-        } catch (error) {
-            console.error('Error loading feeds:', error);
-            loadingState.style.display = 'none';
-            errorState.classList.remove('hidden');
-        }
-    }
-
-    // Fetch individual RSS feed using rss2json API
-    async function fetchFeed(feed) {
-        try {
-            // Using rss2json.com free API (max 10,000 requests/day)
-            const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}&api_key=public&count=10`;
-
-            const response = await fetch(apiUrl);
-            const data = await response.json();
-
-            if (data.status === 'ok' && data.items) {
-                return data.items.map(item => ({
-                    title: item.title,
-                    link: item.link,
-                    description: stripHtml(item.description || item.content || '').substring(0, 200) + '...',
-                    pubDate: item.pubDate,
-                    source: feed.name,
-                    category: feed.category,
-                    icon: feed.icon
-                }));
-            }
-            return [];
-        } catch (error) {
-            console.error(`Error fetching ${feed.name}:`, error);
-            return [];
-        }
-    }
-
-    // Strip HTML tags from description
-    function stripHtml(html) {
-        const tmp = document.createElement('DIV');
-        tmp.innerHTML = html;
-        return tmp.textContent || tmp.innerText || '';
-    }
-
-    // Render articles to the page
-    function renderArticles() {
-        const container = document.getElementById('news-container');
-        const filtered = currentFilter === 'all'
-            ? allArticles
-            : allArticles.filter(article => article.category === currentFilter);
-
-        if (filtered.length === 0) {
-            container.innerHTML = `
-                <div class="text-center py-12">
-                    <i class="fas fa-newspaper text-vch-light-gray text-6xl mb-4"></i>
-                    <p class="text-vch-light-gray">No articles found for this category.</p>
-                </div>
-            `;
-            return;
-        }
-
-        const html = `
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                ${filtered.map(article => createArticleCard(article)).join('')}
-            </div>
-        `;
-
-        container.innerHTML = html;
-    }
-
-    // Create article card HTML
-    function createArticleCard(article) {
-        const date = new Date(article.pubDate);
-        const formattedDate = date.toLocaleDateString('en-US', {
-            month: 'short',
-            day: 'numeric',
-            year: 'numeric'
-        });
-
-        const categoryColors = {
-            'supply-chain': 'bg-blue-100 text-blue-700',
-            'sustainability': 'bg-green-100 text-green-700',
-            'circular': 'bg-purple-100 text-purple-700',
-            'finance': 'bg-yellow-100 text-yellow-800'
-        };
-
-        return `
-            <article class="news-article bg-white rounded-xl shadow-sm border hover:shadow-lg transition-all">
-                <div class="p-6">
-                    <div class="flex items-center gap-2 mb-3">
-                        <span class="px-3 py-1 ${categoryColors[article.category] || 'bg-gray-100 text-gray-700'} rounded-full text-xs font-semibold">
-                            <i class="fas ${article.icon} mr-1"></i>${article.source}
-                        </span>
-                    </div>
-                    <h3 class="text-lg font-bold text-vch-gray mb-3 line-clamp-2">
-                        ${article.title}
-                    </h3>
-                    <p class="text-vch-light-gray text-sm mb-4 line-clamp-3">
-                        ${article.description}
-                    </p>
-                    <div class="flex items-center justify-between">
-                        <div class="text-xs text-vch-light-gray">
-                            <i class="fas fa-calendar mr-1"></i>${formattedDate}
-                        </div>
-                        <a href="${article.link}"
-                           target="_blank"
-                           rel="noopener noreferrer"
-                           class="text-vch-green hover:text-green-600 font-semibold text-sm">
-                            Read More →
-                        </a>
-                    </div>
-                </div>
-            </article>
-        `;
-    }
-
-    // Setup filter buttons
     function setupFilterButtons() {
         const filterButtons = document.querySelectorAll('.source-filter');
+        const articles = document.querySelectorAll('.news-article');
 
         filterButtons.forEach(button => {
             button.addEventListener('click', function() {
@@ -327,45 +147,27 @@ description: Live news feed covering sustainable supply chain finance, circular 
 
                 // Update active button
                 filterButtons.forEach(btn => {
-                    btn.classList.remove('active', 'bg-vch-green', 'text-white');
+                    btn.classList.remove('bg-vch-green', 'text-white');
                     btn.classList.add('bg-gray-100', 'text-vch-gray');
                 });
                 this.classList.remove('bg-gray-100', 'text-vch-gray');
-                this.classList.add('active', 'bg-vch-green', 'text-white');
+                this.classList.add('bg-vch-green', 'text-white');
 
-                // Update filter and re-render
-                currentFilter = source;
-                renderArticles();
+                // Filter articles
+                articles.forEach(article => {
+                    const category = article.getAttribute('data-category');
+                    if (source === 'all' || category === source) {
+                        article.style.display = 'block';
+                    } else {
+                        article.style.display = 'none';
+                    }
+                });
             });
         });
-
-        // Set initial active state
-        document.querySelector('.source-filter.active').classList.add('bg-vch-green', 'text-white');
-        document.querySelectorAll('.source-filter:not(.active)').forEach(btn => {
-            btn.classList.add('bg-gray-100', 'text-vch-gray');
-        });
-    }
-
-    // Update last updated timestamp
-    function updateLastUpdated() {
-        const now = new Date();
-        const formatted = now.toLocaleString('en-US', {
-            month: 'short',
-            day: 'numeric',
-            year: 'numeric',
-            hour: '2-digit',
-            minute: '2-digit'
-        });
-        document.getElementById('last-updated').textContent = formatted;
     }
 </script>
 
 <style>
-    .source-filter.active {
-        background-color: #7DB04D;
-        color: white;
-    }
-
     .news-article {
         transition: transform 0.2s, box-shadow 0.2s;
     }
@@ -386,13 +188,5 @@ description: Live news feed covering sustainable supply chain finance, circular 
         -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
         overflow: hidden;
-    }
-
-    @keyframes spin {
-        to { transform: rotate(360deg); }
-    }
-
-    .animate-spin {
-        animation: spin 1s linear infinite;
     }
 </style>
