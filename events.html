@@ -415,6 +415,76 @@ description: Discover VCH workshops, meetups, and regional events around Zwolle 
     document.querySelectorAll('.category-filter:not(.active)').forEach(btn => {
         btn.classList.add('bg-gray-100', 'text-vch-gray');
     });
+
+    // Event Registration Modal System
+    function openRegistrationModal(formId, eventName) {
+        // Create modal overlay
+        const modal = document.createElement('div');
+        modal.id = 'registration-modal';
+        modal.className = 'fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50 p-4';
+        modal.onclick = function(e) {
+            if (e.target === modal) closeRegistrationModal();
+        };
+
+        // Create modal content
+        const modalContent = document.createElement('div');
+        modalContent.className = 'bg-white rounded-xl shadow-2xl max-w-2xl w-full max-h-[90vh] flex flex-col';
+        modalContent.onclick = function(e) {
+            e.stopPropagation();
+        };
+
+        // Header
+        const header = document.createElement('div');
+        header.className = 'flex items-center justify-between p-6 border-b';
+        header.innerHTML = `
+            <div>
+                <h2 class="text-2xl font-bold text-vch-gray">Register for Event</h2>
+                <p class="text-sm text-vch-light-gray mt-1">${eventName}</p>
+            </div>
+            <button onclick="closeRegistrationModal()" class="text-gray-400 hover:text-gray-600 transition-colors">
+                <i class="fas fa-times text-2xl"></i>
+            </button>
+        `;
+
+        // Iframe container
+        const iframeContainer = document.createElement('div');
+        iframeContainer.className = 'flex-1 overflow-hidden';
+        iframeContainer.innerHTML = `
+            <iframe src="https://docs.google.com/forms/d/e/${formId}/viewform?embedded=true"
+                    width="100%"
+                    height="100%"
+                    frameborder="0"
+                    marginheight="0"
+                    marginwidth="0"
+                    class="w-full h-full">
+                Loading…
+            </iframe>
+        `;
+
+        // Assemble modal
+        modalContent.appendChild(header);
+        modalContent.appendChild(iframeContainer);
+        modal.appendChild(modalContent);
+        document.body.appendChild(modal);
+
+        // Prevent body scroll
+        document.body.style.overflow = 'hidden';
+    }
+
+    function closeRegistrationModal() {
+        const modal = document.getElementById('registration-modal');
+        if (modal) {
+            modal.remove();
+            document.body.style.overflow = '';
+        }
+    }
+
+    // Close modal on Escape key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            closeRegistrationModal();
+        }
+    });
 </script>
 
 <style>
