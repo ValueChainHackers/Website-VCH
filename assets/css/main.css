@@ -1,0 +1,19 @@
+/* Tailwind CSS Source File for Value Chain Hackers Website */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Custom component styles */
+@layer components {
+  .section-spacing {
+    @apply py-16;
+  }
+}

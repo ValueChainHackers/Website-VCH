@@ -39,25 +39,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://cdnjs.cloudflare.com">
 
-    <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        'vch-green': '#7DB04D',
-                        'vch-green-dark': '#5A8037',
-                        'vch-yellow': '#F1C144',
-                        'vch-orange': '#F4A300',
-                        'vch-gray': '#333333',
-                        'vch-light-gray': '#666666',
-                        'vch-bg': '#F9F9F9'
-                    }
-                }
-            }
-        }
-    </script>
+    <!-- Tailwind CSS - Locally Compiled (No Render-Blocking!) -->
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 
     <!-- Google Fonts: Optimized with font-display swap for better LCP -->
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
