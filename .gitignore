@@ -32,3 +32,10 @@ Thumbs.db
 # Logs
 *.log
 npm-debug.log*
+
+# Accidentally copied student project files
+Projects/Bakery track/
+Projects/CRM track/
+Projects/Cacao track/
+Projects/Cacao track2025/
+Projects/Textile track/
