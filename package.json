@@ -1,0 +1,25 @@
+{
+  "name": "website-vch",
+  "version": "1.0.0",
+  "description": "Official website for Value Chain Hackers - a student-led initiative at Windesheim University bringing together students, researchers, and businesses to solve real-world supply chain challenges.",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss -i assets/css/main.css -o assets/css/styles.css --minify",
+    "watch:css": "tailwindcss -i assets/css/main.css -o assets/css/styles.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValueChainHackers/Website-VCH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValueChainHackers/Website-VCH/issues"
+  },
+  "homepage": "https://github.com/ValueChainHackers/Website-VCH#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.18"
+  }
+}
