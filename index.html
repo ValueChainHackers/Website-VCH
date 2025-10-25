@@ -6,25 +6,74 @@ description: Value Chain Hackers brings together students, researchers, and busi
 ---
 
 <!-- Hero Section -->
-<section class="section-spacing bg-white">
-    <div class="max-w-7xl mx-auto px-4 text-center">
-        <h1 class="text-4xl md:text-6xl font-bold text-vch-gray mb-6">
-            Hacking Supply Chains for a <span class="text-vch-green">Sustainable Future</span>
+<section class="relative bg-gradient-to-br from-white via-vch-bg to-green-50 overflow-hidden">
+    <!-- Background Pattern -->
+    <div class="absolute inset-0 opacity-5">
+        <svg class="w-full h-full" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+                    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="currentColor" stroke-width="1"/>
+                </pattern>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#grid)" />
+        </svg>
+    </div>
+
+    <div class="relative max-w-7xl mx-auto px-4 py-20 md:py-28 text-center">
+        <!-- Main Headline -->
+        <h1 class="text-5xl md:text-7xl font-bold text-vch-gray mb-6 leading-tight">
+            Hacking Supply Chains for a<br>
+            <span class="text-vch-green relative inline-block">
+                Sustainable Future
+                <svg class="absolute -bottom-2 left-0 w-full" height="12" viewBox="0 0 300 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M2 10C50 5 100 2 150 2C200 2 250 5 298 10" stroke="#8fbc3f" stroke-width="3" stroke-linecap="round"/>
+                </svg>
+            </span>
         </h1>
-        <p class="text-xl text-vch-light-gray mb-8 max-w-2xl mx-auto">
-            We're students, researchers, and industry partners collaborating to solve real-world supply chain challenges through innovative research and transparent partnerships.
+
+        <!-- Subheadline -->
+        <p class="text-xl md:text-2xl text-vch-light-gray mb-12 max-w-3xl mx-auto leading-relaxed">
+            Students, researchers, and industry partners collaborating to solve real-world supply chain challenges through innovative research and transparent partnerships.
         </p>
-        <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="#research" class="bg-vch-green text-white px-8 py-3 rounded-lg font-semibold hover:bg-green-600 transition-colors">
-                Explore Our Research
+
+        <!-- CTA Buttons - Enhanced -->
+        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+            <a href="{{ '/projects/' | relative_url }}" class="group bg-vch-green text-white px-10 py-4 rounded-lg font-bold text-lg hover:bg-vch-green-dark transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1 inline-flex items-center">
+                Explore Our Projects
+                <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
             </a>
-            <a href="{{ '/collaborate/' | relative_url }}" class="border-2 border-vch-green text-vch-green px-8 py-3 rounded-lg font-semibold hover:bg-vch-green hover:text-white transition-colors">
-                Start a Collaboration
-            </a>
-            <a href="#community" class="bg-vch-yellow text-vch-gray px-8 py-3 rounded-lg font-semibold hover:bg-yellow-500 transition-colors">
-                Join Our Community
+            <a href="{{ '/collaborate/' | relative_url }}" class="group border-3 border-vch-green text-vch-green px-10 py-4 rounded-lg font-bold text-lg hover:bg-vch-green hover:text-white transition-all duration-300 shadow-md hover:shadow-lg transform hover:-translate-y-1 inline-flex items-center">
+                Start Collaborating
+                <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"/>
+                </svg>
             </a>
         </div>
+
+        <!-- Stats Bar -->
+        <div class="grid grid-cols-3 gap-8 max-w-3xl mx-auto">
+            <div class="text-center">
+                <div class="text-4xl font-bold text-vch-green mb-2">12</div>
+                <div class="text-sm text-vch-light-gray font-semibold">Active Projects</div>
+            </div>
+            <div class="text-center">
+                <div class="text-4xl font-bold text-vch-green mb-2">43</div>
+                <div class="text-sm text-vch-light-gray font-semibold">Student Researchers</div>
+            </div>
+            <div class="text-center">
+                <div class="text-4xl font-bold text-vch-green mb-2">9</div>
+                <div class="text-sm text-vch-light-gray font-semibold">Industry Partners</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bottom Wave -->
+    <div class="absolute bottom-0 left-0 right-0">
+        <svg viewBox="0 0 1440 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full">
+            <path d="M0 120L60 110C120 100 240 80 360 70C480 60 600 60 720 65C840 70 960 80 1080 85C1200 90 1320 90 1380 90L1440 90V120H1380C1320 120 1200 120 1080 120C960 120 840 120 720 120C600 120 480 120 360 120C240 120 120 120 60 120H0Z" fill="white"/>
+        </svg>
     </div>
 </section>
 
