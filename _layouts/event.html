@@ -1,0 +1,317 @@
+---
+layout: default
+---
+
+<style>
+    .event-hero {
+        background: linear-gradient(135deg, #2d5016 0%, #8fbc3f 100%);
+    }
+    .platform-card {
+        transition: all 0.3s ease;
+    }
+    .platform-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    }
+    .event-detail-icon {
+        width: 48px;
+        height: 48px;
+        background: #f9f9f9;
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+    }
+</style>
+
+<!-- Event Hero Section -->
+<section class="event-hero text-white py-20">
+    <div class="max-w-5xl mx-auto px-4">
+        <div class="flex items-center gap-3 mb-4">
+            <span class="px-4 py-2 bg-white/20 backdrop-blur rounded-full text-sm font-semibold">
+                {{ page.category }}
+            </span>
+            {% if page.status == 'upcoming' %}
+            <span class="px-4 py-2 bg-vch-yellow text-vch-gray rounded-full text-sm font-semibold">
+                📅 Upcoming Event
+            </span>
+            {% elsif page.status == 'registration-open' %}
+            <span class="px-4 py-2 bg-green-400 text-white rounded-full text-sm font-semibold animate-pulse">
+                ✅ Registration Open
+            </span>
+            {% elsif page.status == 'completed' %}
+            <span class="px-4 py-2 bg-white/40 backdrop-blur rounded-full text-sm font-semibold">
+                ✓ Completed
+            </span>
+            {% endif %}
+        </div>
+
+        <h1 class="text-4xl md:text-5xl font-bold mb-6">{{ page.title }}</h1>
+
+        <p class="text-xl md:text-2xl mb-8 opacity-90">
+            {{ page.description }}
+        </p>
+
+        <!-- Event Details Grid -->
+        <div class="grid md:grid-cols-4 gap-6 mb-8">
+            {% if page.date_time %}
+            <div class="bg-white/10 backdrop-blur rounded-xl p-4">
+                <div class="text-sm opacity-80 mb-1">Date & Time</div>
+                <div class="font-semibold">{{ page.date_time }}</div>
+            </div>
+            {% endif %}
+
+            {% if page.duration %}
+            <div class="bg-white/10 backdrop-blur rounded-xl p-4">
+                <div class="text-sm opacity-80 mb-1">Duration</div>
+                <div class="font-semibold">{{ page.duration }}</div>
+            </div>
+            {% endif %}
+
+            {% if page.location %}
+            <div class="bg-white/10 backdrop-blur rounded-xl p-4">
+                <div class="text-sm opacity-80 mb-1">Location</div>
+                <div class="font-semibold">{{ page.location }}</div>
+            </div>
+            {% endif %}
+
+            {% if page.facilitator %}
+            <div class="bg-white/10 backdrop-blur rounded-xl p-4">
+                <div class="text-sm opacity-80 mb-1">Facilitator</div>
+                <div class="font-semibold">{{ page.facilitator }}</div>
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- Primary CTA -->
+        {% if page.status == 'registration-open' or page.status == 'upcoming' %}
+        <div class="flex flex-col sm:flex-row gap-4">
+            {% if page.primary_registration_link %}
+            <a href="{{ page.primary_registration_link }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="bg-white text-vch-green px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-colors inline-flex items-center justify-center">
+                <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+                </svg>
+                Register Now
+            </a>
+            {% endif %}
+            <a href="#details" class="border-2 border-white text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-white hover:text-vch-green transition-colors inline-flex items-center justify-center">
+                Learn More
+            </a>
+        </div>
+        {% endif %}
+    </div>
+</section>
+
+<!-- Main Content -->
+<div class="max-w-5xl mx-auto px-4 py-12">
+
+    <!-- Event Description -->
+    <section class="mb-16" id="details">
+        <div class="prose prose-lg max-w-none">
+            {{ content }}
+        </div>
+    </section>
+
+    <!-- Registration Platforms -->
+    {% if page.registration_platforms %}
+    <section class="mb-16">
+        <h2 class="text-3xl font-bold text-vch-gray mb-4">Register on Your Preferred Platform</h2>
+        <p class="text-vch-light-gray mb-8">
+            Choose the platform that works best for you. Registration links sync across all platforms.
+        </p>
+
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {% for platform in page.registration_platforms %}
+            <a href="{{ platform.url }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="platform-card bg-white rounded-xl p-6 border-2 border-gray-200 hover:border-vch-green block">
+                <div class="flex items-start mb-4">
+                    <div class="text-4xl mr-4">{{ platform.icon }}</div>
+                    <div class="flex-1">
+                        <h3 class="font-bold text-vch-gray text-lg mb-1">{{ platform.name }}</h3>
+                        <p class="text-sm text-vch-light-gray">{{ platform.description }}</p>
+                    </div>
+                </div>
+                <div class="flex items-center justify-between">
+                    <span class="text-vch-green font-semibold text-sm">Register →</span>
+                    {% if platform.spots_left %}
+                    <span class="text-xs text-orange-600 font-semibold">{{ platform.spots_left }} spots left</span>
+                    {% endif %}
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- What You'll Learn -->
+    {% if page.learning_outcomes %}
+    <section class="mb-16">
+        <h2 class="text-3xl font-bold text-vch-gray mb-6">What You'll Learn</h2>
+        <div class="grid md:grid-cols-2 gap-4">
+            {% for outcome in page.learning_outcomes %}
+            <div class="flex items-start gap-3 bg-vch-bg rounded-xl p-4">
+                <div class="text-vch-green text-xl flex-shrink-0">✓</div>
+                <p class="text-vch-gray">{{ outcome }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- Prerequisites -->
+    {% if page.prerequisites %}
+    <section class="mb-16">
+        <h2 class="text-3xl font-bold text-vch-gray mb-4">Prerequisites</h2>
+        <div class="bg-blue-50 border-l-4 border-blue-500 rounded-lg p-6">
+            <div class="flex items-start gap-3">
+                <svg class="w-6 h-6 text-blue-600 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+                <div>
+                    <h3 class="font-semibold text-blue-900 mb-2">Before attending:</h3>
+                    <ul class="space-y-2 text-blue-800">
+                        {% for prereq in page.prerequisites %}
+                        <li>• {{ prereq }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- Who Should Attend -->
+    {% if page.target_audience %}
+    <section class="mb-16">
+        <h2 class="text-3xl font-bold text-vch-gray mb-6">Who Should Attend</h2>
+        <div class="grid md:grid-cols-3 gap-6">
+            {% for audience in page.target_audience %}
+            <div class="bg-white rounded-xl p-6 border shadow-sm">
+                <div class="text-3xl mb-3">{{ audience.icon }}</div>
+                <h3 class="font-semibold text-vch-gray mb-2">{{ audience.group }}</h3>
+                <p class="text-sm text-vch-light-gray">{{ audience.description }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- Schedule/Agenda -->
+    {% if page.agenda %}
+    <section class="mb-16">
+        <h2 class="text-3xl font-bold text-vch-gray mb-6">Event Agenda</h2>
+        <div class="space-y-3">
+            {% for item in page.agenda %}
+            <div class="flex items-start gap-4 bg-white rounded-xl p-5 border shadow-sm">
+                <div class="bg-vch-green/10 rounded-lg px-4 py-2 text-center min-w-[80px]">
+                    <div class="font-bold text-vch-green">{{ item.time }}</div>
+                </div>
+                <div class="flex-1">
+                    <h3 class="font-semibold text-vch-gray mb-1">{{ item.title }}</h3>
+                    {% if item.description %}
+                    <p class="text-sm text-vch-light-gray">{{ item.description }}</p>
+                    {% endif %}
+                    {% if item.speaker %}
+                    <p class="text-xs text-vch-green mt-2">
+                        <svg class="w-4 h-4 inline mr-1" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"/>
+                        </svg>
+                        {{ item.speaker }}
+                    </p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- Materials & Resources -->
+    {% if page.materials %}
+    <section class="mb-16">
+        <h2 class="text-3xl font-bold text-vch-gray mb-6">Workshop Materials</h2>
+        <div class="grid md:grid-cols-2 gap-4">
+            {% for material in page.materials %}
+            <a href="{{ material.url }}"
+               {% if material.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}
+               class="flex items-center gap-4 bg-white rounded-xl p-5 border hover:border-vch-green transition-all">
+                <div class="bg-vch-bg rounded-lg p-3">
+                    <svg class="w-6 h-6 text-vch-green" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4z" clip-rule="evenodd"/>
+                    </svg>
+                </div>
+                <div class="flex-1">
+                    <h3 class="font-semibold text-vch-gray">{{ material.name }}</h3>
+                    <p class="text-xs text-vch-light-gray">{{ material.type }}</p>
+                </div>
+                <svg class="w-5 h-5 text-vch-green" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
+                </svg>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- FAQs -->
+    {% if page.faqs %}
+    <section class="mb-16">
+        <h2 class="text-3xl font-bold text-vch-gray mb-6">Frequently Asked Questions</h2>
+        <div class="space-y-4">
+            {% for faq in page.faqs %}
+            <details class="bg-white rounded-xl p-6 border cursor-pointer">
+                <summary class="font-semibold text-vch-gray text-lg">{{ faq.question }}</summary>
+                <p class="text-vch-light-gray mt-3">{{ faq.answer }}</p>
+            </details>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- Contact CTA -->
+    <section class="bg-gradient-to-r from-vch-green to-vch-yellow rounded-2xl p-8 md:p-12 text-white text-center">
+        <h2 class="text-3xl font-bold mb-4">Questions About This Event?</h2>
+        <p class="text-lg opacity-90 mb-6 max-w-2xl mx-auto">
+            Have questions or need more information? We're here to help!
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="mailto:{{ site.email }}?subject=Question about {{ page.title }}"
+               class="bg-white text-vch-green px-8 py-3 rounded-lg font-bold hover:bg-gray-100 transition-all inline-flex items-center justify-center">
+                <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                </svg>
+                Email Us
+            </a>
+            {% if site.discord_url %}
+            <a href="{{ site.discord_url }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="border-2 border-white text-white px-8 py-3 rounded-lg font-bold hover:bg-white hover:text-vch-green transition-all inline-flex items-center justify-center">
+                <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515a.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0a12.64 12.64 0 0 0-.617-1.25a.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057a19.9 19.9 0 0 0 5.993 3.03a.078.078 0 0 0 .084-.028a14.09 14.09 0 0 0 1.226-1.994a.076.076 0 0 0-.041-.106a13.107 13.107 0 0 1-1.872-.892a.077.077 0 0 1-.008-.128a10.2 10.2 0 0 0 .372-.292a.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127a12.299 12.299 0 0 1-1.873.892a.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028a19.839 19.839 0 0 0 6.002-3.03a.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.956-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.42c0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.955-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.42c0 1.333-.946 2.418-2.157 2.418z"/>
+                </svg>
+                Join Discord
+            </a>
+            {% endif %}
+        </div>
+    </section>
+
+</div>
+
+<!-- Back to Workshops -->
+<div class="bg-vch-bg py-8">
+    <div class="max-w-5xl mx-auto px-4 text-center">
+        <a href="{{ '/workshops.html' | relative_url }}" class="text-vch-green hover:text-green-700 font-semibold inline-flex items-center gap-2">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+            </svg>
+            Back to All Workshops
+        </a>
+    </div>
+</div>
