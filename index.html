@@ -55,15 +55,15 @@ description: Value Chain Hackers brings together students, researchers, and busi
         <!-- Stats Bar -->
         <div class="grid grid-cols-3 gap-8 max-w-3xl mx-auto">
             <div class="text-center">
-                <div class="text-4xl font-bold text-vch-green mb-2">12</div>
+                <div class="text-4xl font-bold text-vch-green mb-2">{{ site.projects.size }}</div>
                 <div class="text-sm text-vch-light-gray font-semibold">Active Projects</div>
             </div>
             <div class="text-center">
-                <div class="text-4xl font-bold text-vch-green mb-2">43</div>
+                <div class="text-4xl font-bold text-vch-green mb-2">{{ site.data.stats.students | default: 43 }}</div>
                 <div class="text-sm text-vch-light-gray font-semibold">Student Researchers</div>
             </div>
             <div class="text-center">
-                <div class="text-4xl font-bold text-vch-green mb-2">9</div>
+                <div class="text-4xl font-bold text-vch-green mb-2">{{ site.data.stats.partners | default: 9 }}</div>
                 <div class="text-sm text-vch-light-gray font-semibold">Industry Partners</div>
             </div>
         </div>
@@ -115,15 +115,15 @@ description: Value Chain Hackers brings together students, researchers, and busi
         <div class="bg-white rounded-2xl p-8 shadow-sm">
             <div class="grid md:grid-cols-3 gap-8 text-center">
                 <div>
-                    <div class="text-3xl font-bold text-vch-green mb-2">12</div>
+                    <div class="text-3xl font-bold text-vch-green mb-2">{{ site.projects.size }}</div>
                     <div class="text-vch-light-gray">Teams</div>
                 </div>
                 <div>
-                    <div class="text-3xl font-bold text-vch-green mb-2">43</div>
+                    <div class="text-3xl font-bold text-vch-green mb-2">{{ site.data.stats.students | default: 43 }}</div>
                     <div class="text-vch-light-gray">Students</div>
                 </div>
                 <div>
-                    <div class="text-3xl font-bold text-vch-green mb-2">9</div>
+                    <div class="text-3xl font-bold text-vch-green mb-2">{{ site.data.stats.partners | default: 9 }}</div>
                     <div class="text-vch-light-gray">Businesses</div>
                 </div>
             </div>
@@ -441,11 +441,11 @@ description: Value Chain Hackers brings together students, researchers, and busi
 
                 <div class="grid grid-cols-2 gap-6 mb-8">
                     <div>
-                        <div class="text-4xl font-bold mb-2">100+</div>
+                        <div class="text-4xl font-bold mb-2">{{ site.data.stats.discord_members | default: "100+" }}</div>
                         <div class="text-sm opacity-90">Members</div>
                     </div>
                     <div>
-                        <div class="text-4xl font-bold mb-2">12</div>
+                        <div class="text-4xl font-bold mb-2">{{ site.projects.size }}</div>
                         <div class="text-sm opacity-90">Active Teams</div>
                     </div>
                 </div>
