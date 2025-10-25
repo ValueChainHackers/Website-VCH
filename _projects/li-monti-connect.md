@@ -3,7 +3,7 @@ title: "Li-Monti Maps"
 description: "Digital mapping platform connecting stakeholders in the lithium-ion battery recycling ecosystem - the 'Google Maps' of battery recycling"
 status: "Completed"
 category: "Student Project"
-permalink: /projects/li-monti-connect/
+permalink: /projects/lemonti/
 
 # Team Information
 team: "Leoni Hartung & Manolie Bockhöfer"
@@ -15,6 +15,7 @@ vch_mentor: "Christiaan Verhoef"
 # Project Deliverables
 # Note: Main presentation (21MB) not included in repository due to size
 # Available upon request or via external hosting
+github: "https://github.com/ValueChainHackers/LiCycle-AI"
 
 # Tags
 tags:
