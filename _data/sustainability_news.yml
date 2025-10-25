@@ -1,4 +1,13 @@
 articles:
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/supply-chain-index.jpg"
+    /><br />Supply Chain 101 is a series of simple, clear explainers covering the
+    most important supply chain terms, to...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-101-collection
+  pub_date: '2025-10-24T12:22:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain 101: Learn the Basics of Supply Chain, One Topic at a Time'
 - category: circular
   description: '<p>The pilot programme aims to promote skills sharing between designers
     and resource and waste management professionals.</p>
@@ -87,15 +96,6 @@ articles:
   pub_date: '2025-10-22T04:25:00'
   source: Supply Chain 24/7
   title: Why Smart Yards Are the Missing Link in Factory Automation
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/supply-chain-index.jpg"
-    /><br />Supply Chain 101 is a series of simple, clear explainers covering the
-    most important supply chain terms, to...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-101-collection
-  pub_date: '2025-10-22T01:38:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain 101: Learn the Basics of Supply Chain, One Topic at a Time'
 - category: supply-chain
   description: <img src="https://www.supplychain247.com/images/wp/newcastle-2025-newcastle-systems-industry-trend-report-wpcover.jpg"
     /><br />Discover 2025 warehousing trends focused on safety, ergonomics, and human...
@@ -190,4 +190,4 @@ articles:
   pub_date: '2025-10-16T08:00:00'
   source: Circular Online
   title: Illegal tyre waste operation company and director ordered to pay £69,000
-last_updated: '2025-10-24T15:37:44.681837'
+last_updated: '2025-10-25T06:26:32.160411'
