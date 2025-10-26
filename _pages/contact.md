@@ -131,12 +131,12 @@ description: "Get in touch with Value Chain Hackers - Schedule a call, join our 
                 <p class="text-sm text-vch-light-gray">Join our community chat</p>
             </a>
 
-            <!-- Newsletter (Future) -->
-            <div class="contact-card bg-vch-bg rounded-xl p-6 text-center border border-gray-200">
-                <div class="text-4xl mb-3 opacity-50">📬</div>
-                <h3 class="font-semibold text-gray-400 mb-2">Newsletter</h3>
-                <p class="text-sm text-gray-400">Coming soon!</p>
-            </div>
+            <!-- Newsletter -->
+            <button onclick="openNewsletterModal()" class="contact-card bg-vch-bg rounded-xl p-6 text-center block border hover:border-vch-green w-full">
+                <div class="text-4xl mb-3">📬</div>
+                <h3 class="font-semibold text-vch-gray mb-2">Newsletter</h3>
+                <p class="text-sm text-vch-light-gray">Stay updated with our latest news</p>
+            </button>
         </div>
     </div>
 </section>
@@ -294,3 +294,138 @@ description: "Get in touch with Value Chain Hackers - Schedule a call, join our 
     "layout":"month_view"
   });
 </script>
+
+<!-- Newsletter Modal -->
+<div id="newsletterModal" class="fixed inset-0 bg-black bg-opacity-50 hidden items-center justify-center z-50" onclick="closeNewsletterModal(event)">
+    <div class="bg-white rounded-2xl p-8 max-w-md mx-4" onclick="event.stopPropagation()">
+        <div class="flex justify-between items-center mb-6">
+            <h3 class="text-2xl font-bold text-vch-gray">📬 Subscribe to Our Newsletter</h3>
+            <button onclick="closeNewsletterModal()" class="text-gray-400 hover:text-gray-600 text-2xl">&times;</button>
+        </div>
+
+        <p class="text-vch-light-gray mb-6">
+            Get monthly updates on supply chain innovation, student projects, workshop announcements, and industry insights delivered to your inbox.
+        </p>
+
+        <form id="newsletter-form" class="space-y-4" onsubmit="handleNewsletterSubmit(event)">
+            <div>
+                <label for="newsletter-email" class="block text-sm font-semibold text-vch-gray mb-2">Email Address *</label>
+                <input
+                    type="email"
+                    id="newsletter-email"
+                    name="email"
+                    required
+                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-vch-green focus:border-transparent"
+                    placeholder="your.email@example.com"
+                >
+            </div>
+
+            <div>
+                <label for="newsletter-name" class="block text-sm font-semibold text-vch-gray mb-2">Name (Optional)</label>
+                <input
+                    type="text"
+                    id="newsletter-name"
+                    name="name"
+                    class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-vch-green focus:border-transparent"
+                    placeholder="Your name"
+                >
+            </div>
+
+            <div class="space-y-2">
+                <p class="text-sm font-semibold text-vch-gray">I'm interested in:</p>
+                <label class="flex items-center text-sm text-vch-light-gray">
+                    <input type="checkbox" name="interests" value="projects" class="mr-2 rounded text-vch-green">
+                    Student projects and research
+                </label>
+                <label class="flex items-center text-sm text-vch-light-gray">
+                    <input type="checkbox" name="interests" value="workshops" class="mr-2 rounded text-vch-green">
+                    Workshops and events
+                </label>
+                <label class="flex items-center text-sm text-vch-light-gray">
+                    <input type="checkbox" name="interests" value="insights" class="mr-2 rounded text-vch-green">
+                    Supply chain insights
+                </label>
+            </div>
+
+            <button
+                type="submit"
+                class="w-full bg-vch-green text-white px-8 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
+            >
+                Subscribe
+            </button>
+
+            <p class="text-xs text-center text-vch-light-gray">
+                We respect your privacy. Unsubscribe anytime.
+            </p>
+        </form>
+
+        <div id="newsletter-success" class="hidden text-center py-8">
+            <div class="text-6xl mb-4">✅</div>
+            <h4 class="text-xl font-bold text-vch-gray mb-2">Thanks for subscribing!</h4>
+            <p class="text-vch-light-gray mb-4">Check your email to confirm your subscription.</p>
+            <button onclick="closeNewsletterModal()" class="text-vch-green font-semibold hover:text-green-700">Close</button>
+        </div>
+    </div>
+</div>
+
+<script>
+function openNewsletterModal() {
+    document.getElementById('newsletterModal').classList.remove('hidden');
+    document.getElementById('newsletterModal').classList.add('flex');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeNewsletterModal(event) {
+    if (!event || event.target.id === 'newsletterModal') {
+        document.getElementById('newsletterModal').classList.add('hidden');
+        document.getElementById('newsletterModal').classList.remove('flex');
+        document.body.style.overflow = 'auto';
+
+        // Reset form
+        document.getElementById('newsletter-form').reset();
+        document.getElementById('newsletter-form').classList.remove('hidden');
+        document.getElementById('newsletter-success').classList.add('hidden');
+    }
+}
+
+function handleNewsletterSubmit(event) {
+    event.preventDefault();
+
+    const form = event.target;
+    const email = form.email.value;
+    const name = form.name.value;
+    const interests = Array.from(form.querySelectorAll('input[name="interests"]:checked')).map(cb => cb.value);
+
+    // TODO: Replace with actual newsletter service integration
+    // Options: Mailchimp, Buttondown, ConvertKit, or EmailJS
+    console.log('Newsletter signup:', { email, name, interests });
+
+    // For now, store in localStorage and show success message
+    const subscribers = JSON.parse(localStorage.getItem('newsletter_subscribers') || '[]');
+    subscribers.push({
+        email,
+        name,
+        interests,
+        timestamp: new Date().toISOString()
+    });
+    localStorage.setItem('newsletter_subscribers', JSON.stringify(subscribers));
+
+    // Show success message
+    form.classList.add('hidden');
+    document.getElementById('newsletter-success').classList.remove('hidden');
+
+    // Optional: Send to backend or external service
+    // Example with EmailJS or custom endpoint:
+    // fetch('/api/newsletter/subscribe', {
+    //     method: 'POST',
+    //     headers: { 'Content-Type': 'application/json' },
+    //     body: JSON.stringify({ email, name, interests })
+    // });
+}
+</script>
+
+<style>
+#newsletterModal {
+    backdrop-filter: blur(4px);
+}
+</style>
