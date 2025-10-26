@@ -1,0 +1,227 @@
+---
+layout: default
+title: "Blog & Insights"
+permalink: /blog/
+description: "Supply chain insights, project updates, and thought leadership from Value Chain Hackers"
+---
+
+<!-- Hero Section -->
+<section class="bg-gradient-to-br from-vch-green to-vch-yellow text-white py-20">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+        <h1 class="text-4xl md:text-5xl font-bold mb-6">Blog & Insights</h1>
+        <p class="text-xl md:text-2xl mb-8 opacity-90">
+            Supply chain innovation, student projects, workshops, and industry insights
+        </p>
+    </div>
+</section>
+
+<!-- Filter Tabs -->
+<section class="bg-white border-b">
+    <div class="max-w-6xl mx-auto px-4 py-6">
+        <div class="flex flex-wrap gap-4 justify-center">
+            <button class="blog-filter-btn active" data-category="all">
+                All Posts
+            </button>
+            <button class="blog-filter-btn" data-category="Projects">
+                Projects
+            </button>
+            <button class="blog-filter-btn" data-category="Workshops">
+                Workshops
+            </button>
+            <button class="blog-filter-btn" data-category="Insights">
+                Insights
+            </button>
+            <button class="blog-filter-btn" data-category="Tutorials">
+                Tutorials
+            </button>
+            <button class="blog-filter-btn" data-category="News">
+                News
+            </button>
+        </div>
+    </div>
+</section>
+
+<!-- Blog Posts -->
+<section class="py-16 bg-vch-bg">
+    <div class="max-w-6xl mx-auto px-4">
+        {% if site.posts.size > 0 %}
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8" id="blog-posts-grid">
+                {% for post in site.posts %}
+                <article class="blog-post-card bg-white rounded-xl overflow-hidden border border-gray-200 hover:border-vch-green transition-all hover:shadow-lg"
+                         data-category="{{ post.category | default: 'Uncategorized' }}">
+                    <!-- Post Image -->
+                    {% if post.image %}
+                    <a href="{{ post.url | relative_url }}" class="block">
+                        <img
+                            src="{{ post.image | relative_url }}"
+                            alt="{{ post.image_alt | default: post.title }}"
+                            class="w-full h-48 object-cover"
+                            loading="lazy"
+                        >
+                    </a>
+                    {% else %}
+                    <div class="w-full h-48 bg-gradient-to-br from-vch-green to-vch-yellow"></div>
+                    {% endif %}
+
+                    <!-- Post Content -->
+                    <div class="p-6">
+                        <!-- Category & Date -->
+                        <div class="flex items-center justify-between mb-3">
+                            {% if post.category %}
+                            <span class="text-xs bg-vch-yellow text-vch-gray px-3 py-1 rounded-full font-semibold">
+                                {{ post.category }}
+                            </span>
+                            {% endif %}
+                            <time class="text-xs text-vch-light-gray" datetime="{{ post.date | date_to_xmlschema }}">
+                                {{ post.date | date: "%b %d, %Y" }}
+                            </time>
+                        </div>
+
+                        <!-- Title -->
+                        <h2 class="text-xl font-bold text-vch-gray mb-3 hover:text-vch-green transition-colors">
+                            <a href="{{ post.url | relative_url }}">
+                                {{ post.title }}
+                            </a>
+                        </h2>
+
+                        <!-- Excerpt -->
+                        <p class="text-vch-light-gray mb-4 line-clamp-3">
+                            {{ post.description | default: post.excerpt | strip_html | truncatewords: 25 }}
+                        </p>
+
+                        <!-- Meta Footer -->
+                        <div class="flex items-center justify-between text-sm">
+                            {% if post.author %}
+                            <span class="text-vch-light-gray">
+                                By {{ post.author }}
+                            </span>
+                            {% endif %}
+
+                            {% if post.reading_time %}
+                            <span class="text-vch-light-gray">
+                                {{ post.reading_time }} min read
+                            </span>
+                            {% endif %}
+                        </div>
+
+                        <!-- Read More Link -->
+                        <a href="{{ post.url | relative_url }}"
+                           class="inline-flex items-center gap-2 text-vch-green font-semibold hover:text-green-700 transition-colors mt-4">
+                            Read More
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        {% else %}
+            <!-- Empty State -->
+            <div class="text-center py-20">
+                <div class="text-6xl mb-6">📝</div>
+                <h2 class="text-3xl font-bold text-vch-gray mb-4">No Posts Yet</h2>
+                <p class="text-lg text-vch-light-gray max-w-2xl mx-auto mb-8">
+                    We're working on creating valuable content about supply chain innovation, student projects, and industry insights. Check back soon!
+                </p>
+                <div class="flex gap-4 justify-center">
+                    <a href="{{ '/projects/' | relative_url }}" class="bg-vch-green text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors">
+                        Explore Projects
+                    </a>
+                    <a href="{{ '/workshops/' | relative_url }}" class="border-2 border-vch-green text-vch-green px-6 py-3 rounded-lg font-semibold hover:bg-vch-green hover:text-white transition-colors">
+                        View Workshops
+                    </a>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+</section>
+
+<!-- Newsletter CTA -->
+<section class="py-16 bg-white">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+        <h2 class="text-3xl font-bold text-vch-gray mb-4">Never Miss an Update</h2>
+        <p class="text-lg text-vch-light-gray mb-8">
+            Subscribe to our newsletter for the latest supply chain insights, project updates, and workshop announcements.
+        </p>
+        <button onclick="openNewsletterModal()" class="bg-vch-green text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-green-700 transition-colors inline-flex items-center gap-2">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+            </svg>
+            Subscribe to Newsletter
+        </button>
+    </div>
+</section>
+
+<style>
+.blog-filter-btn {
+    padding: 0.5rem 1.5rem;
+    border-radius: 9999px;
+    font-weight: 600;
+    border: 2px solid #e5e7eb;
+    color: #6b7280;
+    background: white;
+    transition: all 0.3s ease;
+}
+
+.blog-filter-btn:hover {
+    border-color: #8fbc3f;
+    color: #2d5016;
+}
+
+.blog-filter-btn.active {
+    background: #8fbc3f;
+    border-color: #8fbc3f;
+    color: white;
+}
+
+.line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const filterButtons = document.querySelectorAll('.blog-filter-btn');
+    const postCards = document.querySelectorAll('.blog-post-card');
+
+    filterButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const category = this.getAttribute('data-category');
+
+            // Update active button
+            filterButtons.forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+
+            // Filter posts
+            postCards.forEach(card => {
+                const cardCategory = card.getAttribute('data-category');
+                if (category === 'all' || cardCategory === category) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    });
+});
+
+// Newsletter modal function (defined in contact page, but referenced here)
+function openNewsletterModal() {
+    // If on blog page, redirect to contact page with hash
+    if (window.location.pathname.includes('/blog')) {
+        window.location.href = '{{ "/contact/" | relative_url }}#newsletter';
+    } else {
+        // If contact page loaded with newsletter modal script
+        const modal = document.getElementById('newsletterModal');
+        if (modal) {
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+            document.body.style.overflow = 'hidden';
+        }
+    }
+}
+</script>

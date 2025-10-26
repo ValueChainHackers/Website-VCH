@@ -1,0 +1,189 @@
+---
+layout: default
+---
+
+<article class="max-w-4xl mx-auto px-4 py-12">
+    <!-- Post Header -->
+    <header class="mb-12">
+        <!-- Breadcrumbs -->
+        <nav class="text-sm text-vch-light-gray mb-6">
+            <a href="{{ '/' | relative_url }}" class="hover:text-vch-green">Home</a>
+            <span class="mx-2">→</span>
+            <a href="{{ '/blog/' | relative_url }}" class="hover:text-vch-green">Blog</a>
+            <span class="mx-2">→</span>
+            <span class="text-vch-gray">{{ page.title }}</span>
+        </nav>
+
+        <!-- Category Badge -->
+        {% if page.category %}
+        <div class="mb-4">
+            <span class="bg-vch-yellow text-vch-gray px-4 py-2 rounded-full text-sm font-semibold">
+                {{ page.category }}
+            </span>
+        </div>
+        {% endif %}
+
+        <!-- Title -->
+        <h1 class="text-4xl md:text-5xl font-bold text-vch-gray mb-6 leading-tight">
+            {{ page.title }}
+        </h1>
+
+        <!-- Meta Information -->
+        <div class="flex flex-wrap items-center gap-6 text-vch-light-gray text-sm">
+            {% if page.author %}
+            <div class="flex items-center gap-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/>
+                </svg>
+                <span>{{ page.author }}</span>
+            </div>
+            {% endif %}
+
+            <div class="flex items-center gap-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                </svg>
+                <time datetime="{{ page.date | date_to_xmlschema }}">
+                    {{ page.date | date: "%B %d, %Y" }}
+                </time>
+            </div>
+
+            {% if page.reading_time %}
+            <div class="flex items-center gap-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+                <span>{{ page.reading_time }} min read</span>
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- Featured Image -->
+        {% if page.image %}
+        <div class="mt-8 rounded-2xl overflow-hidden">
+            <img
+                src="{{ page.image | relative_url }}"
+                alt="{{ page.image_alt | default: page.title }}"
+                class="w-full h-auto"
+                loading="eager"
+            >
+        </div>
+        {% endif %}
+
+        <!-- Excerpt/Description -->
+        {% if page.description %}
+        <div class="mt-8 text-xl text-vch-light-gray leading-relaxed">
+            {{ page.description }}
+        </div>
+        {% endif %}
+    </header>
+
+    <!-- Post Content -->
+    <div class="prose prose-lg max-w-none
+                prose-headings:text-vch-gray prose-headings:font-bold
+                prose-p:text-vch-light-gray prose-p:leading-relaxed
+                prose-a:text-vch-green prose-a:no-underline hover:prose-a:text-green-700
+                prose-strong:text-vch-gray
+                prose-ul:text-vch-light-gray prose-ol:text-vch-light-gray
+                prose-blockquote:border-vch-green prose-blockquote:bg-vch-bg prose-blockquote:p-4 prose-blockquote:rounded-lg
+                prose-code:text-vch-green prose-code:bg-gray-100 prose-code:px-2 prose-code:py-1 prose-code:rounded
+                prose-pre:bg-gray-900 prose-pre:text-gray-100
+                prose-img:rounded-xl prose-img:shadow-lg">
+        {{ content }}
+    </div>
+
+    <!-- Tags -->
+    {% if page.tags %}
+    <div class="mt-12 pt-8 border-t border-gray-200">
+        <div class="flex flex-wrap gap-2">
+            <span class="text-vch-light-gray font-semibold mr-2">Tags:</span>
+            {% for tag in page.tags %}
+            <a href="{{ '/blog/' | relative_url }}#{{ tag | slugify }}"
+               class="bg-vch-bg text-vch-gray px-3 py-1 rounded-full text-sm hover:bg-vch-yellow transition-colors">
+                #{{ tag }}
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Author Bio -->
+    {% if page.author_bio %}
+    <div class="mt-12 p-8 bg-vch-bg rounded-2xl">
+        <div class="flex items-start gap-6">
+            {% if page.author_image %}
+            <img src="{{ page.author_image | relative_url }}"
+                 alt="{{ page.author }}"
+                 class="w-20 h-20 rounded-full">
+            {% endif %}
+            <div class="flex-1">
+                <h3 class="text-xl font-bold text-vch-gray mb-2">About {{ page.author }}</h3>
+                <p class="text-vch-light-gray">{{ page.author_bio }}</p>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Share Buttons -->
+    <div class="mt-12 pt-8 border-t border-gray-200">
+        <div class="flex items-center gap-4">
+            <span class="text-vch-gray font-semibold">Share this post:</span>
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="bg-[#0077B5] text-white px-4 py-2 rounded-lg font-semibold hover:opacity-90 transition-opacity inline-flex items-center gap-2">
+                <i class="fab fa-linkedin"></i>
+                LinkedIn
+            </a>
+            <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="bg-[#1DA1F2] text-white px-4 py-2 rounded-lg font-semibold hover:opacity-90 transition-opacity inline-flex items-center gap-2">
+                <i class="fab fa-twitter"></i>
+                Twitter
+            </a>
+        </div>
+    </div>
+
+    <!-- Related Posts -->
+    {% if site.related_posts.size > 0 %}
+    <div class="mt-16">
+        <h2 class="text-3xl font-bold text-vch-gray mb-8">Related Posts</h2>
+        <div class="grid md:grid-cols-2 gap-8">
+            {% for post in site.related_posts limit:2 %}
+            <a href="{{ post.url | relative_url }}" class="group block bg-white rounded-xl border border-gray-200 overflow-hidden hover:border-vch-green transition-colors">
+                {% if post.image %}
+                <img src="{{ post.image | relative_url }}"
+                     alt="{{ post.title }}"
+                     class="w-full h-48 object-cover">
+                {% endif %}
+                <div class="p-6">
+                    {% if post.category %}
+                    <span class="text-xs bg-vch-yellow text-vch-gray px-3 py-1 rounded-full font-semibold">
+                        {{ post.category }}
+                    </span>
+                    {% endif %}
+                    <h3 class="text-xl font-bold text-vch-gray mt-3 mb-2 group-hover:text-vch-green transition-colors">
+                        {{ post.title }}
+                    </h3>
+                    <p class="text-vch-light-gray text-sm">
+                        {{ post.date | date: "%B %d, %Y" }}
+                    </p>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Back to Blog Link -->
+    <div class="mt-12 text-center">
+        <a href="{{ '/blog/' | relative_url }}"
+           class="inline-flex items-center gap-2 text-vch-green font-semibold hover:text-green-700 transition-colors">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+            </svg>
+            Back to Blog
+        </a>
+    </div>
+</article>
