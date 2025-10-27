@@ -1,4 +1,11 @@
 articles:
+- category: ai-research
+  description: Vibe Coding in Google AI Studio...
+  icon: fa-google
+  link: https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/
+  pub_date: '2025-10-26T15:00:00'
+  source: Google AI Blog
+  title: Introducing vibe coding in Google AI Studio
 - category: machine-learning
   description: A concise set of questions to evaluate an AI engineer's understanding
     of agentic systems using LLMs, tools, and autonomous workflows....
@@ -223,15 +230,6 @@ articles:
   source: MIT AI News
   title: 'Optimizing food subsidies: Applying digital platforms to maximize nutrition'
 - category: ai-research
-  description: An image for the photo gallery app Google Photos shows three examples
-    of how users can edit their photos by just asking. On the left, a chihuahua in
-    a pink harness is edited to wear a cute pumpkin cos...
-  icon: fa-google
-  link: https://blog.google/products/photos/how-to-tips-editing-prompts/
-  pub_date: '2025-10-14T17:00:00'
-  source: Google AI Blog
-  title: 10 ways you can ask Google Photos to edit your photos for you
-- category: ai-research
   description: Acting as a “virtual spectrometer,” SpectroGen generates spectroscopic
     data in any modality, such as X-ray or infrared, to quickly assess a material’s
     quality....
@@ -248,4 +246,4 @@ articles:
   pub_date: '2025-10-14T14:15:00'
   source: MIT AI News
   title: Helping scientists run complex data analyses without writing code
-last_updated: '2025-10-26T06:27:43.751641'
+last_updated: '2025-10-27T06:33:18.782170'
