@@ -1,5 +1,60 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/holiday-season-getty.jpg"
+    /><br />Chris Butler, CEO of National Tree Company, on how tariffs and logistics
+    costs are pushing shoppers to bu...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/holiday-retailers-brace-for-tariff-pressures-and-early-demand
+  pub_date: '2025-10-27T18:00:00'
+  source: Supply Chain 24/7
+  title: Holiday Retailers Brace for Tariff Pressures and Early Demand
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/truckstop-sonar.jpg"
+    /><br />Truckstop.com has launched a dry van&#45;only load board to help small
+    fleets and owner&#45;operators find qua...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/truckstop-dry-van-load-board-small-fleets
+  pub_date: '2025-10-27T14:43:00'
+  source: Supply Chain 24/7
+  title: Truckstop Launches Low-Cost Load Board for Dry Van Carriers
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/returns-refunds-getty.jpg"
+    /><br />Alchemy’s John Doughty explains how smarter reverse logistics can help
+    retailers recover value, cut wast...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rethinking-returns-alchemy-reverse-logistics
+  pub_date: '2025-10-27T14:36:00'
+  source: Supply Chain 24/7
+  title: Drowning in Returns? It’s Time to Rethink the Flow
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/wp/softeon-warehouse-3pl-wpcover.jpg"
+    /><br />Learn how 3PLs can choose the right warehouse management system to improve
+    visibility, scalability, and fu...
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-to-choose-the-best-warehouse-management-system-wms-for-3pl-success
+  pub_date: '2025-10-27T14:04:00'
+  source: Supply Chain 24/7
+  title: How to Choose the Best Warehouse Management System (WMS) for 3PL Success
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/BrightDrop_Zevo_600-wikimedia.jpg"
+    /><br />GM is ending BrightDrop production after selling fewer than 5,000 electric
+    vans, another sign of...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gm-shuts-down-brightdrop-after-weak-demand-for-electric-vans
+  pub_date: '2025-10-27T13:08:00'
+  source: Supply Chain 24/7
+  title: GM Shuts Down BrightDrop After Weak Demand for Electric Vans
+- category: circular
+  description: '<p>The government should introduce measures to reduce the proportion
+    of plastic going to Energy-from-Waste facilities, a departmental review has recommended.</p>
+
+    <p>The post <a href="https://www.circu...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/government-review-calls-for-a-reduction-in-plastic-going-to-efw/
+  pub_date: '2025-10-27T10:15:51'
+  source: Circular Online
+  title: Government review calls for a reduction in plastic going to EfW
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/supply-chain-index.jpg"
     /><br />Supply Chain 101 is a series of simple, clear explainers covering the
     most important supply chain terms, to...
@@ -105,50 +160,6 @@ articles:
   source: Supply Chain 24/7
   title: '2025 Warehouse Safety & Ergonomics Report: Trends Transforming the Modern
     Workplace'
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/wp/trimble-from-disjointed-to-connected-building-a-future-proof-supply-chain-technology-strategy-wp-1.jpg"
-    /><br />Discover how carriers, brokers, and 3...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/connected-logistics-tech-for-a-future-proof-supply-chain
-  pub_date: '2025-10-21T17:46:00'
-  source: Supply Chain 24/7
-  title: Connected Logistics Tech for a Future-Proof Supply Chain
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/world-map-GettyImages-1386838823.jpg"
-    /><br />Riskonnect’s 2025 report finds most risk leaders fear trade wars could
-    trigger cyberattacks a...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/riskonnect-trade-wars-cyberattack-risks-2025
-  pub_date: '2025-10-21T17:13:00'
-  source: Supply Chain 24/7
-  title: Increased Trade Wars Could Lead to Cyberattacks, Survey Finds
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/rail-freight-600.jpg"
-    /><br />Freight rail leaders are calling for funding reform, faster permitting,
-    and innovation&#45;focused policies a...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/freight-rail-policy-priorities-washington-2025
-  pub_date: '2025-10-21T17:13:00'
-  source: Supply Chain 24/7
-  title: Freight Rail CEO Calls for Policy Overhaul to Keep Industry Competitive
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/merck-nj-600.jpg"
-    /><br />Merck is investing $3 billion to build a new pharmaceutical manufacturing
-    facility in Elkton, Virginia, part of a...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/merck-3-billion-virginia-manufacturing-expansion
-  pub_date: '2025-10-21T13:36:00'
-  source: Supply Chain 24/7
-  title: Merck to Build $3 Billion Manufacturing Facility in Virginia
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/porl-los-angeles-wikimedia4.jpg"
-    /><br />September cargo volumes at Los Angeles and Long Beach slipped as tariffs
-    and trade uncertainty coo...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/west-coast-port-volumes-dip-in-september-amid-trade-uncertainty
-  pub_date: '2025-10-21T11:17:00'
-  source: Supply Chain 24/7
-  title: Port of Los Angeles, Long Beach See Declines After Record Summer
 - category: circular
   description: '<p>New heat network to supply 1,618 residential properties using energy
     supplied from Veolia’s waste incineration facility in South East London.</p>
@@ -179,15 +190,4 @@ articles:
   pub_date: '2025-10-20T07:33:41'
   source: Circular Online
   title: Biffa fined £2.5 million after man dies at waste transfer station
-- category: circular
-  description: '<p>A Powys-based company and its director have been ordered to pay
-    £69,000 in fines and costs after being found guilty of serious breaches of environmental
-    law.</p>
-
-    <p>The post <a href="https://www.ci...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/illegal-tyre-waste-operation-company-and-director-ordered-to-pay-69000/
-  pub_date: '2025-10-16T08:00:00'
-  source: Circular Online
-  title: Illegal tyre waste operation company and director ordered to pay £69,000
-last_updated: '2025-10-27T06:33:17.656327'
+last_updated: '2025-10-28T06:31:09.786290'
