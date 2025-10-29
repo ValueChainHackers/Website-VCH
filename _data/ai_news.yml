@@ -1,4 +1,30 @@
 articles:
+- category: ai-research
+  description: 'Google for Startups Accelerator: AI for Cybersecurity Class of 2025
+    with ten partner logos....'
+  icon: fa-google
+  link: https://blog.google/outreach-initiatives/entrepreneurs/google-for-startups-ai-for-cybersecurity-cohort/
+  pub_date: '2025-10-28T17:30:00'
+  source: Google AI Blog
+  title: Meet the 11 startups using AI to build a safer digital future in Latin America
+- category: machine-learning
+  description: Application programming interfaces are essential for modern web applications
+    and data products. They allow different systems to communicate with each other
+    and share data securely....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/api-development-for-web-apps-and-data-products
+  pub_date: '2025-10-28T16:54:16'
+  source: KDnuggets
+  title: API Development for Web Apps and Data Products
+- category: machine-learning
+  description: Skip local MCP setup headaches and connect via a simple URL and API
+    key to free, remote MCP servers that are faster, more capable, and unify planning,
+    design, coding, and research in one seamless work...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-free-remote-mcps-you-must-use-as-a-developer
+  pub_date: '2025-10-28T13:12:20'
+  source: KDnuggets
+  title: 7 Free Remote MCPs You Must Use As A Developer
 - category: machine-learning
   description: Stop wasting time on repetitive tasks. Learn how smart business automation
     can boost your productivity, cut costs, and get you back hours a week....
@@ -105,23 +131,6 @@ articles:
   pub_date: '2025-10-22T19:25:00'
   source: MIT AI News
   title: Five with MIT ties elected to National Academy of Medicine for 2025
-- category: machine-learning
-  description: Here are some tips on how to avoid the typical traps of the human mind
-    and help people get your data storytelling....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-psychology-of-bad-data-storytelling-why-people-misread-your-data
-  pub_date: '2025-10-22T16:06:37'
-  source: KDnuggets
-  title: 'The Psychology of Bad Data Storytelling: Why People Misread Your Data'
-- category: machine-learning
-  description: Discover the top Chrome extensions transforming your browser into an
-    autonomous workspace, from workflow automation to intelligent research and memory-powered
-    productivity....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-best-chrome-extensions-for-agentic-ai
-  pub_date: '2025-10-22T14:16:32'
-  source: KDnuggets
-  title: 7 Best Chrome Extensions for Agentic AI
 - category: ai-research
   description: Illustration showing a laptop with the British flag and the London
     skyline in the background....
@@ -211,14 +220,6 @@ articles:
   source: Google AI Blog
   title: Introducing Veo 3.1 and advanced capabilities in Flow
 - category: ai-research
-  description: Man viewing phishing text, woman viewing "wrong password" screen, centered
-    blue Google shield....
-  icon: fa-google
-  link: https://blog.google/technology/safety-security/how-google-protects-against-scams-2025/
-  pub_date: '2025-10-15T13:00:00'
-  source: Google AI Blog
-  title: 6 new ways Google is protecting you from scams
-- category: ai-research
   description: An algorithm can change the face of food assistance policy in the Global
     South, says MIT assistant professor and J-WAFS researcher Ali Aouad....
   icon: fa-graduation-cap
@@ -243,4 +244,4 @@ articles:
   pub_date: '2025-10-14T14:15:00'
   source: MIT AI News
   title: Helping scientists run complex data analyses without writing code
-last_updated: '2025-10-28T06:31:11.079141'
+last_updated: '2025-10-29T06:31:30.611165'

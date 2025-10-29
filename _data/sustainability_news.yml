@@ -1,5 +1,71 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/smart-labelGettyImages-2238938011.jpg"
+    /><br />Smart labels paired with AI give shippers real&#45;time visibility and
+    faster responses, tur...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/smart-labels-ai-peak-season-visibility
+  pub_date: '2025-10-28T16:58:00'
+  source: Supply Chain 24/7
+  title: How Smart Labels Help Shippers Stay Ahead of Peak Season Chaos
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/pegatron-600.jpg"
+    /><br />Pegatron’s new Georgetown, Texas, facility marks its first U.S. manufacturing
+    site and a major step in reshoring ...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/pegatron-first-us-manufacturing-site-texas
+  pub_date: '2025-10-28T16:38:00'
+  source: Supply Chain 24/7
+  title: Pegatron Opens First U.S. Manufacturing Plant in Georgetown, Texas
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/group-meeting-GettyImages-2177384079.jpg"
+    /><br />A new Gartner survey shows nearly half of manufacturers doubt their ability
+    to deliver on...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/survey-nearly-half-of-companies-unsure-about-future-manufacturing-plans
+  pub_date: '2025-10-28T14:38:00'
+  source: Supply Chain 24/7
+  title: 'Survey: Nearly Half of Companies Unsure About Future Manufacturing Plans'
+- category: circular
+  description: <p>  Agency refuse workers employed on behalf of Birmingham City Council
+    are voting on whether to join strike action by the union Unite. Unite says the
+    agency refuse workers are being balloted for str...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/agency-workers-vote-on-whether-to-join-bin-strikes-in-birmingham/
+  pub_date: '2025-10-28T12:33:20'
+  source: Circular Online
+  title: Agency workers vote on whether to join bin strikes in Birmingham
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/also-vehicle.jpg"
+    /><br />Amazon is partnering with Rivian spinoff ALSO to launch thousands of pedal&#45;assist
+    electric delivery vehicles ...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-small-electric-delivery-vehicles-2026
+  pub_date: '2025-10-28T11:26:00'
+  source: Supply Chain 24/7
+  title: Amazon Expands Delivery Fleet with Rivian’s Pedal-Assist Vehicles
+- category: circular
+  description: <p>Responding to the House of Lords inquiry into wase crime, CIWM’s
+    Dan Cooke said the government must treat tackling waste crime as a &#8216;definitive
+    sector and societal priority&#8217;. The Charte...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-says-tackling-waste-crime-must-be-societal-priority/
+  pub_date: '2025-10-28T09:30:29'
+  source: Circular Online
+  title: 'CIWM responds to Lords’ inquiry: Tackling waste crime must be ‘societal
+    priority’'
+- category: circular
+  description: '<p>A House of Lords inquiry has said it’s difficult to conclude that
+    ‘incompetence’ at the Environment Agency has not been a factor in failures to
+    prevent and effectively prosecute waste crime.</p>
+
+    <p...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/lords-enquiry-into-waste-crime-criticises-incompetence-at-environment-agency/
+  pub_date: '2025-10-28T09:14:18'
+  source: Circular Online
+  title: Lords inquiry into waste crime criticises ‘incompetence’ at Environment Agency
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/holiday-season-getty.jpg"
     /><br />Chris Butler, CEO of National Tree Company, on how tariffs and logistics
     costs are pushing shoppers to bu...
@@ -73,15 +139,6 @@ articles:
   pub_date: '2025-10-24T07:54:26'
   source: Circular Online
   title: CIWM and CEI announce skills exchange pilot programme
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/ann-franzen.jpg"
-    /><br />USG’s Ann Franzen walks through her path from Iowa to VP, sharing clear
-    lessons on safety, mentoring, and leading ...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/women-in-supply-chain-ann-franzen-USG
-  pub_date: '2025-10-23T15:09:00'
-  source: Supply Chain 24/7
-  title: 'Women in Supply Chain: Ann Franzen of USG'
 - category: circular
   description: '<p>57% of people define recyclable packaging as ‘designed for circularity’,
     according to a global study.</p>
@@ -92,15 +149,6 @@ articles:
   pub_date: '2025-10-23T07:51:46'
   source: Circular Online
   title: Circularity enters the public vocabulary, according to global study
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/amazon-GettyImages-2239216004.jpg"
-    /><br />Amazon is investing $61 million to renovate a warehouse on San Antonio’s
-    East Side, adding to it...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-expands-san-antonio-warehouse-network
-  pub_date: '2025-10-22T17:57:00'
-  source: Supply Chain 24/7
-  title: Amazon to Open $61 Million Warehouse on San Antonio’s East Side
 - category: circular
   description: '<p>The world is stalling on climate change progress, with none of
     the 45 indicators of climate action on track for 2030, the State of Climate Action
@@ -142,52 +190,4 @@ articles:
   source: Circular Online
   title: Government plan to create 400,000 jobs a ‘missed opportunity’ for resource
     & waste sector
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/truck-loading-GettyImages-1421666977.jpg"
-    /><br />In this Q&amp;A, Outrider CMO Londonne Corder explains how smart yards
-    are becoming the k...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/smart-yards-dark-factories-automation-outrider
-  pub_date: '2025-10-22T04:25:00'
-  source: Supply Chain 24/7
-  title: Why Smart Yards Are the Missing Link in Factory Automation
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/wp/newcastle-2025-newcastle-systems-industry-trend-report-wpcover.jpg"
-    /><br />Discover 2025 warehousing trends focused on safety, ergonomics, and human...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/2025-warehouse-safety-ergonomics-report-trends-transforming-the-modern-workplace
-  pub_date: '2025-10-21T19:30:00'
-  source: Supply Chain 24/7
-  title: '2025 Warehouse Safety & Ergonomics Report: Trends Transforming the Modern
-    Workplace'
-- category: circular
-  description: '<p>New heat network to supply 1,618 residential properties using energy
-    supplied from Veolia’s waste incineration facility in South East London.</p>
-
-    <p>The post <a href="https://www.circularonline.co....'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/veolia-efw-facility-to-supply-energy-to-1618-residents-in-london/
-  pub_date: '2025-10-21T09:02:48'
-  source: Circular Online
-  title: Veolia EfW facility to supply energy to 1,618 residents in London
-- category: circular
-  description: '<p>Acrylic manufacturer Floreeda has partnered with the University
-    of Manchester and Manchester School of Architecture to repurpose plastic waste.</p>
-
-    <p>The post <a href="https://www.circularonline.c...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/the-university-of-manchester-goes-circular-with-floreeda-partnership/
-  pub_date: '2025-10-21T08:29:20'
-  source: Circular Online
-  title: The University of Manchester ‘goes circular’ with Floreeda partnership
-- category: circular
-  description: '<p>Biffa has been fined £2.48 million after a 57-year-old man died
-    while working at the company’s waste transfer station in Bradford.</p>
-
-    <p>The post <a href="https://www.circularonline.co.uk/news/bif...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/biffa-fined-2-5-million-after-man-dies-at-waste-transfer-station/
-  pub_date: '2025-10-20T07:33:41'
-  source: Circular Online
-  title: Biffa fined £2.5 million after man dies at waste transfer station
-last_updated: '2025-10-28T06:31:09.786290'
+last_updated: '2025-10-29T06:31:29.808993'
