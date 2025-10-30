@@ -1,4 +1,39 @@
 articles:
+- category: machine-learning
+  description: Gen AI is reshaping the software development lifecycle (SDLC). Faster
+    coding, texting, and documentation. But the fundamental transformation happens
+    when it's combined with human expertise....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/10/damcosolutions/generative-ai-hype-check-can-it-really-transform-sdlc
+  pub_date: '2025-10-29T17:00:50'
+  source: KDnuggets
+  title: 'Generative AI Hype Check: Can It Really Transform SDLC?'
+- category: ai-research
+  description: Stylized illustration of a person at the center of interconnected data
+    points, messages, and document snippets, representing AI processing information....
+  icon: fa-google
+  link: https://blog.google/technology/google-labs/notebooklm-custom-personas-engine-upgrade/
+  pub_date: '2025-10-29T17:00:00'
+  source: Google AI Blog
+  title: 'Chat in NotebookLM: A powerful, goal-focused AI research partner'
+- category: machine-learning
+  description: In this article, we’ll break down the essentials of using APIs for
+    data collection &mdash; why they matter, how they work, and how to get started
+    with them in Python....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/collecting-real-time-data-with-apis-a-hands-on-guide-using-python
+  pub_date: '2025-10-29T15:00:24'
+  source: KDnuggets
+  title: 'Collecting Real-Time Data with APIs: A Hands-On Guide Using Python'
+- category: machine-learning
+  description: Discover the leading open-source text-to-speech models that rival premium
+    tools in realism, emotion, and performance so that you can turn ideas into lifelike
+    voices and power the next wave of creator ...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-text-to-speech-open-source-models
+  pub_date: '2025-10-29T12:35:44'
+  source: KDnuggets
+  title: Top 5 Text-to-Speech Open Source Models
 - category: ai-research
   description: 'Google for Startups Accelerator: AI for Cybersecurity Class of 2025
     with ten partner logos....'
@@ -80,15 +115,6 @@ articles:
   pub_date: '2025-10-24T14:19:09'
   source: KDnuggets
   title: 10 Essential Agentic AI Interview Questions for AI Engineers
-- category: machine-learning
-  description: Tools like GitHub Copilot, Claude, and Google’s Jules have evolved
-    from autocomplete assistants into coding agents that can plan, build, test, and
-    even review code asynchronously....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-ai-assisted-coding-techniques-guaranteed-to-save-you-time
-  pub_date: '2025-10-24T13:06:14'
-  source: KDnuggets
-  title: 5 AI-Assisted Coding Techniques Guaranteed to Save You Time
 - category: ai-research
   description: PhD student Miranda Schwacke explores how computing inspired by the
     human brain can fuel energy-efficient artificial intelligence....
@@ -97,15 +123,6 @@ articles:
   pub_date: '2025-10-24T04:00:00'
   source: MIT AI News
   title: The brain power behind sustainable AI
-- category: machine-learning
-  description: Technical screening is not only about technical knowledge. Here’s what
-    companies really test in technical interviews....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-hidden-curriculum-of-data-science-interviews-what-companies-really-test
-  pub_date: '2025-10-23T15:55:25'
-  source: KDnuggets
-  title: 'The Hidden Curriculum of Data Science Interviews: What Companies Really
-    Test'
 - category: ai-research
   description: Google Earth AI helps enterprises, nonprofits, and cities with everything
     from environmental monitoring to disaster response...
@@ -114,14 +131,6 @@ articles:
   pub_date: '2025-10-23T15:00:00'
   source: Google AI Blog
   title: New updates and more access to Google Earth AI
-- category: machine-learning
-  description: Discover the top open source video generation models that rival Veo
-    3 and prioritize your privacy and control....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-open-source-video-generation-models
-  pub_date: '2025-10-23T12:48:55'
-  source: KDnuggets
-  title: Top 5 Open Source Video Generation Models
 - category: ai-research
   description: Professors Facundo Batista and Dina Katabi, along with three additional
     MIT alumni, are honored for their outstanding professional achievement and commitment
@@ -213,13 +222,6 @@ articles:
   source: MIT AI News
   title: Blending neuroscience, AI, and music to create mental health innovations
 - category: ai-research
-  description: Veo 3.1 text with stills from generated videos...
-  icon: fa-google
-  link: https://blog.google/technology/ai/veo-updates-flow/
-  pub_date: '2025-10-15T16:00:00'
-  source: Google AI Blog
-  title: Introducing Veo 3.1 and advanced capabilities in Flow
-- category: ai-research
   description: An algorithm can change the face of food assistance policy in the Global
     South, says MIT assistant professor and J-WAFS researcher Ali Aouad....
   icon: fa-graduation-cap
@@ -244,4 +246,4 @@ articles:
   pub_date: '2025-10-14T14:15:00'
   source: MIT AI News
   title: Helping scientists run complex data analyses without writing code
-last_updated: '2025-10-29T06:31:30.611165'
+last_updated: '2025-10-30T06:29:43.657627'
