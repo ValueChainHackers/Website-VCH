@@ -1,5 +1,101 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/DHL-express.jpg"
+    /><br />DHL Express is investing $90 million to move its Manhattan service center
+    to Jersey City and expand operations acr...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-expands-nyc-network-with-new-jersey-city-facility
+  pub_date: '2025-10-29T23:57:00'
+  source: Supply Chain 24/7
+  title: DHL Moves Manhattan Operations to Jersey City in $90M Expansion
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/port-mobile.jpg"
+    /><br />The Alabama Port Authority and APM Terminals Mobile will build a new $131
+    million berth to expand the Port of Mobi...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/port-of-mobile-new-berth-expansion
+  pub_date: '2025-10-29T17:53:00'
+  source: Supply Chain 24/7
+  title: Alabama’s Port of Mobile to Add $131 Million Container Berth
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/trucking-recession-GettyImages-1217392218.jpg"
+    /><br />ATRI’s 2025 report outlines five practical ways fleets can survive the
+    ongoing freig...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ATRI-Top-Industry-Issues-2025
+  pub_date: '2025-10-29T15:51:00'
+  source: Supply Chain 24/7
+  title: Five Ways Trucking Can Survive the Freight Recession
+- category: circular
+  description: '<p>The Scottish Environment Protection Agency (SEPA) have announced
+    a two-year exemption to the ban on sending biodegradable municipal waste to landfill.</p>
+
+    <p>The post <a href="https://www.circularo...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/sepa-announces-exemption-to-landfill-ban-due-to-capacity-shortfall/
+  pub_date: '2025-10-29T15:12:36'
+  source: Circular Online
+  title: SEPA announces exemption to landfill ban due to capacity shortfall
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/Edmund_Optimal-600.jpg"
+    /><br />Arkestro launched Arkestro Labs and new AI tools to help procurement teams
+    work faster, save money, and mak...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/arkestro-labs-ai-procurement-tools
+  pub_date: '2025-10-29T13:35:00'
+  source: Supply Chain 24/7
+  title: Arkestro Rolls Out Arkestro Labs, Its New AI Hub for Procurement
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/AI_is_revolutionizing_procurement_0725.jpg"
+    /><br />Fairmarkit CEO Kevin Frechette explains how agentic AI is moving from
+    pilot programs to...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/reflexive-ai-changing-procurement-workflows
+  pub_date: '2025-10-29T13:12:00'
+  source: Supply Chain 24/7
+  title: How Reflexive AI Is Changing Everyday Procurement
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/ups-buyout-driver2.jpg"
+    /><br />UPS reported lower Q3 revenue and volumes but beat profit forecasts as
+    it reshapes its U.S. network and pre...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-q3-2025-revenue-slips-us-network-reshaping
+  pub_date: '2025-10-29T12:13:00'
+  source: Supply Chain 24/7
+  title: UPS Q3 Revenue Slips as Company Rebuilds Its U.S. Network
+- category: circular
+  description: '<p>Scottish household waste sent to landfill was at a record low in
+    2024, ahead of December’s ban on landfilling biodegradable municipal waste.</p>
+
+    <p>The post <a href="https://www.circularonline.co.u...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/scottish-household-waste-sent-to-landfill-down-to-record-low-37/
+  pub_date: '2025-10-29T10:50:37'
+  source: Circular Online
+  title: Scottish household waste sent to landfill down to record-low 37%
+- category: circular
+  description: '<p>Martin Harvey must repay £72,500 or face three months in prison
+    after dumping 10,000 tonnes of household, demolition and hazardous waste, including
+    asbestos.</p>
+
+    <p>The post <a href="https://www.ci...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/cornwall-man-must-repay-72500-for-running-an-illegal-waste-site/
+  pub_date: '2025-10-29T09:35:54'
+  source: Circular Online
+  title: Cornwall man must repay £72,500 for running an illegal waste site
+- category: circular
+  description: '<p>Stonegrave Aggregates Limited, part of the Ashcourt Group, has
+    been fined £270,000 after an employee was injured while cleaning a waste picking
+    line.</p>
+
+    <p>The post <a href="https://www.circularon...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/recycling-company-fined-270000-after-man-injured-cleaning-machinery/
+  pub_date: '2025-10-29T08:52:33'
+  source: Circular Online
+  title: Recycling company fined £270,000 after man injured cleaning machinery
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/smart-labelGettyImages-2238938011.jpg"
     /><br />Smart labels paired with AI give shippers real&#45;time visibility and
     faster responses, tur...
@@ -65,51 +161,6 @@ articles:
   pub_date: '2025-10-28T09:14:18'
   source: Circular Online
   title: Lords inquiry into waste crime criticises ‘incompetence’ at Environment Agency
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/holiday-season-getty.jpg"
-    /><br />Chris Butler, CEO of National Tree Company, on how tariffs and logistics
-    costs are pushing shoppers to bu...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/holiday-retailers-brace-for-tariff-pressures-and-early-demand
-  pub_date: '2025-10-27T18:00:00'
-  source: Supply Chain 24/7
-  title: Holiday Retailers Brace for Tariff Pressures and Early Demand
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/truckstop-sonar.jpg"
-    /><br />Truckstop.com has launched a dry van&#45;only load board to help small
-    fleets and owner&#45;operators find qua...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/truckstop-dry-van-load-board-small-fleets
-  pub_date: '2025-10-27T14:43:00'
-  source: Supply Chain 24/7
-  title: Truckstop Launches Low-Cost Load Board for Dry Van Carriers
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/returns-refunds-getty.jpg"
-    /><br />Alchemy’s John Doughty explains how smarter reverse logistics can help
-    retailers recover value, cut wast...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/rethinking-returns-alchemy-reverse-logistics
-  pub_date: '2025-10-27T14:36:00'
-  source: Supply Chain 24/7
-  title: Drowning in Returns? It’s Time to Rethink the Flow
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/wp/softeon-warehouse-3pl-wpcover.jpg"
-    /><br />Learn how 3PLs can choose the right warehouse management system to improve
-    visibility, scalability, and fu...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-to-choose-the-best-warehouse-management-system-wms-for-3pl-success
-  pub_date: '2025-10-27T14:04:00'
-  source: Supply Chain 24/7
-  title: How to Choose the Best Warehouse Management System (WMS) for 3PL Success
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/BrightDrop_Zevo_600-wikimedia.jpg"
-    /><br />GM is ending BrightDrop production after selling fewer than 5,000 electric
-    vans, another sign of...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gm-shuts-down-brightdrop-after-weak-demand-for-electric-vans
-  pub_date: '2025-10-27T13:08:00'
-  source: Supply Chain 24/7
-  title: GM Shuts Down BrightDrop After Weak Demand for Electric Vans
 - category: circular
   description: '<p>The government should introduce measures to reduce the proportion
     of plastic going to Energy-from-Waste facilities, a departmental review has recommended.</p>
@@ -120,15 +171,6 @@ articles:
   pub_date: '2025-10-27T10:15:51'
   source: Circular Online
   title: Government review calls for a reduction in plastic going to EfW
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/supply-chain-index.jpg"
-    /><br />Supply Chain 101 is a series of simple, clear explainers covering the
-    most important supply chain terms, to...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-101-collection
-  pub_date: '2025-10-24T12:22:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain 101: Learn the Basics of Supply Chain, One Topic at a Time'
 - category: circular
   description: '<p>The pilot programme aims to promote skills sharing between designers
     and resource and waste management professionals.</p>
@@ -149,45 +191,4 @@ articles:
   pub_date: '2025-10-23T07:51:46'
   source: Circular Online
   title: Circularity enters the public vocabulary, according to global study
-- category: circular
-  description: '<p>The world is stalling on climate change progress, with none of
-    the 45 indicators of climate action on track for 2030, the State of Climate Action
-    2025 report has found.</p>
-
-    <p>The post <a href="htt...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/no-sector-on-track-to-meet-global-climate-goals-report-finds/
-  pub_date: '2025-10-22T12:59:42'
-  source: Circular Online
-  title: No sector on track to meet global climate goals, report finds
-- category: circular
-  description: <p>  The Scottish Government has launched a consultation on a draft
-    Circular Economy Strategy that sets out plans to increase reuse, repair and recycling
-    rates. The proposals aim to create new jobs an...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/scotland-launches-circular-economy-strategy-consultation/
-  pub_date: '2025-10-22T10:48:29'
-  source: Circular Online
-  title: Scotland launches Circular Economy Strategy consultation
-- category: circular
-  description: '<p>Scientists announce they have developed a ‘clean and energy-efficient’
-    way to recycle Teflon®, one of the world’s most durable plastics.</p>
-
-    <p>The post <a href="https://www.circularonline.co.uk/ne...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/scientists-discover-clean-and-energy-efficient-way-to-recycle-teflon/
-  pub_date: '2025-10-22T09:25:17'
-  source: Circular Online
-  title: Scientists discover ‘clean and energy-efficient’ way to recycle Teflon
-- category: circular
-  description: '<p>The UK Government’s plan to create 400,000 jobs for the clean energy
-    sector is a ‘missed opportunity’ for the resource and waste industry.</p>
-
-    <p>The post <a href="https://www.circularonline.co.uk/...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/government-plan-to-create-400000-jobs-a-missed-opportunity-for-resource-waste-sector/
-  pub_date: '2025-10-22T07:40:36'
-  source: Circular Online
-  title: Government plan to create 400,000 jobs a ‘missed opportunity’ for resource
-    & waste sector
-last_updated: '2025-10-29T06:31:29.808993'
+last_updated: '2025-10-30T06:29:42.738171'
