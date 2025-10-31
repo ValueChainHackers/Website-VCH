@@ -1,4 +1,11 @@
 articles:
+- category: ai-research
+  description: Google AI Studio logo on a plain black background...
+  icon: fa-google
+  link: https://blog.google/technology/developers/google-ai-studio-logs-datasets/
+  pub_date: '2025-10-30T17:05:00'
+  source: Google AI Blog
+  title: New tools in Google AI Studio to explore, debug and share logs
 - category: machine-learning
   description: Gen AI is reshaping the software development lifecycle (SDLC). Faster
     coding, texting, and documentation. But the fundamental transformation happens
@@ -188,15 +195,6 @@ articles:
   source: Google AI Blog
   title: 10 years of genomics research at Google
 - category: ai-research
-  description: <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DeepSomatic_Hero.max-600x600.format-webp.webp"
-    />An overview of DeepSomatic, a new AI tool that helps identify complex genetic...
-  icon: fa-google
-  link: https://blog.google/technology/research/deepsomatic-an-open-source-ai-model-is-speeding-up-genetic-analysis-for-cancer-research/
-  pub_date: '2025-10-16T17:05:00'
-  source: Google AI Blog
-  title: DeepSomatic, an open-source AI model, is speeding up genetic analysis for
-    cancer research.
-- category: ai-research
   description: After being trained with this technique, vision-language models can
     better identify a unique item in a new scene....
   icon: fa-graduation-cap
@@ -246,4 +244,4 @@ articles:
   pub_date: '2025-10-14T14:15:00'
   source: MIT AI News
   title: Helping scientists run complex data analyses without writing code
-last_updated: '2025-10-30T06:29:43.657627'
+last_updated: '2025-10-31T06:30:17.803424'

@@ -1,13 +1,59 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/lilly-puerto-rico.jpg"
+    /><br />Eli Lilly is investing $1.2 billion to expand its Puerto Rico facility,
+    adding jobs and advanced technology ...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/lilly-puerto-rico-manufacturing-expansion-2025
+  pub_date: '2025-10-30T18:31:00'
+  source: Supply Chain 24/7
+  title: Lilly Invests $1.2 Billion to Expand Manufacturing in Puerto Rico
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/technology-GettyImages-2209295333.jpg"
+    /><br />A new survey shows that nearly 40% of logistics companies are ramping
+    up tech spending for 2...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/logistics-firms-tech-investment-2026
+  pub_date: '2025-10-30T16:03:00'
+  source: Supply Chain 24/7
+  title: Logistics Firms Go All In on Tech for 2026, Security Not So Much
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/toyota-GettyImages-938326852.jpg"
+    /><br />Toyota clarified that it never promised President Trump a $10 billion
+    U.S. investment, saying no ...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/toyota-denies-10b-investment-promise-to-trump
+  pub_date: '2025-10-30T14:01:00'
+  source: Supply Chain 24/7
+  title: Toyota Denies Promising Trump a $10 Billion U.S. Investment
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/AI--getty-600.jpg"
+    /><br />AI agents promise huge gains in procurement, but success depends on strong
+    governance, quality data, and human o...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/five-considerations-before-deploying-ai-agents-in-procurement
+  pub_date: '2025-10-30T11:52:00'
+  source: Supply Chain 24/7
+  title: Five Things to Consider Before Deploying AI Agents in Procurement
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/DHL-express.jpg"
     /><br />DHL Express is investing $90 million to move its Manhattan service center
     to Jersey City and expand operations acr...
   icon: fa-box
   link: https://www.supplychain247.com/article/dhl-expands-nyc-network-with-new-jersey-city-facility
-  pub_date: '2025-10-29T23:57:00'
+  pub_date: '2025-10-30T11:52:00'
   source: Supply Chain 24/7
   title: DHL Moves Manhattan Operations to Jersey City in $90M Expansion
+- category: circular
+  description: '<p>CIWM has announced that the Queen Elizabeth II (QEII) Centre in
+    Westminster will be the venue for the ISWA 2026 World Congress.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/news/ciwm-a...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-announces-westminster-as-venue-for-global-waste-congress/
+  pub_date: '2025-10-30T09:33:07'
+  source: Circular Online
+  title: CIWM announces Westminster as venue for Global Waste Congress
 - category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/port-mobile.jpg"
     /><br />The Alabama Port Authority and APM Terminals Mobile will build a new $131
@@ -95,51 +141,15 @@ articles:
   pub_date: '2025-10-29T08:52:33'
   source: Circular Online
   title: Recycling company fined £270,000 after man injured cleaning machinery
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/smart-labelGettyImages-2238938011.jpg"
-    /><br />Smart labels paired with AI give shippers real&#45;time visibility and
-    faster responses, tur...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/smart-labels-ai-peak-season-visibility
-  pub_date: '2025-10-28T16:58:00'
-  source: Supply Chain 24/7
-  title: How Smart Labels Help Shippers Stay Ahead of Peak Season Chaos
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/pegatron-600.jpg"
-    /><br />Pegatron’s new Georgetown, Texas, facility marks its first U.S. manufacturing
-    site and a major step in reshoring ...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/pegatron-first-us-manufacturing-site-texas
-  pub_date: '2025-10-28T16:38:00'
-  source: Supply Chain 24/7
-  title: Pegatron Opens First U.S. Manufacturing Plant in Georgetown, Texas
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/group-meeting-GettyImages-2177384079.jpg"
-    /><br />A new Gartner survey shows nearly half of manufacturers doubt their ability
-    to deliver on...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/survey-nearly-half-of-companies-unsure-about-future-manufacturing-plans
-  pub_date: '2025-10-28T14:38:00'
-  source: Supply Chain 24/7
-  title: 'Survey: Nearly Half of Companies Unsure About Future Manufacturing Plans'
 - category: circular
-  description: <p>  Agency refuse workers employed on behalf of Birmingham City Council
-    are voting on whether to join strike action by the union Unite. Unite says the
-    agency refuse workers are being balloted for str...
+  description: <p>  Agency staff employed on behalf of Birmingham City Council to
+    vote on whether to join the long-running refuse workers strike. Unite says the
+    agency refuse workers are being balloted for strike ac...
   icon: fa-recycle
   link: https://www.circularonline.co.uk/news/agency-workers-vote-on-whether-to-join-bin-strikes-in-birmingham/
   pub_date: '2025-10-28T12:33:20'
   source: Circular Online
   title: Agency workers vote on whether to join bin strikes in Birmingham
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/also-vehicle.jpg"
-    /><br />Amazon is partnering with Rivian spinoff ALSO to launch thousands of pedal&#45;assist
-    electric delivery vehicles ...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-small-electric-delivery-vehicles-2026
-  pub_date: '2025-10-28T11:26:00'
-  source: Supply Chain 24/7
-  title: Amazon Expands Delivery Fleet with Rivian’s Pedal-Assist Vehicles
 - category: circular
   description: <p>Responding to the House of Lords inquiry into wase crime, CIWM’s
     Dan Cooke said the government must treat tackling waste crime as a &#8216;definitive
@@ -181,14 +191,4 @@ articles:
   pub_date: '2025-10-24T07:54:26'
   source: Circular Online
   title: CIWM and CEI announce skills exchange pilot programme
-- category: circular
-  description: '<p>57% of people define recyclable packaging as ‘designed for circularity’,
-    according to a global study.</p>
-
-    <p>The post <a href="https://www.circularonline.co.uk/news/circularity-enters-the-public-vo...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/circularity-enters-the-public-vocabulary-according-to-global-study/
-  pub_date: '2025-10-23T07:51:46'
-  source: Circular Online
-  title: Circularity enters the public vocabulary, according to global study
-last_updated: '2025-10-30T06:29:42.738171'
+last_updated: '2025-10-31T06:30:16.986826'
