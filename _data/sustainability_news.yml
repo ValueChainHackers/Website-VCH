@@ -1,5 +1,59 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/GettyImages_automaton.jpg"
+    /><br />Zebra executives say small and mid&#45;sized companies can adopt automation
+    successfully by starting wit...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/small-warehouses-artificial-intelligence-budget-zebra-technologies
+  pub_date: '2025-10-31T15:07:00'
+  source: Supply Chain 24/7
+  title: How Small Warehouses Can Tap AI Without Breaking the Bank
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/reverse-logistics-robotics-GettyImages-1302200900.jpg"
+    /><br />Retailers are transforming returns from a costly hassle into a core, data&#4...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rethinking-returns-in-modern-warehouses
+  pub_date: '2025-10-31T14:38:00'
+  source: Supply Chain 24/7
+  title: Reverse Logistics Has Become Retail’s New Profit Center
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/trucking-stress-GettyImages-171299199.jpg"
+    /><br />ATRI’s 2025 report finds the economy, lawsuit abuse reform, and rising
+    insurance costs a...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-trucking-issues-2025-atri-report
+  pub_date: '2025-10-31T13:43:00'
+  source: Supply Chain 24/7
+  title: Ranking the Top 10 Challenges Facing the Trucking Industry
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/procurement-GettyImages-2225852701.jpg"
+    /><br />Raindrop Systems’ new survey shows most Procurement and Finance leaders
+    want to innovate bu...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-leaders-struggle-innovate
+  pub_date: '2025-10-31T12:13:00'
+  source: Supply Chain 24/7
+  title: Most Procurement Leaders Want Innovation But Can’t Execute
+- category: circular
+  description: <p>  News updates written by CIWM’s commercial partners. Plan B Plan
+    B Management Solutions joins the ESPO Framework Washed Aggregates Trade Association
+    UK WATA appoints new Comms and Members’ Manager...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-october/
+  pub_date: '2025-10-31T09:00:00'
+  source: Circular Online
+  title: News in brief | CIWM Commercial Partner Updates October
+- category: circular
+  description: <p>WRAP’s latest results on progress towards the UK Textiles Pact targets,
+    for a 50% reduction in carbon and 30% reduction in water by 2030, highlights that
+    radical transformation will be needed to me...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-uk-textiles-pact-roadmap-helps-industry-reach-critical-environmental-targets/
+  pub_date: '2025-10-31T08:59:53'
+  source: Circular Online
+  title: New UK Textiles Pact Roadmap helps industry reach critical environmental
+    targets
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/lilly-puerto-rico.jpg"
     /><br />Eli Lilly is investing $1.2 billion to expand its Puerto Rico facility,
     adding jobs and advanced technology ...
@@ -63,15 +117,6 @@ articles:
   pub_date: '2025-10-29T17:53:00'
   source: Supply Chain 24/7
   title: Alabama’s Port of Mobile to Add $131 Million Container Berth
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/trucking-recession-GettyImages-1217392218.jpg"
-    /><br />ATRI’s 2025 report outlines five practical ways fleets can survive the
-    ongoing freig...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ATRI-Top-Industry-Issues-2025
-  pub_date: '2025-10-29T15:51:00'
-  source: Supply Chain 24/7
-  title: Five Ways Trucking Can Survive the Freight Recession
 - category: circular
   description: '<p>The Scottish Environment Protection Agency (SEPA) have announced
     a two-year exemption to the ban on sending biodegradable municipal waste to landfill.</p>
@@ -82,33 +127,6 @@ articles:
   pub_date: '2025-10-29T15:12:36'
   source: Circular Online
   title: SEPA announces exemption to landfill ban due to capacity shortfall
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/Edmund_Optimal-600.jpg"
-    /><br />Arkestro launched Arkestro Labs and new AI tools to help procurement teams
-    work faster, save money, and mak...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/arkestro-labs-ai-procurement-tools
-  pub_date: '2025-10-29T13:35:00'
-  source: Supply Chain 24/7
-  title: Arkestro Rolls Out Arkestro Labs, Its New AI Hub for Procurement
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/AI_is_revolutionizing_procurement_0725.jpg"
-    /><br />Fairmarkit CEO Kevin Frechette explains how agentic AI is moving from
-    pilot programs to...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/reflexive-ai-changing-procurement-workflows
-  pub_date: '2025-10-29T13:12:00'
-  source: Supply Chain 24/7
-  title: How Reflexive AI Is Changing Everyday Procurement
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/ups-buyout-driver2.jpg"
-    /><br />UPS reported lower Q3 revenue and volumes but beat profit forecasts as
-    it reshapes its U.S. network and pre...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-q3-2025-revenue-slips-us-network-reshaping
-  pub_date: '2025-10-29T12:13:00'
-  source: Supply Chain 24/7
-  title: UPS Q3 Revenue Slips as Company Rebuilds Its U.S. Network
 - category: circular
   description: '<p>Scottish household waste sent to landfill was at a record low in
     2024, ahead of December’s ban on landfilling biodegradable municipal waste.</p>
@@ -171,24 +189,4 @@ articles:
   pub_date: '2025-10-28T09:14:18'
   source: Circular Online
   title: Lords inquiry into waste crime criticises ‘incompetence’ at Environment Agency
-- category: circular
-  description: '<p>The government should introduce measures to reduce the proportion
-    of plastic going to Energy-from-Waste facilities, a departmental review has recommended.</p>
-
-    <p>The post <a href="https://www.circu...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/government-review-calls-for-a-reduction-in-plastic-going-to-efw/
-  pub_date: '2025-10-27T10:15:51'
-  source: Circular Online
-  title: Government review calls for a reduction in plastic going to EfW
-- category: circular
-  description: '<p>The pilot programme aims to promote skills sharing between designers
-    and resource and waste management professionals.</p>
-
-    <p>The post <a href="https://www.circularonline.co.uk/news/ciwm-and-cei-ann...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-and-cei-announce-skills-exchange-pilot-programme/
-  pub_date: '2025-10-24T07:54:26'
-  source: Circular Online
-  title: CIWM and CEI announce skills exchange pilot programme
-last_updated: '2025-10-31T06:30:16.986826'
+last_updated: '2025-11-01T06:27:05.868486'
