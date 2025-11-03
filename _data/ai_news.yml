@@ -1,5 +1,13 @@
 articles:
 - category: ai-research
+  description: The FSNet system, developed at MIT, could help power grid operators
+    rapidly find feasible solutions for optimizing the flow of electricity....
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/faster-problem-solving-tool-guarantees-feasibility-1103
+  pub_date: '2025-11-03T05:00:00'
+  source: MIT AI News
+  title: A faster problem-solving tool that guarantees feasibility
+- category: ai-research
   description: Google AI Studio logo on a plain black background...
   icon: fa-google
   link: https://blog.google/technology/developers/google-ai-studio-logs-datasets/
@@ -236,12 +244,4 @@ articles:
   pub_date: '2025-10-14T15:00:00'
   source: MIT AI News
   title: Checking the quality of materials just got easier with a new AI tool
-- category: ai-research
-  description: Co-founded by an MIT alumnus, Watershed Bio offers researchers who
-    aren’t software engineers a way to run large-scale analyses to accelerate biology....
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/helping-scientists-run-complex-data-analyses-without-writing-code-1014
-  pub_date: '2025-10-14T14:15:00'
-  source: MIT AI News
-  title: Helping scientists run complex data analyses without writing code
-last_updated: '2025-11-02T06:28:38.464505'
+last_updated: '2025-11-03T06:31:55.850228'
