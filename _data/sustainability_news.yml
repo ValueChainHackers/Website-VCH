@@ -1,5 +1,61 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/Frank-Granieri-of-A.-Duis-Pyle_.jpg"
+    /><br />From his first paper route at 13 to the C&#45;suite, Frank shares how
+    discipline and curiosity...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-frank-granieri-a-duie-pyle
+  pub_date: '2025-11-03T17:32:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Frank Granieri of A. Duie Pyle'
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/truck-freight-GettyImages-2157040201.jpg"
+    /><br />Truckstop.com’s latest survey shows most carriers remain optimistic as
+    freight volumes st...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/truckstop-bloomberg-q3-2025-carriers-remain-resilient
+  pub_date: '2025-11-03T16:52:00'
+  source: Supply Chain 24/7
+  title: Carriers Remain Confident as Freight Rates Struggle to Recover
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/journeyteam_article_5_ways_ai_0825.jpg"
+    /><br />JAGGAER’s Eric Lefebvre shares five essential steps for preparing supply
+    chains to adopt AI...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/five-steps-to-prepare-supply-chains-for-ai
+  pub_date: '2025-11-03T15:00:00'
+  source: Supply Chain 24/7
+  title: Five Steps to Get Your Supply Chain Ready for the AI Revolution
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/container-trade-GettyImages-1035443590.jpg"
+    /><br />ISM Chair Sue Spence told Logistics Management that tariff “whiplash”
+    is freezing manuf...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ism-sue-spence-tariff-whiplash-freezes-manufacturing
+  pub_date: '2025-11-03T14:47:00'
+  source: Supply Chain 24/7
+  title: Tariff Whiplash Continues to Freeze Manufacturing Decisions
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/wp/locus-robotics-the-warehouse-efficiency-playbook-wpcover.jpg"
+    /><br />Discover how leading warehouse operations achieve faster fulfillment,
+    lower cos...
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/the-warehouse-efficiency-playbook-proven-strategies-to-boost-productivity-scalability-and-workforce-performance
+  pub_date: '2025-11-03T13:54:00'
+  source: Supply Chain 24/7
+  title: 'The Warehouse Efficiency Playbook: Proven Strategies to Boost Productivity,
+    Scalability, and Workforce Performance'
+- category: circular
+  description: '<p>Recover has signed a multi-year agreement with H&#038;M to support
+    the integration of its recycled cotton fibre, RCotton, for use in H&#038;M’s products.</p>
+
+    <p>The post <a href="https://www.circul...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/recover-signs-multi-year-recycled-cotton-agreement-with-hm/
+  pub_date: '2025-11-03T11:04:37'
+  source: Circular Online
+  title: Recover signs multi-year recycled cotton agreement with H&M
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/GettyImages_automaton.jpg"
     /><br />Zebra executives say small and mid&#45;sized companies can adopt automation
     successfully by starting wit...
@@ -62,42 +118,6 @@ articles:
   pub_date: '2025-10-30T18:31:00'
   source: Supply Chain 24/7
   title: Lilly Invests $1.2 Billion to Expand Manufacturing in Puerto Rico
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/technology-GettyImages-2209295333.jpg"
-    /><br />A new survey shows that nearly 40% of logistics companies are ramping
-    up tech spending for 2...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/logistics-firms-tech-investment-2026
-  pub_date: '2025-10-30T16:03:00'
-  source: Supply Chain 24/7
-  title: Logistics Firms Go All In on Tech for 2026, Security Not So Much
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/toyota-GettyImages-938326852.jpg"
-    /><br />Toyota clarified that it never promised President Trump a $10 billion
-    U.S. investment, saying no ...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/toyota-denies-10b-investment-promise-to-trump
-  pub_date: '2025-10-30T14:01:00'
-  source: Supply Chain 24/7
-  title: Toyota Denies Promising Trump a $10 Billion U.S. Investment
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/AI--getty-600.jpg"
-    /><br />AI agents promise huge gains in procurement, but success depends on strong
-    governance, quality data, and human o...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/five-considerations-before-deploying-ai-agents-in-procurement
-  pub_date: '2025-10-30T11:52:00'
-  source: Supply Chain 24/7
-  title: Five Things to Consider Before Deploying AI Agents in Procurement
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/DHL-express.jpg"
-    /><br />DHL Express is investing $90 million to move its Manhattan service center
-    to Jersey City and expand operations acr...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-expands-nyc-network-with-new-jersey-city-facility
-  pub_date: '2025-10-30T11:52:00'
-  source: Supply Chain 24/7
-  title: DHL Moves Manhattan Operations to Jersey City in $90M Expansion
 - category: circular
   description: '<p>CIWM has announced that the Queen Elizabeth II (QEII) Centre in
     Westminster will be the venue for the ISWA 2026 World Congress.</p>
@@ -108,15 +128,6 @@ articles:
   pub_date: '2025-10-30T09:33:07'
   source: Circular Online
   title: CIWM announces Westminster as venue for Global Waste Congress
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/port-mobile.jpg"
-    /><br />The Alabama Port Authority and APM Terminals Mobile will build a new $131
-    million berth to expand the Port of Mobi...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/port-of-mobile-new-berth-expansion
-  pub_date: '2025-10-29T17:53:00'
-  source: Supply Chain 24/7
-  title: Alabama’s Port of Mobile to Add $131 Million Container Berth
 - category: circular
   description: '<p>The Scottish Environment Protection Agency (SEPA) have announced
     a two-year exemption to the ban on sending biodegradable municipal waste to landfill.</p>
@@ -178,15 +189,4 @@ articles:
   source: Circular Online
   title: 'CIWM responds to Lords’ inquiry: Tackling waste crime must be ‘societal
     priority’'
-- category: circular
-  description: '<p>A House of Lords inquiry has said it’s difficult to conclude that
-    ‘incompetence’ at the Environment Agency has not been a factor in failures to
-    prevent and effectively prosecute waste crime.</p>
-
-    <p...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/lords-enquiry-into-waste-crime-criticises-incompetence-at-environment-agency/
-  pub_date: '2025-10-28T09:14:18'
-  source: Circular Online
-  title: Lords inquiry into waste crime criticises ‘incompetence’ at Environment Agency
-last_updated: '2025-11-03T06:31:54.906705'
+last_updated: '2025-11-04T06:31:18.048693'
