@@ -1,4 +1,37 @@
 articles:
+- category: machine-learning
+  description: If you need to pull specific data from text, LangExtract offers a fast,
+    flexible, and beginner‑friendly way to do it....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/beginners-guide-to-data-extraction-with-langextract-and-llms
+  pub_date: '2025-11-04T17:11:33'
+  source: KDnuggets
+  title: Beginner’s Guide to Data Extraction with LangExtract and LLMs
+- category: ai-research
+  description: 'an mp4 video featuring three panels of technology: A person wearing
+    an AR headset interacting with virtual map and web screens; the text Google Quantum
+    AI on a blue abstract background; and a snippet ...'
+  icon: fa-google
+  link: https://blog.google/technology/ai/google-ai-updates-october-2025/
+  pub_date: '2025-11-04T17:00:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in October
+- category: machine-learning
+  description: If you've been hearing about "the cloud" for years but still aren't
+    sure what it means for your business, we get it. Let's cut through the noise....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/qx4c1o5r#new_tab
+  pub_date: '2025-11-04T14:39:26'
+  source: KDnuggets
+  title: Cloud 101 for Business Owners (Sponsored)
+- category: machine-learning
+  description: Data analytics without observability is nothing. Learn about its importance,
+    techniques, and tools for implementation....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/data-observability-in-analytics-tools-techniques-and-why-it-matters
+  pub_date: '2025-11-04T13:00:47'
+  source: KDnuggets
+  title: 'Data Observability in Analytics: Tools, Techniques, and Why It Matters'
 - category: ai-research
   description: MIT’s Teaching Systems Lab, led by Associate Professor Justin Reich,
     is working to help educators by listening to and sharing their stories....
@@ -107,23 +140,6 @@ articles:
   pub_date: '2025-10-28T16:54:16'
   source: KDnuggets
   title: API Development for Web Apps and Data Products
-- category: machine-learning
-  description: Skip local MCP setup headaches and connect via a simple URL and API
-    key to free, remote MCP servers that are faster, more capable, and unify planning,
-    design, coding, and research in one seamless work...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-free-remote-mcps-you-must-use-as-a-developer
-  pub_date: '2025-10-28T13:12:20'
-  source: KDnuggets
-  title: 7 Free Remote MCPs You Must Use As A Developer
-- category: machine-learning
-  description: Stop wasting time on repetitive tasks. Learn how smart business automation
-    can boost your productivity, cut costs, and get you back hours a week....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/ingram-how-to-get-more-done-without-working-more-hours
-  pub_date: '2025-10-27T23:30:08'
-  source: KDnuggets
-  title: How To Get More Done Without Working More Hours (Sponsored)
 - category: ai-research
   description: <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_CarouselBall.max-600x600.format-webp.webp"
     />Learn more about Google’s work with the USO and how it plans to launch...
@@ -132,14 +148,6 @@ articles:
   pub_date: '2025-10-27T17:45:00'
   source: Google AI Blog
   title: Google Beam is working with the USO to support military families.
-- category: machine-learning
-  description: Google Jules is not a chat assistant that lives in your IDE; it’s a
-    fully asynchronous coding agent....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/agentic-ai-coding-with-google-jules
-  pub_date: '2025-10-27T15:53:10'
-  source: KDnuggets
-  title: Agentic AI Coding with Google Jules
 - category: ai-research
   description: Vibe Coding in Google AI Studio...
   icon: fa-google
@@ -212,14 +220,6 @@ articles:
   source: MIT AI News
   title: New software designs eco-friendly clothing that can reassemble into new items
 - category: ai-research
-  description: 'Blue graphic DNA double helix with text: "A decade of genomics research
-    at Google."...'
-  icon: fa-google
-  link: https://blog.google/technology/research/ten-years-google-genomics/
-  pub_date: '2025-10-16T17:05:00'
-  source: Google AI Blog
-  title: 10 years of genomics research at Google
-- category: ai-research
   description: After being trained with this technique, vision-language models can
     better identify a unique item in a new scene....
   icon: fa-graduation-cap
@@ -244,4 +244,4 @@ articles:
   pub_date: '2025-10-15T17:20:00'
   source: MIT AI News
   title: Blending neuroscience, AI, and music to create mental health innovations
-last_updated: '2025-11-04T06:31:20.287716'
+last_updated: '2025-11-05T06:30:33.229016'

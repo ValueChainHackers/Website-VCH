@@ -1,5 +1,70 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/UPS-truck-600-b.jpg"
+    /><br />UPS has acquired Andlauer Healthcare Group for $1.6 billion, expanding
+    its cold chain and pharmaceutical logis...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-acquires-andlauer-healthcare-group-1-6-billion
+  pub_date: '2025-11-04T16:35:00'
+  source: Supply Chain 24/7
+  title: UPS Expands Healthcare Network with $1.6B Acquisition of Andlauer
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/pixabay-security-5042249_1280.jpg"
+    /><br />A new study finds organized crime groups are teaming up with hackers to
+    infiltrate trucking syst...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/organized-crime-cargo-theft-cyberattacks-proofpoint-study
+  pub_date: '2025-11-04T16:12:00'
+  source: Supply Chain 24/7
+  title: Organized Crime Behind Surge in Freight Cyberattacks, Study Finds
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/agentic-ai-GettyImage-2220050264.jpg"
+    /><br />Agentic AI is expected to reach mass&#45;market adoption in 2026, transforming
+    daily life, wo...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/agentic-ai-mass-market-2026-ieee-survey
+  pub_date: '2025-11-04T15:52:00'
+  source: Supply Chain 24/7
+  title: Agentic AI Poised to Become Everyday Tech by 2026, Survey Finds
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/trucking-snow-GettyImages-517832423.jpg"
+    /><br />The 2025 peak shipping season looks stronger than last year, but tariffs
+    and trade shifts ...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/2025-peak-shipping-season-outlook
+  pub_date: '2025-11-04T12:37:00'
+  source: Supply Chain 24/7
+  title: How Shippers Can Prepare for a Volatile 2025 Holiday Season
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/data-info-GettyImages-2185337504.jpg"
+    /><br />L.E.K. Consulting’s Chuck Reynolds and Matt Stanfield explain why AI is
+    reshaping supply chai...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/smart-ai-smaller-supply-chains-future-leadership
+  pub_date: '2025-11-04T12:33:00'
+  source: Supply Chain 24/7
+  title: Why the Next Supply Chain Revolution Starts with Cleaner Data
+- category: circular
+  description: <p>  The new Disused Tips Authority for Wales will be headquartered
+    on a reclaimed colliery tip site in Merthyr Tydfil, creating ‘around 60 new jobs’.
+    The Disused Tips Authority will be responsible fo...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/welsh-government-announces-headquarters-for-new-disused-tips-authority/
+  pub_date: '2025-11-04T10:13:40'
+  source: Circular Online
+  title: Welsh Government announces headquarters for new Disused Tips Authority
+- category: circular
+  description: '<p>The Ellen MacArthur Foundation is urging more companies to back
+    global efforts against plastic waste with a new action plan setting the direction
+    for the next five years.</p>
+
+    <p>The post <a href="h...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/major-companies-back-ellen-macarthur-foundations-2030-plastics-agenda/
+  pub_date: '2025-11-04T09:11:55'
+  source: Circular Online
+  title: Major companies back Ellen MacArthur Foundation’s 2030 plastics agenda
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/Frank-Granieri-of-A.-Duis-Pyle_.jpg"
     /><br />From his first paper route at 13 to the C&#45;suite, Frank shares how
     discipline and curiosity...
@@ -55,41 +120,6 @@ articles:
   pub_date: '2025-11-03T11:04:37'
   source: Circular Online
   title: Recover signs multi-year recycled cotton agreement with H&M
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/GettyImages_automaton.jpg"
-    /><br />Zebra executives say small and mid&#45;sized companies can adopt automation
-    successfully by starting wit...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/small-warehouses-artificial-intelligence-budget-zebra-technologies
-  pub_date: '2025-10-31T15:07:00'
-  source: Supply Chain 24/7
-  title: How Small Warehouses Can Tap AI Without Breaking the Bank
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/reverse-logistics-robotics-GettyImages-1302200900.jpg"
-    /><br />Retailers are transforming returns from a costly hassle into a core, data&#4...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/rethinking-returns-in-modern-warehouses
-  pub_date: '2025-10-31T14:38:00'
-  source: Supply Chain 24/7
-  title: Reverse Logistics Has Become Retail’s New Profit Center
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/trucking-stress-GettyImages-171299199.jpg"
-    /><br />ATRI’s 2025 report finds the economy, lawsuit abuse reform, and rising
-    insurance costs a...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-trucking-issues-2025-atri-report
-  pub_date: '2025-10-31T13:43:00'
-  source: Supply Chain 24/7
-  title: Ranking the Top 10 Challenges Facing the Trucking Industry
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/procurement-GettyImages-2225852701.jpg"
-    /><br />Raindrop Systems’ new survey shows most Procurement and Finance leaders
-    want to innovate bu...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-leaders-struggle-innovate
-  pub_date: '2025-10-31T12:13:00'
-  source: Supply Chain 24/7
-  title: Most Procurement Leaders Want Innovation But Can’t Execute
 - category: circular
   description: <p>  News updates written by CIWM’s commercial partners. Plan B Plan
     B Management Solutions joins the ESPO Framework Washed Aggregates Trade Association
@@ -109,15 +139,6 @@ articles:
   source: Circular Online
   title: New UK Textiles Pact Roadmap helps industry reach critical environmental
     targets
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/lilly-puerto-rico.jpg"
-    /><br />Eli Lilly is investing $1.2 billion to expand its Puerto Rico facility,
-    adding jobs and advanced technology ...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lilly-puerto-rico-manufacturing-expansion-2025
-  pub_date: '2025-10-30T18:31:00'
-  source: Supply Chain 24/7
-  title: Lilly Invests $1.2 Billion to Expand Manufacturing in Puerto Rico
 - category: circular
   description: '<p>CIWM has announced that the Queen Elizabeth II (QEII) Centre in
     Westminster will be the venue for the ISWA 2026 World Congress.</p>
@@ -170,23 +191,4 @@ articles:
   pub_date: '2025-10-29T08:52:33'
   source: Circular Online
   title: Recycling company fined £270,000 after man injured cleaning machinery
-- category: circular
-  description: <p>  Agency staff employed on behalf of Birmingham City Council to
-    vote on whether to join the long-running refuse workers strike. Unite says the
-    agency refuse workers are being balloted for strike ac...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/agency-workers-vote-on-whether-to-join-bin-strikes-in-birmingham/
-  pub_date: '2025-10-28T12:33:20'
-  source: Circular Online
-  title: Agency workers vote on whether to join bin strikes in Birmingham
-- category: circular
-  description: <p>Responding to the House of Lords inquiry into wase crime, CIWM’s
-    Dan Cooke said the government must treat tackling waste crime as a &#8216;definitive
-    sector and societal priority&#8217;. The Charte...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-says-tackling-waste-crime-must-be-societal-priority/
-  pub_date: '2025-10-28T09:30:29'
-  source: Circular Online
-  title: 'CIWM responds to Lords’ inquiry: Tackling waste crime must be ‘societal
-    priority’'
-last_updated: '2025-11-04T06:31:18.048693'
+last_updated: '2025-11-05T06:30:31.983450'
