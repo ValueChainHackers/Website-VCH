@@ -1,5 +1,71 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/bringg-study.jpg"
+    /><br />Most shoppers say they care more about reliable and flexible delivery
+    than free shipping, according to new consum...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bringg-study-reliable-delivery-beats-free-shipping
+  pub_date: '2025-11-05T20:17:00'
+  source: Supply Chain 24/7
+  title: Consumers Value Reliable, Flexible Delivery Over Free Shipping
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/packaging-GettyImages-1367196668.jpg"
+    /><br />Amazon will end its FBA Prep services in 2026, requiring sellers to manage
+    packaging, labelin...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-ending-fba-prep-services-2026
+  pub_date: '2025-11-05T16:16:00'
+  source: Supply Chain 24/7
+  title: What Sellers Need to Do Before Amazon Ends FBA Prep
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/artificial-intelligence-pixabay22222.jpg"
+    /><br />IBM has added five new global projects to its 2025 AI Supply Chain Initiative,
+    helping or...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ibm-2025-ai-supply-chain-initiative
+  pub_date: '2025-11-05T15:01:00'
+  source: Supply Chain 24/7
+  title: Five Projects Chosen to Join IBM’s 2025 AI Supply Chain Initiative
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/UPS_Crash-600.jpg"
+    /><br />A UPS cargo jet crashed shortly after takeoff in Louisville, killing nine
+    people and injuring 11, as investigato...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-plane-crash-louisville-kentucky-2025
+  pub_date: '2025-11-05T14:35:00'
+  source: Supply Chain 24/7
+  title: UPS Jet Crashes After Takeoff in Louisville, Killing Nine
+- category: circular
+  description: '<p>Over 7,000 vapes a day were found in four Biffa sites between June
+    and September 2025, data from the waste management company shows.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/news/o...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/over-7000-vapes-a-day-are-found-in-just-four-biffa-sites/
+  pub_date: '2025-11-05T11:04:42'
+  source: Circular Online
+  title: Over 7,000 vapes a day are found in just four Biffa sites
+- category: circular
+  description: '<p>The Environment Agency stopped 143 high-risk illegal waste sites
+    in 2025, exceeding its target of 90, its annual report finds.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/news/environ...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/environment-agency-exceeds-target-for-closing-illegal-waste-sites/
+  pub_date: '2025-11-05T10:17:15'
+  source: Circular Online
+  title: Environment Agency exceeds target for closing illegal waste sites
+- category: circular
+  description: '<p>UN Environment Programme assessment finds world heading for a ‘serious
+    escalation’ of climate risks and damages.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/news/unep-says-world-headi...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/unep-says-world-heading-for-a-serious-escalation-of-climate-damage/
+  pub_date: '2025-11-05T09:11:06'
+  source: Circular Online
+  title: UNEP says world heading for a ‘serious escalation’ of climate damage
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/UPS-truck-600-b.jpg"
     /><br />UPS has acquired Andlauer Healthcare Group for $1.6 billion, expanding
     its cold chain and pharmaceutical logis...
@@ -73,43 +139,6 @@ articles:
   pub_date: '2025-11-03T17:32:00'
   source: Supply Chain 24/7
   title: 'Leadership Lessons: Frank Granieri of A. Duie Pyle'
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/truck-freight-GettyImages-2157040201.jpg"
-    /><br />Truckstop.com’s latest survey shows most carriers remain optimistic as
-    freight volumes st...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/truckstop-bloomberg-q3-2025-carriers-remain-resilient
-  pub_date: '2025-11-03T16:52:00'
-  source: Supply Chain 24/7
-  title: Carriers Remain Confident as Freight Rates Struggle to Recover
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/journeyteam_article_5_ways_ai_0825.jpg"
-    /><br />JAGGAER’s Eric Lefebvre shares five essential steps for preparing supply
-    chains to adopt AI...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/five-steps-to-prepare-supply-chains-for-ai
-  pub_date: '2025-11-03T15:00:00'
-  source: Supply Chain 24/7
-  title: Five Steps to Get Your Supply Chain Ready for the AI Revolution
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/container-trade-GettyImages-1035443590.jpg"
-    /><br />ISM Chair Sue Spence told Logistics Management that tariff “whiplash”
-    is freezing manuf...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ism-sue-spence-tariff-whiplash-freezes-manufacturing
-  pub_date: '2025-11-03T14:47:00'
-  source: Supply Chain 24/7
-  title: Tariff Whiplash Continues to Freeze Manufacturing Decisions
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/wp/locus-robotics-the-warehouse-efficiency-playbook-wpcover.jpg"
-    /><br />Discover how leading warehouse operations achieve faster fulfillment,
-    lower cos...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/the-warehouse-efficiency-playbook-proven-strategies-to-boost-productivity-scalability-and-workforce-performance
-  pub_date: '2025-11-03T13:54:00'
-  source: Supply Chain 24/7
-  title: 'The Warehouse Efficiency Playbook: Proven Strategies to Boost Productivity,
-    Scalability, and Workforce Performance'
 - category: circular
   description: '<p>Recover has signed a multi-year agreement with H&#038;M to support
     the integration of its recycled cotton fibre, RCotton, for use in H&#038;M’s products.</p>
@@ -159,36 +188,4 @@ articles:
   pub_date: '2025-10-29T15:12:36'
   source: Circular Online
   title: SEPA announces exemption to landfill ban due to capacity shortfall
-- category: circular
-  description: '<p>Scottish household waste sent to landfill was at a record low in
-    2024, ahead of December’s ban on landfilling biodegradable municipal waste.</p>
-
-    <p>The post <a href="https://www.circularonline.co.u...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/scottish-household-waste-sent-to-landfill-down-to-record-low-37/
-  pub_date: '2025-10-29T10:50:37'
-  source: Circular Online
-  title: Scottish household waste sent to landfill down to record-low 37%
-- category: circular
-  description: '<p>Martin Harvey must repay £72,500 or face three months in prison
-    after dumping 10,000 tonnes of household, demolition and hazardous waste, including
-    asbestos.</p>
-
-    <p>The post <a href="https://www.ci...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/cornwall-man-must-repay-72500-for-running-an-illegal-waste-site/
-  pub_date: '2025-10-29T09:35:54'
-  source: Circular Online
-  title: Cornwall man must repay £72,500 for running an illegal waste site
-- category: circular
-  description: '<p>Stonegrave Aggregates Limited, part of the Ashcourt Group, has
-    been fined £270,000 after an employee was injured while cleaning a waste picking
-    line.</p>
-
-    <p>The post <a href="https://www.circularon...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/recycling-company-fined-270000-after-man-injured-cleaning-machinery/
-  pub_date: '2025-10-29T08:52:33'
-  source: Circular Online
-  title: Recycling company fined £270,000 after man injured cleaning machinery
-last_updated: '2025-11-05T06:30:31.983450'
+last_updated: '2025-11-06T06:30:47.109062'

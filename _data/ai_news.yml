@@ -1,5 +1,45 @@
 articles:
 - category: machine-learning
+  description: Learn how developers and data scientists use SerpApi to automate real-time
+    search data collection for AI model training and analytics workflows....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/serpapi/automating-web-search-data-collection-for-ai-models-with-serpapi
+  pub_date: '2025-11-05T18:00:55'
+  source: KDnuggets
+  title: Automating Web Search Data Collection for AI Models with SerpApi
+- category: machine-learning
+  description: And got the job....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-i-prepared-for-a-data-science-interview-at-a-large-tech-company
+  pub_date: '2025-11-05T17:00:09'
+  source: KDnuggets
+  title: How I Prepared for a Data Science Interview at a Large Tech Company
+- category: ai-research
+  description: Image with black and blue background with an example JSON Schema code
+    snippet and the Gemini logo sparkle...
+  icon: fa-google
+  link: https://blog.google/technology/developers/gemini-api-structured-outputs/
+  pub_date: '2025-11-05T17:00:00'
+  source: Google AI Blog
+  title: Improving Structured Outputs in the Gemini API
+- category: ai-research
+  description: A new approach developed at MIT could help a search-and-rescue robot
+    navigate an unpredictable environment by rapidly generating an accurate map of
+    its surroundings....
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/teaching-robots-to-map-large-environments-1105
+  pub_date: '2025-11-05T15:00:00'
+  source: MIT AI News
+  title: Teaching robots to map large environments
+- category: machine-learning
+  description: Discover 5 free must-read books that cover theory, systems, linguistics,
+    interpretability, and security side of large language models....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-llm-engineer
+  pub_date: '2025-11-05T13:00:30'
+  source: KDnuggets
+  title: The 5 FREE Must-Read Books for Every LLM Engineer
+- category: machine-learning
   description: If you need to pull specific data from text, LangExtract offers a fast,
     flexible, and beginner‑friendly way to do it....
   icon: fa-chart-bar
@@ -105,24 +145,6 @@ articles:
   pub_date: '2025-10-29T17:00:00'
   source: Google AI Blog
   title: 'Chat in NotebookLM: A powerful, goal-focused AI research partner'
-- category: machine-learning
-  description: In this article, we’ll break down the essentials of using APIs for
-    data collection &mdash; why they matter, how they work, and how to get started
-    with them in Python....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/collecting-real-time-data-with-apis-a-hands-on-guide-using-python
-  pub_date: '2025-10-29T15:00:24'
-  source: KDnuggets
-  title: 'Collecting Real-Time Data with APIs: A Hands-On Guide Using Python'
-- category: machine-learning
-  description: Discover the leading open-source text-to-speech models that rival premium
-    tools in realism, emotion, and performance so that you can turn ideas into lifelike
-    voices and power the next wave of creator ...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-text-to-speech-open-source-models
-  pub_date: '2025-10-29T12:35:44'
-  source: KDnuggets
-  title: Top 5 Text-to-Speech Open Source Models
 - category: ai-research
   description: 'Google for Startups Accelerator: AI for Cybersecurity Class of 2025
     with ten partner logos....'
@@ -131,15 +153,6 @@ articles:
   pub_date: '2025-10-28T17:30:00'
   source: Google AI Blog
   title: Meet the 11 startups using AI to build a safer digital future in Latin America
-- category: machine-learning
-  description: Application programming interfaces are essential for modern web applications
-    and data products. They allow different systems to communicate with each other
-    and share data securely....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/api-development-for-web-apps-and-data-products
-  pub_date: '2025-10-28T16:54:16'
-  source: KDnuggets
-  title: API Development for Web Apps and Data Products
 - category: ai-research
   description: <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_CarouselBall.max-600x600.format-webp.webp"
     />Learn more about Google’s work with the USO and how it plans to launch...
@@ -204,13 +217,6 @@ articles:
   source: Google AI Blog
   title: Start learning all things AI on the new Google Skills
 - category: ai-research
-  description: One Playground in Google AI Studio...
-  icon: fa-google
-  link: https://blog.google/technology/developers/ai-studio-updates-more-control/
-  pub_date: '2025-10-18T15:00:00'
-  source: Google AI Blog
-  title: Leveling up your developer experience in Google AI Studio
-- category: ai-research
   description: To reduce waste, the Refashion program helps users create outlines
     for adaptable clothing, such as pants that can be reconfigured into a dress. Each
     component of these pieces can be replaced, rearrang...
@@ -236,12 +242,4 @@ articles:
   source: MIT AI News
   title: Remembering Professor Emerita Jeanne Shapiro  Bamberger, a pioneer in music
     education
-- category: ai-research
-  description: Media Lab PhD student Kimaya Lecamwasam researches how music can shape
-    well-being....
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/kimaya-lecamwasam-blending-neuroscience-ai-music-to-create-mental-health-innovations-1015
-  pub_date: '2025-10-15T17:20:00'
-  source: MIT AI News
-  title: Blending neuroscience, AI, and music to create mental health innovations
-last_updated: '2025-11-05T06:30:33.229016'
+last_updated: '2025-11-06T06:30:47.989785'
