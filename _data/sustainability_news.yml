@@ -1,5 +1,60 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/tariffs-GettyImages-498523188.jpg"
+    /><br />Mercury CEO Josh Medow explains how businesses can adapt and stay strong
+    through constant tariff...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-companies-can-build-tariff-resilient-supply-chains
+  pub_date: '2025-11-06T20:34:00'
+  source: Supply Chain 24/7
+  title: How Companies Can Build Tariff-Resilient Supply Chains
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/suez-canal-GettyImages-502635934.jpg"
+    /><br />The Suez Canal Authority is seeing traffic rebound, with 229 ships returning
+    in October and m...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/suez-canal-traffic-rebound-shipping-lines-return
+  pub_date: '2025-11-06T16:40:00'
+  source: Supply Chain 24/7
+  title: Suez Canal Sees 10% Jump in Cargo as Larger Ships Return
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/locus_roboitcs_article_ai_in_warehousing_practical_guide_0925.jpg"
+    /><br />Sphera’s 2025 report shows confidence in process safety is slipp...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/sphera-2025-report-ai-key-to-process-safety
+  pub_date: '2025-11-06T16:01:00'
+  source: Supply Chain 24/7
+  title: AI Seen as Key to Overcoming Rising Safety Challenges, Study Finds
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/amazon-whole-foods-600.jpg"
+    /><br />Whole Foods&apos; new pilot store in Pennsylvania lets shoppers buy both
+    Whole Foods and Amazon items i...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/whole-foods-debuts-amazon-store-within-a-store-in-pennsylvania
+  pub_date: '2025-11-06T12:37:00'
+  source: Supply Chain 24/7
+  title: Whole Foods Debuts Amazon “Store Within a Store” in Pennsylvania
+- category: circular
+  description: '<p>The Earthshot Prize announced its five 2025 winners at an awards
+    night at the Museum of Tomorrow in Rio de Janeiro, Brazil.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/news/the-earths...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/the-earthshot-prize-announces-2025-winners/
+  pub_date: '2025-11-06T09:20:39'
+  source: Circular Online
+  title: The Earthshot Prize announces 2025 winners
+- category: circular
+  description: '<p>The UK Government has said it will improve climate and sustainability
+    education in schools following a review.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/news/government-to-add-clima...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/government-to-add-climate-change-education-to-school-curriculum/
+  pub_date: '2025-11-06T08:53:49'
+  source: Circular Online
+  title: Government to add climate change education to school curriculum
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/bringg-study.jpg"
     /><br />Most shoppers say they care more about reliable and flexible delivery
     than free shipping, according to new consum...
@@ -35,6 +90,14 @@ articles:
   pub_date: '2025-11-05T14:35:00'
   source: Supply Chain 24/7
   title: UPS Jet Crashes After Takeoff in Louisville, Killing Nine
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/kuebix-freightwise-article-7-ways-ltl-freight-quote-0925.jpg"
+    /><br />Learn how to save money and avoid hidden fees on less&#45;than&#45;tr...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/7-proven-ways-to-get-the-best-ltl-freight-quote
+  pub_date: '2025-11-05T13:43:00'
+  source: Supply Chain 24/7
+  title: 7 Proven Ways to Get the Best LTL Freight Quote
 - category: circular
   description: '<p>Over 7,000 vapes a day were found in four Biffa sites between June
     and September 2025, data from the waste management company shows.</p>
@@ -74,42 +137,6 @@ articles:
   pub_date: '2025-11-04T16:35:00'
   source: Supply Chain 24/7
   title: UPS Expands Healthcare Network with $1.6B Acquisition of Andlauer
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/pixabay-security-5042249_1280.jpg"
-    /><br />A new study finds organized crime groups are teaming up with hackers to
-    infiltrate trucking syst...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/organized-crime-cargo-theft-cyberattacks-proofpoint-study
-  pub_date: '2025-11-04T16:12:00'
-  source: Supply Chain 24/7
-  title: Organized Crime Behind Surge in Freight Cyberattacks, Study Finds
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/agentic-ai-GettyImage-2220050264.jpg"
-    /><br />Agentic AI is expected to reach mass&#45;market adoption in 2026, transforming
-    daily life, wo...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/agentic-ai-mass-market-2026-ieee-survey
-  pub_date: '2025-11-04T15:52:00'
-  source: Supply Chain 24/7
-  title: Agentic AI Poised to Become Everyday Tech by 2026, Survey Finds
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/trucking-snow-GettyImages-517832423.jpg"
-    /><br />The 2025 peak shipping season looks stronger than last year, but tariffs
-    and trade shifts ...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/2025-peak-shipping-season-outlook
-  pub_date: '2025-11-04T12:37:00'
-  source: Supply Chain 24/7
-  title: How Shippers Can Prepare for a Volatile 2025 Holiday Season
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/data-info-GettyImages-2185337504.jpg"
-    /><br />L.E.K. Consulting’s Chuck Reynolds and Matt Stanfield explain why AI is
-    reshaping supply chai...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/smart-ai-smaller-supply-chains-future-leadership
-  pub_date: '2025-11-04T12:33:00'
-  source: Supply Chain 24/7
-  title: Why the Next Supply Chain Revolution Starts with Cleaner Data
 - category: circular
   description: <p>  The new Disused Tips Authority for Wales will be headquartered
     on a reclaimed colliery tip site in Merthyr Tydfil, creating ‘around 60 new jobs’.
@@ -130,15 +157,6 @@ articles:
   pub_date: '2025-11-04T09:11:55'
   source: Circular Online
   title: Major companies back Ellen MacArthur Foundation’s 2030 plastics agenda
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/Frank-Granieri-of-A.-Duis-Pyle_.jpg"
-    /><br />From his first paper route at 13 to the C&#45;suite, Frank shares how
-    discipline and curiosity...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/leadership-lessons-frank-granieri-a-duie-pyle
-  pub_date: '2025-11-03T17:32:00'
-  source: Supply Chain 24/7
-  title: 'Leadership Lessons: Frank Granieri of A. Duie Pyle'
 - category: circular
   description: '<p>Recover has signed a multi-year agreement with H&#038;M to support
     the integration of its recycled cotton fibre, RCotton, for use in H&#038;M’s products.</p>
@@ -168,24 +186,4 @@ articles:
   source: Circular Online
   title: New UK Textiles Pact Roadmap helps industry reach critical environmental
     targets
-- category: circular
-  description: '<p>CIWM has announced that the Queen Elizabeth II (QEII) Centre in
-    Westminster will be the venue for the ISWA 2026 World Congress.</p>
-
-    <p>The post <a href="https://www.circularonline.co.uk/news/ciwm-a...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-announces-westminster-as-venue-for-global-waste-congress/
-  pub_date: '2025-10-30T09:33:07'
-  source: Circular Online
-  title: CIWM announces Westminster as venue for Global Waste Congress
-- category: circular
-  description: '<p>The Scottish Environment Protection Agency (SEPA) have announced
-    a two-year exemption to the ban on sending biodegradable municipal waste to landfill.</p>
-
-    <p>The post <a href="https://www.circularo...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/sepa-announces-exemption-to-landfill-ban-due-to-capacity-shortfall/
-  pub_date: '2025-10-29T15:12:36'
-  source: Circular Online
-  title: SEPA announces exemption to landfill ban due to capacity shortfall
-last_updated: '2025-11-06T06:30:47.109062'
+last_updated: '2025-11-07T06:30:30.667996'
