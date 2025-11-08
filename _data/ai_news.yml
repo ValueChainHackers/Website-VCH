@@ -1,5 +1,50 @@
 articles:
 - category: ai-research
+  description: MIT faculty and MITEI member company experts address power demand from
+    data centers....
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-energy-initiative-launches-data-center-power-forum-1107
+  pub_date: '2025-11-07T19:55:00'
+  source: MIT AI News
+  title: MIT Energy Initiative launches Data Center Power Forum
+- category: ai-research
+  description: <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp"
+    />AI is creating new opportunities for Oklahomans to learn, grow and succeed.
+    Go...
+  icon: fa-google
+  link: https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/
+  pub_date: '2025-11-07T19:00:00'
+  source: Google AI Blog
+  title: Google is investing in Oklahoma’s workforce and talent pipeline.
+- category: machine-learning
+  description: ChatLLM brings together every major AI model—GPT-5, Claude, Gemini,
+    Grok, and more—into one affordable platform. For just $10 a month, you get a Swiss
+    Army knife of AI tools for writing, coding, analy...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/abacus/chatllm-an-honest-review-of-our-all-in-one-ai-platform
+  pub_date: '2025-11-07T18:00:07'
+  source: KDnuggets
+  title: ChatLLM. An Honest Review of Our All-in-One AI Platform
+- category: machine-learning
+  description: Firebase Studio revolutionizes full-stack app development by unifying
+    a cloud-based IDE, the robust Firebase platform, and the power of Gemini's AI
+    agents....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-full-stack-apps-with-firebase-studio
+  pub_date: '2025-11-07T15:47:18'
+  source: KDnuggets
+  title: Building Full Stack Apps with Firebase Studio
+- category: machine-learning
+  description: In this article, I will take you through a gentle, beginner-friendly
+    machine learning project in which we will build together a regression model that
+    predicts employee income based on socio-economic a...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/from-dataset-to-dataframe-to-deployed-your-first-project-with-pandas-scikit-learn
+  pub_date: '2025-11-07T13:00:24'
+  source: KDnuggets
+  title: 'From Dataset to DataFrame to Deployed: Your First Project with Pandas &
+    Scikit-learn'
+- category: ai-research
   description: MIT PhD students who interned with the MIT-IBM Watson AI Lab Summer
     Program are pushing AI tools to be more flexible, efficient, and grounded in truth....
   icon: fa-graduation-cap
@@ -120,22 +165,6 @@ articles:
   pub_date: '2025-11-04T17:00:00'
   source: Google AI Blog
   title: The latest AI news we announced in October
-- category: machine-learning
-  description: If you've been hearing about "the cloud" for years but still aren't
-    sure what it means for your business, we get it. Let's cut through the noise....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/qx4c1o5r#new_tab
-  pub_date: '2025-11-04T14:39:26'
-  source: KDnuggets
-  title: Cloud 101 for Business Owners (Sponsored)
-- category: machine-learning
-  description: Data analytics without observability is nothing. Learn about its importance,
-    techniques, and tools for implementation....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/data-observability-in-analytics-tools-techniques-and-why-it-matters
-  pub_date: '2025-11-04T13:00:47'
-  source: KDnuggets
-  title: 'Data Observability in Analytics: Tools, Techniques, and Why It Matters'
 - category: ai-research
   description: MIT’s Teaching Systems Lab, led by Associate Professor Justin Reich,
     is working to help educators by listening to and sharing their stories....
@@ -153,13 +182,6 @@ articles:
   pub_date: '2025-11-03T20:55:00'
   source: MIT AI News
   title: '3 Questions: How AI is helping us monitor and support vulnerable ecosystems'
-- category: machine-learning
-  description: Save time by keeping top resources and tools at your fingertips....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/whats-on-my-bookmarks-bar-data-science-edition
-  pub_date: '2025-11-03T17:00:42'
-  source: KDnuggets
-  title: 'What’s on My Bookmarks Bar: Data Science Edition'
 - category: ai-research
   description: The FSNet system, developed at MIT, could help power grid operators
     rapidly find feasible solutions for optimizing the flow of electricity....
@@ -200,13 +222,6 @@ articles:
   source: Google AI Blog
   title: Google Beam is working with the USO to support military families.
 - category: ai-research
-  description: Vibe Coding in Google AI Studio...
-  icon: fa-google
-  link: https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/
-  pub_date: '2025-10-26T15:00:00'
-  source: Google AI Blog
-  title: Introducing vibe coding in Google AI Studio
-- category: ai-research
   description: PhD student Miranda Schwacke explores how computing inspired by the
     human brain can fuel energy-efficient artificial intelligence....
   icon: fa-graduation-cap
@@ -231,13 +246,4 @@ articles:
   pub_date: '2025-10-21T20:10:00'
   source: MIT AI News
   title: Creating AI that matters
-- category: ai-research
-  description: To reduce waste, the Refashion program helps users create outlines
-    for adaptable clothing, such as pants that can be reconfigured into a dress. Each
-    component of these pieces can be replaced, rearrang...
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/refashion-software-designs-eco-friendly-clothing-that-can-reassemble-new-items-1017
-  pub_date: '2025-10-17T18:30:00'
-  source: MIT AI News
-  title: New software designs eco-friendly clothing that can reassemble into new items
-last_updated: '2025-11-07T06:30:31.829966'
+last_updated: '2025-11-08T06:27:35.292337'
