@@ -1,5 +1,51 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/jobs-graphic-GettyImages-2237279297.jpg"
+    /><br />A look at 10 fast&#45;growing jobs in the supply chain industry, with
+    2025 salary data fro...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-10-fastest-growing-supply-chain-jobs-2025
+  pub_date: '2025-11-07T15:33:00'
+  source: Supply Chain 24/7
+  title: Top 10 Fastest-Growing Supply Chain Jobs (and What They Pay)
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/free-shipping-GettyImages-2219875686.jpg"
+    /><br />Retailers are finding ways to make “free delivery” work, using smart pricing
+    and stronger...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/retailers-free-shipping-without-losing-money
+  pub_date: '2025-11-07T15:00:00'
+  source: Supply Chain 24/7
+  title: How Retailers Deliver on ‘Free Shipping’ Without Losing Money
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/stanska-san-fran-airport.jpg"
+    /><br />Skanska has begun building new cargo and maintenance facilities at San
+    Francisco International Airpor...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/skanska-cargo-redevelopment-san-francisco-airport
+  pub_date: '2025-11-07T14:38:00'
+  source: Supply Chain 24/7
+  title: Skanska Begins Major Cargo Project at San Francisco Airport
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/industry-growth-getty.jpg"
+    /><br />ISM’s October Services PMI climbed to 52.4, signaling renewed growth as
+    new orders and business activity...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/october-services-sector-returns-to-growth-ism
+  pub_date: '2025-11-07T14:24:00'
+  source: Supply Chain 24/7
+  title: October Services PMI Rises to 52.4 as Growth Picks Up
+- category: circular
+  description: '<p>The UK Deposit Management Organisation (UK DMO) has appointed Russell
+    Davies as its Chief Executive Officer.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/news/uk-dmo-appoints-russell-d...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-dmo-appoints-russell-davies-as-ceo/
+  pub_date: '2025-11-07T10:29:09'
+  source: Circular Online
+  title: UK DMO appoints Russell Davies as CEO
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/tariffs-GettyImages-498523188.jpg"
     /><br />Mercury CEO Josh Medow explains how businesses can adapt and stay strong
     through constant tariff...
@@ -72,32 +118,6 @@ articles:
   pub_date: '2025-11-05T16:16:00'
   source: Supply Chain 24/7
   title: What Sellers Need to Do Before Amazon Ends FBA Prep
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/artificial-intelligence-pixabay22222.jpg"
-    /><br />IBM has added five new global projects to its 2025 AI Supply Chain Initiative,
-    helping or...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ibm-2025-ai-supply-chain-initiative
-  pub_date: '2025-11-05T15:01:00'
-  source: Supply Chain 24/7
-  title: Five Projects Chosen to Join IBM’s 2025 AI Supply Chain Initiative
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/UPS_Crash-600.jpg"
-    /><br />A UPS cargo jet crashed shortly after takeoff in Louisville, killing nine
-    people and injuring 11, as investigato...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-plane-crash-louisville-kentucky-2025
-  pub_date: '2025-11-05T14:35:00'
-  source: Supply Chain 24/7
-  title: UPS Jet Crashes After Takeoff in Louisville, Killing Nine
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/kuebix-freightwise-article-7-ways-ltl-freight-quote-0925.jpg"
-    /><br />Learn how to save money and avoid hidden fees on less&#45;than&#45;tr...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/7-proven-ways-to-get-the-best-ltl-freight-quote
-  pub_date: '2025-11-05T13:43:00'
-  source: Supply Chain 24/7
-  title: 7 Proven Ways to Get the Best LTL Freight Quote
 - category: circular
   description: '<p>Over 7,000 vapes a day were found in four Biffa sites between June
     and September 2025, data from the waste management company shows.</p>
@@ -128,15 +148,6 @@ articles:
   pub_date: '2025-11-05T09:11:06'
   source: Circular Online
   title: UNEP says world heading for a ‘serious escalation’ of climate damage
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/UPS-truck-600-b.jpg"
-    /><br />UPS has acquired Andlauer Healthcare Group for $1.6 billion, expanding
-    its cold chain and pharmaceutical logis...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-acquires-andlauer-healthcare-group-1-6-billion
-  pub_date: '2025-11-04T16:35:00'
-  source: Supply Chain 24/7
-  title: UPS Expands Healthcare Network with $1.6B Acquisition of Andlauer
 - category: circular
   description: <p>  The new Disused Tips Authority for Wales will be headquartered
     on a reclaimed colliery tip site in Merthyr Tydfil, creating ‘around 60 new jobs’.
@@ -176,14 +187,4 @@ articles:
   pub_date: '2025-10-31T09:00:00'
   source: Circular Online
   title: News in brief | CIWM Commercial Partner Updates October
-- category: circular
-  description: <p>WRAP’s latest results on progress towards the UK Textiles Pact targets,
-    for a 50% reduction in carbon and 30% reduction in water by 2030, highlights that
-    radical transformation will be needed to me...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-uk-textiles-pact-roadmap-helps-industry-reach-critical-environmental-targets/
-  pub_date: '2025-10-31T08:59:53'
-  source: Circular Online
-  title: New UK Textiles Pact Roadmap helps industry reach critical environmental
-    targets
-last_updated: '2025-11-07T06:30:30.667996'
+last_updated: '2025-11-08T06:27:33.945544'
