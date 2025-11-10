@@ -1,0 +1,539 @@
+---
+layout: default
+title: Working with AI in Supply Chain Research
+seo_title: AI & LLM Guide for Supply Chain Research | Value Chain Hackers
+description: Practical guide for students learning to use AI tools and large language models in supply chain research. From prompt engineering to data analysis with LLMs.
+---
+
+<!-- Hero Section -->
+<section class="relative bg-gradient-to-br from-purple-600 via-indigo-600 to-blue-600 text-white overflow-hidden">
+    <div class="absolute inset-0 opacity-10">
+        <svg class="w-full h-full" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <pattern id="ai-grid" width="60" height="60" patternUnits="userSpaceOnUse">
+                    <circle cx="30" cy="30" r="2" fill="currentColor"/>
+                </pattern>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#ai-grid)" />
+        </svg>
+    </div>
+
+    <div class="relative max-w-7xl mx-auto px-4 py-20 text-center">
+        <div class="inline-block bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-semibold mb-6">
+            <i class="fas fa-robot mr-2"></i> AI Tools for Researchers
+        </div>
+        <h1 class="text-4xl md:text-6xl font-bold mb-6">
+            Working with AI in Supply Chain Research
+        </h1>
+        <p class="text-xl md:text-2xl text-purple-100 mb-8 max-w-3xl mx-auto">
+            AI can help with your research if you know how to use it right. This guide shows you what actually works when you're analyzing data, reading papers, or trying to solve problems.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="#getting-started" class="bg-white text-purple-600 px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-colors inline-flex items-center justify-center">
+                Get Started
+                <i class="fas fa-arrow-down ml-2"></i>
+            </a>
+            <a href="#resources" class="border-2 border-white text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-white hover:text-purple-600 transition-colors inline-flex items-center justify-center">
+                Browse Resources
+                <i class="fas fa-book ml-2"></i>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- What You'll Learn -->
+<section id="getting-started" class="section-spacing bg-white">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold text-vch-gray mb-4">What You'll Learn</h2>
+            <p class="text-lg text-vch-light-gray max-w-3xl mx-auto">
+                Whether you're just starting out or already using AI, here's what you need to know to actually get useful results from it.
+            </p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="bg-vch-bg rounded-xl p-6">
+                <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-comments text-white text-xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-3">Prompt Engineering</h3>
+                <p class="text-vch-light-gray mb-4">
+                    How to write prompts that actually give you useful answers. The difference between getting garbage and getting insights is usually in how you ask.
+                </p>
+                <ul class="text-sm text-vch-light-gray space-y-2">
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Structuring effective prompts</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Chain-of-thought reasoning</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Few-shot learning examples</li>
+                </ul>
+            </div>
+
+            <div class="bg-vch-bg rounded-xl p-6">
+                <div class="w-12 h-12 bg-indigo-600 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-database text-white text-xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-3">Data Analysis</h3>
+                <p class="text-vch-light-gray mb-4">
+                    Getting AI to help you make sense of your datasets. Finding patterns you might miss and turning messy supply chain data into something you can actually understand.
+                </p>
+                <ul class="text-sm text-vch-light-gray space-y-2">
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Cleaning and structuring data</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Pattern recognition</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Generating visualizations</li>
+                </ul>
+            </div>
+
+            <div class="bg-vch-bg rounded-xl p-6">
+                <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-book-open text-white text-xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-3">Literature Review</h3>
+                <p class="text-vch-light-gray mb-4">
+                    Reading 50 papers takes forever. AI can help you quickly summarize what each one says, pull out the important bits, and spot where there's still work to be done.
+                </p>
+                <ul class="text-sm text-vch-light-gray space-y-2">
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Summarizing academic papers</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Comparing methodologies</li>
+                    <li><i class="fas fa-check text-vch-green mr-2"></i>Finding research gaps</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Core Concepts -->
+<section class="section-spacing bg-vch-bg">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold text-vch-gray mb-4">Core Concepts</h2>
+            <p class="text-lg text-vch-light-gray">
+                Knowing a bit about how these tools work makes it easier to get what you want out of them
+            </p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-8">
+            <!-- Concept 1 -->
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <h3 class="text-xl font-semibold mb-4 flex items-center">
+                    <span class="w-8 h-8 bg-purple-600 text-white rounded-full flex items-center justify-center text-sm font-bold mr-3">1</span>
+                    What are Large Language Models?
+                </h3>
+                <p class="text-vch-light-gray mb-4">
+                    LLMs like ChatGPT, Claude, and Gemini are AI systems trained on massive amounts of text. They understand context, generate human-like responses, and can help with complex reasoning tasks.
+                </p>
+                <div class="bg-gray-50 rounded-lg p-4 text-sm">
+                    <div class="font-semibold mb-2">Think of them as:</div>
+                    <ul class="space-y-1 text-vch-light-gray">
+                        <li>• Very smart autocomplete (but way more capable)</li>
+                        <li>• Pattern matchers trained on billions of examples</li>
+                        <li>• Tools that understand both what you say and what you mean</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Concept 2 -->
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <h3 class="text-xl font-semibold mb-4 flex items-center">
+                    <span class="w-8 h-8 bg-indigo-600 text-white rounded-full flex items-center justify-center text-sm font-bold mr-3">2</span>
+                    Strengths and Limitations
+                </h3>
+                <div class="grid grid-cols-2 gap-4">
+                    <div>
+                        <div class="text-sm font-semibold text-vch-green mb-2">Good at:</div>
+                        <ul class="text-sm text-vch-light-gray space-y-1">
+                            <li>• Summarizing information</li>
+                            <li>• Brainstorming ideas</li>
+                            <li>• Explaining concepts</li>
+                            <li>• Writing code</li>
+                            <li>• Structuring data</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="text-sm font-semibold text-orange-600 mb-2">Watch out for:</div>
+                        <ul class="text-sm text-vch-light-gray space-y-1">
+                            <li>• Hallucinations (making things up)</li>
+                            <li>• Outdated knowledge</li>
+                            <li>• Math errors</li>
+                            <li>• Bias in training data</li>
+                            <li>• Can't browse the web (usually)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Concept 3 -->
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <h3 class="text-xl font-semibold mb-4 flex items-center">
+                    <span class="w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center text-sm font-bold mr-3">3</span>
+                    Prompt Engineering Basics
+                </h3>
+                <p class="text-vch-light-gray mb-4">
+                    The way you ask questions matters. Good prompts are clear, specific, and provide context.
+                </p>
+                <div class="space-y-3">
+                    <div class="bg-red-50 border-l-4 border-red-500 p-3 text-sm">
+                        <div class="font-semibold text-red-700 mb-1">Weak prompt:</div>
+                        <div class="text-vch-light-gray">"Tell me about supply chains"</div>
+                    </div>
+                    <div class="bg-green-50 border-l-4 border-green-500 p-3 text-sm">
+                        <div class="font-semibold text-green-700 mb-1">Strong prompt:</div>
+                        <div class="text-vch-light-gray">"Explain how blockchain technology can improve transparency in coffee supply chains, focusing on smallholder farmers in Ethiopia. Include 3 real-world examples and potential challenges."</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Concept 4 -->
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <h3 class="text-xl font-semibold mb-4 flex items-center">
+                    <span class="w-8 h-8 bg-green-600 text-white rounded-full flex items-center justify-center text-sm font-bold mr-3">4</span>
+                    Ethical Use
+                </h3>
+                <p class="text-vch-light-gray mb-4">
+                    AI is powerful but it's not perfect. Be honest about when you use it, double-check what it tells you, and think about the bigger picture.
+                </p>
+                <ul class="space-y-2 text-sm text-vch-light-gray">
+                    <li><i class="fas fa-check-circle text-vch-green mr-2"></i>Always cite when AI helps with your work</li>
+                    <li><i class="fas fa-check-circle text-vch-green mr-2"></i>Verify facts and figures independently</li>
+                    <li><i class="fas fa-check-circle text-vch-green mr-2"></i>Don't share confidential or sensitive data</li>
+                    <li><i class="fas fa-check-circle text-vch-green mr-2"></i>Understand that AI can be biased</li>
+                    <li><i class="fas fa-check-circle text-vch-green mr-2"></i>Use AI to augment, not replace, critical thinking</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Practical Techniques -->
+<section class="section-spacing bg-white">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold text-vch-gray mb-4">Practical Techniques</h2>
+            <p class="text-lg text-vch-light-gray">
+                Real prompts and workflows you can use in your supply chain research
+            </p>
+        </div>
+
+        <!-- Technique Tabs would go here - simplified for now -->
+        <div class="grid gap-8">
+            <!-- Technique 1: Data Analysis -->
+            <div class="bg-gradient-to-r from-purple-50 to-indigo-50 rounded-xl p-8">
+                <div class="flex items-center mb-4">
+                    <span class="bg-purple-600 text-white px-3 py-1 rounded-full text-sm font-semibold mr-3">Technique</span>
+                    <h3 class="text-2xl font-bold text-vch-gray">Analyzing Supply Chain Data</h3>
+                </div>
+                <p class="text-vch-light-gray mb-6">
+                    AI can help you clean up messy data, spot patterns you might miss, and figure out what the numbers are actually telling you about your supply chain.
+                </p>
+
+                <div class="bg-white rounded-lg p-6 mb-4">
+                    <div class="text-sm font-semibold text-vch-gray mb-2">Example Prompt:</div>
+                    <div class="bg-gray-900 text-green-400 rounded p-4 font-mono text-sm overflow-x-auto">
+I have a CSV file with columns: supplier_name, country, product_category, co2_emissions_kg, cost_usd, delivery_days.
+
+Please help me:
+1. Identify which suppliers have the highest emissions per dollar spent
+2. Find patterns between country and delivery times
+3. Suggest visualizations to show the relationship between cost and emissions
+4. Recommend 3 suppliers to investigate for sustainability improvements
+
+Data sample:
+[paste first 10 rows here]
+                    </div>
+                </div>
+
+                <div class="bg-blue-50 border-l-4 border-blue-500 p-4">
+                    <div class="font-semibold text-blue-900 mb-1"><i class="fas fa-lightbulb mr-2"></i>Pro tip:</div>
+                    <div class="text-blue-800 text-sm">Break complex analysis into steps. Ask the AI to explain its reasoning. Always verify statistical calculations independently.</div>
+                </div>
+            </div>
+
+            <!-- Technique 2: Literature Review -->
+            <div class="bg-gradient-to-r from-green-50 to-emerald-50 rounded-xl p-8">
+                <div class="flex items-center mb-4">
+                    <span class="bg-green-600 text-white px-3 py-1 rounded-full text-sm font-semibold mr-3">Technique</span>
+                    <h3 class="text-2xl font-bold text-vch-gray">Accelerating Literature Review</h3>
+                </div>
+                <p class="text-vch-light-gray mb-6">
+                    Reading academic papers takes forever. AI can give you the main points fast, help you compare how different studies approached the same problem, and show you what questions haven't been answered yet.
+                </p>
+
+                <div class="bg-white rounded-lg p-6 mb-4">
+                    <div class="text-sm font-semibold text-vch-gray mb-2">Example Prompt:</div>
+                    <div class="bg-gray-900 text-green-400 rounded p-4 font-mono text-sm overflow-x-auto">
+I'm researching circular economy models in the textile industry. I have 5 papers below.
+
+For each paper, extract:
+1. Main research question
+2. Methodology used
+3. Key findings (3 bullets max)
+4. Limitations mentioned by authors
+5. How it relates to smallholder producer inclusion
+
+Then create a comparison table showing which methodologies were used and what gaps exist.
+
+Paper 1: [paste abstract and conclusion]
+Paper 2: [paste abstract and conclusion]
+...
+                    </div>
+                </div>
+
+                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4">
+                    <div class="font-semibold text-yellow-900 mb-1"><i class="fas fa-exclamation-triangle mr-2"></i>Warning:</div>
+                    <div class="text-yellow-800 text-sm">AI summaries can miss nuance. Always read the original papers for anything you'll cite. Use AI to organize, not replace, your literature review.</div>
+                </div>
+            </div>
+
+            <!-- Technique 3: Problem Solving -->
+            <div class="bg-gradient-to-r from-orange-50 to-yellow-50 rounded-xl p-8">
+                <div class="flex items-center mb-4">
+                    <span class="bg-orange-600 text-white px-3 py-1 rounded-full text-sm font-semibold mr-3">Technique</span>
+                    <h3 class="text-2xl font-bold text-vch-gray">Structured Problem Solving</h3>
+                </div>
+                <p class="text-vch-light-gray mb-6">
+                    When you're stuck on a complicated problem, AI can help you break it into smaller pieces and work through different ways to solve it. Like talking through your problem with someone who asks good questions.
+                </p>
+
+                <div class="bg-white rounded-lg p-6 mb-4">
+                    <div class="text-sm font-semibold text-vch-gray mb-2">Example Prompt:</div>
+                    <div class="bg-gray-900 text-green-400 rounded p-4 font-mono text-sm overflow-x-auto">
+I'm working on reducing packaging waste for a local bakery network.
+
+Context:
+- 12 bakeries across the region
+- Currently using single-use plastic packaging
+- Average 500 customers per bakery per day
+- Budget constraint: max 15% increase in packaging costs
+
+Please help me:
+1. Break this problem into smaller components
+2. List potential circular economy solutions
+3. For each solution, estimate feasibility (low/medium/high) and explain why
+4. Identify what data I'd need to collect to evaluate each option
+5. Suggest 3 pilot programs I could propose
+
+Think step by step and explain your reasoning.
+                    </div>
+                </div>
+
+                <div class="bg-green-50 border-l-4 border-green-500 p-4">
+                    <div class="font-semibold text-green-900 mb-1"><i class="fas fa-star mr-2"></i>Best practice:</div>
+                    <div class="text-green-800 text-sm">Add "Think step by step" or "Explain your reasoning" to get more detailed analysis. Use AI to generate options, then apply your own judgment.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Tools & Resources -->
+<section id="resources" class="section-spacing bg-vch-bg">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold text-vch-gray mb-4">Tools & Resources</h2>
+            <p class="text-lg text-vch-light-gray">
+                Tools and resources that are actually useful for supply chain research
+            </p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8 mb-12">
+            <!-- Resource Category 1 -->
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-tools text-white text-xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-3">AI Platforms</h3>
+                <ul class="space-y-3 text-sm">
+                    <li class="flex items-start">
+                        <i class="fas fa-chevron-right text-vch-green mr-2 mt-1"></i>
+                        <div>
+                            <a href="https://chatgpt.com" target="_blank" rel="noopener noreferrer" class="font-semibold text-vch-green hover:text-green-600">ChatGPT</a>
+                            <div class="text-vch-light-gray">OpenAI's conversational AI. Great for general research tasks.</div>
+                        </div>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fas fa-chevron-right text-vch-green mr-2 mt-1"></i>
+                        <div>
+                            <a href="https://claude.ai" target="_blank" rel="noopener noreferrer" class="font-semibold text-vch-green hover:text-green-600">Claude</a>
+                            <div class="text-vch-light-gray">Anthropic's AI. Excellent for long documents and analysis.</div>
+                        </div>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fas fa-chevron-right text-vch-green mr-2 mt-1"></i>
+                        <div>
+                            <a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer" class="font-semibold text-vch-green hover:text-green-600">Gemini</a>
+                            <div class="text-vch-light-gray">Google's AI. Integrates with Google Workspace.</div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Resource Category 2 -->
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <div class="w-12 h-12 bg-indigo-600 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-code text-white text-xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-3">Coding Assistants</h3>
+                <ul class="space-y-3 text-sm">
+                    <li class="flex items-start">
+                        <i class="fas fa-chevron-right text-vch-green mr-2 mt-1"></i>
+                        <div>
+                            <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer" class="font-semibold text-vch-green hover:text-green-600">GitHub Copilot</a>
+                            <div class="text-vch-light-gray">AI pair programmer. Free for students.</div>
+                        </div>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fas fa-chevron-right text-vch-green mr-2 mt-1"></i>
+                        <div>
+                            <a href="https://cursor.sh" target="_blank" rel="noopener noreferrer" class="font-semibold text-vch-green hover:text-green-600">Cursor</a>
+                            <div class="text-vch-light-gray">AI-first code editor built on VS Code.</div>
+                        </div>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fas fa-chevron-right text-vch-green mr-2 mt-1"></i>
+                        <div>
+                            <a href="https://www.jetbrains.com/ai/" target="_blank" rel="noopener noreferrer" class="font-semibold text-vch-green hover:text-green-600">JetBrains AI</a>
+                            <div class="text-vch-light-gray">Built into PyCharm, IntelliJ, and other IDEs.</div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Resource Category 3 -->
+            <div class="bg-white rounded-xl shadow-sm border p-6">
+                <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
+                    <i class="fas fa-graduation-cap text-white text-xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-3">Learning Resources</h3>
+                <ul class="space-y-3 text-sm">
+                    <li class="flex items-start">
+                        <i class="fas fa-chevron-right text-vch-green mr-2 mt-1"></i>
+                        <div>
+                            <a href="https://github.com/Value-Chain-Hacking/TheBigPromptLibrary" target="_blank" rel="noopener noreferrer" class="font-semibold text-vch-green hover:text-green-600">The Big Prompt Library</a>
+                            <div class="text-vch-light-gray">Collection of proven prompts for various tasks.</div>
+                        </div>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fas fa-chevron-right text-vch-green mr-2 mt-1"></i>
+                        <div>
+                            <a href="https://github.com/Value-Chain-Hacking/llm-datasets" target="_blank" rel="noopener noreferrer" class="font-semibold text-vch-green hover:text-green-600">LLM Datasets</a>
+                            <div class="text-vch-light-gray">Curated datasets for training and testing.</div>
+                        </div>
+                    </li>
+                    <li class="flex items-start">
+                        <i class="fas fa-chevron-right text-vch-green mr-2 mt-1"></i>
+                        <div>
+                            <a href="https://github.com/Value-Chain-Hacking/ChainForge" target="_blank" rel="noopener noreferrer" class="font-semibold text-vch-green hover:text-green-600">ChainForge</a>
+                            <div class="text-vch-light-gray">Visual tool for prompt engineering experiments.</div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- GitHub Resources Callout -->
+        <div class="bg-gradient-to-r from-vch-green to-vch-yellow rounded-2xl p-8 text-white">
+            <div class="grid md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <h3 class="text-2xl font-bold mb-4">Explore Our GitHub Resources</h3>
+                    <p class="text-white mb-4">
+                        We maintain a collection of open-source AI tools and resources specifically for supply chain research. All code is available for you to use, modify, and learn from.
+                    </p>
+                    <ul class="space-y-2 text-sm mb-6">
+                        <li><i class="fas fa-check-circle mr-2"></i>Prompt templates for common research tasks</li>
+                        <li><i class="fas fa-check-circle mr-2"></i>Sample datasets for practice</li>
+                        <li><i class="fas fa-check-circle mr-2"></i>Python notebooks with worked examples</li>
+                        <li><i class="fas fa-check-circle mr-2"></i>Tools for evaluating AI outputs</li>
+                    </ul>
+                    <a href="https://github.com/orgs/Research-Ready/repositories" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 bg-white text-vch-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                        <i class="fab fa-github"></i> Browse Repositories
+                    </a>
+                </div>
+                <div class="bg-white bg-opacity-10 rounded-xl p-6">
+                    <div class="text-sm font-semibold mb-3">Featured Repositories:</div>
+                    <div class="space-y-3 text-sm">
+                        <a href="https://github.com/Value-Chain-Hacking/big-AGI" target="_blank" rel="noopener noreferrer" class="block bg-white bg-opacity-10 rounded p-3 hover:bg-opacity-20 transition-colors">
+                            <div class="font-semibold mb-1">big-AGI</div>
+                            <div class="text-xs opacity-90">Advanced AI interface with multiple model support</div>
+                        </a>
+                        <a href="https://github.com/Value-Chain-Hacking/TheBigPromptLibrary" target="_blank" rel="noopener noreferrer" class="block bg-white bg-opacity-10 rounded p-3 hover:bg-opacity-20 transition-colors">
+                            <div class="font-semibold mb-1">Prompt Library</div>
+                            <div class="text-xs opacity-90">Ready-to-use prompts for research tasks</div>
+                        </a>
+                        <a href="https://github.com/Value-Chain-Hacking/ChainForge" target="_blank" rel="noopener noreferrer" class="block bg-white bg-opacity-10 rounded p-3 hover:bg-opacity-20 transition-colors">
+                            <div class="font-semibold mb-1">ChainForge</div>
+                            <div class="text-xs opacity-90">Visual prompt engineering toolkit</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FAQ Section -->
+<section class="section-spacing bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold text-vch-gray mb-4">Common Questions</h2>
+            <p class="text-lg text-vch-light-gray">
+                Answers to questions students frequently ask about using AI in research
+            </p>
+        </div>
+
+        <div class="space-y-4">
+            <div class="bg-vch-bg rounded-xl p-6">
+                <h3 class="text-lg font-semibold mb-2">Can I use AI for my thesis or research paper?</h3>
+                <p class="text-vch-light-gray">
+                    Yes, but be transparent about it. Many universities now allow AI use as long as you cite it properly and don't claim AI-generated content as your own original work. Check your institution's academic integrity policy. Use AI as a tool to help you think, not to think for you.
+                </p>
+            </div>
+
+            <div class="bg-vch-bg rounded-xl p-6">
+                <h3 class="text-lg font-semibold mb-2">How do I cite AI in my research?</h3>
+                <p class="text-vch-light-gray mb-2">
+                    Different citation styles have different approaches. Generally, you should mention the AI tool, the company, the date, and how you used it. Example:
+                </p>
+                <div class="bg-white rounded p-3 text-sm font-mono">
+                    OpenAI. (2024). ChatGPT (GPT-4) [Large language model]. Used to help analyze survey data patterns on March 15, 2024. https://chatgpt.com
+                </div>
+            </div>
+
+            <div class="bg-vch-bg rounded-xl p-6">
+                <h3 class="text-lg font-semibold mb-2">What if the AI gives me wrong information?</h3>
+                <p class="text-vch-light-gray">
+                    AI makes mistakes. Always verify facts, statistics, and citations independently. Use AI to generate ideas and structure thinking, but check everything important against reliable sources. If you're unsure, ask the AI to explain its reasoning or provide sources (though be aware it might make up sources too).
+                </p>
+            </div>
+
+            <div class="bg-vch-bg rounded-xl p-6">
+                <h3 class="text-lg font-semibold mb-2">Is my data safe when I use AI tools?</h3>
+                <p class="text-vch-light-gray">
+                    It depends on the tool. Some AI companies use your inputs to train their models, others don't. Never share confidential data, personal information, or anything covered by an NDA. If working with sensitive supply chain data, consider using tools with enterprise privacy settings or run models locally.
+                </p>
+            </div>
+
+            <div class="bg-vch-bg rounded-xl p-6">
+                <h3 class="text-lg font-semibold mb-2">Which AI tool should I use?</h3>
+                <p class="text-vch-light-gray">
+                    Different tools have different strengths. ChatGPT is versatile and widely used. Claude is better for long documents. Gemini integrates well with Google tools. Try a few and see what works for your workflow. Many are free or offer student discounts.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA Section -->
+<section class="section-spacing bg-gradient-to-r from-vch-green to-vch-yellow text-white">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+        <h2 class="text-3xl font-bold mb-6">Ready to Start Using AI in Your Research?</h2>
+        <p class="text-xl mb-8">
+            Connect with other students and researchers who are figuring this out too. Share what works, ask questions, and learn from each other.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="https://discord.gg/mkbjsQsV" target="_blank" rel="noopener noreferrer" class="bg-white text-vch-green px-8 py-4 rounded-lg font-bold hover:bg-gray-100 transition-colors inline-flex items-center justify-center">
+                <i class="fab fa-discord mr-2"></i> Join Our Discord
+            </a>
+            <a href="/workshops" class="border-2 border-white text-white px-8 py-4 rounded-lg font-bold hover:bg-white hover:text-vch-green transition-colors inline-flex items-center justify-center">
+                <i class="fas fa-calendar mr-2"></i> Attend a Workshop
+            </a>
+        </div>
+    </div>
+</section>
