@@ -1,5 +1,48 @@
 articles:
 - category: ai-research
+  description: Associate Professor Phillip Isola studies the ways in which intelligent
+    machines “think,” in an effort to safely integrate AI into human society....
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/understanding-nuances-human-intelligence-phillip-isola-1111
+  pub_date: '2025-11-11T05:00:00'
+  source: MIT AI News
+  title: Understanding the nuances of human-like intelligence
+- category: machine-learning
+  description: The GIL is finally being dismantled. The implications aren't just technical;
+    they're cultural. This shift could redefine how we write, scale, and even think
+    about Python in the modern era....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-does-the-end-of-gil-mean-for-python
+  pub_date: '2025-11-10T17:00:48'
+  source: KDnuggets
+  title: What Does the End of GIL Mean for Python?
+- category: machine-learning
+  description: This infographic distills a reliable workflow for turning analysis
+    into decisions, helping you master data storytelling for business impact....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-steps-to-mastering-data-storytelling-for-business-impact
+  pub_date: '2025-11-10T15:00:11'
+  source: KDnuggets
+  title: 7 Steps to Mastering Data Storytelling for Business Impact
+- category: machine-learning
+  description: The 2025 AI Degree Report is out, tracking how the AI talent pipeline
+    is shifting, with analyses and data visualizations provide a roadmap to what’s
+    happening on the ground....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/mapping-the-ai-education-surge-which-states-and-schools-are-leading-the-pack-in-2025
+  pub_date: '2025-11-10T13:00:35'
+  source: KDnuggets
+  title: 'Mapping the AI Education Surge: Which States and Schools Are Leading the
+    Pack in 2025'
+- category: ai-research
+  description: Rowandale Primary School teacher assisting two primary school students
+    working on laptops at a classroom table....
+  icon: fa-google
+  link: https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/
+  pub_date: '2025-11-10T09:00:00'
+  source: Google AI Blog
+  title: How AI is giving Northern Ireland teachers time back
+- category: ai-research
   description: MIT faculty and MITEI member company experts address power demand from
     data centers....
   icon: fa-graduation-cap
@@ -116,13 +159,6 @@ articles:
   pub_date: '2025-11-05T18:00:55'
   source: KDnuggets
   title: Automating Web Search Data Collection for AI Models with SerpApi
-- category: machine-learning
-  description: And got the job....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-i-prepared-for-a-data-science-interview-at-a-large-tech-company
-  pub_date: '2025-11-05T17:00:09'
-  source: KDnuggets
-  title: How I Prepared for a Data Science Interview at a Large Tech Company
 - category: ai-research
   description: Image with black and blue background with an example JSON Schema code
     snippet and the Gemini logo sparkle...
@@ -140,22 +176,6 @@ articles:
   pub_date: '2025-11-05T15:00:00'
   source: MIT AI News
   title: Teaching robots to map large environments
-- category: machine-learning
-  description: Discover 5 free must-read books that cover theory, systems, linguistics,
-    interpretability, and security side of large language models....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-llm-engineer
-  pub_date: '2025-11-05T13:00:30'
-  source: KDnuggets
-  title: The 5 FREE Must-Read Books for Every LLM Engineer
-- category: machine-learning
-  description: If you need to pull specific data from text, LangExtract offers a fast,
-    flexible, and beginner‑friendly way to do it....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/beginners-guide-to-data-extraction-with-langextract-and-llms
-  pub_date: '2025-11-04T17:11:33'
-  source: KDnuggets
-  title: Beginner’s Guide to Data Extraction with LangExtract and LLMs
 - category: ai-research
   description: 'an mp4 video featuring three panels of technology: A person wearing
     an AR headset interacting with virtual map and web screens; the text Google Quantum
@@ -214,14 +234,6 @@ articles:
   source: Google AI Blog
   title: Meet the 11 startups using AI to build a safer digital future in Latin America
 - category: ai-research
-  description: <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_CarouselBall.max-600x600.format-webp.webp"
-    />Learn more about Google’s work with the USO and how it plans to launch...
-  icon: fa-google
-  link: https://blog.google/feed/google-beam-uso-partnership/
-  pub_date: '2025-10-27T17:45:00'
-  source: Google AI Blog
-  title: Google Beam is working with the USO to support military families.
-- category: ai-research
   description: PhD student Miranda Schwacke explores how computing inspired by the
     human brain can fuel energy-efficient artificial intelligence....
   icon: fa-graduation-cap
@@ -238,12 +250,4 @@ articles:
   pub_date: '2025-10-22T19:25:00'
   source: MIT AI News
   title: Five with MIT ties elected to National Academy of Medicine for 2025
-- category: ai-research
-  description: How the MIT-IBM Watson AI Lab is shaping AI-sociotechnical systems
-    for the future....
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/creating-ai-that-matters-1021
-  pub_date: '2025-10-21T20:10:00'
-  source: MIT AI News
-  title: Creating AI that matters
-last_updated: '2025-11-10T06:33:06.923170'
+last_updated: '2025-11-11T06:31:03.957767'
