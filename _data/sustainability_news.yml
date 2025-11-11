@@ -1,5 +1,72 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/bryan-jensen-st-onge.jpg"
+    /><br />Veteran supply chain leader Bryan Jensen reflects on his journey from
+    Toys “R” Us to St. Onge and the les...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-bryan-jensen-st-onge
+  pub_date: '2025-11-10T18:40:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Bryan Jensen of St. Onge'
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/container-ship-GettyImages-1363725969.jpg"
+    /><br />Older container ships are outperforming newer fleets on emissions, showing
+    that smart op...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/older-container-ships-running-cleaner-than-new-fleets
+  pub_date: '2025-11-10T16:00:00'
+  source: Supply Chain 24/7
+  title: Older Container Ships Are Running Cleaner Than New Fleets
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/robotics-automation-GettyImages-2113743628.jpg"
+    /><br />Despite billions in upgrades, DHL’s Insight 2030 report finds many supply
+    chains st...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-tech-investment-still-lagging-roi
+  pub_date: '2025-11-10T14:44:00'
+  source: Supply Chain 24/7
+  title: Despite Billions Invested, Supply Chain Technology Still Falls Short
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/salary-100-dollar-bill-getty2.jpg"
+    /><br />Average salaries for materials handling professionals rose slightly in
+    2025, but raises and bonu...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/materials-handling-salary-growth-slows-2025
+  pub_date: '2025-11-10T13:59:00'
+  source: Supply Chain 24/7
+  title: Salary Growth Slows Across the Material Handling Industry
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/truck-driverGettyImages-1537709671.jpg"
+    /><br />A new Samsara survey suggests that Gen Z is open to truck&#45;driving
+    roles if fleets can s...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gen-z-driving-careers-2025-samsara-study
+  pub_date: '2025-11-10T13:58:00'
+  source: Supply Chain 24/7
+  title: Can Gen Z Solve the Truck Driver Shortage?
+- category: circular
+  description: '<p>A London-based company has secured over £1.3 million to scale production
+    of its smart food-waste bin, which automatically weighs discarded food and reports
+    carbon emissions.</p>
+
+    <p>The post <a href...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/london-company-secures-1-3m-to-scale-smart-food-waste-bin/
+  pub_date: '2025-11-10T11:23:34'
+  source: Circular Online
+  title: London company secures £1.3m to scale smart food-waste bin
+- category: circular
+  description: '<p>The UK waste wood market remains ‘under significant pressure’,
+    with stockpiles of material still reported across the UK, the Wood Recyclers’
+    Association (WRA) says.</p>
+
+    <p>The post <a href="https:/...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-waste-wood-market-remains-under-significant-pressure-says-wra/
+  pub_date: '2025-11-10T08:00:00'
+  source: Circular Online
+  title: UK waste wood market remains under significant pressure, says WRA
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/jobs-graphic-GettyImages-2237279297.jpg"
     /><br />A look at 10 fast&#45;growing jobs in the supply chain industry, with
     2025 salary data fro...
@@ -54,32 +121,6 @@ articles:
   pub_date: '2025-11-06T20:34:00'
   source: Supply Chain 24/7
   title: How Companies Can Build Tariff-Resilient Supply Chains
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/suez-canal-GettyImages-502635934.jpg"
-    /><br />The Suez Canal Authority is seeing traffic rebound, with 229 ships returning
-    in October and m...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/suez-canal-traffic-rebound-shipping-lines-return
-  pub_date: '2025-11-06T16:40:00'
-  source: Supply Chain 24/7
-  title: Suez Canal Sees 10% Jump in Cargo as Larger Ships Return
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/locus_roboitcs_article_ai_in_warehousing_practical_guide_0925.jpg"
-    /><br />Sphera’s 2025 report shows confidence in process safety is slipp...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/sphera-2025-report-ai-key-to-process-safety
-  pub_date: '2025-11-06T16:01:00'
-  source: Supply Chain 24/7
-  title: AI Seen as Key to Overcoming Rising Safety Challenges, Study Finds
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/amazon-whole-foods-600.jpg"
-    /><br />Whole Foods&apos; new pilot store in Pennsylvania lets shoppers buy both
-    Whole Foods and Amazon items i...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/whole-foods-debuts-amazon-store-within-a-store-in-pennsylvania
-  pub_date: '2025-11-06T12:37:00'
-  source: Supply Chain 24/7
-  title: Whole Foods Debuts Amazon “Store Within a Store” in Pennsylvania
 - category: circular
   description: '<p>The Earthshot Prize announced its five 2025 winners at an awards
     night at the Museum of Tomorrow in Rio de Janeiro, Brazil.</p>
@@ -100,24 +141,6 @@ articles:
   pub_date: '2025-11-06T08:53:49'
   source: Circular Online
   title: Government to add climate change education to school curriculum
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/bringg-study.jpg"
-    /><br />Most shoppers say they care more about reliable and flexible delivery
-    than free shipping, according to new consum...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/bringg-study-reliable-delivery-beats-free-shipping
-  pub_date: '2025-11-05T20:17:00'
-  source: Supply Chain 24/7
-  title: Consumers Value Reliable, Flexible Delivery Over Free Shipping
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/packaging-GettyImages-1367196668.jpg"
-    /><br />Amazon will end its FBA Prep services in 2026, requiring sellers to manage
-    packaging, labelin...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-ending-fba-prep-services-2026
-  pub_date: '2025-11-05T16:16:00'
-  source: Supply Chain 24/7
-  title: What Sellers Need to Do Before Amazon Ends FBA Prep
 - category: circular
   description: '<p>Over 7,000 vapes a day were found in four Biffa sites between June
     and September 2025, data from the waste management company shows.</p>
@@ -168,23 +191,4 @@ articles:
   pub_date: '2025-11-04T09:11:55'
   source: Circular Online
   title: Major companies back Ellen MacArthur Foundation’s 2030 plastics agenda
-- category: circular
-  description: '<p>Recover has signed a multi-year agreement with H&#038;M to support
-    the integration of its recycled cotton fibre, RCotton, for use in H&#038;M’s products.</p>
-
-    <p>The post <a href="https://www.circul...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/recover-signs-multi-year-recycled-cotton-agreement-with-hm/
-  pub_date: '2025-11-03T11:04:37'
-  source: Circular Online
-  title: Recover signs multi-year recycled cotton agreement with H&M
-- category: circular
-  description: <p>  News updates written by CIWM’s commercial partners. Plan B Plan
-    B Management Solutions joins the ESPO Framework Washed Aggregates Trade Association
-    UK WATA appoints new Comms and Members’ Manager...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-october/
-  pub_date: '2025-10-31T09:00:00'
-  source: Circular Online
-  title: News in brief | CIWM Commercial Partner Updates October
-last_updated: '2025-11-10T06:33:05.877860'
+last_updated: '2025-11-11T06:31:03.097076'
