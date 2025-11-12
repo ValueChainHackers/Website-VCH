@@ -1,0 +1,505 @@
+---
+layout: default
+title: ClearRoots - Farmer Compliance Platform
+seo_title: ClearRoots | Mobile Compliance Platform for Smallholder Farmers
+description: Mobile-first platform helping coffee farmers collect compliance data and generate EU-accepted documentation. Built on blockchain, works offline.
+---
+
+<!-- Hero Section -->
+<section class="relative bg-gradient-to-br from-emerald-700 via-green-600 to-teal-600 text-white overflow-hidden">
+    <div class="absolute inset-0 opacity-10">
+        <svg class="w-full h-full" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <pattern id="farm-grid" width="80" height="80" patternUnits="userSpaceOnUse">
+                    <circle cx="40" cy="40" r="3" fill="currentColor"/>
+                </pattern>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#farm-grid)" />
+        </svg>
+    </div>
+
+    <div class="relative max-w-7xl mx-auto px-4 py-20">
+        <div class="grid lg:grid-cols-2 gap-12 items-center">
+            <div>
+                <div class="inline-block bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-semibold mb-6">
+                    <i class="fas fa-mobile-alt mr-2"></i> Mobile Platform + Blockchain
+                </div>
+                <h1 class="text-4xl md:text-6xl font-bold mb-6">
+                    ClearRoots
+                </h1>
+                <p class="text-xl md:text-2xl text-green-100 mb-8">
+                    Small coffee and cocoa farmers need to prove they follow EU rules, but hiring someone to handle the paperwork costs too much. This tool lets them collect and verify the data themselves using their phones.
+                </p>
+                <div class="flex flex-wrap gap-4">
+                    <a href="https://github.com/Value-Chain-Hacking/ClearRoots" target="_blank" rel="noopener noreferrer" class="bg-white text-vch-green px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-colors inline-flex items-center">
+                        <i class="fab fa-github mr-2"></i> View on GitHub
+                    </a>
+                    <a href="#how-it-works" class="border-2 border-white text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-white hover:text-vch-green transition-colors">
+                        See How It Works
+                    </a>
+                </div>
+            </div>
+            <div class="hidden lg:block">
+                <div class="bg-white bg-opacity-10 backdrop-blur-sm rounded-2xl p-8">
+                    <div class="text-center mb-6">
+                        <div class="text-6xl mb-4">📱 + ⛓️</div>
+                        <div class="font-bold text-2xl">Offline Mobile + Blockchain</div>
+                    </div>
+                    <div class="space-y-4 text-sm">
+                        <div class="flex items-start gap-3">
+                            <i class="fas fa-check-circle text-vch-yellow text-xl mt-1"></i>
+                            <div>
+                                <div class="font-semibold">Works Offline</div>
+                                <div class="text-green-100">No internet? No problem. Sync when connected.</div>
+                            </div>
+                        </div>
+                        <div class="flex items-start gap-3">
+                            <i class="fas fa-check-circle text-vch-yellow text-xl mt-1"></i>
+                            <div>
+                                <div class="font-semibold">AI Assistance</div>
+                                <div class="text-green-100">Fills missing data using satellites & GPS</div>
+                            </div>
+                        </div>
+                        <div class="flex items-start gap-3">
+                            <i class="fas fa-check-circle text-vch-yellow text-xl mt-1"></i>
+                            <div>
+                                <div class="font-semibold">Blockchain Verified</div>
+                                <div class="text-green-100">Tamper-proof records customs can trust</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- The Dangerous Compliance Gap -->
+<section class="section-spacing bg-red-50">
+    <div class="max-w-4xl mx-auto px-4">
+        <div class="text-center mb-8">
+            <h2 class="text-3xl font-bold text-red-900 mb-4">The Dangerous Compliance Gap</h2>
+            <p class="text-lg text-red-700">EU regulations are pushing thousands of smallholder farmers out of markets</p>
+        </div>
+        <div class="grid md:grid-cols-2 gap-6">
+            <div class="bg-white rounded-xl p-6 border-l-4 border-red-500">
+                <h3 class="font-bold text-red-900 mb-3">Farmers Can't Comply</h3>
+                <ul class="space-y-2 text-red-800">
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span>EU laws (EUDR, CSDDD, CSRD) require proof of ethical sourcing</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span>No tools to generate compliant documentation</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span>Can't afford consultants or certification services</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="bg-white rounded-xl p-6 border-l-4 border-red-500">
+                <h3 class="font-bold text-red-900 mb-3">Importers Stuck Too</h3>
+                <ul class="space-y-2 text-red-800">
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span>SME importers lack affordable due diligence tools</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span>Risk: market exit or fraudulent compliance</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span>Customs blocks shipments without proper docs</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="mt-6 bg-red-900 text-white rounded-xl p-6 text-center">
+            <p class="text-lg font-semibold">Result: Ethical sourcing becomes impossible at scale. Small farmers lose livelihoods. Supply chains consolidate to large players who can afford compliance.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Stakeholder Analysis -->
+<section id="stakeholders" class="section-spacing bg-white">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold text-vch-gray mb-4">Who Needs ClearRoots and Why</h2>
+            <p class="text-lg text-vch-light-gray">Breaking the compliance gap from both ends of the supply chain</p>
+        </div>
+
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Smallholder Farmers -->
+            <div class="bg-gradient-to-br from-green-50 to-emerald-50 rounded-xl shadow-lg border-2 border-green-200 p-6">
+                <div class="w-16 h-16 bg-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-seedling text-white text-2xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold text-center mb-4">Smallholder Farmers</h3>
+                <div class="space-y-3 text-sm">
+                    <div>
+                        <div class="font-bold text-green-900 mb-2">Pain Points:</div>
+                        <ul class="space-y-1 text-green-800">
+                            <li>• Losing EU buyers due to compliance requirements</li>
+                            <li>• Don't know what data to collect</li>
+                            <li>• Can't prove sustainability claims</li>
+                            <li>• No budget for certification</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="font-bold text-green-900 mb-2">What They Need:</div>
+                        <ul class="space-y-1 text-green-800">
+                            <li>• Simple mobile app in their language</li>
+                            <li>• Works offline (limited connectivity)</li>
+                            <li>• Clear guidance on what to record</li>
+                            <li>• Free or very low cost</li>
+                        </ul>
+                    </div>
+                    <div class="bg-white rounded-lg p-3 mt-4">
+                        <div class="font-bold text-green-900 mb-1">Value Gained:</div>
+                        <p class="text-green-800">Keep EU market access, maintain premium prices for certified sustainable products, financial security</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- SME Importers -->
+            <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl shadow-lg border-2 border-blue-200 p-6">
+                <div class="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-shipping-fast text-white text-2xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold text-center mb-4">SME Importers</h3>
+                <div class="space-y-3 text-sm">
+                    <div>
+                        <div class="font-bold text-blue-900 mb-2">Pain Points:</div>
+                        <ul class="space-y-1 text-blue-800">
+                            <li>• Need supplier compliance documentation</li>
+                            <li>• Can't verify farmer claims manually</li>
+                            <li>• Risk of shipments blocked at customs</li>
+                            <li>• Due diligence consultants too expensive</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="font-bold text-blue-900 mb-2">What They Need:</div>
+                        <ul class="space-y-1 text-blue-800">
+                            <li>• Verified compliance documents from farmers</li>
+                            <li>• Audit trails they can show authorities</li>
+                            <li>• Affordable solution that scales</li>
+                            <li>• Integration with their systems</li>
+                        </ul>
+                    </div>
+                    <div class="bg-white rounded-lg p-3 mt-4">
+                        <div class="font-bold text-blue-900 mb-1">Value Gained:</div>
+                        <p class="text-blue-800">Automated compliance documentation, blockchain proof for customs, maintain ethical sourcing relationships</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Coffee Cooperatives -->
+            <div class="bg-gradient-to-br from-yellow-50 to-amber-50 rounded-xl shadow-lg border-2 border-yellow-200 p-6">
+                <div class="w-16 h-16 bg-yellow-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-users text-white text-2xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold text-center mb-4">Cooperatives</h3>
+                <div class="space-y-3 text-sm">
+                    <div>
+                        <div class="font-bold text-yellow-900 mb-2">Pain Points:</div>
+                        <ul class="space-y-1 text-yellow-800">
+                            <li>• Managing compliance for 100s of farmers</li>
+                            <li>• Members losing market access</li>
+                            <li>• Data collection is manual chaos</li>
+                            <li>• Can't aggregate member data easily</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="font-bold text-yellow-900 mb-2">What They Need:</div>
+                        <ul class="space-y-1 text-yellow-800">
+                            <li>• Centralized data from all members</li>
+                            <li>• Batch document generation</li>
+                            <li>• Ownership and control of member data</li>
+                            <li>• Dashboard to monitor compliance</li>
+                        </ul>
+                    </div>
+                    <div class="bg-white rounded-lg p-3 mt-4">
+                        <div class="font-bold text-yellow-900 mb-1">Value Gained:</div>
+                        <p class="text-yellow-800">Data ownership, market power, member retention, easier buyer negotiations</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Regulators/Customs -->
+            <div class="bg-gradient-to-br from-purple-50 to-violet-50 rounded-xl shadow-lg border-2 border-purple-200 p-6">
+                <div class="w-16 h-16 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-shield-alt text-white text-2xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold text-center mb-4">Regulators/Customs</h3>
+                <div class="space-y-3 text-sm">
+                    <div>
+                        <div class="font-bold text-purple-900 mb-2">Pain Points:</div>
+                        <ul class="space-y-1 text-purple-800">
+                            <li>• Can't verify sustainability claims easily</li>
+                            <li>• Inconsistent documentation formats</li>
+                            <li>• Risk of fraudulent compliance</li>
+                            <li>• Manual audit processes are slow</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="font-bold text-purple-900 mb-2">What They Need:</div>
+                        <ul class="space-y-1 text-purple-800">
+                            <li>• Tamper-proof audit trails</li>
+                            <li>• Standardized data formats</li>
+                            <li>• Quick verification methods</li>
+                            <li>• Traceability to origin</li>
+                        </ul>
+                    </div>
+                    <div class="bg-white rounded-lg p-3 mt-4">
+                        <div class="font-bold text-purple-900 mb-1">Value Gained:</div>
+                        <p class="text-purple-800">Blockchain verification reduces fraud, faster customs processing, achievable compliance rates</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tech Platform (AgUnity) -->
+            <div class="bg-gradient-to-br from-orange-50 to-red-50 rounded-xl shadow-lg border-2 border-orange-200 p-6">
+                <div class="w-16 h-16 bg-orange-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-cube text-white text-2xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold text-center mb-4">AgUnity (Platform)</h3>
+                <div class="space-y-3 text-sm">
+                    <div>
+                        <div class="font-bold text-orange-900 mb-2">Pain Points:</div>
+                        <ul class="space-y-1 text-orange-800">
+                            <li>• Blockchain infrastructure needs use cases</li>
+                            <li>• Hard to reach smallholder farmers</li>
+                            <li>• Platform adoption is slow</li>
+                            <li>• Need killer app for agriculture</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="font-bold text-orange-900 mb-2">What They Provide:</div>
+                        <ul class="space-y-1 text-orange-800">
+                            <li>• Blockchain ledger infrastructure</li>
+                            <li>• Mobile-first architecture</li>
+                            <li>• Offline-first data sync</li>
+                            <li>• Immutable record keeping</li>
+                        </ul>
+                    </div>
+                    <div class="bg-white rounded-lg p-3 mt-4">
+                        <div class="font-bold text-orange-900 mb-1">Value Gained:</div>
+                        <p class="text-orange-800">Real-world adoption, compliance use case validates platform, cooperative network growth</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Insurance Companies -->
+            <div class="bg-gradient-to-br from-teal-50 to-cyan-50 rounded-xl shadow-lg border-2 border-teal-200 p-6">
+                <div class="w-16 h-16 bg-teal-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-umbrella text-white text-2xl"></i>
+                </div>
+                <h3 class="text-xl font-semibold text-center mb-4">Insurance (Future)</h3>
+                <div class="space-y-3 text-sm">
+                    <div>
+                        <div class="font-bold text-teal-900 mb-2">Pain Points:</div>
+                        <ul class="space-y-1 text-teal-800">
+                            <li>• Hard to verify farmer practices</li>
+                            <li>• High risk = high premiums</li>
+                            <li>• No data to assess sustainability</li>
+                            <li>• Manual claims processing</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="font-bold text-teal-900 mb-2">What They Need:</div>
+                        <ul class="space-y-1 text-teal-800">
+                            <li>• Verified farming practice data</li>
+                            <li>• Historical compliance records</li>
+                            <li>• Risk assessment inputs</li>
+                            <li>• Automated verification</li>
+                        </ul>
+                    </div>
+                    <div class="bg-white rounded-lg p-3 mt-4">
+                        <div class="font-bold text-teal-900 mb-1">Value Gained:</div>
+                        <p class="text-teal-800">Data-driven pricing, new market (smallholder insurance), reduced fraud</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- How It Works -->
+<section id="how-it-works" class="section-spacing bg-vch-bg">
+    <div class="max-w-6xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-vch-gray mb-12 text-center">How ClearRoots Works</h2>
+
+        <!-- Data Flow Diagram -->
+        <div class="bg-white rounded-2xl p-8 shadow-lg mb-12">
+            <div class="grid md:grid-cols-4 gap-4">
+                <div class="text-center">
+                    <div class="w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                        <i class="fas fa-mobile-alt text-green-600 text-3xl"></i>
+                    </div>
+                    <div class="font-bold mb-2">1. Farmer Records Data</div>
+                    <p class="text-sm text-vch-light-gray">Mobile app (works offline) captures farm location, processing methods, harvest info</p>
+                </div>
+                <div class="hidden md:flex items-center justify-center">
+                    <i class="fas fa-arrow-right text-3xl text-gray-300"></i>
+                </div>
+                <div class="text-center">
+                    <div class="w-20 h-20 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                        <i class="fas fa-link text-blue-600 text-3xl"></i>
+                    </div>
+                    <div class="font-bold mb-2">2. Blockchain Storage</div>
+                    <p class="text-sm text-vch-light-gray">Data syncs to AgUnity blockchain ledger creating tamper-proof records</p>
+                </div>
+                <div class="hidden md:flex items-center justify-center">
+                    <i class="fas fa-arrow-right text-3xl text-gray-300"></i>
+                </div>
+                <div class="text-center">
+                    <div class="w-20 h-20 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                        <i class="fas fa-robot text-purple-600 text-3xl"></i>
+                    </div>
+                    <div class="font-bold mb-2">3. AI Enhancement</div>
+                    <p class="text-sm text-vch-light-gray">Satellite imagery & GPS verify claims, fill missing data gaps automatically</p>
+                </div>
+                <div class="col-span-full flex justify-center my-4">
+                    <i class="fas fa-arrow-down text-3xl text-gray-300"></i>
+                </div>
+                <div class="col-span-full text-center">
+                    <div class="w-20 h-20 bg-yellow-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                        <i class="fas fa-file-pdf text-yellow-600 text-3xl"></i>
+                    </div>
+                    <div class="font-bold mb-2">4. Document Generation</div>
+                    <p class="text-sm text-vch-light-gray max-w-md mx-auto">System automatically generates EUDR, CSRD, CSDDD compliance docs. Importer downloads verified documentation for customs.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Technology Stack -->
+        <div class="grid md:grid-cols-3 gap-6">
+            <div class="bg-white rounded-xl p-6 border-2 border-green-200">
+                <h3 class="font-bold text-lg mb-4 flex items-center gap-2">
+                    <i class="fas fa-mobile-alt text-green-600"></i>
+                    Mobile-First Design
+                </h3>
+                <ul class="space-y-2 text-sm text-vch-light-gray">
+                    <li>• Offline-first architecture</li>
+                    <li>• Works on basic smartphones</li>
+                    <li>• Multilingual interface (English, Spanish, French, Amharic)</li>
+                    <li>• GPS and camera integration</li>
+                </ul>
+            </div>
+            <div class="bg-white rounded-xl p-6 border-2 border-blue-200">
+                <h3 class="font-bold text-lg mb-4 flex items-center gap-2">
+                    <i class="fas fa-brain text-blue-600"></i>
+                    AI-Powered Validation
+                </h3>
+                <ul class="space-y-2 text-sm text-vch-light-gray">
+                    <li>• Satellite imagery analysis (deforestation checks)</li>
+                    <li>• GPS location verification</li>
+                    <li>• Data inference for missing fields</li>
+                    <li>• Pattern detection for anomalies</li>
+                </ul>
+            </div>
+            <div class="bg-white rounded-xl p-6 border-2 border-purple-200">
+                <h3 class="font-bold text-lg mb-4 flex items-center gap-2">
+                    <i class="fas fa-cubes text-purple-600"></i>
+                    Blockchain Verification
+                </h3>
+                <ul class="space-y-2 text-sm text-vch-light-gray">
+                    <li>• AgUnity ledger integration</li>
+                    <li>• Immutable audit trails</li>
+                    <li>• Cooperative data ownership</li>
+                    <li>• Timestamp verification</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Current Status -->
+<section class="section-spacing bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-vch-gray mb-6">Current Status</h2>
+        <div class="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+            <div class="flex items-start gap-3">
+                <i class="fas fa-code-branch text-blue-600 text-xl mt-1"></i>
+                <div>
+                    <div class="font-semibold text-blue-900 mb-2">Active Development (9 commits since April 2025)</div>
+                    <p class="text-blue-800">Early stage with planning documents and R project files. Architecture being built from ground up.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="space-y-4">
+            <div class="flex items-center gap-3">
+                <i class="fas fa-check-circle text-vch-green text-xl"></i>
+                <div>
+                    <div class="font-semibold">AgUnity blockchain partnership confirmed</div>
+                    <div class="text-sm text-vch-light-gray">Infrastructure platform secured</div>
+                </div>
+            </div>
+            <div class="flex items-center gap-3">
+                <i class="fas fa-check-circle text-vch-green text-xl"></i>
+                <div>
+                    <div class="font-semibold">Regulation scope defined</div>
+                    <div class="text-sm text-vch-light-gray">EUDR, CSRD, CSDDD compliance documents planned</div>
+                </div>
+            </div>
+            <div class="flex items-center gap-3">
+                <i class="fas fa-spinner text-yellow-500 text-xl"></i>
+                <div>
+                    <div class="font-semibold">Seeking cooperative partnerships</div>
+                    <div class="text-sm text-vch-light-gray">Need pilot cooperatives in Ethiopia, Kenya, or Colombia</div>
+                </div>
+            </div>
+            <div class="flex items-center gap-3">
+                <i class="fas fa-spinner text-yellow-500 text-xl"></i>
+                <div>
+                    <div class="font-semibold">Mobile app development starting</div>
+                    <div class="text-sm text-vch-light-gray">Offline-first architecture being designed</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Get Involved -->
+<section class="section-spacing bg-gradient-to-r from-emerald-600 to-teal-600 text-white">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+        <h2 class="text-3xl font-bold mb-6">Help Build ClearRoots</h2>
+        <p class="text-xl mb-8 text-green-100">
+            We need partners, developers, and cooperatives to make this vision real.
+        </p>
+        <div class="grid md:grid-cols-4 gap-6 mb-8">
+            <div>
+                <div class="text-4xl mb-2">🌍</div>
+                <div class="font-semibold mb-2">Cooperatives</div>
+                <div class="text-sm text-green-100">Pilot the platform with your members</div>
+            </div>
+            <div>
+                <div class="text-4xl mb-2">📱</div>
+                <div class="font-semibold mb-2">Developers</div>
+                <div class="text-sm text-green-100">Build mobile & blockchain features</div>
+            </div>
+            <div>
+                <div class="text-4xl mb-2">🤖</div>
+                <div class="font-semibold mb-2">AI Engineers</div>
+                <div class="text-sm text-green-100">Satellite imagery & data inference models</div>
+            </div>
+            <div>
+                <div class="text-4xl mb-2">💰</div>
+                <div class="font-semibold mb-2">Funders</div>
+                <div class="text-sm text-green-100">Support development and field testing</div>
+            </div>
+        </div>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="https://github.com/Value-Chain-Hacking/ClearRoots" target="_blank" rel="noopener noreferrer" class="bg-white text-vch-green px-8 py-4 rounded-lg font-bold hover:bg-gray-100 transition-colors inline-flex items-center justify-center">
+                <i class="fab fa-github mr-2"></i> Contribute on GitHub
+            </a>
+            <a href="mailto:info@clearroots.org" class="border-2 border-white text-white px-8 py-4 rounded-lg font-bold hover:bg-white hover:text-vch-green transition-colors inline-flex items-center justify-center">
+                <i class="fas fa-envelope mr-2"></i> Partner With Us
+            </a>
+        </div>
+    </div>
+</section>
