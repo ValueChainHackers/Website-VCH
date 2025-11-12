@@ -5,9 +5,18 @@ seo_title: Value Chain Hackers
 description: Value Chain Hackers brings together students, researchers, and businesses to solve real-world supply chain sustainability challenges. Based in Zwolle, Netherlands. Join our community of innovators.
 ---
 
-<!-- Hero Section -->
-<section class="relative bg-vch-dark overflow-hidden">
-    <div class="relative max-w-7xl mx-auto px-4 py-32 md:py-40 text-center">
+<!-- Hero Section with Background -->
+<section class="relative bg-vch-dark overflow-hidden min-h-screen flex items-center">
+    <!-- Background Image with Overlay -->
+    <div class="absolute inset-0 z-0">
+        <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&h=1080&fit=crop&q=80"
+             alt="Global supply chain and logistics"
+             class="w-full h-full object-cover"
+             loading="eager">
+        <div class="absolute inset-0 bg-gradient-to-b from-vch-dark/95 via-vch-dark/90 to-vch-dark/95"></div>
+    </div>
+
+    <div class="relative z-10 max-w-7xl mx-auto px-4 py-32 md:py-40 text-center">
         <!-- Main Headline -->
         <h1 class="text-6xl md:text-8xl font-bold text-vch-text-light mb-8 leading-tight">
             Value Chain Hackers:<br>
@@ -22,7 +31,7 @@ description: Value Chain Hackers brings together students, researchers, and busi
         </p>
 
         <!-- CTA Buttons -->
-        <div class="flex flex-col sm:flex-row gap-6 justify-center items-center mb-20">
+        <div class="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <a href="{{ '/projects/' | relative_url }}" class="group bg-vch-green text-white px-12 py-4 rounded-lg font-bold text-lg hover:bg-vch-green-dark transition-all duration-300 ease-in-out transform hover:scale-105 inline-flex items-center">
                 Explore Our Projects
                 <svg class="w-5 h-5 ml-3 group-hover:translate-x-2 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3">
@@ -36,78 +45,50 @@ description: Value Chain Hackers brings together students, researchers, and busi
                 </svg>
             </a>
         </div>
+    </div>
+</section>
 
-        <!-- Stats Bar -->
-        <div class="grid grid-cols-3 gap-12 max-w-4xl mx-auto">
-            <div class="text-center">
+<!-- Stats Counter Section -->
+<section class="section-spacing bg-vch-dark-lighter">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+            <div>
+                <div class="text-5xl md:text-6xl font-bold text-vch-green mb-3"><span class="counter" data-target="16">0</span></div>
+                <div class="text-base text-vch-text-gray font-semibold">Active Teams</div>
+            </div>
+            <div>
                 <div class="text-5xl md:text-6xl font-bold text-vch-green mb-3"><span class="counter" data-target="10">0</span>+</div>
                 <div class="text-base text-vch-text-gray font-semibold">Research Projects</div>
             </div>
-            <div class="text-center">
+            <div>
                 <div class="text-5xl md:text-6xl font-bold text-vch-green mb-3"><span class="counter" data-target="60">0</span>+</div>
                 <div class="text-base text-vch-text-gray font-semibold">Students Helped</div>
             </div>
-            <div class="text-center">
-                <div class="text-5xl md:text-6xl font-bold text-vch-green mb-3"><span class="counter" data-target="{{ site.data.stats.partners | default: 9 }}">0</span></div>
+            <div>
+                <div class="text-5xl md:text-6xl font-bold text-vch-green mb-3"><span class="counter" data-target="9">0</span></div>
                 <div class="text-base text-vch-text-gray font-semibold">Industry Partners</div>
             </div>
         </div>
     </div>
 </section>
 
-<!-- About Section -->
-<section id="about" class="section-spacing bg-vch-dark-lighter">
+<!-- Partners Section -->
+<section class="section-spacing bg-vch-dark">
     <div class="max-w-7xl mx-auto px-4">
-        <div class="text-center max-w-3xl mx-auto mb-16">
-            <h2 class="text-4xl font-bold text-vch-text-light mb-6">Our Why</h2>
-            <p class="text-lg text-vch-text-gray mb-8 leading-relaxed">
-                Supply chains touch everything. Climate change, labor rights, resource scarcity. The problems are messy, broken into pieces, and getting worse. We help people who want to fix them by giving them space to collaborate, tools to research, and connections to make things happen for real.
-            </p>
+        <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold text-vch-text-light mb-4">Our Partners</h2>
+            <p class="text-lg text-vch-text-gray">Collaborating with industry leaders and academic institutions</p>
         </div>
-
-        <div class="grid md:grid-cols-3 gap-12 mb-16">
-            <div class="text-center">
-                <div class="w-20 h-20 bg-vch-green bg-opacity-10 border border-vch-green rounded-full flex items-center justify-center mx-auto mb-6">
-                    <i class="fas fa-lightbulb text-vch-green text-3xl"></i>
-                </div>
-                <h3 class="text-xl font-semibold mb-3 text-vch-text-light">Research</h3>
-                <p class="text-vch-text-gray">We dig into the data and figure out what actually works</p>
-            </div>
-            <div class="text-center">
-                <div class="w-20 h-20 bg-vch-green bg-opacity-10 border border-vch-green rounded-full flex items-center justify-center mx-auto mb-6">
-                    <i class="fas fa-users text-vch-green text-3xl"></i>
-                </div>
-                <h3 class="text-xl font-semibold mb-3 text-vch-text-light">Collaboration</h3>
-                <p class="text-vch-text-gray">Students, professors, and industry partners working together</p>
-            </div>
-            <div class="text-center">
-                <div class="w-20 h-20 bg-vch-green bg-opacity-10 border border-vch-green rounded-full flex items-center justify-center mx-auto mb-6">
-                    <i class="fas fa-bolt text-vch-green text-3xl"></i>
-                </div>
-                <h3 class="text-xl font-semibold mb-3 text-vch-text-light">Impact</h3>
-                <p class="text-vch-text-gray">Building things that make a real difference</p>
-            </div>
-        </div>
-
-        <!-- Stats Section -->
-        <div class="bg-vch-dark-card border border-vch-dark-lighter rounded-2xl p-12">
-            <div class="grid md:grid-cols-3 gap-12 text-center">
-                <div>
-                    <div class="text-4xl font-bold text-vch-green mb-3 counter" data-target="{{ site.projects.size | default: 16 }}">0</div>
-                    <div class="text-vch-text-gray font-semibold">Teams</div>
-                </div>
-                <div>
-                    <div class="text-4xl font-bold text-vch-green mb-3 counter" data-target="{{ site.data.stats.students | default: 60 }}">0</div>
-                    <div class="text-vch-text-gray font-semibold">Students</div>
-                </div>
-                <div>
-                    <div class="text-4xl font-bold text-vch-green mb-3 counter" data-target="{{ site.data.stats.partners | default: 9 }}">0</div>
-                    <div class="text-vch-text-gray font-semibold">Businesses</div>
-                </div>
-            </div>
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-12 items-center justify-items-center opacity-70">
+            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Windesheim</div>
+            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Scania</div>
+            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Puma</div>
+            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Danone</div>
+            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Evofenedx</div>
         </div>
     </div>
 </section>
+
 
 <!-- Research & Projects Section -->
 <section id="research" class="section-spacing bg-vch-dark">
@@ -282,26 +263,6 @@ description: Value Chain Hackers brings together students, researchers, and busi
                 </div>
             </div>
 
-            <!-- Project Card - ChainForge -->
-            <div class="project-card bg-vch-dark-card border border-vch-dark-lighter rounded-xl overflow-hidden hover:border-vch-green transition-all duration-300 transform hover:-translate-y-1" data-category="research">
-                <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop" class="w-full h-48 object-cover" alt="AI prompt engineering and testing" loading="lazy">
-                <div class="p-6">
-                    <div class="flex items-center justify-between mb-4">
-                        <span class="bg-blue-500 bg-opacity-20 text-blue-400 px-3 py-1 rounded-lg text-sm font-semibold">Active</span>
-                        <span class="text-xs text-vch-text-muted bg-vch-dark-lighter px-2 py-1 rounded">Research Tool</span>
-                    </div>
-                    <h3 class="text-xl font-semibold mb-3 text-vch-text-light">ChainForge</h3>
-                    <p class="text-vch-text-gray mb-6 leading-relaxed">AI prompt penetration testing and comparison tool. Test prompts across different AI models, compare responses, and systematically evaluate performance without writing code.</p>
-                    <div class="flex items-center gap-3">
-                        <a href="https://github.com/Value-Chain-Hacking/ChainForge" target="_blank" rel="noopener noreferrer" class="text-vch-green font-semibold hover:text-vch-green-dark transition-all duration-300 text-sm flex items-center gap-1">
-                            <i class="fab fa-github"></i> GitHub
-                        </a>
-                        <a href="{{ '/projects/chainforge/' | relative_url }}" class="bg-vch-green text-white px-4 py-2 rounded-lg font-semibold hover:bg-vch-green-dark transition-all duration-300 text-sm">
-                            Learn More →
-                        </a>
-                    </div>
-                </div>
-            </div>
 
             <!-- Project Card - RecilienceScan -->
             <div class="project-card bg-vch-dark-card border border-vch-dark-lighter rounded-xl overflow-hidden hover:border-vch-green transition-all duration-300 transform hover:-translate-y-1" data-category="research">
@@ -340,45 +301,6 @@ description: Value Chain Hackers brings together students, researchers, and busi
                         </a>
                         <a href="{{ '/projects/vch-chatbot/' | relative_url }}" class="bg-vch-green text-white px-4 py-2 rounded-lg font-semibold hover:bg-vch-green-dark transition-all duration-300 text-sm">
                             Learn More →
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Project Card - JupyterHub -->
-            <div class="project-card bg-vch-dark-card border border-vch-dark-lighter rounded-xl overflow-hidden hover:border-vch-green transition-all duration-300 transform hover:-translate-y-1" data-category="student">
-                <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop" class="w-full h-48 object-cover" alt="Jupyter notebook coding environment" loading="lazy">
-                <div class="p-6">
-                    <div class="flex items-center justify-between mb-4">
-                        <span class="bg-blue-500 bg-opacity-20 text-blue-400 px-3 py-1 rounded-lg text-sm font-semibold">In Development</span>
-                        <span class="text-xs text-vch-text-muted bg-vch-dark-lighter px-2 py-1 rounded">Student Tool</span>
-                    </div>
-                    <h3 class="text-xl font-semibold mb-3 text-vch-text-light">JupyterHub Simulations</h3>
-                    <p class="text-vch-text-gray mb-6 leading-relaxed">A server where students can run supply chain simulation models without installing anything on their own computers. Pre-configured environments, just log in and start modeling.</p>
-                    <div class="flex items-center gap-3">
-                        <a href="https://github.com/ValueChainHackers/jupyterhub-setup" target="_blank" rel="noopener noreferrer" class="text-vch-green font-semibold hover:text-vch-green-dark transition-all duration-300 text-sm flex items-center gap-1">
-                            <i class="fab fa-github"></i> GitHub
-                        </a>
-                        <a href="{{ '/projects/jupyterhub/' | relative_url }}" class="bg-vch-green text-white px-4 py-2 rounded-lg font-semibold hover:bg-vch-green-dark transition-all duration-300 text-sm">
-                            Learn More →
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Project Card - AI Scientist -->
-            <div class="project-card bg-vch-dark-card border border-vch-dark-lighter rounded-xl overflow-hidden hover:border-vch-green transition-all duration-300 transform hover:-translate-y-1" data-category="research">
-                <img src="https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=800&h=450&fit=crop" class="w-full h-48 object-cover" alt="AI research and automated experimentation" loading="lazy">
-                <div class="p-6">
-                    <div class="flex items-center justify-between mb-4">
-                        <span class="bg-purple-500 bg-opacity-20 text-purple-400 px-3 py-1 rounded-lg text-sm font-semibold">Concept</span>
-                        <span class="text-xs text-vch-text-muted bg-vch-dark-lighter px-2 py-1 rounded">Research</span>
-                    </div>
-                    <h3 class="text-xl font-semibold mb-3 text-vch-text-light">AI Scientist (Experimental)</h3>
-                    <p class="text-vch-text-gray mb-6 leading-relaxed">A system where AI models autonomously generate research papers from idea to experiments to final writeup. Exploring adaptation for supply chain research topics.</p>
-                    <div class="flex items-center gap-3">
-                        <a href="https://github.com/SakanaAI/AI-Scientist" target="_blank" rel="noopener noreferrer" class="text-vch-green font-semibold hover:text-vch-green-dark transition-all duration-300 text-sm flex items-center gap-1">
-                            <i class="fab fa-github"></i> Upstream
                         </a>
                     </div>
                 </div>
@@ -745,7 +667,6 @@ description: Value Chain Hackers brings together students, researchers, and busi
             <!-- Contact Info -->
             <div>
                 <div class="bg-gradient-to-r from-vch-green to-vch-yellow rounded-xl p-6 text-white">
-                    <h3 class="text-2xl font-semibold mb-4">Get in Touch</h3>
                     <p class="text-white mb-4">Have questions or want to collaborate? Reach out to us.</p>
                     <div class="space-y-2 text-white">
                         <div class="flex items-center">
