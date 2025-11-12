@@ -113,60 +113,60 @@
     </script>
     {% endif %}
 </head>
-<body class="text-vch-gray">
+<body class="bg-vch-dark text-vch-text-light">
     <!-- Navigation Bar -->
-    <nav class="bg-white shadow-sm py-4 sticky top-0 z-50">
+    <nav class="bg-vch-dark border-b border-vch-dark-lighter py-4 sticky top-0 z-50">
         <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
-            <a href="/" class="flex items-center hover:opacity-80 transition-opacity">
+            <a href="/" class="flex items-center hover:opacity-80 transition-opacity duration-300">
                 <!-- Main Logo - Single Image -->
                 <img src="{{ '/assets/images/vch-logo.png' | relative_url }}" alt="Value Chain Hackers" class="h-12" style="width: auto; height: 48px;" loading="eager">
             </a>
-            
+
             <!-- Desktop Navigation -->
-            <div class="hidden md:flex space-x-6">
-                <a href="/" class="text-vch-gray font-semibold hover:text-vch-green transition-colors">Home</a>
-                <a href="/projects/" class="text-vch-light-gray font-semibold hover:text-vch-green transition-colors">Projects</a>
+            <div class="hidden md:flex space-x-8 items-center">
+                <a href="/" class="text-vch-text-light font-semibold hover:text-vch-green transition-all duration-300 ease-in-out">Home</a>
+                <a href="/projects/" class="text-vch-text-gray font-semibold hover:text-vch-green transition-all duration-300 ease-in-out">Projects</a>
                 <div class="relative group">
-                    <button class="text-vch-light-gray font-semibold hover:text-vch-green transition-colors flex items-center">
+                    <button class="text-vch-text-gray font-semibold hover:text-vch-green transition-all duration-300 ease-in-out flex items-center">
                         News <i class="fas fa-chevron-down ml-1 text-xs"></i>
                     </button>
-                    <div class="absolute top-full left-0 mt-1 w-56 bg-white rounded-lg shadow-lg border opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 pointer-events-none group-hover:pointer-events-auto">
-                        <a href="/sustainability-news" class="block px-4 py-3 hover:bg-gray-50 text-vch-light-gray hover:text-vch-green transition-colors rounded-t-lg">
+                    <div class="absolute top-full left-0 mt-2 w-56 bg-vch-dark-card rounded-lg shadow-xl border border-vch-dark-lighter opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 pointer-events-none group-hover:pointer-events-auto">
+                        <a href="/sustainability-news" class="block px-4 py-3 hover:bg-vch-dark-lighter text-vch-text-gray hover:text-vch-green transition-all duration-300 rounded-t-lg">
                             <i class="fas fa-leaf mr-2 text-vch-green"></i>Sustainability News
                         </a>
-                        <a href="/ai-news" class="block px-4 py-3 hover:bg-gray-50 text-vch-light-gray hover:text-vch-green transition-colors rounded-b-lg">
-                            <i class="fas fa-robot mr-2 text-purple-600"></i>AI News
+                        <a href="/ai-news" class="block px-4 py-3 hover:bg-vch-dark-lighter text-vch-text-gray hover:text-vch-green transition-all duration-300 rounded-b-lg">
+                            <i class="fas fa-robot mr-2 text-vch-green"></i>AI News
                         </a>
                     </div>
                 </div>
-                <a href="/onboarding" class="bg-vch-green text-white px-4 py-2 rounded-lg font-semibold hover:bg-green-600 transition-colors">Join Us</a>
+                <a href="/onboarding" class="bg-vch-green text-white px-6 py-2 rounded-lg font-semibold hover:bg-vch-green-dark transition-all duration-300 transform hover:scale-105">Join Us</a>
             </div>
-            
+
             <!-- Mobile Menu Button -->
-            <button class="md:hidden text-vch-gray" id="mobile-menu-btn" aria-label="Toggle mobile menu" aria-expanded="false">
+            <button class="md:hidden text-vch-text-light" id="mobile-menu-btn" aria-label="Toggle mobile menu" aria-expanded="false">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
                 </svg>
             </button>
         </div>
-        
+
         <!-- Mobile Navigation -->
-        <div class="md:hidden hidden bg-white border-t" id="mobile-menu">
+        <div class="md:hidden hidden bg-vch-dark-card border-t border-vch-dark-lighter" id="mobile-menu">
             <div class="px-4 py-2 space-y-2">
-                <a href="/" class="block py-2 text-vch-gray font-semibold">Home</a>
-                <a href="/projects/" class="block py-2 text-vch-light-gray font-semibold">Projects</a>
+                <a href="/" class="block py-2 text-vch-text-light font-semibold hover:text-vch-green transition-colors">Home</a>
+                <a href="/projects/" class="block py-2 text-vch-text-gray font-semibold hover:text-vch-green transition-colors">Projects</a>
                 <div class="py-2">
-                    <div class="text-vch-light-gray font-semibold mb-2">News</div>
+                    <div class="text-vch-text-gray font-semibold mb-2">News</div>
                     <div class="pl-4 space-y-2">
-                        <a href="/sustainability-news" class="block py-1 text-vch-light-gray text-sm">
+                        <a href="/sustainability-news" class="block py-1 text-vch-text-gray text-sm hover:text-vch-green transition-colors">
                             <i class="fas fa-leaf mr-2 text-vch-green"></i>Sustainability News
                         </a>
-                        <a href="/ai-news" class="block py-1 text-vch-light-gray text-sm">
-                            <i class="fas fa-robot mr-2 text-purple-600"></i>AI News
+                        <a href="/ai-news" class="block py-1 text-vch-text-gray text-sm hover:text-vch-green transition-colors">
+                            <i class="fas fa-robot mr-2 text-vch-green"></i>AI News
                         </a>
                     </div>
                 </div>
-                <a href="/onboarding" class="block py-2 bg-vch-green text-white px-4 rounded-lg font-semibold text-center">Join Us</a>
+                <a href="/onboarding" class="block py-2 bg-vch-green text-white px-4 rounded-lg font-semibold text-center hover:bg-vch-green-dark transition-colors">Join Us</a>
             </div>
         </div>
     </nav>

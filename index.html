@@ -6,62 +6,52 @@ description: Value Chain Hackers brings together students, researchers, and busi
 ---
 
 <!-- Hero Section -->
-<section class="relative bg-gradient-to-br from-white via-vch-bg to-green-50 overflow-hidden">
-    <div class="relative max-w-7xl mx-auto px-4 py-20 md:py-28 text-center">
+<section class="relative bg-vch-dark overflow-hidden">
+    <div class="relative max-w-7xl mx-auto px-4 py-32 md:py-40 text-center">
         <!-- Main Headline -->
-        <h1 class="text-5xl md:text-7xl font-bold text-vch-gray mb-6 leading-tight">
+        <h1 class="text-6xl md:text-8xl font-bold text-vch-text-light mb-8 leading-tight">
             Value Chain Hackers:<br>
-            <span class="text-vch-green relative inline-block">
+            <span class="text-vch-green">
                 From Insight to Impact
-                <svg class="absolute -bottom-2 left-0 w-full" height="12" viewBox="0 0 300 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M2 10C50 5 100 2 150 2C200 2 250 5 298 10" stroke="#8fbc3f" stroke-width="3" stroke-linecap="round"/>
-                </svg>
             </span>
         </h1>
 
         <!-- Subheadline -->
-        <p class="text-xl md:text-2xl text-vch-light-gray mb-12 max-w-3xl mx-auto leading-relaxed">
+        <p class="text-xl md:text-2xl text-vch-text-gray mb-16 max-w-4xl mx-auto leading-relaxed">
             We are a community of communities bringing together industry partners, enthusiasts, and researchers, collaborating to solve real-world supply chain challenges through impactful innovative research.
         </p>
 
-        <!-- CTA Buttons - Enhanced -->
-        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-            <a href="{{ '/projects/' | relative_url }}" class="group bg-vch-green text-white px-10 py-4 rounded-lg font-bold text-lg hover:bg-vch-green-dark transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1 inline-flex items-center">
+        <!-- CTA Buttons -->
+        <div class="flex flex-col sm:flex-row gap-6 justify-center items-center mb-20">
+            <a href="{{ '/projects/' | relative_url }}" class="group bg-vch-green text-white px-12 py-4 rounded-lg font-bold text-lg hover:bg-vch-green-dark transition-all duration-300 ease-in-out transform hover:scale-105 inline-flex items-center">
                 Explore Our Projects
-                <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                <svg class="w-5 h-5 ml-3 group-hover:translate-x-2 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
                 </svg>
             </a>
-            <a href="{{ '/collaborate/' | relative_url }}" class="group border-3 border-vch-green text-vch-green px-10 py-4 rounded-lg font-bold text-lg hover:bg-vch-green hover:text-white transition-all duration-300 shadow-md hover:shadow-lg transform hover:-translate-y-1 inline-flex items-center">
-                Start Collaborating
-                <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"/>
+            <a href="{{ '/onboarding/' | relative_url }}" class="group border-2 border-vch-green text-vch-green px-12 py-4 rounded-lg font-bold text-lg hover:bg-vch-green hover:text-white transition-all duration-300 ease-in-out transform hover:scale-105 inline-flex items-center">
+                Join Us
+                <svg class="w-5 h-5 ml-3 group-hover:translate-x-2 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6"/>
                 </svg>
             </a>
         </div>
 
         <!-- Stats Bar -->
-        <div class="grid grid-cols-3 gap-8 max-w-3xl mx-auto">
+        <div class="grid grid-cols-3 gap-12 max-w-4xl mx-auto">
             <div class="text-center">
-                <div class="text-4xl font-bold text-vch-green mb-2">10+</div>
-                <div class="text-sm text-vch-light-gray font-semibold">Research Projects</div>
+                <div class="text-5xl md:text-6xl font-bold text-vch-green mb-3">10+</div>
+                <div class="text-base text-vch-text-gray font-semibold">Research Projects</div>
             </div>
             <div class="text-center">
-                <div class="text-4xl font-bold text-vch-green mb-2">60+</div>
-                <div class="text-sm text-vch-light-gray font-semibold">Students Helped</div>
+                <div class="text-5xl md:text-6xl font-bold text-vch-green mb-3">60+</div>
+                <div class="text-base text-vch-text-gray font-semibold">Students Helped</div>
             </div>
             <div class="text-center">
-                <div class="text-4xl font-bold text-vch-green mb-2">{{ site.data.stats.partners | default: 9 }}</div>
-                <div class="text-sm text-vch-light-gray font-semibold">Industry Partners</div>
+                <div class="text-5xl md:text-6xl font-bold text-vch-green mb-3">{{ site.data.stats.partners | default: 9 }}</div>
+                <div class="text-base text-vch-text-gray font-semibold">Industry Partners</div>
             </div>
         </div>
-    </div>
-
-    <!-- Bottom Wave -->
-    <div class="absolute bottom-0 left-0 right-0">
-        <svg viewBox="0 0 1440 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full">
-            <path d="M0 120L60 110C120 100 240 80 360 70C480 60 600 60 720 65C840 70 960 80 1080 85C1200 90 1320 90 1380 90L1440 90V120H1380C1320 120 1200 120 1080 120C960 120 840 120 720 120C600 120 480 120 360 120C240 120 120 120 60 120H0Z" fill="white"/>
-        </svg>
     </div>
 </section>
 
