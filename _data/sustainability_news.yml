@@ -1,5 +1,43 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/container-ship-GettyImages-1363725969.jpg"
+    /><br />Older container ships are outperforming newer fleets on emissions, showing
+    that smart op...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/older-container-ships-running-cleaner-than-new-fleets
+  pub_date: '2025-11-11T21:16:00'
+  source: Supply Chain 24/7
+  title: Older Container Ships Are Running Cleaner Than New Fleets
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/locus2.jpg"
+    /><br />Locus CEO Nishith Rastogi shares how the company’s new partnership with
+    IKEA is using AI to make deliveries faster, gre...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ikea-locus-ai-last-mile-delivery
+  pub_date: '2025-11-11T11:43:00'
+  source: Supply Chain 24/7
+  title: Locus CEO Nishith Rastogi Discusses IKEA Deal, Future of Delivery
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2024_article/schneider-fast-track.jpg"
+    /><br />Schneider’s new Fast Track service delivers truck&#45;like speed and reliability
+    for intermodal freight a...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/schneider-fast-track-intermodal-freight
+  pub_date: '2025-11-11T11:42:00'
+  source: Supply Chain 24/7
+  title: Schneider Launches Fast Track to Increase Speed of Intermodal Freight
+- category: circular
+  description: '<p>New research reveals that almost all councils are struggling with
+    a rise in illegal dumping.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/news/major-problem-keep-britain-tidy-urges-cra...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/major-problem-keep-britain-tidy-urges-crackdown-on-rogue-waste-operators-as-fly-tipping-surges/
+  pub_date: '2025-11-11T09:48:22'
+  source: Circular Online
+  title: '‘Major Problem’: Keep Britain Tidy urges crackdown on rogue waste operators
+    as fly-tipping surges'
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/bryan-jensen-st-onge.jpg"
     /><br />Veteran supply chain leader Bryan Jensen reflects on his journey from
     Toys “R” Us to St. Onge and the les...
@@ -8,15 +46,6 @@ articles:
   pub_date: '2025-11-10T18:40:00'
   source: Supply Chain 24/7
   title: 'Leadership Lessons: Bryan Jensen of St. Onge'
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/container-ship-GettyImages-1363725969.jpg"
-    /><br />Older container ships are outperforming newer fleets on emissions, showing
-    that smart op...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/older-container-ships-running-cleaner-than-new-fleets
-  pub_date: '2025-11-10T16:00:00'
-  source: Supply Chain 24/7
-  title: Older Container Ships Are Running Cleaner Than New Fleets
 - category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/robotics-automation-GettyImages-2113743628.jpg"
     /><br />Despite billions in upgrades, DHL’s Insight 2030 report finds many supply
@@ -93,15 +122,6 @@ articles:
   pub_date: '2025-11-07T14:38:00'
   source: Supply Chain 24/7
   title: Skanska Begins Major Cargo Project at San Francisco Airport
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/industry-growth-getty.jpg"
-    /><br />ISM’s October Services PMI climbed to 52.4, signaling renewed growth as
-    new orders and business activity...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/october-services-sector-returns-to-growth-ism
-  pub_date: '2025-11-07T14:24:00'
-  source: Supply Chain 24/7
-  title: October Services PMI Rises to 52.4 as Growth Picks Up
 - category: circular
   description: '<p>The UK Deposit Management Organisation (UK DMO) has appointed Russell
     Davies as its Chief Executive Officer.</p>
@@ -112,15 +132,6 @@ articles:
   pub_date: '2025-11-07T10:29:09'
   source: Circular Online
   title: UK DMO appoints Russell Davies as CEO
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/tariffs-GettyImages-498523188.jpg"
-    /><br />Mercury CEO Josh Medow explains how businesses can adapt and stay strong
-    through constant tariff...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-companies-can-build-tariff-resilient-supply-chains
-  pub_date: '2025-11-06T20:34:00'
-  source: Supply Chain 24/7
-  title: How Companies Can Build Tariff-Resilient Supply Chains
 - category: circular
   description: '<p>The Earthshot Prize announced its five 2025 winners at an awards
     night at the Museum of Tomorrow in Rio de Janeiro, Brazil.</p>
@@ -180,15 +191,4 @@ articles:
   pub_date: '2025-11-04T10:13:40'
   source: Circular Online
   title: Welsh Government announces headquarters for new Disused Tips Authority
-- category: circular
-  description: '<p>The Ellen MacArthur Foundation is urging more companies to back
-    global efforts against plastic waste with a new action plan setting the direction
-    for the next five years.</p>
-
-    <p>The post <a href="h...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/major-companies-back-ellen-macarthur-foundations-2030-plastics-agenda/
-  pub_date: '2025-11-04T09:11:55'
-  source: Circular Online
-  title: Major companies back Ellen MacArthur Foundation’s 2030 plastics agenda
-last_updated: '2025-11-11T06:31:03.097076'
+last_updated: '2025-11-12T06:31:21.440612'
