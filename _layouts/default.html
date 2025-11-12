@@ -113,9 +113,9 @@
     </script>
     {% endif %}
 </head>
-<body class="bg-vch-dark text-vch-text-light">
+<body class="bg-white text-gray-900">
     <!-- Navigation Bar -->
-    <nav class="bg-vch-dark border-b border-vch-dark-lighter py-6 sticky top-0 z-50">
+    <nav class="bg-white border-b border-gray-200 py-6 sticky top-0 z-50 shadow-sm">
         <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
             <a href="/" class="flex items-center hover:opacity-80 transition-opacity duration-300">
                 <!-- Main Logo - Single Image -->
@@ -124,17 +124,17 @@
 
             <!-- Desktop Navigation -->
             <div class="hidden md:flex items-center space-x-6">
-                <a href="/" class="text-vch-text-light font-semibold hover:text-vch-green transition-all duration-300 ease-in-out px-3 py-2">Home</a>
-                <a href="/projects/" class="text-vch-text-gray font-semibold hover:text-vch-green transition-all duration-300 ease-in-out px-3 py-2">Projects</a>
+                <a href="/" class="text-gray-900 font-semibold hover:text-vch-green transition-all duration-300 ease-in-out px-3 py-2">Home</a>
+                <a href="/projects/" class="text-gray-700 font-semibold hover:text-vch-green transition-all duration-300 ease-in-out px-3 py-2">Projects</a>
                 <div class="relative group">
-                    <button class="text-vch-text-gray font-semibold hover:text-vch-green transition-all duration-300 ease-in-out flex items-center px-3 py-2">
+                    <button class="text-gray-700 font-semibold hover:text-vch-green transition-all duration-300 ease-in-out flex items-center px-3 py-2">
                         News <i class="fas fa-chevron-down ml-1 text-xs"></i>
                     </button>
-                    <div class="absolute top-full left-0 mt-0 w-56 bg-vch-dark-card rounded-lg shadow-xl border border-vch-dark-lighter opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 pointer-events-none group-hover:pointer-events-auto">
-                        <a href="/sustainability-news" class="block px-4 py-3 hover:bg-vch-dark-lighter text-vch-text-gray hover:text-vch-green transition-all duration-200 rounded-t-lg">
+                    <div class="absolute top-full left-0 mt-0 w-56 bg-white rounded-lg shadow-xl border border-gray-200 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 pointer-events-none group-hover:pointer-events-auto">
+                        <a href="/sustainability-news" class="block px-4 py-3 hover:bg-gray-50 text-gray-700 hover:text-vch-green transition-all duration-200 rounded-t-lg">
                             <i class="fas fa-leaf mr-2 text-vch-green"></i>Sustainability News
                         </a>
-                        <a href="/ai-news" class="block px-4 py-3 hover:bg-vch-dark-lighter text-vch-text-gray hover:text-vch-green transition-all duration-200 rounded-b-lg">
+                        <a href="/ai-news" class="block px-4 py-3 hover:bg-gray-50 text-gray-700 hover:text-vch-green transition-all duration-200 rounded-b-lg">
                             <i class="fas fa-robot mr-2 text-vch-green"></i>AI News
                         </a>
                     </div>
@@ -143,7 +143,7 @@
             </div>
 
             <!-- Mobile Menu Button -->
-            <button class="md:hidden text-vch-text-light" id="mobile-menu-btn" aria-label="Toggle mobile menu" aria-expanded="false">
+            <button class="md:hidden text-gray-900" id="mobile-menu-btn" aria-label="Toggle mobile menu" aria-expanded="false">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
                 </svg>
@@ -151,17 +151,17 @@
         </div>
 
         <!-- Mobile Navigation -->
-        <div class="md:hidden hidden bg-vch-dark-card border-t border-vch-dark-lighter" id="mobile-menu">
+        <div class="md:hidden hidden bg-white border-t border-gray-200" id="mobile-menu">
             <div class="px-4 py-2 space-y-2">
-                <a href="/" class="block py-2 text-vch-text-light font-semibold hover:text-vch-green transition-colors">Home</a>
-                <a href="/projects/" class="block py-2 text-vch-text-gray font-semibold hover:text-vch-green transition-colors">Projects</a>
+                <a href="/" class="block py-2 text-gray-900 font-semibold hover:text-vch-green transition-colors">Home</a>
+                <a href="/projects/" class="block py-2 text-gray-700 font-semibold hover:text-vch-green transition-colors">Projects</a>
                 <div class="py-2">
-                    <div class="text-vch-text-gray font-semibold mb-2">News</div>
+                    <div class="text-gray-700 font-semibold mb-2">News</div>
                     <div class="pl-4 space-y-2">
-                        <a href="/sustainability-news" class="block py-1 text-vch-text-gray text-sm hover:text-vch-green transition-colors">
+                        <a href="/sustainability-news" class="block py-1 text-gray-700 text-sm hover:text-vch-green transition-colors">
                             <i class="fas fa-leaf mr-2 text-vch-green"></i>Sustainability News
                         </a>
-                        <a href="/ai-news" class="block py-1 text-vch-text-gray text-sm hover:text-vch-green transition-colors">
+                        <a href="/ai-news" class="block py-1 text-gray-700 text-sm hover:text-vch-green transition-colors">
                             <i class="fas fa-robot mr-2 text-vch-green"></i>AI News
                         </a>
                     </div>
@@ -177,11 +177,11 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-vch-dark border-t border-vch-dark-lighter section-spacing">
+    <footer class="bg-gray-50 border-t border-gray-200 section-spacing">
         <div class="max-w-7xl mx-auto px-4">
             <!-- Partner Logos Section -->
             <div class="text-center mb-12">
-                <h3 class="text-2xl font-semibold text-vch-text-light mb-8">Our Partners</h3>
+                <h3 class="text-2xl font-semibold text-gray-900 mb-8">Our Partners</h3>
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-8 items-center justify-items-center">
                     <img src="{{ '/assets/images/partners/scf-lectorate-logo.svg' | relative_url }}" alt="SCF Lectorate" class="h-12 opacity-70 hover:opacity-100 transition-opacity" width="auto" height="48" loading="lazy">
                     <img src="{{ '/assets/images/partners/scf-community-logo.svg' | relative_url }}" alt="SCF Community" class="h-12 opacity-70 hover:opacity-100 transition-opacity" width="auto" height="48" loading="lazy">
@@ -191,7 +191,7 @@
 
             <!-- Team Section -->
             <div class="text-center mb-12">
-                <h3 class="text-2xl font-semibold text-vch-text-light mb-8">Meet Our Team</h3>
+                <h3 class="text-2xl font-semibold text-gray-900 mb-8">Meet Our Team</h3>
                 <div class="grid md:grid-cols-4 gap-8">
                     <!-- Team Member 1 -->
                     <div class="text-center">
@@ -202,9 +202,9 @@
                             </picture>
                         </a>
                         <a href="{{ '/team/michiel-steeman/' | relative_url }}" class="hover:text-vch-green">
-                            <h4 class="font-semibold text-vch-text-light">Michiel Steeman</h4>
+                            <h4 class="font-semibold text-gray-900">Michiel Steeman</h4>
                         </a>
-                        <p class="text-sm text-vch-text-gray">Lector</p>
+                        <p class="text-sm text-gray-600">Lector</p>
                     </div>
                     <!-- Team Member 2 -->
                     <div class="text-center">
@@ -215,9 +215,9 @@
                             </picture>
                         </a>
                         <a href="{{ '/team/maxime-bouillon/' | relative_url }}" class="hover:text-vch-green">
-                            <h4 class="font-semibold text-vch-text-light">Maxime Bouillon</h4>
+                            <h4 class="font-semibold text-gray-900">Maxime Bouillon</h4>
                         </a>
-                        <p class="text-sm text-vch-text-gray">Teacher/Researcher</p>
+                        <p class="text-sm text-gray-600">Teacher/Researcher</p>
                     </div>
                     <!-- Team Member 3 -->
                     <div class="text-center">
@@ -228,9 +228,9 @@
                             </picture>
                         </a>
                         <a href="{{ '/team/rea-vaz/' | relative_url }}" class="hover:text-vch-green">
-                            <h4 class="font-semibold text-vch-text-light">Rea Vaz</h4>
+                            <h4 class="font-semibold text-gray-900">Rea Vaz</h4>
                         </a>
-                        <p class="text-sm text-vch-text-gray">Researcher</p>
+                        <p class="text-sm text-gray-600">Researcher</p>
                     </div>
                     <!-- Team Member 4 -->
                     <div class="text-center">
@@ -241,9 +241,9 @@
                             </picture>
                         </a>
                         <a href="{{ '/team/christiaan-verhoef/' | relative_url }}" class="hover:text-vch-green">
-                            <h4 class="font-semibold text-vch-text-light">Christiaan Verhoef</h4>
+                            <h4 class="font-semibold text-gray-900">Christiaan Verhoef</h4>
                         </a>
-                        <p class="text-sm text-vch-text-gray">Technical Facilitator</p>
+                        <p class="text-sm text-gray-600">Technical Facilitator</p>
                     </div>
                 </div>
             </div>
@@ -256,30 +256,30 @@
                         <div class="text-2xl font-bold text-vch-green">VCH</div>
                         <div class="ml-2 text-lg font-semibold">Value Chain Hackers</div>
                     </div>
-                    <p class="text-vch-text-gray">
+                    <p class="text-gray-600">
                         Collaborative research community focused on sustainable supply chain innovation.
                     </p>
                 </div>
                 <div>
-                    <h4 class="font-semibold text-vch-text-light mb-4">Quick Links</h4>
+                    <h4 class="font-semibold text-gray-900 mb-4">Quick Links</h4>
                     <div class="space-y-2">
-                        <a href="#about" class="block text-vch-text-gray hover:text-vch-green transition-all duration-300">About</a>
-                        <a href="#research" class="block text-vch-text-gray hover:text-vch-green transition-all duration-300">Research</a>
-                        <a href="#events" class="block text-vch-text-gray hover:text-vch-green transition-all duration-300">Events</a>
-                        <a href="#contact" class="block text-vch-text-gray hover:text-vch-green transition-all duration-300">Contact</a>
+                        <a href="#about" class="block text-gray-600 hover:text-vch-green transition-all duration-300">About</a>
+                        <a href="#research" class="block text-gray-600 hover:text-vch-green transition-all duration-300">Research</a>
+                        <a href="#events" class="block text-gray-600 hover:text-vch-green transition-all duration-300">Events</a>
+                        <a href="#contact" class="block text-gray-600 hover:text-vch-green transition-all duration-300">Contact</a>
                     </div>
                 </div>
                 <div>
-                    <h4 class="font-semibold text-vch-text-light mb-4">Community</h4>
+                    <h4 class="font-semibold text-gray-900 mb-4">Community</h4>
                     <div class="space-y-2">
-                        <a href="{{ site.discord_url }}" target="_blank" rel="noopener noreferrer" class="block text-vch-text-gray hover:text-vch-green transition-all duration-300">Discord</a>
-                        <a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer" class="block text-vch-text-gray hover:text-vch-green transition-all duration-300">GitHub</a>
-                        <a href="{{ site.linkedin_url }}" target="_blank" rel="noopener noreferrer" class="block text-vch-text-gray hover:text-vch-green transition-all duration-300">LinkedIn</a>
+                        <a href="{{ site.discord_url }}" target="_blank" rel="noopener noreferrer" class="block text-gray-600 hover:text-vch-green transition-all duration-300">Discord</a>
+                        <a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer" class="block text-gray-600 hover:text-vch-green transition-all duration-300">GitHub</a>
+                        <a href="{{ site.linkedin_url }}" target="_blank" rel="noopener noreferrer" class="block text-gray-600 hover:text-vch-green transition-all duration-300">LinkedIn</a>
                     </div>
                 </div>
                 <div>
-                    <h4 class="font-semibold text-vch-text-light mb-4">Partners</h4>
-                    <div class="space-y-2 text-vch-light-gray">
+                    <h4 class="font-semibold text-gray-900 mb-4">Partners</h4>
+                    <div class="space-y-2 text-gray-600">
                         <div>Windesheim University</div>
                         <div>Scania</div>
                         <div>Puma</div>
@@ -289,14 +289,14 @@
                 </div>
             </div>
             
-            <div class="border-t border-vch-dark-lighter pt-8 flex flex-col md:flex-row justify-between items-center">
-                <div class="text-vch-text-gray text-sm">
+            <div class="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center">
+                <div class="text-gray-600 text-sm">
                     © {{ 'now' | date: "%Y" }} Value Chain Hackers. All rights reserved.
                 </div>
                 <div class="flex space-x-6 mt-4 md:mt-0">
-                    <a href="/privacy" class="text-vch-text-gray text-sm hover:text-vch-green transition-all duration-300">Privacy Policy</a>
-                    <a href="/terms" class="text-vch-text-gray text-sm hover:text-vch-green transition-all duration-300">Terms of Service</a>
-                    <a href="/newsletter" class="text-vch-text-gray text-sm hover:text-vch-green transition-all duration-300">Newsletter</a>
+                    <a href="/privacy" class="text-gray-600 text-sm hover:text-vch-green transition-all duration-300">Privacy Policy</a>
+                    <a href="/terms" class="text-gray-600 text-sm hover:text-ch-green transition-all duration-300">Terms of Service</a>
+                    <a href="/newsletter" class="text-gray-600 text-sm hover:text-vch-green transition-all duration-300">Newsletter</a>
                 </div>
             </div>
         </div>
