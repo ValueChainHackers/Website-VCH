@@ -11,9 +11,9 @@ description: Value Chain Hackers brings together students, researchers, and busi
     <div class="absolute inset-0 z-0">
         <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&h=1080&fit=crop&q=80"
              alt="Global supply chain and logistics"
-             class="w-full h-full object-cover"
+             class="w-full h-full object-cover opacity-30"
              loading="eager">
-        <div class="absolute inset-0 bg-gradient-to-b from-vch-dark/95 via-vch-dark/90 to-vch-dark/95"></div>
+        <div class="absolute inset-0 bg-vch-dark"></div>
     </div>
 
     <div class="relative z-10 max-w-7xl mx-auto px-4 py-32 md:py-40 text-center">
@@ -79,12 +79,10 @@ description: Value Chain Hackers brings together students, researchers, and busi
             <h2 class="text-4xl font-bold text-vch-text-light mb-4">Our Partners</h2>
             <p class="text-lg text-vch-text-gray">Collaborating with industry leaders and academic institutions</p>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-12 items-center justify-items-center opacity-70">
-            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Windesheim</div>
-            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Scania</div>
-            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Puma</div>
-            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Danone</div>
-            <div class="text-vch-text-gray text-xl font-semibold hover:text-vch-green transition-colors">Evofenedx</div>
+        <div class="grid grid-cols-2 md:grid-cols-3 gap-8 items-center justify-items-center">
+            <img src="{{ '/assets/images/partners/scf-lectorate-logo.svg' | relative_url }}" alt="SCF Lectorate" class="h-12 opacity-70 hover:opacity-100 transition-opacity" width="auto" height="48" loading="lazy">
+            <img src="{{ '/assets/images/partners/scf-community-logo.svg' | relative_url }}" alt="SCF Community" class="h-12 opacity-70 hover:opacity-100 transition-opacity" width="auto" height="48" loading="lazy">
+            <img src="{{ '/assets/images/partners/zwinc-logo.svg' | relative_url }}" alt="ZWINC" class="h-12 opacity-70 hover:opacity-100 transition-opacity" width="auto" height="48" loading="lazy">
         </div>
     </div>
 </section>
@@ -634,10 +632,9 @@ description: Value Chain Hackers brings together students, researchers, and busi
             <p class="text-lg text-vch-text-gray">Get in touch and join our collaborative community</p>
         </div>
 
-        <div class="grid lg:grid-cols-2 gap-12">
+        <div class="max-w-2xl mx-auto">
             <!-- Contact Form -->
             <div>
-                <h3 class="text-2xl font-semibold text-vch-gray mb-6">Get In Touch</h3>
                 <form class="space-y-6" id="contact-form">
                     <div>
                         <label for="user_name" class="block text-sm font-semibold text-vch-gray mb-2">Name *</label>
@@ -662,23 +659,6 @@ description: Value Chain Hackers brings together students, researchers, and busi
                         We typically respond within 24-48 hours
                     </p>
                 </form>
-            </div>
-
-            <!-- Contact Info -->
-            <div>
-                <div class="bg-gradient-to-r from-vch-green to-vch-yellow rounded-xl p-6 text-white">
-                    <p class="text-white mb-4">Have questions or want to collaborate? Reach out to us.</p>
-                    <div class="space-y-2 text-white">
-                        <div class="flex items-center">
-                            <span class="mr-3">📧</span>
-                            <span>info@valuechainhackers.xyz</span>
-                        </div>
-                        <div class="flex items-center">
-                            <span class="mr-3">📍</span>
-                            <span>Windesheim University, Zwolle, Netherlands</span>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
