@@ -1,7 +1,7 @@
 articles:
 - category: ai-research
   description: Associate Professor Phillip Isola studies the ways in which intelligent
-    machines “think,” in an effort to safely integrate AI into human society.
+    machines "think," in an effort to safely integrate AI into human society.
   icon: fa-graduation-cap
   link: https://news.mit.edu/2025/understanding-nuances-human-intelligence-phillip-isola-1111
   pub_date: '2025-11-11T05:00:00'
@@ -41,7 +41,7 @@ articles:
   source: MIT AI News
   title: Teaching robots to map large environments
 - category: ai-research
-  description: MIT’s Teaching Systems Lab, led by Associate Professor Justin Reich,
+  description: MIT's Teaching Systems Lab, led by Associate Professor Justin Reich,
     is working to help educators by listening to and sharing their stories.
   icon: fa-graduation-cap
   link: https://news.mit.edu/2025/helping-k-12-schools-navigate-complex-world-of-ai-1103
