@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: The goal of an "everything" notebook in NotebookLM is having your entire
+    professional memory instantly accessible and understandable....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-benefits-of-an-everything-notebook-in-notebooklm
+  pub_date: '2025-11-12T15:00:36'
+  source: KDnuggets
+  title: The Benefits of an “Everything” Notebook in NotebookLM
+- category: machine-learning
+  description: A handpicked list of free reads that teach you the science, logic,
+    and real-world side of artificial intelligence....
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-ai-engineer
+  pub_date: '2025-11-12T13:00:28'
+  source: KDnuggets
+  title: The 5 FREE Must-Read Books for Every AI Engineer
 - category: ai-research
   description: 'Private AI Compute infographic: Secured data flow from mobile device
     to Gemini Models and Google TPU....'
@@ -127,24 +143,6 @@ articles:
   pub_date: '2025-11-07T19:00:00'
   source: Google AI Blog
   title: Google is investing in Oklahoma’s workforce and talent pipeline.
-- category: machine-learning
-  description: ChatLLM brings together every major AI model—GPT-5, Claude, Gemini,
-    Grok, and more—into one affordable platform. For just $10 a month, you get a Swiss
-    Army knife of AI tools for writing, coding, analy...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2025/11/abacus/chatllm-an-honest-review-of-our-all-in-one-ai-platform
-  pub_date: '2025-11-07T18:00:07'
-  source: KDnuggets
-  title: ChatLLM. An Honest Review of Our All-in-One AI Platform
-- category: machine-learning
-  description: Firebase Studio revolutionizes full-stack app development by unifying
-    a cloud-based IDE, the robust Firebase platform, and the power of Gemini's AI
-    agents....
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-full-stack-apps-with-firebase-studio
-  pub_date: '2025-11-07T15:47:18'
-  source: KDnuggets
-  title: Building Full Stack Apps with Firebase Studio
 - category: ai-research
   description: MIT PhD students who interned with the MIT-IBM Watson AI Lab Summer
     Program are pushing AI tools to be more flexible, efficient, and grounded in truth....
@@ -253,4 +251,4 @@ articles:
   pub_date: '2025-10-22T19:25:00'
   source: MIT AI News
   title: Five with MIT ties elected to National Academy of Medicine for 2025
-last_updated: '2025-11-12T06:31:22.432040'
+last_updated: '2025-11-13T06:31:37.608208'

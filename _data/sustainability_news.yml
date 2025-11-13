@@ -1,5 +1,80 @@
 articles:
 - category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/welcome-to-california-graphic.jpg"
+    /><br />Supplier.io’s new report ranks the top industries and states driving U.S.
+    small business growth,...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-states-industries-small-business-growth-2025
+  pub_date: '2025-11-12T15:20:00'
+  source: Supply Chain 24/7
+  title: California, Texas Ranked Top States for Small Business Impact
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/port-la-getty-600.jpg"
+    /><br />The Ports of Los Angeles and Long Beach approved a new agreement with
+    air regulators to reach zero&#45;emiss...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ports-los-angeles-long-beach-zero-emissions-2029
+  pub_date: '2025-11-12T14:18:00'
+  source: Supply Chain 24/7
+  title: Ports of Los Angeles and Long Beach Commit to Zero Emissions by 2029
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/airfield-891258_1280-600.jpg"
+    /><br />FAA flight reductions are adding short&#45;term pressure to domestic air
+    cargo networks as logistics ...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/shutdown-may-be-ending-but-air-cargo-problems-remain
+  pub_date: '2025-11-12T14:17:00'
+  source: Supply Chain 24/7
+  title: Shutdown May Be Ending, but Air Cargo Problems Remain
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/wms-GettyImages-1284193221.jpg"
+    /><br />MHI and Oxford Economics report that the U.S. material handling industry
+    now contributes $266 billi...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/mhi-material-handling-266-billion-impact
+  pub_date: '2025-11-12T13:18:00'
+  source: Supply Chain 24/7
+  title: Material Handling Industry Contributes $266 Billion to U.S. Economy
+- category: circular
+  description: '<p>The Environment Secretary has confirmed the government’s Circular
+    Economy Strategy, which was expected in October, has been delayed until 2026.</p>
+
+    <p>The post <a href="https://www.circularonline.c...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/circular-economy-strategy-delayed-until-2026/
+  pub_date: '2025-11-12T12:37:23'
+  source: Circular Online
+  title: Circular Economy Strategy delayed until 2026
+- category: circular
+  description: <p>  A new report by the UK Health Security Agency has found that climate
+    change is negatively affecting mental health in the UK today. The report by the
+    UK Health Security Agency (UKHSA), a governmen...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/climate-change-negatively-affecting-mental-health-report-finds/
+  pub_date: '2025-11-12T11:29:25'
+  source: Circular Online
+  title: Climate change negatively affecting mental health, report finds
+- category: circular
+  description: '<p>Johnsons Aggregates and Recycling in Derbyshire must pay £90,000
+    after pleading guilty to breaking its environmental permit.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/news/recycling...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/recycling-company-must-pay-90000-for-breaking-waste-permit/
+  pub_date: '2025-11-12T10:35:54'
+  source: Circular Online
+  title: Recycling company must pay £90,000 for breaking waste permit
+- category: circular
+  description: '<p>A plastics conversion company has been fined £277,500 after a man
+    died when he became trapped in the moving parts of an unguarded machine.</p>
+
+    <p>The post <a href="https://www.circularonline.co.uk/...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/plastics-firm-fined-277500-after-fatal-machinery-accident/
+  pub_date: '2025-11-12T09:36:37'
+  source: Circular Online
+  title: Plastics firm fined £277,500 after fatal machinery accident
+- category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/container-ship-GettyImages-1363725969.jpg"
     /><br />Older container ships are outperforming newer fleets on emissions, showing
     that smart op...
@@ -8,6 +83,23 @@ articles:
   pub_date: '2025-11-11T21:16:00'
   source: Supply Chain 24/7
   title: Older Container Ships Are Running Cleaner Than New Fleets
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/how_ai_is_revolutionizing_supply_chain_visibility_main_600px.jpg"
+    /><br />Discover how artificial intelligence unifies WMS, ERP, and IoT da...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-ai-is-revolutionizing-supply-chain-visibility-and-predictive-logistics
+  pub_date: '2025-11-11T18:29:00'
+  source: Supply Chain 24/7
+  title: How AI Is Revolutionizing Supply Chain Visibility and Predictive Logistics
+- category: supply-chain
+  description: <img src="https://www.supplychain247.com/images/2025_article/locus-robotics-article-top-10-warehouse-automation-lessons-1125.jpg"
+    /><br />Discover 10 essential lessons from leading warehouse operation...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-10-warehouse-automation-lessons-real-world-insights-for-fulfillment-teams
+  pub_date: '2025-11-11T17:59:00'
+  source: Supply Chain 24/7
+  title: 'Top 10 Warehouse Automation Lessons: Real-World Insights for Fulfillment
+    Teams'
 - category: supply-chain
   description: <img src="https://www.supplychain247.com/images/2025_article/locus2.jpg"
     /><br />Locus CEO Nishith Rastogi shares how the company’s new partnership with
@@ -38,41 +130,14 @@ articles:
   title: '‘Major Problem’: Keep Britain Tidy urges crackdown on rogue waste operators
     as fly-tipping surges'
 - category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/bryan-jensen-st-onge.jpg"
-    /><br />Veteran supply chain leader Bryan Jensen reflects on his journey from
-    Toys “R” Us to St. Onge and the les...
+  description: <img src="https://www.supplychain247.com/images/2025_article/seamless_supply_chain_integration_how_edi_and_api_solutions_main_600px.jpg"
+    /><br />Discover how customized EDI and API integrations stream...
   icon: fa-box
-  link: https://www.supplychain247.com/article/leadership-lessons-bryan-jensen-st-onge
-  pub_date: '2025-11-10T18:40:00'
+  link: https://www.supplychain247.com/article/seamless-supply-chain-integration-how-edi-and-api-solutions-drive-logistics-efficiency
+  pub_date: '2025-11-10T19:13:00'
   source: Supply Chain 24/7
-  title: 'Leadership Lessons: Bryan Jensen of St. Onge'
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/robotics-automation-GettyImages-2113743628.jpg"
-    /><br />Despite billions in upgrades, DHL’s Insight 2030 report finds many supply
-    chains st...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-tech-investment-still-lagging-roi
-  pub_date: '2025-11-10T14:44:00'
-  source: Supply Chain 24/7
-  title: Despite Billions Invested, Supply Chain Technology Still Falls Short
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/salary-100-dollar-bill-getty2.jpg"
-    /><br />Average salaries for materials handling professionals rose slightly in
-    2025, but raises and bonu...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/materials-handling-salary-growth-slows-2025
-  pub_date: '2025-11-10T13:59:00'
-  source: Supply Chain 24/7
-  title: Salary Growth Slows Across the Material Handling Industry
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/truck-driverGettyImages-1537709671.jpg"
-    /><br />A new Samsara survey suggests that Gen Z is open to truck&#45;driving
-    roles if fleets can s...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gen-z-driving-careers-2025-samsara-study
-  pub_date: '2025-11-10T13:58:00'
-  source: Supply Chain 24/7
-  title: Can Gen Z Solve the Truck Driver Shortage?
+  title: 'Seamless Supply Chain Integration: How EDI and API Solutions Drive Logistics
+    Efficiency'
 - category: circular
   description: '<p>A London-based company has secured over £1.3 million to scale production
     of its smart food-waste bin, which automatically weighs discarded food and reports
@@ -95,33 +160,6 @@ articles:
   pub_date: '2025-11-10T08:00:00'
   source: Circular Online
   title: UK waste wood market remains under significant pressure, says WRA
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/jobs-graphic-GettyImages-2237279297.jpg"
-    /><br />A look at 10 fast&#45;growing jobs in the supply chain industry, with
-    2025 salary data fro...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-10-fastest-growing-supply-chain-jobs-2025
-  pub_date: '2025-11-07T15:33:00'
-  source: Supply Chain 24/7
-  title: Top 10 Fastest-Growing Supply Chain Jobs (and What They Pay)
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/free-shipping-GettyImages-2219875686.jpg"
-    /><br />Retailers are finding ways to make “free delivery” work, using smart pricing
-    and stronger...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/retailers-free-shipping-without-losing-money
-  pub_date: '2025-11-07T15:00:00'
-  source: Supply Chain 24/7
-  title: How Retailers Deliver on ‘Free Shipping’ Without Losing Money
-- category: supply-chain
-  description: <img src="https://www.supplychain247.com/images/2025_article/stanska-san-fran-airport.jpg"
-    /><br />Skanska has begun building new cargo and maintenance facilities at San
-    Francisco International Airpor...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/skanska-cargo-redevelopment-san-francisco-airport
-  pub_date: '2025-11-07T14:38:00'
-  source: Supply Chain 24/7
-  title: Skanska Begins Major Cargo Project at San Francisco Airport
 - category: circular
   description: '<p>The UK Deposit Management Organisation (UK DMO) has appointed Russell
     Davies as its Chief Executive Officer.</p>
@@ -152,43 +190,4 @@ articles:
   pub_date: '2025-11-06T08:53:49'
   source: Circular Online
   title: Government to add climate change education to school curriculum
-- category: circular
-  description: '<p>Over 7,000 vapes a day were found in four Biffa sites between June
-    and September 2025, data from the waste management company shows.</p>
-
-    <p>The post <a href="https://www.circularonline.co.uk/news/o...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/over-7000-vapes-a-day-are-found-in-just-four-biffa-sites/
-  pub_date: '2025-11-05T11:04:42'
-  source: Circular Online
-  title: Over 7,000 vapes a day are found in just four Biffa sites
-- category: circular
-  description: '<p>The Environment Agency stopped 143 high-risk illegal waste sites
-    in 2025, exceeding its target of 90, its annual report finds.</p>
-
-    <p>The post <a href="https://www.circularonline.co.uk/news/environ...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-agency-exceeds-target-for-closing-illegal-waste-sites/
-  pub_date: '2025-11-05T10:17:15'
-  source: Circular Online
-  title: Environment Agency exceeds target for closing illegal waste sites
-- category: circular
-  description: '<p>UN Environment Programme assessment finds world heading for a ‘serious
-    escalation’ of climate risks and damages.</p>
-
-    <p>The post <a href="https://www.circularonline.co.uk/news/unep-says-world-headi...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/unep-says-world-heading-for-a-serious-escalation-of-climate-damage/
-  pub_date: '2025-11-05T09:11:06'
-  source: Circular Online
-  title: UNEP says world heading for a ‘serious escalation’ of climate damage
-- category: circular
-  description: <p>  The new Disused Tips Authority for Wales will be headquartered
-    on a reclaimed colliery tip site in Merthyr Tydfil, creating ‘around 60 new jobs’.
-    The Disused Tips Authority will be responsible fo...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/welsh-government-announces-headquarters-for-new-disused-tips-authority/
-  pub_date: '2025-11-04T10:13:40'
-  source: Circular Online
-  title: Welsh Government announces headquarters for new Disused Tips Authority
-last_updated: '2025-11-12T06:31:21.440612'
+last_updated: '2025-11-13T06:31:36.654367'
