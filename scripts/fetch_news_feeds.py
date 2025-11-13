@@ -6,6 +6,7 @@ This script runs via GitHub Actions to update news content.
 
 import feedparser
 import yaml
+import re
 from datetime import datetime
 from typing import List, Dict
 
@@ -72,6 +73,23 @@ AI_FEEDS = [
 ]
 
 
+def strip_html_tags(text: str) -> str:
+    """
+    Remove HTML tags from text.
+
+    Args:
+        text: Text potentially containing HTML tags
+
+    Returns:
+        Clean text without HTML tags
+    """
+    # Remove HTML tags
+    clean = re.sub(r'<[^>]+>', '', text)
+    # Remove extra whitespace
+    clean = re.sub(r'\s+', ' ', clean).strip()
+    return clean
+
+
 def fetch_feed_articles(feed_info: Dict, max_articles: int = 10) -> List[Dict]:
     """
     Fetch articles from an RSS feed.
@@ -93,10 +111,15 @@ def fetch_feed_articles(feed_info: Dict, max_articles: int = 10) -> List[Dict]:
             pub_date = entry.get('published_parsed') or entry.get('updated_parsed')
             date_str = datetime(*pub_date[:6]).isoformat() if pub_date else datetime.now().isoformat()
 
+            # Get and clean description
+            raw_description = entry.get('summary', '')
+            clean_description = strip_html_tags(raw_description)
+            truncated_description = clean_description[:200] + '...' if len(clean_description) > 200 else clean_description
+
             article = {
                 'title': entry.get('title', 'Untitled'),
                 'link': entry.get('link', '#'),
-                'description': entry.get('summary', '')[:200] + '...' if entry.get('summary') else '',
+                'description': truncated_description,
                 'pub_date': date_str,
                 'source': feed_info['name'],
                 'category': feed_info['category'],
@@ -104,10 +127,10 @@ def fetch_feed_articles(feed_info: Dict, max_articles: int = 10) -> List[Dict]:
             }
             articles.append(article)
 
-        print(f"✓ Fetched {len(articles)} articles from {feed_info['name']}")
+        print(f"[OK] Fetched {len(articles)} articles from {feed_info['name']}")
 
     except Exception as e:
-        print(f"✗ Error fetching {feed_info['name']}: {e}")
+        print(f"[ERROR] Error fetching {feed_info['name']}: {e}")
 
     return articles
 
@@ -133,7 +156,7 @@ def main():
     with open('_data/sustainability_news.yml', 'w') as f:
         yaml.dump(sustainability_data, f, default_flow_style=False, allow_unicode=True)
 
-    print(f"\n✓ Saved {len(sustainability_articles[:50])} sustainability articles to _data/sustainability_news.yml")
+    print(f"\n[OK] Saved {len(sustainability_articles[:50])} sustainability articles to _data/sustainability_news.yml")
 
     # Fetch AI news
     print("\n=== Fetching AI News ===")
@@ -153,7 +176,7 @@ def main():
     with open('_data/ai_news.yml', 'w') as f:
         yaml.dump(ai_data, f, default_flow_style=False, allow_unicode=True)
 
-    print(f"✓ Saved {len(ai_articles[:50])} AI articles to _data/ai_news.yml\n")
+    print(f"[OK] Saved {len(ai_articles[:50])} AI articles to _data/ai_news.yml\n")
 
 
 if __name__ == '__main__':
