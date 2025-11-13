@@ -12,7 +12,8 @@
       "Bash(npm install:*)",
       "Bash(python fetch_news_feeds.py:*)",
       "Bash(pip install:*)",
-      "Bash(python scripts/fetch_news_feeds.py:*)"
+      "Bash(python scripts/fetch_news_feeds.py:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []
