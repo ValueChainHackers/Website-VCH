@@ -75,18 +75,44 @@ AI_FEEDS = [
 
 def strip_html_tags(text: str) -> str:
     """
-    Remove HTML tags from text.
+    Remove HTML tags from text and normalize special characters.
 
     Args:
         text: Text potentially containing HTML tags
 
     Returns:
-        Clean text without HTML tags
+        Clean text without HTML tags and with normalized characters
     """
+    import html
+
+    # Decode HTML entities
+    clean = html.unescape(text)
+
     # Remove HTML tags
-    clean = re.sub(r'<[^>]+>', '', text)
+    clean = re.sub(r'<[^>]+>', '', clean)
+
+    # Normalize problematic Unicode characters to ASCII equivalents
+    replacements = {
+        '\u2018': "'",  # Left single quotation mark
+        '\u2019': "'",  # Right single quotation mark
+        '\u201c': '"',  # Left double quotation mark
+        '\u201d': '"',  # Right double quotation mark
+        '\u2013': '-',  # En dash
+        '\u2014': '-',  # Em dash
+        '\u2026': '...',  # Ellipsis
+        '\u00a3': 'GBP',  # Pound sign
+        '\u00a0': ' ',  # Non-breaking space
+    }
+
+    for unicode_char, ascii_char in replacements.items():
+        clean = clean.replace(unicode_char, ascii_char)
+
+    # Remove any remaining non-ASCII characters
+    clean = clean.encode('ascii', errors='ignore').decode('ascii')
+
     # Remove extra whitespace
     clean = re.sub(r'\s+', ' ', clean).strip()
+
     return clean
 
 
@@ -153,7 +179,7 @@ def main():
         'articles': sustainability_articles[:50]  # Keep top 50
     }
 
-    with open('_data/sustainability_news.yml', 'w') as f:
+    with open('_data/sustainability_news.yml', 'w', encoding='utf-8') as f:
         yaml.dump(sustainability_data, f, default_flow_style=False, allow_unicode=True)
 
     print(f"\n[OK] Saved {len(sustainability_articles[:50])} sustainability articles to _data/sustainability_news.yml")
@@ -173,7 +199,7 @@ def main():
         'articles': ai_articles[:50]  # Keep top 50
     }
 
-    with open('_data/ai_news.yml', 'w') as f:
+    with open('_data/ai_news.yml', 'w', encoding='utf-8') as f:
         yaml.dump(ai_data, f, default_flow_style=False, allow_unicode=True)
 
     print(f"[OK] Saved {len(ai_articles[:50])} AI articles to _data/ai_news.yml\n")

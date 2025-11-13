@@ -1,4 +1,114 @@
 articles:
+- category: machine-learning
+  description: This article uncovers how to harness Dask for scalable data processing,
+    even under limited hardware constraints.This article uncovers how to harness Dask
+    for scalable data processing, even under limit...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/processing-large-datasets-with-dask-and-scikit-learn
+  pub_date: '2025-11-13T15:00:29'
+  source: KDnuggets
+  title: Processing Large Datasets with Dask and Scikit-learn
+- category: machine-learning
+  description: I have a complicated love-hate relationship with AI agentic coding.
+    Today, I will share my experiences with top-performing AI-agentic coding CLI tools,
+    providing a fully automated developer experience...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-agentic-coding-cli-tools
+  pub_date: '2025-11-13T13:00:56'
+  source: KDnuggets
+  title: Top 5 Agentic Coding CLI Tools
+- category: ai-research
+  description: A triptych showing details of a Golden Goose and Google Gemini co-creation
+    experience, including tools, a phone, store window display, and sneaker customization.
+  icon: fa-google
+  link: https://blog.google/products/pixel/google-pixel-and-golden-goose-partner-to-bring-ai-to-global-ateliers/
+  pub_date: '2025-11-13T08:00:00'
+  source: Google AI Blog
+  title: Google Pixel and Golden Goose partner to  bring AI to global ateliers
+- category: machine-learning
+  description: The goal of an "everything" notebook in NotebookLM is having your entire
+    professional memory instantly accessible and understandable.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-benefits-of-an-everything-notebook-in-notebooklm
+  pub_date: '2025-11-12T15:00:36'
+  source: KDnuggets
+  title: The Benefits of an “Everything” Notebook in NotebookLM
+- category: machine-learning
+  description: A handpicked list of free reads that teach you the science, logic,
+    and real-world side of artificial intelligence.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-ai-engineer
+  pub_date: '2025-11-12T13:00:28'
+  source: KDnuggets
+  title: The 5 FREE Must-Read Books for Every AI Engineer
+- category: ai-research
+  description: 'Private AI Compute infographic: Secured data flow from mobile device
+    to Gemini Models and Google TPU.'
+  icon: fa-google
+  link: https://blog.google/technology/ai/google-private-ai-compute/
+  pub_date: '2025-11-11T19:00:00'
+  source: Google AI Blog
+  title: 'Private AI Compute: our next step in building private and helpful AI'
+- category: machine-learning
+  description: If you're ready to move from simply managing data to making an impact
+    with it, this program will give you the tools, confidence, and vision to lead
+    in the evolving world of data science.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/baypath/transform-raw-data-into-real-impact
+  pub_date: '2025-11-11T18:00:46'
+  source: KDnuggets
+  title: Transform Raw Data Into Real Impact
+- category: machine-learning
+  description: Learn to create an intelligent email automation system that analyzes,
+    scores, and routes messages based on priority.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-a-gmail-inbox-management-agent-in-n8n
+  pub_date: '2025-11-11T17:00:04'
+  source: KDnuggets
+  title: Building a Gmail Inbox Management Agent in n8n
+- category: ai-research
+  description: Image with the Google Photos logo and the words Edit, Create and Search
+    with visuals of different AI features.
+  icon: fa-google
+  link: https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/
+  pub_date: '2025-11-11T17:00:00'
+  source: Google AI Blog
+  title: 6 new things you can do with AI in Google Photos
+- category: machine-learning
+  description: Transitioning from reactive hustle to proactive structure by building
+    simple, repeatable processes. If you are looking for practical ways to get started
+    in the shift from hustle to structure, this art...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/dp6e0ebt#new_tab
+  pub_date: '2025-11-11T15:18:49'
+  source: KDnuggets
+  title: 'From Hustle to Structure: How to Build Repeatable Processes in Your Business
+    (Sponsored)'
+- category: machine-learning
+  description: Here are the free ChatGPT alternatives I genuinely recommend. They
+    are fast, reliable, and useful for research, coding, brainstorming, and creative
+    work.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-chatgpt-alternatives-you-can-try-for-free
+  pub_date: '2025-11-11T15:18:01'
+  source: KDnuggets
+  title: Top 7 ChatGPT Alternatives You Can Try For Free
+- category: machine-learning
+  description: A practical guide to building reliable data pipelines that stay up
+    and running. Learn what breaks them and how to avoid it.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-complete-guide-to-building-data-pipelines-that-dont-break
+  pub_date: '2025-11-11T15:00:24'
+  source: KDnuggets
+  title: The Complete Guide to Building Data Pipelines That Don’t Break
+- category: ai-research
+  description: Video sharing the future of AI & Learning with examples from classrooms
+    from around the world
+  icon: fa-google
+  link: https://blog.google/outreach-initiatives/education/ai-learning-commitments/
+  pub_date: '2025-11-11T09:00:00'
+  source: Google AI Blog
+  title: Our latest commitments in AI and learning
 - category: ai-research
   description: Associate Professor Phillip Isola studies the ways in which intelligent
     machines "think," in an effort to safely integrate AI into human society.
@@ -7,6 +117,23 @@ articles:
   pub_date: '2025-11-11T05:00:00'
   source: MIT AI News
   title: Understanding the nuances of human-like intelligence
+- category: machine-learning
+  description: The GIL is finally being dismantled. The implications aren't just technical;
+    they're cultural. This shift could redefine how we write, scale, and even think
+    about Python in the modern era.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-does-the-end-of-gil-mean-for-python
+  pub_date: '2025-11-10T17:00:48'
+  source: KDnuggets
+  title: What Does the End of GIL Mean for Python?
+- category: ai-research
+  description: Rowandale Primary School teacher assisting two primary school students
+    working on laptops at a classroom table.
+  icon: fa-google
+  link: https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/
+  pub_date: '2025-11-10T09:00:00'
+  source: Google AI Blog
+  title: How AI is giving Northern Ireland teachers time back
 - category: ai-research
   description: MIT faculty and MITEI member company experts address power demand from
     data centers.
@@ -16,6 +143,15 @@ articles:
   source: MIT AI News
   title: MIT Energy Initiative launches Data Center Power Forum
 - category: ai-research
+  description: AI is creating new opportunities for Oklahomans to learn, grow and
+    succeed. Google is committed to making sure the Sooner State is not just ready
+    for this transformation...
+  icon: fa-google
+  link: https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/
+  pub_date: '2025-11-07T19:00:00'
+  source: Google AI Blog
+  title: Google is investing in Oklahoma’s workforce and talent pipeline.
+- category: ai-research
   description: MIT PhD students who interned with the MIT-IBM Watson AI Lab Summer
     Program are pushing AI tools to be more flexible, efficient, and grounded in truth.
   icon: fa-graduation-cap
@@ -24,6 +160,30 @@ articles:
   source: MIT AI News
   title: Charting the future of AI, from safer answers to faster thinking
 - category: ai-research
+  description: An image showing different format files going into the Gemini API and
+    the API outputting vectors
+  icon: fa-google
+  link: https://blog.google/technology/developers/file-search-gemini-api/
+  pub_date: '2025-11-06T18:00:00'
+  source: Google AI Blog
+  title: Introducing the File Search Tool in Gemini API
+- category: ai-research
+  description: Abstract illustration depicting elements of the Google Finance user
+    interface
+  icon: fa-google
+  link: https://blog.google/products/search/new-google-finance-ai-deep-search/
+  pub_date: '2025-11-06T17:00:00'
+  source: Google AI Blog
+  title: Google Finance adds AI features for research, earnings and more
+- category: ai-research
+  description: A smiling female teacher leans over and points at a laptop screen,
+    engaging with three young female students who are also smiling in a classroom.
+  icon: fa-google
+  link: https://blog.google/outreach-initiatives/education/ai-and-learning/
+  pub_date: '2025-11-06T17:00:00'
+  source: Google AI Blog
+  title: 'AI and learning: A new chapter for students and educators'
+- category: ai-research
   description: The coding framework uses modular concepts and simple synchronization
     rules to make software clearer, safer, and easier for LLMs to generate.
   icon: fa-graduation-cap
@@ -31,6 +191,14 @@ articles:
   pub_date: '2025-11-06T13:00:00'
   source: MIT AI News
   title: MIT researchers propose a new model for legible, modular software
+- category: ai-research
+  description: Image with black and blue background with an example JSON Schema code
+    snippet and the Gemini logo sparkle
+  icon: fa-google
+  link: https://blog.google/technology/developers/gemini-api-structured-outputs/
+  pub_date: '2025-11-05T17:00:00'
+  source: Google AI Blog
+  title: Improving Structured Outputs in the Gemini API
 - category: ai-research
   description: A new approach developed at MIT could help a search-and-rescue robot
     navigate an unpredictable environment by rapidly generating an accurate map of
@@ -82,4 +250,4 @@ articles:
   pub_date: '2025-10-22T19:25:00'
   source: MIT AI News
   title: Five with MIT ties elected to National Academy of Medicine for 2025
-last_updated: '2025-11-13T12:00:50.024701'
+last_updated: '2025-11-13T17:03:52.592740'
