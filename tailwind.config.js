@@ -23,10 +23,18 @@ module.exports = {
         'vch-dark-lighter': '#2a2a2a',
         'vch-dark-card': '#252525',
 
+        // Light Theme Colors
+        'vch-card-light': '#f8f8f6',
+        'vch-card-border': '#e5e5e3',
+
         // Text Colors for Dark Theme
         'vch-text-light': '#ffffff',
         'vch-text-gray': '#b0b0b0',
         'vch-text-muted': '#808080',
+
+        // Text Colors for Light Theme
+        'vch-text-dark': '#2a2a2a',
+        'vch-text-gray-dark': '#5a5a5a',
 
         // Legacy (for compatibility)
         'vch-gray': '#333333',
