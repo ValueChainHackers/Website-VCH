@@ -1,4 +1,36 @@
 articles:
+- category: supply-chain
+  description: Toyota opened its $13.9 billion North Carolina battery plant and confirmed
+    plans to invest up to $10 billion in U.S. manufacturing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/toyota-north-carolina-battery-plant-10b-us-investment
+  pub_date: '2025-11-13T14:39:00'
+  source: Supply Chain 24/7
+  title: Toyota Opens North Carolina Battery Plant, Confirms $10B U.S. Spend
+- category: supply-chain
+  description: Blank sailings on U.S.-China and other major trade routes are finally
+    easing after months of tariff-driven volatility, project44 says.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/blank-sailings-ease-as-tariff-pressure-shifts
+  pub_date: '2025-11-13T14:10:00'
+  source: Supply Chain 24/7
+  title: After Months of Turmoil, China–U.S. Blank Sailing Settle Down
+- category: supply-chain
+  description: Novartis is ramping up U.S. production of radioligand cancer therapies
+    with a new facility in California as part of a $23 billion domestic investment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/novartis-opens-rlt-manufacturing-facility-california
+  pub_date: '2025-11-13T13:06:00'
+  source: Supply Chain 24/7
+  title: Novartis Opens New Manufacturing Site in Carlsbad, California
+- category: supply-chain
+  description: Maersk has opened a new ground freight and linehaul hub in Lake City,
+    Georgia, to move shipments faster across the Southeast.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-opens-lake-city-georgia-freight-hub
+  pub_date: '2025-11-13T13:05:00'
+  source: Supply Chain 24/7
+  title: Maersk Opens New Lake City, GA Hub to Speed Freight Across Southeast
 - category: circular
   description: The 30th UN Climate Change Conference of the Parties (COP30) is now
     underway and, for the first time, the circular economy has a dedicated day The
@@ -104,32 +136,6 @@ articles:
   pub_date: '2025-11-11T18:29:00'
   source: Supply Chain 24/7
   title: How AI Is Revolutionizing Supply Chain Visibility and Predictive Logistics
-- category: supply-chain
-  description: Discover 10 essential lessons from leading warehouse operations on
-    how to implement and scale automation successfully. Learn how to boost throughput,
-    improve accuracy, engage teams, and build a sustai...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-10-warehouse-automation-lessons-real-world-insights-for-fulfillment-teams
-  pub_date: '2025-11-11T17:59:00'
-  source: Supply Chain 24/7
-  title: 'Top 10 Warehouse Automation Lessons: Real-World Insights for Fulfillment
-    Teams'
-- category: supply-chain
-  description: Locus CEO Nishith Rastogi shares how the company's new partnership
-    with IKEA is using AI to make deliveries faster, greener, and more reliable.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ikea-locus-ai-last-mile-delivery
-  pub_date: '2025-11-11T11:43:00'
-  source: Supply Chain 24/7
-  title: Locus CEO Nishith Rastogi Discusses IKEA Deal, Future of Delivery
-- category: supply-chain
-  description: Schneider's new Fast Track service delivers truck-like speed and reliability
-    for intermodal freight across the U.S. and Mexico.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/schneider-fast-track-intermodal-freight
-  pub_date: '2025-11-11T11:42:00'
-  source: Supply Chain 24/7
-  title: Schneider Launches Fast Track to Increase Speed of Intermodal Freight
 - category: circular
   description: 'New research reveals that almost all councils are struggling with
     a rise in illegal dumping. The post ''Major Problem'': Keep Britain Tidy urges
@@ -140,16 +146,6 @@ articles:
   source: Circular Online
   title: '‘Major Problem’: Keep Britain Tidy urges crackdown on rogue waste operators
     as fly-tipping surges'
-- category: supply-chain
-  description: Discover how customized EDI and API integrations streamline shipper
-    and 3PL communication, improve freight visibility, and optimize supply chain performance
-    with SMC.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/seamless-supply-chain-integration-how-edi-and-api-solutions-drive-logistics-efficiency
-  pub_date: '2025-11-10T19:13:00'
-  source: Supply Chain 24/7
-  title: 'Seamless Supply Chain Integration: How EDI and API Solutions Drive Logistics
-    Efficiency'
 - category: circular
   description: A London-based company has secured over GBP1.3 million to scale production
     of its smart food-waste bin, which automatically weighs discarded food and reports
@@ -177,4 +173,4 @@ articles:
   pub_date: '2025-11-07T10:29:09'
   source: Circular Online
   title: UK DMO appoints Russell Davies as CEO
-last_updated: '2025-11-13T17:03:51.531583'
+last_updated: '2025-11-14T06:30:48.228654'
