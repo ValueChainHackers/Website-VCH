@@ -1,5 +1,23 @@
 articles:
 - category: machine-learning
+  description: Google Opal is a no-code, experimental tool from Google Labs. It is
+    designed to enable users to build and share AI-powered micro-applications using
+    natural language.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-ai-automations-with-google-opal
+  pub_date: '2025-11-14T15:00:49'
+  source: KDnuggets
+  title: Building AI Automations with Google Opal
+- category: machine-learning
+  description: Five Python scripts to make everyday data engineering tasks faster
+    and more consistent. They offer quick, practical solutions that fit easily into
+    existing workflows.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-for-busy-data-engineers
+  pub_date: '2025-11-14T13:00:24'
+  source: KDnuggets
+  title: 5 Useful Python Scripts for Busy Data Engineers
+- category: machine-learning
   description: This article uncovers how to harness Dask for scalable data processing,
     even under limited hardware constraints.This article uncovers how to harness Dask
     for scalable data processing, even under limit...
@@ -93,14 +111,6 @@ articles:
   pub_date: '2025-11-11T15:18:01'
   source: KDnuggets
   title: Top 7 ChatGPT Alternatives You Can Try For Free
-- category: machine-learning
-  description: A practical guide to building reliable data pipelines that stay up
-    and running. Learn what breaks them and how to avoid it.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-complete-guide-to-building-data-pipelines-that-dont-break
-  pub_date: '2025-11-11T15:00:24'
-  source: KDnuggets
-  title: The Complete Guide to Building Data Pipelines That Don’t Break
 - category: ai-research
   description: Video sharing the future of AI & Learning with examples from classrooms
     from around the world
@@ -117,15 +127,6 @@ articles:
   pub_date: '2025-11-11T05:00:00'
   source: MIT AI News
   title: Understanding the nuances of human-like intelligence
-- category: machine-learning
-  description: The GIL is finally being dismantled. The implications aren't just technical;
-    they're cultural. This shift could redefine how we write, scale, and even think
-    about Python in the modern era.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-does-the-end-of-gil-mean-for-python
-  pub_date: '2025-11-10T17:00:48'
-  source: KDnuggets
-  title: What Does the End of GIL Mean for Python?
 - category: ai-research
   description: Rowandale Primary School teacher assisting two primary school students
     working on laptops at a classroom table.
@@ -250,4 +251,4 @@ articles:
   pub_date: '2025-10-22T19:25:00'
   source: MIT AI News
   title: Five with MIT ties elected to National Academy of Medicine for 2025
-last_updated: '2025-11-14T06:30:49.458709'
+last_updated: '2025-11-15T06:28:03.849251'

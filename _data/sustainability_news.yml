@@ -1,5 +1,22 @@
 articles:
 - category: supply-chain
+  description: Blank sailings on U.S.-China and other major trade routes are finally
+    easing after months of tariff-driven volatility, project44 says.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/blank-sailings-ease-as-tariff-pressure-shifts
+  pub_date: '2025-11-14T13:00:00'
+  source: Supply Chain 24/7
+  title: After Months of Turmoil, China–U.S. Blank Sailings Settle Down
+- category: circular
+  description: Turnover in Europe's plastics recycling industry has entered its 'sharpest
+    decline', Plastic Recyclers Europe says, with turnover down 5.5%. The post 'Deepening
+    crisis' for plastic recycling industry ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/deepening-crisis-for-plastic-recycling-industry-with-turnover-down-5-5/
+  pub_date: '2025-11-14T09:20:13'
+  source: Circular Online
+  title: ‘Deepening crisis’ for plastic recycling industry with turnover down 5.5%
+- category: supply-chain
   description: Toyota opened its $13.9 billion North Carolina battery plant and confirmed
     plans to invest up to $10 billion in U.S. manufacturing.
   icon: fa-box
@@ -7,14 +24,6 @@ articles:
   pub_date: '2025-11-13T14:39:00'
   source: Supply Chain 24/7
   title: Toyota Opens North Carolina Battery Plant, Confirms $10B U.S. Spend
-- category: supply-chain
-  description: Blank sailings on U.S.-China and other major trade routes are finally
-    easing after months of tariff-driven volatility, project44 says.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/blank-sailings-ease-as-tariff-pressure-shifts
-  pub_date: '2025-11-13T14:10:00'
-  source: Supply Chain 24/7
-  title: After Months of Turmoil, China–U.S. Blank Sailing Settle Down
 - category: supply-chain
   description: Novartis is ramping up U.S. production of radioligand cancer therapies
     with a new facility in California as part of a $23 billion domestic investment.
@@ -164,13 +173,4 @@ articles:
   pub_date: '2025-11-10T08:00:00'
   source: Circular Online
   title: UK waste wood market remains under significant pressure, says WRA
-- category: circular
-  description: The UK Deposit Management Organisation (UK DMO) has appointed Russell
-    Davies as its Chief Executive Officer. The post UK DMO appoints Russell Davies
-    as CEO appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-dmo-appoints-russell-davies-as-ceo/
-  pub_date: '2025-11-07T10:29:09'
-  source: Circular Online
-  title: UK DMO appoints Russell Davies as CEO
-last_updated: '2025-11-14T06:30:48.228654'
+last_updated: '2025-11-15T06:28:02.476262'
