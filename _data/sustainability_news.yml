@@ -1,5 +1,54 @@
 articles:
 - category: supply-chain
+  description: FedEx now uses sustainable aviation fuel at Chicago O'Hare and Miami,
+    marking a new step in bringing SAF into mainstream cargo operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-saf-chicago-miami-cargo-fuel-expansion
+  pub_date: '2025-11-17T19:56:00'
+  source: Supply Chain 24/7
+  title: FedEx Launches Cleaner Fuel Program at Chicago and Miami Airports
+- category: supply-chain
+  description: C.H. Robinson is expanding its border network with a new 450,000-square-foot
+    facility in El Paso to support rising U.S.-Mexico trade.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ch-robinson-expands-el-paso-cross-border-operations
+  pub_date: '2025-11-17T17:00:00'
+  source: Supply Chain 24/7
+  title: C.H. Robinson Expands El Paso Hub as Mexico Trade Surges
+- category: supply-chain
+  description: Six simple warehouse changes can save time, reduce steps, and keep
+    daily work moving without big new investments.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/six-small-warehouse-changes-that-save-time
+  pub_date: '2025-11-17T14:04:00'
+  source: Supply Chain 24/7
+  title: Six Ways To Improve Warehouse Efficiency Without Breaking the Bank
+- category: supply-chain
+  description: Uber Freight is expanding its last-mile delivery network by partnering
+    with Better Trucks, giving shippers faster home delivery and more national coverage.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/uber-freight-better-trucks-last-mile-partnership
+  pub_date: '2025-11-17T13:10:00'
+  source: Supply Chain 24/7
+  title: Uber Freight Expands Last-Mile Reach With New Better Trucks Deal
+- category: supply-chain
+  description: A new survey shows most European shippers expect disruptions to last
+    through 2027 and are shifting sourcing, partnerships, and tools to stay ahead.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/europe-supply-chain-survey-disruptions-2027
+  pub_date: '2025-11-17T12:22:00'
+  source: Supply Chain 24/7
+  title: European Shippers Expect Disruptions to Last Two More Years
+- category: circular
+  description: Hubbub is launching its new interactive bin that gamifies waste disposal
+    by inviting people to vote with their rubbish. The post Traitors or faithful?
+    Hubbub voting bin trial cuts litter by 70% appear...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/traitors-or-faithful-hubbub-voting-bin-trial-cuts-litter-by-70/
+  pub_date: '2025-11-17T10:49:02'
+  source: Circular Online
+  title: Traitors or faithful? Hubbub voting bin trial cuts litter by 70%
+- category: supply-chain
   description: Blank sailings on U.S.-China and other major trade routes are finally
     easing after months of tariff-driven volatility, project44 says.
   icon: fa-box
@@ -66,31 +115,6 @@ articles:
   pub_date: '2025-11-12T15:20:00'
   source: Supply Chain 24/7
   title: California, Texas Ranked Top States for Small Business Impact
-- category: supply-chain
-  description: The Ports of Los Angeles and Long Beach approved a new agreement with
-    air regulators to reach zero-emission operations by 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ports-los-angeles-long-beach-zero-emissions-2029
-  pub_date: '2025-11-12T14:18:00'
-  source: Supply Chain 24/7
-  title: Ports of Los Angeles and Long Beach Commit to Zero Emissions by 2029
-- category: supply-chain
-  description: FAA flight reductions are adding short-term pressure to domestic air
-    cargo networks as logistics firms work to keep supply chains moving.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/shutdown-may-be-ending-but-air-cargo-problems-remain
-  pub_date: '2025-11-12T14:17:00'
-  source: Supply Chain 24/7
-  title: Shutdown May Be Ending, but Air Cargo Problems Remain
-- category: supply-chain
-  description: MHI and Oxford Economics report that the U.S. material handling industry
-    now contributes $266 billion to the economy and supports more than 1.9 million
-    jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/mhi-material-handling-266-billion-impact
-  pub_date: '2025-11-12T13:18:00'
-  source: Supply Chain 24/7
-  title: Material Handling Industry Contributes $266 Billion to U.S. Economy
 - category: circular
   description: The Environment Secretary has confirmed the government's Circular Economy
     Strategy, which was expected in October, has been delayed until 2026. The post
@@ -127,24 +151,6 @@ articles:
   pub_date: '2025-11-12T09:36:37'
   source: Circular Online
   title: Plastics firm fined £277,500 after fatal machinery accident
-- category: supply-chain
-  description: Older container ships are outperforming newer fleets on emissions,
-    showing that smart operations matter more than ship age when it comes to cutting
-    carbon.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/older-container-ships-running-cleaner-than-new-fleets
-  pub_date: '2025-11-11T21:16:00'
-  source: Supply Chain 24/7
-  title: Older Container Ships Are Running Cleaner Than New Fleets
-- category: supply-chain
-  description: Discover how artificial intelligence unifies WMS, ERP, and IoT data
-    to predict disruptions, automate decisions, and create fully transparent, intelligent
-    supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-ai-is-revolutionizing-supply-chain-visibility-and-predictive-logistics
-  pub_date: '2025-11-11T18:29:00'
-  source: Supply Chain 24/7
-  title: How AI Is Revolutionizing Supply Chain Visibility and Predictive Logistics
 - category: circular
   description: 'New research reveals that almost all councils are struggling with
     a rise in illegal dumping. The post ''Major Problem'': Keep Britain Tidy urges
@@ -164,13 +170,4 @@ articles:
   pub_date: '2025-11-10T11:23:34'
   source: Circular Online
   title: London company secures £1.3m to scale smart food-waste bin
-- category: circular
-  description: The UK waste wood market remains 'under significant pressure', with
-    stockpiles of material still reported across the UK, the Wood Recyclers' Association
-    (WRA) says. The post UK waste wood market remai...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-waste-wood-market-remains-under-significant-pressure-says-wra/
-  pub_date: '2025-11-10T08:00:00'
-  source: Circular Online
-  title: UK waste wood market remains under significant pressure, says WRA
-last_updated: '2025-11-17T06:31:54.415259'
+last_updated: '2025-11-18T06:30:45.403392'

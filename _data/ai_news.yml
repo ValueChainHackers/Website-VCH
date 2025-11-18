@@ -1,4 +1,53 @@
 articles:
+- category: ai-research
+  description: Google's deep investments in American technical infrastructure, R&D
+    and the workforce will help the U.S. continue to lead the world in AI.
+  icon: fa-google
+  link: https://blog.google/inside-google/company-announcements/investing-in-america-2025/
+  pub_date: '2025-11-17T20:00:00'
+  source: Google AI Blog
+  title: Investing in America 2025
+- category: ai-research
+  description: Illustration showing the AI Mode search bar with the query "Help me
+    plan a trip"
+  icon: fa-google
+  link: https://blog.google/products/search/agentic-plans-booking-travel-canvas-ai-mode/
+  pub_date: '2025-11-17T17:00:00'
+  source: Google AI Blog
+  title: New ways to plan travel with AI in Search
+- category: machine-learning
+  description: This step-by-step tutorial walks you through building your own RAG
+    system.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch
+  pub_date: '2025-11-17T15:00:21'
+  source: KDnuggets
+  title: 7 Steps to Build a Simple RAG System from Scratch
+- category: ai-research
+  description: A global map projection showing humidity levels from the WeatherNext
+    2 weather forecasting model, with blue indicating low humidity and yellow-orange
+    indicating high humidity, particularly clustered a...
+  icon: fa-google
+  link: https://blog.google/technology/google-deepmind/weathernext-2/
+  pub_date: '2025-11-17T15:00:00'
+  source: Google AI Blog
+  title: 'WeatherNext 2: Our most advanced weather forecasting model'
+- category: machine-learning
+  description: Hands-on projects to help beginners understand how machines read, understand,
+    generate, and translate human language.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-fun-nlp-projects-for-absolute-beginners
+  pub_date: '2025-11-17T13:00:24'
+  source: KDnuggets
+  title: 5 Fun NLP Projects for Absolute Beginners
+- category: ai-research
+  description: New funding from Google will help launch a regional Data Commons for
+    Africa.
+  icon: fa-google
+  link: https://blog.google/technology/ai/ai-ready-data-in-africa/
+  pub_date: '2025-11-17T08:30:00'
+  source: Google AI Blog
+  title: Google is committing $2.25 million to support AI-ready data in Africa.
 - category: machine-learning
   description: Google Opal is a no-code, experimental tool from Google Labs. It is
     designed to enable users to build and share AI-powered micro-applications using
@@ -92,25 +141,6 @@ articles:
   pub_date: '2025-11-11T17:00:00'
   source: Google AI Blog
   title: 6 new things you can do with AI in Google Photos
-- category: machine-learning
-  description: Transitioning from reactive hustle to proactive structure by building
-    simple, repeatable processes. If you are looking for practical ways to get started
-    in the shift from hustle to structure, this art...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/dp6e0ebt#new_tab
-  pub_date: '2025-11-11T15:18:49'
-  source: KDnuggets
-  title: 'From Hustle to Structure: How to Build Repeatable Processes in Your Business
-    (Sponsored)'
-- category: machine-learning
-  description: Here are the free ChatGPT alternatives I genuinely recommend. They
-    are fast, reliable, and useful for research, coding, brainstorming, and creative
-    work.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-chatgpt-alternatives-you-can-try-for-free
-  pub_date: '2025-11-11T15:18:01'
-  source: KDnuggets
-  title: Top 7 ChatGPT Alternatives You Can Try For Free
 - category: ai-research
   description: Video sharing the future of AI & Learning with examples from classrooms
     from around the world
@@ -161,30 +191,6 @@ articles:
   source: MIT AI News
   title: Charting the future of AI, from safer answers to faster thinking
 - category: ai-research
-  description: An image showing different format files going into the Gemini API and
-    the API outputting vectors
-  icon: fa-google
-  link: https://blog.google/technology/developers/file-search-gemini-api/
-  pub_date: '2025-11-06T18:00:00'
-  source: Google AI Blog
-  title: Introducing the File Search Tool in Gemini API
-- category: ai-research
-  description: Abstract illustration depicting elements of the Google Finance user
-    interface
-  icon: fa-google
-  link: https://blog.google/products/search/new-google-finance-ai-deep-search/
-  pub_date: '2025-11-06T17:00:00'
-  source: Google AI Blog
-  title: Google Finance adds AI features for research, earnings and more
-- category: ai-research
-  description: A smiling female teacher leans over and points at a laptop screen,
-    engaging with three young female students who are also smiling in a classroom.
-  icon: fa-google
-  link: https://blog.google/outreach-initiatives/education/ai-and-learning/
-  pub_date: '2025-11-06T17:00:00'
-  source: Google AI Blog
-  title: 'AI and learning: A new chapter for students and educators'
-- category: ai-research
   description: The coding framework uses modular concepts and simple synchronization
     rules to make software clearer, safer, and easier for LLMs to generate.
   icon: fa-graduation-cap
@@ -192,14 +198,6 @@ articles:
   pub_date: '2025-11-06T13:00:00'
   source: MIT AI News
   title: MIT researchers propose a new model for legible, modular software
-- category: ai-research
-  description: Image with black and blue background with an example JSON Schema code
-    snippet and the Gemini logo sparkle
-  icon: fa-google
-  link: https://blog.google/technology/developers/gemini-api-structured-outputs/
-  pub_date: '2025-11-05T17:00:00'
-  source: Google AI Blog
-  title: Improving Structured Outputs in the Gemini API
 - category: ai-research
   description: A new approach developed at MIT could help a search-and-rescue robot
     navigate an unpredictable environment by rapidly generating an accurate map of
@@ -251,4 +249,4 @@ articles:
   pub_date: '2025-10-22T19:25:00'
   source: MIT AI News
   title: Five with MIT ties elected to National Academy of Medicine for 2025
-last_updated: '2025-11-17T06:31:55.562591'
+last_updated: '2025-11-18T06:30:46.443531'
