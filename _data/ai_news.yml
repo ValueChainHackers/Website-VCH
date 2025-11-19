@@ -1,5 +1,72 @@
 articles:
 - category: ai-research
+  description: The virtual VideoCAD tool could boost designers' productivity and help
+    train engineers learning computer-aided design.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/new-ai-agent-learns-use-cad-create-3d-objects-sketches-1119
+  pub_date: '2025-11-19T05:00:00'
+  source: MIT AI News
+  title: New AI agent learns to use CAD to create 3D objects from sketches
+- category: machine-learning
+  description: This infographic illustrates what sets these agents apart, how they
+    operate, and why they represent a foundational leap for AI.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/decoding-agentic-ai-the-rise-of-autonomous-systems
+  pub_date: '2025-11-18T17:30:40'
+  source: KDnuggets
+  title: 'Decoding Agentic AI: The Rise of Autonomous Systems'
+- category: ai-research
+  description: Industry leaders agree collaboration is key to advancing critical technologies.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-energy-initiative-conference-1118
+  pub_date: '2025-11-18T17:10:00'
+  source: MIT AI News
+  title: MIT Energy Initiative conference spotlights research priorities amidst a
+    changing energy landscape
+- category: machine-learning
+  description: Want to level up your data skills? Check out these 5 free books that
+    explain data science clearly and practically.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-data-scientist
+  pub_date: '2025-11-18T16:30:02'
+  source: KDnuggets
+  title: The 5 FREE Must-Read Books for Every Data Scientist
+- category: ai-research
+  description: An image showing a title card and two visual components from the product
+    interface. The top-left visual is a soft-gradient screen showing an abstract,
+    multi-colored network graph or data visualization...
+  icon: fa-google
+  link: https://blog.google/products/search/gemini-3-search-ai-mode/
+  pub_date: '2025-11-18T16:00:00'
+  source: Google AI Blog
+  title: 'Google Search with Gemini 3: Our most intelligent search yet'
+- category: ai-research
+  description: Gemini 3 logo in front of a black background with the number 3 in blue
+    dots
+  icon: fa-google
+  link: https://blog.google/products/gemini/gemini-3/
+  pub_date: '2025-11-18T16:00:00'
+  source: Google AI Blog
+  title: A new era of intelligence with Gemini 3
+- category: machine-learning
+  description: A structured approach can make any data science project easier to handle.
+    This guide breaks it down into five practical steps to take you from problem definition
+    to results.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/a-5-step-guide-to-tackling-almost-any-data-science-project
+  pub_date: '2025-11-18T15:30:28'
+  source: KDnuggets
+  title: A 5-Step Guide to Tackling (Almost) Any Data Science Project
+- category: machine-learning
+  description: The new million-dollar question for cybersecurity doesn't have anything
+    to do with fending off the latest type of attack or adopting yet another AI-powered
+    tool.
+  icon: fa-chart-bar
+  link: https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech
+  pub_date: '2025-11-18T14:53:50'
+  source: KDnuggets
+  title: Build or Buy Your Cybersecurity? Weighing the Pros and Cons (Sponsored)
+- category: ai-research
   description: Google's deep investments in American technical infrastructure, R&D
     and the workforce will help the U.S. continue to lead the world in AI.
   icon: fa-google
@@ -92,22 +159,6 @@ articles:
   pub_date: '2025-11-13T08:00:00'
   source: Google AI Blog
   title: Google Pixel and Golden Goose partner to  bring AI to global ateliers
-- category: machine-learning
-  description: The goal of an "everything" notebook in NotebookLM is having your entire
-    professional memory instantly accessible and understandable.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-benefits-of-an-everything-notebook-in-notebooklm
-  pub_date: '2025-11-12T15:00:36'
-  source: KDnuggets
-  title: The Benefits of an “Everything” Notebook in NotebookLM
-- category: machine-learning
-  description: A handpicked list of free reads that teach you the science, logic,
-    and real-world side of artificial intelligence.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-ai-engineer
-  pub_date: '2025-11-12T13:00:28'
-  source: KDnuggets
-  title: The 5 FREE Must-Read Books for Every AI Engineer
 - category: ai-research
   description: 'Private AI Compute infographic: Secured data flow from mobile device
     to Gemini Models and Google TPU.'
@@ -116,23 +167,6 @@ articles:
   pub_date: '2025-11-11T19:00:00'
   source: Google AI Blog
   title: 'Private AI Compute: our next step in building private and helpful AI'
-- category: machine-learning
-  description: If you're ready to move from simply managing data to making an impact
-    with it, this program will give you the tools, confidence, and vision to lead
-    in the evolving world of data science.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2025/11/baypath/transform-raw-data-into-real-impact
-  pub_date: '2025-11-11T18:00:46'
-  source: KDnuggets
-  title: Transform Raw Data Into Real Impact
-- category: machine-learning
-  description: Learn to create an intelligent email automation system that analyzes,
-    scores, and routes messages based on priority.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-a-gmail-inbox-management-agent-in-n8n
-  pub_date: '2025-11-11T17:00:04'
-  source: KDnuggets
-  title: Building a Gmail Inbox Management Agent in n8n
 - category: ai-research
   description: Image with the Google Photos logo and the words Edit, Create and Search
     with visuals of different AI features.
@@ -158,14 +192,6 @@ articles:
   source: MIT AI News
   title: Understanding the nuances of human-like intelligence
 - category: ai-research
-  description: Rowandale Primary School teacher assisting two primary school students
-    working on laptops at a classroom table.
-  icon: fa-google
-  link: https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/
-  pub_date: '2025-11-10T09:00:00'
-  source: Google AI Blog
-  title: How AI is giving Northern Ireland teachers time back
-- category: ai-research
   description: MIT faculty and MITEI member company experts address power demand from
     data centers.
   icon: fa-graduation-cap
@@ -173,15 +199,6 @@ articles:
   pub_date: '2025-11-07T19:55:00'
   source: MIT AI News
   title: MIT Energy Initiative launches Data Center Power Forum
-- category: ai-research
-  description: AI is creating new opportunities for Oklahomans to learn, grow and
-    succeed. Google is committed to making sure the Sooner State is not just ready
-    for this transformation...
-  icon: fa-google
-  link: https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/
-  pub_date: '2025-11-07T19:00:00'
-  source: Google AI Blog
-  title: Google is investing in Oklahoma’s workforce and talent pipeline.
 - category: ai-research
   description: MIT PhD students who interned with the MIT-IBM Watson AI Lab Summer
     Program are pushing AI tools to be more flexible, efficient, and grounded in truth.
@@ -232,21 +249,4 @@ articles:
   pub_date: '2025-11-03T05:00:00'
   source: MIT AI News
   title: A faster problem-solving tool that guarantees feasibility
-- category: ai-research
-  description: PhD student Miranda Schwacke explores how computing inspired by the
-    human brain can fuel energy-efficient artificial intelligence.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/brain-power-behind-sustainable-ai-miranda-schwacke-1024
-  pub_date: '2025-10-24T04:00:00'
-  source: MIT AI News
-  title: The brain power behind sustainable AI
-- category: ai-research
-  description: Professors Facundo Batista and Dina Katabi, along with three additional
-    MIT alumni, are honored for their outstanding professional achievement and commitment
-    to service.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-affiliates-elected-national-academy-medicine-1022
-  pub_date: '2025-10-22T19:25:00'
-  source: MIT AI News
-  title: Five with MIT ties elected to National Academy of Medicine for 2025
-last_updated: '2025-11-18T06:30:46.443531'
+last_updated: '2025-11-19T06:30:54.254892'
