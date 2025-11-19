@@ -1,5 +1,72 @@
 articles:
 - category: supply-chain
+  description: Reshoring is accelerating as tariffs shake global supply chains, but
+    U.S. manufacturers still face a long road to consistent, large-scale production.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/qa-andrei-quinn-barabanov
+  pub_date: '2025-11-18T17:31:00'
+  source: Supply Chain 24/7
+  title: Reshoring Echoes the ’90s, But U.S. Supply Chains Aren’t Ready Yet
+- category: supply-chain
+  description: Toyota is investing $912 million across five U.S. plants to boost hybrid
+    production and produce hybrid Corollas in the U.S. for the first time.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/toyota-expands-us-hybrid-production-912-million
+  pub_date: '2025-11-18T16:25:00'
+  source: Supply Chain 24/7
+  title: West Virginia Leads Toyota’s $912 Million U.S. Hybrid Expansion
+- category: supply-chain
+  description: Transportation leaders say AI helped them manage fuel costs and freight
+    challenges during peak season, and many are already seeing returns.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-helps-shippers-manage-peak-season-2025
+  pub_date: '2025-11-18T15:47:00'
+  source: Supply Chain 24/7
+  title: Almost Half of Shippers Say AI Helped Save Their Peak Season
+- category: supply-chain
+  description: Gartner says autonomous planning is moving past hype and toward real
+    value but warns that culture change and trust in AI are essential.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-autonomous-planning-ai-hype-cycle-2025
+  pub_date: '2025-11-18T15:02:00'
+  source: Supply Chain 24/7
+  title: 'Gartner: Autonomous Planning Is Finally Moving Past the Hype'
+- category: supply-chain
+  description: A new Blue Yonder survey shows holiday shoppers want fast, affordable
+    shipping, but low confidence in delivery timing is pushing them to shop much earlier.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/holiday-shoppers-shift-delivery-expectations-2025
+  pub_date: '2025-11-18T14:54:00'
+  source: Supply Chain 24/7
+  title: 'Survey: Shoppers Buying Early Because They Expect Delivery Delays'
+- category: circular
+  description: A team of early-career sustainability innovators have been named the
+    winner of CIWM's first academic hackathon, taking the top spot with a proposal
+    for a circular DRS for clothing. The post Students w...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/students-win-ciwm-hackathon-with-circular-deposit-return-scheme-for-clothing/
+  pub_date: '2025-11-18T13:41:02'
+  source: Circular Online
+  title: Students win CIWM Hackathon with circular deposit return scheme for clothing
+- category: circular
+  description: Drone footage shows scale of waste, which has been branded an 'environmental
+    disaster' by the local MP. The post 150-metre fly-tipping mountain in Oxford branded
+    an 'environmental disaster' appeared f...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/150-metre-fly-tipping-mountain-in-oxford-branded-an-environmental-disaster/
+  pub_date: '2025-11-18T09:10:27'
+  source: Circular Online
+  title: 150-metre fly-tipping mountain in Oxford branded an ‘environmental disaster’
+- category: circular
+  description: The dispute between refuse workers and Birmingham City Council is set
+    to run well into 2026 as agency workers vote to join the strike action The post
+    Agency workers join Birmingham bin strikes as disp...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/agency-workers-join-birmingham-bin-strikes-as-dispute-set-to-run-into-2026/
+  pub_date: '2025-11-18T07:30:00'
+  source: Circular Online
+  title: Agency workers join Birmingham bin strikes as dispute set to run into 2026
+- category: supply-chain
   description: FedEx now uses sustainable aviation fuel at Chicago O'Hare and Miami,
     marking a new step in bringing SAF into mainstream cargo operations.
   icon: fa-box
@@ -24,6 +91,15 @@ articles:
   source: Supply Chain 24/7
   title: Six Ways To Improve Warehouse Efficiency Without Breaking the Bank
 - category: supply-chain
+  description: Most fleets use routing software - but few unlock its full potential.
+    Learn how to optimize your routes, cut costs, and stop leaving millions in savings
+    on the table.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-to-maximize-roi-from-your-private-fleet-routing-software
+  pub_date: '2025-11-17T13:57:00'
+  source: Supply Chain 24/7
+  title: How to Maximize ROI from Your Private Fleet Routing Software
+- category: supply-chain
   description: Uber Freight is expanding its last-mile delivery network by partnering
     with Better Trucks, giving shippers faster home delivery and more national coverage.
   icon: fa-box
@@ -31,14 +107,6 @@ articles:
   pub_date: '2025-11-17T13:10:00'
   source: Supply Chain 24/7
   title: Uber Freight Expands Last-Mile Reach With New Better Trucks Deal
-- category: supply-chain
-  description: A new survey shows most European shippers expect disruptions to last
-    through 2027 and are shifting sourcing, partnerships, and tools to stay ahead.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/europe-supply-chain-survey-disruptions-2027
-  pub_date: '2025-11-17T12:22:00'
-  source: Supply Chain 24/7
-  title: European Shippers Expect Disruptions to Last Two More Years
 - category: circular
   description: Hubbub is launching its new interactive bin that gamifies waste disposal
     by inviting people to vote with their rubbish. The post Traitors or faithful?
@@ -48,14 +116,6 @@ articles:
   pub_date: '2025-11-17T10:49:02'
   source: Circular Online
   title: Traitors or faithful? Hubbub voting bin trial cuts litter by 70%
-- category: supply-chain
-  description: Blank sailings on U.S.-China and other major trade routes are finally
-    easing after months of tariff-driven volatility, project44 says.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/blank-sailings-ease-as-tariff-pressure-shifts
-  pub_date: '2025-11-14T13:00:00'
-  source: Supply Chain 24/7
-  title: After Months of Turmoil, China–U.S. Blank Sailings Settle Down
 - category: circular
   description: Turnover in Europe's plastics recycling industry has entered its 'sharpest
     decline', Plastic Recyclers Europe says, with turnover down 5.5%. The post 'Deepening
@@ -65,30 +125,6 @@ articles:
   pub_date: '2025-11-14T09:20:13'
   source: Circular Online
   title: ‘Deepening crisis’ for plastic recycling industry with turnover down 5.5%
-- category: supply-chain
-  description: Toyota opened its $13.9 billion North Carolina battery plant and confirmed
-    plans to invest up to $10 billion in U.S. manufacturing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/toyota-north-carolina-battery-plant-10b-us-investment
-  pub_date: '2025-11-13T14:39:00'
-  source: Supply Chain 24/7
-  title: Toyota Opens North Carolina Battery Plant, Confirms $10B U.S. Spend
-- category: supply-chain
-  description: Novartis is ramping up U.S. production of radioligand cancer therapies
-    with a new facility in California as part of a $23 billion domestic investment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/novartis-opens-rlt-manufacturing-facility-california
-  pub_date: '2025-11-13T13:06:00'
-  source: Supply Chain 24/7
-  title: Novartis Opens New Manufacturing Site in Carlsbad, California
-- category: supply-chain
-  description: Maersk has opened a new ground freight and linehaul hub in Lake City,
-    Georgia, to move shipments faster across the Southeast.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-opens-lake-city-georgia-freight-hub
-  pub_date: '2025-11-13T13:05:00'
-  source: Supply Chain 24/7
-  title: Maersk Opens New Lake City, GA Hub to Speed Freight Across Southeast
 - category: circular
   description: The 30th UN Climate Change Conference of the Parties (COP30) is now
     underway and, for the first time, the circular economy has a dedicated day The
@@ -107,14 +143,6 @@ articles:
   pub_date: '2025-11-13T09:22:47'
   source: Circular Online
   title: Ecosurety acquires City to Sea’s Refill Return programmes
-- category: supply-chain
-  description: Supplier.io's new report ranks the top industries and states driving
-    U.S. small business growth, with construction and California leading the way.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-states-industries-small-business-growth-2025
-  pub_date: '2025-11-12T15:20:00'
-  source: Supply Chain 24/7
-  title: California, Texas Ranked Top States for Small Business Impact
 - category: circular
   description: The Environment Secretary has confirmed the government's Circular Economy
     Strategy, which was expected in October, has been delayed until 2026. The post
@@ -142,32 +170,4 @@ articles:
   pub_date: '2025-11-12T10:35:54'
   source: Circular Online
   title: Recycling company must pay £90,000 for breaking waste permit
-- category: circular
-  description: A plastics conversion company has been fined GBP277,500 after a man
-    died when he became trapped in the moving parts of an unguarded machine. The post
-    Plastics firm fined GBP277,500 after fatal machine...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/plastics-firm-fined-277500-after-fatal-machinery-accident/
-  pub_date: '2025-11-12T09:36:37'
-  source: Circular Online
-  title: Plastics firm fined £277,500 after fatal machinery accident
-- category: circular
-  description: 'New research reveals that almost all councils are struggling with
-    a rise in illegal dumping. The post ''Major Problem'': Keep Britain Tidy urges
-    crackdown on rogue waste operators as fly-tipping surges ...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/major-problem-keep-britain-tidy-urges-crackdown-on-rogue-waste-operators-as-fly-tipping-surges/
-  pub_date: '2025-11-11T09:48:22'
-  source: Circular Online
-  title: '‘Major Problem’: Keep Britain Tidy urges crackdown on rogue waste operators
-    as fly-tipping surges'
-- category: circular
-  description: A London-based company has secured over GBP1.3 million to scale production
-    of its smart food-waste bin, which automatically weighs discarded food and reports
-    carbon emissions. The post London company ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/london-company-secures-1-3m-to-scale-smart-food-waste-bin/
-  pub_date: '2025-11-10T11:23:34'
-  source: Circular Online
-  title: London company secures £1.3m to scale smart food-waste bin
-last_updated: '2025-11-18T06:30:45.403392'
+last_updated: '2025-11-19T06:30:51.639111'
