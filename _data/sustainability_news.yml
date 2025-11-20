@@ -1,5 +1,75 @@
 articles:
 - category: supply-chain
+  description: MHI forecasts 2026 as the year supply chains move from reacting to
+    problems to actively preparing for them, with AI, workforce gaps, and risk management
+    leading the way.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-trends-2026-mhi-report
+  pub_date: '2025-11-19T14:21:00'
+  source: Supply Chain 24/7
+  title: Nine Supply Chain Trends That Will Shape 2026
+- category: supply-chain
+  description: Newmark's Q3 report shows tariffs have shifted every four days this
+    year, creating what one Moody's analyst called "tariff fog" for supply chain leaders.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tariffs-changing-every-four-days-2025
+  pub_date: '2025-11-19T14:18:00'
+  source: Supply Chain 24/7
+  title: Tariffs Changing Every Four Days in 2025, Report Finds
+- category: supply-chain
+  description: A comprehensive playbook can help makers of regulated products ready
+    their supply chains before a new rule goes into effect.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-manufacturers-should-prepare-their-supply-chains-for-new-fda-regulations
+  pub_date: '2025-11-19T13:18:00'
+  source: Supply Chain 24/7
+  title: How Manufacturers Should Prepare Their Supply Chains for New FDA Regulations
+- category: supply-chain
+  description: Rockwell Automation plans to build a major new manufacturing site in
+    Southeastern Wisconsin as part of a $2 billion U.S. investment plan.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rockwell-expands-manufacturing-with-new-wisconsin-site
+  pub_date: '2025-11-19T13:07:00'
+  source: Supply Chain 24/7
+  title: Rockwell Plans Major Manufacturing Site in Southeastern Wisconsin
+- category: supply-chain
+  description: AExI is emerging as an alternative to general-purpose AI in pharma
+    supply chains by leveraging domain-trained agents that make safer, more precise
+    operational decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/expert-ai-pharma-supply-chains
+  pub_date: '2025-11-19T10:13:00'
+  source: Supply Chain 24/7
+  title: Could Artificial Expert Intelligence Fix Pharma’s Supply Chain Gaps?
+- category: circular
+  description: Plastic wet wipes are set to be banned in Spring 2027, the UK Government
+    has announced. The post Plastic wet wipes to be banned from 2027 appeared first
+    on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/plastic-wet-wipes-to-be-banned-from-2027/
+  pub_date: '2025-11-19T09:44:08'
+  source: Circular Online
+  title: Plastic wet wipes to be banned from 2027
+- category: circular
+  description: Over 20,000 cans and plastic bottles were recycled as part of a campus
+    deposit return scheme (DRS) trial between Coca-Cola and New College Lanarkshire.
+    As part of a trial launched in September this ye...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/20000-bottles-and-cans-recycled-in-coca-cola-deposit-return-trial/
+  pub_date: '2025-11-19T09:15:09'
+  source: Circular Online
+  title: 20,000 bottles and cans recycled in Coca-Cola deposit return trial
+- category: circular
+  description: A father and son have been given suspended prison sentences for illegally
+    importing, processing and burning waste at two sites in Derbyshire. The post Father
+    and son given suspended prison sentences f...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/father-and-son-given-suspended-prison-sentences-for-running-an-illegal-waste-site/
+  pub_date: '2025-11-19T08:42:47'
+  source: Circular Online
+  title: Father and son given suspended prison sentences for running an illegal waste
+    site
+- category: supply-chain
   description: Reshoring is accelerating as tariffs shake global supply chains, but
     U.S. manufacturers still face a long road to consistent, large-scale production.
   icon: fa-box
@@ -66,47 +136,6 @@ articles:
   pub_date: '2025-11-18T07:30:00'
   source: Circular Online
   title: Agency workers join Birmingham bin strikes as dispute set to run into 2026
-- category: supply-chain
-  description: FedEx now uses sustainable aviation fuel at Chicago O'Hare and Miami,
-    marking a new step in bringing SAF into mainstream cargo operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-saf-chicago-miami-cargo-fuel-expansion
-  pub_date: '2025-11-17T19:56:00'
-  source: Supply Chain 24/7
-  title: FedEx Launches Cleaner Fuel Program at Chicago and Miami Airports
-- category: supply-chain
-  description: C.H. Robinson is expanding its border network with a new 450,000-square-foot
-    facility in El Paso to support rising U.S.-Mexico trade.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ch-robinson-expands-el-paso-cross-border-operations
-  pub_date: '2025-11-17T17:00:00'
-  source: Supply Chain 24/7
-  title: C.H. Robinson Expands El Paso Hub as Mexico Trade Surges
-- category: supply-chain
-  description: Six simple warehouse changes can save time, reduce steps, and keep
-    daily work moving without big new investments.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/six-small-warehouse-changes-that-save-time
-  pub_date: '2025-11-17T14:04:00'
-  source: Supply Chain 24/7
-  title: Six Ways To Improve Warehouse Efficiency Without Breaking the Bank
-- category: supply-chain
-  description: Most fleets use routing software - but few unlock its full potential.
-    Learn how to optimize your routes, cut costs, and stop leaving millions in savings
-    on the table.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-to-maximize-roi-from-your-private-fleet-routing-software
-  pub_date: '2025-11-17T13:57:00'
-  source: Supply Chain 24/7
-  title: How to Maximize ROI from Your Private Fleet Routing Software
-- category: supply-chain
-  description: Uber Freight is expanding its last-mile delivery network by partnering
-    with Better Trucks, giving shippers faster home delivery and more national coverage.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/uber-freight-better-trucks-last-mile-partnership
-  pub_date: '2025-11-17T13:10:00'
-  source: Supply Chain 24/7
-  title: Uber Freight Expands Last-Mile Reach With New Better Trucks Deal
 - category: circular
   description: Hubbub is launching its new interactive bin that gamifies waste disposal
     by inviting people to vote with their rubbish. The post Traitors or faithful?
@@ -143,31 +172,4 @@ articles:
   pub_date: '2025-11-13T09:22:47'
   source: Circular Online
   title: Ecosurety acquires City to Sea’s Refill Return programmes
-- category: circular
-  description: The Environment Secretary has confirmed the government's Circular Economy
-    Strategy, which was expected in October, has been delayed until 2026. The post
-    Circular Economy Strategy delayed until 2026 ap...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/circular-economy-strategy-delayed-until-2026/
-  pub_date: '2025-11-12T12:37:23'
-  source: Circular Online
-  title: Circular Economy Strategy delayed until 2026
-- category: circular
-  description: A new report by the UK Health Security Agency has found that climate
-    change is negatively affecting mental health in the UK today. The report by the
-    UK Health Security Agency (UKHSA), a government age...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/climate-change-negatively-affecting-mental-health-report-finds/
-  pub_date: '2025-11-12T11:29:25'
-  source: Circular Online
-  title: Climate change negatively affecting mental health, report finds
-- category: circular
-  description: Johnsons Aggregates and Recycling in Derbyshire must pay GBP90,000
-    after pleading guilty to breaking its environmental permit. The post Recycling
-    company must pay GBP90,000 for breaking waste permit a...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/recycling-company-must-pay-90000-for-breaking-waste-permit/
-  pub_date: '2025-11-12T10:35:54'
-  source: Circular Online
-  title: Recycling company must pay £90,000 for breaking waste permit
-last_updated: '2025-11-19T06:30:51.639111'
+last_updated: '2025-11-20T06:30:10.304731'
