@@ -1,5 +1,47 @@
 articles:
 - category: ai-research
+  description: MIT neuroscientists find a surprising parallel in the ways humans and
+    new AI models solve complex problems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/cost-of-thinking-1119
+  pub_date: '2025-11-19T21:45:00'
+  source: MIT AI News
+  title: The cost of thinking
+- category: machine-learning
+  description: In today's data-saturated world, simply being "data-driven" isn't enough.
+    The most successful organizations are those that translate data, analytics, and
+    AI into measurable business outcomes-creating ...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/gartner/unlock-business-value-build-a-data-analytics-strategy-that-delivers
+  pub_date: '2025-11-19T18:00:16'
+  source: KDnuggets
+  title: 'Unlock Business Value: Build a Data & Analytics Strategy That Delivers'
+- category: machine-learning
+  description: Zapier Automations connect your favorite tools and services so that
+    routine tasks don't eat into your day.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/an-introduction-to-zapier-automations-for-data-scientists
+  pub_date: '2025-11-19T15:00:04'
+  source: KDnuggets
+  title: An Introduction to Zapier Automations for Data Scientists
+- category: machine-learning
+  description: Writing readable Python functions doesn't have to be difficult. This
+    guide shows simple beginner-friendly techniques to make your code clear, consistent,
+    and easy for others to understand.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-write-readable-python-functions-even-if-youre-a-beginner
+  pub_date: '2025-11-19T13:00:27'
+  source: KDnuggets
+  title: How to Write Readable Python Functions Even If You’re a Beginner
+- category: ai-research
+  description: From AI education to disaster response, see how collaboration is at
+    the heart of the work at Google Research.
+  icon: fa-google
+  link: https://blog.google/technology/research/ai-collaboration-poland-2025/
+  pub_date: '2025-11-19T09:00:00'
+  source: Google AI Blog
+  title: At our Research@ Poland event we shared how AI is helping us solve big challenges.
+- category: ai-research
   description: The virtual VideoCAD tool could boost designers' productivity and help
     train engineers learning computer-aided design.
   icon: fa-graduation-cap
@@ -124,33 +166,6 @@ articles:
   pub_date: '2025-11-14T15:00:49'
   source: KDnuggets
   title: Building AI Automations with Google Opal
-- category: machine-learning
-  description: Five Python scripts to make everyday data engineering tasks faster
-    and more consistent. They offer quick, practical solutions that fit easily into
-    existing workflows.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-for-busy-data-engineers
-  pub_date: '2025-11-14T13:00:24'
-  source: KDnuggets
-  title: 5 Useful Python Scripts for Busy Data Engineers
-- category: machine-learning
-  description: This article uncovers how to harness Dask for scalable data processing,
-    even under limited hardware constraints.This article uncovers how to harness Dask
-    for scalable data processing, even under limit...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/processing-large-datasets-with-dask-and-scikit-learn
-  pub_date: '2025-11-13T15:00:29'
-  source: KDnuggets
-  title: Processing Large Datasets with Dask and Scikit-learn
-- category: machine-learning
-  description: I have a complicated love-hate relationship with AI agentic coding.
-    Today, I will share my experiences with top-performing AI-agentic coding CLI tools,
-    providing a fully automated developer experience...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-agentic-coding-cli-tools
-  pub_date: '2025-11-13T13:00:56'
-  source: KDnuggets
-  title: Top 5 Agentic Coding CLI Tools
 - category: ai-research
   description: A triptych showing details of a Golden Goose and Google Gemini co-creation
     experience, including tools, a phone, store window display, and sneaker customization.
@@ -175,14 +190,6 @@ articles:
   pub_date: '2025-11-11T17:00:00'
   source: Google AI Blog
   title: 6 new things you can do with AI in Google Photos
-- category: ai-research
-  description: Video sharing the future of AI & Learning with examples from classrooms
-    from around the world
-  icon: fa-google
-  link: https://blog.google/outreach-initiatives/education/ai-learning-commitments/
-  pub_date: '2025-11-11T09:00:00'
-  source: Google AI Blog
-  title: Our latest commitments in AI and learning
 - category: ai-research
   description: Associate Professor Phillip Isola studies the ways in which intelligent
     machines "think," in an effort to safely integrate AI into human society.
@@ -241,12 +248,4 @@ articles:
   pub_date: '2025-11-03T20:55:00'
   source: MIT AI News
   title: '3 Questions: How AI is helping us monitor and support vulnerable ecosystems'
-- category: ai-research
-  description: The FSNet system, developed at MIT, could help power grid operators
-    rapidly find feasible solutions for optimizing the flow of electricity.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/faster-problem-solving-tool-guarantees-feasibility-1103
-  pub_date: '2025-11-03T05:00:00'
-  source: MIT AI News
-  title: A faster problem-solving tool that guarantees feasibility
-last_updated: '2025-11-19T06:30:54.254892'
+last_updated: '2025-11-20T06:30:15.090961'
