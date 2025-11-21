@@ -1,5 +1,76 @@
 articles:
 - category: ai-research
+  description: A Gemini chat shares a diagram of a plant cell with various labels
+    that are then shown in more detail in a side panel. Each label is highlighted
+    and you can use the side panel to delve deeper.
+  icon: fa-google
+  link: https://blog.google/outreach-initiatives/education/gemini-interactive-images/
+  pub_date: '2025-11-20T20:30:00'
+  source: Google AI Blog
+  title: Develop a deeper understanding with interactive images in Gemini.
+- category: machine-learning
+  description: Turning scattered information across production-line machines and systems
+    into meaningful insights that help teams drive efficiency and competitiveness
+    without increasing overhead costs.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/damcosolutions/how-data-engineering-can-power-manufacturing-industry-transformation
+  pub_date: '2025-11-20T18:00:45'
+  source: KDnuggets
+  title: How Data Engineering Can Power Manufacturing Industry Transformation
+- category: machine-learning
+  description: Here are the top 5 SQL patterns tested in FAANG data science interviews.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-sql-patterns-from-faang-data-science-interviews-with-code
+  pub_date: '2025-11-20T17:00:27'
+  source: KDnuggets
+  title: Top SQL Patterns from FAANG Data Science Interviews (with Code)
+- category: machine-learning
+  description: Data cleaning doesn't always require Python or Excel. Learn how simple
+    command-line tools can help you clean datasets faster and more efficiently.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/data-cleaning-at-the-command-line-for-beginner-data-scientists
+  pub_date: '2025-11-20T15:00:19'
+  source: KDnuggets
+  title: Data Cleaning at the Command Line for Beginner Data Scientists
+- category: ai-research
+  description: Golden retriever catching frisbee over water. UI overlay shows Google
+    AI watermark detected.
+  icon: fa-google
+  link: https://blog.google/technology/ai/ai-image-verification-gemini-app/
+  pub_date: '2025-11-20T15:00:00'
+  source: Google AI Blog
+  title: How we’re bringing AI image verification to the Gemini app
+- category: ai-research
+  description: Image with multiple input-output images with the text Build with Nano
+    Banana Pro in the center
+  icon: fa-google
+  link: https://blog.google/technology/developers/gemini-3-pro-image-developers/
+  pub_date: '2025-11-20T15:00:00'
+  source: Google AI Blog
+  title: Build with Nano Banana Pro, our Gemini 3 Pro Image model
+- category: ai-research
+  description: Nano Banana Pro with generated images around it
+  icon: fa-google
+  link: https://blog.google/technology/ai/nano-banana-pro/
+  pub_date: '2025-11-20T15:00:00'
+  source: Google AI Blog
+  title: Introducing Nano Banana Pro
+- category: ai-research
+  description: Nuclear power plant with sunrise in the background
+  icon: fa-google
+  link: https://blog.google/products/google-cloud/westinghouse/
+  pub_date: '2025-11-20T14:00:00'
+  source: Google AI Blog
+  title: How Westinghouse is reenergizing nuclear power with — and for — AI
+- category: machine-learning
+  description: Check out three use cases for NotebookLM that go beyond the expected
+    functionality of generating FAQs, study guides, or basic summaries.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-unexpected-uses-for-notebooklm
+  pub_date: '2025-11-20T13:00:16'
+  source: KDnuggets
+  title: 3 Unexpected Uses for NotebookLM
+- category: ai-research
   description: MIT neuroscientists find a surprising parallel in the ways humans and
     new AI models solve complex problems.
   icon: fa-graduation-cap
@@ -99,15 +170,6 @@ articles:
   pub_date: '2025-11-18T15:30:28'
   source: KDnuggets
   title: A 5-Step Guide to Tackling (Almost) Any Data Science Project
-- category: machine-learning
-  description: The new million-dollar question for cybersecurity doesn't have anything
-    to do with fending off the latest type of attack or adopting yet another AI-powered
-    tool.
-  icon: fa-chart-bar
-  link: https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech
-  pub_date: '2025-11-18T14:53:50'
-  source: KDnuggets
-  title: Build or Buy Your Cybersecurity? Weighing the Pros and Cons (Sponsored)
 - category: ai-research
   description: Google's deep investments in American technical infrastructure, R&D
     and the workforce will help the U.S. continue to lead the world in AI.
@@ -124,72 +186,6 @@ articles:
   pub_date: '2025-11-17T17:00:00'
   source: Google AI Blog
   title: New ways to plan travel with AI in Search
-- category: machine-learning
-  description: This step-by-step tutorial walks you through building your own RAG
-    system.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch
-  pub_date: '2025-11-17T15:00:21'
-  source: KDnuggets
-  title: 7 Steps to Build a Simple RAG System from Scratch
-- category: ai-research
-  description: A global map projection showing humidity levels from the WeatherNext
-    2 weather forecasting model, with blue indicating low humidity and yellow-orange
-    indicating high humidity, particularly clustered a...
-  icon: fa-google
-  link: https://blog.google/technology/google-deepmind/weathernext-2/
-  pub_date: '2025-11-17T15:00:00'
-  source: Google AI Blog
-  title: 'WeatherNext 2: Our most advanced weather forecasting model'
-- category: machine-learning
-  description: Hands-on projects to help beginners understand how machines read, understand,
-    generate, and translate human language.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-fun-nlp-projects-for-absolute-beginners
-  pub_date: '2025-11-17T13:00:24'
-  source: KDnuggets
-  title: 5 Fun NLP Projects for Absolute Beginners
-- category: ai-research
-  description: New funding from Google will help launch a regional Data Commons for
-    Africa.
-  icon: fa-google
-  link: https://blog.google/technology/ai/ai-ready-data-in-africa/
-  pub_date: '2025-11-17T08:30:00'
-  source: Google AI Blog
-  title: Google is committing $2.25 million to support AI-ready data in Africa.
-- category: machine-learning
-  description: Google Opal is a no-code, experimental tool from Google Labs. It is
-    designed to enable users to build and share AI-powered micro-applications using
-    natural language.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-ai-automations-with-google-opal
-  pub_date: '2025-11-14T15:00:49'
-  source: KDnuggets
-  title: Building AI Automations with Google Opal
-- category: ai-research
-  description: A triptych showing details of a Golden Goose and Google Gemini co-creation
-    experience, including tools, a phone, store window display, and sneaker customization.
-  icon: fa-google
-  link: https://blog.google/products/pixel/google-pixel-and-golden-goose-partner-to-bring-ai-to-global-ateliers/
-  pub_date: '2025-11-13T08:00:00'
-  source: Google AI Blog
-  title: Google Pixel and Golden Goose partner to  bring AI to global ateliers
-- category: ai-research
-  description: 'Private AI Compute infographic: Secured data flow from mobile device
-    to Gemini Models and Google TPU.'
-  icon: fa-google
-  link: https://blog.google/technology/ai/google-private-ai-compute/
-  pub_date: '2025-11-11T19:00:00'
-  source: Google AI Blog
-  title: 'Private AI Compute: our next step in building private and helpful AI'
-- category: ai-research
-  description: Image with the Google Photos logo and the words Edit, Create and Search
-    with visuals of different AI features.
-  icon: fa-google
-  link: https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/
-  pub_date: '2025-11-11T17:00:00'
-  source: Google AI Blog
-  title: 6 new things you can do with AI in Google Photos
 - category: ai-research
   description: Associate Professor Phillip Isola studies the ways in which intelligent
     machines "think," in an effort to safely integrate AI into human society.
@@ -248,4 +244,4 @@ articles:
   pub_date: '2025-11-03T20:55:00'
   source: MIT AI News
   title: '3 Questions: How AI is helping us monitor and support vulnerable ecosystems'
-last_updated: '2025-11-20T06:30:15.090961'
+last_updated: '2025-11-21T06:32:03.477056'
