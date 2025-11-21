@@ -1,5 +1,67 @@
 articles:
 - category: supply-chain
+  description: Discover the top supply chain trends shaping 2025-from tariffs and
+    AI adoption to sustainability, labor challenges, and shifting consumer expectations.
+    Learn how companies can close the trust gap, enh...
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/state-of-the-supply-chain-2025-key-trends-consumer-expectations-industry-challenges
+  pub_date: '2025-11-20T17:29:00'
+  source: Supply Chain 24/7
+  title: 'State of the Supply Chain 2025: Key Trends, Consumer Expectations & Industry
+    Challenges'
+- category: supply-chain
+  description: A new report from NYC Comptroller says the delivery boom is fueling
+    more crashes, pollution, and unsafe jobs, especially in communities of color.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nyc-delivery-report-worker-safety-traffic-pollution
+  pub_date: '2025-11-20T17:18:00'
+  source: Supply Chain 24/7
+  title: New York City’s Delivery Boom Is Leading to More Crashes and Injuries
+- category: supply-chain
+  description: A new Exotec survey shows most warehouse workers now welcome automation
+    because it makes their jobs safer, easier, and less stressful.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-workers-respond-to-automation-survey
+  pub_date: '2025-11-20T15:46:00'
+  source: Supply Chain 24/7
+  title: Warehouse Workers Say Automation Makes the Job Easier and Safer
+- category: supply-chain
+  description: Gartner released its 2025 Healthcare Supply Chain Top 25 ranking, with
+    AdventHealth taking the top spot for the second year in a row.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-2025-healthcare-supply-chain-top-25-rankings
+  pub_date: '2025-11-20T12:57:00'
+  source: Supply Chain 24/7
+  title: Gartner Reveals Top 25 Healthcare Supply Chain Rankings for 2025
+- category: supply-chain
+  description: A new ISC2 survey shows most companies worry about supply chain cyber
+    risk but still struggle to see and manage it.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/seven-in-ten-companies-say-supply-chain-cyber-risk-is-a-major-worry
+  pub_date: '2025-11-20T11:08:00'
+  source: Supply Chain 24/7
+  title: Seven in Ten Companies Say Supply Chain Cyber Risk Is a Major Worry
+- category: circular
+  description: CIWM pushes back against the Circular Economy Minister's statement
+    that the government inherited 'a whole system failure in the waste industry'.
+    The post CIWM challenges Defra minister's claim of 'who...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-challenges-defra-ministers-claim-of-whole-system-failure-in-waste-sector/
+  pub_date: '2025-11-20T09:53:46'
+  source: Circular Online
+  title: CIWM challenges Defra minister’s claim of ‘whole system failure’ in waste
+    sector
+- category: supply-chain
+  description: Discover how modern Freight Audit and Payment (FAP) programs go beyond
+    invoice processing to deliver deeper visibility, data-driven insights, and measurable
+    cost savings. Learn how analytics and trans...
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/unlocking-the-strategic-value-of-freight-audit-and-payment-how-analytics-and-consulting-reduce-transportation-costs
+  pub_date: '2025-11-19T20:04:00'
+  source: Supply Chain 24/7
+  title: 'Unlocking the Strategic Value of Freight Audit and Payment: How Analytics
+    and Consulting Reduce Transportation Costs'
+- category: supply-chain
   description: MHI forecasts 2026 as the year supply chains move from reacting to
     problems to actively preparing for them, with AI, workforce gaps, and risk management
     leading the way.
@@ -32,15 +94,6 @@ articles:
   pub_date: '2025-11-19T13:07:00'
   source: Supply Chain 24/7
   title: Rockwell Plans Major Manufacturing Site in Southeastern Wisconsin
-- category: supply-chain
-  description: AExI is emerging as an alternative to general-purpose AI in pharma
-    supply chains by leveraging domain-trained agents that make safer, more precise
-    operational decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/expert-ai-pharma-supply-chains
-  pub_date: '2025-11-19T10:13:00'
-  source: Supply Chain 24/7
-  title: Could Artificial Expert Intelligence Fix Pharma’s Supply Chain Gaps?
 - category: circular
   description: Plastic wet wipes are set to be banned in Spring 2027, the UK Government
     has announced. The post Plastic wet wipes to be banned from 2027 appeared first
@@ -69,46 +122,6 @@ articles:
   source: Circular Online
   title: Father and son given suspended prison sentences for running an illegal waste
     site
-- category: supply-chain
-  description: Reshoring is accelerating as tariffs shake global supply chains, but
-    U.S. manufacturers still face a long road to consistent, large-scale production.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/qa-andrei-quinn-barabanov
-  pub_date: '2025-11-18T17:31:00'
-  source: Supply Chain 24/7
-  title: Reshoring Echoes the ’90s, But U.S. Supply Chains Aren’t Ready Yet
-- category: supply-chain
-  description: Toyota is investing $912 million across five U.S. plants to boost hybrid
-    production and produce hybrid Corollas in the U.S. for the first time.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/toyota-expands-us-hybrid-production-912-million
-  pub_date: '2025-11-18T16:25:00'
-  source: Supply Chain 24/7
-  title: West Virginia Leads Toyota’s $912 Million U.S. Hybrid Expansion
-- category: supply-chain
-  description: Transportation leaders say AI helped them manage fuel costs and freight
-    challenges during peak season, and many are already seeing returns.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-helps-shippers-manage-peak-season-2025
-  pub_date: '2025-11-18T15:47:00'
-  source: Supply Chain 24/7
-  title: Almost Half of Shippers Say AI Helped Save Their Peak Season
-- category: supply-chain
-  description: Gartner says autonomous planning is moving past hype and toward real
-    value but warns that culture change and trust in AI are essential.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-autonomous-planning-ai-hype-cycle-2025
-  pub_date: '2025-11-18T15:02:00'
-  source: Supply Chain 24/7
-  title: 'Gartner: Autonomous Planning Is Finally Moving Past the Hype'
-- category: supply-chain
-  description: A new Blue Yonder survey shows holiday shoppers want fast, affordable
-    shipping, but low confidence in delivery timing is pushing them to shop much earlier.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/holiday-shoppers-shift-delivery-expectations-2025
-  pub_date: '2025-11-18T14:54:00'
-  source: Supply Chain 24/7
-  title: 'Survey: Shoppers Buying Early Because They Expect Delivery Delays'
 - category: circular
   description: A team of early-career sustainability innovators have been named the
     winner of CIWM's first academic hackathon, taking the top spot with a proposal
@@ -163,13 +176,4 @@ articles:
   pub_date: '2025-11-13T10:20:07'
   source: Circular Online
   title: COP30 marks first-ever circular economy day as global climate talks intensify
-- category: circular
-  description: Ecosurety has acquired refill and reuse assets from the environmental
-    campaigning organisation City to Sea, which is closing its operations. The post
-    Ecosurety acquires City to Sea's Refill Return pro...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ecosurety-acquires-city-to-seas-refill-return-programmes/
-  pub_date: '2025-11-13T09:22:47'
-  source: Circular Online
-  title: Ecosurety acquires City to Sea’s Refill Return programmes
-last_updated: '2025-11-20T06:30:10.304731'
+last_updated: '2025-11-21T06:31:48.270436'
