@@ -1,5 +1,30 @@
 articles:
 - category: ai-research
+  description: An illustrated overhead view of people sitting around a red table with
+    a roasted turkey in the center, and various plates surrounding. Various Google
+    product icons are incorporated in the image.
+  icon: fa-google
+  link: https://blog.google/products/pixel/google-holiday-hosting-tips-2024/
+  pub_date: '2025-11-21T16:00:00'
+  source: Google AI Blog
+  title: 16 Google AI tips for stress-free holiday hosting in 2025
+- category: machine-learning
+  description: Simple Git, zero overwhelm, just enough to stop Claude from accidently
+    deleting your code and database.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/git-for-vibe-coders
+  pub_date: '2025-11-21T15:00:59'
+  source: KDnuggets
+  title: Git for Vibe Coders
+- category: machine-learning
+  description: Stop sending your code to OpenAI or Anthropic. Run these 7 top-tier
+    open-source coding models locally for privacy, control, and zero API costs.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-open-source-ai-coding-models-you-are-missing-out-on
+  pub_date: '2025-11-21T13:00:54'
+  source: KDnuggets
+  title: Top 7 Open Source AI Coding Models You Are Missing Out On
+- category: ai-research
   description: A Gemini chat shares a diagram of a plant cell with various labels
     that are then shown in more detail in a side panel. Each label is highlighted
     and you can use the side panel to delve deeper.
@@ -136,14 +161,6 @@ articles:
   source: MIT AI News
   title: MIT Energy Initiative conference spotlights research priorities amidst a
     changing energy landscape
-- category: machine-learning
-  description: Want to level up your data skills? Check out these 5 free books that
-    explain data science clearly and practically.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-data-scientist
-  pub_date: '2025-11-18T16:30:02'
-  source: KDnuggets
-  title: The 5 FREE Must-Read Books for Every Data Scientist
 - category: ai-research
   description: An image showing a title card and two visual components from the product
     interface. The top-left visual is a soft-gradient screen showing an abstract,
@@ -161,15 +178,6 @@ articles:
   pub_date: '2025-11-18T16:00:00'
   source: Google AI Blog
   title: A new era of intelligence with Gemini 3
-- category: machine-learning
-  description: A structured approach can make any data science project easier to handle.
-    This guide breaks it down into five practical steps to take you from problem definition
-    to results.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/a-5-step-guide-to-tackling-almost-any-data-science-project
-  pub_date: '2025-11-18T15:30:28'
-  source: KDnuggets
-  title: A 5-Step Guide to Tackling (Almost) Any Data Science Project
 - category: ai-research
   description: Google's deep investments in American technical infrastructure, R&D
     and the workforce will help the U.S. continue to lead the world in AI.
@@ -178,14 +186,6 @@ articles:
   pub_date: '2025-11-17T20:00:00'
   source: Google AI Blog
   title: Investing in America 2025
-- category: ai-research
-  description: Illustration showing the AI Mode search bar with the query "Help me
-    plan a trip"
-  icon: fa-google
-  link: https://blog.google/products/search/agentic-plans-booking-travel-canvas-ai-mode/
-  pub_date: '2025-11-17T17:00:00'
-  source: Google AI Blog
-  title: New ways to plan travel with AI in Search
 - category: ai-research
   description: Associate Professor Phillip Isola studies the ways in which intelligent
     machines "think," in an effort to safely integrate AI into human society.
@@ -244,4 +244,4 @@ articles:
   pub_date: '2025-11-03T20:55:00'
   source: MIT AI News
   title: '3 Questions: How AI is helping us monitor and support vulnerable ecosystems'
-last_updated: '2025-11-21T06:32:03.477056'
+last_updated: '2025-11-22T06:27:40.623943'
