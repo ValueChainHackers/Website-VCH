@@ -1,5 +1,54 @@
 articles:
 - category: supply-chain
+  description: In 2026, manufacturing success will depend on how well companies understand
+    and support real buyer behavior.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-2026-buyer-expectations
+  pub_date: '2025-11-21T17:30:00'
+  source: Supply Chain 24/7
+  title: Manufacturers Need More Than AI, They Need Buyer Connection
+- category: supply-chain
+  description: Maersk is moving its North American headquarters to Charlotte, bringing
+    520 jobs and a $16 million investment as part of its U.S. expansion.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-charlotte-north-american-hq
+  pub_date: '2025-11-21T16:14:00'
+  source: Supply Chain 24/7
+  title: Maersk Picks Charlotte As North American Headquarters
+- category: supply-chain
+  description: Blank sailings are becoming a regular part of ocean shipping strategy,
+    leaving shippers dealing with delays, rerouting, and tighter planning windows.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-101-blank-sailing
+  pub_date: '2025-11-21T14:30:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain 101: What Blank Sailings Mean for Shippers'
+- category: supply-chain
+  description: 'Leadership Lessons: Marina Ivanov shares her journey from a childhood
+    in Ukraine to becoming Founder and CEO of Apex Transit.'
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-marina-ivanov-apex-transit
+  pub_date: '2025-11-21T14:20:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Marina Ivanov of Apex Transit'
+- category: supply-chain
+  description: A new AMERIPEN report shows five million metric tons of packaging have
+    been cut since 2019, reshaping shipping, sourcing, and supply chain operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/packaging-industry-cuts-five-million-tons-report-details
+  pub_date: '2025-11-21T14:15:00'
+  source: Supply Chain 24/7
+  title: Report Finds Five Million Tons of Packaging Removed Since 2019
+- category: circular
+  description: Over the past year, six people - three working in the waste sector
+    and three members of the public - suffered fatal injuries, according to Health
+    and Safety Executive statistics. The post HSE statisti...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/hse-statistics-show-there-were-6-fatalities-in-waste-sector-over-past-year/
+  pub_date: '2025-11-21T09:22:16'
+  source: Circular Online
+  title: HSE statistics show there were 6 fatalities in waste sector over past year
+- category: supply-chain
   description: Discover the top supply chain trends shaping 2025-from tariffs and
     AI adoption to sustainability, labor challenges, and shifting consumer expectations.
     Learn how companies can close the trust gap, enh...
@@ -32,7 +81,7 @@ articles:
   link: https://www.supplychain247.com/article/gartner-2025-healthcare-supply-chain-top-25-rankings
   pub_date: '2025-11-20T12:57:00'
   source: Supply Chain 24/7
-  title: Gartner Reveals Top 25 Healthcare Supply Chain Rankings for 2025
+  title: Top 25 Healthcare Supply Chain Rankings for 2025
 - category: supply-chain
   description: A new ISC2 survey shows most companies worry about supply chain cyber
     risk but still struggle to see and manage it.
@@ -51,49 +100,6 @@ articles:
   source: Circular Online
   title: CIWM challenges Defra minister’s claim of ‘whole system failure’ in waste
     sector
-- category: supply-chain
-  description: Discover how modern Freight Audit and Payment (FAP) programs go beyond
-    invoice processing to deliver deeper visibility, data-driven insights, and measurable
-    cost savings. Learn how analytics and trans...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/unlocking-the-strategic-value-of-freight-audit-and-payment-how-analytics-and-consulting-reduce-transportation-costs
-  pub_date: '2025-11-19T20:04:00'
-  source: Supply Chain 24/7
-  title: 'Unlocking the Strategic Value of Freight Audit and Payment: How Analytics
-    and Consulting Reduce Transportation Costs'
-- category: supply-chain
-  description: MHI forecasts 2026 as the year supply chains move from reacting to
-    problems to actively preparing for them, with AI, workforce gaps, and risk management
-    leading the way.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-trends-2026-mhi-report
-  pub_date: '2025-11-19T14:21:00'
-  source: Supply Chain 24/7
-  title: Nine Supply Chain Trends That Will Shape 2026
-- category: supply-chain
-  description: Newmark's Q3 report shows tariffs have shifted every four days this
-    year, creating what one Moody's analyst called "tariff fog" for supply chain leaders.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tariffs-changing-every-four-days-2025
-  pub_date: '2025-11-19T14:18:00'
-  source: Supply Chain 24/7
-  title: Tariffs Changing Every Four Days in 2025, Report Finds
-- category: supply-chain
-  description: A comprehensive playbook can help makers of regulated products ready
-    their supply chains before a new rule goes into effect.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-manufacturers-should-prepare-their-supply-chains-for-new-fda-regulations
-  pub_date: '2025-11-19T13:18:00'
-  source: Supply Chain 24/7
-  title: How Manufacturers Should Prepare Their Supply Chains for New FDA Regulations
-- category: supply-chain
-  description: Rockwell Automation plans to build a major new manufacturing site in
-    Southeastern Wisconsin as part of a $2 billion U.S. investment plan.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/rockwell-expands-manufacturing-with-new-wisconsin-site
-  pub_date: '2025-11-19T13:07:00'
-  source: Supply Chain 24/7
-  title: Rockwell Plans Major Manufacturing Site in Southeastern Wisconsin
 - category: circular
   description: Plastic wet wipes are set to be banned in Spring 2027, the UK Government
     has announced. The post Plastic wet wipes to be banned from 2027 appeared first
@@ -167,13 +173,4 @@ articles:
   pub_date: '2025-11-14T09:20:13'
   source: Circular Online
   title: ‘Deepening crisis’ for plastic recycling industry with turnover down 5.5%
-- category: circular
-  description: The 30th UN Climate Change Conference of the Parties (COP30) is now
-    underway and, for the first time, the circular economy has a dedicated day The
-    post COP30 marks first-ever circular economy day as g...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/cop30-marks-first-ever-circular-economy-day-as-global-climate-talks-intensify/
-  pub_date: '2025-11-13T10:20:07'
-  source: Circular Online
-  title: COP30 marks first-ever circular economy day as global climate talks intensify
-last_updated: '2025-11-21T06:31:48.270436'
+last_updated: '2025-11-22T06:27:39.692007'
