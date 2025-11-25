@@ -1,5 +1,64 @@
 articles:
 - category: supply-chain
+  description: A coalition of 28 organizations has formed United for Autonomy to push
+    for a federal autonomous vehicle policy that supports safety and innovation.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/federal-av-policy-united-for-autonomy
+  pub_date: '2025-11-24T15:39:00'
+  source: Supply Chain 24/7
+  title: New Coalition Pushes for Federal Rules on Autonomous Vehicles
+- category: circular
+  description: French water management, waste management and energy services group
+    Veolia has acquired the U.S.-based hazardous waste company Clean Earth for 2.6bn.
+    In what it called its biggest acquisition since it...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/veolia-acquires-u-s-hazardous-waste-company-clean-earth-for-e2-6bn/
+  pub_date: '2025-11-24T14:51:45'
+  source: Circular Online
+  title: Veolia acquires U.S. hazardous waste company Clean Earth for €2.6bn
+- category: supply-chain
+  description: Walmart reported that more of its U.S. digital orders are being delivered
+    within three hours or less, with under-one-hour delivery emerging as its fastest-growing
+    channel.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-now-delivering-35-of-digital-orders-in-under-three-hours
+  pub_date: '2025-11-24T14:43:00'
+  source: Supply Chain 24/7
+  title: Walmart Now Delivering 35% of Digital Orders in Under Three Hours
+- category: supply-chain
+  description: Lucas Systems released a new pallet matching system designed to help
+    warehouse workers pick faster by assigning the best pallets in real time.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/lucas-systems-new-pick-to-pallet-tech
+  pub_date: '2025-11-24T14:26:00'
+  source: Supply Chain 24/7
+  title: Lucas Systems Unveils Smarter Pick-to-Pallet Tech for Warehouses
+- category: supply-chain
+  description: Companies are starting small with modular automation tools that help
+    warehouses close workload gaps without needing full facility projects.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/modular-warehouse-automation-strategies
+  pub_date: '2025-11-24T14:11:00'
+  source: Supply Chain 24/7
+  title: How to Set Up Warehouse Automation Without the Big Price Tag
+- category: supply-chain
+  description: The last mile is evolving rapidly, and logistics teams need better
+    visibility and tools that help people work more efficiently, not replace them.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/technology-shaping-last-mile-delivery-podcast
+  pub_date: '2025-11-24T12:17:00'
+  source: Supply Chain 24/7
+  title: Three Ways Technology Is Changing the Last Mile Delivery Game
+- category: circular
+  description: Who is responsible for several hundred tonnes of waste dumped near
+    the River Cherwell? Circular Online has spoken to the Environment Agency and waste
+    crime experts to break down the incident. The post...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/fly-tipping-mountain-in-kidlington-explained-what-happens-next/
+  pub_date: '2025-11-24T10:11:36'
+  source: Circular Online
+  title: 'Fly-tipping mountain in Kidlington explained: What happens next?'
+- category: supply-chain
   description: In 2026, manufacturing success will depend on how well companies understand
     and support real buyer behavior.
   icon: fa-box
@@ -48,48 +107,6 @@ articles:
   pub_date: '2025-11-21T09:22:16'
   source: Circular Online
   title: HSE statistics show there were 6 fatalities in waste sector over past year
-- category: supply-chain
-  description: Discover the top supply chain trends shaping 2025-from tariffs and
-    AI adoption to sustainability, labor challenges, and shifting consumer expectations.
-    Learn how companies can close the trust gap, enh...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/state-of-the-supply-chain-2025-key-trends-consumer-expectations-industry-challenges
-  pub_date: '2025-11-20T17:29:00'
-  source: Supply Chain 24/7
-  title: 'State of the Supply Chain 2025: Key Trends, Consumer Expectations & Industry
-    Challenges'
-- category: supply-chain
-  description: A new report from NYC Comptroller says the delivery boom is fueling
-    more crashes, pollution, and unsafe jobs, especially in communities of color.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nyc-delivery-report-worker-safety-traffic-pollution
-  pub_date: '2025-11-20T17:18:00'
-  source: Supply Chain 24/7
-  title: New York City’s Delivery Boom Is Leading to More Crashes and Injuries
-- category: supply-chain
-  description: A new Exotec survey shows most warehouse workers now welcome automation
-    because it makes their jobs safer, easier, and less stressful.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-workers-respond-to-automation-survey
-  pub_date: '2025-11-20T15:46:00'
-  source: Supply Chain 24/7
-  title: Warehouse Workers Say Automation Makes the Job Easier and Safer
-- category: supply-chain
-  description: Gartner released its 2025 Healthcare Supply Chain Top 25 ranking, with
-    AdventHealth taking the top spot for the second year in a row.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-2025-healthcare-supply-chain-top-25-rankings
-  pub_date: '2025-11-20T12:57:00'
-  source: Supply Chain 24/7
-  title: Top 25 Healthcare Supply Chain Rankings for 2025
-- category: supply-chain
-  description: A new ISC2 survey shows most companies worry about supply chain cyber
-    risk but still struggle to see and manage it.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/seven-in-ten-companies-say-supply-chain-cyber-risk-is-a-major-worry
-  pub_date: '2025-11-20T11:08:00'
-  source: Supply Chain 24/7
-  title: Seven in Ten Companies Say Supply Chain Cyber Risk Is a Major Worry
 - category: circular
   description: CIWM pushes back against the Circular Economy Minister's statement
     that the government inherited 'a whole system failure in the waste industry'.
@@ -155,22 +172,4 @@ articles:
   pub_date: '2025-11-18T07:30:00'
   source: Circular Online
   title: Agency workers join Birmingham bin strikes as dispute set to run into 2026
-- category: circular
-  description: Hubbub is launching its new interactive bin that gamifies waste disposal
-    by inviting people to vote with their rubbish. The post Traitors or faithful?
-    Hubbub voting bin trial cuts litter by 70% appear...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/traitors-or-faithful-hubbub-voting-bin-trial-cuts-litter-by-70/
-  pub_date: '2025-11-17T10:49:02'
-  source: Circular Online
-  title: Traitors or faithful? Hubbub voting bin trial cuts litter by 70%
-- category: circular
-  description: Turnover in Europe's plastics recycling industry has entered its 'sharpest
-    decline', Plastic Recyclers Europe says, with turnover down 5.5%. The post 'Deepening
-    crisis' for plastic recycling industry ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/deepening-crisis-for-plastic-recycling-industry-with-turnover-down-5-5/
-  pub_date: '2025-11-14T09:20:13'
-  source: Circular Online
-  title: ‘Deepening crisis’ for plastic recycling industry with turnover down 5.5%
-last_updated: '2025-11-24T06:32:15.083884'
+last_updated: '2025-11-25T06:32:48.318554'

@@ -1,5 +1,49 @@
 articles:
 - category: ai-research
+  description: AI supports the clean energy transition as it manages power grid operations,
+    helps plan infrastructure investments, guides development of novel materials,
+    and more.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124
+  pub_date: '2025-11-24T22:00:00'
+  source: MIT AI News
+  title: How artificial intelligence can help achieve a clean energy future
+- category: machine-learning
+  description: Abacus AI offers the world's first professional and enterprise AI Super
+    Assistant. It's an all-in-one AI platform for the top language, image, voic,e
+    and video models along with all the tooling and in...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/abacus/my-honest-take-on-abacus-ai-chatllm-deepagent-enterprise
+  pub_date: '2025-11-24T18:00:00'
+  source: KDnuggets
+  title: 'My Honest Review on Abacus AI: ChatLLM, DeepAgent & Enterprise'
+- category: machine-learning
+  description: Why write 10 lines of matplotlib code when Lux can show you what you
+    need in one click?
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/lux-pandas-auto-visualizations-for-lazy-analysts
+  pub_date: '2025-11-24T17:00:12'
+  source: KDnuggets
+  title: 'Lux + Pandas: Auto-Visualizations for Lazy Analysts'
+- category: machine-learning
+  description: Make.com enables data professionals to automate tedious tasks, such
+    as data collection and reporting, without coding, saving hours weekly and enhancing
+    accuracy.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/make-com-automations-for-saving-time-as-a-data-professional
+  pub_date: '2025-11-24T15:00:49'
+  source: KDnuggets
+  title: Make.com Automations for Saving Time as a Data Professional
+- category: machine-learning
+  description: This article walks through five container setups that consistently
+    help developers move from idea to experiment to deployment without fighting their
+    own toolchains.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-docker-containers-for-language-model-development
+  pub_date: '2025-11-24T13:00:49'
+  source: KDnuggets
+  title: 5 Docker Containers for Language Model Development
+- category: ai-research
   description: An illustrated overhead view of people sitting around a red table with
     a roasted turkey in the center, and various plates surrounding. Various Google
     product icons are incorporated in the image.
@@ -103,32 +147,6 @@ articles:
   pub_date: '2025-11-19T21:45:00'
   source: MIT AI News
   title: The cost of thinking
-- category: machine-learning
-  description: In today's data-saturated world, simply being "data-driven" isn't enough.
-    The most successful organizations are those that translate data, analytics, and
-    AI into measurable business outcomes-creating ...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2025/11/gartner/unlock-business-value-build-a-data-analytics-strategy-that-delivers
-  pub_date: '2025-11-19T18:00:16'
-  source: KDnuggets
-  title: 'Unlock Business Value: Build a Data & Analytics Strategy That Delivers'
-- category: machine-learning
-  description: Zapier Automations connect your favorite tools and services so that
-    routine tasks don't eat into your day.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/an-introduction-to-zapier-automations-for-data-scientists
-  pub_date: '2025-11-19T15:00:04'
-  source: KDnuggets
-  title: An Introduction to Zapier Automations for Data Scientists
-- category: machine-learning
-  description: Writing readable Python functions doesn't have to be difficult. This
-    guide shows simple beginner-friendly techniques to make your code clear, consistent,
-    and easy for others to understand.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-write-readable-python-functions-even-if-youre-a-beginner
-  pub_date: '2025-11-19T13:00:27'
-  source: KDnuggets
-  title: How to Write Readable Python Functions Even If You’re a Beginner
 - category: ai-research
   description: From AI education to disaster response, see how collaboration is at
     the heart of the work at Google Research.
@@ -145,14 +163,6 @@ articles:
   pub_date: '2025-11-19T05:00:00'
   source: MIT AI News
   title: New AI agent learns to use CAD to create 3D objects from sketches
-- category: machine-learning
-  description: This infographic illustrates what sets these agents apart, how they
-    operate, and why they represent a foundational leap for AI.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/decoding-agentic-ai-the-rise-of-autonomous-systems
-  pub_date: '2025-11-18T17:30:40'
-  source: KDnuggets
-  title: 'Decoding Agentic AI: The Rise of Autonomous Systems'
 - category: ai-research
   description: Industry leaders agree collaboration is key to advancing critical technologies.
   icon: fa-graduation-cap
@@ -235,13 +245,4 @@ articles:
   pub_date: '2025-11-03T21:45:00'
   source: MIT AI News
   title: Helping K-12 schools navigate the complex world of AI
-- category: ai-research
-  description: MIT PhD student and CSAIL researcher Justin Kay describes his work
-    combining AI and computer vision systems to monitor the ecosystems that support
-    our planet.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/3q-how-ai-is-helping-monitor-support-vulnerable-ecosystems-1103
-  pub_date: '2025-11-03T20:55:00'
-  source: MIT AI News
-  title: '3 Questions: How AI is helping us monitor and support vulnerable ecosystems'
-last_updated: '2025-11-24T06:32:15.872129'
+last_updated: '2025-11-25T06:32:49.131512'
