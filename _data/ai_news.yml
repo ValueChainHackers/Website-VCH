@@ -1,5 +1,80 @@
 articles:
 - category: ai-research
+  description: Large language models can learn to mistakenly link certain sentence
+    patterns with specific topics - and may then repeat these patterns instead of
+    reasoning.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/shortcoming-makes-llms-less-reliable-1126
+  pub_date: '2025-11-26T05:00:00'
+  source: MIT AI News
+  title: Researchers discover a shortcoming that makes LLMs less reliable
+- category: ai-research
+  description: 'Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3
+    on the Google AI: Release Notes podcast.'
+  icon: fa-google
+  link: https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/
+  pub_date: '2025-11-25T23:39:00'
+  source: Google AI Blog
+  title: Get an in-depth look at Gemini 3 with CEO Sundar Pichai.
+- category: ai-research
+  description: BoltzGen generates protein binders for any biological target from scratch,
+    expanding AI's reach from understanding biology toward engineering it.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125
+  pub_date: '2025-11-25T21:25:00'
+  source: MIT AI News
+  title: MIT scientists debut a generative AI model that could create molecules addressing
+    hard-to-treat diseases
+- category: machine-learning
+  description: 'Don''t Miss DataCamp''s Black Friday Deal: Nov 12-Dec 4'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/datacamp/our-favourite-black-friday-deal-to-learn-sql-ai-python-and-become-a-certified-data-analyst
+  pub_date: '2025-11-25T18:00:54'
+  source: KDnuggets
+  title: Our favourite Black Friday deal to Learn SQL, AI, Python, and become a certified
+    data analyst!
+- category: ai-research
+  description: Learn more about using Google products like Gemini, Search, Shopping,
+    Pixel and more over the holidays.
+  icon: fa-google
+  link: https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/
+  pub_date: '2025-11-25T18:00:00'
+  source: Google AI Blog
+  title: The Google guide for holiday help
+- category: ai-research
+  description: Video showing Flow respond to the prompt "change the weather to rain"
+  icon: fa-google
+  link: https://blog.google/technology/google-labs/flow-refine-videos/
+  pub_date: '2025-11-25T17:40:00'
+  source: Google AI Blog
+  title: 4 ways to refine your content in Flow
+- category: ai-research
+  description: 'On the left: A close-up of four Ironwood chips. On the right: A data
+    center wall with rows of server racks, complex cabling and overhead cable trays.'
+  icon: fa-google
+  link: https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/
+  pub_date: '2025-11-25T16:00:00'
+  source: Google AI Blog
+  title: 3 things to know about Ironwood, our latest TPU
+- category: machine-learning
+  description: Deploy an AI analyst fast by connecting any LLM to your SQL database
+    with Bag of Words, allowing immediate, trustworthy data insights via natural language
+    queries.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/deploy-an-ai-analyst-in-minutes-connect-any-llm-to-any-data-source-with-bag-of-words
+  pub_date: '2025-11-25T15:00:51'
+  source: KDnuggets
+  title: 'Deploy an AI Analyst in Minutes: Connect Any LLM to Any Data Source with
+    Bag of Words'
+- category: machine-learning
+  description: Learn the theory, math, and engineering behind machine learning with
+    these highly recommended free books.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-machine-learning-engineer
+  pub_date: '2025-11-25T12:14:35'
+  source: KDnuggets
+  title: The 5 FREE Must-Read Books for Every Machine Learning Engineer
+- category: ai-research
   description: AI supports the clean energy transition as it manages power grid operations,
     helps plan infrastructure investments, guides development of novel materials,
     and more.
@@ -86,21 +161,6 @@ articles:
   pub_date: '2025-11-20T18:00:45'
   source: KDnuggets
   title: How Data Engineering Can Power Manufacturing Industry Transformation
-- category: machine-learning
-  description: Here are the top 5 SQL patterns tested in FAANG data science interviews.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-sql-patterns-from-faang-data-science-interviews-with-code
-  pub_date: '2025-11-20T17:00:27'
-  source: KDnuggets
-  title: Top SQL Patterns from FAANG Data Science Interviews (with Code)
-- category: machine-learning
-  description: Data cleaning doesn't always require Python or Excel. Learn how simple
-    command-line tools can help you clean datasets faster and more efficiently.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/data-cleaning-at-the-command-line-for-beginner-data-scientists
-  pub_date: '2025-11-20T15:00:19'
-  source: KDnuggets
-  title: Data Cleaning at the Command Line for Beginner Data Scientists
 - category: ai-research
   description: Golden retriever catching frisbee over water. UI overlay shows Google
     AI watermark detected.
@@ -131,14 +191,6 @@ articles:
   pub_date: '2025-11-20T14:00:00'
   source: Google AI Blog
   title: How Westinghouse is reenergizing nuclear power with — and for — AI
-- category: machine-learning
-  description: Check out three use cases for NotebookLM that go beyond the expected
-    functionality of generating FAQs, study guides, or basic summaries.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-unexpected-uses-for-notebooklm
-  pub_date: '2025-11-20T13:00:16'
-  source: KDnuggets
-  title: 3 Unexpected Uses for NotebookLM
 - category: ai-research
   description: MIT neuroscientists find a surprising parallel in the ways humans and
     new AI models solve complex problems.
@@ -147,14 +199,6 @@ articles:
   pub_date: '2025-11-19T21:45:00'
   source: MIT AI News
   title: The cost of thinking
-- category: ai-research
-  description: From AI education to disaster response, see how collaboration is at
-    the heart of the work at Google Research.
-  icon: fa-google
-  link: https://blog.google/technology/research/ai-collaboration-poland-2025/
-  pub_date: '2025-11-19T09:00:00'
-  source: Google AI Blog
-  title: At our Research@ Poland event we shared how AI is helping us solve big challenges.
 - category: ai-research
   description: The virtual VideoCAD tool could boost designers' productivity and help
     train engineers learning computer-aided design.
@@ -171,31 +215,6 @@ articles:
   source: MIT AI News
   title: MIT Energy Initiative conference spotlights research priorities amidst a
     changing energy landscape
-- category: ai-research
-  description: An image showing a title card and two visual components from the product
-    interface. The top-left visual is a soft-gradient screen showing an abstract,
-    multi-colored network graph or data visualization...
-  icon: fa-google
-  link: https://blog.google/products/search/gemini-3-search-ai-mode/
-  pub_date: '2025-11-18T16:00:00'
-  source: Google AI Blog
-  title: 'Google Search with Gemini 3: Our most intelligent search yet'
-- category: ai-research
-  description: Gemini 3 logo in front of a black background with the number 3 in blue
-    dots
-  icon: fa-google
-  link: https://blog.google/products/gemini/gemini-3/
-  pub_date: '2025-11-18T16:00:00'
-  source: Google AI Blog
-  title: A new era of intelligence with Gemini 3
-- category: ai-research
-  description: Google's deep investments in American technical infrastructure, R&D
-    and the workforce will help the U.S. continue to lead the world in AI.
-  icon: fa-google
-  link: https://blog.google/inside-google/company-announcements/investing-in-america-2025/
-  pub_date: '2025-11-17T20:00:00'
-  source: Google AI Blog
-  title: Investing in America 2025
 - category: ai-research
   description: Associate Professor Phillip Isola studies the ways in which intelligent
     machines "think," in an effort to safely integrate AI into human society.
@@ -228,21 +247,4 @@ articles:
   pub_date: '2025-11-06T13:00:00'
   source: MIT AI News
   title: MIT researchers propose a new model for legible, modular software
-- category: ai-research
-  description: A new approach developed at MIT could help a search-and-rescue robot
-    navigate an unpredictable environment by rapidly generating an accurate map of
-    its surroundings.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/teaching-robots-to-map-large-environments-1105
-  pub_date: '2025-11-05T15:00:00'
-  source: MIT AI News
-  title: Teaching robots to map large environments
-- category: ai-research
-  description: MIT's Teaching Systems Lab, led by Associate Professor Justin Reich,
-    is working to help educators by listening to and sharing their stories.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/helping-k-12-schools-navigate-complex-world-of-ai-1103
-  pub_date: '2025-11-03T21:45:00'
-  source: MIT AI News
-  title: Helping K-12 schools navigate the complex world of AI
-last_updated: '2025-11-25T06:32:49.131512'
+last_updated: '2025-11-26T06:32:03.257195'
