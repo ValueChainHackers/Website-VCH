@@ -1,5 +1,83 @@
 articles:
 - category: supply-chain
+  description: 'Q&A: Magnus Technologies CEO Matt Cartwright discusses the driver
+    shortage and how better workflows can make the job more stable.'
+  icon: fa-box
+  link: https://www.supplychain247.com/article/qa-matt-cartwright-magnus-technologies
+  pub_date: '2025-11-25T16:21:00'
+  source: Supply Chain 24/7
+  title: What if Trucking’s Driver Shortage Isn’t About Drivers After All?
+- category: supply-chain
+  description: Eight fashion brands have joined Canopy's initiative to phase out packaging
+    and fabrics linked to ancient and endangered forests and move toward lower-impact
+    materials.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fashion-brands-canopy-forest-free-packaging
+  pub_date: '2025-11-25T14:43:00'
+  source: Supply Chain 24/7
+  title: Eight Fashion Brands Pledge to Cut Forest Sourcing From Supply Chains
+- category: supply-chain
+  description: Nokia will invest $4 billion to expand U.S. R&D and manufacturing for
+    AI-ready networking technologies across mobile, optical, and data center systems.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nokia-us-ai-network-investment
+  pub_date: '2025-11-25T14:21:00'
+  source: Supply Chain 24/7
+  title: Nokia Plans $4 Billion Investment to Build AI-Ready Networks in the U.S.
+- category: supply-chain
+  description: Macquarie has made a $7.5 billion offer to buy Qube Holdings, which
+    would give it control of major ports and terminals across Australia's logistics
+    network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/macquarie-qube-logistics-acquisition
+  pub_date: '2025-11-25T14:09:00'
+  source: Supply Chain 24/7
+  title: Macquarie Makes $7.5 Billion Bid for Australia’s Qube Holdings
+- category: circular
+  description: A 39-year-old man has been was arrested as part of an investigation
+    into the large-scale, illegal dumping of waste near Kidlington, Oxfordshire. The
+    post Man arrested over Kidlington illegal waste tip...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/breaking-man-arrested-over-kidlington-illegal-waste-dumping/
+  pub_date: '2025-11-25T13:44:31'
+  source: Circular Online
+  title: Man arrested over Kidlington illegal waste tipping
+- category: supply-chain
+  description: AstraZeneca will invest $2 billion to expand manufacturing in Maryland
+    and bring 2,600 jobs across its Frederick and Gaithersburg facilities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/astrazeneca-maryland-manufacturing-expansion
+  pub_date: '2025-11-25T13:22:00'
+  source: Supply Chain 24/7
+  title: AstraZeneca to Invest $2 Billion in Maryland Manufacturing Hub
+- category: circular
+  description: The UK Government's new Critical Minerals Strategy sets out the ambition
+    to produce 10% of the UK's mineral needs domestically and 20% through recycling
+    by 2035. The post UK's new Critical Minerals St...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uks-new-critical-minerals-strategy-sets-out-recycling-ambitions/
+  pub_date: '2025-11-25T09:39:27'
+  source: Circular Online
+  title: UK’s new Critical Minerals Strategy sets out recycling ambitions
+- category: circular
+  description: A Lincolnshire waste company has been fined GBP1 million for buying
+    and selling catalytic converters without an environmental permit. Recorder John
+    Hardy KC imposed the order on Platinum Group Metals ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/company-fined-1m-for-running-illegal-catalytic-converter-operation/
+  pub_date: '2025-11-25T08:30:13'
+  source: Circular Online
+  title: Company fined £1m for running illegal catalytic converter operation
+- category: circular
+  description: Serious pollution incidents from permitted and exempt waste management
+    activities rose by 57% in the past year, the Environment Agency Chief Regulator's
+    report finds. The post Serious pollution in was...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/serious-pollution-in-waste-sector-rises-by-57-environment-agency-finds/
+  pub_date: '2025-11-25T08:30:00'
+  source: Circular Online
+  title: Serious pollution in waste sector rises by 57%, Environment Agency finds
+- category: supply-chain
   description: A coalition of 28 organizations has formed United for Autonomy to push
     for a federal autonomous vehicle policy that supports safety and innovation.
   icon: fa-box
@@ -58,46 +136,6 @@ articles:
   pub_date: '2025-11-24T10:11:36'
   source: Circular Online
   title: 'Fly-tipping mountain in Kidlington explained: What happens next?'
-- category: supply-chain
-  description: In 2026, manufacturing success will depend on how well companies understand
-    and support real buyer behavior.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturing-2026-buyer-expectations
-  pub_date: '2025-11-21T17:30:00'
-  source: Supply Chain 24/7
-  title: Manufacturers Need More Than AI, They Need Buyer Connection
-- category: supply-chain
-  description: Maersk is moving its North American headquarters to Charlotte, bringing
-    520 jobs and a $16 million investment as part of its U.S. expansion.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-charlotte-north-american-hq
-  pub_date: '2025-11-21T16:14:00'
-  source: Supply Chain 24/7
-  title: Maersk Picks Charlotte As North American Headquarters
-- category: supply-chain
-  description: Blank sailings are becoming a regular part of ocean shipping strategy,
-    leaving shippers dealing with delays, rerouting, and tighter planning windows.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-101-blank-sailing
-  pub_date: '2025-11-21T14:30:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain 101: What Blank Sailings Mean for Shippers'
-- category: supply-chain
-  description: 'Leadership Lessons: Marina Ivanov shares her journey from a childhood
-    in Ukraine to becoming Founder and CEO of Apex Transit.'
-  icon: fa-box
-  link: https://www.supplychain247.com/article/leadership-lessons-marina-ivanov-apex-transit
-  pub_date: '2025-11-21T14:20:00'
-  source: Supply Chain 24/7
-  title: 'Leadership Lessons: Marina Ivanov of Apex Transit'
-- category: supply-chain
-  description: A new AMERIPEN report shows five million metric tons of packaging have
-    been cut since 2019, reshaping shipping, sourcing, and supply chain operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/packaging-industry-cuts-five-million-tons-report-details
-  pub_date: '2025-11-21T14:15:00'
-  source: Supply Chain 24/7
-  title: Report Finds Five Million Tons of Packaging Removed Since 2019
 - category: circular
   description: Over the past year, six people - three working in the waste sector
     and three members of the public - suffered fatal injuries, according to Health
@@ -135,41 +173,4 @@ articles:
   pub_date: '2025-11-19T09:15:09'
   source: Circular Online
   title: 20,000 bottles and cans recycled in Coca-Cola deposit return trial
-- category: circular
-  description: A father and son have been given suspended prison sentences for illegally
-    importing, processing and burning waste at two sites in Derbyshire. The post Father
-    and son given suspended prison sentences f...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/father-and-son-given-suspended-prison-sentences-for-running-an-illegal-waste-site/
-  pub_date: '2025-11-19T08:42:47'
-  source: Circular Online
-  title: Father and son given suspended prison sentences for running an illegal waste
-    site
-- category: circular
-  description: A team of early-career sustainability innovators have been named the
-    winner of CIWM's first academic hackathon, taking the top spot with a proposal
-    for a circular DRS for clothing. The post Students w...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/students-win-ciwm-hackathon-with-circular-deposit-return-scheme-for-clothing/
-  pub_date: '2025-11-18T13:41:02'
-  source: Circular Online
-  title: Students win CIWM Hackathon with circular deposit return scheme for clothing
-- category: circular
-  description: Drone footage shows scale of waste, which has been branded an 'environmental
-    disaster' by the local MP. The post 150-metre fly-tipping mountain in Oxford branded
-    an 'environmental disaster' appeared f...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/150-metre-fly-tipping-mountain-in-oxford-branded-an-environmental-disaster/
-  pub_date: '2025-11-18T09:10:27'
-  source: Circular Online
-  title: 150-metre fly-tipping mountain in Oxford branded an ‘environmental disaster’
-- category: circular
-  description: The dispute between refuse workers and Birmingham City Council is set
-    to run well into 2026 as agency workers vote to join the strike action The post
-    Agency workers join Birmingham bin strikes as disp...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/agency-workers-join-birmingham-bin-strikes-as-dispute-set-to-run-into-2026/
-  pub_date: '2025-11-18T07:30:00'
-  source: Circular Online
-  title: Agency workers join Birmingham bin strikes as dispute set to run into 2026
-last_updated: '2025-11-25T06:32:48.318554'
+last_updated: '2025-11-26T06:32:02.223455'
