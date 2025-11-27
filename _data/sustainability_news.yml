@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: A new MIT and Mecalux study found that AI is improving warehouse work
+    while expanding the human workforce.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-is-helping-warehouse-jobs-grow
+  pub_date: '2025-11-26T15:35:00'
+  source: Supply Chain 24/7
+  title: New Study Says AI Helps Workers and Creates More Warehouse Roles
+- category: circular
+  description: 'The UK Government has confirmed that it will not proceed with transitioning
+    to a single rate of landfill tax by 2030, following pushback from the construction
+    industry. The post Budget 2025: Governmen...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/budget-2025-government-backtracks-on-landfill-tax-overhaul/
+  pub_date: '2025-11-26T14:20:20'
+  source: Circular Online
+  title: 'Budget 2025: Government backtracks on landfill tax overhaul'
+- category: supply-chain
+  description: Rail leaders at RailTrends are split on whether the $85B UP-NS merger
+    will deliver better service-or reduce competition.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/up-ns-merger-railtrends-reaction
+  pub_date: '2025-11-26T13:54:00'
+  source: Supply Chain 24/7
+  title: Rail Leaders Split on $85B Union Pacific-Norfolk Southern Merger
+- category: supply-chain
+  description: NAFTZ President Jeff Tafel explains how U.S. companies are using Foreign-Trade
+    Zones lower costs and stay ahead of peak season freight pressure.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-foreign-trade-zones-help-companies-handle-peak-season
+  pub_date: '2025-11-26T13:30:00'
+  source: Supply Chain 24/7
+  title: How Foreign-Trade Zones Are Helping Companies Beat the Holiday Rush
+- category: supply-chain
+  description: Freight fraud is rising fast, and Truckstop says strong verification
+    and communication are now essential to protect every transaction.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/freight-fraud-is-getting-harder-to-spot-in-2025
+  pub_date: '2025-11-26T13:16:00'
+  source: Supply Chain 24/7
+  title: Three Freight Fraud Trends Every Carrier Should Watch
+- category: supply-chain
   description: 'Q&A: Magnus Technologies CEO Matt Cartwright discusses the driver
     shortage and how better workflows can make the job more stable.'
   icon: fa-box
@@ -94,39 +135,6 @@ articles:
   pub_date: '2025-11-24T14:51:45'
   source: Circular Online
   title: Veolia acquires U.S. hazardous waste company Clean Earth for €2.6bn
-- category: supply-chain
-  description: Walmart reported that more of its U.S. digital orders are being delivered
-    within three hours or less, with under-one-hour delivery emerging as its fastest-growing
-    channel.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-now-delivering-35-of-digital-orders-in-under-three-hours
-  pub_date: '2025-11-24T14:43:00'
-  source: Supply Chain 24/7
-  title: Walmart Now Delivering 35% of Digital Orders in Under Three Hours
-- category: supply-chain
-  description: Lucas Systems released a new pallet matching system designed to help
-    warehouse workers pick faster by assigning the best pallets in real time.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lucas-systems-new-pick-to-pallet-tech
-  pub_date: '2025-11-24T14:26:00'
-  source: Supply Chain 24/7
-  title: Lucas Systems Unveils Smarter Pick-to-Pallet Tech for Warehouses
-- category: supply-chain
-  description: Companies are starting small with modular automation tools that help
-    warehouses close workload gaps without needing full facility projects.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/modular-warehouse-automation-strategies
-  pub_date: '2025-11-24T14:11:00'
-  source: Supply Chain 24/7
-  title: How to Set Up Warehouse Automation Without the Big Price Tag
-- category: supply-chain
-  description: The last mile is evolving rapidly, and logistics teams need better
-    visibility and tools that help people work more efficiently, not replace them.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/technology-shaping-last-mile-delivery-podcast
-  pub_date: '2025-11-24T12:17:00'
-  source: Supply Chain 24/7
-  title: Three Ways Technology Is Changing the Last Mile Delivery Game
 - category: circular
   description: Who is responsible for several hundred tonnes of waste dumped near
     the River Cherwell? Circular Online has spoken to the Environment Agency and waste
@@ -164,13 +172,4 @@ articles:
   pub_date: '2025-11-19T09:44:08'
   source: Circular Online
   title: Plastic wet wipes to be banned from 2027
-- category: circular
-  description: Over 20,000 cans and plastic bottles were recycled as part of a campus
-    deposit return scheme (DRS) trial between Coca-Cola and New College Lanarkshire.
-    As part of a trial launched in September this ye...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/20000-bottles-and-cans-recycled-in-coca-cola-deposit-return-trial/
-  pub_date: '2025-11-19T09:15:09'
-  source: Circular Online
-  title: 20,000 bottles and cans recycled in Coca-Cola deposit return trial
-last_updated: '2025-11-26T06:32:02.223455'
+last_updated: '2025-11-27T06:32:56.579221'
