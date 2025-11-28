@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: 'The point is this: those who learn to collaborate with AI rather than
+    fear it will hold the keys to tomorrow''s job market.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/staying-ahead-of-ai-in-your-career
+  pub_date: '2025-11-27T15:08:04'
+  source: KDnuggets
+  title: Staying Ahead of AI in Your Career
+- category: machine-learning
+  description: These are the essentials that help me code faster, analyze data smarter,
+    and automate more of my workflow.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-ai-tools-i-cant-live-without-as-a-professional-data-scientist
+  pub_date: '2025-11-27T13:00:01'
+  source: KDnuggets
+  title: 7 AI Tools I Can’t Live Without as a Professional Data Scientist
 - category: ai-research
   description: A visual grid highlighting diverse fields of research, featuring images
     of geothermal activity, agricultural farming, patient care, laboratory testing,
@@ -134,15 +150,6 @@ articles:
   pub_date: '2025-11-24T15:00:49'
   source: KDnuggets
   title: Make.com Automations for Saving Time as a Data Professional
-- category: machine-learning
-  description: This article walks through five container setups that consistently
-    help developers move from idea to experiment to deployment without fighting their
-    own toolchains.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-docker-containers-for-language-model-development
-  pub_date: '2025-11-24T13:00:49'
-  source: KDnuggets
-  title: 5 Docker Containers for Language Model Development
 - category: ai-research
   description: An illustrated overhead view of people sitting around a red table with
     a roasted turkey in the center, and various plates surrounding. Various Google
@@ -152,14 +159,6 @@ articles:
   pub_date: '2025-11-21T16:00:00'
   source: Google AI Blog
   title: 16 Google AI tips for stress-free holiday hosting in 2025
-- category: machine-learning
-  description: Simple Git, zero overwhelm, just enough to stop Claude from accidently
-    deleting your code and database.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/git-for-vibe-coders
-  pub_date: '2025-11-21T15:00:59'
-  source: KDnuggets
-  title: Git for Vibe Coders
 - category: ai-research
   description: A Gemini chat shares a diagram of a plant cell with various labels
     that are then shown in more detail in a side panel. Each label is highlighted
@@ -248,4 +247,4 @@ articles:
   pub_date: '2025-11-06T13:00:00'
   source: MIT AI News
   title: MIT researchers propose a new model for legible, modular software
-last_updated: '2025-11-27T06:32:57.686867'
+last_updated: '2025-11-28T06:32:25.325049'
