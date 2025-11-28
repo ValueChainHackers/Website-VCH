@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: The Chartered Institution of Wastes Management (CIWM) has expressed
+    cautious optimism about the outcomes of COP30. The post CIWM offers cautious optimism
+    on COP30 outcomes appeared first on Circular O...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-offers-cautious-optimism-on-cop30-outcomes/
+  pub_date: '2025-11-27T08:00:00'
+  source: Circular Online
+  title: CIWM offers cautious optimism on COP30 outcomes
 - category: supply-chain
   description: A new MIT and Mecalux study found that AI is improving warehouse work
     while expanding the human workforce.
@@ -163,13 +172,4 @@ articles:
   source: Circular Online
   title: CIWM challenges Defra minister’s claim of ‘whole system failure’ in waste
     sector
-- category: circular
-  description: Plastic wet wipes are set to be banned in Spring 2027, the UK Government
-    has announced. The post Plastic wet wipes to be banned from 2027 appeared first
-    on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/plastic-wet-wipes-to-be-banned-from-2027/
-  pub_date: '2025-11-19T09:44:08'
-  source: Circular Online
-  title: Plastic wet wipes to be banned from 2027
-last_updated: '2025-11-27T06:32:56.579221'
+last_updated: '2025-11-28T06:32:24.401671'
