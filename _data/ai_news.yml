@@ -1,5 +1,21 @@
 articles:
 - category: machine-learning
+  description: Set up, build, and test agentic apps with Claude Code, powered by your
+    locally installed Claude CLI and Claude Code subscription.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-the-claude-agent-sdk
+  pub_date: '2025-11-28T15:00:42'
+  source: KDnuggets
+  title: Getting Started with the Claude Agent SDK
+- category: machine-learning
+  description: These five configurations can turn your Docker setup from a slow chore
+    into a finely tuned machine.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-practical-docker-configurations
+  pub_date: '2025-11-28T13:00:34'
+  source: KDnuggets
+  title: 5 Practical Docker Configurations
+- category: machine-learning
   description: 'The point is this: those who learn to collaborate with AI rather than
     fear it will hold the keys to tomorrow''s job market.'
   icon: fa-chart-bar
@@ -133,23 +149,6 @@ articles:
   pub_date: '2025-11-24T18:00:00'
   source: KDnuggets
   title: 'My Honest Review on Abacus AI: ChatLLM, DeepAgent & Enterprise'
-- category: machine-learning
-  description: Why write 10 lines of matplotlib code when Lux can show you what you
-    need in one click?
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/lux-pandas-auto-visualizations-for-lazy-analysts
-  pub_date: '2025-11-24T17:00:12'
-  source: KDnuggets
-  title: 'Lux + Pandas: Auto-Visualizations for Lazy Analysts'
-- category: machine-learning
-  description: Make.com enables data professionals to automate tedious tasks, such
-    as data collection and reporting, without coding, saving hours weekly and enhancing
-    accuracy.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/make-com-automations-for-saving-time-as-a-data-professional
-  pub_date: '2025-11-24T15:00:49'
-  source: KDnuggets
-  title: Make.com Automations for Saving Time as a Data Professional
 - category: ai-research
   description: An illustrated overhead view of people sitting around a red table with
     a roasted turkey in the center, and various plates surrounding. Various Google
@@ -247,4 +246,4 @@ articles:
   pub_date: '2025-11-06T13:00:00'
   source: MIT AI News
   title: MIT researchers propose a new model for legible, modular software
-last_updated: '2025-11-28T06:32:25.325049'
+last_updated: '2025-11-29T06:29:33.462120'
