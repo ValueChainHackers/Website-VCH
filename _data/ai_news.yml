@@ -1,114 +1,219 @@
 articles:
 - category: machine-learning
-  description: This article uncovers how to harness Dask for scalable data processing,
-    even under limited hardware constraints.This article uncovers how to harness Dask
-    for scalable data processing, even under limit...
+  description: Robust proxies allow you to rotate identities, reach any region, and
+    bypass sophisticated anti-bot systems, all while protecting your infrastructure
+    from blocks and blacklisting.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/processing-large-datasets-with-dask-and-scikit-learn
-  pub_date: '2025-11-13T15:00:29'
+  link: https://www.kdnuggets.com/2025/11/brightdata/the-best-proxy-providers-for-large-scale-scraping-for-2026
+  pub_date: '2025-11-30T11:00:19'
   source: KDnuggets
-  title: Processing Large Datasets with Dask and Scikit-learn
+  title: The Best Proxy Providers for Large-Scale Scraping for 2026
 - category: machine-learning
-  description: I have a complicated love-hate relationship with AI agentic coding.
-    Today, I will share my experiences with top-performing AI-agentic coding CLI tools,
-    providing a fully automated developer experience...
+  description: Set up, build, and test agentic apps with Claude Code, powered by your
+    locally installed Claude CLI and Claude Code subscription.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-agentic-coding-cli-tools
-  pub_date: '2025-11-13T13:00:56'
+  link: https://www.kdnuggets.com/getting-started-with-the-claude-agent-sdk
+  pub_date: '2025-11-28T15:00:42'
   source: KDnuggets
-  title: Top 5 Agentic Coding CLI Tools
+  title: Getting Started with the Claude Agent SDK
+- category: machine-learning
+  description: These five configurations can turn your Docker setup from a slow chore
+    into a finely tuned machine.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-practical-docker-configurations
+  pub_date: '2025-11-28T13:00:34'
+  source: KDnuggets
+  title: 5 Practical Docker Configurations
+- category: machine-learning
+  description: 'The point is this: those who learn to collaborate with AI rather than
+    fear it will hold the keys to tomorrow''s job market.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/staying-ahead-of-ai-in-your-career
+  pub_date: '2025-11-27T15:08:04'
+  source: KDnuggets
+  title: Staying Ahead of AI in Your Career
+- category: machine-learning
+  description: These are the essentials that help me code faster, analyze data smarter,
+    and automate more of my workflow.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-ai-tools-i-cant-live-without-as-a-professional-data-scientist
+  pub_date: '2025-11-27T13:00:01'
+  source: KDnuggets
+  title: 7 AI Tools I Can’t Live Without as a Professional Data Scientist
 - category: ai-research
-  description: A triptych showing details of a Golden Goose and Google Gemini co-creation
-    experience, including tools, a phone, store window display, and sneaker customization.
+  description: A visual grid highlighting diverse fields of research, featuring images
+    of geothermal activity, agricultural farming, patient care, laboratory testing,
+    and medical diagnostics.
   icon: fa-google
-  link: https://blog.google/products/pixel/google-pixel-and-golden-goose-partner-to-bring-ai-to-global-ateliers/
-  pub_date: '2025-11-13T08:00:00'
+  link: https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/
+  pub_date: '2025-11-26T23:00:00'
   source: Google AI Blog
-  title: Google Pixel and Golden Goose partner to  bring AI to global ateliers
+  title: Here’s how researchers in Asia-Pacific are using AlphaFold
 - category: machine-learning
-  description: The goal of an "everything" notebook in NotebookLM is having your entire
-    professional memory instantly accessible and understandable.
+  description: Understanding the underlying technology helps explain why AI browsers
+    exhibit such uneven performance.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-benefits-of-an-everything-notebook-in-notebooklm
-  pub_date: '2025-11-12T15:00:36'
+  link: https://www.kdnuggets.com/are-ai-browsers-any-good-day-with-perplexity-comet-openai-atlas
+  pub_date: '2025-11-26T15:00:57'
   source: KDnuggets
-  title: The Benefits of an “Everything” Notebook in NotebookLM
+  title: Are AI Browsers Any Good? A Day with Perplexity’s Comet and OpenAI’s Atlas
 - category: machine-learning
-  description: A handpicked list of free reads that teach you the science, logic,
-    and real-world side of artificial intelligence.
+  description: This article transforms the unwelcome experiences into five comprehensive
+    frameworks that will elevate your Excel-based machine learning work.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-ai-engineer
-  pub_date: '2025-11-12T13:00:28'
+  link: https://www.kdnuggets.com/5-excel-ai-lessons-i-learned-the-hard-way
+  pub_date: '2025-11-26T13:00:06'
   source: KDnuggets
-  title: The 5 FREE Must-Read Books for Every AI Engineer
+  title: 5 Excel AI Lessons I Learned the Hard Way
 - category: ai-research
-  description: 'Private AI Compute infographic: Secured data flow from mobile device
-    to Gemini Models and Google TPU.'
-  icon: fa-google
-  link: https://blog.google/technology/ai/google-private-ai-compute/
-  pub_date: '2025-11-11T19:00:00'
-  source: Google AI Blog
-  title: 'Private AI Compute: our next step in building private and helpful AI'
-- category: machine-learning
-  description: If you're ready to move from simply managing data to making an impact
-    with it, this program will give you the tools, confidence, and vision to lead
-    in the evolving world of data science.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2025/11/baypath/transform-raw-data-into-real-impact
-  pub_date: '2025-11-11T18:00:46'
-  source: KDnuggets
-  title: Transform Raw Data Into Real Impact
-- category: machine-learning
-  description: Learn to create an intelligent email automation system that analyzes,
-    scores, and routes messages based on priority.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-a-gmail-inbox-management-agent-in-n8n
-  pub_date: '2025-11-11T17:00:04'
-  source: KDnuggets
-  title: Building a Gmail Inbox Management Agent in n8n
+  description: Large language models can learn to mistakenly link certain sentence
+    patterns with specific topics - and may then repeat these patterns instead of
+    reasoning.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/shortcoming-makes-llms-less-reliable-1126
+  pub_date: '2025-11-26T05:00:00'
+  source: MIT AI News
+  title: Researchers discover a shortcoming that makes LLMs less reliable
 - category: ai-research
-  description: Image with the Google Photos logo and the words Edit, Create and Search
-    with visuals of different AI features.
+  description: 'Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3
+    on the Google AI: Release Notes podcast.'
   icon: fa-google
-  link: https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/
-  pub_date: '2025-11-11T17:00:00'
+  link: https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/
+  pub_date: '2025-11-25T23:39:00'
   source: Google AI Blog
-  title: 6 new things you can do with AI in Google Photos
-- category: machine-learning
-  description: Transitioning from reactive hustle to proactive structure by building
-    simple, repeatable processes. If you are looking for practical ways to get started
-    in the shift from hustle to structure, this art...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/dp6e0ebt#new_tab
-  pub_date: '2025-11-11T15:18:49'
-  source: KDnuggets
-  title: 'From Hustle to Structure: How to Build Repeatable Processes in Your Business
-    (Sponsored)'
-- category: machine-learning
-  description: Here are the free ChatGPT alternatives I genuinely recommend. They
-    are fast, reliable, and useful for research, coding, brainstorming, and creative
-    work.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-chatgpt-alternatives-you-can-try-for-free
-  pub_date: '2025-11-11T15:18:01'
-  source: KDnuggets
-  title: Top 7 ChatGPT Alternatives You Can Try For Free
-- category: machine-learning
-  description: A practical guide to building reliable data pipelines that stay up
-    and running. Learn what breaks them and how to avoid it.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-complete-guide-to-building-data-pipelines-that-dont-break
-  pub_date: '2025-11-11T15:00:24'
-  source: KDnuggets
-  title: The Complete Guide to Building Data Pipelines That Don’t Break
+  title: Get an in-depth look at Gemini 3 with CEO Sundar Pichai.
 - category: ai-research
-  description: Video sharing the future of AI & Learning with examples from classrooms
-    from around the world
+  description: BoltzGen generates protein binders for any biological target from scratch,
+    expanding AI's reach from understanding biology toward engineering it.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125
+  pub_date: '2025-11-25T21:25:00'
+  source: MIT AI News
+  title: MIT scientists debut a generative AI model that could create molecules addressing
+    hard-to-treat diseases
+- category: machine-learning
+  description: 'Don''t Miss DataCamp''s Black Friday Deal: Nov 12-Dec 4'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/datacamp/our-favourite-black-friday-deal-to-learn-sql-ai-python-and-become-a-certified-data-analyst
+  pub_date: '2025-11-25T18:00:54'
+  source: KDnuggets
+  title: Our favourite Black Friday deal to Learn SQL, AI, Python, and become a certified
+    data analyst!
+- category: ai-research
+  description: Learn more about using Google products like Gemini, Search, Shopping,
+    Pixel and more over the holidays.
   icon: fa-google
-  link: https://blog.google/outreach-initiatives/education/ai-learning-commitments/
-  pub_date: '2025-11-11T09:00:00'
+  link: https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/
+  pub_date: '2025-11-25T18:00:00'
   source: Google AI Blog
-  title: Our latest commitments in AI and learning
+  title: The Google guide for holiday help
+- category: ai-research
+  description: Video showing Flow respond to the prompt "change the weather to rain"
+  icon: fa-google
+  link: https://blog.google/technology/google-labs/flow-refine-videos/
+  pub_date: '2025-11-25T17:40:00'
+  source: Google AI Blog
+  title: 4 ways to refine your content in Flow
+- category: ai-research
+  description: 'On the left: A close-up of four Ironwood chips. On the right: A data
+    center wall with rows of server racks, complex cabling and overhead cable trays.'
+  icon: fa-google
+  link: https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/
+  pub_date: '2025-11-25T16:00:00'
+  source: Google AI Blog
+  title: 3 things to know about Ironwood, our latest TPU
+- category: machine-learning
+  description: Deploy an AI analyst fast by connecting any LLM to your SQL database
+    with Bag of Words, allowing immediate, trustworthy data insights via natural language
+    queries.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/deploy-an-ai-analyst-in-minutes-connect-any-llm-to-any-data-source-with-bag-of-words
+  pub_date: '2025-11-25T15:00:51'
+  source: KDnuggets
+  title: 'Deploy an AI Analyst in Minutes: Connect Any LLM to Any Data Source with
+    Bag of Words'
+- category: machine-learning
+  description: Learn the theory, math, and engineering behind machine learning with
+    these highly recommended free books.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-machine-learning-engineer
+  pub_date: '2025-11-25T12:14:35'
+  source: KDnuggets
+  title: The 5 FREE Must-Read Books for Every Machine Learning Engineer
+- category: ai-research
+  description: AI supports the clean energy transition as it manages power grid operations,
+    helps plan infrastructure investments, guides development of novel materials,
+    and more.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124
+  pub_date: '2025-11-24T22:00:00'
+  source: MIT AI News
+  title: How artificial intelligence can help achieve a clean energy future
+- category: ai-research
+  description: An illustrated overhead view of people sitting around a red table with
+    a roasted turkey in the center, and various plates surrounding. Various Google
+    product icons are incorporated in the image.
+  icon: fa-google
+  link: https://blog.google/products/pixel/google-holiday-hosting-tips-2024/
+  pub_date: '2025-11-21T16:00:00'
+  source: Google AI Blog
+  title: 16 Google AI tips for stress-free holiday hosting in 2025
+- category: ai-research
+  description: A Gemini chat shares a diagram of a plant cell with various labels
+    that are then shown in more detail in a side panel. Each label is highlighted
+    and you can use the side panel to delve deeper.
+  icon: fa-google
+  link: https://blog.google/outreach-initiatives/education/gemini-interactive-images/
+  pub_date: '2025-11-20T20:30:00'
+  source: Google AI Blog
+  title: Develop a deeper understanding with interactive images in Gemini.
+- category: ai-research
+  description: Golden retriever catching frisbee over water. UI overlay shows Google
+    AI watermark detected.
+  icon: fa-google
+  link: https://blog.google/technology/ai/ai-image-verification-gemini-app/
+  pub_date: '2025-11-20T15:00:00'
+  source: Google AI Blog
+  title: How we’re bringing AI image verification to the Gemini app
+- category: ai-research
+  description: Image with multiple input-output images with the text Build with Nano
+    Banana Pro in the center
+  icon: fa-google
+  link: https://blog.google/technology/developers/gemini-3-pro-image-developers/
+  pub_date: '2025-11-20T15:00:00'
+  source: Google AI Blog
+  title: Build with Nano Banana Pro, our Gemini 3 Pro Image model
+- category: ai-research
+  description: Nano Banana Pro with generated images around it
+  icon: fa-google
+  link: https://blog.google/technology/ai/nano-banana-pro/
+  pub_date: '2025-11-20T15:00:00'
+  source: Google AI Blog
+  title: Introducing Nano Banana Pro
+- category: ai-research
+  description: MIT neuroscientists find a surprising parallel in the ways humans and
+    new AI models solve complex problems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/cost-of-thinking-1119
+  pub_date: '2025-11-19T21:45:00'
+  source: MIT AI News
+  title: The cost of thinking
+- category: ai-research
+  description: The virtual VideoCAD tool could boost designers' productivity and help
+    train engineers learning computer-aided design.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/new-ai-agent-learns-use-cad-create-3d-objects-sketches-1119
+  pub_date: '2025-11-19T05:00:00'
+  source: MIT AI News
+  title: New AI agent learns to use CAD to create 3D objects from sketches
+- category: ai-research
+  description: Industry leaders agree collaboration is key to advancing critical technologies.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-energy-initiative-conference-1118
+  pub_date: '2025-11-18T17:10:00'
+  source: MIT AI News
+  title: MIT Energy Initiative conference spotlights research priorities amidst a
+    changing energy landscape
 - category: ai-research
   description: Associate Professor Phillip Isola studies the ways in which intelligent
     machines "think," in an effort to safely integrate AI into human society.
@@ -117,23 +222,6 @@ articles:
   pub_date: '2025-11-11T05:00:00'
   source: MIT AI News
   title: Understanding the nuances of human-like intelligence
-- category: machine-learning
-  description: The GIL is finally being dismantled. The implications aren't just technical;
-    they're cultural. This shift could redefine how we write, scale, and even think
-    about Python in the modern era.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-does-the-end-of-gil-mean-for-python
-  pub_date: '2025-11-10T17:00:48'
-  source: KDnuggets
-  title: What Does the End of GIL Mean for Python?
-- category: ai-research
-  description: Rowandale Primary School teacher assisting two primary school students
-    working on laptops at a classroom table.
-  icon: fa-google
-  link: https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/
-  pub_date: '2025-11-10T09:00:00'
-  source: Google AI Blog
-  title: How AI is giving Northern Ireland teachers time back
 - category: ai-research
   description: MIT faculty and MITEI member company experts address power demand from
     data centers.
@@ -143,15 +231,6 @@ articles:
   source: MIT AI News
   title: MIT Energy Initiative launches Data Center Power Forum
 - category: ai-research
-  description: AI is creating new opportunities for Oklahomans to learn, grow and
-    succeed. Google is committed to making sure the Sooner State is not just ready
-    for this transformation...
-  icon: fa-google
-  link: https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/
-  pub_date: '2025-11-07T19:00:00'
-  source: Google AI Blog
-  title: Google is investing in Oklahoma’s workforce and talent pipeline.
-- category: ai-research
   description: MIT PhD students who interned with the MIT-IBM Watson AI Lab Summer
     Program are pushing AI tools to be more flexible, efficient, and grounded in truth.
   icon: fa-graduation-cap
@@ -160,30 +239,6 @@ articles:
   source: MIT AI News
   title: Charting the future of AI, from safer answers to faster thinking
 - category: ai-research
-  description: An image showing different format files going into the Gemini API and
-    the API outputting vectors
-  icon: fa-google
-  link: https://blog.google/technology/developers/file-search-gemini-api/
-  pub_date: '2025-11-06T18:00:00'
-  source: Google AI Blog
-  title: Introducing the File Search Tool in Gemini API
-- category: ai-research
-  description: Abstract illustration depicting elements of the Google Finance user
-    interface
-  icon: fa-google
-  link: https://blog.google/products/search/new-google-finance-ai-deep-search/
-  pub_date: '2025-11-06T17:00:00'
-  source: Google AI Blog
-  title: Google Finance adds AI features for research, earnings and more
-- category: ai-research
-  description: A smiling female teacher leans over and points at a laptop screen,
-    engaging with three young female students who are also smiling in a classroom.
-  icon: fa-google
-  link: https://blog.google/outreach-initiatives/education/ai-and-learning/
-  pub_date: '2025-11-06T17:00:00'
-  source: Google AI Blog
-  title: 'AI and learning: A new chapter for students and educators'
-- category: ai-research
   description: The coding framework uses modular concepts and simple synchronization
     rules to make software clearer, safer, and easier for LLMs to generate.
   icon: fa-graduation-cap
@@ -191,63 +246,4 @@ articles:
   pub_date: '2025-11-06T13:00:00'
   source: MIT AI News
   title: MIT researchers propose a new model for legible, modular software
-- category: ai-research
-  description: Image with black and blue background with an example JSON Schema code
-    snippet and the Gemini logo sparkle
-  icon: fa-google
-  link: https://blog.google/technology/developers/gemini-api-structured-outputs/
-  pub_date: '2025-11-05T17:00:00'
-  source: Google AI Blog
-  title: Improving Structured Outputs in the Gemini API
-- category: ai-research
-  description: A new approach developed at MIT could help a search-and-rescue robot
-    navigate an unpredictable environment by rapidly generating an accurate map of
-    its surroundings.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/teaching-robots-to-map-large-environments-1105
-  pub_date: '2025-11-05T15:00:00'
-  source: MIT AI News
-  title: Teaching robots to map large environments
-- category: ai-research
-  description: MIT's Teaching Systems Lab, led by Associate Professor Justin Reich,
-    is working to help educators by listening to and sharing their stories.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/helping-k-12-schools-navigate-complex-world-of-ai-1103
-  pub_date: '2025-11-03T21:45:00'
-  source: MIT AI News
-  title: Helping K-12 schools navigate the complex world of AI
-- category: ai-research
-  description: MIT PhD student and CSAIL researcher Justin Kay describes his work
-    combining AI and computer vision systems to monitor the ecosystems that support
-    our planet.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/3q-how-ai-is-helping-monitor-support-vulnerable-ecosystems-1103
-  pub_date: '2025-11-03T20:55:00'
-  source: MIT AI News
-  title: '3 Questions: How AI is helping us monitor and support vulnerable ecosystems'
-- category: ai-research
-  description: The FSNet system, developed at MIT, could help power grid operators
-    rapidly find feasible solutions for optimizing the flow of electricity.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/faster-problem-solving-tool-guarantees-feasibility-1103
-  pub_date: '2025-11-03T05:00:00'
-  source: MIT AI News
-  title: A faster problem-solving tool that guarantees feasibility
-- category: ai-research
-  description: PhD student Miranda Schwacke explores how computing inspired by the
-    human brain can fuel energy-efficient artificial intelligence.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/brain-power-behind-sustainable-ai-miranda-schwacke-1024
-  pub_date: '2025-10-24T04:00:00'
-  source: MIT AI News
-  title: The brain power behind sustainable AI
-- category: ai-research
-  description: Professors Facundo Batista and Dina Katabi, along with three additional
-    MIT alumni, are honored for their outstanding professional achievement and commitment
-    to service.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-affiliates-elected-national-academy-medicine-1022
-  pub_date: '2025-10-22T19:25:00'
-  source: MIT AI News
-  title: Five with MIT ties elected to National Academy of Medicine for 2025
-last_updated: '2025-11-13T17:03:52.592740'
+last_updated: '2025-12-01T06:34:37.660718'
