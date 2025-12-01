@@ -1,5 +1,14 @@
 articles:
 - category: machine-learning
+  description: Robust proxies allow you to rotate identities, reach any region, and
+    bypass sophisticated anti-bot systems, all while protecting your infrastructure
+    from blocks and blacklisting.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/brightdata/the-best-proxy-providers-for-large-scale-scraping-for-2026
+  pub_date: '2025-11-30T11:00:19'
+  source: KDnuggets
+  title: The Best Proxy Providers for Large-Scale Scraping for 2026
+- category: machine-learning
   description: Set up, build, and test agentic apps with Claude Code, powered by your
     locally installed Claude CLI and Claude Code subscription.
   icon: fa-chart-bar
@@ -140,15 +149,6 @@ articles:
   pub_date: '2025-11-24T22:00:00'
   source: MIT AI News
   title: How artificial intelligence can help achieve a clean energy future
-- category: machine-learning
-  description: Abacus AI offers the world's first professional and enterprise AI Super
-    Assistant. It's an all-in-one AI platform for the top language, image, voic,e
-    and video models along with all the tooling and in...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2025/11/abacus/my-honest-take-on-abacus-ai-chatllm-deepagent-enterprise
-  pub_date: '2025-11-24T18:00:00'
-  source: KDnuggets
-  title: 'My Honest Review on Abacus AI: ChatLLM, DeepAgent & Enterprise'
 - category: ai-research
   description: An illustrated overhead view of people sitting around a red table with
     a roasted turkey in the center, and various plates surrounding. Various Google
@@ -246,4 +246,4 @@ articles:
   pub_date: '2025-11-06T13:00:00'
   source: MIT AI News
   title: MIT researchers propose a new model for legible, modular software
-last_updated: '2025-11-30T06:30:35.404872'
+last_updated: '2025-12-01T06:34:37.660718'
