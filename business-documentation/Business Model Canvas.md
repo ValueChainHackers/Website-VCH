@@ -1,0 +1,1 @@
+# Business Model Canvas\n\n## Key Partners\n\n## Key Activities\n\n## Key Resources\n\n## Value Propositions\n\n## Customer Relationships\n\n## Channels\n\n## Customer Segments\n\n## Cost Structure\n\n## Revenue Streams\n
