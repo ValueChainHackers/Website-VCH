@@ -1,13 +1,65 @@
 articles:
+- category: ai-research
+  description: AquaCulture Shock program, in collaboration with MIT-Scandinavia MISTI,
+    offers international internships for AI and autonomy in aquaculture
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/aquaculture-shock-ai-and-autonomy-aquaculture-1201
+  pub_date: '2025-12-01T21:25:00'
+  source: MIT AI News
+  title: MIT Sea Grant students explore the intersection of technology and offshore
+    aquaculture in Norway
+- category: ai-research
+  description: At MITEI's Fall Colloquium, General Motors' battery development expert
+    emphasized how affordability, accessibility, and commercialization can position
+    the US as a leader in battery tech.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/driving-american-battery-innovation-forward-1201
+  pub_date: '2025-12-01T20:50:00'
+  source: MIT AI News
+  title: Driving American battery innovation forward
+- category: ai-research
+  description: We're bringing our most intelligent model yet, Gemini 3 Pro, to Google
+    Search in more countries around the world.
+  icon: fa-google
+  link: https://blog.google/products/search/gemini-3-ai-mode-more-countries/
+  pub_date: '2025-12-01T20:00:00'
+  source: Google AI Blog
+  title: Gemini 3 and Nano Banana Pro in Search are coming to more countries around
+    the world.
+- category: ai-research
+  description: For PhD student Benjamin Manning, the future of work means grasping
+    AI's role on our behalf while transforming and accelerating social scientific
+    discovery.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201
+  pub_date: '2025-12-01T18:35:00'
+  source: MIT AI News
+  title: Exploring how AI will shape the future of work
 - category: machine-learning
-  description: Robust proxies allow you to rotate identities, reach any region, and
-    bypass sophisticated anti-bot systems, all while protecting your infrastructure
-    from blocks and blacklisting.
+  description: Build a lightweight Python DSL to define and check data quality rules
+    in a clear, expressive way. Turn complex validation logic into simple, reusable
+    configurations that anyone on your data team can u...
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2025/11/brightdata/the-best-proxy-providers-for-large-scale-scraping-for-2026
-  pub_date: '2025-11-30T11:00:19'
+  link: https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python
+  pub_date: '2025-12-01T17:00:16'
   source: KDnuggets
-  title: The Best Proxy Providers for Large-Scale Scraping for 2026
+  title: Building a Simple Data Quality DSL in Python
+- category: machine-learning
+  description: It's not about clever wording anymore. It's about designing environments
+    where AI can think with depth, consistency, and purpose.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/context-engineering-is-the-new-prompt-engineering
+  pub_date: '2025-12-01T15:00:30'
+  source: KDnuggets
+  title: Context Engineering is the New Prompt Engineering
+- category: machine-learning
+  description: In this article, we overview five cutting-edge MLOps trends that will
+    shape 2026.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-cutting-edge-mlops-techniques-to-watch-in-2026
+  pub_date: '2025-12-01T13:00:26'
+  source: KDnuggets
+  title: 5 Cutting-Edge MLOps Techniques to Watch in 2026
 - category: machine-learning
   description: Set up, build, and test agentic apps with Claude Code, powered by your
     locally installed Claude CLI and Claude Code subscription.
@@ -122,24 +174,6 @@ articles:
   pub_date: '2025-11-25T16:00:00'
   source: Google AI Blog
   title: 3 things to know about Ironwood, our latest TPU
-- category: machine-learning
-  description: Deploy an AI analyst fast by connecting any LLM to your SQL database
-    with Bag of Words, allowing immediate, trustworthy data insights via natural language
-    queries.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/deploy-an-ai-analyst-in-minutes-connect-any-llm-to-any-data-source-with-bag-of-words
-  pub_date: '2025-11-25T15:00:51'
-  source: KDnuggets
-  title: 'Deploy an AI Analyst in Minutes: Connect Any LLM to Any Data Source with
-    Bag of Words'
-- category: machine-learning
-  description: Learn the theory, math, and engineering behind machine learning with
-    these highly recommended free books.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-5-free-must-read-books-for-every-machine-learning-engineer
-  pub_date: '2025-11-25T12:14:35'
-  source: KDnuggets
-  title: The 5 FREE Must-Read Books for Every Machine Learning Engineer
 - category: ai-research
   description: AI supports the clean energy transition as it manages power grid operations,
     helps plan infrastructure investments, guides development of novel materials,
@@ -184,13 +218,6 @@ articles:
   source: Google AI Blog
   title: Build with Nano Banana Pro, our Gemini 3 Pro Image model
 - category: ai-research
-  description: Nano Banana Pro with generated images around it
-  icon: fa-google
-  link: https://blog.google/technology/ai/nano-banana-pro/
-  pub_date: '2025-11-20T15:00:00'
-  source: Google AI Blog
-  title: Introducing Nano Banana Pro
-- category: ai-research
   description: MIT neuroscientists find a surprising parallel in the ways humans and
     new AI models solve complex problems.
   icon: fa-graduation-cap
@@ -222,28 +249,4 @@ articles:
   pub_date: '2025-11-11T05:00:00'
   source: MIT AI News
   title: Understanding the nuances of human-like intelligence
-- category: ai-research
-  description: MIT faculty and MITEI member company experts address power demand from
-    data centers.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-energy-initiative-launches-data-center-power-forum-1107
-  pub_date: '2025-11-07T19:55:00'
-  source: MIT AI News
-  title: MIT Energy Initiative launches Data Center Power Forum
-- category: ai-research
-  description: MIT PhD students who interned with the MIT-IBM Watson AI Lab Summer
-    Program are pushing AI tools to be more flexible, efficient, and grounded in truth.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/charting-the-future-of-ai-from-safer-answers-to-faster-thinking-1106
-  pub_date: '2025-11-06T21:40:00'
-  source: MIT AI News
-  title: Charting the future of AI, from safer answers to faster thinking
-- category: ai-research
-  description: The coding framework uses modular concepts and simple synchronization
-    rules to make software clearer, safer, and easier for LLMs to generate.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-researchers-propose-new-model-for-legible-modular-software-1106
-  pub_date: '2025-11-06T13:00:00'
-  source: MIT AI News
-  title: MIT researchers propose a new model for legible, modular software
-last_updated: '2025-12-01T06:34:37.660718'
+last_updated: '2025-12-02T06:33:36.189748'
