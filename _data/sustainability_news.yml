@@ -1,5 +1,22 @@
 articles:
 - category: circular
+  description: Wales has confirmed it will include glass as an in-scope material in
+    its deposit return scheme at launch but no deposit will be charged on any glass
+    containers. The post Welsh DRS to launch with glass...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wales-announces-phased-approach-to-introducing-glass-into-drs/
+  pub_date: '2025-12-01T10:13:18'
+  source: Circular Online
+  title: Welsh DRS to launch with glass as in-scope material
+- category: supply-chain
+  description: NAFTZ President Jeff Tafel explains how U.S. companies are using Foreign-Trade
+    Zones lower costs and stay ahead of peak season freight pressure.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-foreign-trade-zones-help-companies-handle-peak-season
+  pub_date: '2025-12-01T01:55:00'
+  source: Supply Chain 24/7
+  title: How Foreign-Trade Zones Are Helping Companies Beat the Holiday Rush
+- category: circular
   description: The Environmental Services Association (ESA) has announced John Scanlon,
     Chief Executive Officer of SUEZ recycling and recovery UK, as its new Chair. Scanlon
     replaces Michael Topham, who steps down at...
@@ -60,14 +77,6 @@ articles:
   pub_date: '2025-11-26T13:54:00'
   source: Supply Chain 24/7
   title: Rail Leaders Split on $85B Union Pacific-Norfolk Southern Merger
-- category: supply-chain
-  description: NAFTZ President Jeff Tafel explains how U.S. companies are using Foreign-Trade
-    Zones lower costs and stay ahead of peak season freight pressure.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-foreign-trade-zones-help-companies-handle-peak-season
-  pub_date: '2025-11-26T13:30:00'
-  source: Supply Chain 24/7
-  title: How Foreign-Trade Zones Are Helping Companies Beat the Holiday Rush
 - category: supply-chain
   description: Freight fraud is rising fast, and Truckstop says strong verification
     and communication are now essential to protect every transaction.
@@ -162,13 +171,4 @@ articles:
   pub_date: '2025-11-24T15:39:00'
   source: Supply Chain 24/7
   title: New Coalition Pushes for Federal Rules on Autonomous Vehicles
-- category: circular
-  description: French water management, waste management and energy services group
-    Veolia has acquired the U.S.-based hazardous waste company Clean Earth for 2.6bn.
-    In what it called its biggest acquisition since it...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/veolia-acquires-u-s-hazardous-waste-company-clean-earth-for-e2-6bn/
-  pub_date: '2025-11-24T14:51:45'
-  source: Circular Online
-  title: Veolia acquires U.S. hazardous waste company Clean Earth for €2.6bn
-last_updated: '2025-12-01T06:34:35.110900'
+last_updated: '2025-12-02T06:33:35.280416'
