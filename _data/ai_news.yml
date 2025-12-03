@@ -1,5 +1,47 @@
 articles:
 - category: ai-research
+  description: You can now use Circle to Search and Google Lens to detect scammy messages
+    you receive on your phone.
+  icon: fa-google
+  link: https://blog.google/products/search/scam-detection-circle-to-search-lens/
+  pub_date: '2025-12-02T19:00:00'
+  source: Google AI Blog
+  title: Use Circle to Search and Google Lens to spot scam messages.
+- category: ai-research
+  description: MIT CSAIL and LIDS researchers developed a mathematically grounded
+    system that lets soft robots deform, adapt, and interact with people and objects,
+    without violating safety limits.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/new-control-system-teaches-soft-robots-art-staying-safe-1202
+  pub_date: '2025-12-02T19:00:00'
+  source: MIT AI News
+  title: New control system teaches soft robots the art of staying safe
+- category: machine-learning
+  description: What if I told you that a powerful vibe coding workflow on par with
+    Claude Code can cost you less than $10? Let me prove it.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-vibe-code-on-a-budget
+  pub_date: '2025-12-02T15:00:17'
+  source: KDnuggets
+  title: How to Vibe Code on a Budget
+- category: machine-learning
+  description: The value of a modern company isn't in its firewalls; it's in its terabytes
+    of proprietary, labeled data and the predictive models built upon them.
+  icon: fa-chart-bar
+  link: https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech
+  pub_date: '2025-12-02T14:00:18'
+  source: KDnuggets
+  title: How Proactive Cybersecurity Saves Money (and Reputation) (Sponsored)
+- category: machine-learning
+  description: This article explores how to transform ChatGPT from a chatbot into
+    a powerful data assistant that streamlines the repetitive, the tedious, and the
+    complex.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-chatgpt-tricks-to-automate-your-data-tasks
+  pub_date: '2025-12-02T13:24:47'
+  source: KDnuggets
+  title: 7 ChatGPT Tricks to Automate Your Data Tasks
+- category: ai-research
   description: AquaCulture Shock program, in collaboration with MIT-Scandinavia MISTI,
     offers international internships for AI and autonomy in aquaculture
   icon: fa-graduation-cap
@@ -101,22 +143,6 @@ articles:
   pub_date: '2025-11-26T23:00:00'
   source: Google AI Blog
   title: Here’s how researchers in Asia-Pacific are using AlphaFold
-- category: machine-learning
-  description: Understanding the underlying technology helps explain why AI browsers
-    exhibit such uneven performance.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/are-ai-browsers-any-good-day-with-perplexity-comet-openai-atlas
-  pub_date: '2025-11-26T15:00:57'
-  source: KDnuggets
-  title: Are AI Browsers Any Good? A Day with Perplexity’s Comet and OpenAI’s Atlas
-- category: machine-learning
-  description: This article transforms the unwelcome experiences into five comprehensive
-    frameworks that will elevate your Excel-based machine learning work.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-excel-ai-lessons-i-learned-the-hard-way
-  pub_date: '2025-11-26T13:00:06'
-  source: KDnuggets
-  title: 5 Excel AI Lessons I Learned the Hard Way
 - category: ai-research
   description: Large language models can learn to mistakenly link certain sentence
     patterns with specific topics - and may then repeat these patterns instead of
@@ -143,14 +169,6 @@ articles:
   source: MIT AI News
   title: MIT scientists debut a generative AI model that could create molecules addressing
     hard-to-treat diseases
-- category: machine-learning
-  description: 'Don''t Miss DataCamp''s Black Friday Deal: Nov 12-Dec 4'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2025/11/datacamp/our-favourite-black-friday-deal-to-learn-sql-ai-python-and-become-a-certified-data-analyst
-  pub_date: '2025-11-25T18:00:54'
-  source: KDnuggets
-  title: Our favourite Black Friday deal to Learn SQL, AI, Python, and become a certified
-    data analyst!
 - category: ai-research
   description: Learn more about using Google products like Gemini, Search, Shopping,
     Pixel and more over the holidays.
@@ -210,14 +228,6 @@ articles:
   source: Google AI Blog
   title: How we’re bringing AI image verification to the Gemini app
 - category: ai-research
-  description: Image with multiple input-output images with the text Build with Nano
-    Banana Pro in the center
-  icon: fa-google
-  link: https://blog.google/technology/developers/gemini-3-pro-image-developers/
-  pub_date: '2025-11-20T15:00:00'
-  source: Google AI Blog
-  title: Build with Nano Banana Pro, our Gemini 3 Pro Image model
-- category: ai-research
   description: MIT neuroscientists find a surprising parallel in the ways humans and
     new AI models solve complex problems.
   icon: fa-graduation-cap
@@ -241,12 +251,4 @@ articles:
   source: MIT AI News
   title: MIT Energy Initiative conference spotlights research priorities amidst a
     changing energy landscape
-- category: ai-research
-  description: Associate Professor Phillip Isola studies the ways in which intelligent
-    machines "think," in an effort to safely integrate AI into human society.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/understanding-nuances-human-intelligence-phillip-isola-1111
-  pub_date: '2025-11-11T05:00:00'
-  source: MIT AI News
-  title: Understanding the nuances of human-like intelligence
-last_updated: '2025-12-02T06:33:36.189748'
+last_updated: '2025-12-03T06:33:15.708403'
