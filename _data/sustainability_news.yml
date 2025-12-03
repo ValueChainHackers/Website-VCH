@@ -1,4 +1,64 @@
 articles:
+- category: supply-chain
+  description: A new report shows that many of America's most injury-prone industries
+    are key parts of the supply chain, including manufacturing, retail, transportation,
+    and warehousing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-workplace-injuries-top-industries
+  pub_date: '2025-12-02T15:10:00'
+  source: Supply Chain 24/7
+  title: Top 10 U.S. Industries With the Most Workplace Injuries
+- category: supply-chain
+  description: Identity-based cargo theft is rising fast, and Mike Grabovica explains
+    how warehouses can stop these scams at the gate.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-fake-ids-are-fueling-a-surge-in-warehouse-cargo-theft
+  pub_date: '2025-12-02T15:04:00'
+  source: Supply Chain 24/7
+  title: How Fake IDs Are Fueling a Surge in Warehouse Cargo Theft
+- category: supply-chain
+  description: AI is helping people work faster, but rising mistakes and rework show
+    that companies still need clearer guidance and stronger guardrails for everyday
+    use.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-ai-productivity-and-errors-2026
+  pub_date: '2025-12-02T14:53:00'
+  source: Supply Chain 24/7
+  title: AI Boosts Speed at Work but Accuracy Problems Are Increasing
+- category: supply-chain
+  description: A new federal review found 44% of CDL training schools out of compliance,
+    putting thousands of programs at risk of decertification.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/report-44-of-truck-driver-schools-not-meeting-required-standards
+  pub_date: '2025-12-02T14:17:00'
+  source: Supply Chain 24/7
+  title: 'Report: 44% of Truck-Driver Schools Not Meeting Required Standards'
+- category: supply-chain
+  description: Amazon is testing 30-minute delivery for groceries and essentials in
+    parts of Seattle and Philadelphia using compact, local fulfillment sites.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-30-minute-delivery-seattle-philadelphia
+  pub_date: '2025-12-02T13:03:00'
+  source: Supply Chain 24/7
+  title: Amazon Tests 30 Minute Delivery in Seattle and Philadelphia
+- category: circular
+  description: The Wood Recyclers' Association (WRA) and Wood Panel Industries Federation
+    (WPIF) have expressed disappointment over the government's decision to keep the
+    wood packaging recycling target unchanged for...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wra-and-wpif-disappointed-over-2026-wood-packaging-recycling-targets/
+  pub_date: '2025-12-02T10:50:35'
+  source: Circular Online
+  title: WRA and WPIF ‘disappointed’ over 2026 wood packaging recycling targets
+- category: circular
+  description: UK Government targets 50% cut to residual waste by 2042 as part of
+    revised Environmental Improvement Plan (EIP). The post UK Government targets 50%
+    cut in residual waste by 2042 appeared first on Circ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-government-targets-50-cut-in-residual-waste-by-2042/
+  pub_date: '2025-12-02T09:13:20'
+  source: Circular Online
+  title: UK Government targets 50% cut in residual waste by 2042
 - category: circular
   description: Wales has confirmed it will include glass as an in-scope material in
     its deposit return scheme at launch but no deposit will be charged on any glass
@@ -93,32 +153,6 @@ articles:
   pub_date: '2025-11-25T16:21:00'
   source: Supply Chain 24/7
   title: What if Trucking’s Driver Shortage Isn’t About Drivers After All?
-- category: supply-chain
-  description: Eight fashion brands have joined Canopy's initiative to phase out packaging
-    and fabrics linked to ancient and endangered forests and move toward lower-impact
-    materials.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fashion-brands-canopy-forest-free-packaging
-  pub_date: '2025-11-25T14:43:00'
-  source: Supply Chain 24/7
-  title: Eight Fashion Brands Pledge to Cut Forest Sourcing From Supply Chains
-- category: supply-chain
-  description: Nokia will invest $4 billion to expand U.S. R&D and manufacturing for
-    AI-ready networking technologies across mobile, optical, and data center systems.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nokia-us-ai-network-investment
-  pub_date: '2025-11-25T14:21:00'
-  source: Supply Chain 24/7
-  title: Nokia Plans $4 Billion Investment to Build AI-Ready Networks in the U.S.
-- category: supply-chain
-  description: Macquarie has made a $7.5 billion offer to buy Qube Holdings, which
-    would give it control of major ports and terminals across Australia's logistics
-    network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/macquarie-qube-logistics-acquisition
-  pub_date: '2025-11-25T14:09:00'
-  source: Supply Chain 24/7
-  title: Macquarie Makes $7.5 Billion Bid for Australia’s Qube Holdings
 - category: circular
   description: A 39-year-old man has been was arrested as part of an investigation
     into the large-scale, illegal dumping of waste near Kidlington, Oxfordshire. The
@@ -128,14 +162,6 @@ articles:
   pub_date: '2025-11-25T13:44:31'
   source: Circular Online
   title: Man arrested over Kidlington illegal waste tipping
-- category: supply-chain
-  description: AstraZeneca will invest $2 billion to expand manufacturing in Maryland
-    and bring 2,600 jobs across its Frederick and Gaithersburg facilities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/astrazeneca-maryland-manufacturing-expansion
-  pub_date: '2025-11-25T13:22:00'
-  source: Supply Chain 24/7
-  title: AstraZeneca to Invest $2 Billion in Maryland Manufacturing Hub
 - category: circular
   description: The UK Government's new Critical Minerals Strategy sets out the ambition
     to produce 10% of the UK's mineral needs domestically and 20% through recycling
@@ -145,30 +171,4 @@ articles:
   pub_date: '2025-11-25T09:39:27'
   source: Circular Online
   title: UK’s new Critical Minerals Strategy sets out recycling ambitions
-- category: circular
-  description: A Lincolnshire waste company has been fined GBP1 million for buying
-    and selling catalytic converters without an environmental permit. Recorder John
-    Hardy KC imposed the order on Platinum Group Metals ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/company-fined-1m-for-running-illegal-catalytic-converter-operation/
-  pub_date: '2025-11-25T08:30:13'
-  source: Circular Online
-  title: Company fined £1m for running illegal catalytic converter operation
-- category: circular
-  description: Serious pollution incidents from permitted and exempt waste management
-    activities rose by 57% in the past year, the Environment Agency Chief Regulator's
-    report finds. The post Serious pollution in was...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/serious-pollution-in-waste-sector-rises-by-57-environment-agency-finds/
-  pub_date: '2025-11-25T08:30:00'
-  source: Circular Online
-  title: Serious pollution in waste sector rises by 57%, Environment Agency finds
-- category: supply-chain
-  description: A coalition of 28 organizations has formed United for Autonomy to push
-    for a federal autonomous vehicle policy that supports safety and innovation.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/federal-av-policy-united-for-autonomy
-  pub_date: '2025-11-24T15:39:00'
-  source: Supply Chain 24/7
-  title: New Coalition Pushes for Federal Rules on Autonomous Vehicles
-last_updated: '2025-12-02T06:33:35.280416'
+last_updated: '2025-12-03T06:33:14.785484'
