@@ -1,5 +1,65 @@
 articles:
 - category: supply-chain
+  description: GEODIS is expanding its air freight network across South America through
+    a new interline agreement with Atlas Air.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/geodis-expands-south-america-air-freight-network
+  pub_date: '2025-12-03T18:50:00'
+  source: Supply Chain 24/7
+  title: GEODIS Expands South America Air Network With Atlas Air Deal
+- category: supply-chain
+  description: DHL says holiday shipping is running smoothly this year thanks to earlier
+    planning, better forecasting, and robotics that help keep peak season predictable.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-peak-season-planning-robotics
+  pub_date: '2025-12-03T14:24:00'
+  source: Supply Chain 24/7
+  title: DHL Enters Peak Season With More Planning, Less Panic in 2025
+- category: supply-chain
+  description: Costco has joined several companies suing the Trump administration
+    over emergency tariffs, seeking refunds and a clearer legal framework for import
+    costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/costco-sues-trump-over-tariffs-refund-request
+  pub_date: '2025-12-03T14:05:00'
+  source: Supply Chain 24/7
+  title: Costco Joins Retailers Suing Trump Over Emergency Tariffs
+- category: supply-chain
+  description: U.S. manufacturing contracted again in November as new orders slowed,
+    pipelines thinned, and tariff uncertainty continued to weigh on decision-making.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-november-2025-ism-report-tariffs-orders
+  pub_date: '2025-12-03T13:45:00'
+  source: Supply Chain 24/7
+  title: 'ISM: Manufacturing Slips Again in November as Orders Stay Soft'
+- category: supply-chain
+  description: LTL veteran Scooter Sayers shared his take on the freight economy,
+    pricing, tariffs, and technology in a new podcast, offering five insights for
+    shippers heading into 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/five-things-scooter-sayers-says-about-ltl-market-2026
+  pub_date: '2025-12-03T13:02:00'
+  source: Supply Chain 24/7
+  title: Five Trends Shaping the LTL Market as 2026 Approaches
+- category: circular
+  description: Eight projects across England to receive a share of GBP68 million from
+    the Green Heat Network Fund (GHNF). The post 8 projects to receive GBP68 million
+    from the Green Heat Network Fund appeared first ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/8-projects-to-receive-68-million-from-the-green-heat-network-fund/
+  pub_date: '2025-12-03T10:40:03'
+  source: Circular Online
+  title: 8 projects to receive £68 million from the Green Heat Network Fund
+- category: circular
+  description: The Environment Agency has committed to clearing a mountain of illegally
+    dumped waste in Oxfordshire as soon as possible. The post Kidlington waste mountain
+    to be removed 'as soon as possible' appeare...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/kidlington-waste-mountain-to-be-removed-as-soon-as-possible/
+  pub_date: '2025-12-03T09:29:13'
+  source: Circular Online
+  title: Kidlington waste mountain to be removed ‘as soon as possible’
+- category: supply-chain
   description: A new report shows that many of America's most injury-prone industries
     are key parts of the supply chain, including manufacturing, retail, transportation,
     and warehousing.
@@ -68,14 +128,6 @@ articles:
   pub_date: '2025-12-01T10:13:18'
   source: Circular Online
   title: Welsh DRS to launch with glass as in-scope material
-- category: supply-chain
-  description: NAFTZ President Jeff Tafel explains how U.S. companies are using Foreign-Trade
-    Zones lower costs and stay ahead of peak season freight pressure.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-foreign-trade-zones-help-companies-handle-peak-season
-  pub_date: '2025-12-01T01:55:00'
-  source: Supply Chain 24/7
-  title: How Foreign-Trade Zones Are Helping Companies Beat the Holiday Rush
 - category: circular
   description: The Environmental Services Association (ESA) has announced John Scanlon,
     Chief Executive Officer of SUEZ recycling and recovery UK, as its new Chair. Scanlon
@@ -112,14 +164,6 @@ articles:
   pub_date: '2025-11-27T08:00:00'
   source: Circular Online
   title: CIWM offers cautious optimism on COP30 outcomes
-- category: supply-chain
-  description: A new MIT and Mecalux study found that AI is improving warehouse work
-    while expanding the human workforce.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-is-helping-warehouse-jobs-grow
-  pub_date: '2025-11-26T15:35:00'
-  source: Supply Chain 24/7
-  title: New Study Says AI Helps Workers and Creates More Warehouse Roles
 - category: circular
   description: 'The UK Government has confirmed that it will not proceed with transitioning
     to a single rate of landfill tax by 2030, following pushback from the construction
@@ -129,46 +173,4 @@ articles:
   pub_date: '2025-11-26T14:20:20'
   source: Circular Online
   title: 'Budget 2025: Government backtracks on landfill tax overhaul'
-- category: supply-chain
-  description: Rail leaders at RailTrends are split on whether the $85B UP-NS merger
-    will deliver better service-or reduce competition.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/up-ns-merger-railtrends-reaction
-  pub_date: '2025-11-26T13:54:00'
-  source: Supply Chain 24/7
-  title: Rail Leaders Split on $85B Union Pacific-Norfolk Southern Merger
-- category: supply-chain
-  description: Freight fraud is rising fast, and Truckstop says strong verification
-    and communication are now essential to protect every transaction.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/freight-fraud-is-getting-harder-to-spot-in-2025
-  pub_date: '2025-11-26T13:16:00'
-  source: Supply Chain 24/7
-  title: Three Freight Fraud Trends Every Carrier Should Watch
-- category: supply-chain
-  description: 'Q&A: Magnus Technologies CEO Matt Cartwright discusses the driver
-    shortage and how better workflows can make the job more stable.'
-  icon: fa-box
-  link: https://www.supplychain247.com/article/qa-matt-cartwright-magnus-technologies
-  pub_date: '2025-11-25T16:21:00'
-  source: Supply Chain 24/7
-  title: What if Trucking’s Driver Shortage Isn’t About Drivers After All?
-- category: circular
-  description: A 39-year-old man has been was arrested as part of an investigation
-    into the large-scale, illegal dumping of waste near Kidlington, Oxfordshire. The
-    post Man arrested over Kidlington illegal waste tip...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/breaking-man-arrested-over-kidlington-illegal-waste-dumping/
-  pub_date: '2025-11-25T13:44:31'
-  source: Circular Online
-  title: Man arrested over Kidlington illegal waste tipping
-- category: circular
-  description: The UK Government's new Critical Minerals Strategy sets out the ambition
-    to produce 10% of the UK's mineral needs domestically and 20% through recycling
-    by 2035. The post UK's new Critical Minerals St...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uks-new-critical-minerals-strategy-sets-out-recycling-ambitions/
-  pub_date: '2025-11-25T09:39:27'
-  source: Circular Online
-  title: UK’s new Critical Minerals Strategy sets out recycling ambitions
-last_updated: '2025-12-03T06:33:14.785484'
+last_updated: '2025-12-04T06:33:00.843771'
