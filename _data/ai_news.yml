@@ -1,5 +1,73 @@
 articles:
 - category: ai-research
+  description: This new technique enables LLMs to dynamically adjust the amount of
+    computation they use for reasoning, based on the difficulty of the question.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/smarter-way-large-language-models-think-about-hard-problems-1204
+  pub_date: '2025-12-04T05:00:00'
+  source: MIT AI News
+  title: A smarter way for large language models to think about hard problems
+- category: ai-research
+  description: With insect-like speed and agility, the tiny robot could someday aid
+    in search-and-rescue missions.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203
+  pub_date: '2025-12-03T19:00:00'
+  source: MIT AI News
+  title: MIT engineers design an aerial microrobot that can fly as fast as a bumblebee
+- category: machine-learning
+  description: See how different time series methods reveal the shifts, surges, and
+    stabilization in inflation expectations.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/time-series-and-trend-analysis-challenge-inspired-by-real-world-datasets
+  pub_date: '2025-12-03T16:32:12'
+  source: KDnuggets
+  title: Time Series and Trend Analysis Challenge Inspired by Real World Datasets
+- category: ai-research
+  description: Animation showing Google Photos Recap 2025
+  icon: fa-google
+  link: https://blog.google/products/photos/google-photos-2025-recap/
+  pub_date: '2025-12-03T16:00:00'
+  source: Google AI Blog
+  title: Look back on your 2025 with Google Photos Recap
+- category: ai-research
+  description: Macro, a modeling tool developed by the MIT Energy Initiative, enables
+    energy-system planners to explore options for developing infrastructure to support
+    decarbonized, reliable, and low-cost power gri...
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/helping-power-system-planners-prepare-unknown-future-1203
+  pub_date: '2025-12-03T16:00:00'
+  source: MIT AI News
+  title: Helping power-system planners prepare for an unknown future
+- category: machine-learning
+  description: Explore top GitHub repositories to help you master this new style of
+    coding and ship full-stack products faster than ever.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-github-repositories-to-master-vibe-coding
+  pub_date: '2025-12-03T13:00:19'
+  source: KDnuggets
+  title: 10 GitHub Repositories to Master Vibe Coding
+- category: ai-research
+  description: A female doctor with glasses sits across from an elderly female patient,
+    reviewing medical data on floating digital screens that display heart health metrics,
+    graphs, and a secure patient profile.
+  icon: fa-google
+  link: https://blog.google/technology/health/ai-health-fund-eu/
+  pub_date: '2025-12-03T12:00:00'
+  source: Google AI Blog
+  title: We’re announcing new health AI funding, while a new report signals a turning
+    point for health in Europe.
+- category: ai-research
+  description: Today, we are celebrating the extraordinary impact of Nobel Prize-winner
+    Geoffrey Hinton by investing in the future of the field he helped build. Google
+    is proud to supp...
+  icon: fa-google
+  link: https://blog.google/technology/ai/hinton-chair-toronto/
+  pub_date: '2025-12-03T00:00:00'
+  source: Google AI Blog
+  title: We’re celebrating Geoffrey Hinton’s Nobel-winning legacy with the University
+    of Toronto.
+- category: ai-research
   description: You can now use Circle to Search and Google Lens to detect scammy messages
     you receive on your phone.
   icon: fa-google
@@ -118,22 +186,6 @@ articles:
   pub_date: '2025-11-28T13:00:34'
   source: KDnuggets
   title: 5 Practical Docker Configurations
-- category: machine-learning
-  description: 'The point is this: those who learn to collaborate with AI rather than
-    fear it will hold the keys to tomorrow''s job market.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/staying-ahead-of-ai-in-your-career
-  pub_date: '2025-11-27T15:08:04'
-  source: KDnuggets
-  title: Staying Ahead of AI in Your Career
-- category: machine-learning
-  description: These are the essentials that help me code faster, analyze data smarter,
-    and automate more of my workflow.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-ai-tools-i-cant-live-without-as-a-professional-data-scientist
-  pub_date: '2025-11-27T13:00:01'
-  source: KDnuggets
-  title: 7 AI Tools I Can’t Live Without as a Professional Data Scientist
 - category: ai-research
   description: A visual grid highlighting diverse fields of research, featuring images
     of geothermal activity, agricultural farming, patient care, laboratory testing,
@@ -201,54 +253,4 @@ articles:
   pub_date: '2025-11-24T22:00:00'
   source: MIT AI News
   title: How artificial intelligence can help achieve a clean energy future
-- category: ai-research
-  description: An illustrated overhead view of people sitting around a red table with
-    a roasted turkey in the center, and various plates surrounding. Various Google
-    product icons are incorporated in the image.
-  icon: fa-google
-  link: https://blog.google/products/pixel/google-holiday-hosting-tips-2024/
-  pub_date: '2025-11-21T16:00:00'
-  source: Google AI Blog
-  title: 16 Google AI tips for stress-free holiday hosting in 2025
-- category: ai-research
-  description: A Gemini chat shares a diagram of a plant cell with various labels
-    that are then shown in more detail in a side panel. Each label is highlighted
-    and you can use the side panel to delve deeper.
-  icon: fa-google
-  link: https://blog.google/outreach-initiatives/education/gemini-interactive-images/
-  pub_date: '2025-11-20T20:30:00'
-  source: Google AI Blog
-  title: Develop a deeper understanding with interactive images in Gemini.
-- category: ai-research
-  description: Golden retriever catching frisbee over water. UI overlay shows Google
-    AI watermark detected.
-  icon: fa-google
-  link: https://blog.google/technology/ai/ai-image-verification-gemini-app/
-  pub_date: '2025-11-20T15:00:00'
-  source: Google AI Blog
-  title: How we’re bringing AI image verification to the Gemini app
-- category: ai-research
-  description: MIT neuroscientists find a surprising parallel in the ways humans and
-    new AI models solve complex problems.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/cost-of-thinking-1119
-  pub_date: '2025-11-19T21:45:00'
-  source: MIT AI News
-  title: The cost of thinking
-- category: ai-research
-  description: The virtual VideoCAD tool could boost designers' productivity and help
-    train engineers learning computer-aided design.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/new-ai-agent-learns-use-cad-create-3d-objects-sketches-1119
-  pub_date: '2025-11-19T05:00:00'
-  source: MIT AI News
-  title: New AI agent learns to use CAD to create 3D objects from sketches
-- category: ai-research
-  description: Industry leaders agree collaboration is key to advancing critical technologies.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-energy-initiative-conference-1118
-  pub_date: '2025-11-18T17:10:00'
-  source: MIT AI News
-  title: MIT Energy Initiative conference spotlights research priorities amidst a
-    changing energy landscape
-last_updated: '2025-12-03T06:33:15.708403'
+last_updated: '2025-12-04T06:33:02.565101'
