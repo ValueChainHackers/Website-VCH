@@ -65,3 +65,19 @@ Aligned to strategy: Mon News, Tue Student, Wed AI Tip, Thu Thought Leadership, 
 
 ### Friday Question (20)
 20. 🎯 2026 SCF: DSO or ESG? Debate! Michiel insights? #FutureSCF #ValueChainHackers
+
+## Week 5
+### Monday News (21)
+21. 🚀 Exciting news! Value Chain Hackers partners with SCF Community to advance open-source supply chain AI tools. Together, we're driving transparency and innovation. #ValueChainHackers #SupplyChain #OpenSource #Partnership
+
+### Tuesday Student (22)
+22. 👩🎓 Student spotlight: AI Coffee Quality project uses machine learning to predict bean quality from satellite data. Guided by Maxime Bouillon. #StudentInnovation #AI #Sustainability #ValueChainHackers
+
+### Wednesday AI (23)
+23. 💡 AI Tip: Implement predictive analytics to forecast supply chain disruptions. Our open-source tools help you get started! #AI #SupplyChain #Innovation #ValueChainHackers
+
+### Thursday Thought (24)
+24. 🔓 Michiel Steeman on open-source: 'Collaboration is key to solving complex supply chain challenges.' Explore our GitHub for tools. #ThoughtLeadership #OpenSource #SCF #ValueChainHackers
+
+### Friday Question (25)
+25. ❓ What's the biggest barrier to AI adoption in your supply chain? Tech, skills, or data? Let's discuss! #AI #SupplyChain #Community #ValueChainHackers
