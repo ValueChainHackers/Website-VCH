@@ -1,4 +1,133 @@
 articles:
+- category: supply-chain
+  description: GEODIS is expanding its air freight network across South America through
+    a new interline agreement with Atlas Air.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/geodis-expands-south-america-air-freight-network
+  pub_date: '2025-12-03T18:50:00'
+  source: Supply Chain 24/7
+  title: GEODIS Expands South America Air Network With Atlas Air Deal
+- category: supply-chain
+  description: DHL says holiday shipping is running smoothly this year thanks to earlier
+    planning, better forecasting, and robotics that help keep peak season predictable.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-peak-season-planning-robotics
+  pub_date: '2025-12-03T14:24:00'
+  source: Supply Chain 24/7
+  title: DHL Enters Peak Season With More Planning, Less Panic in 2025
+- category: supply-chain
+  description: Costco has joined several companies suing the Trump administration
+    over emergency tariffs, seeking refunds and a clearer legal framework for import
+    costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/costco-sues-trump-over-tariffs-refund-request
+  pub_date: '2025-12-03T14:05:00'
+  source: Supply Chain 24/7
+  title: Costco Joins Retailers Suing Trump Over Emergency Tariffs
+- category: supply-chain
+  description: U.S. manufacturing contracted again in November as new orders slowed,
+    pipelines thinned, and tariff uncertainty continued to weigh on decision-making.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-november-2025-ism-report-tariffs-orders
+  pub_date: '2025-12-03T13:45:00'
+  source: Supply Chain 24/7
+  title: 'ISM: Manufacturing Slips Again in November as Orders Stay Soft'
+- category: supply-chain
+  description: LTL veteran Scooter Sayers shared his take on the freight economy,
+    pricing, tariffs, and technology in a new podcast, offering five insights for
+    shippers heading into 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/five-things-scooter-sayers-says-about-ltl-market-2026
+  pub_date: '2025-12-03T13:02:00'
+  source: Supply Chain 24/7
+  title: Five Trends Shaping the LTL Market as 2026 Approaches
+- category: circular
+  description: Eight projects across England to receive a share of GBP68 million from
+    the Green Heat Network Fund (GHNF). The post 8 projects to receive GBP68 million
+    from the Green Heat Network Fund appeared first ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/8-projects-to-receive-68-million-from-the-green-heat-network-fund/
+  pub_date: '2025-12-03T10:40:03'
+  source: Circular Online
+  title: 8 projects to receive £68 million from the Green Heat Network Fund
+- category: circular
+  description: The Environment Agency has committed to clearing a mountain of illegally
+    dumped waste in Oxfordshire as soon as possible. The post Kidlington waste mountain
+    to be removed 'as soon as possible' appeare...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/kidlington-waste-mountain-to-be-removed-as-soon-as-possible/
+  pub_date: '2025-12-03T09:29:13'
+  source: Circular Online
+  title: Kidlington waste mountain to be removed ‘as soon as possible’
+- category: supply-chain
+  description: A new report shows that many of America's most injury-prone industries
+    are key parts of the supply chain, including manufacturing, retail, transportation,
+    and warehousing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-workplace-injuries-top-industries
+  pub_date: '2025-12-02T15:10:00'
+  source: Supply Chain 24/7
+  title: Top 10 U.S. Industries With the Most Workplace Injuries
+- category: supply-chain
+  description: Identity-based cargo theft is rising fast, and Mike Grabovica explains
+    how warehouses can stop these scams at the gate.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-fake-ids-are-fueling-a-surge-in-warehouse-cargo-theft
+  pub_date: '2025-12-02T15:04:00'
+  source: Supply Chain 24/7
+  title: How Fake IDs Are Fueling a Surge in Warehouse Cargo Theft
+- category: supply-chain
+  description: AI is helping people work faster, but rising mistakes and rework show
+    that companies still need clearer guidance and stronger guardrails for everyday
+    use.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-ai-productivity-and-errors-2026
+  pub_date: '2025-12-02T14:53:00'
+  source: Supply Chain 24/7
+  title: AI Boosts Speed at Work but Accuracy Problems Are Increasing
+- category: supply-chain
+  description: A new federal review found 44% of CDL training schools out of compliance,
+    putting thousands of programs at risk of decertification.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/report-44-of-truck-driver-schools-not-meeting-required-standards
+  pub_date: '2025-12-02T14:17:00'
+  source: Supply Chain 24/7
+  title: 'Report: 44% of Truck-Driver Schools Not Meeting Required Standards'
+- category: supply-chain
+  description: Amazon is testing 30-minute delivery for groceries and essentials in
+    parts of Seattle and Philadelphia using compact, local fulfillment sites.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-30-minute-delivery-seattle-philadelphia
+  pub_date: '2025-12-02T13:03:00'
+  source: Supply Chain 24/7
+  title: Amazon Tests 30 Minute Delivery in Seattle and Philadelphia
+- category: circular
+  description: The Wood Recyclers' Association (WRA) and Wood Panel Industries Federation
+    (WPIF) have expressed disappointment over the government's decision to keep the
+    wood packaging recycling target unchanged for...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wra-and-wpif-disappointed-over-2026-wood-packaging-recycling-targets/
+  pub_date: '2025-12-02T10:50:35'
+  source: Circular Online
+  title: WRA and WPIF ‘disappointed’ over 2026 wood packaging recycling targets
+- category: circular
+  description: UK Government targets 50% cut to residual waste by 2042 as part of
+    revised Environmental Improvement Plan (EIP). The post UK Government targets 50%
+    cut in residual waste by 2042 appeared first on Circ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-government-targets-50-cut-in-residual-waste-by-2042/
+  pub_date: '2025-12-02T09:13:20'
+  source: Circular Online
+  title: UK Government targets 50% cut in residual waste by 2042
+- category: circular
+  description: Wales has confirmed it will include glass as an in-scope material in
+    its deposit return scheme at launch but no deposit will be charged on any glass
+    containers. The post Welsh DRS to launch with glass...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wales-announces-phased-approach-to-introducing-glass-into-drs/
+  pub_date: '2025-12-01T10:13:18'
+  source: Circular Online
+  title: Welsh DRS to launch with glass as in-scope material
 - category: circular
   description: The Environmental Services Association (ESA) has announced John Scanlon,
     Chief Executive Officer of SUEZ recycling and recovery UK, as its new Chair. Scanlon
@@ -35,14 +164,6 @@ articles:
   pub_date: '2025-11-27T08:00:00'
   source: Circular Online
   title: CIWM offers cautious optimism on COP30 outcomes
-- category: supply-chain
-  description: A new MIT and Mecalux study found that AI is improving warehouse work
-    while expanding the human workforce.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-is-helping-warehouse-jobs-grow
-  pub_date: '2025-11-26T15:35:00'
-  source: Supply Chain 24/7
-  title: New Study Says AI Helps Workers and Creates More Warehouse Roles
 - category: circular
   description: 'The UK Government has confirmed that it will not proceed with transitioning
     to a single rate of landfill tax by 2030, following pushback from the construction
@@ -52,123 +173,4 @@ articles:
   pub_date: '2025-11-26T14:20:20'
   source: Circular Online
   title: 'Budget 2025: Government backtracks on landfill tax overhaul'
-- category: supply-chain
-  description: Rail leaders at RailTrends are split on whether the $85B UP-NS merger
-    will deliver better service-or reduce competition.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/up-ns-merger-railtrends-reaction
-  pub_date: '2025-11-26T13:54:00'
-  source: Supply Chain 24/7
-  title: Rail Leaders Split on $85B Union Pacific-Norfolk Southern Merger
-- category: supply-chain
-  description: NAFTZ President Jeff Tafel explains how U.S. companies are using Foreign-Trade
-    Zones lower costs and stay ahead of peak season freight pressure.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-foreign-trade-zones-help-companies-handle-peak-season
-  pub_date: '2025-11-26T13:30:00'
-  source: Supply Chain 24/7
-  title: How Foreign-Trade Zones Are Helping Companies Beat the Holiday Rush
-- category: supply-chain
-  description: Freight fraud is rising fast, and Truckstop says strong verification
-    and communication are now essential to protect every transaction.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/freight-fraud-is-getting-harder-to-spot-in-2025
-  pub_date: '2025-11-26T13:16:00'
-  source: Supply Chain 24/7
-  title: Three Freight Fraud Trends Every Carrier Should Watch
-- category: supply-chain
-  description: 'Q&A: Magnus Technologies CEO Matt Cartwright discusses the driver
-    shortage and how better workflows can make the job more stable.'
-  icon: fa-box
-  link: https://www.supplychain247.com/article/qa-matt-cartwright-magnus-technologies
-  pub_date: '2025-11-25T16:21:00'
-  source: Supply Chain 24/7
-  title: What if Trucking’s Driver Shortage Isn’t About Drivers After All?
-- category: supply-chain
-  description: Eight fashion brands have joined Canopy's initiative to phase out packaging
-    and fabrics linked to ancient and endangered forests and move toward lower-impact
-    materials.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fashion-brands-canopy-forest-free-packaging
-  pub_date: '2025-11-25T14:43:00'
-  source: Supply Chain 24/7
-  title: Eight Fashion Brands Pledge to Cut Forest Sourcing From Supply Chains
-- category: supply-chain
-  description: Nokia will invest $4 billion to expand U.S. R&D and manufacturing for
-    AI-ready networking technologies across mobile, optical, and data center systems.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nokia-us-ai-network-investment
-  pub_date: '2025-11-25T14:21:00'
-  source: Supply Chain 24/7
-  title: Nokia Plans $4 Billion Investment to Build AI-Ready Networks in the U.S.
-- category: supply-chain
-  description: Macquarie has made a $7.5 billion offer to buy Qube Holdings, which
-    would give it control of major ports and terminals across Australia's logistics
-    network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/macquarie-qube-logistics-acquisition
-  pub_date: '2025-11-25T14:09:00'
-  source: Supply Chain 24/7
-  title: Macquarie Makes $7.5 Billion Bid for Australia’s Qube Holdings
-- category: circular
-  description: A 39-year-old man has been was arrested as part of an investigation
-    into the large-scale, illegal dumping of waste near Kidlington, Oxfordshire. The
-    post Man arrested over Kidlington illegal waste tip...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/breaking-man-arrested-over-kidlington-illegal-waste-dumping/
-  pub_date: '2025-11-25T13:44:31'
-  source: Circular Online
-  title: Man arrested over Kidlington illegal waste tipping
-- category: supply-chain
-  description: AstraZeneca will invest $2 billion to expand manufacturing in Maryland
-    and bring 2,600 jobs across its Frederick and Gaithersburg facilities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/astrazeneca-maryland-manufacturing-expansion
-  pub_date: '2025-11-25T13:22:00'
-  source: Supply Chain 24/7
-  title: AstraZeneca to Invest $2 Billion in Maryland Manufacturing Hub
-- category: circular
-  description: The UK Government's new Critical Minerals Strategy sets out the ambition
-    to produce 10% of the UK's mineral needs domestically and 20% through recycling
-    by 2035. The post UK's new Critical Minerals St...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uks-new-critical-minerals-strategy-sets-out-recycling-ambitions/
-  pub_date: '2025-11-25T09:39:27'
-  source: Circular Online
-  title: UK’s new Critical Minerals Strategy sets out recycling ambitions
-- category: circular
-  description: A Lincolnshire waste company has been fined GBP1 million for buying
-    and selling catalytic converters without an environmental permit. Recorder John
-    Hardy KC imposed the order on Platinum Group Metals ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/company-fined-1m-for-running-illegal-catalytic-converter-operation/
-  pub_date: '2025-11-25T08:30:13'
-  source: Circular Online
-  title: Company fined £1m for running illegal catalytic converter operation
-- category: circular
-  description: Serious pollution incidents from permitted and exempt waste management
-    activities rose by 57% in the past year, the Environment Agency Chief Regulator's
-    report finds. The post Serious pollution in was...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/serious-pollution-in-waste-sector-rises-by-57-environment-agency-finds/
-  pub_date: '2025-11-25T08:30:00'
-  source: Circular Online
-  title: Serious pollution in waste sector rises by 57%, Environment Agency finds
-- category: supply-chain
-  description: A coalition of 28 organizations has formed United for Autonomy to push
-    for a federal autonomous vehicle policy that supports safety and innovation.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/federal-av-policy-united-for-autonomy
-  pub_date: '2025-11-24T15:39:00'
-  source: Supply Chain 24/7
-  title: New Coalition Pushes for Federal Rules on Autonomous Vehicles
-- category: circular
-  description: French water management, waste management and energy services group
-    Veolia has acquired the U.S.-based hazardous waste company Clean Earth for 2.6bn.
-    In what it called its biggest acquisition since it...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/veolia-acquires-u-s-hazardous-waste-company-clean-earth-for-e2-6bn/
-  pub_date: '2025-11-24T14:51:45'
-  source: Circular Online
-  title: Veolia acquires U.S. hazardous waste company Clean Earth for €2.6bn
-last_updated: '2025-12-01T06:34:35.110900'
+last_updated: '2025-12-04T06:33:00.843771'
