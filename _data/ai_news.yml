@@ -1,5 +1,38 @@
 articles:
 - category: ai-research
+  description: Founded by MIT alumni, the Pickle Robot Company has developed machines
+    that can autonomously load and unload trucks inside warehouses and logistic centers.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/robots-spare-warehouse-workers-heavy-lifting-1205
+  pub_date: '2025-12-05T05:00:00'
+  source: MIT AI News
+  title: Robots that spare warehouse workers the heavy lifting
+- category: machine-learning
+  description: Robust proxies allow you to rotate identities, reach any region, and
+    bypass sophisticated anti-bot systems, all while protecting your infrastructure
+    from blocks and blacklisting.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/11/brightdata/the-best-proxy-providers-for-large-scale-scraping-for-2026
+  pub_date: '2025-12-04T18:00:19'
+  source: KDnuggets
+  title: The Best Proxy Providers for Large-Scale Scraping for 2026
+- category: machine-learning
+  description: An overview, summary, and position of cutting-edge research conducted
+    on the emergent topic of LLM introspection on self internal states
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/emergent-introspective-awareness-in-large-language-models
+  pub_date: '2025-12-04T15:00:25'
+  source: KDnuggets
+  title: Emergent Introspective Awareness in Large Language Models
+- category: machine-learning
+  description: Check out this comprehensive guide to building production-ready features
+    that actually work.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-critical-feature-engineering-mistakes-that-kill-machine-learning-projects
+  pub_date: '2025-12-04T13:00:20'
+  source: KDnuggets
+  title: 5 Critical Feature Engineering Mistakes That Kill Machine Learning Projects
+- category: ai-research
   description: This new technique enables LLMs to dynamically adjust the amount of
     computation they use for reasoning, based on the difficulty of the question.
   icon: fa-graduation-cap
@@ -162,30 +195,6 @@ articles:
   pub_date: '2025-12-01T15:00:30'
   source: KDnuggets
   title: Context Engineering is the New Prompt Engineering
-- category: machine-learning
-  description: In this article, we overview five cutting-edge MLOps trends that will
-    shape 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-cutting-edge-mlops-techniques-to-watch-in-2026
-  pub_date: '2025-12-01T13:00:26'
-  source: KDnuggets
-  title: 5 Cutting-Edge MLOps Techniques to Watch in 2026
-- category: machine-learning
-  description: Set up, build, and test agentic apps with Claude Code, powered by your
-    locally installed Claude CLI and Claude Code subscription.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/getting-started-with-the-claude-agent-sdk
-  pub_date: '2025-11-28T15:00:42'
-  source: KDnuggets
-  title: Getting Started with the Claude Agent SDK
-- category: machine-learning
-  description: These five configurations can turn your Docker setup from a slow chore
-    into a finely tuned machine.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-practical-docker-configurations
-  pub_date: '2025-11-28T13:00:34'
-  source: KDnuggets
-  title: 5 Practical Docker Configurations
 - category: ai-research
   description: A visual grid highlighting diverse fields of research, featuring images
     of geothermal activity, agricultural farming, patient care, laboratory testing,
@@ -244,13 +253,4 @@ articles:
   pub_date: '2025-11-25T16:00:00'
   source: Google AI Blog
   title: 3 things to know about Ironwood, our latest TPU
-- category: ai-research
-  description: AI supports the clean energy transition as it manages power grid operations,
-    helps plan infrastructure investments, guides development of novel materials,
-    and more.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124
-  pub_date: '2025-11-24T22:00:00'
-  source: MIT AI News
-  title: How artificial intelligence can help achieve a clean energy future
-last_updated: '2025-12-04T06:33:02.565101'
+last_updated: '2025-12-05T06:33:24.538339'

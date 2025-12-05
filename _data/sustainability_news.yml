@@ -1,5 +1,55 @@
 articles:
 - category: supply-chain
+  description: Amazon is reportedly preparing to expand its own delivery network as
+    USPS talks stall ahead of the 2026 contract expiration.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/report-amazon-looks-to-expand-its-delivery-network-as-usps-talks-stall
+  pub_date: '2025-12-04T18:24:00'
+  source: Supply Chain 24/7
+  title: 'Report: Amazon Looks to Expand Its Delivery Network as USPS Talks Stall'
+- category: supply-chain
+  description: xLight has secured a $150 million proposed CHIPS Act award to build
+    advanced laser technology for U.S. chip manufacturing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/xlight-150m-chips-deal-trump-semiconductors
+  pub_date: '2025-12-04T16:33:00'
+  source: Supply Chain 24/7
+  title: xLight Lands First Trump-Era CHIPS Award for Laser Tech
+- category: supply-chain
+  description: A quick guide to the 2025 holiday shipping deadlines for USPS, UPS
+    and FedEx, with key dates shippers need to hit for Christmas delivery.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/2025-holiday-shipping-deadlines-usps-ups-fedex
+  pub_date: '2025-12-04T16:22:00'
+  source: Supply Chain 24/7
+  title: 2025 Holiday Shipping Deadlines For USPS, UPS, And FedEx
+- category: supply-chain
+  description: Walmart has launched drone delivery at six stores around metro Atlanta,
+    giving nearby customers ultra-fast drop-offs for small orders.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-drone-delivery-atlanta-launch
+  pub_date: '2025-12-04T12:16:00'
+  source: Supply Chain 24/7
+  title: Walmart Starts Drone Delivery From Six Stores Around Atlanta
+- category: circular
+  description: Scotland discarded 112 kilotonnes (kt) of textiles in 2023, with 50%
+    being disposed of as waste to landfill or incineration, findings from Zero Waste
+    Scotland show. The post Scotland discarded 112kt o...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/scotland-discarded-112kt-of-textiles-in-2023-findings-show/
+  pub_date: '2025-12-04T09:37:36'
+  source: Circular Online
+  title: Scotland discarded 112kt of textiles in 2023, findings show
+- category: circular
+  description: Birmingham City Council claim productivity has increased despite the
+    long-running strike action by refuse workers. The post Productivity up despite
+    refuse strike, says Birmingham council appeared firs...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/productivity-up-despite-refuse-strike-says-birmingham-council/
+  pub_date: '2025-12-04T08:00:00'
+  source: Circular Online
+  title: Productivity up despite refuse strike, says Birmingham council
+- category: supply-chain
   description: GEODIS is expanding its air freight network across South America through
     a new interline agreement with Atlas Air.
   icon: fa-box
@@ -68,39 +118,6 @@ articles:
   pub_date: '2025-12-02T15:10:00'
   source: Supply Chain 24/7
   title: Top 10 U.S. Industries With the Most Workplace Injuries
-- category: supply-chain
-  description: Identity-based cargo theft is rising fast, and Mike Grabovica explains
-    how warehouses can stop these scams at the gate.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-fake-ids-are-fueling-a-surge-in-warehouse-cargo-theft
-  pub_date: '2025-12-02T15:04:00'
-  source: Supply Chain 24/7
-  title: How Fake IDs Are Fueling a Surge in Warehouse Cargo Theft
-- category: supply-chain
-  description: AI is helping people work faster, but rising mistakes and rework show
-    that companies still need clearer guidance and stronger guardrails for everyday
-    use.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-ai-productivity-and-errors-2026
-  pub_date: '2025-12-02T14:53:00'
-  source: Supply Chain 24/7
-  title: AI Boosts Speed at Work but Accuracy Problems Are Increasing
-- category: supply-chain
-  description: A new federal review found 44% of CDL training schools out of compliance,
-    putting thousands of programs at risk of decertification.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/report-44-of-truck-driver-schools-not-meeting-required-standards
-  pub_date: '2025-12-02T14:17:00'
-  source: Supply Chain 24/7
-  title: 'Report: 44% of Truck-Driver Schools Not Meeting Required Standards'
-- category: supply-chain
-  description: Amazon is testing 30-minute delivery for groceries and essentials in
-    parts of Seattle and Philadelphia using compact, local fulfillment sites.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-30-minute-delivery-seattle-philadelphia
-  pub_date: '2025-12-02T13:03:00'
-  source: Supply Chain 24/7
-  title: Amazon Tests 30 Minute Delivery in Seattle and Philadelphia
 - category: circular
   description: The Wood Recyclers' Association (WRA) and Wood Panel Industries Federation
     (WPIF) have expressed disappointment over the government's decision to keep the
@@ -155,22 +172,4 @@ articles:
   pub_date: '2025-11-28T09:00:00'
   source: Circular Online
   title: News in brief | CIWM Commercial Partner Updates November
-- category: circular
-  description: The Chartered Institution of Wastes Management (CIWM) has expressed
-    cautious optimism about the outcomes of COP30. The post CIWM offers cautious optimism
-    on COP30 outcomes appeared first on Circular O...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-offers-cautious-optimism-on-cop30-outcomes/
-  pub_date: '2025-11-27T08:00:00'
-  source: Circular Online
-  title: CIWM offers cautious optimism on COP30 outcomes
-- category: circular
-  description: 'The UK Government has confirmed that it will not proceed with transitioning
-    to a single rate of landfill tax by 2030, following pushback from the construction
-    industry. The post Budget 2025: Governmen...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/budget-2025-government-backtracks-on-landfill-tax-overhaul/
-  pub_date: '2025-11-26T14:20:20'
-  source: Circular Online
-  title: 'Budget 2025: Government backtracks on landfill tax overhaul'
-last_updated: '2025-12-04T06:33:00.843771'
+last_updated: '2025-12-05T06:33:23.338300'
