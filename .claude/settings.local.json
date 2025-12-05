@@ -13,7 +13,16 @@
       "Bash(python fetch_news_feeds.py:*)",
       "Bash(pip install:*)",
       "Bash(python scripts/fetch_news_feeds.py:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(find:*)",
+      "Bash(pandoc:*)",
+      "Bash(ls:*)",
+      "Bash(enscript:*)",
+      "Bash(ps2pdf - POST-1-Costco-Tariffs-READY.pdf)",
+      "Bash(ps2pdf - POST-2-Manufacturing-Contraction-READY.pdf)",
+      "Bash(pdfinfo:*)",
+      "Bash(cat:*)",
+      "Bash(curl:*)"
     ],
     "deny": [],
     "ask": []
