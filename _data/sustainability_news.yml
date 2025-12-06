@@ -1,5 +1,39 @@
 articles:
 - category: supply-chain
+  description: San Francisco has sued major food manufacturers over ultra-processed
+    products, setting up a legal battle that could carry new risks for food supply
+    chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/san-francisco-lawsuit-puts-new-legal-pressure-on-food-supply-chains
+  pub_date: '2025-12-05T16:37:00'
+  source: Supply Chain 24/7
+  title: San Francisco Sues Food Manufacturers as Industry Pushes Back
+- category: supply-chain
+  description: Supply chain disruption is creating new fraud risks, and companies
+    are being forced to rethink how they protect payments and vendor data.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-supply-chain-disruption-is-driving-fraud-risk
+  pub_date: '2025-12-05T14:02:00'
+  source: Supply Chain 24/7
+  title: How Chaos Inside Supply Chains Is Fueling A New Wave Of Fraud
+- category: supply-chain
+  description: 12 small, low-cost changes that can quickly improve speed, accuracy,
+    and overall performance inside the warehouse.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/12-warehouse-efficiency-improvements-without-automation
+  pub_date: '2025-12-05T13:12:00'
+  source: Supply Chain 24/7
+  title: 12 Simple Ways To Improve Warehouse Performance Without Automation
+- category: circular
+  description: Baroness Sheehan has written to the Environment Agency over concerns
+    it did not reference several significant illegal waste sites when giving evidence
+    to the recent waste crime inquiry. The post Waste...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-crime-inquiry-chair-writes-to-environment-agency-over-evidence-concerns/
+  pub_date: '2025-12-05T09:13:43'
+  source: Circular Online
+  title: Waste crime inquiry chair writes to Environment Agency over evidence concerns
+- category: supply-chain
   description: Amazon is reportedly preparing to expand its own delivery network as
     USPS talks stall ahead of the 2026 contract expiration.
   icon: fa-box
@@ -74,23 +108,6 @@ articles:
   pub_date: '2025-12-03T14:05:00'
   source: Supply Chain 24/7
   title: Costco Joins Retailers Suing Trump Over Emergency Tariffs
-- category: supply-chain
-  description: U.S. manufacturing contracted again in November as new orders slowed,
-    pipelines thinned, and tariff uncertainty continued to weigh on decision-making.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturing-november-2025-ism-report-tariffs-orders
-  pub_date: '2025-12-03T13:45:00'
-  source: Supply Chain 24/7
-  title: 'ISM: Manufacturing Slips Again in November as Orders Stay Soft'
-- category: supply-chain
-  description: LTL veteran Scooter Sayers shared his take on the freight economy,
-    pricing, tariffs, and technology in a new podcast, offering five insights for
-    shippers heading into 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/five-things-scooter-sayers-says-about-ltl-market-2026
-  pub_date: '2025-12-03T13:02:00'
-  source: Supply Chain 24/7
-  title: Five Trends Shaping the LTL Market as 2026 Approaches
 - category: circular
   description: Eight projects across England to receive a share of GBP68 million from
     the Green Heat Network Fund (GHNF). The post 8 projects to receive GBP68 million
@@ -109,15 +126,6 @@ articles:
   pub_date: '2025-12-03T09:29:13'
   source: Circular Online
   title: Kidlington waste mountain to be removed ‘as soon as possible’
-- category: supply-chain
-  description: A new report shows that many of America's most injury-prone industries
-    are key parts of the supply chain, including manufacturing, retail, transportation,
-    and warehousing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-workplace-injuries-top-industries
-  pub_date: '2025-12-02T15:10:00'
-  source: Supply Chain 24/7
-  title: Top 10 U.S. Industries With the Most Workplace Injuries
 - category: circular
   description: The Wood Recyclers' Association (WRA) and Wood Panel Industries Federation
     (WPIF) have expressed disappointment over the government's decision to keep the
@@ -163,13 +171,4 @@ articles:
   pub_date: '2025-11-28T10:33:56'
   source: Circular Online
   title: 55 founding organisations join UK Packaging Pact ahead of April 2026 launch
-- category: circular
-  description: News updates written by CIWM's commercial partners. Greyparrot Greentech
-    Baltic increases PET recovery revenue by 10% with Greyparrot AI GreenTech Dennis
-    Eagle Dennis Eagle officially opens new Techni...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-november-2/
-  pub_date: '2025-11-28T09:00:00'
-  source: Circular Online
-  title: News in brief | CIWM Commercial Partner Updates November
-last_updated: '2025-12-05T06:33:23.338300'
+last_updated: '2025-12-06T06:29:06.139658'

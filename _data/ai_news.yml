@@ -1,5 +1,53 @@
 articles:
 - category: ai-research
+  description: mp4 showing a carousel of images with text like "Gemini 3" "Nano Banana
+    Pro" and "Help me plan a trip"
+  icon: fa-google
+  link: https://blog.google/technology/ai/google-ai-updates-november-2025/
+  pub_date: '2025-12-05T19:45:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in November
+- category: ai-research
+  description: Google Workspace has released findings from our second survey that
+    looks at how people aged 22-39 are using AI at work. Commissioned by Workspace
+    in partnership with the...
+  icon: fa-google
+  link: https://blog.google/products/workspace/young-leaders-survey-ai/
+  pub_date: '2025-12-05T16:00:00'
+  source: Google AI Blog
+  title: New research from Google Workspace reveals how young leaders are using AI
+    at work.
+- category: ai-research
+  description: Image with black background and Gemini 3 Pro logo
+  icon: fa-google
+  link: https://blog.google/technology/developers/gemini-3-pro-vision/
+  pub_date: '2025-12-05T16:00:00'
+  source: Google AI Blog
+  title: 'Gemini 3 Pro: the frontier of vision AI'
+- category: machine-learning
+  description: Pixi makes python environment management simple, consistent, and portable.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/pixi-a-smarter-way-to-manage-python-environments
+  pub_date: '2025-12-05T15:00:14'
+  source: KDnuggets
+  title: 'Pixi: A Smarter Way to Manage Python Environments'
+- category: ai-research
+  description: The speech-to-reality system combines 3D generative AI and robotic
+    assembly to create objects on demand.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
+  pub_date: '2025-12-05T15:00:00'
+  source: MIT AI News
+  title: MIT researchers “speak objects into existence” using AI and robotics
+- category: machine-learning
+  description: This article is for vibe coders and developers seeking private, fast,
+    and affordable AI coding solutions.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-small-ai-coding-models-that-you-can-run-locally
+  pub_date: '2025-12-05T13:00:33'
+  source: KDnuggets
+  title: Top 5 Small AI Coding Models That You Can Run Locally
+- category: ai-research
   description: Founded by MIT alumni, the Pickle Robot Company has developed machines
     that can autonomously load and unload trucks inside warehouses and logistic centers.
   icon: fa-graduation-cap
@@ -178,23 +226,6 @@ articles:
   pub_date: '2025-12-01T18:35:00'
   source: MIT AI News
   title: Exploring how AI will shape the future of work
-- category: machine-learning
-  description: Build a lightweight Python DSL to define and check data quality rules
-    in a clear, expressive way. Turn complex validation logic into simple, reusable
-    configurations that anyone on your data team can u...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python
-  pub_date: '2025-12-01T17:00:16'
-  source: KDnuggets
-  title: Building a Simple Data Quality DSL in Python
-- category: machine-learning
-  description: It's not about clever wording anymore. It's about designing environments
-    where AI can think with depth, consistency, and purpose.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/context-engineering-is-the-new-prompt-engineering
-  pub_date: '2025-12-01T15:00:30'
-  source: KDnuggets
-  title: Context Engineering is the New Prompt Engineering
 - category: ai-research
   description: A visual grid highlighting diverse fields of research, featuring images
     of geothermal activity, agricultural farming, patient care, laboratory testing,
@@ -221,36 +252,4 @@ articles:
   pub_date: '2025-11-25T23:39:00'
   source: Google AI Blog
   title: Get an in-depth look at Gemini 3 with CEO Sundar Pichai.
-- category: ai-research
-  description: BoltzGen generates protein binders for any biological target from scratch,
-    expanding AI's reach from understanding biology toward engineering it.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125
-  pub_date: '2025-11-25T21:25:00'
-  source: MIT AI News
-  title: MIT scientists debut a generative AI model that could create molecules addressing
-    hard-to-treat diseases
-- category: ai-research
-  description: Learn more about using Google products like Gemini, Search, Shopping,
-    Pixel and more over the holidays.
-  icon: fa-google
-  link: https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/
-  pub_date: '2025-11-25T18:00:00'
-  source: Google AI Blog
-  title: The Google guide for holiday help
-- category: ai-research
-  description: Video showing Flow respond to the prompt "change the weather to rain"
-  icon: fa-google
-  link: https://blog.google/technology/google-labs/flow-refine-videos/
-  pub_date: '2025-11-25T17:40:00'
-  source: Google AI Blog
-  title: 4 ways to refine your content in Flow
-- category: ai-research
-  description: 'On the left: A close-up of four Ironwood chips. On the right: A data
-    center wall with rows of server racks, complex cabling and overhead cable trays.'
-  icon: fa-google
-  link: https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/
-  pub_date: '2025-11-25T16:00:00'
-  source: Google AI Blog
-  title: 3 things to know about Ironwood, our latest TPU
-last_updated: '2025-12-05T06:33:24.538339'
+last_updated: '2025-12-06T06:29:07.183349'
