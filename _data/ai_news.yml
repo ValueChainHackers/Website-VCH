@@ -1,4 +1,13 @@
 articles:
+- category: machine-learning
+  description: 'For powering next-generation AI models in 2026, Bright Data''s Web
+    Scraper API delivers on all fronts: dynamic site support, anti-bot automation,
+    structured output, and global reach.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2025/12/brightdata/the-best-web-scraping-apis-for-ai-models-in-2026
+  pub_date: '2025-12-07T11:00:17'
+  source: KDnuggets
+  title: The Best Web Scraping APIs for AI Models in 2026
 - category: ai-research
   description: mp4 showing a carousel of images with text like "Gemini 3" "Nano Banana
     Pro" and "Help me plan a trip"
@@ -181,15 +190,6 @@ articles:
   pub_date: '2025-12-02T14:00:18'
   source: KDnuggets
   title: How Proactive Cybersecurity Saves Money (and Reputation) (Sponsored)
-- category: machine-learning
-  description: This article explores how to transform ChatGPT from a chatbot into
-    a powerful data assistant that streamlines the repetitive, the tedious, and the
-    complex.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-chatgpt-tricks-to-automate-your-data-tasks
-  pub_date: '2025-12-02T13:24:47'
-  source: KDnuggets
-  title: 7 ChatGPT Tricks to Automate Your Data Tasks
 - category: ai-research
   description: AquaCulture Shock program, in collaboration with MIT-Scandinavia MISTI,
     offers international internships for AI and autonomy in aquaculture
@@ -252,4 +252,4 @@ articles:
   pub_date: '2025-11-25T23:39:00'
   source: Google AI Blog
   title: Get an in-depth look at Gemini 3 with CEO Sundar Pichai.
-last_updated: '2025-12-07T06:29:02.822804'
+last_updated: '2025-12-08T06:35:42.929826'
