@@ -1,4 +1,45 @@
 articles:
+- category: ai-research
+  description: Postdoc Zongyi Li, Associate Professor Tess Smidt, and seven additional
+    alumni will be supported in the development of AI against difficult problems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1208
+  pub_date: '2025-12-08T20:15:00'
+  source: MIT AI News
+  title: MIT affiliates named 2025 Schmidt Sciences AI2050 Fellows
+- category: ai-research
+  description: mp4 of "AI QUESTS" with a stylized Earth, "Accept mission" button.
+    Google Research and Stanford Accelerator logos.
+  icon: fa-google
+  link: https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/
+  pub_date: '2025-12-08T18:00:00'
+  source: Google AI Blog
+  title: How we’re supporting the next generation of innovators
+- category: machine-learning
+  description: You don't need Python or R to start working with data. This guide walks
+    you through using built-in Unix utilities for real statistical analysis.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/statistics-at-the-command-line-for-beginner-data-scientists
+  pub_date: '2025-12-08T16:48:59'
+  source: KDnuggets
+  title: Statistics at the Command Line for Beginner Data Scientists
+- category: machine-learning
+  description: If you're building an LLM app, these open-source tools help you test,
+    track, and improve your model's performance easily.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-open-source-llm-evaluation-platforms
+  pub_date: '2025-12-08T13:40:01'
+  source: KDnuggets
+  title: Top 5 Open-Source LLM Evaluation Platforms
+- category: ai-research
+  description: A bald male teacher with glasses and a black shirt leans over to point
+    at a computer monitor, instructing a male student. Other students are seated at
+    computers along a row of desks in a brightly lit ...
+  icon: fa-google
+  link: https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/
+  pub_date: '2025-12-08T10:00:00'
+  source: Google AI Blog
+  title: Transforming Nordic classrooms through responsible AI partnerships
 - category: machine-learning
   description: 'For powering next-generation AI models in 2026, Bright Data''s Web
     Scraper API delivers on all fronts: dynamic site support, anti-bot automation,
@@ -174,22 +215,6 @@ articles:
   pub_date: '2025-12-02T19:00:00'
   source: MIT AI News
   title: New control system teaches soft robots the art of staying safe
-- category: machine-learning
-  description: What if I told you that a powerful vibe coding workflow on par with
-    Claude Code can cost you less than $10? Let me prove it.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-vibe-code-on-a-budget
-  pub_date: '2025-12-02T15:00:17'
-  source: KDnuggets
-  title: How to Vibe Code on a Budget
-- category: machine-learning
-  description: The value of a modern company isn't in its firewalls; it's in its terabytes
-    of proprietary, labeled data and the predictive models built upon them.
-  icon: fa-chart-bar
-  link: https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech
-  pub_date: '2025-12-02T14:00:18'
-  source: KDnuggets
-  title: How Proactive Cybersecurity Saves Money (and Reputation) (Sponsored)
 - category: ai-research
   description: AquaCulture Shock program, in collaboration with MIT-Scandinavia MISTI,
     offers international internships for AI and autonomy in aquaculture
@@ -226,30 +251,4 @@ articles:
   pub_date: '2025-12-01T18:35:00'
   source: MIT AI News
   title: Exploring how AI will shape the future of work
-- category: ai-research
-  description: A visual grid highlighting diverse fields of research, featuring images
-    of geothermal activity, agricultural farming, patient care, laboratory testing,
-    and medical diagnostics.
-  icon: fa-google
-  link: https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/
-  pub_date: '2025-11-26T23:00:00'
-  source: Google AI Blog
-  title: Here’s how researchers in Asia-Pacific are using AlphaFold
-- category: ai-research
-  description: Large language models can learn to mistakenly link certain sentence
-    patterns with specific topics - and may then repeat these patterns instead of
-    reasoning.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/shortcoming-makes-llms-less-reliable-1126
-  pub_date: '2025-11-26T05:00:00'
-  source: MIT AI News
-  title: Researchers discover a shortcoming that makes LLMs less reliable
-- category: ai-research
-  description: 'Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3
-    on the Google AI: Release Notes podcast.'
-  icon: fa-google
-  link: https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/
-  pub_date: '2025-11-25T23:39:00'
-  source: Google AI Blog
-  title: Get an in-depth look at Gemini 3 with CEO Sundar Pichai.
-last_updated: '2025-12-08T06:35:42.929826'
+last_updated: '2025-12-09T06:33:44.367890'

@@ -1,5 +1,63 @@
 articles:
 - category: supply-chain
+  description: Kroger is shutting down key Ocado-backed warehouses, canceling new
+    projects, and paying $350 million as it shifts its online grocery strategy.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kroger-shuts-down-automated-grocery-sites-in-major-strategy-shift
+  pub_date: '2025-12-08T15:13:00'
+  source: Supply Chain 24/7
+  title: Kroger Shuts Down Automated Grocery Sites in Major Strategy Shift
+- category: supply-chain
+  description: The U.S. Energy Department is offering $134 million to help recover
+    rare earths from waste and reduce foreign supply risks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/department-energy-134-million-rare-earth-recovery-from-waste
+  pub_date: '2025-12-08T15:12:00'
+  source: Supply Chain 24/7
+  title: U.S. Offers $134M to Pull Rare Earth Materials From Old Electronics
+- category: supply-chain
+  description: Impinj VP Gagan Luthra explains why misloads still plague holiday shipping
+    and how RAIN RFID is helping reduce costly delivery errors.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-holiday-packages-still-get-misrouted
+  pub_date: '2025-12-08T14:35:00'
+  source: Supply Chain 24/7
+  title: How RAIN RFID Is Helping Reduce Costly Delivery Errors
+- category: supply-chain
+  description: ProMat 2027 is close to selling out after a record exhibit space draw
+    brought in more than 900 exhibitors months ahead of the Chicago show.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/promat-2027-exhibit-space-draw-breaks-all-time-record
+  pub_date: '2025-12-08T12:45:00'
+  source: Supply Chain 24/7
+  title: ProMat 2027 Exhibit Space Draw Breaks All-Time Record
+- category: supply-chain
+  description: DHL Supply Chain is now running its first Tesla Semi on daily routes
+    in California after a successful pilot test.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-tesla-semi-electric-truck-california
+  pub_date: '2025-12-08T12:43:00'
+  source: Supply Chain 24/7
+  title: DHL Supply Chain Puts Its First Tesla Semi on the Road in California
+- category: circular
+  description: Grundon Waste Management partners with homelessness charity Crisis
+    to raise awareness of the dangers people face when forced to seek shelter in waste
+    bins. The post Grundon-Crisis campaign highlights ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/grundon-crisis-campaign-highlights-dangers-of-rough-sleeping-in-bins/
+  pub_date: '2025-12-08T11:40:49'
+  source: Circular Online
+  title: Grundon–Crisis campaign highlights dangers of rough sleeping in bins
+- category: circular
+  description: Gareth Rollings, Head of Waste at West Sussex County Council, has been
+    appointed as the new Chair of LARAC (Local Authority Recycling Advisory Committee).
+    The post LARAC appoint Gareth Rollings as Cha...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/larac-appoint-gareth-rollings-as-chair/
+  pub_date: '2025-12-08T10:44:46'
+  source: Circular Online
+  title: LARAC appoint Gareth Rollings as Chair
+- category: supply-chain
   description: San Francisco has sued major food manufacturers over ultra-processed
     products, setting up a legal battle that could carry new risks for food supply
     chains.
@@ -49,22 +107,6 @@ articles:
   pub_date: '2025-12-04T16:33:00'
   source: Supply Chain 24/7
   title: xLight Lands First Trump-Era CHIPS Award for Laser Tech
-- category: supply-chain
-  description: A quick guide to the 2025 holiday shipping deadlines for USPS, UPS
-    and FedEx, with key dates shippers need to hit for Christmas delivery.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/2025-holiday-shipping-deadlines-usps-ups-fedex
-  pub_date: '2025-12-04T16:22:00'
-  source: Supply Chain 24/7
-  title: 2025 Holiday Shipping Deadlines For USPS, UPS, And FedEx
-- category: supply-chain
-  description: Walmart has launched drone delivery at six stores around metro Atlanta,
-    giving nearby customers ultra-fast drop-offs for small orders.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-drone-delivery-atlanta-launch
-  pub_date: '2025-12-04T12:16:00'
-  source: Supply Chain 24/7
-  title: Walmart Starts Drone Delivery From Six Stores Around Atlanta
 - category: circular
   description: Scotland discarded 112 kilotonnes (kt) of textiles in 2023, with 50%
     being disposed of as waste to landfill or incineration, findings from Zero Waste
@@ -83,31 +125,6 @@ articles:
   pub_date: '2025-12-04T08:00:00'
   source: Circular Online
   title: Productivity up despite refuse strike, says Birmingham council
-- category: supply-chain
-  description: GEODIS is expanding its air freight network across South America through
-    a new interline agreement with Atlas Air.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/geodis-expands-south-america-air-freight-network
-  pub_date: '2025-12-03T18:50:00'
-  source: Supply Chain 24/7
-  title: GEODIS Expands South America Air Network With Atlas Air Deal
-- category: supply-chain
-  description: DHL says holiday shipping is running smoothly this year thanks to earlier
-    planning, better forecasting, and robotics that help keep peak season predictable.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-peak-season-planning-robotics
-  pub_date: '2025-12-03T14:24:00'
-  source: Supply Chain 24/7
-  title: DHL Enters Peak Season With More Planning, Less Panic in 2025
-- category: supply-chain
-  description: Costco has joined several companies suing the Trump administration
-    over emergency tariffs, seeking refunds and a clearer legal framework for import
-    costs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/costco-sues-trump-over-tariffs-refund-request
-  pub_date: '2025-12-03T14:05:00'
-  source: Supply Chain 24/7
-  title: Costco Joins Retailers Suing Trump Over Emergency Tariffs
 - category: circular
   description: Eight projects across England to receive a share of GBP68 million from
     the Green Heat Network Fund (GHNF). The post 8 projects to receive GBP68 million
@@ -153,22 +170,4 @@ articles:
   pub_date: '2025-12-01T10:13:18'
   source: Circular Online
   title: Welsh DRS to launch with glass as in-scope material
-- category: circular
-  description: The Environmental Services Association (ESA) has announced John Scanlon,
-    Chief Executive Officer of SUEZ recycling and recovery UK, as its new Chair. Scanlon
-    replaces Michael Topham, who steps down at...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environmental-services-association-appoints-suez-ceo-as-new-chair/
-  pub_date: '2025-11-28T11:09:38'
-  source: Circular Online
-  title: Environmental Services Association appoints SUEZ CEO as new Chair
-- category: circular
-  description: Ahead of the official launch of the UK Packaging Pact in April 2026,
-    WRAP has announced the names of the 55 founding organisations who have signed
-    up. The post 55 founding organisations join UK Packag...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/55-founding-organisations-join-uk-packaging-pact-ahead-of-april-2026-launch/
-  pub_date: '2025-11-28T10:33:56'
-  source: Circular Online
-  title: 55 founding organisations join UK Packaging Pact ahead of April 2026 launch
-last_updated: '2025-12-08T06:35:41.996714'
+last_updated: '2025-12-09T06:33:43.256701'
