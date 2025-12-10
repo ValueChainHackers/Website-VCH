@@ -1,5 +1,93 @@
 articles:
 - category: supply-chain
+  description: IKEA plans to ramp up U.S. manufacturing as tariffs drive up import
+    costs and pressure its global supply chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ikea-ramps-up-us-manufacturing-tariffs-2025
+  pub_date: '2025-12-09T15:55:00'
+  source: Supply Chain 24/7
+  title: IKEA Shifts More Manufacturing to U.S. as Tariffs Raise Costs
+- category: supply-chain
+  description: Discover which supply chain certifications deliver real ROI--learn
+    which credentials boost salaries, improve career mobility, and align with roles
+    in logistics, procurement, manufacturing, and plannin...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/best-supply-chain-certifications-how-to-choose-the-one-that-actually-pays-off
+  pub_date: '2025-12-09T15:23:00'
+  source: Supply Chain 24/7
+  title: 'Best Supply Chain Certifications: How to Choose the One That Actually Pays
+    Off'
+- category: supply-chain
+  description: A new Gartner survey shows that leadership turnover is disrupting supply
+    chains and exposing gaps in how future leaders are trained.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-leadership-turnover-hurting-supply-chains
+  pub_date: '2025-12-09T14:10:00'
+  source: Supply Chain 24/7
+  title: 'Gartner: Leadership Instability Is Dragging Down Supply Chains'
+- category: supply-chain
+  description: COSCO SHIPPING North America hit full shore power compliance at Oakland
+    in 2024 and grew electric drayage truck use across its U.S. port operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cosco-shore-power-oakland-electric-drayage-2024
+  pub_date: '2025-12-09T13:50:00'
+  source: Supply Chain 24/7
+  title: COSCO Reaches Full Shore Power at Port of Oakland
+- category: supply-chain
+  description: Material Handling 24/7 readers have announced the winning warehouse
+    and manufacturing products of 2025.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/2025-readers-choice-material-handling-products
+  pub_date: '2025-12-09T12:57:00'
+  source: Supply Chain 24/7
+  title: The Best Warehouse Products of 2025, Chosen by Readers
+- category: supply-chain
+  description: President Trump has approved tiny cars for U.S. production, but automakers
+    remain cautious as key manufacturing and regulatory details are still unclear.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/trump-approves-tiny-cars-us-manufacturing
+  pub_date: '2025-12-09T12:24:00'
+  source: Supply Chain 24/7
+  title: Trump Approves Tiny Cars for U.S. Production, Automakers Stay Quiet
+- category: circular
+  description: Environmental degradation is claiming millions of lives and costing
+    trillions annually, the United Nations Environment Programme (UNEP) Global Environment
+    Outlook report has found. The post UN report ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/un-report-warns-environmental-degradation-is-killing-millions-and-costing-trillions/
+  pub_date: '2025-12-09T11:53:29'
+  source: Circular Online
+  title: UN report says environmental degradation is killing millions and costing
+    trillions
+- category: circular
+  description: A poll by YouGov has found that 61% of people in Britain are willing
+    to buy refurbished devices, but most (61%) would prefer a brand-new device. The
+    post 61% of Brits willing to buy refurbished device...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/61-of-brits-willing-to-buy-refurbished-devices-yougov-poll-shows/
+  pub_date: '2025-12-09T10:56:55'
+  source: Circular Online
+  title: 61% of Brits willing to buy refurbished devices, YouGov poll shows
+- category: circular
+  description: Complex language around the circular economy is alienating consumers,
+    a new report from SUEZ has found. The post Circular economy alienating consumers
+    due to complex language, research finds appeared ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/circular-economy-alienating-consumers-due-to-complex-language-research-finds/
+  pub_date: '2025-12-09T09:21:46'
+  source: Circular Online
+  title: Circular economy alienating consumers due to complex language, research finds
+- category: supply-chain
+  description: Learn how mobile powered carts streamline rack audits, speed up inventory
+    processes, and reduce manual data entry time. Discover the benefits of using mobile
+    workstations to increase efficiency and ac...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-mobile-powered-carts-improve-rack-audits-and-reduce-inventory-processing-time
+  pub_date: '2025-12-08T19:36:00'
+  source: Supply Chain 24/7
+  title: How Mobile Powered Carts Improve Rack Audits and Reduce Inventory Processing
+    Time
+- category: supply-chain
   description: Kroger is shutting down key Ocado-backed warehouses, canceling new
     projects, and paying $350 million as it shifts its online grocery strategy.
   icon: fa-box
@@ -23,22 +111,6 @@ articles:
   pub_date: '2025-12-08T14:35:00'
   source: Supply Chain 24/7
   title: How RAIN RFID Is Helping Reduce Costly Delivery Errors
-- category: supply-chain
-  description: ProMat 2027 is close to selling out after a record exhibit space draw
-    brought in more than 900 exhibitors months ahead of the Chicago show.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/promat-2027-exhibit-space-draw-breaks-all-time-record
-  pub_date: '2025-12-08T12:45:00'
-  source: Supply Chain 24/7
-  title: ProMat 2027 Exhibit Space Draw Breaks All-Time Record
-- category: supply-chain
-  description: DHL Supply Chain is now running its first Tesla Semi on daily routes
-    in California after a successful pilot test.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-tesla-semi-electric-truck-california
-  pub_date: '2025-12-08T12:43:00'
-  source: Supply Chain 24/7
-  title: DHL Supply Chain Puts Its First Tesla Semi on the Road in California
 - category: circular
   description: Grundon Waste Management partners with homelessness charity Crisis
     to raise awareness of the dangers people face when forced to seek shelter in waste
@@ -57,31 +129,6 @@ articles:
   pub_date: '2025-12-08T10:44:46'
   source: Circular Online
   title: LARAC appoint Gareth Rollings as Chair
-- category: supply-chain
-  description: San Francisco has sued major food manufacturers over ultra-processed
-    products, setting up a legal battle that could carry new risks for food supply
-    chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/san-francisco-lawsuit-puts-new-legal-pressure-on-food-supply-chains
-  pub_date: '2025-12-05T16:37:00'
-  source: Supply Chain 24/7
-  title: San Francisco Sues Food Manufacturers as Industry Pushes Back
-- category: supply-chain
-  description: Supply chain disruption is creating new fraud risks, and companies
-    are being forced to rethink how they protect payments and vendor data.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-supply-chain-disruption-is-driving-fraud-risk
-  pub_date: '2025-12-05T14:02:00'
-  source: Supply Chain 24/7
-  title: How Chaos Inside Supply Chains Is Fueling A New Wave Of Fraud
-- category: supply-chain
-  description: 12 small, low-cost changes that can quickly improve speed, accuracy,
-    and overall performance inside the warehouse.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/12-warehouse-efficiency-improvements-without-automation
-  pub_date: '2025-12-05T13:12:00'
-  source: Supply Chain 24/7
-  title: 12 Simple Ways To Improve Warehouse Performance Without Automation
 - category: circular
   description: Baroness Sheehan has written to the Environment Agency over concerns
     it did not reference several significant illegal waste sites when giving evidence
@@ -91,22 +138,6 @@ articles:
   pub_date: '2025-12-05T09:13:43'
   source: Circular Online
   title: Waste crime inquiry chair writes to Environment Agency over evidence concerns
-- category: supply-chain
-  description: Amazon is reportedly preparing to expand its own delivery network as
-    USPS talks stall ahead of the 2026 contract expiration.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/report-amazon-looks-to-expand-its-delivery-network-as-usps-talks-stall
-  pub_date: '2025-12-04T18:24:00'
-  source: Supply Chain 24/7
-  title: 'Report: Amazon Looks to Expand Its Delivery Network as USPS Talks Stall'
-- category: supply-chain
-  description: xLight has secured a $150 million proposed CHIPS Act award to build
-    advanced laser technology for U.S. chip manufacturing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/xlight-150m-chips-deal-trump-semiconductors
-  pub_date: '2025-12-04T16:33:00'
-  source: Supply Chain 24/7
-  title: xLight Lands First Trump-Era CHIPS Award for Laser Tech
 - category: circular
   description: Scotland discarded 112 kilotonnes (kt) of textiles in 2023, with 50%
     being disposed of as waste to landfill or incineration, findings from Zero Waste
@@ -143,31 +174,4 @@ articles:
   pub_date: '2025-12-03T09:29:13'
   source: Circular Online
   title: Kidlington waste mountain to be removed ‘as soon as possible’
-- category: circular
-  description: The Wood Recyclers' Association (WRA) and Wood Panel Industries Federation
-    (WPIF) have expressed disappointment over the government's decision to keep the
-    wood packaging recycling target unchanged for...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wra-and-wpif-disappointed-over-2026-wood-packaging-recycling-targets/
-  pub_date: '2025-12-02T10:50:35'
-  source: Circular Online
-  title: WRA and WPIF ‘disappointed’ over 2026 wood packaging recycling targets
-- category: circular
-  description: UK Government targets 50% cut to residual waste by 2042 as part of
-    revised Environmental Improvement Plan (EIP). The post UK Government targets 50%
-    cut in residual waste by 2042 appeared first on Circ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-government-targets-50-cut-in-residual-waste-by-2042/
-  pub_date: '2025-12-02T09:13:20'
-  source: Circular Online
-  title: UK Government targets 50% cut in residual waste by 2042
-- category: circular
-  description: Wales has confirmed it will include glass as an in-scope material in
-    its deposit return scheme at launch but no deposit will be charged on any glass
-    containers. The post Welsh DRS to launch with glass...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wales-announces-phased-approach-to-introducing-glass-into-drs/
-  pub_date: '2025-12-01T10:13:18'
-  source: Circular Online
-  title: Welsh DRS to launch with glass as in-scope material
-last_updated: '2025-12-09T06:33:43.256701'
+last_updated: '2025-12-10T06:34:07.906713'
