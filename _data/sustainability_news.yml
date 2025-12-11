@@ -1,5 +1,83 @@
 articles:
 - category: supply-chain
+  description: Lilly is investing $6 billion to build a new drug-ingredient manufacturing
+    plant in Huntsville, Alabama, part of a push to shore up U.S. pharmaceutical supply
+    chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/lilly-builds-6bn-alabama-api-facility-huntsville
+  pub_date: '2025-12-10T19:11:00'
+  source: Supply Chain 24/7
+  title: Lilly Invests $6 Billion on New Alabama Drug Manufacturing Site
+- category: supply-chain
+  description: Discover how warehouse robotics and automation technologies are helping
+    businesses overcome ongoing labor shortages, boost productivity, and improve operational
+    efficiency.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-warehouse-robots-help-solve-the-labor-shortage
+  pub_date: '2025-12-10T16:04:00'
+  source: Supply Chain 24/7
+  title: How Warehouse Robots Help Solve the Labor Shortage
+- category: supply-chain
+  description: Here is your complete, running list of the biggest supply chain, logistics,
+    and manufacturing conferences happening in 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-conferences-guide-2026
+  pub_date: '2025-12-10T15:50:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain Conferences Guide 2026: Dates, Locations, and More'
+- category: supply-chain
+  description: Only five states earned top marks for strong road safety laws in a
+    new national report from Advocates for Highway & Auto Safety.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/safest-states-road-safety-laws-report
+  pub_date: '2025-12-10T14:53:00'
+  source: Supply Chain 24/7
+  title: The Five Safest States for Road Safety Laws in the U.S.
+- category: supply-chain
+  description: Companies are placing greater emphasis on small suppliers as supplier
+    diversity programs shift away from optics toward sourcing strategy and business
+    performance.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/small-suppliers-supply-chain-strategy-2025
+  pub_date: '2025-12-10T14:34:00'
+  source: Supply Chain 24/7
+  title: Why Companies Are Leaning More on Small Suppliers for Sourcing
+- category: supply-chain
+  description: Neural networks are helping warehouses move beyond averages by predicting
+    real pick times and smarter routes based on actual floor conditions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-neural-networks-are-changing-warehouse-picking
+  pub_date: '2025-12-10T13:01:00'
+  source: Supply Chain 24/7
+  title: How Neural Networks Are Changing the Way Warehouses Pick Orders
+- category: circular
+  description: A man has been arrested and four vehicles seized after hundreds of
+    tonnes of waste was discovered on wooded land in Bromley. The post Man arrested
+    after hundreds of tonnes of waste dumped in Bromley a...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/man-arrested-after-hundreds-of-tonnes-of-waste-dumped-in-bromley/
+  pub_date: '2025-12-10T11:04:29'
+  source: Circular Online
+  title: Man arrested after hundreds of tonnes of waste dumped in Bromley
+- category: circular
+  description: The Waste Industry Safety and Health (WISH) Forum announces that Toni
+    Robinson, Risk & Sustainability Director at Grundon Waste Management, has been
+    elected as its new Chair. The post Grundon's Toni R...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/grundons-toni-robinson-appointed-as-new-wish-chair/
+  pub_date: '2025-12-10T09:02:03'
+  source: Circular Online
+  title: Grundon’s Toni Robinson appointed as new WISH Chair
+- category: supply-chain
+  description: Discover how AI transforms logistics - from warehouse automation and
+    predictive maintenance to real-time fulfillment, document processing, and optimized
+    route planning. Explore the most effective, hig...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-in-logistics-key-use-cases-real-world-business-impact
+  pub_date: '2025-12-09T19:35:00'
+  source: Supply Chain 24/7
+  title: 'AI in Logistics: Key Use Cases & Real-World Business Impact'
+- category: supply-chain
   description: IKEA plans to ramp up U.S. manufacturing as tariffs drive up import
     costs and pressure its global supply chain.
   icon: fa-box
@@ -25,30 +103,6 @@ articles:
   pub_date: '2025-12-09T14:10:00'
   source: Supply Chain 24/7
   title: 'Gartner: Leadership Instability Is Dragging Down Supply Chains'
-- category: supply-chain
-  description: COSCO SHIPPING North America hit full shore power compliance at Oakland
-    in 2024 and grew electric drayage truck use across its U.S. port operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cosco-shore-power-oakland-electric-drayage-2024
-  pub_date: '2025-12-09T13:50:00'
-  source: Supply Chain 24/7
-  title: COSCO Reaches Full Shore Power at Port of Oakland
-- category: supply-chain
-  description: Material Handling 24/7 readers have announced the winning warehouse
-    and manufacturing products of 2025.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/2025-readers-choice-material-handling-products
-  pub_date: '2025-12-09T12:57:00'
-  source: Supply Chain 24/7
-  title: The Best Warehouse Products of 2025, Chosen by Readers
-- category: supply-chain
-  description: President Trump has approved tiny cars for U.S. production, but automakers
-    remain cautious as key manufacturing and regulatory details are still unclear.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trump-approves-tiny-cars-us-manufacturing
-  pub_date: '2025-12-09T12:24:00'
-  source: Supply Chain 24/7
-  title: Trump Approves Tiny Cars for U.S. Production, Automakers Stay Quiet
 - category: circular
   description: Environmental degradation is claiming millions of lives and costing
     trillions annually, the United Nations Environment Programme (UNEP) Global Environment
@@ -77,40 +131,6 @@ articles:
   pub_date: '2025-12-09T09:21:46'
   source: Circular Online
   title: Circular economy alienating consumers due to complex language, research finds
-- category: supply-chain
-  description: Learn how mobile powered carts streamline rack audits, speed up inventory
-    processes, and reduce manual data entry time. Discover the benefits of using mobile
-    workstations to increase efficiency and ac...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-mobile-powered-carts-improve-rack-audits-and-reduce-inventory-processing-time
-  pub_date: '2025-12-08T19:36:00'
-  source: Supply Chain 24/7
-  title: How Mobile Powered Carts Improve Rack Audits and Reduce Inventory Processing
-    Time
-- category: supply-chain
-  description: Kroger is shutting down key Ocado-backed warehouses, canceling new
-    projects, and paying $350 million as it shifts its online grocery strategy.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/kroger-shuts-down-automated-grocery-sites-in-major-strategy-shift
-  pub_date: '2025-12-08T15:13:00'
-  source: Supply Chain 24/7
-  title: Kroger Shuts Down Automated Grocery Sites in Major Strategy Shift
-- category: supply-chain
-  description: The U.S. Energy Department is offering $134 million to help recover
-    rare earths from waste and reduce foreign supply risks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/department-energy-134-million-rare-earth-recovery-from-waste
-  pub_date: '2025-12-08T15:12:00'
-  source: Supply Chain 24/7
-  title: U.S. Offers $134M to Pull Rare Earth Materials From Old Electronics
-- category: supply-chain
-  description: Impinj VP Gagan Luthra explains why misloads still plague holiday shipping
-    and how RAIN RFID is helping reduce costly delivery errors.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-holiday-packages-still-get-misrouted
-  pub_date: '2025-12-08T14:35:00'
-  source: Supply Chain 24/7
-  title: How RAIN RFID Is Helping Reduce Costly Delivery Errors
 - category: circular
   description: Grundon Waste Management partners with homelessness charity Crisis
     to raise awareness of the dangers people face when forced to seek shelter in waste
@@ -156,22 +176,4 @@ articles:
   pub_date: '2025-12-04T08:00:00'
   source: Circular Online
   title: Productivity up despite refuse strike, says Birmingham council
-- category: circular
-  description: Eight projects across England to receive a share of GBP68 million from
-    the Green Heat Network Fund (GHNF). The post 8 projects to receive GBP68 million
-    from the Green Heat Network Fund appeared first ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/8-projects-to-receive-68-million-from-the-green-heat-network-fund/
-  pub_date: '2025-12-03T10:40:03'
-  source: Circular Online
-  title: 8 projects to receive £68 million from the Green Heat Network Fund
-- category: circular
-  description: The Environment Agency has committed to clearing a mountain of illegally
-    dumped waste in Oxfordshire as soon as possible. The post Kidlington waste mountain
-    to be removed 'as soon as possible' appeare...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/kidlington-waste-mountain-to-be-removed-as-soon-as-possible/
-  pub_date: '2025-12-03T09:29:13'
-  source: Circular Online
-  title: Kidlington waste mountain to be removed ‘as soon as possible’
-last_updated: '2025-12-10T06:34:07.906713'
+last_updated: '2025-12-11T06:34:50.905531'
