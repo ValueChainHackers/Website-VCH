@@ -1,5 +1,47 @@
 articles:
 - category: ai-research
+  description: The technique can help scientists in economics, public health, and
+    other fields understand whether to trust the results of their experiments.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/new-method-improves-reliability-statistical-estimations-1212
+  pub_date: '2025-12-12T05:00:00'
+  source: MIT AI News
+  title: New method improves the reliability of statistical estimations
+- category: ai-research
+  description: 'Grid of 12 diverse artworks: faceted green sculpture, illuminated
+    green cursive text, and digital abstracts.'
+  icon: fa-google
+  link: https://blog.google/technology/ai/google-gradient-canvas-ai-art/
+  pub_date: '2025-12-11T21:30:00'
+  source: Google AI Blog
+  title: 'Gradient Canvas: Celebrating over a decade of artistic collaborations with
+    AI'
+- category: ai-research
+  description: Two people smiling at each other across a desk using a Google Beam
+    video communication device
+  icon: fa-google
+  link: https://blog.google/technology/research/google-beam-2025-moments/
+  pub_date: '2025-12-11T18:30:00'
+  source: Google AI Blog
+  title: 4 highlights from Google Beam in 2025
+- category: machine-learning
+  description: As AI systems begin handling more complex, multi-stage tasks, understanding
+    agentic design is becoming essential. This article outlines seven practical steps
+    to build reliable, effective AI agents.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-steps-to-mastering-agentic-ai
+  pub_date: '2025-12-11T17:00:08'
+  source: KDnuggets
+  title: 7 Steps to Mastering Agentic AI
+- category: machine-learning
+  description: Master the essential skill of deploying machine learning models with
+    courses, projects, examples, resources, and interview questions.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment
+  pub_date: '2025-12-11T15:10:18'
+  source: KDnuggets
+  title: 10 GitHub Repositories to Master Machine Learning Deployment
+- category: ai-research
   description: By stacking multiple active components based on new materials on the
     back end of a computer chip, this new approach reduces the amount of energy wasted
     during computation.
@@ -114,14 +156,6 @@ articles:
   pub_date: '2025-12-08T16:48:59'
   source: KDnuggets
   title: Statistics at the Command Line for Beginner Data Scientists
-- category: machine-learning
-  description: If you're building an LLM app, these open-source tools help you test,
-    track, and improve your model's performance easily.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-open-source-llm-evaluation-platforms
-  pub_date: '2025-12-08T13:40:01'
-  source: KDnuggets
-  title: Top 5 Open-Source LLM Evaluation Platforms
 - category: ai-research
   description: A bald male teacher with glasses and a black shirt leans over to point
     at a computer monitor, instructing a male student. Other students are seated at
@@ -131,15 +165,6 @@ articles:
   pub_date: '2025-12-08T10:00:00'
   source: Google AI Blog
   title: Transforming Nordic classrooms through responsible AI partnerships
-- category: machine-learning
-  description: 'For powering next-generation AI models in 2026, Bright Data''s Web
-    Scraper API delivers on all fronts: dynamic site support, anti-bot automation,
-    structured output, and global reach.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2025/12/brightdata/the-best-web-scraping-apis-for-ai-models-in-2026
-  pub_date: '2025-12-07T11:00:17'
-  source: KDnuggets
-  title: The Best Web Scraping APIs for AI Models in 2026
 - category: ai-research
   description: mp4 showing a carousel of images with text like "Gemini 3" "Nano Banana
     Pro" and "Help me plan a trip"
@@ -198,13 +223,6 @@ articles:
   source: MIT AI News
   title: MIT engineers design an aerial microrobot that can fly as fast as a bumblebee
 - category: ai-research
-  description: Animation showing Google Photos Recap 2025
-  icon: fa-google
-  link: https://blog.google/products/photos/google-photos-2025-recap/
-  pub_date: '2025-12-03T16:00:00'
-  source: Google AI Blog
-  title: Look back on your 2025 with Google Photos Recap
-- category: ai-research
   description: Macro, a modeling tool developed by the MIT Energy Initiative, enables
     energy-system planners to explore options for developing infrastructure to support
     decarbonized, reliable, and low-cost power gri...
@@ -213,16 +231,6 @@ articles:
   pub_date: '2025-12-03T16:00:00'
   source: MIT AI News
   title: Helping power-system planners prepare for an unknown future
-- category: ai-research
-  description: A female doctor with glasses sits across from an elderly female patient,
-    reviewing medical data on floating digital screens that display heart health metrics,
-    graphs, and a secure patient profile.
-  icon: fa-google
-  link: https://blog.google/technology/health/ai-health-fund-eu/
-  pub_date: '2025-12-03T12:00:00'
-  source: Google AI Blog
-  title: We’re announcing new health AI funding, while a new report signals a turning
-    point for health in Europe.
 - category: ai-research
   description: MIT CSAIL and LIDS researchers developed a mathematically grounded
     system that lets soft robots deform, adapt, and interact with people and objects,
@@ -241,13 +249,4 @@ articles:
   source: MIT AI News
   title: MIT Sea Grant students explore the intersection of technology and offshore
     aquaculture in Norway
-- category: ai-research
-  description: At MITEI's Fall Colloquium, General Motors' battery development expert
-    emphasized how affordability, accessibility, and commercialization can position
-    the US as a leader in battery tech.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/driving-american-battery-innovation-forward-1201
-  pub_date: '2025-12-01T20:50:00'
-  source: MIT AI News
-  title: Driving American battery innovation forward
-last_updated: '2025-12-11T06:34:51.821878'
+last_updated: '2025-12-12T06:34:08.274947'

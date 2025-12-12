@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: As reshoring gains momentum, nearly all U.S. industrial companies plan
+    to expand automation within the next three years to keep production moving.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-factories-automation-reshoring-labor-shortages-2025
+  pub_date: '2025-12-11T17:57:00'
+  source: Supply Chain 24/7
+  title: 'Report: 95% of U.S. Manufacturers Plan New Automation by 2028'
+- category: supply-chain
+  description: A new joint venture between Sodecia and AAPICO will build a $120 million
+    automotive parts plant in Orangeburg County to support Scout Motors production.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/sodecia-aapico-south-carolina-manufacturing-plant
+  pub_date: '2025-12-11T17:43:00'
+  source: Supply Chain 24/7
+  title: Sodecia and AAPICO to Build 120 Million Dollar Plant in South Carolina
+- category: supply-chain
+  description: OpenAI's checkout model makes item-level fulfillment data a key factor
+    in whether products appear in AI-powered shopping results.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-shopping-fulfillment-ranking-gartner
+  pub_date: '2025-12-11T16:46:00'
+  source: Supply Chain 24/7
+  title: AI Checkout Is Changing How Products Rank, Gartner Says
+- category: supply-chain
+  description: A new Avetta survey shows workers feel safe even as many job sites
+    lack solid safety systems and most hazards go unreported.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/avetta-worker-safety-gap-survey-2025
+  pub_date: '2025-12-11T11:53:00'
+  source: Supply Chain 24/7
+  title: Most Workers Notice Hazards, but Few Speak Up, Survey Finds
+- category: circular
+  description: The Lords Environment and Climate Change Committee has said it is deeply
+    disappointed by the government's 'complacent' response to its waste-crime inquiry.
+    The post Defra accused of complacency over w...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/defra-accused-of-complacency-over-waste-crime-inquiry-by-lords/
+  pub_date: '2025-12-11T09:40:12'
+  source: Circular Online
+  title: Defra accused of complacency over waste-crime inquiry by Lords
+- category: supply-chain
   description: Lilly is investing $6 billion to build a new drug-ingredient manufacturing
     plant in Huntsville, Alabama, part of a push to shore up U.S. pharmaceutical supply
     chains.
@@ -68,41 +109,6 @@ articles:
   pub_date: '2025-12-10T09:02:03'
   source: Circular Online
   title: Grundon’s Toni Robinson appointed as new WISH Chair
-- category: supply-chain
-  description: Discover how AI transforms logistics - from warehouse automation and
-    predictive maintenance to real-time fulfillment, document processing, and optimized
-    route planning. Explore the most effective, hig...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-in-logistics-key-use-cases-real-world-business-impact
-  pub_date: '2025-12-09T19:35:00'
-  source: Supply Chain 24/7
-  title: 'AI in Logistics: Key Use Cases & Real-World Business Impact'
-- category: supply-chain
-  description: IKEA plans to ramp up U.S. manufacturing as tariffs drive up import
-    costs and pressure its global supply chain.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ikea-ramps-up-us-manufacturing-tariffs-2025
-  pub_date: '2025-12-09T15:55:00'
-  source: Supply Chain 24/7
-  title: IKEA Shifts More Manufacturing to U.S. as Tariffs Raise Costs
-- category: supply-chain
-  description: Discover which supply chain certifications deliver real ROI--learn
-    which credentials boost salaries, improve career mobility, and align with roles
-    in logistics, procurement, manufacturing, and plannin...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/best-supply-chain-certifications-how-to-choose-the-one-that-actually-pays-off
-  pub_date: '2025-12-09T15:23:00'
-  source: Supply Chain 24/7
-  title: 'Best Supply Chain Certifications: How to Choose the One That Actually Pays
-    Off'
-- category: supply-chain
-  description: A new Gartner survey shows that leadership turnover is disrupting supply
-    chains and exposing gaps in how future leaders are trained.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-leadership-turnover-hurting-supply-chains
-  pub_date: '2025-12-09T14:10:00'
-  source: Supply Chain 24/7
-  title: 'Gartner: Leadership Instability Is Dragging Down Supply Chains'
 - category: circular
   description: Environmental degradation is claiming millions of lives and costing
     trillions annually, the United Nations Environment Programme (UNEP) Global Environment
@@ -167,13 +173,4 @@ articles:
   pub_date: '2025-12-04T09:37:36'
   source: Circular Online
   title: Scotland discarded 112kt of textiles in 2023, findings show
-- category: circular
-  description: Birmingham City Council claim productivity has increased despite the
-    long-running strike action by refuse workers. The post Productivity up despite
-    refuse strike, says Birmingham council appeared firs...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/productivity-up-despite-refuse-strike-says-birmingham-council/
-  pub_date: '2025-12-04T08:00:00'
-  source: Circular Online
-  title: Productivity up despite refuse strike, says Birmingham council
-last_updated: '2025-12-11T06:34:50.905531'
+last_updated: '2025-12-12T06:34:07.097830'
