@@ -1,36 +1,169 @@
 articles:
 - category: supply-chain
-  description: Amazon is reportedly preparing to expand its own delivery network as
-    USPS talks stall ahead of the 2026 contract expiration.
+  description: As reshoring gains momentum, nearly all U.S. industrial companies plan
+    to expand automation within the next three years to keep production moving.
   icon: fa-box
-  link: https://www.supplychain247.com/article/report-amazon-looks-to-expand-its-delivery-network-as-usps-talks-stall
-  pub_date: '2025-12-04T18:24:00'
+  link: https://www.supplychain247.com/article/us-factories-automation-reshoring-labor-shortages-2025
+  pub_date: '2025-12-11T17:57:00'
   source: Supply Chain 24/7
-  title: 'Report: Amazon Looks to Expand Its Delivery Network as USPS Talks Stall'
+  title: 'Report: 95% of U.S. Manufacturers Plan New Automation by 2028'
 - category: supply-chain
-  description: xLight has secured a $150 million proposed CHIPS Act award to build
-    advanced laser technology for U.S. chip manufacturing.
+  description: A new joint venture between Sodecia and AAPICO will build a $120 million
+    automotive parts plant in Orangeburg County to support Scout Motors production.
   icon: fa-box
-  link: https://www.supplychain247.com/article/xlight-150m-chips-deal-trump-semiconductors
-  pub_date: '2025-12-04T16:33:00'
+  link: https://www.supplychain247.com/article/sodecia-aapico-south-carolina-manufacturing-plant
+  pub_date: '2025-12-11T17:43:00'
   source: Supply Chain 24/7
-  title: xLight Lands First Trump-Era CHIPS Award for Laser Tech
+  title: Sodecia and AAPICO to Build 120 Million Dollar Plant in South Carolina
 - category: supply-chain
-  description: A quick guide to the 2025 holiday shipping deadlines for USPS, UPS
-    and FedEx, with key dates shippers need to hit for Christmas delivery.
+  description: OpenAI's checkout model makes item-level fulfillment data a key factor
+    in whether products appear in AI-powered shopping results.
   icon: fa-box
-  link: https://www.supplychain247.com/article/2025-holiday-shipping-deadlines-usps-ups-fedex
-  pub_date: '2025-12-04T16:22:00'
+  link: https://www.supplychain247.com/article/ai-shopping-fulfillment-ranking-gartner
+  pub_date: '2025-12-11T16:46:00'
   source: Supply Chain 24/7
-  title: 2025 Holiday Shipping Deadlines For USPS, UPS, And FedEx
+  title: AI Checkout Is Changing How Products Rank, Gartner Says
 - category: supply-chain
-  description: Walmart has launched drone delivery at six stores around metro Atlanta,
-    giving nearby customers ultra-fast drop-offs for small orders.
+  description: A new Avetta survey shows workers feel safe even as many job sites
+    lack solid safety systems and most hazards go unreported.
   icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-drone-delivery-atlanta-launch
-  pub_date: '2025-12-04T12:16:00'
+  link: https://www.supplychain247.com/article/avetta-worker-safety-gap-survey-2025
+  pub_date: '2025-12-11T11:53:00'
   source: Supply Chain 24/7
-  title: Walmart Starts Drone Delivery From Six Stores Around Atlanta
+  title: Most Workers Notice Hazards, but Few Speak Up, Survey Finds
+- category: circular
+  description: The Lords Environment and Climate Change Committee has said it is deeply
+    disappointed by the government's 'complacent' response to its waste-crime inquiry.
+    The post Defra accused of complacency over w...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/defra-accused-of-complacency-over-waste-crime-inquiry-by-lords/
+  pub_date: '2025-12-11T09:40:12'
+  source: Circular Online
+  title: Defra accused of complacency over waste-crime inquiry by Lords
+- category: supply-chain
+  description: Lilly is investing $6 billion to build a new drug-ingredient manufacturing
+    plant in Huntsville, Alabama, part of a push to shore up U.S. pharmaceutical supply
+    chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/lilly-builds-6bn-alabama-api-facility-huntsville
+  pub_date: '2025-12-10T19:11:00'
+  source: Supply Chain 24/7
+  title: Lilly Invests $6 Billion on New Alabama Drug Manufacturing Site
+- category: supply-chain
+  description: Discover how warehouse robotics and automation technologies are helping
+    businesses overcome ongoing labor shortages, boost productivity, and improve operational
+    efficiency.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-warehouse-robots-help-solve-the-labor-shortage
+  pub_date: '2025-12-10T16:04:00'
+  source: Supply Chain 24/7
+  title: How Warehouse Robots Help Solve the Labor Shortage
+- category: supply-chain
+  description: Here is your complete, running list of the biggest supply chain, logistics,
+    and manufacturing conferences happening in 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-conferences-guide-2026
+  pub_date: '2025-12-10T15:50:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain Conferences Guide 2026: Dates, Locations, and More'
+- category: supply-chain
+  description: Only five states earned top marks for strong road safety laws in a
+    new national report from Advocates for Highway & Auto Safety.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/safest-states-road-safety-laws-report
+  pub_date: '2025-12-10T14:53:00'
+  source: Supply Chain 24/7
+  title: The Five Safest States for Road Safety Laws in the U.S.
+- category: supply-chain
+  description: Companies are placing greater emphasis on small suppliers as supplier
+    diversity programs shift away from optics toward sourcing strategy and business
+    performance.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/small-suppliers-supply-chain-strategy-2025
+  pub_date: '2025-12-10T14:34:00'
+  source: Supply Chain 24/7
+  title: Why Companies Are Leaning More on Small Suppliers for Sourcing
+- category: supply-chain
+  description: Neural networks are helping warehouses move beyond averages by predicting
+    real pick times and smarter routes based on actual floor conditions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-neural-networks-are-changing-warehouse-picking
+  pub_date: '2025-12-10T13:01:00'
+  source: Supply Chain 24/7
+  title: How Neural Networks Are Changing the Way Warehouses Pick Orders
+- category: circular
+  description: A man has been arrested and four vehicles seized after hundreds of
+    tonnes of waste was discovered on wooded land in Bromley. The post Man arrested
+    after hundreds of tonnes of waste dumped in Bromley a...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/man-arrested-after-hundreds-of-tonnes-of-waste-dumped-in-bromley/
+  pub_date: '2025-12-10T11:04:29'
+  source: Circular Online
+  title: Man arrested after hundreds of tonnes of waste dumped in Bromley
+- category: circular
+  description: The Waste Industry Safety and Health (WISH) Forum announces that Toni
+    Robinson, Risk & Sustainability Director at Grundon Waste Management, has been
+    elected as its new Chair. The post Grundon's Toni R...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/grundons-toni-robinson-appointed-as-new-wish-chair/
+  pub_date: '2025-12-10T09:02:03'
+  source: Circular Online
+  title: Grundon’s Toni Robinson appointed as new WISH Chair
+- category: circular
+  description: Environmental degradation is claiming millions of lives and costing
+    trillions annually, the United Nations Environment Programme (UNEP) Global Environment
+    Outlook report has found. The post UN report ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/un-report-warns-environmental-degradation-is-killing-millions-and-costing-trillions/
+  pub_date: '2025-12-09T11:53:29'
+  source: Circular Online
+  title: UN report says environmental degradation is killing millions and costing
+    trillions
+- category: circular
+  description: A poll by YouGov has found that 61% of people in Britain are willing
+    to buy refurbished devices, but most (61%) would prefer a brand-new device. The
+    post 61% of Brits willing to buy refurbished device...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/61-of-brits-willing-to-buy-refurbished-devices-yougov-poll-shows/
+  pub_date: '2025-12-09T10:56:55'
+  source: Circular Online
+  title: 61% of Brits willing to buy refurbished devices, YouGov poll shows
+- category: circular
+  description: Complex language around the circular economy is alienating consumers,
+    a new report from SUEZ has found. The post Circular economy alienating consumers
+    due to complex language, research finds appeared ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/circular-economy-alienating-consumers-due-to-complex-language-research-finds/
+  pub_date: '2025-12-09T09:21:46'
+  source: Circular Online
+  title: Circular economy alienating consumers due to complex language, research finds
+- category: circular
+  description: Grundon Waste Management partners with homelessness charity Crisis
+    to raise awareness of the dangers people face when forced to seek shelter in waste
+    bins. The post Grundon-Crisis campaign highlights ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/grundon-crisis-campaign-highlights-dangers-of-rough-sleeping-in-bins/
+  pub_date: '2025-12-08T11:40:49'
+  source: Circular Online
+  title: Grundon–Crisis campaign highlights dangers of rough sleeping in bins
+- category: circular
+  description: Gareth Rollings, Head of Waste at West Sussex County Council, has been
+    appointed as the new Chair of LARAC (Local Authority Recycling Advisory Committee).
+    The post LARAC appoint Gareth Rollings as Cha...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/larac-appoint-gareth-rollings-as-chair/
+  pub_date: '2025-12-08T10:44:46'
+  source: Circular Online
+  title: LARAC appoint Gareth Rollings as Chair
+- category: circular
+  description: Baroness Sheehan has written to the Environment Agency over concerns
+    it did not reference several significant illegal waste sites when giving evidence
+    to the recent waste crime inquiry. The post Waste...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-crime-inquiry-chair-writes-to-environment-agency-over-evidence-concerns/
+  pub_date: '2025-12-05T09:13:43'
+  source: Circular Online
+  title: Waste crime inquiry chair writes to Environment Agency over evidence concerns
 - category: circular
   description: Scotland discarded 112 kilotonnes (kt) of textiles in 2023, with 50%
     being disposed of as waste to landfill or incineration, findings from Zero Waste
@@ -40,136 +173,4 @@ articles:
   pub_date: '2025-12-04T09:37:36'
   source: Circular Online
   title: Scotland discarded 112kt of textiles in 2023, findings show
-- category: circular
-  description: Birmingham City Council claim productivity has increased despite the
-    long-running strike action by refuse workers. The post Productivity up despite
-    refuse strike, says Birmingham council appeared firs...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/productivity-up-despite-refuse-strike-says-birmingham-council/
-  pub_date: '2025-12-04T08:00:00'
-  source: Circular Online
-  title: Productivity up despite refuse strike, says Birmingham council
-- category: supply-chain
-  description: GEODIS is expanding its air freight network across South America through
-    a new interline agreement with Atlas Air.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/geodis-expands-south-america-air-freight-network
-  pub_date: '2025-12-03T18:50:00'
-  source: Supply Chain 24/7
-  title: GEODIS Expands South America Air Network With Atlas Air Deal
-- category: supply-chain
-  description: DHL says holiday shipping is running smoothly this year thanks to earlier
-    planning, better forecasting, and robotics that help keep peak season predictable.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-peak-season-planning-robotics
-  pub_date: '2025-12-03T14:24:00'
-  source: Supply Chain 24/7
-  title: DHL Enters Peak Season With More Planning, Less Panic in 2025
-- category: supply-chain
-  description: Costco has joined several companies suing the Trump administration
-    over emergency tariffs, seeking refunds and a clearer legal framework for import
-    costs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/costco-sues-trump-over-tariffs-refund-request
-  pub_date: '2025-12-03T14:05:00'
-  source: Supply Chain 24/7
-  title: Costco Joins Retailers Suing Trump Over Emergency Tariffs
-- category: supply-chain
-  description: U.S. manufacturing contracted again in November as new orders slowed,
-    pipelines thinned, and tariff uncertainty continued to weigh on decision-making.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturing-november-2025-ism-report-tariffs-orders
-  pub_date: '2025-12-03T13:45:00'
-  source: Supply Chain 24/7
-  title: 'ISM: Manufacturing Slips Again in November as Orders Stay Soft'
-- category: supply-chain
-  description: LTL veteran Scooter Sayers shared his take on the freight economy,
-    pricing, tariffs, and technology in a new podcast, offering five insights for
-    shippers heading into 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/five-things-scooter-sayers-says-about-ltl-market-2026
-  pub_date: '2025-12-03T13:02:00'
-  source: Supply Chain 24/7
-  title: Five Trends Shaping the LTL Market as 2026 Approaches
-- category: circular
-  description: Eight projects across England to receive a share of GBP68 million from
-    the Green Heat Network Fund (GHNF). The post 8 projects to receive GBP68 million
-    from the Green Heat Network Fund appeared first ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/8-projects-to-receive-68-million-from-the-green-heat-network-fund/
-  pub_date: '2025-12-03T10:40:03'
-  source: Circular Online
-  title: 8 projects to receive £68 million from the Green Heat Network Fund
-- category: circular
-  description: The Environment Agency has committed to clearing a mountain of illegally
-    dumped waste in Oxfordshire as soon as possible. The post Kidlington waste mountain
-    to be removed 'as soon as possible' appeare...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/kidlington-waste-mountain-to-be-removed-as-soon-as-possible/
-  pub_date: '2025-12-03T09:29:13'
-  source: Circular Online
-  title: Kidlington waste mountain to be removed ‘as soon as possible’
-- category: supply-chain
-  description: A new report shows that many of America's most injury-prone industries
-    are key parts of the supply chain, including manufacturing, retail, transportation,
-    and warehousing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-workplace-injuries-top-industries
-  pub_date: '2025-12-02T15:10:00'
-  source: Supply Chain 24/7
-  title: Top 10 U.S. Industries With the Most Workplace Injuries
-- category: circular
-  description: The Wood Recyclers' Association (WRA) and Wood Panel Industries Federation
-    (WPIF) have expressed disappointment over the government's decision to keep the
-    wood packaging recycling target unchanged for...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wra-and-wpif-disappointed-over-2026-wood-packaging-recycling-targets/
-  pub_date: '2025-12-02T10:50:35'
-  source: Circular Online
-  title: WRA and WPIF ‘disappointed’ over 2026 wood packaging recycling targets
-- category: circular
-  description: UK Government targets 50% cut to residual waste by 2042 as part of
-    revised Environmental Improvement Plan (EIP). The post UK Government targets 50%
-    cut in residual waste by 2042 appeared first on Circ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-government-targets-50-cut-in-residual-waste-by-2042/
-  pub_date: '2025-12-02T09:13:20'
-  source: Circular Online
-  title: UK Government targets 50% cut in residual waste by 2042
-- category: circular
-  description: Wales has confirmed it will include glass as an in-scope material in
-    its deposit return scheme at launch but no deposit will be charged on any glass
-    containers. The post Welsh DRS to launch with glass...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wales-announces-phased-approach-to-introducing-glass-into-drs/
-  pub_date: '2025-12-01T10:13:18'
-  source: Circular Online
-  title: Welsh DRS to launch with glass as in-scope material
-- category: circular
-  description: The Environmental Services Association (ESA) has announced John Scanlon,
-    Chief Executive Officer of SUEZ recycling and recovery UK, as its new Chair. Scanlon
-    replaces Michael Topham, who steps down at...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environmental-services-association-appoints-suez-ceo-as-new-chair/
-  pub_date: '2025-11-28T11:09:38'
-  source: Circular Online
-  title: Environmental Services Association appoints SUEZ CEO as new Chair
-- category: circular
-  description: Ahead of the official launch of the UK Packaging Pact in April 2026,
-    WRAP has announced the names of the 55 founding organisations who have signed
-    up. The post 55 founding organisations join UK Packag...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/55-founding-organisations-join-uk-packaging-pact-ahead-of-april-2026-launch/
-  pub_date: '2025-11-28T10:33:56'
-  source: Circular Online
-  title: 55 founding organisations join UK Packaging Pact ahead of April 2026 launch
-- category: circular
-  description: News updates written by CIWM's commercial partners. Greyparrot Greentech
-    Baltic increases PET recovery revenue by 10% with Greyparrot AI GreenTech Dennis
-    Eagle Dennis Eagle officially opens new Techni...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-november-2/
-  pub_date: '2025-11-28T09:00:00'
-  source: Circular Online
-  title: News in brief | CIWM Commercial Partner Updates November
-last_updated: '2025-12-05T06:33:23.338300'
+last_updated: '2025-12-12T06:34:07.097830'
