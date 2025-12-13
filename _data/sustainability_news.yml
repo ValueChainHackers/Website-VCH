@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: Amazon is reportedly testing a one-hour in-store pickup service as
+    it looks to speed up fulfillment and compete more aggressively in click-and-collect.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-one-hour-in-store-pickup-rush-service
+  pub_date: '2025-12-12T17:59:00'
+  source: Supply Chain 24/7
+  title: 'Report: Amazon Explores One-Hour In-Store Pickup Program'
+- category: supply-chain
+  description: New York City's Blue Highways pilot uses boats and electric cargo bikes
+    to move freight, aiming to cut truck traffic and pollution.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nyc-blue-highways-water-freight-pilot
+  pub_date: '2025-12-12T16:39:00'
+  source: Supply Chain 24/7
+  title: New York City Turns Its Waterways Into a New Freight Network
+- category: supply-chain
+  description: JAGGAER's Eric Lefebvre outlines 10 supply chain trends that will shape
+    2026, from tariffs and nearshoring to AI, security, and circular supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/2026-supply-chain-trends-risks-resilience-opportunity
+  pub_date: '2025-12-12T14:22:00'
+  source: Supply Chain 24/7
+  title: 10 Supply Chain Shifts Companies Need to Prepare for in 2026
+- category: supply-chain
+  description: Purdue University researchers showed a highway can wirelessly charge
+    a heavy-duty electric truck while it drives, pointing to a new approach for electric
+    freight.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/wireless-charging-electric-truck-roadway-purdue-university
+  pub_date: '2025-12-12T14:20:00'
+  source: Supply Chain 24/7
+  title: This Highway Charges Electric Trucks While They’re Driving
+- category: supply-chain
+  description: Six major shifts in automation, planning, layout design, and workforce
+    support are redefining how warehouses operate in 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/six-shifts-reshaping-warehouses-2026
+  pub_date: '2025-12-12T13:12:00'
+  source: Supply Chain 24/7
+  title: Six Shifts Reshaping Warehouse Operations in 2026
+- category: supply-chain
   description: As reshoring gains momentum, nearly all U.S. industrial companies plan
     to expand automation within the next three years to keep production moving.
   icon: fa-box
@@ -49,48 +90,6 @@ articles:
   pub_date: '2025-12-10T19:11:00'
   source: Supply Chain 24/7
   title: Lilly Invests $6 Billion on New Alabama Drug Manufacturing Site
-- category: supply-chain
-  description: Discover how warehouse robotics and automation technologies are helping
-    businesses overcome ongoing labor shortages, boost productivity, and improve operational
-    efficiency.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-warehouse-robots-help-solve-the-labor-shortage
-  pub_date: '2025-12-10T16:04:00'
-  source: Supply Chain 24/7
-  title: How Warehouse Robots Help Solve the Labor Shortage
-- category: supply-chain
-  description: Here is your complete, running list of the biggest supply chain, logistics,
-    and manufacturing conferences happening in 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-conferences-guide-2026
-  pub_date: '2025-12-10T15:50:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain Conferences Guide 2026: Dates, Locations, and More'
-- category: supply-chain
-  description: Only five states earned top marks for strong road safety laws in a
-    new national report from Advocates for Highway & Auto Safety.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/safest-states-road-safety-laws-report
-  pub_date: '2025-12-10T14:53:00'
-  source: Supply Chain 24/7
-  title: The Five Safest States for Road Safety Laws in the U.S.
-- category: supply-chain
-  description: Companies are placing greater emphasis on small suppliers as supplier
-    diversity programs shift away from optics toward sourcing strategy and business
-    performance.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/small-suppliers-supply-chain-strategy-2025
-  pub_date: '2025-12-10T14:34:00'
-  source: Supply Chain 24/7
-  title: Why Companies Are Leaning More on Small Suppliers for Sourcing
-- category: supply-chain
-  description: Neural networks are helping warehouses move beyond averages by predicting
-    real pick times and smarter routes based on actual floor conditions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-neural-networks-are-changing-warehouse-picking
-  pub_date: '2025-12-10T13:01:00'
-  source: Supply Chain 24/7
-  title: How Neural Networks Are Changing the Way Warehouses Pick Orders
 - category: circular
   description: A man has been arrested and four vehicles seized after hundreds of
     tonnes of waste was discovered on wooded land in Bromley. The post Man arrested
@@ -173,4 +172,4 @@ articles:
   pub_date: '2025-12-04T09:37:36'
   source: Circular Online
   title: Scotland discarded 112kt of textiles in 2023, findings show
-last_updated: '2025-12-12T06:34:07.097830'
+last_updated: '2025-12-13T06:31:03.828617'

@@ -1,5 +1,62 @@
 articles:
 - category: ai-research
+  description: The "self-steering" DisCIPL system directs small models to work together
+    on tasks with constraints, like itinerary planning and budgeting.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
+  pub_date: '2025-12-12T20:30:00'
+  source: MIT AI News
+  title: Enabling small language models to solve complex reasoning tasks
+- category: ai-research
+  description: The new certificate program will equip naval officers with skills needed
+    to solve the military's hardest problems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212
+  pub_date: '2025-12-12T18:10:00'
+  source: MIT AI News
+  title: New MIT program to train military leaders for the AI age
+- category: machine-learning
+  description: Writing efficient Python data classes cuts boilerplate while keeping
+    your code clean. And this article will teach you how.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-write-efficient-python-data-classes
+  pub_date: '2025-12-12T17:00:47'
+  source: KDnuggets
+  title: How to Write Efficient Python Data Classes
+- category: ai-research
+  description: When you go Live with Search, you can have a back-and-forth voice conversation
+    in AI Mode to get real-time help and quickly find relevant sites across the web.
+    And now, ...
+  icon: fa-google
+  link: https://blog.google/products/search/live-audio-gemini-model-update/
+  pub_date: '2025-12-12T17:00:00'
+  source: Google AI Blog
+  title: You can now have more fluid and expressive conversations when you go Live
+    with Search.
+- category: ai-research
+  description: An illustration of a phone shows Google Translate and icons for capabilities
+    including text translations, speech-to-speech translations, and language praactice
+  icon: fa-google
+  link: https://blog.google/products/search/gemini-capabilities-translation-upgrades/
+  pub_date: '2025-12-12T17:00:00'
+  source: Google AI Blog
+  title: Bringing state-of-the-art Gemini translation capabilities to Google Translate
+- category: machine-learning
+  description: And it pays $100K+ more than regular data analyst jobs.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-one-data-analyst-role-thats-ai-proof
+  pub_date: '2025-12-12T15:00:34'
+  source: KDnuggets
+  title: The One Data Analyst Role That’s AI-Proof
+- category: machine-learning
+  description: Get started with five free Python libraries that let you analyze, filter,
+    and process data faster than traditional Pandas.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-lightweight-alternatives-to-pandas-you-should-try
+  pub_date: '2025-12-12T13:00:07'
+  source: KDnuggets
+  title: 5 Lightweight Alternatives to Pandas You Should Try
+- category: ai-research
   description: The technique can help scientists in economics, public health, and
     other fields understand whether to trust the results of their experiments.
   icon: fa-graduation-cap
@@ -115,23 +172,6 @@ articles:
   pub_date: '2025-12-09T15:39:17'
   source: KDnuggets
   title: How AI Cuts Costs and Adds Value for Data Science Workflows (Sponsored)
-- category: machine-learning
-  description: Learn how to detect outliers by doing a real-life data project and
-    improve the process with AI.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/prompt-engineering-for-outlier-detection
-  pub_date: '2025-12-09T15:00:27'
-  source: KDnuggets
-  title: Prompt Engineering for Outlier Detection
-- category: machine-learning
-  description: This article discusses five cutting-edge AutoML techniques and trends
-    that are expected to shape the landscape of highly automated machine learning
-    model building in the 2026 year about to start.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-cutting-edge-automl-techniques-to-watch-in-2026
-  pub_date: '2025-12-09T13:00:07'
-  source: KDnuggets
-  title: 5 Cutting-Edge AutoML Techniques to Watch in 2026
 - category: ai-research
   description: Postdoc Zongyi Li, Associate Professor Tess Smidt, and seven additional
     alumni will be supported in the development of AI against difficult problems.
@@ -148,14 +188,6 @@ articles:
   pub_date: '2025-12-08T18:00:00'
   source: Google AI Blog
   title: How we’re supporting the next generation of innovators
-- category: machine-learning
-  description: You don't need Python or R to start working with data. This guide walks
-    you through using built-in Unix utilities for real statistical analysis.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/statistics-at-the-command-line-for-beginner-data-scientists
-  pub_date: '2025-12-08T16:48:59'
-  source: KDnuggets
-  title: Statistics at the Command Line for Beginner Data Scientists
 - category: ai-research
   description: A bald male teacher with glasses and a black shirt leans over to point
     at a computer monitor, instructing a male student. Other students are seated at
@@ -173,23 +205,6 @@ articles:
   pub_date: '2025-12-05T19:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in November
-- category: ai-research
-  description: Google Workspace has released findings from our second survey that
-    looks at how people aged 22-39 are using AI at work. Commissioned by Workspace
-    in partnership with the...
-  icon: fa-google
-  link: https://blog.google/products/workspace/young-leaders-survey-ai/
-  pub_date: '2025-12-05T16:00:00'
-  source: Google AI Blog
-  title: New research from Google Workspace reveals how young leaders are using AI
-    at work.
-- category: ai-research
-  description: Image with black background and Gemini 3 Pro logo
-  icon: fa-google
-  link: https://blog.google/technology/developers/gemini-3-pro-vision/
-  pub_date: '2025-12-05T16:00:00'
-  source: Google AI Blog
-  title: 'Gemini 3 Pro: the frontier of vision AI'
 - category: ai-research
   description: The speech-to-reality system combines 3D generative AI and robotic
     assembly to create objects on demand.
@@ -231,22 +246,4 @@ articles:
   pub_date: '2025-12-03T16:00:00'
   source: MIT AI News
   title: Helping power-system planners prepare for an unknown future
-- category: ai-research
-  description: MIT CSAIL and LIDS researchers developed a mathematically grounded
-    system that lets soft robots deform, adapt, and interact with people and objects,
-    without violating safety limits.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/new-control-system-teaches-soft-robots-art-staying-safe-1202
-  pub_date: '2025-12-02T19:00:00'
-  source: MIT AI News
-  title: New control system teaches soft robots the art of staying safe
-- category: ai-research
-  description: AquaCulture Shock program, in collaboration with MIT-Scandinavia MISTI,
-    offers international internships for AI and autonomy in aquaculture
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/aquaculture-shock-ai-and-autonomy-aquaculture-1201
-  pub_date: '2025-12-01T21:25:00'
-  source: MIT AI News
-  title: MIT Sea Grant students explore the intersection of technology and offshore
-    aquaculture in Norway
-last_updated: '2025-12-12T06:34:08.274947'
+last_updated: '2025-12-13T06:31:04.978724'
