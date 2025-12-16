@@ -1,5 +1,75 @@
 articles:
 - category: supply-chain
+  description: CEVA Logistics has signed an agreement to acquire Fagioli Group as
+    it looks to expand its global project logistics and heavy-lift operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ceva-logistics-fagioli-project-logistics-acquisition
+  pub_date: '2025-12-15T17:12:00'
+  source: Supply Chain 24/7
+  title: CEVA Logistics Agrees to Buy Italy-Based Fagioli Group
+- category: supply-chain
+  description: Supply chain leaders from across the industry share their biggest predictions
+    for 2026, covering AI, talent, logistics, automation, and more.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-predictions-2026
+  pub_date: '2025-12-15T15:06:00'
+  source: Supply Chain 24/7
+  title: '2026 Supply Chain Predictions: What Experts Expect in the Year Ahead'
+- category: supply-chain
+  description: Supply chain leaders are locking in budgets and taking practical steps
+    now to prepare for another uncertain year in 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/six-supply-chain-steps-to-prepare-for-2026
+  pub_date: '2025-12-15T14:40:00'
+  source: Supply Chain 24/7
+  title: Six Simple Steps to Prepare Your Supply Chain for 2026
+- category: supply-chain
+  description: Warehouse automation is accelerating, but people will continue to play
+    a key role, even as jobs and skills change.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/do-people-still-matter-in-the-warehouse
+  pub_date: '2025-12-15T14:18:00'
+  source: Supply Chain 24/7
+  title: Do People Still Matter in Today’s Automated Warehouses?
+- category: supply-chain
+  description: A new chart shows global rare earth reserves remain heavily concentrated,
+    with China far ahead and few easy alternatives in sight.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/global-rare-earth-mineral-reserves-chart-2025
+  pub_date: '2025-12-15T14:06:00'
+  source: Supply Chain 24/7
+  title: Which Country Holds the Most Rare Earth Minerals in the World?
+- category: circular
+  description: A provisional agreement between the European Parliament and Council
+    will introduce mandatory recycled-content targets, stronger producer responsibility
+    and tighter controls on vehicle exports, aiming ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/eu-agrees-tougher-end-of-life-vehicles-rules-to-boost-recycled-content-and-cut-material-losses/
+  pub_date: '2025-12-15T09:20:47'
+  source: Circular Online
+  title: EU agrees tougher End-of-Life Vehicles rules to boost recycled content and
+    cut material losses
+- category: circular
+  description: Extended Producer Responsibility frameworks are directing materials
+    towards recycling rather than higher-value reuse and repair, according to a new
+    policy brief from the Ellen MacArthur Foundation, wh...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/epr-schemes-falling-short-on-reuse-as-recycling-dominates-policy-focus-ellen-macarthur-foundation-warns/
+  pub_date: '2025-12-15T09:16:43'
+  source: Circular Online
+  title: EPR schemes falling short on reuse as recycling dominates policy focus, Ellen
+    MacArthur Foundation warns
+- category: circular
+  description: Stats show continued progress away from landfill in Northern Ireland,
+    but little movement in recycling rates The post Northern Ireland recycling rate
+    stagnates as Energy from Waste expands, Daera figu...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/northern-ireland-recycling-rate-stagnates-as-energy-from-waste-expands-daera-figures-show/
+  pub_date: '2025-12-15T09:10:27'
+  source: Circular Online
+  title: Northern Ireland recycling rate stagnates as Energy from Waste expands, Daera
+    figures show
+- category: supply-chain
   description: Amazon is reportedly testing a one-hour in-store pickup service as
     it looks to speed up fulfillment and compete more aggressively in click-and-collect.
   icon: fa-box
@@ -40,38 +110,6 @@ articles:
   pub_date: '2025-12-12T13:12:00'
   source: Supply Chain 24/7
   title: Six Shifts Reshaping Warehouse Operations in 2026
-- category: supply-chain
-  description: As reshoring gains momentum, nearly all U.S. industrial companies plan
-    to expand automation within the next three years to keep production moving.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-factories-automation-reshoring-labor-shortages-2025
-  pub_date: '2025-12-11T17:57:00'
-  source: Supply Chain 24/7
-  title: 'Report: 95% of U.S. Manufacturers Plan New Automation by 2028'
-- category: supply-chain
-  description: A new joint venture between Sodecia and AAPICO will build a $120 million
-    automotive parts plant in Orangeburg County to support Scout Motors production.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/sodecia-aapico-south-carolina-manufacturing-plant
-  pub_date: '2025-12-11T17:43:00'
-  source: Supply Chain 24/7
-  title: Sodecia and AAPICO to Build 120 Million Dollar Plant in South Carolina
-- category: supply-chain
-  description: OpenAI's checkout model makes item-level fulfillment data a key factor
-    in whether products appear in AI-powered shopping results.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-shopping-fulfillment-ranking-gartner
-  pub_date: '2025-12-11T16:46:00'
-  source: Supply Chain 24/7
-  title: AI Checkout Is Changing How Products Rank, Gartner Says
-- category: supply-chain
-  description: A new Avetta survey shows workers feel safe even as many job sites
-    lack solid safety systems and most hazards go unreported.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/avetta-worker-safety-gap-survey-2025
-  pub_date: '2025-12-11T11:53:00'
-  source: Supply Chain 24/7
-  title: Most Workers Notice Hazards, but Few Speak Up, Survey Finds
 - category: circular
   description: The Lords Environment and Climate Change Committee has said it is deeply
     disappointed by the government's 'complacent' response to its waste-crime inquiry.
@@ -81,15 +119,6 @@ articles:
   pub_date: '2025-12-11T09:40:12'
   source: Circular Online
   title: Defra accused of complacency over waste-crime inquiry by Lords
-- category: supply-chain
-  description: Lilly is investing $6 billion to build a new drug-ingredient manufacturing
-    plant in Huntsville, Alabama, part of a push to shore up U.S. pharmaceutical supply
-    chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lilly-builds-6bn-alabama-api-facility-huntsville
-  pub_date: '2025-12-10T19:11:00'
-  source: Supply Chain 24/7
-  title: Lilly Invests $6 Billion on New Alabama Drug Manufacturing Site
 - category: circular
   description: A man has been arrested and four vehicles seized after hundreds of
     tonnes of waste was discovered on wooded land in Bromley. The post Man arrested
@@ -145,31 +174,4 @@ articles:
   pub_date: '2025-12-08T11:40:49'
   source: Circular Online
   title: Grundon–Crisis campaign highlights dangers of rough sleeping in bins
-- category: circular
-  description: Gareth Rollings, Head of Waste at West Sussex County Council, has been
-    appointed as the new Chair of LARAC (Local Authority Recycling Advisory Committee).
-    The post LARAC appoint Gareth Rollings as Cha...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/larac-appoint-gareth-rollings-as-chair/
-  pub_date: '2025-12-08T10:44:46'
-  source: Circular Online
-  title: LARAC appoint Gareth Rollings as Chair
-- category: circular
-  description: Baroness Sheehan has written to the Environment Agency over concerns
-    it did not reference several significant illegal waste sites when giving evidence
-    to the recent waste crime inquiry. The post Waste...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-crime-inquiry-chair-writes-to-environment-agency-over-evidence-concerns/
-  pub_date: '2025-12-05T09:13:43'
-  source: Circular Online
-  title: Waste crime inquiry chair writes to Environment Agency over evidence concerns
-- category: circular
-  description: Scotland discarded 112 kilotonnes (kt) of textiles in 2023, with 50%
-    being disposed of as waste to landfill or incineration, findings from Zero Waste
-    Scotland show. The post Scotland discarded 112kt o...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/scotland-discarded-112kt-of-textiles-in-2023-findings-show/
-  pub_date: '2025-12-04T09:37:36'
-  source: Circular Online
-  title: Scotland discarded 112kt of textiles in 2023, findings show
-last_updated: '2025-12-15T06:36:30.390704'
+last_updated: '2025-12-16T06:34:46.040905'
