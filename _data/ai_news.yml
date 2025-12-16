@@ -1,5 +1,74 @@
 articles:
 - category: ai-research
+  description: An AI-driven system lets users design and build simple, multicomponent
+    objects by describing them with words.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/robot-makes-chair-1216
+  pub_date: '2025-12-16T05:00:00'
+  source: MIT AI News
+  title: “Robot, make me a chair”
+- category: ai-research
+  description: Assistant Professor Yunha Hwang utilizes microbial genomes to examine
+    the language of biology. Her appointment reflects MIT's commitment to exploring
+    the intersection of genetics research and AI.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/3-questions-yunha-hwang-using-computation-study-worlds-best-single-celled-chemists-1215
+  pub_date: '2025-12-15T22:15:00'
+  source: MIT AI News
+  title: '3 Questions: Using computation to study the world’s best single-celled chemists'
+- category: ai-research
+  description: Nuclear waste continues to be a bottleneck in the widespread use of
+    nuclear energy, so doctoral student Dauren Sarsenbayev is developing models to
+    address the problem.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/dauren-sarsenbayev-working-to-eliminate-barriers-adopting-nuclear-energy-1215
+  pub_date: '2025-12-15T21:00:00'
+  source: MIT AI News
+  title: Working to eliminate barriers to adopting nuclear energy
+- category: machine-learning
+  description: In this article, we'll use a real-life data project to explore four
+    practical steps for preparing to deal with messy, real-life datasets.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-data-detox-training-yourself-for-the-messy-noisy-real-world
+  pub_date: '2025-12-15T17:00:25'
+  source: KDnuggets
+  title: 'The Data Detox: Training Yourself for the Messy, Noisy, Real World'
+- category: ai-research
+  description: We're sharing a practical playbook to help organizations streamline
+    and enhance sustainability reporting with AI.Corporate transparency is essential,
+    but navigating frag...
+  icon: fa-google
+  link: https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/
+  pub_date: '2025-12-15T17:00:00'
+  source: Google AI Blog
+  title: We’re publishing an AI playbook to help others with sustainability reporting.
+- category: machine-learning
+  description: Let's uncover how transformer models sitting behind LLMs analyze input
+    information like user prompts and how they generate coherent, meaningful, and
+    relevant output text "word by word".
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-transformers-think-the-information-flow-that-makes-language-models-work
+  pub_date: '2025-12-15T15:00:43'
+  source: KDnuggets
+  title: 'How Transformers Think: The Information Flow That Makes Language Models
+    Work'
+- category: machine-learning
+  description: in 2026, people want accountability frameworks that feel real, enforceable,
+    and grounded in how AI behaves in live environments.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/emerging-trends-in-ai-ethics-and-governance-for-2026
+  pub_date: '2025-12-15T13:00:58'
+  source: KDnuggets
+  title: Emerging Trends in AI Ethics and Governance for 2026
+- category: ai-research
+  description: The approach could apply to more complex tissues and organs, helping
+    researchers to identify early signs of disease.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215
+  pub_date: '2025-12-15T10:00:00'
+  source: MIT AI News
+  title: Deep-learning model predicts how fruit flies form, cell by cell
+- category: ai-research
   description: The "self-steering" DisCIPL system directs small models to work together
     on tasks with constraints, like itinerary planning and budgeting.
   icon: fa-graduation-cap
@@ -130,24 +199,6 @@ articles:
   pub_date: '2025-12-10T13:00:33'
   source: KDnuggets
   title: 5 Free Tools to Experiment with LLMs in Your Browser
-- category: machine-learning
-  description: Nebius Token Factory customers use distillation today for search ranking,
-    grammar correction, summarization, chat quality improvement, code refinement,
-    and dozens of other narrow tasks.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/why-model-distillation-is-becoming-the-most-important-technique-in-production-ai
-  pub_date: '2025-12-09T18:02:15'
-  source: KDnuggets
-  title: Why model distillation is becoming the most important technique in production
-    AI
-- category: machine-learning
-  description: You can train, evaluate, and export a full ML pipeline in Python using
-    TPOT with just a few lines of code.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/tpot-automating-ml-pipelines-with-genetic-algorithms-in-python
-  pub_date: '2025-12-09T17:00:05'
-  source: KDnuggets
-  title: 'TPOT: Automating ML Pipelines with Genetic Algorithms in Python'
 - category: ai-research
   description: A new global survey of executives, decision makers and knowledge workers
     reveals that organizations truly transforming with AI are seeing real results
@@ -164,14 +215,6 @@ articles:
   pub_date: '2025-12-09T16:00:00'
   source: Google AI Blog
   title: 2025 at Google
-- category: machine-learning
-  description: Increasingly, the most interesting AI work is happening inside traditional,
-    data-rich businesses that don't look anything like Big Tech.
-  icon: fa-chart-bar
-  link: https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech
-  pub_date: '2025-12-09T15:39:17'
-  source: KDnuggets
-  title: How AI Cuts Costs and Adds Value for Data Science Workflows (Sponsored)
 - category: ai-research
   description: Postdoc Zongyi Li, Associate Professor Tess Smidt, and seven additional
     alumni will be supported in the development of AI against difficult problems.
@@ -198,14 +241,6 @@ articles:
   source: Google AI Blog
   title: Transforming Nordic classrooms through responsible AI partnerships
 - category: ai-research
-  description: mp4 showing a carousel of images with text like "Gemini 3" "Nano Banana
-    Pro" and "Help me plan a trip"
-  icon: fa-google
-  link: https://blog.google/technology/ai/google-ai-updates-november-2025/
-  pub_date: '2025-12-05T19:45:00'
-  source: Google AI Blog
-  title: The latest AI news we announced in November
-- category: ai-research
   description: The speech-to-reality system combines 3D generative AI and robotic
     assembly to create objects on demand.
   icon: fa-graduation-cap
@@ -213,37 +248,4 @@ articles:
   pub_date: '2025-12-05T15:00:00'
   source: MIT AI News
   title: MIT researchers “speak objects into existence” using AI and robotics
-- category: ai-research
-  description: Founded by MIT alumni, the Pickle Robot Company has developed machines
-    that can autonomously load and unload trucks inside warehouses and logistic centers.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/robots-spare-warehouse-workers-heavy-lifting-1205
-  pub_date: '2025-12-05T05:00:00'
-  source: MIT AI News
-  title: Robots that spare warehouse workers the heavy lifting
-- category: ai-research
-  description: This new technique enables LLMs to dynamically adjust the amount of
-    computation they use for reasoning, based on the difficulty of the question.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/smarter-way-large-language-models-think-about-hard-problems-1204
-  pub_date: '2025-12-04T05:00:00'
-  source: MIT AI News
-  title: A smarter way for large language models to think about hard problems
-- category: ai-research
-  description: With insect-like speed and agility, the tiny robot could someday aid
-    in search-and-rescue missions.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203
-  pub_date: '2025-12-03T19:00:00'
-  source: MIT AI News
-  title: MIT engineers design an aerial microrobot that can fly as fast as a bumblebee
-- category: ai-research
-  description: Macro, a modeling tool developed by the MIT Energy Initiative, enables
-    energy-system planners to explore options for developing infrastructure to support
-    decarbonized, reliable, and low-cost power gri...
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/helping-power-system-planners-prepare-unknown-future-1203
-  pub_date: '2025-12-03T16:00:00'
-  source: MIT AI News
-  title: Helping power-system planners prepare for an unknown future
-last_updated: '2025-12-15T06:36:31.549869'
+last_updated: '2025-12-16T06:34:46.908884'
