@@ -1,5 +1,86 @@
 articles:
 - category: supply-chain
+  description: The EU plans to end its de minimis rule in 2026, adding a 3 ($3.25)
+    customs fee to low-value e-commerce parcels and tightening border oversight.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eu-ends-de-minimis-rule-new-fees-small-parcels
+  pub_date: '2025-12-16T15:09:00'
+  source: Supply Chain 24/7
+  title: EU Plans to End De Minimis Rule, Adding New Fees to Small Parcels
+- category: supply-chain
+  description: UPS is investing $120 million to buy 400 robots from Pickle Robot that
+    can unload delivery trucks and shipping containers as part of a major automation
+    push.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-invests-120m-on-truck-unloading-robots
+  pub_date: '2025-12-16T14:22:00'
+  source: Supply Chain 24/7
+  title: UPS to Spend $120 Million on Robots to Speed Up Truck Unloading
+- category: supply-chain
+  description: CMA CGM says its She sails program has doubled the number of women
+    working at sea in one year and set a new goal of 1,000 women seafarers by 2030.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cma-cgm-she-sails-doubles-women-seafarers
+  pub_date: '2025-12-16T14:06:00'
+  source: Supply Chain 24/7
+  title: CMA CGM Doubles Number of Women at Sea in One Year
+- category: supply-chain
+  description: LS Cable & System plans a $689 million manufacturing expansion in Chesapeake,
+    Virginia, focused on copper products and rare-earth magnets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ls-cable-689m-virginia-manufacturing-expansion
+  pub_date: '2025-12-16T14:05:00'
+  source: Supply Chain 24/7
+  title: LS Cable Plans $689 Million Manufacturing Expansion in Virginia
+- category: supply-chain
+  description: Kardex says it has reached 100 AutoStore sites in less than five years
+    as demand for automated storage systems continues to grow.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kardex-reaches-100-autostore-sites-in-less-than-five-years
+  pub_date: '2025-12-16T14:04:00'
+  source: Supply Chain 24/7
+  title: Kardex Reaches 100 AutoStore Sites in Less Than Five Years
+- category: circular
+  description: The chair of the House of Lords Environment and Climate Change Committee
+    has written to the environment secretary expressing "deep disappointment" at the
+    government's response to its waste-crime inqui...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/lords-write-to-environment-secretary-over-complacent-response-to-waste-crime-inquiry/
+  pub_date: '2025-12-16T08:57:16'
+  source: Circular Online
+  title: Lords write to environment secretary over “complacent” response to waste
+    crime inquiry
+- category: circular
+  description: North Somerset Council and Noah's Ark Zoo Farm are aiming to repurpose
+    up to 4,000 Christmas trees this winter, expanding a long-running partnership
+    designed to reduce seasonal waste and support envir...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/thousands-of-christmas-trees-to-be-reused-and-recycled-in-north-somerset-festive-scheme/
+  pub_date: '2025-12-16T08:00:00'
+  source: Circular Online
+  title: Thousands of Christmas trees to be reused and recycled in North Somerset
+    festive scheme
+- category: circular
+  description: A new technique developed at the University of Helsinki uses fatty
+    acids, hydrogen peroxide and visible light to dissolve and recover silver from
+    waste, offering a safer alternative to conventional cy...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/finnish-researchers-develop-cyanide-free-method-to-recycle-silver-using-light-and-organic-acids/
+  pub_date: '2025-12-16T08:00:00'
+  source: Circular Online
+  title: Finnish researchers develop cyanide-free method to recycle silver using light
+    and organic acids
+- category: circular
+  description: Partnership between the British Beauty Council and MYGroup aims to
+    capture cosmetic packaging not handled by kerbside collections. The post UK beauty
+    brands invited to join nationwide take-back scheme...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-beauty-brands-invited-to-join-nationwide-take-back-scheme-for-hard-to-recycle-packaging/
+  pub_date: '2025-12-16T08:00:00'
+  source: Circular Online
+  title: UK beauty brands invited to join nationwide take-back scheme for hard-to-recycle
+    packaging
+- category: supply-chain
   description: CEVA Logistics has signed an agreement to acquire Fagioli Group as
     it looks to expand its global project logistics and heavy-lift operations.
   icon: fa-box
@@ -69,47 +150,6 @@ articles:
   source: Circular Online
   title: Northern Ireland recycling rate stagnates as Energy from Waste expands, Daera
     figures show
-- category: supply-chain
-  description: Amazon is reportedly testing a one-hour in-store pickup service as
-    it looks to speed up fulfillment and compete more aggressively in click-and-collect.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-one-hour-in-store-pickup-rush-service
-  pub_date: '2025-12-12T17:59:00'
-  source: Supply Chain 24/7
-  title: 'Report: Amazon Explores One-Hour In-Store Pickup Program'
-- category: supply-chain
-  description: New York City's Blue Highways pilot uses boats and electric cargo bikes
-    to move freight, aiming to cut truck traffic and pollution.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nyc-blue-highways-water-freight-pilot
-  pub_date: '2025-12-12T16:39:00'
-  source: Supply Chain 24/7
-  title: New York City Turns Its Waterways Into a New Freight Network
-- category: supply-chain
-  description: JAGGAER's Eric Lefebvre outlines 10 supply chain trends that will shape
-    2026, from tariffs and nearshoring to AI, security, and circular supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/2026-supply-chain-trends-risks-resilience-opportunity
-  pub_date: '2025-12-12T14:22:00'
-  source: Supply Chain 24/7
-  title: 10 Supply Chain Shifts Companies Need to Prepare for in 2026
-- category: supply-chain
-  description: Purdue University researchers showed a highway can wirelessly charge
-    a heavy-duty electric truck while it drives, pointing to a new approach for electric
-    freight.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/wireless-charging-electric-truck-roadway-purdue-university
-  pub_date: '2025-12-12T14:20:00'
-  source: Supply Chain 24/7
-  title: This Highway Charges Electric Trucks While They’re Driving
-- category: supply-chain
-  description: Six major shifts in automation, planning, layout design, and workforce
-    support are redefining how warehouses operate in 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/six-shifts-reshaping-warehouses-2026
-  pub_date: '2025-12-12T13:12:00'
-  source: Supply Chain 24/7
-  title: Six Shifts Reshaping Warehouse Operations in 2026
 - category: circular
   description: The Lords Environment and Climate Change Committee has said it is deeply
     disappointed by the government's 'complacent' response to its waste-crime inquiry.
@@ -137,41 +177,4 @@ articles:
   pub_date: '2025-12-10T09:02:03'
   source: Circular Online
   title: Grundon’s Toni Robinson appointed as new WISH Chair
-- category: circular
-  description: Environmental degradation is claiming millions of lives and costing
-    trillions annually, the United Nations Environment Programme (UNEP) Global Environment
-    Outlook report has found. The post UN report ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/un-report-warns-environmental-degradation-is-killing-millions-and-costing-trillions/
-  pub_date: '2025-12-09T11:53:29'
-  source: Circular Online
-  title: UN report says environmental degradation is killing millions and costing
-    trillions
-- category: circular
-  description: A poll by YouGov has found that 61% of people in Britain are willing
-    to buy refurbished devices, but most (61%) would prefer a brand-new device. The
-    post 61% of Brits willing to buy refurbished device...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/61-of-brits-willing-to-buy-refurbished-devices-yougov-poll-shows/
-  pub_date: '2025-12-09T10:56:55'
-  source: Circular Online
-  title: 61% of Brits willing to buy refurbished devices, YouGov poll shows
-- category: circular
-  description: Complex language around the circular economy is alienating consumers,
-    a new report from SUEZ has found. The post Circular economy alienating consumers
-    due to complex language, research finds appeared ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/circular-economy-alienating-consumers-due-to-complex-language-research-finds/
-  pub_date: '2025-12-09T09:21:46'
-  source: Circular Online
-  title: Circular economy alienating consumers due to complex language, research finds
-- category: circular
-  description: Grundon Waste Management partners with homelessness charity Crisis
-    to raise awareness of the dangers people face when forced to seek shelter in waste
-    bins. The post Grundon-Crisis campaign highlights ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/grundon-crisis-campaign-highlights-dangers-of-rough-sleeping-in-bins/
-  pub_date: '2025-12-08T11:40:49'
-  source: Circular Online
-  title: Grundon–Crisis campaign highlights dangers of rough sleeping in bins
-last_updated: '2025-12-16T06:34:46.040905'
+last_updated: '2025-12-17T06:34:45.310950'
