@@ -1,4 +1,56 @@
 articles:
+- category: ai-research
+  description: MIT-IBM Watson AI Lab researchers developed an expressive architecture
+    that provides better state tracking and sequential reasoning in LLMs over long
+    texts.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217
+  pub_date: '2025-12-18T04:10:00'
+  source: MIT AI News
+  title: A new way to increase the capabilities of large language models
+- category: ai-research
+  description: The AI-powered tool could inform the design of better sensors and cameras
+    for robots or autonomous vehicles.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/scientific-sandbox-lets-researchers-explore-evolution-vision-systems-1217
+  pub_date: '2025-12-17T19:00:00'
+  source: MIT AI News
+  title: A “scientific sandbox” lets researchers explore the evolution of vision systems
+- category: machine-learning
+  description: The overarching goal is to maximize the return on analytical talent,
+    shifting their focus entirely from data preparation to predictive model development,
+    which is a necessary move if the business inte...
+  icon: fa-chart-bar
+  link: https://bit.ly/48JbJwD
+  pub_date: '2025-12-17T16:36:41'
+  source: KDnuggets
+  title: 'The Real Cost of Inaction: How Silos Hurt Productivity for Data Scientists
+    (Sponsored)'
+- category: ai-research
+  description: Gemini 3 Flash text
+  icon: fa-google
+  link: https://blog.google/products/gemini/gemini-3-flash/
+  pub_date: '2025-12-17T16:00:00'
+  source: Google AI Blog
+  title: 'Gemini 3 Flash: frontier intelligence built for speed'
+- category: machine-learning
+  description: You don't need advanced skills to work with large datasets. With Python's
+    built-in features and libraries, you can handle large datasets without breaking
+    a sweat even if you're a beginner.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-handle-large-datasets-in-python-even-if-youre-a-beginner
+  pub_date: '2025-12-17T15:23:55'
+  source: KDnuggets
+  title: How to Handle Large Datasets in Python Even If You’re a Beginner
+- category: machine-learning
+  description: In this article we look at 5 specific privacy stories from 2025 that
+    changed how analysts work day to day, from the code they write to the reports
+    they publish.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-data-privacy-stories-from-2025-every-analyst-should-know
+  pub_date: '2025-12-17T13:00:56'
+  source: KDnuggets
+  title: 5 Data Privacy Stories from 2025 Every Analyst Should Know
 - category: machine-learning
   description: Five powerful automation tools to help you streamline repetitive digital
     tasks, increase productivity, and create smarter workflows without requiring deep
@@ -159,23 +211,6 @@ articles:
   pub_date: '2025-12-11T18:30:00'
   source: Google AI Blog
   title: 4 highlights from Google Beam in 2025
-- category: machine-learning
-  description: As AI systems begin handling more complex, multi-stage tasks, understanding
-    agentic design is becoming essential. This article outlines seven practical steps
-    to build reliable, effective AI agents.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-steps-to-mastering-agentic-ai
-  pub_date: '2025-12-11T17:00:08'
-  source: KDnuggets
-  title: 7 Steps to Mastering Agentic AI
-- category: machine-learning
-  description: Master the essential skill of deploying machine learning models with
-    courses, projects, examples, resources, and interview questions.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment
-  pub_date: '2025-12-11T15:10:18'
-  source: KDnuggets
-  title: 10 GitHub Repositories to Master Machine Learning Deployment
 - category: ai-research
   description: By stacking multiple active components based on new materials on the
     back end of a computer chip, this new approach reduces the amount of energy wasted
@@ -192,14 +227,6 @@ articles:
   pub_date: '2025-12-10T17:15:00'
   source: Google AI Blog
   title: These developers are changing lives with Gemma 3n
-- category: machine-learning
-  description: Vibe coding has devalued coding. Is there any meaningful work still
-    left for us?
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/finding-meaningful-work-in-the-age-of-vibe-coding
-  pub_date: '2025-12-10T14:44:44'
-  source: KDnuggets
-  title: Finding Meaningful Work in the Age of Vibe Coding
 - category: ai-research
   description: A new global survey of executives, decision makers and knowledge workers
     reveals that organizations truly transforming with AI are seeing real results
@@ -217,14 +244,6 @@ articles:
   source: Google AI Blog
   title: 2025 at Google
 - category: ai-research
-  description: Postdoc Zongyi Li, Associate Professor Tess Smidt, and seven additional
-    alumni will be supported in the development of AI against difficult problems.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1208
-  pub_date: '2025-12-08T20:15:00'
-  source: MIT AI News
-  title: MIT affiliates named 2025 Schmidt Sciences AI2050 Fellows
-- category: ai-research
   description: mp4 of "AI QUESTS" with a stylized Earth, "Accept mission" button.
     Google Research and Stanford Accelerator logos.
   icon: fa-google
@@ -232,21 +251,4 @@ articles:
   pub_date: '2025-12-08T18:00:00'
   source: Google AI Blog
   title: How we’re supporting the next generation of innovators
-- category: ai-research
-  description: A bald male teacher with glasses and a black shirt leans over to point
-    at a computer monitor, instructing a male student. Other students are seated at
-    computers along a row of desks in a brightly lit ...
-  icon: fa-google
-  link: https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/
-  pub_date: '2025-12-08T10:00:00'
-  source: Google AI Blog
-  title: Transforming Nordic classrooms through responsible AI partnerships
-- category: ai-research
-  description: The speech-to-reality system combines 3D generative AI and robotic
-    assembly to create objects on demand.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
-  pub_date: '2025-12-05T15:00:00'
-  source: MIT AI News
-  title: MIT researchers “speak objects into existence” using AI and robotics
-last_updated: '2025-12-17T06:34:46.472531'
+last_updated: '2025-12-18T06:34:44.408106'

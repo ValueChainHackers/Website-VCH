@@ -1,12 +1,65 @@
 articles:
 - category: supply-chain
+  description: IFS plans to acquire Softeon to expand into warehouse software and
+    better connect factories, warehouses, and supply chain operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ifs-acquires-softeon-warehouse-software
+  pub_date: '2025-12-17T16:53:00'
+  source: Supply Chain 24/7
+  title: IFS Agrees to Acquire Softeon, Expanding Into Warehouse Software
+- category: supply-chain
+  description: ShipMatrix data shows UPS, FedEx, and USPS are delivering most holiday
+    packages on time, even as shipping volumes surge in early December.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/holiday-shipping-on-time-performance-shipmatrix-early-december
+  pub_date: '2025-12-17T13:16:00'
+  source: Supply Chain 24/7
+  title: UPS, FedEx, USPS Deliver Strong Results During Early Holiday Rush
+- category: supply-chain
   description: The EU plans to end its de minimis rule in 2026, adding a 3 ($3.25)
     customs fee to low-value e-commerce parcels and tightening border oversight.
   icon: fa-box
   link: https://www.supplychain247.com/article/eu-ends-de-minimis-rule-new-fees-small-parcels
-  pub_date: '2025-12-16T15:09:00'
+  pub_date: '2025-12-17T12:16:00'
   source: Supply Chain 24/7
   title: EU Plans to End De Minimis Rule, Adding New Fees to Small Parcels
+- category: circular
+  description: University College London has been awarded more than GBP44,000 through
+    the National Cup Recycling Scheme's Beyond the Bin fund to investigate why paper
+    cups continue to be missed by mainstream recycli...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/university-secures-44000-grant-to-study-barriers-to-paper-cup-recycling/
+  pub_date: '2025-12-17T08:00:00'
+  source: Circular Online
+  title: University secures £44,000 grant to study barriers to paper cup recycling
+- category: circular
+  description: The Salvation Army Trading Company has suspended the collection of
+    donated textiles from household waste and recycling centres, citing rising donation
+    volumes, increasing costs and wider economic pres...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/salvation-army-trading-company-halts-textile-collections-at-hwrcs-amid-market-pressures/
+  pub_date: '2025-12-17T08:00:00'
+  source: Circular Online
+  title: Salvation Army Trading Company halts textile collections at HWRCs amid market
+    pressures
+- category: circular
+  description: The European Parliament has approved an agreement with member states
+    to narrow the scope of EU sustainability reporting and supply-chain due diligence
+    rules. The post MEPs back scaling back of EU sust...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/meps-back-scaling-back-of-eu-sustainability-reporting-and-due-diligence-rules/
+  pub_date: '2025-12-17T08:00:00'
+  source: Circular Online
+  title: MEPs back scaling back of EU sustainability reporting and due diligence rules
+- category: supply-chain
+  description: Discover how a leading 3PL improved inventory accuracy, lot traceability,
+    and onboarding speed using a modern warehouse management system.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/3pl-warehouse-management-system-case-study-how-pss-distribution-improved-inventory-accuracy-with-softeon-wms
+  pub_date: '2025-12-16T19:40:00'
+  source: Supply Chain 24/7
+  title: '3PL Warehouse Management System Case Study: How PSS Distribution Improved
+    Inventory Accuracy with Softeon WMS'
 - category: supply-chain
   description: UPS is investing $120 million to buy 400 robots from Pickle Robot that
     can unload delivery trucks and shipping containers as part of a major automation
@@ -40,6 +93,14 @@ articles:
   pub_date: '2025-12-16T14:04:00'
   source: Supply Chain 24/7
   title: Kardex Reaches 100 AutoStore Sites in Less Than Five Years
+- category: supply-chain
+  description: New York filed a lawsuit accusing UPS of underpaying thousands of seasonal
+    workers during the holiday rush.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-seasonal-workers-lawsuit-holiday-pay
+  pub_date: '2025-12-16T12:30:00'
+  source: Supply Chain 24/7
+  title: New York Sues UPS, Says Seasonal Holiday Helpers Were Underpaid
 - category: circular
   description: The chair of the House of Lords Environment and Climate Change Committee
     has written to the environment secretary expressing "deep disappointment" at the
@@ -81,45 +142,14 @@ articles:
   title: UK beauty brands invited to join nationwide take-back scheme for hard-to-recycle
     packaging
 - category: supply-chain
-  description: CEVA Logistics has signed an agreement to acquire Fagioli Group as
-    it looks to expand its global project logistics and heavy-lift operations.
+  description: Discover the top AI-powered capabilities to look for in a modern Warehouse
+    Management System. Learn how AI improves WMS implementation, real-time optimization,
+    user support, and long-term scalability.
   icon: fa-box
-  link: https://www.supplychain247.com/article/ceva-logistics-fagioli-project-logistics-acquisition
-  pub_date: '2025-12-15T17:12:00'
+  link: https://www.supplychain247.com/article/top-ai-capabilities-to-look-for-in-a-warehouse-management-system-wms
+  pub_date: '2025-12-15T19:53:00'
   source: Supply Chain 24/7
-  title: CEVA Logistics Agrees to Buy Italy-Based Fagioli Group
-- category: supply-chain
-  description: Supply chain leaders from across the industry share their biggest predictions
-    for 2026, covering AI, talent, logistics, automation, and more.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-predictions-2026
-  pub_date: '2025-12-15T15:06:00'
-  source: Supply Chain 24/7
-  title: '2026 Supply Chain Predictions: What Experts Expect in the Year Ahead'
-- category: supply-chain
-  description: Supply chain leaders are locking in budgets and taking practical steps
-    now to prepare for another uncertain year in 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/six-supply-chain-steps-to-prepare-for-2026
-  pub_date: '2025-12-15T14:40:00'
-  source: Supply Chain 24/7
-  title: Six Simple Steps to Prepare Your Supply Chain for 2026
-- category: supply-chain
-  description: Warehouse automation is accelerating, but people will continue to play
-    a key role, even as jobs and skills change.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/do-people-still-matter-in-the-warehouse
-  pub_date: '2025-12-15T14:18:00'
-  source: Supply Chain 24/7
-  title: Do People Still Matter in Today’s Automated Warehouses?
-- category: supply-chain
-  description: A new chart shows global rare earth reserves remain heavily concentrated,
-    with China far ahead and few easy alternatives in sight.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/global-rare-earth-mineral-reserves-chart-2025
-  pub_date: '2025-12-15T14:06:00'
-  source: Supply Chain 24/7
-  title: Which Country Holds the Most Rare Earth Minerals in the World?
+  title: Top AI Capabilities to Look for in a Warehouse Management System (WMS)
 - category: circular
   description: A provisional agreement between the European Parliament and Council
     will introduce mandatory recycled-content targets, stronger producer responsibility
@@ -150,31 +180,4 @@ articles:
   source: Circular Online
   title: Northern Ireland recycling rate stagnates as Energy from Waste expands, Daera
     figures show
-- category: circular
-  description: The Lords Environment and Climate Change Committee has said it is deeply
-    disappointed by the government's 'complacent' response to its waste-crime inquiry.
-    The post Defra accused of complacency over w...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/defra-accused-of-complacency-over-waste-crime-inquiry-by-lords/
-  pub_date: '2025-12-11T09:40:12'
-  source: Circular Online
-  title: Defra accused of complacency over waste-crime inquiry by Lords
-- category: circular
-  description: A man has been arrested and four vehicles seized after hundreds of
-    tonnes of waste was discovered on wooded land in Bromley. The post Man arrested
-    after hundreds of tonnes of waste dumped in Bromley a...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/man-arrested-after-hundreds-of-tonnes-of-waste-dumped-in-bromley/
-  pub_date: '2025-12-10T11:04:29'
-  source: Circular Online
-  title: Man arrested after hundreds of tonnes of waste dumped in Bromley
-- category: circular
-  description: The Waste Industry Safety and Health (WISH) Forum announces that Toni
-    Robinson, Risk & Sustainability Director at Grundon Waste Management, has been
-    elected as its new Chair. The post Grundon's Toni R...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/grundons-toni-robinson-appointed-as-new-wish-chair/
-  pub_date: '2025-12-10T09:02:03'
-  source: Circular Online
-  title: Grundon’s Toni Robinson appointed as new WISH Chair
-last_updated: '2025-12-17T06:34:45.310950'
+last_updated: '2025-12-18T06:34:43.434644'
