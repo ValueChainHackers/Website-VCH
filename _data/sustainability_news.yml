@@ -1,5 +1,37 @@
 articles:
 - category: supply-chain
+  description: OSHA cited Virginia Transformer Corporation nearly $1 million after
+    finding repeat safety hazards, including faulty cranes and unguarded machinery.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/virginia-transformer-osha-nearly-1-million-safety-violations
+  pub_date: '2025-12-18T18:31:00'
+  source: Supply Chain 24/7
+  title: OSHA Fines Virginia Transformer Nearly $1 Million Over Safety Violations
+- category: supply-chain
+  description: Shein has opened a major logistics hub in Poland to support faster
+    and more reliable deliveries across Europe.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/shein-opens-major-logistics-hub-poland-europe
+  pub_date: '2025-12-18T15:33:00'
+  source: Supply Chain 24/7
+  title: Shein Opens Major Logistics Hub in Poland, Expands Footprint in Europe
+- category: supply-chain
+  description: USPS plans to open its last-mile delivery network to more shippers
+    through a new bidding process launching in early 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-opens-last-mile-delivery-network-shippers
+  pub_date: '2025-12-18T15:11:00'
+  source: Supply Chain 24/7
+  title: USPS Opens Last-Mile Delivery Network to More Shippers
+- category: supply-chain
+  description: Zebra Technologies plans to exit its warehouse robotics business, ending
+    its Fetch Robotics push as it refocuses on core supply chain technologies.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/zebra-plans-exit-warehouse-robotics-fetch
+  pub_date: '2025-12-18T14:39:00'
+  source: Supply Chain 24/7
+  title: Zebra Plans Exit From Warehouse Robotics Business
+- category: supply-chain
   description: IFS plans to acquire Softeon to expand into warehouse software and
     better connect factories, warehouses, and supply chain operations.
   icon: fa-box
@@ -77,30 +109,6 @@ articles:
   pub_date: '2025-12-16T14:06:00'
   source: Supply Chain 24/7
   title: CMA CGM Doubles Number of Women at Sea in One Year
-- category: supply-chain
-  description: LS Cable & System plans a $689 million manufacturing expansion in Chesapeake,
-    Virginia, focused on copper products and rare-earth magnets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ls-cable-689m-virginia-manufacturing-expansion
-  pub_date: '2025-12-16T14:05:00'
-  source: Supply Chain 24/7
-  title: LS Cable Plans $689 Million Manufacturing Expansion in Virginia
-- category: supply-chain
-  description: Kardex says it has reached 100 AutoStore sites in less than five years
-    as demand for automated storage systems continues to grow.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/kardex-reaches-100-autostore-sites-in-less-than-five-years
-  pub_date: '2025-12-16T14:04:00'
-  source: Supply Chain 24/7
-  title: Kardex Reaches 100 AutoStore Sites in Less Than Five Years
-- category: supply-chain
-  description: New York filed a lawsuit accusing UPS of underpaying thousands of seasonal
-    workers during the holiday rush.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-seasonal-workers-lawsuit-holiday-pay
-  pub_date: '2025-12-16T12:30:00'
-  source: Supply Chain 24/7
-  title: New York Sues UPS, Says Seasonal Holiday Helpers Were Underpaid
 - category: circular
   description: The chair of the House of Lords Environment and Climate Change Committee
     has written to the environment secretary expressing "deep disappointment" at the
@@ -141,15 +149,6 @@ articles:
   source: Circular Online
   title: UK beauty brands invited to join nationwide take-back scheme for hard-to-recycle
     packaging
-- category: supply-chain
-  description: Discover the top AI-powered capabilities to look for in a modern Warehouse
-    Management System. Learn how AI improves WMS implementation, real-time optimization,
-    user support, and long-term scalability.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-ai-capabilities-to-look-for-in-a-warehouse-management-system-wms
-  pub_date: '2025-12-15T19:53:00'
-  source: Supply Chain 24/7
-  title: Top AI Capabilities to Look for in a Warehouse Management System (WMS)
 - category: circular
   description: A provisional agreement between the European Parliament and Council
     will introduce mandatory recycled-content targets, stronger producer responsibility
@@ -180,4 +179,4 @@ articles:
   source: Circular Online
   title: Northern Ireland recycling rate stagnates as Energy from Waste expands, Daera
     figures show
-last_updated: '2025-12-18T06:34:43.434644'
+last_updated: '2025-12-19T06:32:51.769014'

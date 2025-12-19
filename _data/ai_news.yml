@@ -1,5 +1,55 @@
 articles:
 - category: ai-research
+  description: CSAIL researchers find even "untrainable" neural nets can learn effectively
+    when guided by another network's built-in biases using their guidance method.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218
+  pub_date: '2025-12-18T21:20:00'
+  source: MIT AI News
+  title: Guided learning lets “untrainable” neural networks realize their potential
+- category: machine-learning
+  description: Prompt engineering is not just about asking models the right questions
+    - it is about structuring those questions to think like a data auditor. When used
+    correctly, it can make quality assurance faster...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/prompt-engineering-for-data-quality-and-validation-checks
+  pub_date: '2025-12-18T17:00:30'
+  source: KDnuggets
+  title: Prompt Engineering for Data Quality and Validation Checks
+- category: ai-research
+  description: We're expanding our content transparency tools to help you more easily
+    identify AI-generated content. You can now check if a video was edited or created
+    with Google AI d...
+  icon: fa-google
+  link: https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/
+  pub_date: '2025-12-18T17:00:00'
+  source: Google AI Blog
+  title: You can now verify Google AI-generated videos in the Gemini app.
+- category: ai-research
+  description: Illustration of a developer participating in the Kaggle AI Agents Intensive,
+    sitting with their laptop with Kaggle and Google logos.
+  icon: fa-google
+  link: https://blog.google/technology/developers/ai-agents-intensive-recap/
+  pub_date: '2025-12-18T16:00:00'
+  source: Google AI Blog
+  title: Inside Kaggle's AI Agents intensive course with Google
+- category: machine-learning
+  description: Learn how to run your own language model for free using lightweight
+    models and Hugging Face Spaces.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/hosting-language-models-on-a-budget
+  pub_date: '2025-12-18T15:08:54'
+  source: KDnuggets
+  title: Hosting Language Models on a Budget
+- category: machine-learning
+  description: Take a tour of 5 of the most popular AI-powered app builders out there
+    to leverage automation in the process of building software.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-top-ai-powered-app-builders
+  pub_date: '2025-12-18T13:00:56'
+  source: KDnuggets
+  title: 5 Top AI-Powered App Builders
+- category: ai-research
   description: MIT-IBM Watson AI Lab researchers developed an expressive architecture
     that provides better state tracking and sequential reasoning in LLMs over long
     texts.
@@ -8,6 +58,14 @@ articles:
   pub_date: '2025-12-18T04:10:00'
   source: MIT AI News
   title: A new way to increase the capabilities of large language models
+- category: ai-research
+  description: Learn how Gemini 3 powers Google Search with Generative UI, Nano Banana,
+    and interactive graphics.
+  icon: fa-google
+  link: https://blog.google/technology/ai/release-notes-podcast-search/
+  pub_date: '2025-12-18T00:00:00'
+  source: Google AI Blog
+  title: Watch a podcast discussion about Gemini 3 and the future of Search.
 - category: ai-research
   description: The AI-powered tool could inform the design of better sensors and cameras
     for robots or autonomous vehicles.
@@ -145,14 +203,6 @@ articles:
   pub_date: '2025-12-12T18:10:00'
   source: MIT AI News
   title: New MIT program to train military leaders for the AI age
-- category: machine-learning
-  description: Writing efficient Python data classes cuts boilerplate while keeping
-    your code clean. And this article will teach you how.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-write-efficient-python-data-classes
-  pub_date: '2025-12-12T17:00:47'
-  source: KDnuggets
-  title: How to Write Efficient Python Data Classes
 - category: ai-research
   description: When you go Live with Search, you can have a back-and-forth voice conversation
     in AI Mode to get real-time help and quickly find relevant sites across the web.
@@ -171,21 +221,6 @@ articles:
   pub_date: '2025-12-12T17:00:00'
   source: Google AI Blog
   title: Bringing state-of-the-art Gemini translation capabilities to Google Translate
-- category: machine-learning
-  description: And it pays $100K+ more than regular data analyst jobs.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-one-data-analyst-role-thats-ai-proof
-  pub_date: '2025-12-12T15:00:34'
-  source: KDnuggets
-  title: The One Data Analyst Role That’s AI-Proof
-- category: machine-learning
-  description: Get started with five free Python libraries that let you analyze, filter,
-    and process data faster than traditional Pandas.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-lightweight-alternatives-to-pandas-you-should-try
-  pub_date: '2025-12-12T13:00:07'
-  source: KDnuggets
-  title: 5 Lightweight Alternatives to Pandas You Should Try
 - category: ai-research
   description: The technique can help scientists in economics, public health, and
     other fields understand whether to trust the results of their experiments.
@@ -212,43 +247,10 @@ articles:
   source: Google AI Blog
   title: 4 highlights from Google Beam in 2025
 - category: ai-research
-  description: By stacking multiple active components based on new materials on the
-    back end of a computer chip, this new approach reduces the amount of energy wasted
-    during computation.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/new-materials-could-boost-energy-efficiency-microelectronics-1211
-  pub_date: '2025-12-11T05:00:00'
-  source: MIT AI News
-  title: New materials could boost the energy efficiency of microelectronics
-- category: ai-research
   description: The global developer community shares their solutions.
   icon: fa-google
   link: https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/
   pub_date: '2025-12-10T17:15:00'
   source: Google AI Blog
   title: These developers are changing lives with Gemma 3n
-- category: ai-research
-  description: A new global survey of executives, decision makers and knowledge workers
-    reveals that organizations truly transforming with AI are seeing real results
-    that move their bu...
-  icon: fa-google
-  link: https://blog.google/products/workspace/gemini-ai-workplace-research-report/
-  pub_date: '2025-12-09T17:00:00'
-  source: Google AI Blog
-  title: Learn more about AI in the workplace in our new research report.
-- category: ai-research
-  description: Learn more about Google's launches, milestones and more from 2025.
-  icon: fa-google
-  link: https://blog.google/technology/ai/look-back-2025/
-  pub_date: '2025-12-09T16:00:00'
-  source: Google AI Blog
-  title: 2025 at Google
-- category: ai-research
-  description: mp4 of "AI QUESTS" with a stylized Earth, "Accept mission" button.
-    Google Research and Stanford Accelerator logos.
-  icon: fa-google
-  link: https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/
-  pub_date: '2025-12-08T18:00:00'
-  source: Google AI Blog
-  title: How we’re supporting the next generation of innovators
-last_updated: '2025-12-18T06:34:44.408106'
+last_updated: '2025-12-19T06:32:52.767707'
