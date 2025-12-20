@@ -1,5 +1,28 @@
 articles:
 - category: ai-research
+  description: The image is a dark-themed illustration depicting three people interacting
+    with technology, surrounded by various product icons.
+  icon: fa-google
+  link: https://blog.google/technology/ai/ai-tips-2025/
+  pub_date: '2025-12-19T16:00:00'
+  source: Google AI Blog
+  title: 40 of our most helpful AI tips from 2025
+- category: ai-research
+  description: AI agent trends report 2026 graphic
+  icon: fa-google
+  link: https://blog.google/products/google-cloud/ai-business-trends-report-2026/
+  pub_date: '2025-12-19T14:00:00'
+  source: Google AI Blog
+  title: 5 ways AI agents will transform the way we work in 2026
+- category: machine-learning
+  description: Spending too much time on repetitive tasks? These Python scripts will
+    help you automate the mundane stuff that drains your productivity.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-everyday-tasks
+  pub_date: '2025-12-19T13:00:05'
+  source: KDnuggets
+  title: 5 Useful Python Scripts to Automate Boring Everyday Tasks
+- category: ai-research
   description: CSAIL researchers find even "untrainable" neural nets can learn effectively
     when guided by another network's built-in biases using their guidance method.
   icon: fa-graduation-cap
@@ -171,14 +194,6 @@ articles:
   source: KDnuggets
   title: 'How Transformers Think: The Information Flow That Makes Language Models
     Work'
-- category: machine-learning
-  description: in 2026, people want accountability frameworks that feel real, enforceable,
-    and grounded in how AI behaves in live environments.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/emerging-trends-in-ai-ethics-and-governance-for-2026
-  pub_date: '2025-12-15T13:00:58'
-  source: KDnuggets
-  title: Emerging Trends in AI Ethics and Governance for 2026
 - category: ai-research
   description: The approach could apply to more complex tissues and organs, helping
     researchers to identify early signs of disease.
@@ -238,19 +253,4 @@ articles:
   source: Google AI Blog
   title: 'Gradient Canvas: Celebrating over a decade of artistic collaborations with
     AI'
-- category: ai-research
-  description: Two people smiling at each other across a desk using a Google Beam
-    video communication device
-  icon: fa-google
-  link: https://blog.google/technology/research/google-beam-2025-moments/
-  pub_date: '2025-12-11T18:30:00'
-  source: Google AI Blog
-  title: 4 highlights from Google Beam in 2025
-- category: ai-research
-  description: The global developer community shares their solutions.
-  icon: fa-google
-  link: https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/
-  pub_date: '2025-12-10T17:15:00'
-  source: Google AI Blog
-  title: These developers are changing lives with Gemma 3n
-last_updated: '2025-12-19T06:32:52.767707'
+last_updated: '2025-12-20T06:31:30.051990'

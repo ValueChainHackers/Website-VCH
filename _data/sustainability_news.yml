@@ -1,5 +1,13 @@
 articles:
 - category: supply-chain
+  description: Supply chain teams are using ChatGPT to think through problems faster,
+    prepare better conversations, and get everyday work done more efficiently.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/40-chatgpt-prompts-supply-chain
+  pub_date: '2025-12-19T13:04:00'
+  source: Supply Chain 24/7
+  title: 40 ChatGPT Prompts Every Supply Chain Professional Should Know
+- category: supply-chain
   description: OSHA cited Virginia Transformer Corporation nearly $1 million after
     finding repeat safety hazards, including faulty cranes and unguarded machinery.
   icon: fa-box
@@ -101,14 +109,6 @@ articles:
   pub_date: '2025-12-16T14:22:00'
   source: Supply Chain 24/7
   title: UPS to Spend $120 Million on Robots to Speed Up Truck Unloading
-- category: supply-chain
-  description: CMA CGM says its She sails program has doubled the number of women
-    working at sea in one year and set a new goal of 1,000 women seafarers by 2030.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cma-cgm-she-sails-doubles-women-seafarers
-  pub_date: '2025-12-16T14:06:00'
-  source: Supply Chain 24/7
-  title: CMA CGM Doubles Number of Women at Sea in One Year
 - category: circular
   description: The chair of the House of Lords Environment and Climate Change Committee
     has written to the environment secretary expressing "deep disappointment" at the
@@ -179,4 +179,4 @@ articles:
   source: Circular Online
   title: Northern Ireland recycling rate stagnates as Energy from Waste expands, Daera
     figures show
-last_updated: '2025-12-19T06:32:51.769014'
+last_updated: '2025-12-20T06:31:29.170406'
