@@ -1,5 +1,38 @@
 articles:
 - category: ai-research
+  description: MIT community members made headlines with key research advances and
+    their efforts to tackle pressing challenges.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-media-review-1222
+  pub_date: '2025-12-22T22:20:00'
+  source: MIT AI News
+  title: 'MIT in the media: 2025 in review'
+- category: ai-research
+  description: A translucent blue rectangle lies against a black background with blue
+    dots and lines. Within the rectangle is text saying 2025, along with a grid of
+    12 images, each representing a big Google AI momen...
+  icon: fa-google
+  link: https://blog.google/technology/ai/google-ai-news-recap-2025/
+  pub_date: '2025-12-22T17:00:00'
+  source: Google AI Blog
+  title: 60 of our biggest AI announcements in 2025
+- category: machine-learning
+  description: 'This article explains how Gistr transforms the way data professionals
+    interact with their most valuable asset: their accumulated knowledge.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/gistr-the-smart-ai-notebook-for-organizing-knowledge
+  pub_date: '2025-12-22T16:00:19'
+  source: KDnuggets
+  title: 'Gistr: The Smart AI Notebook for Organizing Knowledge'
+- category: machine-learning
+  description: This is a list of top LLM and VLMs that are fast, smart, and small
+    enough to run locally on devices as small as a Raspberry Pi or even a smart fridge.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi
+  pub_date: '2025-12-22T14:17:30'
+  source: KDnuggets
+  title: 7 Tiny AI Models for Raspberry Pi
+- category: ai-research
   description: The image is a dark-themed illustration depicting three people interacting
     with technology, surrounded by various product icons.
   icon: fa-google
@@ -167,14 +200,6 @@ articles:
   pub_date: '2025-12-15T21:00:00'
   source: MIT AI News
   title: Working to eliminate barriers to adopting nuclear energy
-- category: machine-learning
-  description: In this article, we'll use a real-life data project to explore four
-    practical steps for preparing to deal with messy, real-life datasets.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-data-detox-training-yourself-for-the-messy-noisy-real-world
-  pub_date: '2025-12-15T17:00:25'
-  source: KDnuggets
-  title: 'The Data Detox: Training Yourself for the Messy, Noisy, Real World'
 - category: ai-research
   description: We're sharing a practical playbook to help organizations streamline
     and enhance sustainability reporting with AI.Corporate transparency is essential,
@@ -184,16 +209,6 @@ articles:
   pub_date: '2025-12-15T17:00:00'
   source: Google AI Blog
   title: We’re publishing an AI playbook to help others with sustainability reporting.
-- category: machine-learning
-  description: Let's uncover how transformer models sitting behind LLMs analyze input
-    information like user prompts and how they generate coherent, meaningful, and
-    relevant output text "word by word".
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-transformers-think-the-information-flow-that-makes-language-models-work
-  pub_date: '2025-12-15T15:00:43'
-  source: KDnuggets
-  title: 'How Transformers Think: The Information Flow That Makes Language Models
-    Work'
 - category: ai-research
   description: The approach could apply to more complex tissues and organs, helping
     researchers to identify early signs of disease.
@@ -236,21 +251,4 @@ articles:
   pub_date: '2025-12-12T17:00:00'
   source: Google AI Blog
   title: Bringing state-of-the-art Gemini translation capabilities to Google Translate
-- category: ai-research
-  description: The technique can help scientists in economics, public health, and
-    other fields understand whether to trust the results of their experiments.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/new-method-improves-reliability-statistical-estimations-1212
-  pub_date: '2025-12-12T05:00:00'
-  source: MIT AI News
-  title: New method improves the reliability of statistical estimations
-- category: ai-research
-  description: 'Grid of 12 diverse artworks: faceted green sculpture, illuminated
-    green cursive text, and digital abstracts.'
-  icon: fa-google
-  link: https://blog.google/technology/ai/google-gradient-canvas-ai-art/
-  pub_date: '2025-12-11T21:30:00'
-  source: Google AI Blog
-  title: 'Gradient Canvas: Celebrating over a decade of artistic collaborations with
-    AI'
-last_updated: '2025-12-22T06:36:08.464942'
+last_updated: '2025-12-23T06:35:03.245165'
