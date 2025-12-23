@@ -1,5 +1,65 @@
 articles:
 - category: supply-chain
+  description: Supply chain hiring is heading into 2026 with uneven demand, persistent
+    turnover, and continued competition for experienced talent.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/2026-supply-chain-and-logistics-hiring-outlook
+  pub_date: '2025-12-22T18:42:00'
+  source: Supply Chain 24/7
+  title: 2026 Supply Chain and Logistics Hiring Outlook
+- category: supply-chain
+  description: Sustainability is no longer a side initiative; it is reshaping how
+    global supply chains are planned, measured, and operated in 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/sustainability-reshaping-global-supply-chains-2026
+  pub_date: '2025-12-22T18:28:00'
+  source: Supply Chain 24/7
+  title: Five Ways Sustainability Is Reshaping Global Supply Chains
+- category: supply-chain
+  description: In this roundtable, nine industry leaders share what they're excited
+    about, worried about, and watching most closely as 2026 approaches.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/2026-supply-chain-predictions-roundtable
+  pub_date: '2025-12-22T15:08:00'
+  source: Supply Chain 24/7
+  title: '2026 Predictions: What Supply Chain Leaders Expect Next Year'
+- category: supply-chain
+  description: Sedgwick's 2026 Forecasting Report shows that supply chain disruption
+    driven by trade policy, geopolitics, and cyber risk is expected to continue.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-supply-chain-disruption-is-expected-to-continue-in-2026
+  pub_date: '2025-12-22T12:28:00'
+  source: Supply Chain 24/7
+  title: Why Supply Chain Disruption Is Expected to Continue in 2026
+- category: circular
+  description: More than half of people say they recycle less over Christmas. The
+    post Recycling rates drop at Christmas as households struggle with festive waste,
+    survey suggests appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/recycling-rates-drop-at-christmas-as-households-struggle-with-festive-waste-survey-suggests/
+  pub_date: '2025-12-22T09:25:50'
+  source: Circular Online
+  title: Recycling rates drop at Christmas as households struggle with festive waste,
+    survey suggests
+- category: circular
+  description: A 30-year-old man has been given a suspended prison sentence after
+    admitting to operating an illegal waste site on rural land in Northumberland,
+    following a long-running investigation by the Environme...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/northumberland-man-given-suspended-prison-sentence-for-illegal-waste-site/
+  pub_date: '2025-12-22T09:19:57'
+  source: Circular Online
+  title: Northumberland man given suspended prison sentence for illegal waste site
+- category: circular
+  description: Coventry City Council has incurred GBP900,000 in fines after non-recyclable
+    waste was placed in recycling bins, contributing to a wider overspend in its city
+    services budget, according to a council fi...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/bin-contamination-fines-cost-coventry-city-council-900000/
+  pub_date: '2025-12-22T09:15:47'
+  source: Circular Online
+  title: Bin contamination fines cost Coventry City Council £900,000
+- category: supply-chain
   description: Supply chain teams are using ChatGPT to think through problems faster,
     prepare better conversations, and get everyday work done more efficiently.
   icon: fa-box
@@ -47,22 +107,6 @@ articles:
   pub_date: '2025-12-17T16:53:00'
   source: Supply Chain 24/7
   title: IFS Agrees to Acquire Softeon, Expanding Into Warehouse Software
-- category: supply-chain
-  description: ShipMatrix data shows UPS, FedEx, and USPS are delivering most holiday
-    packages on time, even as shipping volumes surge in early December.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/holiday-shipping-on-time-performance-shipmatrix-early-december
-  pub_date: '2025-12-17T13:16:00'
-  source: Supply Chain 24/7
-  title: UPS, FedEx, USPS Deliver Strong Results During Early Holiday Rush
-- category: supply-chain
-  description: The EU plans to end its de minimis rule in 2026, adding a 3 ($3.25)
-    customs fee to low-value e-commerce parcels and tightening border oversight.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/eu-ends-de-minimis-rule-new-fees-small-parcels
-  pub_date: '2025-12-17T12:16:00'
-  source: Supply Chain 24/7
-  title: EU Plans to End De Minimis Rule, Adding New Fees to Small Parcels
 - category: circular
   description: University College London has been awarded more than GBP44,000 through
     the National Cup Recycling Scheme's Beyond the Bin fund to investigate why paper
@@ -91,24 +135,6 @@ articles:
   pub_date: '2025-12-17T08:00:00'
   source: Circular Online
   title: MEPs back scaling back of EU sustainability reporting and due diligence rules
-- category: supply-chain
-  description: Discover how a leading 3PL improved inventory accuracy, lot traceability,
-    and onboarding speed using a modern warehouse management system.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/3pl-warehouse-management-system-case-study-how-pss-distribution-improved-inventory-accuracy-with-softeon-wms
-  pub_date: '2025-12-16T19:40:00'
-  source: Supply Chain 24/7
-  title: '3PL Warehouse Management System Case Study: How PSS Distribution Improved
-    Inventory Accuracy with Softeon WMS'
-- category: supply-chain
-  description: UPS is investing $120 million to buy 400 robots from Pickle Robot that
-    can unload delivery trucks and shipping containers as part of a major automation
-    push.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-invests-120m-on-truck-unloading-robots
-  pub_date: '2025-12-16T14:22:00'
-  source: Supply Chain 24/7
-  title: UPS to Spend $120 Million on Robots to Speed Up Truck Unloading
 - category: circular
   description: The chair of the House of Lords Environment and Climate Change Committee
     has written to the environment secretary expressing "deep disappointment" at the
@@ -149,34 +175,4 @@ articles:
   source: Circular Online
   title: UK beauty brands invited to join nationwide take-back scheme for hard-to-recycle
     packaging
-- category: circular
-  description: A provisional agreement between the European Parliament and Council
-    will introduce mandatory recycled-content targets, stronger producer responsibility
-    and tighter controls on vehicle exports, aiming ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/eu-agrees-tougher-end-of-life-vehicles-rules-to-boost-recycled-content-and-cut-material-losses/
-  pub_date: '2025-12-15T09:20:47'
-  source: Circular Online
-  title: EU agrees tougher End-of-Life Vehicles rules to boost recycled content and
-    cut material losses
-- category: circular
-  description: Extended Producer Responsibility frameworks are directing materials
-    towards recycling rather than higher-value reuse and repair, according to a new
-    policy brief from the Ellen MacArthur Foundation, wh...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/epr-schemes-falling-short-on-reuse-as-recycling-dominates-policy-focus-ellen-macarthur-foundation-warns/
-  pub_date: '2025-12-15T09:16:43'
-  source: Circular Online
-  title: EPR schemes falling short on reuse as recycling dominates policy focus, Ellen
-    MacArthur Foundation warns
-- category: circular
-  description: Stats show continued progress away from landfill in Northern Ireland,
-    but little movement in recycling rates The post Northern Ireland recycling rate
-    stagnates as Energy from Waste expands, Daera figu...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/northern-ireland-recycling-rate-stagnates-as-energy-from-waste-expands-daera-figures-show/
-  pub_date: '2025-12-15T09:10:27'
-  source: Circular Online
-  title: Northern Ireland recycling rate stagnates as Energy from Waste expands, Daera
-    figures show
-last_updated: '2025-12-22T06:36:07.693571'
+last_updated: '2025-12-23T06:35:02.140475'
