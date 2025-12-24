@@ -1,5 +1,55 @@
 articles:
 - category: supply-chain
+  description: The Dignity Act could make EB-3 visas a more practical hiring option
+    for warehouses and logistics providers facing ongoing labor shortages.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dignity-act-supply-chain-labor-eb3-visas
+  pub_date: '2025-12-23T14:58:00'
+  source: Supply Chain 24/7
+  title: The Dignity Act Could Ease Labor Shortages Across Supply Chains
+- category: supply-chain
+  description: Totes and containers are being redesigned to support automation, tighter
+    space, and faster warehouse operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/six-trends-shaping-next-generation-totes-containers
+  pub_date: '2025-12-23T14:07:00'
+  source: Supply Chain 24/7
+  title: Six Trends Shaping the Next Generation of Totes and Containers
+- category: supply-chain
+  description: A look back at the 10 logistics and supply chain stories that best
+    captured the biggest shifts and challenges of 2025.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-10-logistics-stories-2025
+  pub_date: '2025-12-23T12:44:00'
+  source: Supply Chain 24/7
+  title: Top 10 Logistics Stories That Defined 2025
+- category: supply-chain
+  description: A new House bill would fine freight brokers that hire carriers with
+    serious safety violations and expand federal oversight of broker practices.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/house-bill-freight-broker-liability-unsafe-carriers
+  pub_date: '2025-12-23T12:34:00'
+  source: Supply Chain 24/7
+  title: New House Bill Would Fine Brokers for Hiring Unsafe Truckers
+- category: circular
+  description: Scientists say a new chemical recycling method could convert everyday
+    plastic waste into key ingredients used in cancer medicines, potentially reducing
+    reliance on fossil-based materials. The post Pla...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/plastic-waste-could-be-turned-into-anti-cancer-drugs-researchers-say/
+  pub_date: '2025-12-23T09:10:01'
+  source: Circular Online
+  title: Plastic waste could be turned into anti-cancer drugs, researchers say
+- category: circular
+  description: Parliamentarians, councils and industry representatives have met at
+    Westminster to discuss the growing number of fires linked to discarded lithium-ion
+    batteries, amid calls for stronger regulation and...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/mps-and-industry-meet-to-address-rise-in-lithium-ion-battery-fires/
+  pub_date: '2025-12-23T09:03:34'
+  source: Circular Online
+  title: MPs and industry meet to address rise in lithium-ion battery fires
+- category: supply-chain
   description: Supply chain hiring is heading into 2026 with uneven demand, persistent
     turnover, and continued competition for experienced talent.
   icon: fa-box
@@ -75,38 +125,6 @@ articles:
   pub_date: '2025-12-18T18:31:00'
   source: Supply Chain 24/7
   title: OSHA Fines Virginia Transformer Nearly $1 Million Over Safety Violations
-- category: supply-chain
-  description: Shein has opened a major logistics hub in Poland to support faster
-    and more reliable deliveries across Europe.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/shein-opens-major-logistics-hub-poland-europe
-  pub_date: '2025-12-18T15:33:00'
-  source: Supply Chain 24/7
-  title: Shein Opens Major Logistics Hub in Poland, Expands Footprint in Europe
-- category: supply-chain
-  description: USPS plans to open its last-mile delivery network to more shippers
-    through a new bidding process launching in early 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usps-opens-last-mile-delivery-network-shippers
-  pub_date: '2025-12-18T15:11:00'
-  source: Supply Chain 24/7
-  title: USPS Opens Last-Mile Delivery Network to More Shippers
-- category: supply-chain
-  description: Zebra Technologies plans to exit its warehouse robotics business, ending
-    its Fetch Robotics push as it refocuses on core supply chain technologies.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/zebra-plans-exit-warehouse-robotics-fetch
-  pub_date: '2025-12-18T14:39:00'
-  source: Supply Chain 24/7
-  title: Zebra Plans Exit From Warehouse Robotics Business
-- category: supply-chain
-  description: IFS plans to acquire Softeon to expand into warehouse software and
-    better connect factories, warehouses, and supply chain operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ifs-acquires-softeon-warehouse-software
-  pub_date: '2025-12-17T16:53:00'
-  source: Supply Chain 24/7
-  title: IFS Agrees to Acquire Softeon, Expanding Into Warehouse Software
 - category: circular
   description: University College London has been awarded more than GBP44,000 through
     the National Cup Recycling Scheme's Beyond the Bin fund to investigate why paper
@@ -155,24 +173,4 @@ articles:
   source: Circular Online
   title: Thousands of Christmas trees to be reused and recycled in North Somerset
     festive scheme
-- category: circular
-  description: A new technique developed at the University of Helsinki uses fatty
-    acids, hydrogen peroxide and visible light to dissolve and recover silver from
-    waste, offering a safer alternative to conventional cy...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/finnish-researchers-develop-cyanide-free-method-to-recycle-silver-using-light-and-organic-acids/
-  pub_date: '2025-12-16T08:00:00'
-  source: Circular Online
-  title: Finnish researchers develop cyanide-free method to recycle silver using light
-    and organic acids
-- category: circular
-  description: Partnership between the British Beauty Council and MYGroup aims to
-    capture cosmetic packaging not handled by kerbside collections. The post UK beauty
-    brands invited to join nationwide take-back scheme...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-beauty-brands-invited-to-join-nationwide-take-back-scheme-for-hard-to-recycle-packaging/
-  pub_date: '2025-12-16T08:00:00'
-  source: Circular Online
-  title: UK beauty brands invited to join nationwide take-back scheme for hard-to-recycle
-    packaging
-last_updated: '2025-12-23T06:35:02.140475'
+last_updated: '2025-12-24T06:34:51.210438'
