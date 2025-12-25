@@ -1,4 +1,13 @@
 articles:
+- category: machine-learning
+  description: Best OCR and vision language models you can run locally that transform
+    documents, tables, and diagrams into flawless markdown copies with benchmark-crushing
+    accuracy.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-open-source-ocr-models
+  pub_date: '2025-12-24T13:00:41'
+  source: KDnuggets
+  title: Top 7 Open Source OCR Models
 - category: ai-research
   description: The image depicts a visual collage or mosaic of multiple different
     images, with one image in the center that is black and displays the text "Gemini
@@ -172,15 +181,6 @@ articles:
   pub_date: '2025-12-17T16:00:00'
   source: Google AI Blog
   title: 'Gemini 3 Flash: frontier intelligence built for speed'
-- category: machine-learning
-  description: You don't need advanced skills to work with large datasets. With Python's
-    built-in features and libraries, you can handle large datasets without breaking
-    a sweat even if you're a beginner.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-handle-large-datasets-in-python-even-if-youre-a-beginner
-  pub_date: '2025-12-17T15:23:55'
-  source: KDnuggets
-  title: How to Handle Large Datasets in Python Even If You’re a Beginner
 - category: ai-research
   description: An AI-driven system lets users design and build simple, multicomponent
     objects by describing them with words.
@@ -250,4 +250,4 @@ articles:
   source: Google AI Blog
   title: You can now have more fluid and expressive conversations when you go Live
     with Search.
-last_updated: '2025-12-24T06:34:52.387806'
+last_updated: '2025-12-25T06:34:28.846309'
