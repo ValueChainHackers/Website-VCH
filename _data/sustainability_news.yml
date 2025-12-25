@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: The European Union is planning stricter controls on plastic imports...
+    The post EU plans tighter checks on plastic imports to support recycling industry
+    appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/eu-plans-tighter-checks-on-plastic-imports-to-support-recycling-industry/
+  pub_date: '2025-12-24T09:14:36'
+  source: Circular Online
+  title: EU plans tighter checks on plastic imports to support recycling industry
 - category: supply-chain
   description: The Dignity Act could make EB-3 visas a more practical hiring option
     for warehouses and logistics providers facing ongoing labor shortages.
@@ -163,14 +172,4 @@ articles:
   source: Circular Online
   title: Lords write to environment secretary over “complacent” response to waste
     crime inquiry
-- category: circular
-  description: North Somerset Council and Noah's Ark Zoo Farm are aiming to repurpose
-    up to 4,000 Christmas trees this winter, expanding a long-running partnership
-    designed to reduce seasonal waste and support envir...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/thousands-of-christmas-trees-to-be-reused-and-recycled-in-north-somerset-festive-scheme/
-  pub_date: '2025-12-16T08:00:00'
-  source: Circular Online
-  title: Thousands of Christmas trees to be reused and recycled in North Somerset
-    festive scheme
-last_updated: '2025-12-24T06:34:51.210438'
+last_updated: '2025-12-25T06:34:27.971900'
