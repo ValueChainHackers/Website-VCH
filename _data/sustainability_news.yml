@@ -126,14 +126,6 @@ articles:
   pub_date: '2025-12-19T13:04:00'
   source: Supply Chain 24/7
   title: 40 ChatGPT Prompts Every Supply Chain Professional Should Know
-- category: supply-chain
-  description: OSHA cited Virginia Transformer Corporation nearly $1 million after
-    finding repeat safety hazards, including faulty cranes and unguarded machinery.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/virginia-transformer-osha-nearly-1-million-safety-violations
-  pub_date: '2025-12-18T18:31:00'
-  source: Supply Chain 24/7
-  title: OSHA Fines Virginia Transformer Nearly $1 Million Over Safety Violations
 - category: circular
   description: University College London has been awarded more than GBP44,000 through
     the National Cup Recycling Scheme's Beyond the Bin fund to investigate why paper
@@ -172,4 +164,12 @@ articles:
   source: Circular Online
   title: Lords write to environment secretary over “complacent” response to waste
     crime inquiry
-last_updated: '2025-12-25T06:34:27.971900'
+- category: supply-chain
+  description: Here is your complete, running list of the biggest supply chain, logistics,
+    and manufacturing conferences happening in 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-conferences-guide-2026
+  pub_date: '2025-12-10T15:50:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain Conferences Guide 2026: Dates, Locations, and More'
+last_updated: '2025-12-26T06:33:42.683688'
