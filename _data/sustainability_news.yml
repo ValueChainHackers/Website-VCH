@@ -1,4 +1,36 @@
 articles:
+- category: supply-chain
+  description: These are our 10 favorite Supply Chain 24/7 stories from 2025, picked
+    for usefulness, insight, and staying power.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/our-10-favorite-stories-of-2025
+  pub_date: '2025-12-26T14:09:00'
+  source: Supply Chain 24/7
+  title: Our 10 Favorite Supply Chain 24/7 Stories of 2025
+- category: supply-chain
+  description: CBP says it has collected more than $1 billion in duties since shutting
+    down the de minimis shipping loophole earlier this year.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cbp-collects-1-billion-after-de-minimis-exemption-ends
+  pub_date: '2025-12-26T13:57:00'
+  source: Supply Chain 24/7
+  title: De Minimis Phaseout Delivers $1 Billion in Recovered Import Revenue
+- category: supply-chain
+  description: A new Cleanstart report reveals supply chains are learning that speed
+    still matters, but trust now matters just as much.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-trust-is-replacing-speed-in-supply-chains
+  pub_date: '2025-12-26T13:53:00'
+  source: Supply Chain 24/7
+  title: Why Trust Is Starting to Matter as Much as Speed in Supply Chains
+- category: supply-chain
+  description: Colorado has become the latest state flagged by DOT as a nationwide
+    audit uncovers widespread issues with non-domiciled commercial driver's licenses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/colorado-joins-new-york-california-as-dot-expands-crackdown
+  pub_date: '2025-12-26T13:50:00'
+  source: Supply Chain 24/7
+  title: Colorado Joins New York, California as DOT Expands CDL Crackdown
 - category: circular
   description: The European Union is planning stricter controls on plastic imports...
     The post EU plans tighter checks on plastic imports to support recycling industry
@@ -74,22 +106,6 @@ articles:
   pub_date: '2025-12-22T18:28:00'
   source: Supply Chain 24/7
   title: Five Ways Sustainability Is Reshaping Global Supply Chains
-- category: supply-chain
-  description: In this roundtable, nine industry leaders share what they're excited
-    about, worried about, and watching most closely as 2026 approaches.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/2026-supply-chain-predictions-roundtable
-  pub_date: '2025-12-22T15:08:00'
-  source: Supply Chain 24/7
-  title: '2026 Predictions: What Supply Chain Leaders Expect Next Year'
-- category: supply-chain
-  description: Sedgwick's 2026 Forecasting Report shows that supply chain disruption
-    driven by trade policy, geopolitics, and cyber risk is expected to continue.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-supply-chain-disruption-is-expected-to-continue-in-2026
-  pub_date: '2025-12-22T12:28:00'
-  source: Supply Chain 24/7
-  title: Why Supply Chain Disruption Is Expected to Continue in 2026
 - category: circular
   description: More than half of people say they recycle less over Christmas. The
     post Recycling rates drop at Christmas as households struggle with festive waste,
@@ -118,14 +134,6 @@ articles:
   pub_date: '2025-12-22T09:15:47'
   source: Circular Online
   title: Bin contamination fines cost Coventry City Council £900,000
-- category: supply-chain
-  description: Supply chain teams are using ChatGPT to think through problems faster,
-    prepare better conversations, and get everyday work done more efficiently.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/40-chatgpt-prompts-supply-chain
-  pub_date: '2025-12-19T13:04:00'
-  source: Supply Chain 24/7
-  title: 40 ChatGPT Prompts Every Supply Chain Professional Should Know
 - category: circular
   description: University College London has been awarded more than GBP44,000 through
     the National Cup Recycling Scheme's Beyond the Bin fund to investigate why paper
@@ -164,12 +172,4 @@ articles:
   source: Circular Online
   title: Lords write to environment secretary over “complacent” response to waste
     crime inquiry
-- category: supply-chain
-  description: Here is your complete, running list of the biggest supply chain, logistics,
-    and manufacturing conferences happening in 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-conferences-guide-2026
-  pub_date: '2025-12-10T15:50:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain Conferences Guide 2026: Dates, Locations, and More'
-last_updated: '2025-12-26T06:33:42.683688'
+last_updated: '2025-12-27T06:32:03.160305'
