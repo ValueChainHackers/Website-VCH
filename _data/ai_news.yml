@@ -1,5 +1,13 @@
 articles:
 - category: machine-learning
+  description: Learn Docker by doing with five beginner-friendly projects covering
+    hosting, multi-container apps, CI, and monitoring.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-fun-docker-projects-for-absolute-beginners
+  pub_date: '2025-12-26T13:00:49'
+  source: KDnuggets
+  title: 5 Fun Docker Projects for Absolute Beginners
+- category: machine-learning
   description: Best OCR and vision language models you can run locally that transform
     documents, tables, and diagrams into flawless markdown copies with benchmark-crushing
     accuracy.
@@ -164,16 +172,6 @@ articles:
   pub_date: '2025-12-17T19:00:00'
   source: MIT AI News
   title: A “scientific sandbox” lets researchers explore the evolution of vision systems
-- category: machine-learning
-  description: The overarching goal is to maximize the return on analytical talent,
-    shifting their focus entirely from data preparation to predictive model development,
-    which is a necessary move if the business inte...
-  icon: fa-chart-bar
-  link: https://bit.ly/48JbJwD
-  pub_date: '2025-12-17T16:36:41'
-  source: KDnuggets
-  title: 'The Real Cost of Inaction: How Silos Hurt Productivity for Data Scientists
-    (Sponsored)'
 - category: ai-research
   description: Gemini 3 Flash text
   icon: fa-google
@@ -250,4 +248,4 @@ articles:
   source: Google AI Blog
   title: You can now have more fluid and expressive conversations when you go Live
     with Search.
-last_updated: '2025-12-26T06:33:43.611216'
+last_updated: '2025-12-27T06:32:04.268114'
