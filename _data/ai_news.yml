@@ -1,4 +1,21 @@
 articles:
+- category: ai-research
+  description: 'Three application preview cards: AI chess interface, Gemini 3 Flash
+    logo, Google search bar.'
+  icon: fa-google
+  link: https://blog.google/technology/ai/google-ai-updates-december-2025/
+  pub_date: '2025-12-29T18:15:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in December
+- category: machine-learning
+  description: A quick look at the top 7 agentic AI browsers that can search the web
+    for you, fill forms automatically, handle research, draft content, and streamline
+    your entire workflow.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026
+  pub_date: '2025-12-29T13:00:21'
+  source: KDnuggets
+  title: The Best Agentic AI Browsers to Look For in 2026
 - category: machine-learning
   description: Learn Docker by doing with five beginner-friendly projects covering
     hosting, multi-container apps, CI, and monitoring.
@@ -139,14 +156,6 @@ articles:
   pub_date: '2025-12-18T15:08:54'
   source: KDnuggets
   title: Hosting Language Models on a Budget
-- category: machine-learning
-  description: Take a tour of 5 of the most popular AI-powered app builders out there
-    to leverage automation in the process of building software.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-top-ai-powered-app-builders
-  pub_date: '2025-12-18T13:00:56'
-  source: KDnuggets
-  title: 5 Top AI-Powered App Builders
 - category: ai-research
   description: MIT-IBM Watson AI Lab researchers developed an expressive architecture
     that provides better state tracking and sequential reasoning in LLMs over long
@@ -238,14 +247,4 @@ articles:
   pub_date: '2025-12-12T18:10:00'
   source: MIT AI News
   title: New MIT program to train military leaders for the AI age
-- category: ai-research
-  description: When you go Live with Search, you can have a back-and-forth voice conversation
-    in AI Mode to get real-time help and quickly find relevant sites across the web.
-    And now, ...
-  icon: fa-google
-  link: https://blog.google/products/search/live-audio-gemini-model-update/
-  pub_date: '2025-12-12T17:00:00'
-  source: Google AI Blog
-  title: You can now have more fluid and expressive conversations when you go Live
-    with Search.
-last_updated: '2025-12-29T06:36:19.780262'
+last_updated: '2025-12-30T06:34:40.840749'
