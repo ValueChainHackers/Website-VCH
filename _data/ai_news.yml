@@ -1,4 +1,12 @@
 articles:
+- category: machine-learning
+  description: Make extra money between classes with beginner-friendly freelance platforms
+    that fit your lifestyle.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-high-paying-side-hustles-for-students
+  pub_date: '2025-12-30T13:21:41'
+  source: KDnuggets
+  title: 7 High Paying Side Hustles for Students
 - category: ai-research
   description: 'Three application preview cards: AI chess interface, Gemini 3 Flash
     logo, Google search bar.'
@@ -148,14 +156,6 @@ articles:
   pub_date: '2025-12-18T16:00:00'
   source: Google AI Blog
   title: Inside Kaggle's AI Agents intensive course with Google
-- category: machine-learning
-  description: Learn how to run your own language model for free using lightweight
-    models and Hugging Face Spaces.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/hosting-language-models-on-a-budget
-  pub_date: '2025-12-18T15:08:54'
-  source: KDnuggets
-  title: Hosting Language Models on a Budget
 - category: ai-research
   description: MIT-IBM Watson AI Lab researchers developed an expressive architecture
     that provides better state tracking and sequential reasoning in LLMs over long
@@ -247,4 +247,4 @@ articles:
   pub_date: '2025-12-12T18:10:00'
   source: MIT AI News
   title: New MIT program to train military leaders for the AI age
-last_updated: '2025-12-30T06:34:40.840749'
+last_updated: '2025-12-31T06:35:07.632123'
