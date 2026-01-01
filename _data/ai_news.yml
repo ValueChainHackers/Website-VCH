@@ -1,5 +1,14 @@
 articles:
 - category: machine-learning
+  description: Want to level up your data science toolkit? Here are some Python libraries
+    that'll make your work easier.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-lesser-known-python-libraries-every-data-scientist-should-be-using-in-2026
+  pub_date: '2025-12-31T13:00:57'
+  source: KDnuggets
+  title: 10 Lesser-Known Python Libraries Every Data Scientist Should Be Using in
+    2026
+- category: machine-learning
   description: Make extra money between classes with beginner-friendly freelance platforms
     that fit your lifestyle.
   icon: fa-chart-bar
@@ -130,15 +139,6 @@ articles:
   pub_date: '2025-12-18T21:20:00'
   source: MIT AI News
   title: Guided learning lets “untrainable” neural networks realize their potential
-- category: machine-learning
-  description: Prompt engineering is not just about asking models the right questions
-    - it is about structuring those questions to think like a data auditor. When used
-    correctly, it can make quality assurance faster...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/prompt-engineering-for-data-quality-and-validation-checks
-  pub_date: '2025-12-18T17:00:30'
-  source: KDnuggets
-  title: Prompt Engineering for Data Quality and Validation Checks
 - category: ai-research
   description: We're expanding our content transparency tools to help you more easily
     identify AI-generated content. You can now check if a video was edited or created
@@ -247,4 +247,4 @@ articles:
   pub_date: '2025-12-12T18:10:00'
   source: MIT AI News
   title: New MIT program to train military leaders for the AI age
-last_updated: '2025-12-31T06:35:07.632123'
+last_updated: '2026-01-01T06:34:45.940517'
