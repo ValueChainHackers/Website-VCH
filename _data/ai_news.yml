@@ -1,252 +1,250 @@
 articles:
-- category: ai-research
-  description: The technique can help scientists in economics, public health, and
-    other fields understand whether to trust the results of their experiments.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/new-method-improves-reliability-statistical-estimations-1212
-  pub_date: '2025-12-12T05:00:00'
-  source: MIT AI News
-  title: New method improves the reliability of statistical estimations
-- category: ai-research
-  description: 'Grid of 12 diverse artworks: faceted green sculpture, illuminated
-    green cursive text, and digital abstracts.'
-  icon: fa-google
-  link: https://blog.google/technology/ai/google-gradient-canvas-ai-art/
-  pub_date: '2025-12-11T21:30:00'
-  source: Google AI Blog
-  title: 'Gradient Canvas: Celebrating over a decade of artistic collaborations with
-    AI'
-- category: ai-research
-  description: Two people smiling at each other across a desk using a Google Beam
-    video communication device
-  icon: fa-google
-  link: https://blog.google/technology/research/google-beam-2025-moments/
-  pub_date: '2025-12-11T18:30:00'
-  source: Google AI Blog
-  title: 4 highlights from Google Beam in 2025
 - category: machine-learning
-  description: As AI systems begin handling more complex, multi-stage tasks, understanding
-    agentic design is becoming essential. This article outlines seven practical steps
-    to build reliable, effective AI agents.
+  description: Want to level up your data science toolkit? Here are some Python libraries
+    that'll make your work easier.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-steps-to-mastering-agentic-ai
-  pub_date: '2025-12-11T17:00:08'
+  link: https://www.kdnuggets.com/10-lesser-known-python-libraries-every-data-scientist-should-be-using-in-2026
+  pub_date: '2025-12-31T13:00:57'
   source: KDnuggets
-  title: 7 Steps to Mastering Agentic AI
+  title: 10 Lesser-Known Python Libraries Every Data Scientist Should Be Using in
+    2026
 - category: machine-learning
-  description: Master the essential skill of deploying machine learning models with
-    courses, projects, examples, resources, and interview questions.
+  description: Make extra money between classes with beginner-friendly freelance platforms
+    that fit your lifestyle.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment
-  pub_date: '2025-12-11T15:10:18'
+  link: https://www.kdnuggets.com/7-high-paying-side-hustles-for-students
+  pub_date: '2025-12-30T13:21:41'
   source: KDnuggets
-  title: 10 GitHub Repositories to Master Machine Learning Deployment
+  title: 7 High Paying Side Hustles for Students
 - category: ai-research
-  description: By stacking multiple active components based on new materials on the
-    back end of a computer chip, this new approach reduces the amount of energy wasted
-    during computation.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/new-materials-could-boost-energy-efficiency-microelectronics-1211
-  pub_date: '2025-12-11T05:00:00'
-  source: MIT AI News
-  title: New materials could boost the energy efficiency of microelectronics
-- category: ai-research
-  description: The global developer community shares their solutions.
+  description: 'Three application preview cards: AI chess interface, Gemini 3 Flash
+    logo, Google search bar.'
   icon: fa-google
-  link: https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/
-  pub_date: '2025-12-10T17:15:00'
+  link: https://blog.google/technology/ai/google-ai-updates-december-2025/
+  pub_date: '2025-12-29T18:15:00'
   source: Google AI Blog
-  title: These developers are changing lives with Gemma 3n
+  title: The latest AI news we announced in December
 - category: machine-learning
-  description: Vibe coding has devalued coding. Is there any meaningful work still
-    left for us?
+  description: A quick look at the top 7 agentic AI browsers that can search the web
+    for you, fill forms automatically, handle research, draft content, and streamline
+    your entire workflow.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/finding-meaningful-work-in-the-age-of-vibe-coding
-  pub_date: '2025-12-10T14:44:44'
+  link: https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026
+  pub_date: '2025-12-29T13:00:21'
   source: KDnuggets
-  title: Finding Meaningful Work in the Age of Vibe Coding
+  title: The Best Agentic AI Browsers to Look For in 2026
 - category: machine-learning
-  description: Discover five free tools that let you run and test large language models
-    directly in your browser without any setup.
+  description: Learn Docker by doing with five beginner-friendly projects covering
+    hosting, multi-container apps, CI, and monitoring.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-tools-to-experiment-with-llms-in-your-browser
-  pub_date: '2025-12-10T13:00:33'
+  link: https://www.kdnuggets.com/5-fun-docker-projects-for-absolute-beginners
+  pub_date: '2025-12-26T13:00:49'
   source: KDnuggets
-  title: 5 Free Tools to Experiment with LLMs in Your Browser
+  title: 5 Fun Docker Projects for Absolute Beginners
 - category: machine-learning
-  description: Nebius Token Factory customers use distillation today for search ranking,
-    grammar correction, summarization, chat quality improvement, code refinement,
-    and dozens of other narrow tasks.
+  description: Best OCR and vision language models you can run locally that transform
+    documents, tables, and diagrams into flawless markdown copies with benchmark-crushing
+    accuracy.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/why-model-distillation-is-becoming-the-most-important-technique-in-production-ai
-  pub_date: '2025-12-09T18:02:15'
+  link: https://www.kdnuggets.com/top-7-open-source-ocr-models
+  pub_date: '2025-12-24T13:00:41'
   source: KDnuggets
-  title: Why model distillation is becoming the most important technique in production
-    AI
-- category: machine-learning
-  description: You can train, evaluate, and export a full ML pipeline in Python using
-    TPOT with just a few lines of code.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/tpot-automating-ml-pipelines-with-genetic-algorithms-in-python
-  pub_date: '2025-12-09T17:00:05'
-  source: KDnuggets
-  title: 'TPOT: Automating ML Pipelines with Genetic Algorithms in Python'
+  title: Top 7 Open Source OCR Models
 - category: ai-research
-  description: A new global survey of executives, decision makers and knowledge workers
-    reveals that organizations truly transforming with AI are seeing real results
-    that move their bu...
+  description: The image depicts a visual collage or mosaic of multiple different
+    images, with one image in the center that is black and displays the text "Gemini
+    3".
   icon: fa-google
-  link: https://blog.google/products/workspace/gemini-ai-workplace-research-report/
-  pub_date: '2025-12-09T17:00:00'
+  link: https://blog.google/technology/ai/2025-research-breakthroughs/
+  pub_date: '2025-12-23T17:00:00'
   source: Google AI Blog
-  title: Learn more about AI in the workplace in our new research report.
-- category: ai-research
-  description: Learn more about Google's launches, milestones and more from 2025.
-  icon: fa-google
-  link: https://blog.google/technology/ai/look-back-2025/
-  pub_date: '2025-12-09T16:00:00'
-  source: Google AI Blog
-  title: 2025 at Google
+  title: 'Google''s year in review: 8 areas with research breakthroughs in 2025'
 - category: machine-learning
-  description: Increasingly, the most interesting AI work is happening inside traditional,
-    data-rich businesses that don't look anything like Big Tech.
+  description: How can we reason with uncertainty and make smarter decisions from
+    data? This article explains the key probability ideas in data science.
   icon: fa-chart-bar
-  link: https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech
-  pub_date: '2025-12-09T15:39:17'
+  link: https://www.kdnuggets.com/probability-concepts-youll-actually-use-in-data-science
+  pub_date: '2025-12-23T15:00:36'
   source: KDnuggets
-  title: How AI Cuts Costs and Adds Value for Data Science Workflows (Sponsored)
+  title: Probability Concepts You’ll Actually Use in Data Science
 - category: machine-learning
-  description: Learn how to detect outliers by doing a real-life data project and
-    improve the process with AI.
+  description: Looking ahead to 2026, the most impactful trends are not flashy frameworks
+    but structural changes in how data pipelines are designed, owned, and operated.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/prompt-engineering-for-outlier-detection
-  pub_date: '2025-12-09T15:00:27'
+  link: https://www.kdnuggets.com/5-emerging-trends-in-data-engineering-for-2026
+  pub_date: '2025-12-23T13:00:52'
   source: KDnuggets
-  title: Prompt Engineering for Outlier Detection
+  title: 5 Emerging Trends in Data Engineering for 2026
+- category: ai-research
+  description: MIT community members made headlines with key research advances and
+    their efforts to tackle pressing challenges.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/mit-media-review-1222
+  pub_date: '2025-12-22T22:20:00'
+  source: MIT AI News
+  title: 'MIT in the media: 2025 in review'
+- category: ai-research
+  description: A translucent blue rectangle lies against a black background with blue
+    dots and lines. Within the rectangle is text saying 2025, along with a grid of
+    12 images, each representing a big Google AI momen...
+  icon: fa-google
+  link: https://blog.google/technology/ai/google-ai-news-recap-2025/
+  pub_date: '2025-12-22T17:00:00'
+  source: Google AI Blog
+  title: 60 of our biggest AI announcements in 2025
 - category: machine-learning
-  description: This article discusses five cutting-edge AutoML techniques and trends
-    that are expected to shape the landscape of highly automated machine learning
-    model building in the 2026 year about to start.
+  description: 'This article explains how Gistr transforms the way data professionals
+    interact with their most valuable asset: their accumulated knowledge.'
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-cutting-edge-automl-techniques-to-watch-in-2026
-  pub_date: '2025-12-09T13:00:07'
+  link: https://www.kdnuggets.com/gistr-the-smart-ai-notebook-for-organizing-knowledge
+  pub_date: '2025-12-22T16:00:19'
   source: KDnuggets
-  title: 5 Cutting-Edge AutoML Techniques to Watch in 2026
-- category: ai-research
-  description: Postdoc Zongyi Li, Associate Professor Tess Smidt, and seven additional
-    alumni will be supported in the development of AI against difficult problems.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1208
-  pub_date: '2025-12-08T20:15:00'
-  source: MIT AI News
-  title: MIT affiliates named 2025 Schmidt Sciences AI2050 Fellows
-- category: ai-research
-  description: mp4 of "AI QUESTS" with a stylized Earth, "Accept mission" button.
-    Google Research and Stanford Accelerator logos.
-  icon: fa-google
-  link: https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/
-  pub_date: '2025-12-08T18:00:00'
-  source: Google AI Blog
-  title: How we’re supporting the next generation of innovators
+  title: 'Gistr: The Smart AI Notebook for Organizing Knowledge'
 - category: machine-learning
-  description: You don't need Python or R to start working with data. This guide walks
-    you through using built-in Unix utilities for real statistical analysis.
+  description: This is a list of top LLM and VLMs that are fast, smart, and small
+    enough to run locally on devices as small as a Raspberry Pi or even a smart fridge.
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/statistics-at-the-command-line-for-beginner-data-scientists
-  pub_date: '2025-12-08T16:48:59'
+  link: https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi
+  pub_date: '2025-12-22T14:17:30'
   source: KDnuggets
-  title: Statistics at the Command Line for Beginner Data Scientists
+  title: 7 Tiny AI Models for Raspberry Pi
 - category: ai-research
-  description: A bald male teacher with glasses and a black shirt leans over to point
-    at a computer monitor, instructing a male student. Other students are seated at
-    computers along a row of desks in a brightly lit ...
+  description: The image is a dark-themed illustration depicting three people interacting
+    with technology, surrounded by various product icons.
   icon: fa-google
-  link: https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/
-  pub_date: '2025-12-08T10:00:00'
+  link: https://blog.google/technology/ai/ai-tips-2025/
+  pub_date: '2025-12-19T16:00:00'
   source: Google AI Blog
-  title: Transforming Nordic classrooms through responsible AI partnerships
+  title: 40 of our most helpful AI tips from 2025
 - category: ai-research
-  description: mp4 showing a carousel of images with text like "Gemini 3" "Nano Banana
-    Pro" and "Help me plan a trip"
+  description: AI agent trends report 2026 graphic
   icon: fa-google
-  link: https://blog.google/technology/ai/google-ai-updates-november-2025/
-  pub_date: '2025-12-05T19:45:00'
+  link: https://blog.google/products/google-cloud/ai-business-trends-report-2026/
+  pub_date: '2025-12-19T14:00:00'
   source: Google AI Blog
-  title: The latest AI news we announced in November
+  title: 5 ways AI agents will transform the way we work in 2026
+- category: machine-learning
+  description: Spending too much time on repetitive tasks? These Python scripts will
+    help you automate the mundane stuff that drains your productivity.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-everyday-tasks
+  pub_date: '2025-12-19T13:00:05'
+  source: KDnuggets
+  title: 5 Useful Python Scripts to Automate Boring Everyday Tasks
 - category: ai-research
-  description: Google Workspace has released findings from our second survey that
-    looks at how people aged 22-39 are using AI at work. Commissioned by Workspace
-    in partnership with the...
+  description: CSAIL researchers find even "untrainable" neural nets can learn effectively
+    when guided by another network's built-in biases using their guidance method.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218
+  pub_date: '2025-12-18T21:20:00'
+  source: MIT AI News
+  title: Guided learning lets “untrainable” neural networks realize their potential
+- category: ai-research
+  description: We're expanding our content transparency tools to help you more easily
+    identify AI-generated content. You can now check if a video was edited or created
+    with Google AI d...
   icon: fa-google
-  link: https://blog.google/products/workspace/young-leaders-survey-ai/
-  pub_date: '2025-12-05T16:00:00'
+  link: https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/
+  pub_date: '2025-12-18T17:00:00'
   source: Google AI Blog
-  title: New research from Google Workspace reveals how young leaders are using AI
-    at work.
+  title: You can now verify Google AI-generated videos in the Gemini app.
 - category: ai-research
-  description: Image with black background and Gemini 3 Pro logo
+  description: Illustration of a developer participating in the Kaggle AI Agents Intensive,
+    sitting with their laptop with Kaggle and Google logos.
   icon: fa-google
-  link: https://blog.google/technology/developers/gemini-3-pro-vision/
-  pub_date: '2025-12-05T16:00:00'
+  link: https://blog.google/technology/developers/ai-agents-intensive-recap/
+  pub_date: '2025-12-18T16:00:00'
   source: Google AI Blog
-  title: 'Gemini 3 Pro: the frontier of vision AI'
+  title: Inside Kaggle's AI Agents intensive course with Google
 - category: ai-research
-  description: The speech-to-reality system combines 3D generative AI and robotic
-    assembly to create objects on demand.
+  description: MIT-IBM Watson AI Lab researchers developed an expressive architecture
+    that provides better state tracking and sequential reasoning in LLMs over long
+    texts.
   icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
-  pub_date: '2025-12-05T15:00:00'
+  link: https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217
+  pub_date: '2025-12-18T04:10:00'
   source: MIT AI News
-  title: MIT researchers “speak objects into existence” using AI and robotics
+  title: A new way to increase the capabilities of large language models
 - category: ai-research
-  description: Founded by MIT alumni, the Pickle Robot Company has developed machines
-    that can autonomously load and unload trucks inside warehouses and logistic centers.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/robots-spare-warehouse-workers-heavy-lifting-1205
-  pub_date: '2025-12-05T05:00:00'
-  source: MIT AI News
-  title: Robots that spare warehouse workers the heavy lifting
+  description: Learn how Gemini 3 powers Google Search with Generative UI, Nano Banana,
+    and interactive graphics.
+  icon: fa-google
+  link: https://blog.google/technology/ai/release-notes-podcast-search/
+  pub_date: '2025-12-18T00:00:00'
+  source: Google AI Blog
+  title: Watch a podcast discussion about Gemini 3 and the future of Search.
 - category: ai-research
-  description: This new technique enables LLMs to dynamically adjust the amount of
-    computation they use for reasoning, based on the difficulty of the question.
+  description: The AI-powered tool could inform the design of better sensors and cameras
+    for robots or autonomous vehicles.
   icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/smarter-way-large-language-models-think-about-hard-problems-1204
-  pub_date: '2025-12-04T05:00:00'
+  link: https://news.mit.edu/2025/scientific-sandbox-lets-researchers-explore-evolution-vision-systems-1217
+  pub_date: '2025-12-17T19:00:00'
   source: MIT AI News
-  title: A smarter way for large language models to think about hard problems
+  title: A “scientific sandbox” lets researchers explore the evolution of vision systems
 - category: ai-research
-  description: With insect-like speed and agility, the tiny robot could someday aid
-    in search-and-rescue missions.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203
-  pub_date: '2025-12-03T19:00:00'
-  source: MIT AI News
-  title: MIT engineers design an aerial microrobot that can fly as fast as a bumblebee
+  description: Gemini 3 Flash text
+  icon: fa-google
+  link: https://blog.google/products/gemini/gemini-3-flash/
+  pub_date: '2025-12-17T16:00:00'
+  source: Google AI Blog
+  title: 'Gemini 3 Flash: frontier intelligence built for speed'
 - category: ai-research
-  description: Macro, a modeling tool developed by the MIT Energy Initiative, enables
-    energy-system planners to explore options for developing infrastructure to support
-    decarbonized, reliable, and low-cost power gri...
+  description: An AI-driven system lets users design and build simple, multicomponent
+    objects by describing them with words.
   icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/helping-power-system-planners-prepare-unknown-future-1203
-  pub_date: '2025-12-03T16:00:00'
+  link: https://news.mit.edu/2025/robot-makes-chair-1216
+  pub_date: '2025-12-16T05:00:00'
   source: MIT AI News
-  title: Helping power-system planners prepare for an unknown future
+  title: “Robot, make me a chair”
 - category: ai-research
-  description: MIT CSAIL and LIDS researchers developed a mathematically grounded
-    system that lets soft robots deform, adapt, and interact with people and objects,
-    without violating safety limits.
+  description: Assistant Professor Yunha Hwang utilizes microbial genomes to examine
+    the language of biology. Her appointment reflects MIT's commitment to exploring
+    the intersection of genetics research and AI.
   icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/new-control-system-teaches-soft-robots-art-staying-safe-1202
-  pub_date: '2025-12-02T19:00:00'
+  link: https://news.mit.edu/2025/3-questions-yunha-hwang-using-computation-study-worlds-best-single-celled-chemists-1215
+  pub_date: '2025-12-15T22:15:00'
   source: MIT AI News
-  title: New control system teaches soft robots the art of staying safe
+  title: '3 Questions: Using computation to study the world’s best single-celled chemists'
 - category: ai-research
-  description: AquaCulture Shock program, in collaboration with MIT-Scandinavia MISTI,
-    offers international internships for AI and autonomy in aquaculture
+  description: Nuclear waste continues to be a bottleneck in the widespread use of
+    nuclear energy, so doctoral student Dauren Sarsenbayev is developing models to
+    address the problem.
   icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/aquaculture-shock-ai-and-autonomy-aquaculture-1201
-  pub_date: '2025-12-01T21:25:00'
+  link: https://news.mit.edu/2025/dauren-sarsenbayev-working-to-eliminate-barriers-adopting-nuclear-energy-1215
+  pub_date: '2025-12-15T21:00:00'
   source: MIT AI News
-  title: MIT Sea Grant students explore the intersection of technology and offshore
-    aquaculture in Norway
-last_updated: '2025-12-12T06:34:08.274947'
+  title: Working to eliminate barriers to adopting nuclear energy
+- category: ai-research
+  description: We're sharing a practical playbook to help organizations streamline
+    and enhance sustainability reporting with AI.Corporate transparency is essential,
+    but navigating frag...
+  icon: fa-google
+  link: https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/
+  pub_date: '2025-12-15T17:00:00'
+  source: Google AI Blog
+  title: We’re publishing an AI playbook to help others with sustainability reporting.
+- category: ai-research
+  description: The approach could apply to more complex tissues and organs, helping
+    researchers to identify early signs of disease.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215
+  pub_date: '2025-12-15T10:00:00'
+  source: MIT AI News
+  title: Deep-learning model predicts how fruit flies form, cell by cell
+- category: ai-research
+  description: The "self-steering" DisCIPL system directs small models to work together
+    on tasks with constraints, like itinerary planning and budgeting.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
+  pub_date: '2025-12-12T20:30:00'
+  source: MIT AI News
+  title: Enabling small language models to solve complex reasoning tasks
+- category: ai-research
+  description: The new certificate program will equip naval officers with skills needed
+    to solve the military's hardest problems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212
+  pub_date: '2025-12-12T18:10:00'
+  source: MIT AI News
+  title: New MIT program to train military leaders for the AI age
+last_updated: '2026-01-02T06:35:06.497447'
