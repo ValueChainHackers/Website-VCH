@@ -1,5 +1,30 @@
 articles:
 - category: supply-chain
+  description: One year into congestion pricing, New York City is seeing fewer cars,
+    faster trips, and cleaner air inside Manhattan.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nyc-congestion-pricing-one-year-results
+  pub_date: '2026-01-02T15:07:00'
+  source: Supply Chain 24/7
+  title: After One Year, NYC Congestion Pricing Is Delivering Measurable Results
+- category: supply-chain
+  description: A $400,000 lobster shipment meant for Costco was stolen by criminals
+    posing as a real trucking company, highlighting the growing risk of organized
+    cargo theft.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/400k-lobster-cargo-theft
+  pub_date: '2026-01-02T13:38:00'
+  source: Supply Chain 24/7
+  title: 'Lobster Heist: $400,000 Shipment Stolen on Way to Costco'
+- category: supply-chain
+  description: Wearable technology is becoming a practical, everyday tool in warehouses,
+    helping workers move faster, stay accurate, and keep their hands free.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-wearables-best-practices
+  pub_date: '2026-01-02T13:34:00'
+  source: Supply Chain 24/7
+  title: How Wearables Are Becoming Part of Everyday Warehouse Operations
+- category: supply-chain
   description: These are our 10 favorite Supply Chain 24/7 stories from 2025, picked
     for usefulness, insight, and staying power.
   icon: fa-box
@@ -64,14 +89,6 @@ articles:
   pub_date: '2025-12-23T12:44:00'
   source: Supply Chain 24/7
   title: Top 10 Logistics Stories That Defined 2025
-- category: supply-chain
-  description: A new House bill would fine freight brokers that hire carriers with
-    serious safety violations and expand federal oversight of broker practices.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/house-bill-freight-broker-liability-unsafe-carriers
-  pub_date: '2025-12-23T12:34:00'
-  source: Supply Chain 24/7
-  title: New House Bill Would Fine Brokers for Hiring Unsafe Truckers
 - category: circular
   description: Scientists say a new chemical recycling method could convert everyday
     plastic waste into key ingredients used in cancer medicines, potentially reducing
@@ -90,22 +107,6 @@ articles:
   pub_date: '2025-12-23T09:03:34'
   source: Circular Online
   title: MPs and industry meet to address rise in lithium-ion battery fires
-- category: supply-chain
-  description: Supply chain hiring is heading into 2026 with uneven demand, persistent
-    turnover, and continued competition for experienced talent.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/2026-supply-chain-and-logistics-hiring-outlook
-  pub_date: '2025-12-22T18:42:00'
-  source: Supply Chain 24/7
-  title: 2026 Supply Chain and Logistics Hiring Outlook
-- category: supply-chain
-  description: In this roundtable, nine industry leaders share what they're excited
-    about, worried about, and watching most closely as 2026 approaches.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/2026-supply-chain-predictions-roundtable
-  pub_date: '2025-12-22T15:08:00'
-  source: Supply Chain 24/7
-  title: '2026 Predictions: What Supply Chain Leaders Expect Next Year'
 - category: circular
   description: More than half of people say they recycle less over Christmas. The
     post Recycling rates drop at Christmas as households struggle with festive waste,
@@ -172,4 +173,4 @@ articles:
   source: Circular Online
   title: Lords write to environment secretary over “complacent” response to waste
     crime inquiry
-last_updated: '2026-01-02T06:35:05.655673'
+last_updated: '2026-01-03T06:32:05.934892'
