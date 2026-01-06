@@ -1,4 +1,44 @@
 articles:
+- category: ai-research
+  description: New research demonstrates how AI models can be tested to ensure they
+    don't cause harm by revealing anonymized patient health data.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
+  pub_date: '2026-01-05T21:55:00'
+  source: MIT AI News
+  title: MIT scientists investigate memorization risk in the age of clinical AI
+- category: ai-research
+  description: MIT graduate student C Jacob Payne reimagines historic architecture
+    and invents new possibilities at the intersection of AI and design.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/using-design-interpret-past-envision-future-c-jacob-payne-0105
+  pub_date: '2026-01-05T20:25:00'
+  source: MIT AI News
+  title: Using design to interpret the past and envision the future
+- category: machine-learning
+  description: Which of these state-of-the-art models writes the best code?
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/i-asked-gpt-claude-and-deepseek-to-build-tetris
+  pub_date: '2026-01-05T18:47:53'
+  source: KDnuggets
+  title: I Asked ChatGPT, Claude and DeepSeek to Build Tetris
+- category: machine-learning
+  description: Long-running LLM applications degrade when context is unmanaged. Context
+    engineering turns the context window into a deliberate, optimized resource. Learn
+    more in this article.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/context-engineering-explained-in-3-levels-of-difficulty
+  pub_date: '2026-01-05T15:00:54'
+  source: KDnuggets
+  title: Context Engineering Explained in 3 Levels of Difficulty
+- category: machine-learning
+  description: Read these 6 tricks for treating your Docker container like a reproducible
+    artifact, not a disposable wrapper.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/6-docker-tricks-to-simplify-your-data-science-reproducibility
+  pub_date: '2026-01-05T13:00:56'
+  source: KDnuggets
+  title: 6 Docker Tricks to Simplify Your Data Science Reproducibility
 - category: machine-learning
   description: Want to level up your data science toolkit? Here are some Python libraries
     that'll make your work easier.
@@ -92,22 +132,6 @@ articles:
   pub_date: '2025-12-22T17:00:00'
   source: Google AI Blog
   title: 60 of our biggest AI announcements in 2025
-- category: machine-learning
-  description: 'This article explains how Gistr transforms the way data professionals
-    interact with their most valuable asset: their accumulated knowledge.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/gistr-the-smart-ai-notebook-for-organizing-knowledge
-  pub_date: '2025-12-22T16:00:19'
-  source: KDnuggets
-  title: 'Gistr: The Smart AI Notebook for Organizing Knowledge'
-- category: machine-learning
-  description: This is a list of top LLM and VLMs that are fast, smart, and small
-    enough to run locally on devices as small as a Raspberry Pi or even a smart fridge.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi
-  pub_date: '2025-12-22T14:17:30'
-  source: KDnuggets
-  title: 7 Tiny AI Models for Raspberry Pi
 - category: ai-research
   description: The image is a dark-themed illustration depicting three people interacting
     with technology, surrounded by various product icons.
@@ -123,14 +147,6 @@ articles:
   pub_date: '2025-12-19T14:00:00'
   source: Google AI Blog
   title: 5 ways AI agents will transform the way we work in 2026
-- category: machine-learning
-  description: Spending too much time on repetitive tasks? These Python scripts will
-    help you automate the mundane stuff that drains your productivity.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-everyday-tasks
-  pub_date: '2025-12-19T13:00:05'
-  source: KDnuggets
-  title: 5 Useful Python Scripts to Automate Boring Everyday Tasks
 - category: ai-research
   description: CSAIL researchers find even "untrainable" neural nets can learn effectively
     when guided by another network's built-in biases using their guidance method.
@@ -231,20 +247,4 @@ articles:
   pub_date: '2025-12-15T10:00:00'
   source: MIT AI News
   title: Deep-learning model predicts how fruit flies form, cell by cell
-- category: ai-research
-  description: The "self-steering" DisCIPL system directs small models to work together
-    on tasks with constraints, like itinerary planning and budgeting.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
-  pub_date: '2025-12-12T20:30:00'
-  source: MIT AI News
-  title: Enabling small language models to solve complex reasoning tasks
-- category: ai-research
-  description: The new certificate program will equip naval officers with skills needed
-    to solve the military's hardest problems.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212
-  pub_date: '2025-12-12T18:10:00'
-  source: MIT AI News
-  title: New MIT program to train military leaders for the AI age
-last_updated: '2026-01-05T06:39:52.605510'
+last_updated: '2026-01-06T06:36:02.319038'
