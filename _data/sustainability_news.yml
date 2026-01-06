@@ -1,12 +1,64 @@
 articles:
 - category: supply-chain
+  description: A new Locus survey shows that while fast delivery is now expected,
+    reliability, clear communication, and accurate delivery promises matter most to
+    today's shoppers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/new-locus-survey-delivery-expectations-reliability
+  pub_date: '2026-01-05T15:38:00'
+  source: Supply Chain 24/7
+  title: Delivery Reliability Now Matters as Much as Speed, Survey Finds
+- category: supply-chain
+  description: A look at the behind-the-scenes supply chain process that determines
+    whether returned items are resold, discounted, or discarded.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-101-what-happens-after-item-returned
+  pub_date: '2026-01-05T14:21:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain 101: What Actually Happens After an Item Is Returned'
+- category: supply-chain
+  description: CMA CGM is launching a new ocean service in February connecting the
+    U.S. East Coast with Australia and New Zealand through a space charter agreement
+    with Maersk.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cma-cgm-launches-us-east-coast-oceania-kea-service
+  pub_date: '2026-01-05T13:20:00'
+  source: Supply Chain 24/7
+  title: CMA CGM’s New Service Connects U.S. East Coast With Australia
+- category: supply-chain
+  description: DOT is enforcing English language proficiency rules for cross-border
+    train crews after inspectors flagged safety concerns during rail inspections.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dot-enforces-english-rules-cross-border-rail-crews
+  pub_date: '2026-01-05T13:16:00'
+  source: Supply Chain 24/7
+  title: DOT Cracks Down on English Rules for Train Crews Operating in U.S.
+- category: circular
+  description: The World Health Organisation (WHO) has found that poorly managed solid
+    waste is driving a 'public health crisis'. The post Poorly managed solid waste
+    is driving a 'public health crisis', WHO finds ap...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/poorly-managed-solid-waste-is-driving-a-public-health-crisis-who-finds/
+  pub_date: '2026-01-05T11:36:32'
+  source: Circular Online
+  title: Poorly managed solid waste is driving a ‘public health crisis’, WHO finds
+- category: circular
+  description: Sebastian Munden, Chair of the global board of trustees for the climate
+    action NGO WRAP, has been awarded a CBE in the King's New Year Honours. The post
+    WRAP Chair Sebastian Munden awarded CBE in New ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wrap-chair-sebastian-munden-awarded-cbe-in-new-year-honours/
+  pub_date: '2026-01-05T10:44:55'
+  source: Circular Online
+  title: WRAP Chair Sebastian Munden awarded CBE in New Year Honours
+- category: supply-chain
   description: One year into congestion pricing, New York City is seeing fewer cars,
     faster trips, and cleaner air inside Manhattan.
   icon: fa-box
   link: https://www.supplychain247.com/article/nyc-congestion-pricing-one-year-results
   pub_date: '2026-01-02T15:07:00'
   source: Supply Chain 24/7
-  title: After One Year, NYC Congestion Pricing Is Delivering Measurable Results
+  title: After One Year, NYC Congestion Pricing Is Delivering Strong Results
 - category: supply-chain
   description: A $400,000 lobster shipment meant for Costco was stolen by criminals
     posing as a real trucking company, highlighting the growing risk of organized
@@ -48,14 +100,6 @@ articles:
   pub_date: '2025-12-26T13:53:00'
   source: Supply Chain 24/7
   title: Why Trust Is Starting to Matter as Much as Speed in Supply Chains
-- category: supply-chain
-  description: Colorado has become the latest state flagged by DOT as a nationwide
-    audit uncovers widespread issues with non-domiciled commercial driver's licenses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/colorado-joins-new-york-california-as-dot-expands-crackdown
-  pub_date: '2025-12-26T13:50:00'
-  source: Supply Chain 24/7
-  title: Colorado Joins New York, California as DOT Expands CDL Crackdown
 - category: circular
   description: The European Union is planning stricter controls on plastic imports...
     The post EU plans tighter checks on plastic imports to support recycling industry
@@ -65,30 +109,6 @@ articles:
   pub_date: '2025-12-24T09:14:36'
   source: Circular Online
   title: EU plans tighter checks on plastic imports to support recycling industry
-- category: supply-chain
-  description: The Dignity Act could make EB-3 visas a more practical hiring option
-    for warehouses and logistics providers facing ongoing labor shortages.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dignity-act-supply-chain-labor-eb3-visas
-  pub_date: '2025-12-23T14:58:00'
-  source: Supply Chain 24/7
-  title: The Dignity Act Could Ease Labor Shortages Across Supply Chains
-- category: supply-chain
-  description: Totes and containers are being redesigned to support automation, tighter
-    space, and faster warehouse operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/six-trends-shaping-next-generation-totes-containers
-  pub_date: '2025-12-23T14:07:00'
-  source: Supply Chain 24/7
-  title: Six Trends Shaping the Next Generation of Totes and Containers
-- category: supply-chain
-  description: A look back at the 10 logistics and supply chain stories that best
-    captured the biggest shifts and challenges of 2025.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-10-logistics-stories-2025
-  pub_date: '2025-12-23T12:44:00'
-  source: Supply Chain 24/7
-  title: Top 10 Logistics Stories That Defined 2025
 - category: circular
   description: Scientists say a new chemical recycling method could convert everyday
     plastic waste into key ingredients used in cancer medicines, potentially reducing
@@ -154,23 +174,4 @@ articles:
   source: Circular Online
   title: Salvation Army Trading Company halts textile collections at HWRCs amid market
     pressures
-- category: circular
-  description: The European Parliament has approved an agreement with member states
-    to narrow the scope of EU sustainability reporting and supply-chain due diligence
-    rules. The post MEPs back scaling back of EU sust...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/meps-back-scaling-back-of-eu-sustainability-reporting-and-due-diligence-rules/
-  pub_date: '2025-12-17T08:00:00'
-  source: Circular Online
-  title: MEPs back scaling back of EU sustainability reporting and due diligence rules
-- category: circular
-  description: The chair of the House of Lords Environment and Climate Change Committee
-    has written to the environment secretary expressing "deep disappointment" at the
-    government's response to its waste-crime inqui...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/lords-write-to-environment-secretary-over-complacent-response-to-waste-crime-inquiry/
-  pub_date: '2025-12-16T08:57:16'
-  source: Circular Online
-  title: Lords write to environment secretary over “complacent” response to waste
-    crime inquiry
-last_updated: '2026-01-05T06:39:51.742879'
+last_updated: '2026-01-06T06:36:01.376929'
