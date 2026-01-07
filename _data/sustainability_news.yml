@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: Cargo theft has become a sophisticated, nationwide threat, and supply
+    chains must move from reacting after losses to preventing theft in real time.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-cargo-theft-is-reshaping-supply-chains
+  pub_date: '2026-01-06T17:42:00'
+  source: Supply Chain 24/7
+  title: 'Cargo Theft’s New Playbook: Fake Carriers, Fraud, and Stolen Freight'
+- category: supply-chain
+  description: An appeals court rejected Amazon's bid to pause a labor case involving
+    delivery drivers, keeping a key NLRB dispute tied to its DSP network moving forward.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-appeals-court-loss-dsp-labor-case
+  pub_date: '2026-01-06T17:32:00'
+  source: Supply Chain 24/7
+  title: Court Ruling Allows Labor Case Against Amazon to Move Forward
+- category: supply-chain
+  description: Stord has bought Shipwire from CEVA Logistics, adding 12 fulfillment
+    sites, new tech teams, and broader global access for its customers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/stord-acquires-shipwire-from-ceva-logistics-expands-fulfillment
+  pub_date: '2026-01-06T14:47:00'
+  source: Supply Chain 24/7
+  title: Stord Completes Deal to  Acquire Shipwire From CEVA Logistics
+- category: supply-chain
+  description: Manufacturing contracted for the 10th straight month in December, with
+    ISM data pointing to ongoing pressure from weak demand, tariffs, and reduced investment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ism-manufacturing-pmi-december-contraction
+  pub_date: '2026-01-06T11:40:00'
+  source: Supply Chain 24/7
+  title: Manufacturing Remains in Contraction for 10th Straight Month
+- category: circular
+  description: Two men have been given suspended prison sentences for operating a
+    large-scale illegal waste site in Lincolnshire. The post Suspended prison sentences
+    for men who ran illegal waste site appeared first...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/suspended-prison-sentences-for-men-who-ran-illegal-waste-site/
+  pub_date: '2026-01-06T09:28:12'
+  source: Circular Online
+  title: Suspended prison sentences for men who ran illegal waste site
+- category: supply-chain
   description: A new Locus survey shows that while fast delivery is now expected,
     reliability, clear communication, and accurate delivery promises matter most to
     today's shoppers.
@@ -68,38 +109,6 @@ articles:
   pub_date: '2026-01-02T13:38:00'
   source: Supply Chain 24/7
   title: 'Lobster Heist: $400,000 Shipment Stolen on Way to Costco'
-- category: supply-chain
-  description: Wearable technology is becoming a practical, everyday tool in warehouses,
-    helping workers move faster, stay accurate, and keep their hands free.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-wearables-best-practices
-  pub_date: '2026-01-02T13:34:00'
-  source: Supply Chain 24/7
-  title: How Wearables Are Becoming Part of Everyday Warehouse Operations
-- category: supply-chain
-  description: These are our 10 favorite Supply Chain 24/7 stories from 2025, picked
-    for usefulness, insight, and staying power.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/our-10-favorite-stories-of-2025
-  pub_date: '2025-12-26T14:09:00'
-  source: Supply Chain 24/7
-  title: Our 10 Favorite Supply Chain 24/7 Stories of 2025
-- category: supply-chain
-  description: CBP says it has collected more than $1 billion in duties since shutting
-    down the de minimis shipping loophole earlier this year.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cbp-collects-1-billion-after-de-minimis-exemption-ends
-  pub_date: '2025-12-26T13:57:00'
-  source: Supply Chain 24/7
-  title: De Minimis Phaseout Delivers $1 Billion in Recovered Import Revenue
-- category: supply-chain
-  description: A new CleanStart report reveals supply chains are learning that speed
-    still matters, but trust now matters just as much.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-trust-is-replacing-speed-in-supply-chains
-  pub_date: '2025-12-26T13:53:00'
-  source: Supply Chain 24/7
-  title: Why Trust Is Starting to Matter as Much as Speed in Supply Chains
 - category: circular
   description: The European Union is planning stricter controls on plastic imports...
     The post EU plans tighter checks on plastic imports to support recycling industry
@@ -164,14 +173,4 @@ articles:
   pub_date: '2025-12-17T08:00:00'
   source: Circular Online
   title: University secures £44,000 grant to study barriers to paper cup recycling
-- category: circular
-  description: The Salvation Army Trading Company has suspended the collection of
-    donated textiles from household waste and recycling centres, citing rising donation
-    volumes, increasing costs and wider economic pres...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/salvation-army-trading-company-halts-textile-collections-at-hwrcs-amid-market-pressures/
-  pub_date: '2025-12-17T08:00:00'
-  source: Circular Online
-  title: Salvation Army Trading Company halts textile collections at HWRCs amid market
-    pressures
-last_updated: '2026-01-06T06:36:01.376929'
+last_updated: '2026-01-07T06:35:23.409934'

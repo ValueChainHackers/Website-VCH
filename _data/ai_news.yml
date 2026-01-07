@@ -1,4 +1,39 @@
 articles:
+- category: machine-learning
+  description: 'Choosing a cloud services provider can feel a lot like dating: every
+    vendor promises reliability, security, and support, but only a few truly live
+    up to it. The wrong choice can lead to costly downtim...'
+  icon: fa-chart-bar
+  link: https://bit.ly/4q97Tmv
+  pub_date: '2026-01-06T21:06:22'
+  source: KDnuggets
+  title: What To Look For In A Cloud Services Provider (Sponsored)
+- category: machine-learning
+  description: In this article, we retroactively analyze what I would consider the
+    ten most consequential, broadly impactful AI storylines of 2025, and gain insight
+    into where the field is going in 2026.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-10-ai-developments-that-defined-2025
+  pub_date: '2026-01-06T17:00:27'
+  source: KDnuggets
+  title: The 10 AI Developments That Defined 2025
+- category: machine-learning
+  description: Build ML web apps in minutes with Gradio's Python framework. Create
+    interactive demos for models with text, image, or audio inputs with no frontend
+    skills needed. Deploy and share instantly.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-kdnuggets-gradio-crash-course
+  pub_date: '2026-01-06T15:00:02'
+  source: KDnuggets
+  title: The KDnuggets Gradio Crash Course
+- category: machine-learning
+  description: Building data pipelines? These Python ETL tools will make your life
+    easier.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-python-etl-tools-for-data-engineering
+  pub_date: '2026-01-06T13:00:57'
+  source: KDnuggets
+  title: Top 7 Python ETL Tools for Data Engineering
 - category: ai-research
   description: New research demonstrates how AI models can be tested to ensure they
     don't cause harm by revealing anonymized patient health data.
@@ -73,23 +108,6 @@ articles:
   pub_date: '2025-12-29T13:00:21'
   source: KDnuggets
   title: The Best Agentic AI Browsers to Look For in 2026
-- category: machine-learning
-  description: Learn Docker by doing with five beginner-friendly projects covering
-    hosting, multi-container apps, CI, and monitoring.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-fun-docker-projects-for-absolute-beginners
-  pub_date: '2025-12-26T13:00:49'
-  source: KDnuggets
-  title: 5 Fun Docker Projects for Absolute Beginners
-- category: machine-learning
-  description: Best OCR and vision language models you can run locally that transform
-    documents, tables, and diagrams into flawless markdown copies with benchmark-crushing
-    accuracy.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-open-source-ocr-models
-  pub_date: '2025-12-24T13:00:41'
-  source: KDnuggets
-  title: Top 7 Open Source OCR Models
 - category: ai-research
   description: The image depicts a visual collage or mosaic of multiple different
     images, with one image in the center that is black and displays the text "Gemini
@@ -99,22 +117,6 @@ articles:
   pub_date: '2025-12-23T17:00:00'
   source: Google AI Blog
   title: 'Google''s year in review: 8 areas with research breakthroughs in 2025'
-- category: machine-learning
-  description: How can we reason with uncertainty and make smarter decisions from
-    data? This article explains the key probability ideas in data science.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/probability-concepts-youll-actually-use-in-data-science
-  pub_date: '2025-12-23T15:00:36'
-  source: KDnuggets
-  title: Probability Concepts You’ll Actually Use in Data Science
-- category: machine-learning
-  description: Looking ahead to 2026, the most impactful trends are not flashy frameworks
-    but structural changes in how data pipelines are designed, owned, and operated.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-emerging-trends-in-data-engineering-for-2026
-  pub_date: '2025-12-23T13:00:52'
-  source: KDnuggets
-  title: 5 Emerging Trends in Data Engineering for 2026
 - category: ai-research
   description: MIT community members made headlines with key research advances and
     their efforts to tackle pressing challenges.
@@ -247,4 +249,4 @@ articles:
   pub_date: '2025-12-15T10:00:00'
   source: MIT AI News
   title: Deep-learning model predicts how fruit flies form, cell by cell
-last_updated: '2026-01-06T06:36:02.319038'
+last_updated: '2026-01-07T06:35:24.550327'
