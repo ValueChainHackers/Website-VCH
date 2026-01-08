@@ -1,5 +1,66 @@
 articles:
 - category: supply-chain
+  description: DHL is expanding its U.S. health care logistics footprint with a huge
+    new Pennsylvania distribution center and the full integration of SDS Rx's delivery
+    network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-supply-chain-opens-giant-health-care-hub-in-pennsylvania
+  pub_date: '2026-01-08T00:49:00'
+  source: Supply Chain 24/7
+  title: DHL Supply Chain Opens Giant Health Care Hub in Pennsylvania
+- category: supply-chain
+  description: From economics to AI and warehouse robotics, Jackie Wu shares the journey
+    behind Corvus Robotics and why values and resilience still matter most.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-jackie-wu-corvus-robotics
+  pub_date: '2026-01-07T17:02:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Jackie Wu of Corvus Robotics'
+- category: supply-chain
+  description: Retailers are bringing inventory closer to customers, but many are
+    discovering that localization creates new customs, compliance, and coordination
+    challenges.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-retailers-are-rethinking-inventory-localization
+  pub_date: '2026-01-07T14:06:00'
+  source: Supply Chain 24/7
+  title: The Hidden Tradeoffs Of Bringing Inventory Closer To Customers
+- category: supply-chain
+  description: PepsiCo is using AI and digital twins to test plant and warehouse changes
+    virtually, helping improve throughput and cut costs before making physical investments.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/pepsico-uses-digital-twins-to-test-plant-and-warehouse-changes
+  pub_date: '2026-01-07T14:02:00'
+  source: Supply Chain 24/7
+  title: PepsiCo Turns To Digital Twins To Rethink Plants And Warehouses
+- category: supply-chain
+  description: USPS is tightening its trucking partner rules as federal efforts to
+    strengthen CDL standards gain momentum and volume trends shift.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-trucking-cdl-safety-updates
+  pub_date: '2026-01-07T12:29:00'
+  source: Supply Chain 24/7
+  title: USPS Joins Federal Crackdown on Unvetted Truck Drivers
+- category: circular
+  description: The Environment Agency will begin work to clear a 20,000-tonne illegal
+    waste site next to the River Cherwell in February, the UK Government has said.
+    The post 20,000 tonne Kidlington waste dump cleara...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/20000-tonne-kidlington-waste-dump-clearance-to-begin-in-february/
+  pub_date: '2026-01-07T09:11:23'
+  source: Circular Online
+  title: 20,000 tonne Kidlington waste dump clearance to ‘begin in February’
+- category: supply-chain
+  description: Discover how AI is transforming logistics and transportation management
+    in the Transportation Pulse Report 2026. Based on over 230 industry responses,
+    this report reveals AI adoption trends, real use ...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-in-logistics-transportation-pulse-report-2026-insights-on-ai-adoption-future-trends
+  pub_date: '2026-01-06T19:18:00'
+  source: Supply Chain 24/7
+  title: 'AI in Logistics: Transportation Pulse Report 2026 Insights on AI Adoption
+    & Future Trends'
+- category: supply-chain
   description: Cargo theft has become a sophisticated, nationwide threat, and supply
     chains must move from reacting after losses to preventing theft in real time.
   icon: fa-box
@@ -40,40 +101,6 @@ articles:
   pub_date: '2026-01-06T09:28:12'
   source: Circular Online
   title: Suspended prison sentences for men who ran illegal waste site
-- category: supply-chain
-  description: A new Locus survey shows that while fast delivery is now expected,
-    reliability, clear communication, and accurate delivery promises matter most to
-    today's shoppers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/new-locus-survey-delivery-expectations-reliability
-  pub_date: '2026-01-05T15:38:00'
-  source: Supply Chain 24/7
-  title: Delivery Reliability Now Matters as Much as Speed, Survey Finds
-- category: supply-chain
-  description: A look at the behind-the-scenes supply chain process that determines
-    whether returned items are resold, discounted, or discarded.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-101-what-happens-after-item-returned
-  pub_date: '2026-01-05T14:21:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain 101: What Actually Happens After an Item Is Returned'
-- category: supply-chain
-  description: CMA CGM is launching a new ocean service in February connecting the
-    U.S. East Coast with Australia and New Zealand through a space charter agreement
-    with Maersk.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cma-cgm-launches-us-east-coast-oceania-kea-service
-  pub_date: '2026-01-05T13:20:00'
-  source: Supply Chain 24/7
-  title: CMA CGM’s New Service Connects U.S. East Coast With Australia
-- category: supply-chain
-  description: DOT is enforcing English language proficiency rules for cross-border
-    train crews after inspectors flagged safety concerns during rail inspections.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dot-enforces-english-rules-cross-border-rail-crews
-  pub_date: '2026-01-05T13:16:00'
-  source: Supply Chain 24/7
-  title: DOT Cracks Down on English Rules for Train Crews Operating in U.S.
 - category: circular
   description: The World Health Organisation (WHO) has found that poorly managed solid
     waste is driving a 'public health crisis'. The post Poorly managed solid waste
@@ -92,23 +119,6 @@ articles:
   pub_date: '2026-01-05T10:44:55'
   source: Circular Online
   title: WRAP Chair Sebastian Munden awarded CBE in New Year Honours
-- category: supply-chain
-  description: One year into congestion pricing, New York City is seeing fewer cars,
-    faster trips, and cleaner air inside Manhattan.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nyc-congestion-pricing-one-year-results
-  pub_date: '2026-01-02T15:07:00'
-  source: Supply Chain 24/7
-  title: After One Year, NYC Congestion Pricing Is Delivering Strong Results
-- category: supply-chain
-  description: A $400,000 lobster shipment meant for Costco was stolen by criminals
-    posing as a real trucking company, highlighting the growing risk of organized
-    cargo theft.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/400k-lobster-cargo-theft
-  pub_date: '2026-01-02T13:38:00'
-  source: Supply Chain 24/7
-  title: 'Lobster Heist: $400,000 Shipment Stolen on Way to Costco'
 - category: circular
   description: The European Union is planning stricter controls on plastic imports...
     The post EU plans tighter checks on plastic imports to support recycling industry
@@ -164,13 +174,4 @@ articles:
   pub_date: '2025-12-22T09:15:47'
   source: Circular Online
   title: Bin contamination fines cost Coventry City Council £900,000
-- category: circular
-  description: University College London has been awarded more than GBP44,000 through
-    the National Cup Recycling Scheme's Beyond the Bin fund to investigate why paper
-    cups continue to be missed by mainstream recycli...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/university-secures-44000-grant-to-study-barriers-to-paper-cup-recycling/
-  pub_date: '2025-12-17T08:00:00'
-  source: Circular Online
-  title: University secures £44,000 grant to study barriers to paper cup recycling
-last_updated: '2026-01-07T06:35:23.409934'
+last_updated: '2026-01-08T06:35:52.826592'

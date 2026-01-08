@@ -1,4 +1,38 @@
 articles:
+- category: ai-research
+  description: Recent launch event for the center featured discussions on pro-worker
+    AI, wealth inequality, and the future of liberal democracy.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/stone-center-inequality-shaping-future-work-launches-0107
+  pub_date: '2026-01-07T20:30:00'
+  source: MIT AI News
+  title: Stone Center on Inequality and Shaping the Future of Work Launches at MIT
+- category: machine-learning
+  description: This is an "expectations vs reality" approach to demystify, based on
+    research of real success and failure stories, what are the capabilities and limits
+    of vibe coding.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/vibe-code-reality-check-what-you-can-actually-build-with-only-ai
+  pub_date: '2026-01-07T17:00:36'
+  source: KDnuggets
+  title: 'Vibe Code Reality Check: What You Can Actually Build with Only AI'
+- category: machine-learning
+  description: Although data science and AI engineering share tools and terminology,
+    they are not interchangeable careers. This article explains how the work, goals,
+    and impact of each role differ so you can choose ...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/data-scientist-vs-ai-engineer-which-career-should-you-choose-in-2026
+  pub_date: '2026-01-07T15:00:59'
+  source: KDnuggets
+  title: 'Data Scientist vs AI Engineer: Which Career Should You Choose in 2026?'
+- category: machine-learning
+  description: A list of ready to use n8n workflow templates that help data scientists
+    quickly analyze data, extract and transform it, and build reliable knowledge bases.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-n8n-workflow-templates-for-data-science
+  pub_date: '2026-01-07T13:00:39'
+  source: KDnuggets
+  title: Top 7 n8n Workflow Templates for Data Science
 - category: machine-learning
   description: 'Choosing a cloud services provider can feel a lot like dating: every
     vendor promises reliability, security, and support, but only a few truly live
@@ -74,49 +108,6 @@ articles:
   pub_date: '2026-01-05T13:00:56'
   source: KDnuggets
   title: 6 Docker Tricks to Simplify Your Data Science Reproducibility
-- category: machine-learning
-  description: Want to level up your data science toolkit? Here are some Python libraries
-    that'll make your work easier.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-lesser-known-python-libraries-every-data-scientist-should-be-using-in-2026
-  pub_date: '2025-12-31T13:00:57'
-  source: KDnuggets
-  title: 10 Lesser-Known Python Libraries Every Data Scientist Should Be Using in
-    2026
-- category: machine-learning
-  description: Make extra money between classes with beginner-friendly freelance platforms
-    that fit your lifestyle.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-high-paying-side-hustles-for-students
-  pub_date: '2025-12-30T13:21:41'
-  source: KDnuggets
-  title: 7 High Paying Side Hustles for Students
-- category: ai-research
-  description: 'Three application preview cards: AI chess interface, Gemini 3 Flash
-    logo, Google search bar.'
-  icon: fa-google
-  link: https://blog.google/technology/ai/google-ai-updates-december-2025/
-  pub_date: '2025-12-29T18:15:00'
-  source: Google AI Blog
-  title: The latest AI news we announced in December
-- category: machine-learning
-  description: A quick look at the top 7 agentic AI browsers that can search the web
-    for you, fill forms automatically, handle research, draft content, and streamline
-    your entire workflow.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026
-  pub_date: '2025-12-29T13:00:21'
-  source: KDnuggets
-  title: The Best Agentic AI Browsers to Look For in 2026
-- category: ai-research
-  description: The image depicts a visual collage or mosaic of multiple different
-    images, with one image in the center that is black and displays the text "Gemini
-    3".
-  icon: fa-google
-  link: https://blog.google/technology/ai/2025-research-breakthroughs/
-  pub_date: '2025-12-23T17:00:00'
-  source: Google AI Blog
-  title: 'Google''s year in review: 8 areas with research breakthroughs in 2025'
 - category: ai-research
   description: MIT community members made headlines with key research advances and
     their efforts to tackle pressing challenges.
@@ -126,30 +117,6 @@ articles:
   source: MIT AI News
   title: 'MIT in the media: 2025 in review'
 - category: ai-research
-  description: A translucent blue rectangle lies against a black background with blue
-    dots and lines. Within the rectangle is text saying 2025, along with a grid of
-    12 images, each representing a big Google AI momen...
-  icon: fa-google
-  link: https://blog.google/technology/ai/google-ai-news-recap-2025/
-  pub_date: '2025-12-22T17:00:00'
-  source: Google AI Blog
-  title: 60 of our biggest AI announcements in 2025
-- category: ai-research
-  description: The image is a dark-themed illustration depicting three people interacting
-    with technology, surrounded by various product icons.
-  icon: fa-google
-  link: https://blog.google/technology/ai/ai-tips-2025/
-  pub_date: '2025-12-19T16:00:00'
-  source: Google AI Blog
-  title: 40 of our most helpful AI tips from 2025
-- category: ai-research
-  description: AI agent trends report 2026 graphic
-  icon: fa-google
-  link: https://blog.google/products/google-cloud/ai-business-trends-report-2026/
-  pub_date: '2025-12-19T14:00:00'
-  source: Google AI Blog
-  title: 5 ways AI agents will transform the way we work in 2026
-- category: ai-research
   description: CSAIL researchers find even "untrainable" neural nets can learn effectively
     when guided by another network's built-in biases using their guidance method.
   icon: fa-graduation-cap
@@ -157,23 +124,6 @@ articles:
   pub_date: '2025-12-18T21:20:00'
   source: MIT AI News
   title: Guided learning lets “untrainable” neural networks realize their potential
-- category: ai-research
-  description: We're expanding our content transparency tools to help you more easily
-    identify AI-generated content. You can now check if a video was edited or created
-    with Google AI d...
-  icon: fa-google
-  link: https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/
-  pub_date: '2025-12-18T17:00:00'
-  source: Google AI Blog
-  title: You can now verify Google AI-generated videos in the Gemini app.
-- category: ai-research
-  description: Illustration of a developer participating in the Kaggle AI Agents Intensive,
-    sitting with their laptop with Kaggle and Google logos.
-  icon: fa-google
-  link: https://blog.google/technology/developers/ai-agents-intensive-recap/
-  pub_date: '2025-12-18T16:00:00'
-  source: Google AI Blog
-  title: Inside Kaggle's AI Agents intensive course with Google
 - category: ai-research
   description: MIT-IBM Watson AI Lab researchers developed an expressive architecture
     that provides better state tracking and sequential reasoning in LLMs over long
@@ -184,14 +134,6 @@ articles:
   source: MIT AI News
   title: A new way to increase the capabilities of large language models
 - category: ai-research
-  description: Learn how Gemini 3 powers Google Search with Generative UI, Nano Banana,
-    and interactive graphics.
-  icon: fa-google
-  link: https://blog.google/technology/ai/release-notes-podcast-search/
-  pub_date: '2025-12-18T00:00:00'
-  source: Google AI Blog
-  title: Watch a podcast discussion about Gemini 3 and the future of Search.
-- category: ai-research
   description: The AI-powered tool could inform the design of better sensors and cameras
     for robots or autonomous vehicles.
   icon: fa-graduation-cap
@@ -199,13 +141,6 @@ articles:
   pub_date: '2025-12-17T19:00:00'
   source: MIT AI News
   title: A “scientific sandbox” lets researchers explore the evolution of vision systems
-- category: ai-research
-  description: Gemini 3 Flash text
-  icon: fa-google
-  link: https://blog.google/products/gemini/gemini-3-flash/
-  pub_date: '2025-12-17T16:00:00'
-  source: Google AI Blog
-  title: 'Gemini 3 Flash: frontier intelligence built for speed'
 - category: ai-research
   description: An AI-driven system lets users design and build simple, multicomponent
     objects by describing them with words.
@@ -232,21 +167,4 @@ articles:
   pub_date: '2025-12-15T21:00:00'
   source: MIT AI News
   title: Working to eliminate barriers to adopting nuclear energy
-- category: ai-research
-  description: We're sharing a practical playbook to help organizations streamline
-    and enhance sustainability reporting with AI.Corporate transparency is essential,
-    but navigating frag...
-  icon: fa-google
-  link: https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/
-  pub_date: '2025-12-15T17:00:00'
-  source: Google AI Blog
-  title: We’re publishing an AI playbook to help others with sustainability reporting.
-- category: ai-research
-  description: The approach could apply to more complex tissues and organs, helping
-    researchers to identify early signs of disease.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/deep-learning-model-predicts-how-fruit-flies-form-1215
-  pub_date: '2025-12-15T10:00:00'
-  source: MIT AI News
-  title: Deep-learning model predicts how fruit flies form, cell by cell
-last_updated: '2026-01-07T06:35:24.550327'
+last_updated: '2026-01-08T06:35:54.269568'
