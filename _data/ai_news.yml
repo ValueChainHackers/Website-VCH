@@ -1,5 +1,38 @@
 articles:
 - category: ai-research
+  description: While the growing energy demands of AI are worrying, some techniques
+    can also help make power grids cleaner and more efficient.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109
+  pub_date: '2026-01-09T05:00:00'
+  source: MIT AI News
+  title: '3 Questions: How AI could optimize the power grid'
+- category: ai-research
+  description: With the help of AI, MIT Research Scientist Judah Cohen is reshaping
+    subseasonal forecasting, with the goal of extending the lead time for predicting
+    impactful weather.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/decoding-arctic-to-predict-winter-weather-0108
+  pub_date: '2026-01-08T21:55:00'
+  source: MIT AI News
+  title: Decoding the Arctic to predict winter weather
+- category: machine-learning
+  description: The ultimate goal is to run these automations on a single workstation
+    or small server, replacing fragile scripts and expensive API-based systems.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/powerful-local-ai-automations-with-n8n-mcp-and-ollama
+  pub_date: '2026-01-08T15:00:43'
+  source: KDnuggets
+  title: Powerful Local AI Automations with n8n, MCP and Ollama
+- category: machine-learning
+  description: The most popular GitHub repositories to help you learn AI, from fundamentals
+    and math to LLMs, agents, computer vision, and real-world production systems.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai
+  pub_date: '2026-01-08T13:00:02'
+  source: KDnuggets
+  title: 10 Most Popular GitHub Repositories for Learning AI
+- category: ai-research
   description: Recent launch event for the center featured discussions on pro-worker
     AI, wealth inequality, and the future of liberal democracy.
   icon: fa-graduation-cap
@@ -91,23 +124,6 @@ articles:
   pub_date: '2026-01-05T18:47:53'
   source: KDnuggets
   title: I Asked ChatGPT, Claude and DeepSeek to Build Tetris
-- category: machine-learning
-  description: Long-running LLM applications degrade when context is unmanaged. Context
-    engineering turns the context window into a deliberate, optimized resource. Learn
-    more in this article.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/context-engineering-explained-in-3-levels-of-difficulty
-  pub_date: '2026-01-05T15:00:54'
-  source: KDnuggets
-  title: Context Engineering Explained in 3 Levels of Difficulty
-- category: machine-learning
-  description: Read these 6 tricks for treating your Docker container like a reproducible
-    artifact, not a disposable wrapper.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/6-docker-tricks-to-simplify-your-data-science-reproducibility
-  pub_date: '2026-01-05T13:00:56'
-  source: KDnuggets
-  title: 6 Docker Tricks to Simplify Your Data Science Reproducibility
 - category: ai-research
   description: MIT community members made headlines with key research advances and
     their efforts to tackle pressing challenges.
@@ -150,21 +166,81 @@ articles:
   source: MIT AI News
   title: “Robot, make me a chair”
 - category: ai-research
-  description: Assistant Professor Yunha Hwang utilizes microbial genomes to examine
-    the language of biology. Her appointment reflects MIT's commitment to exploring
-    the intersection of genetics research and AI.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/3-questions-yunha-hwang-using-computation-study-worlds-best-single-celled-chemists-1215
-  pub_date: '2025-12-15T22:15:00'
-  source: MIT AI News
-  title: '3 Questions: Using computation to study the world’s best single-celled chemists'
+  description: Learn more about Google's launches, milestones and more from 2025.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/look-back-2025/
+  pub_date: '2025-12-09T16:00:00'
+  source: Google AI Blog
+  title: 2025 at Google
 - category: ai-research
-  description: Nuclear waste continues to be a bottleneck in the widespread use of
-    nuclear energy, so doctoral student Dauren Sarsenbayev is developing models to
-    address the problem.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/dauren-sarsenbayev-working-to-eliminate-barriers-adopting-nuclear-energy-1215
-  pub_date: '2025-12-15T21:00:00'
-  source: MIT AI News
-  title: Working to eliminate barriers to adopting nuclear energy
-last_updated: '2026-01-08T06:35:54.269568'
+  description: Learn more about using Google products like Gemini, Search, Shopping,
+    Pixel and more over the holidays.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/
+  pub_date: '2025-11-25T18:00:00'
+  source: Google AI Blog
+  title: The Google guide for holiday help
+- category: ai-research
+  description: Google's deep investments in American technical infrastructure, R&D
+    and the workforce will help the U.S. continue to lead the world in AI.
+  icon: fa-google
+  link: https://blog.google/company-news/inside-google/company-announcements/investing-in-america-2025/
+  pub_date: '2025-11-17T20:00:00'
+  source: Google AI Blog
+  title: Investing in America 2025
+- category: ai-research
+  description: We're doing cutting-edge research to build the most helpful AI that's
+    more intelligent, agentic and personalized.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2025-collection/
+  pub_date: '2025-05-20T17:45:00'
+  source: Google AI Blog
+  title: I/O 2025
+- category: ai-research
+  description: Here's a look at what we announced at Google Cloud Next 25.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2025/
+  pub_date: '2025-04-09T12:00:00'
+  source: Google AI Blog
+  title: Google Cloud Next 25
+- category: ai-research
+  description: At The Check Up 2025, we shared more about the potential of AI in health
+    and our latest health AI research, partnership and product updates.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/
+  pub_date: '2025-03-18T13:00:00'
+  source: Google AI Blog
+  title: The Check Up with Google
+- category: ai-research
+  description: Learn more about the latest Pixel and Android updates, featuring the
+    latest in Google AI innovation.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/devices/pixel/pixel-android-ai-updates-december-2024/
+  pub_date: '2024-12-05T17:00:00'
+  source: Google AI Blog
+  title: New AI features and more for Android and Pixel
+- category: ai-research
+  description: Google DeepMind and the Royal Society are co-hosting the AI for Science
+    Forum to explore how AI is rapidly accelerating science.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/ai-science-forum-2024/
+  pub_date: '2024-11-18T17:00:00'
+  source: Google AI Blog
+  title: 'The AI for Science Forum: A new era of discovery'
+- category: ai-research
+  description: Explore our collection looking back on some of our biggest moments
+    and milestones from 2023.
+  icon: fa-google
+  link: https://blog.google/company-news/inside-google/google-2023-recaps-highlights/
+  pub_date: '2023-12-20T17:00:00'
+  source: Google AI Blog
+  title: 2023 at Google
+- category: ai-research
+  description: Explore our collection to find out more about Gemini, the most capable
+    and general model we've ever built.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/gemini-collection/
+  pub_date: '2023-12-06T15:15:00'
+  source: Google AI Blog
+  title: Learn more about Gemini, our most capable AI model
+last_updated: '2026-01-09T06:35:28.801743'

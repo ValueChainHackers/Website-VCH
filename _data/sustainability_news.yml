@@ -1,13 +1,46 @@
 articles:
 - category: supply-chain
+  description: Boston Dynamics and Hyundai are preparing the Atlas humanoid robot
+    for real factory and supply chain work, with deployments targeted for 2028.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/boston-dynamics-atlas-robot-factory-supply-chain
+  pub_date: '2026-01-08T15:58:00'
+  source: Supply Chain 24/7
+  title: Boston Dynamics and Hyundai Move Humanoid Robot to Factory Floor
+- category: supply-chain
+  description: A bipartisan bill would require regular federal reviews of the U.S.
+    electric supply chain to identify risks before they disrupt the power grid.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/electric-supply-chain-act-congress-review-power-grid
+  pub_date: '2026-01-08T15:26:00'
+  source: Supply Chain 24/7
+  title: Lawmakers Push For Regular Reviews of the U.S. Electric Supply Chain
+- category: supply-chain
+  description: A timeline of the Union Pacific-Norfolk Southern merger, from the initial
+    deal to the latest regulatory decisions ahead.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/union-pacific-norfolk-southern-merger-timeline
+  pub_date: '2026-01-08T15:11:00'
+  source: Supply Chain 24/7
+  title: 'Timeline: Tracking the Union Pacific–Norfolk Southern Merger'
+- category: supply-chain
   description: DHL is expanding its U.S. health care logistics footprint with a huge
     new Pennsylvania distribution center and the full integration of SDS Rx's delivery
     network.
   icon: fa-box
   link: https://www.supplychain247.com/article/dhl-supply-chain-opens-giant-health-care-hub-in-pennsylvania
-  pub_date: '2026-01-08T00:49:00'
+  pub_date: '2026-01-08T12:11:00'
   source: Supply Chain 24/7
   title: DHL Supply Chain Opens Giant Health Care Hub in Pennsylvania
+- category: circular
+  description: The economic cost of food waste across the global supply chain is forecast
+    to reach $540 billion by 2026, according to new research. The post Food waste
+    forecast to cost businesses $540 billion in 202...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/food-waste-forecast-to-cost-businesses-540-billion-in-2026/
+  pub_date: '2026-01-08T08:00:00'
+  source: Circular Online
+  title: Food waste forecast to cost businesses $540 billion in 2026
 - category: supply-chain
   description: From economics to AI and warehouse robotics, Jackie Wu shares the journey
     behind Corvus Robotics and why values and resilience still matter most.
@@ -16,6 +49,16 @@ articles:
   pub_date: '2026-01-07T17:02:00'
   source: Supply Chain 24/7
   title: 'Leadership Lessons: Jackie Wu of Corvus Robotics'
+- category: supply-chain
+  description: Learn what LTL General Rate Increases (GRIs) are, why carriers raise
+    rates, and how shippers can control freight costs with smarter transportation
+    management.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ltl-general-rate-increases-explained-what-shippers-need-to-know-how-to-manage-costs
+  pub_date: '2026-01-07T16:59:00'
+  source: Supply Chain 24/7
+  title: 'LTL General Rate Increases Explained: What Shippers Need to Know & How to
+    Manage Costs'
 - category: supply-chain
   description: Retailers are bringing inventory closer to customers, but many are
     discovering that localization creates new customs, compliance, and coordination
@@ -60,38 +103,6 @@ articles:
   source: Supply Chain 24/7
   title: 'AI in Logistics: Transportation Pulse Report 2026 Insights on AI Adoption
     & Future Trends'
-- category: supply-chain
-  description: Cargo theft has become a sophisticated, nationwide threat, and supply
-    chains must move from reacting after losses to preventing theft in real time.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-cargo-theft-is-reshaping-supply-chains
-  pub_date: '2026-01-06T17:42:00'
-  source: Supply Chain 24/7
-  title: 'Cargo Theft’s New Playbook: Fake Carriers, Fraud, and Stolen Freight'
-- category: supply-chain
-  description: An appeals court rejected Amazon's bid to pause a labor case involving
-    delivery drivers, keeping a key NLRB dispute tied to its DSP network moving forward.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-appeals-court-loss-dsp-labor-case
-  pub_date: '2026-01-06T17:32:00'
-  source: Supply Chain 24/7
-  title: Court Ruling Allows Labor Case Against Amazon to Move Forward
-- category: supply-chain
-  description: Stord has bought Shipwire from CEVA Logistics, adding 12 fulfillment
-    sites, new tech teams, and broader global access for its customers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/stord-acquires-shipwire-from-ceva-logistics-expands-fulfillment
-  pub_date: '2026-01-06T14:47:00'
-  source: Supply Chain 24/7
-  title: Stord Completes Deal to  Acquire Shipwire From CEVA Logistics
-- category: supply-chain
-  description: Manufacturing contracted for the 10th straight month in December, with
-    ISM data pointing to ongoing pressure from weak demand, tariffs, and reduced investment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ism-manufacturing-pmi-december-contraction
-  pub_date: '2026-01-06T11:40:00'
-  source: Supply Chain 24/7
-  title: Manufacturing Remains in Contraction for 10th Straight Month
 - category: circular
   description: Two men have been given suspended prison sentences for operating a
     large-scale illegal waste site in Lincolnshire. The post Suspended prison sentences
@@ -165,13 +176,4 @@ articles:
   pub_date: '2025-12-22T09:19:57'
   source: Circular Online
   title: Northumberland man given suspended prison sentence for illegal waste site
-- category: circular
-  description: Coventry City Council has incurred GBP900,000 in fines after non-recyclable
-    waste was placed in recycling bins, contributing to a wider overspend in its city
-    services budget, according to a council fi...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/bin-contamination-fines-cost-coventry-city-council-900000/
-  pub_date: '2025-12-22T09:15:47'
-  source: Circular Online
-  title: Bin contamination fines cost Coventry City Council £900,000
-last_updated: '2026-01-08T06:35:52.826592'
+last_updated: '2026-01-09T06:35:27.456972'
