@@ -1,4 +1,12 @@
 articles:
+- category: machine-learning
+  description: Tired of repetitive data cleaning tasks? This article covers five Python
+    scripts that handle common data cleaning tasks efficiently and reliably.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-data-cleaning
+  pub_date: '2026-01-09T13:00:16'
+  source: KDnuggets
+  title: 5 Useful Python Scripts to Automate Data Cleaning
 - category: ai-research
   description: While the growing energy demands of AI are worrying, some techniques
     can also help make power grids cleaner and more efficient.
@@ -117,13 +125,6 @@ articles:
   pub_date: '2026-01-05T20:25:00'
   source: MIT AI News
   title: Using design to interpret the past and envision the future
-- category: machine-learning
-  description: Which of these state-of-the-art models writes the best code?
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/i-asked-gpt-claude-and-deepseek-to-build-tetris
-  pub_date: '2026-01-05T18:47:53'
-  source: KDnuggets
-  title: I Asked ChatGPT, Claude and DeepSeek to Build Tetris
 - category: ai-research
   description: MIT community members made headlines with key research advances and
     their efforts to tackle pressing challenges.
@@ -243,4 +244,4 @@ articles:
   pub_date: '2023-12-06T15:15:00'
   source: Google AI Blog
   title: Learn more about Gemini, our most capable AI model
-last_updated: '2026-01-09T06:35:28.801743'
+last_updated: '2026-01-10T06:31:28.991978'
