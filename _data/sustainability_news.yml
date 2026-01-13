@@ -1,5 +1,63 @@
 articles:
 - category: supply-chain
+  description: Cyberattacks on logistics networks are accelerating rapidly, with new
+    data from Everstream Analytics pointing to another major spike in 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cyberattacks-on-logistics-set-to-double-2026-report
+  pub_date: '2026-01-12T16:01:00'
+  source: Supply Chain 24/7
+  title: Cyberattacks on Logistics Are Set to Double in 2026, Report Finds
+- category: supply-chain
+  description: GM is taking a $7.6 billion EV charge after lackluster sales, highlighting
+    how slowing demand is forcing supply chain and production resets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gm-ev-charges-supply-chain-impact
+  pub_date: '2026-01-12T15:23:00'
+  source: Supply Chain 24/7
+  title: GM Reworks EV Production and Supply Chain After $7.6B Hit
+- category: supply-chain
+  description: Greenland isn't a supply chain hub, but it reflects how climate change,
+    critical minerals, and geopolitics are shaping future supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-101-why-greenland-matters
+  pub_date: '2026-01-12T14:35:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain 101: Why Greenland Matters For Supply Chains'
+- category: supply-chain
+  description: Online holiday spending reached a new high in 2025, fueled by strong
+    Cyber Week sales and continued growth in mobile shopping.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/online-holiday-spending-2025-adobe-data
+  pub_date: '2026-01-12T14:19:00'
+  source: Supply Chain 24/7
+  title: Online Holiday Spending Rose Again in 2025 as Mobile Sales Expand
+- category: supply-chain
+  description: Robotics interest is rising across supply chains, but cost, readiness,
+    and skills gaps are keeping many companies in pilot mode.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/robotics-interest-rising-companies-not-ready-yet
+  pub_date: '2026-01-12T13:24:00'
+  source: Supply Chain 24/7
+  title: Robotics Interest Is Growing, but Many Companies Say They’re Not Ready
+- category: circular
+  description: A Cumbria-based cellulose film packaging producer has been fined GBP200,000
+    after an employee died following exposure to harmful hydrogen sulphide gas. The
+    post Packaging firm fined after employee die...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/packaging-firm-fined-after-employee-dies-following-exposure-to-harmful-gas/
+  pub_date: '2026-01-12T10:45:45'
+  source: Circular Online
+  title: Packaging firm fined after employee dies following exposure to harmful gas
+- category: circular
+  description: A serious fire at a recycling centre in Southall is now under control
+    after causing severe travel delays on Sunday night. The post Southall recycling
+    centre fire causes travel chaos appeared first on ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/southall-recycling-centre-fire-causes-travel-chaos/
+  pub_date: '2026-01-12T10:18:57'
+  source: Circular Online
+  title: Southall recycling centre fire causes travel chaos
+- category: supply-chain
   description: New research from McKinsey shows that electronics and semiconductors
     face the most pressure for manufacturing disruption in 2026.
   icon: fa-box
@@ -57,31 +115,6 @@ articles:
   pub_date: '2026-01-08T15:58:00'
   source: Supply Chain 24/7
   title: Boston Dynamics and Hyundai Move Humanoid Robot to Factory Floor
-- category: supply-chain
-  description: A bipartisan bill would require regular federal reviews of the U.S.
-    electric supply chain to identify risks before they disrupt the power grid.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/electric-supply-chain-act-congress-review-power-grid
-  pub_date: '2026-01-08T15:26:00'
-  source: Supply Chain 24/7
-  title: Lawmakers Push For Regular Reviews of the U.S. Electric Supply Chain
-- category: supply-chain
-  description: A timeline of the Union Pacific-Norfolk Southern merger, from the initial
-    deal to the latest regulatory decisions ahead.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/union-pacific-norfolk-southern-merger-timeline
-  pub_date: '2026-01-08T15:11:00'
-  source: Supply Chain 24/7
-  title: 'Timeline: Tracking the Union Pacific–Norfolk Southern Merger'
-- category: supply-chain
-  description: DHL is expanding its U.S. health care logistics footprint with a huge
-    new Pennsylvania distribution center and the full integration of SDS Rx's delivery
-    network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-supply-chain-opens-giant-health-care-hub-in-pennsylvania
-  pub_date: '2026-01-08T12:11:00'
-  source: Supply Chain 24/7
-  title: DHL Supply Chain Opens Giant Health Care Hub in Pennsylvania
 - category: circular
   description: The economic cost of food waste across the global supply chain is forecast
     to reach $540 billion by 2026, according to new research. The post Food waste
@@ -91,24 +124,6 @@ articles:
   pub_date: '2026-01-08T08:00:00'
   source: Circular Online
   title: Food waste forecast to cost businesses $540 billion in 2026
-- category: supply-chain
-  description: From economics to AI and warehouse robotics, Jackie Wu shares the journey
-    behind Corvus Robotics and why values and resilience still matter most.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/leadership-lessons-jackie-wu-corvus-robotics
-  pub_date: '2026-01-07T17:02:00'
-  source: Supply Chain 24/7
-  title: 'Leadership Lessons: Jackie Wu of Corvus Robotics'
-- category: supply-chain
-  description: Learn what LTL General Rate Increases (GRIs) are, why carriers raise
-    rates, and how shippers can control freight costs with smarter transportation
-    management.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ltl-general-rate-increases-explained-what-shippers-need-to-know-how-to-manage-costs
-  pub_date: '2026-01-07T16:59:00'
-  source: Supply Chain 24/7
-  title: 'LTL General Rate Increases Explained: What Shippers Need to Know & How to
-    Manage Costs'
 - category: circular
   description: The Environment Agency will begin work to clear a 20,000-tonne illegal
     waste site next to the River Cherwell in February, the UK Government has said.
@@ -154,22 +169,4 @@ articles:
   pub_date: '2025-12-24T09:14:36'
   source: Circular Online
   title: EU plans tighter checks on plastic imports to support recycling industry
-- category: circular
-  description: Scientists say a new chemical recycling method could convert everyday
-    plastic waste into key ingredients used in cancer medicines, potentially reducing
-    reliance on fossil-based materials. The post Pla...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/plastic-waste-could-be-turned-into-anti-cancer-drugs-researchers-say/
-  pub_date: '2025-12-23T09:10:01'
-  source: Circular Online
-  title: Plastic waste could be turned into anti-cancer drugs, researchers say
-- category: circular
-  description: Parliamentarians, councils and industry representatives have met at
-    Westminster to discuss the growing number of fires linked to discarded lithium-ion
-    batteries, amid calls for stronger regulation and...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/mps-and-industry-meet-to-address-rise-in-lithium-ion-battery-fires/
-  pub_date: '2025-12-23T09:03:34'
-  source: Circular Online
-  title: MPs and industry meet to address rise in lithium-ion battery fires
-last_updated: '2026-01-12T06:38:23.249243'
+last_updated: '2026-01-13T06:35:48.235842'
