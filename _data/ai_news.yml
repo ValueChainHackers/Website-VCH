@@ -1,5 +1,45 @@
 articles:
 - category: machine-learning
+  description: Delegating without chaos is the difference between a business that
+    plateaus and one that scales.
+  icon: fa-chart-bar
+  link: https://bit.ly/45cyTt4#new_tab
+  pub_date: '2026-01-14T00:01:43'
+  source: KDnuggets
+  title: 'Delegating Without Chaos: Your Business Can’t Grow Until You Let Go (Sponsored)'
+- category: machine-learning
+  description: Stop using print statements and start logging like a pro. This guide
+    shows Python developers how to log smarter and debug faster.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-complete-guide-to-logging-for-python-developers
+  pub_date: '2026-01-13T17:00:10'
+  source: KDnuggets
+  title: The Complete Guide to Logging for Python Developers
+- category: ai-research
+  description: A collage of various generated images, including an astronaut on Mars,
+    a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up
+    of coffee art, with the text "Veo 3.1 Ingredients t...
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/
+  pub_date: '2026-01-13T17:00:00'
+  source: Google AI Blog
+  title: 'Veo 3.1 Ingredients to Video: More consistency, creativity and control'
+- category: machine-learning
+  description: Same data, different formats, very different performance.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/csv-vs-parquet-vs-arrow-storage-formats-explained
+  pub_date: '2026-01-13T15:00:55'
+  source: KDnuggets
+  title: 'CSV vs. Parquet vs. Arrow: Storage Formats Explained'
+- category: machine-learning
+  description: Feature engineering doesn't have to be complex. These 5 Python scripts
+    help you create meaningful features that improve model performance.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-engineering
+  pub_date: '2026-01-13T13:00:14'
+  source: KDnuggets
+  title: 5 Useful Python Scripts for Effective Feature Engineering
+- category: machine-learning
   description: We tested five imputation methods with proper cross-validation and
     statistical testing. Mean imputation won for prediction but destroyed feature
     relationships.
@@ -75,41 +115,6 @@ articles:
   pub_date: '2026-01-07T20:30:00'
   source: MIT AI News
   title: Stone Center on Inequality and Shaping the Future of Work Launches at MIT
-- category: machine-learning
-  description: This is an "expectations vs reality" approach to demystify, based on
-    research of real success and failure stories, what are the capabilities and limits
-    of vibe coding.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/vibe-code-reality-check-what-you-can-actually-build-with-only-ai
-  pub_date: '2026-01-07T17:00:36'
-  source: KDnuggets
-  title: 'Vibe Code Reality Check: What You Can Actually Build with Only AI'
-- category: machine-learning
-  description: Although data science and AI engineering share tools and terminology,
-    they are not interchangeable careers. This article explains how the work, goals,
-    and impact of each role differ so you can choose ...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/data-scientist-vs-ai-engineer-which-career-should-you-choose-in-2026
-  pub_date: '2026-01-07T15:00:59'
-  source: KDnuggets
-  title: 'Data Scientist vs AI Engineer: Which Career Should You Choose in 2026?'
-- category: machine-learning
-  description: A list of ready to use n8n workflow templates that help data scientists
-    quickly analyze data, extract and transform it, and build reliable knowledge bases.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-n8n-workflow-templates-for-data-science
-  pub_date: '2026-01-07T13:00:39'
-  source: KDnuggets
-  title: Top 7 n8n Workflow Templates for Data Science
-- category: machine-learning
-  description: 'Choosing a cloud services provider can feel a lot like dating: every
-    vendor promises reliability, security, and support, but only a few truly live
-    up to it. The wrong choice can lead to costly downtim...'
-  icon: fa-chart-bar
-  link: https://bit.ly/4q97Tmv
-  pub_date: '2026-01-06T21:06:22'
-  source: KDnuggets
-  title: What To Look For In A Cloud Services Provider (Sponsored)
 - category: ai-research
   description: New research demonstrates how AI models can be tested to ensure they
     don't cause harm by revealing anonymized patient health data.
@@ -237,12 +242,4 @@ articles:
   pub_date: '2023-12-20T17:00:00'
   source: Google AI Blog
   title: 2023 at Google
-- category: ai-research
-  description: Explore our collection to find out more about Gemini, the most capable
-    and general model we've ever built.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/gemini-collection/
-  pub_date: '2023-12-06T15:15:00'
-  source: Google AI Blog
-  title: Learn more about Gemini, our most capable AI model
-last_updated: '2026-01-13T06:35:49.498520'
+last_updated: '2026-01-14T06:35:26.910529'

@@ -1,5 +1,64 @@
 articles:
 - category: supply-chain
+  description: U.S. exports to China showed early signs of recovery in December, but
+    imports remain weak as tariffs continue to reshape trade and shipping patterns.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-china-trade-exports-recover-imports-lag
+  pub_date: '2026-01-13T15:14:00'
+  source: Supply Chain 24/7
+  title: Exports to China Rebound Slightly While Imports Stay Weak
+- category: supply-chain
+  description: Even as supply chains adopt AI and advanced tools, outdated communication
+    is still causing costly delays, errors, and mistrust.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-communication-still-holds-supply-chains-back
+  pub_date: '2026-01-13T14:31:00'
+  source: Supply Chain 24/7
+  title: Why Poor Communication Is Still Holding Supply Chains Back
+- category: supply-chain
+  description: USPS will tighten access to package tracking data in April 2026, affecting
+    service providers while leaving consumer tracking unchanged.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-tightens-package-tracking-data-access-2026
+  pub_date: '2026-01-13T13:40:00'
+  source: Supply Chain 24/7
+  title: USPS to Restrict Package Tracking Data Access Starting in April
+- category: supply-chain
+  description: Walmart and Wing are expanding drone delivery to 150 additional stores
+    this year, bringing the total to more than 270 locations nationwide.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-wing-drone-delivery-expansion-2026
+  pub_date: '2026-01-13T12:47:00'
+  source: Supply Chain 24/7
+  title: Walmart Expands Drone Delivery to 150 More U.S. Locations
+- category: circular
+  description: Leeds City Council partners with Podback, a not-for-profit coffee pod
+    recycling service, to trial coffee pod recycling at household waste recycling
+    centres at Kirkstall, Wetherby and Yeadon. The centr...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/leeds-city-council-partners-to-trial-coffee-pod-recycling-at-hwrcs/
+  pub_date: '2026-01-13T10:24:36'
+  source: Circular Online
+  title: Leeds City Council partners to trial coffee pod recycling at HWRCs
+- category: circular
+  description: A new EU-funded project has been launched to develop a deposit return
+    scheme (DRS) for post-consumer textiles across Europe. The post EU invests 6m
+    in piloting a deposit return scheme for textiles app...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/eu-invests-e6m-in-piloting-a-deposit-return-scheme-for-textiles/
+  pub_date: '2026-01-13T09:37:52'
+  source: Circular Online
+  title: EU invests €6m in piloting a deposit return scheme for textiles
+- category: circular
+  description: Waste management company Biffa have signed a GBP12 million contract
+    to upgrade a materials recovery facility (MRF) near Ipswich. The post Suffolk
+    County Council and Biffa sign GBP12m MRF upgrade contr...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/suffolk-county-council-and-biffa-sign-12m-mrf-upgrade-contract/
+  pub_date: '2026-01-13T08:30:00'
+  source: Circular Online
+  title: Suffolk County Council and Biffa sign £12m MRF upgrade contract
+- category: supply-chain
   description: Cyberattacks on logistics networks are accelerating rapidly, with new
     data from Everstream Analytics pointing to another major spike in 2026.
   icon: fa-box
@@ -58,37 +117,15 @@ articles:
   source: Circular Online
   title: Southall recycling centre fire causes travel chaos
 - category: supply-chain
-  description: New research from McKinsey shows that electronics and semiconductors
-    face the most pressure for manufacturing disruption in 2026.
+  description: Discover how artificial intelligence is driving measurable results
+    in warehouse operations-boosting efficiency, enabling human-robot collaboration,
+    and advancing automation from theory to real impact ...
   icon: fa-box
-  link: https://www.supplychain247.com/article/which-industries-face-the-biggest-manufacturing-disruptions-in-2026
-  pub_date: '2026-01-09T14:43:00'
+  link: https://www.supplychain247.com/article/practical-ai-in-warehouse-operations-real-world-impact-on-efficiency-robotics
+  pub_date: '2026-01-09T19:10:00'
   source: Supply Chain 24/7
-  title: Which Industries Face the Biggest Manufacturing Disruptions?
-- category: supply-chain
-  description: Moody's Carolina Azar walks through her path from Argentina to supply
-    chain strategist, sharing lessons on confidence, empathy, and leading global teams.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/women-supply-chain-carolina-azar-moodys
-  pub_date: '2026-01-09T14:14:00'
-  source: Supply Chain 24/7
-  title: 'Women in Supply Chain: Carolina Azar of Moody’s'
-- category: supply-chain
-  description: GreyOrange and Zebra have partnered to give retailers near-real-time
-    visibility into store inventory using overhead RFID technology.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/greyorange-zebra-real-time-store-inventory
-  pub_date: '2026-01-09T14:09:00'
-  source: Supply Chain 24/7
-  title: GreyOrange and Zebra Team Up to Improve Store Inventory Accuracy
-- category: supply-chain
-  description: Six pressures are reshaping food safety in 2026, from tighter retailer
-    oversight to labor challenges and a stronger focus on prevention.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/six-food-safety-trends-to-watch-in-2026
-  pub_date: '2026-01-09T14:09:00'
-  source: Supply Chain 24/7
-  title: Six Safety Trends Food Manufacturers Need to Watch in 2026
+  title: 'Practical AI in Warehouse Operations: Real-World Impact on Efficiency &
+    Robotics'
 - category: circular
   description: 'News updates written by CIWM''s commercial partners. Beyondly Beyondly''s
     Events: 2025 Round-Up Vision Techniques Vision Techniques spread festive cheer
@@ -107,14 +144,6 @@ articles:
   pub_date: '2026-01-09T10:23:30'
   source: Circular Online
   title: Firm involved in political scandal fined for waste fire permit breaches
-- category: supply-chain
-  description: Boston Dynamics and Hyundai are preparing the Atlas humanoid robot
-    for real factory and supply chain work, with deployments targeted for 2028.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/boston-dynamics-atlas-robot-factory-supply-chain
-  pub_date: '2026-01-08T15:58:00'
-  source: Supply Chain 24/7
-  title: Boston Dynamics and Hyundai Move Humanoid Robot to Factory Floor
 - category: circular
   description: The economic cost of food waste across the global supply chain is forecast
     to reach $540 billion by 2026, according to new research. The post Food waste
@@ -142,31 +171,4 @@ articles:
   pub_date: '2026-01-06T09:28:12'
   source: Circular Online
   title: Suspended prison sentences for men who ran illegal waste site
-- category: circular
-  description: The World Health Organisation (WHO) has found that poorly managed solid
-    waste is driving a 'public health crisis'. The post Poorly managed solid waste
-    is driving a 'public health crisis', WHO finds ap...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/poorly-managed-solid-waste-is-driving-a-public-health-crisis-who-finds/
-  pub_date: '2026-01-05T11:36:32'
-  source: Circular Online
-  title: Poorly managed solid waste is driving a ‘public health crisis’, WHO finds
-- category: circular
-  description: Sebastian Munden, Chair of the global board of trustees for the climate
-    action NGO WRAP, has been awarded a CBE in the King's New Year Honours. The post
-    WRAP Chair Sebastian Munden awarded CBE in New ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wrap-chair-sebastian-munden-awarded-cbe-in-new-year-honours/
-  pub_date: '2026-01-05T10:44:55'
-  source: Circular Online
-  title: WRAP Chair Sebastian Munden awarded CBE in New Year Honours
-- category: circular
-  description: The European Union is planning stricter controls on plastic imports...
-    The post EU plans tighter checks on plastic imports to support recycling industry
-    appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/eu-plans-tighter-checks-on-plastic-imports-to-support-recycling-industry/
-  pub_date: '2025-12-24T09:14:36'
-  source: Circular Online
-  title: EU plans tighter checks on plastic imports to support recycling industry
-last_updated: '2026-01-13T06:35:48.235842'
+last_updated: '2026-01-14T06:35:24.730566'
