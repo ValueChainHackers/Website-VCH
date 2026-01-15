@@ -1,4 +1,57 @@
 articles:
+- category: ai-research
+  description: With support from the Siegel Family Endowment, the newly renamed MIT
+    Siegel Family Quest for Intelligence investigates how brains produce intelligence
+    and how it can be replicated to solve problems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/continued-commitment-to-understanding-intelligence-0114
+  pub_date: '2026-01-14T21:50:00'
+  source: MIT AI News
+  title: At MIT, a continued commitment to understanding intelligence
+- category: ai-research
+  description: '"MechStyle" allows users to personalize 3D models, while ensuring
+    they''re physically viable after fabrication, producing unique personal items
+    and assistive technology.'
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114
+  pub_date: '2026-01-14T21:00:00'
+  source: MIT AI News
+  title: Generative AI tool helps 3D print personal items that sustain daily use
+- category: machine-learning
+  description: 'Machine learning practitioners encounter three persistent challenges
+    that can undermine model performance: overfitting, class imbalance, and feature
+    scaling issues.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/avoiding-overfitting-class-imbalance-feature-scaling-issues-the-machine-learning-practitioners-notebook
+  pub_date: '2026-01-14T14:56:26'
+  source: KDnuggets
+  title: 'Avoiding Overfitting, Class Imbalance, & Feature Scaling Issues: The Machine
+    Learning Practitioner’s Notebook'
+- category: ai-research
+  description: A drawing of three people working on laptops, with one person's screen
+    showing "Kaggle Benchmark Results" with "Gemini XXXX" and a large "PASS" checkmark.1
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/
+  pub_date: '2026-01-14T14:00:00'
+  source: Google AI Blog
+  title: Introducing Community Benchmarks on Kaggle
+- category: machine-learning
+  description: A quick guide to the best code sandboxes for AI agents, so your LLM
+    can build, test, and debug safely without touching your production infrastructure.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-code-sandbox-for-your-ai-agents
+  pub_date: '2026-01-14T13:00:28'
+  source: KDnuggets
+  title: 5 Code Sandboxes for Your AI Agents
+- category: ai-research
+  description: Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards
+    for the film "Lily" by Zoubeir Jlassi. He stands by a trophy podium while Anthony
+    Nakache claps. The background shows the film's titl...
+  icon: fa-google
+  link: https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/
+  pub_date: '2026-01-14T10:00:00'
+  source: Google AI Blog
+  title: Announcing the winner of the Global AI Film Award
 - category: machine-learning
   description: Delegating without chaos is the difference between a business that
     plateaus and one that scales.
@@ -91,22 +144,6 @@ articles:
   pub_date: '2026-01-08T21:55:00'
   source: MIT AI News
   title: Decoding the Arctic to predict winter weather
-- category: machine-learning
-  description: The ultimate goal is to run these automations on a single workstation
-    or small server, replacing fragile scripts and expensive API-based systems.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/powerful-local-ai-automations-with-n8n-mcp-and-ollama
-  pub_date: '2026-01-08T15:00:43'
-  source: KDnuggets
-  title: Powerful Local AI Automations with n8n, MCP and Ollama
-- category: machine-learning
-  description: The most popular GitHub repositories to help you learn AI, from fundamentals
-    and math to LLMs, agents, computer vision, and real-world production systems.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai
-  pub_date: '2026-01-08T13:00:02'
-  source: KDnuggets
-  title: 10 Most Popular GitHub Repositories for Learning AI
 - category: ai-research
   description: Recent launch event for the center featured discussions on pro-worker
     AI, wealth inequality, and the future of liberal democracy.
@@ -156,22 +193,6 @@ articles:
   pub_date: '2025-12-18T04:10:00'
   source: MIT AI News
   title: A new way to increase the capabilities of large language models
-- category: ai-research
-  description: The AI-powered tool could inform the design of better sensors and cameras
-    for robots or autonomous vehicles.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/scientific-sandbox-lets-researchers-explore-evolution-vision-systems-1217
-  pub_date: '2025-12-17T19:00:00'
-  source: MIT AI News
-  title: A “scientific sandbox” lets researchers explore the evolution of vision systems
-- category: ai-research
-  description: An AI-driven system lets users design and build simple, multicomponent
-    objects by describing them with words.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/robot-makes-chair-1216
-  pub_date: '2025-12-16T05:00:00'
-  source: MIT AI News
-  title: “Robot, make me a chair”
 - category: ai-research
   description: Learn more about Google's launches, milestones and more from 2025.
   icon: fa-google
@@ -226,20 +247,4 @@ articles:
   pub_date: '2024-12-05T17:00:00'
   source: Google AI Blog
   title: New AI features and more for Android and Pixel
-- category: ai-research
-  description: Google DeepMind and the Royal Society are co-hosting the AI for Science
-    Forum to explore how AI is rapidly accelerating science.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/ai-science-forum-2024/
-  pub_date: '2024-11-18T17:00:00'
-  source: Google AI Blog
-  title: 'The AI for Science Forum: A new era of discovery'
-- category: ai-research
-  description: Explore our collection looking back on some of our biggest moments
-    and milestones from 2023.
-  icon: fa-google
-  link: https://blog.google/company-news/inside-google/google-2023-recaps-highlights/
-  pub_date: '2023-12-20T17:00:00'
-  source: Google AI Blog
-  title: 2023 at Google
-last_updated: '2026-01-14T06:35:26.910529'
+last_updated: '2026-01-15T06:35:07.316395'

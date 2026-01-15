@@ -1,5 +1,66 @@
 articles:
 - category: supply-chain
+  description: Explore the 2026 freight spot market outlook with data-driven insights
+    on pricing, capacity, contracts vs. spot freight, and procurement strategies for
+    shippers, carriers, and brokers.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/2026-freight-spot-market-outlook-strategies-for-shippers-carriers-and-brokers
+  pub_date: '2026-01-14T18:17:00'
+  source: Supply Chain 24/7
+  title: '2026 Freight Spot Market Outlook: Strategies for Shippers, Carriers, and
+    Brokers'
+- category: supply-chain
+  description: Loftware's 2026 report outlines five trends showing how supply chains
+    are shifting toward greater connectivity, flexibility, and traceability.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/loftware-2026-supply-chain-trends
+  pub_date: '2026-01-14T17:06:00'
+  source: Supply Chain 24/7
+  title: How Supply Chains Are Adjusting to Constant Disruption
+- category: supply-chain
+  description: U.S. warehouse construction has stopped declining, but high costs and
+    tight financing are still holding back new development, according to a report
+    from Interact Analysis.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-warehouse-construction-bottoms-out-interact-analysis-report
+  pub_date: '2026-01-14T14:04:00'
+  source: Supply Chain 24/7
+  title: Warehouse Construction Stabilizes, but Developers Remain Cautious
+- category: supply-chain
+  description: Hidden cyber gaps across vendors, warehouse technology, and cloud systems
+    are creating growing risks for modern supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hidden-cyber-gaps-supply-chain-risk
+  pub_date: '2026-01-14T12:38:00'
+  source: Supply Chain 24/7
+  title: The Most Overlooked Cyber Vulnerabilities in Modern Supply Chains
+- category: supply-chain
+  description: A new LiquiDonate report shows return-related fraud is rising fast
+    and adding real costs for retailers as e-commerce grows.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/liquidonate-2026-returns-fraud-report-retail-costs
+  pub_date: '2026-01-14T12:29:00'
+  source: Supply Chain 24/7
+  title: Retail Returns Fraud Hits New Levels as E-Commerce Grows
+- category: circular
+  description: PackUK has appointed members to the Scheme Administrator Steering Group,
+    completing the appointment of all four of its key advisory groups. The post PackUK
+    appoints advisory group members and Chairs a...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/packuk-appoints-advisory-group-members-and-chairs/
+  pub_date: '2026-01-14T11:04:02'
+  source: Circular Online
+  title: PackUK appoints advisory group members and Chairs
+- category: circular
+  description: eBay is expanding its Circular Fashion Fund in 2026 to applications
+    from businesses and startups across the EU, Switzerland, and Canada for the first
+    time. The post eBay Expands Circular Fashion Fund ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ebay-expands-circular-fashion-fund-across-europe-and-north-america/
+  pub_date: '2026-01-14T09:08:15'
+  source: Circular Online
+  title: eBay Expands Circular Fashion Fund Across Europe and North America
+- category: supply-chain
   description: U.S. exports to China showed early signs of recovery in December, but
     imports remain weak as tariffs continue to reshape trade and shipping patterns.
   icon: fa-box
@@ -66,38 +127,6 @@ articles:
   pub_date: '2026-01-12T16:01:00'
   source: Supply Chain 24/7
   title: Cyberattacks on Logistics Are Set to Double in 2026, Report Finds
-- category: supply-chain
-  description: GM is taking a $7.6 billion EV charge after lackluster sales, highlighting
-    how slowing demand is forcing supply chain and production resets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gm-ev-charges-supply-chain-impact
-  pub_date: '2026-01-12T15:23:00'
-  source: Supply Chain 24/7
-  title: GM Reworks EV Production and Supply Chain After $7.6B Hit
-- category: supply-chain
-  description: Greenland isn't a supply chain hub, but it reflects how climate change,
-    critical minerals, and geopolitics are shaping future supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-101-why-greenland-matters
-  pub_date: '2026-01-12T14:35:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain 101: Why Greenland Matters For Supply Chains'
-- category: supply-chain
-  description: Online holiday spending reached a new high in 2025, fueled by strong
-    Cyber Week sales and continued growth in mobile shopping.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/online-holiday-spending-2025-adobe-data
-  pub_date: '2026-01-12T14:19:00'
-  source: Supply Chain 24/7
-  title: Online Holiday Spending Rose Again in 2025 as Mobile Sales Expand
-- category: supply-chain
-  description: Robotics interest is rising across supply chains, but cost, readiness,
-    and skills gaps are keeping many companies in pilot mode.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/robotics-interest-rising-companies-not-ready-yet
-  pub_date: '2026-01-12T13:24:00'
-  source: Supply Chain 24/7
-  title: Robotics Interest Is Growing, but Many Companies Say They’re Not Ready
 - category: circular
   description: A Cumbria-based cellulose film packaging producer has been fined GBP200,000
     after an employee died following exposure to harmful hydrogen sulphide gas. The
@@ -116,16 +145,6 @@ articles:
   pub_date: '2026-01-12T10:18:57'
   source: Circular Online
   title: Southall recycling centre fire causes travel chaos
-- category: supply-chain
-  description: Discover how artificial intelligence is driving measurable results
-    in warehouse operations-boosting efficiency, enabling human-robot collaboration,
-    and advancing automation from theory to real impact ...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/practical-ai-in-warehouse-operations-real-world-impact-on-efficiency-robotics
-  pub_date: '2026-01-09T19:10:00'
-  source: Supply Chain 24/7
-  title: 'Practical AI in Warehouse Operations: Real-World Impact on Efficiency &
-    Robotics'
 - category: circular
   description: 'News updates written by CIWM''s commercial partners. Beyondly Beyondly''s
     Events: 2025 Round-Up Vision Techniques Vision Techniques spread festive cheer
@@ -153,22 +172,4 @@ articles:
   pub_date: '2026-01-08T08:00:00'
   source: Circular Online
   title: Food waste forecast to cost businesses $540 billion in 2026
-- category: circular
-  description: The Environment Agency will begin work to clear a 20,000-tonne illegal
-    waste site next to the River Cherwell in February, the UK Government has said.
-    The post 20,000 tonne Kidlington waste dump cleara...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/20000-tonne-kidlington-waste-dump-clearance-to-begin-in-february/
-  pub_date: '2026-01-07T09:11:23'
-  source: Circular Online
-  title: 20,000 tonne Kidlington waste dump clearance to ‘begin in February’
-- category: circular
-  description: Two men have been given suspended prison sentences for operating a
-    large-scale illegal waste site in Lincolnshire. The post Suspended prison sentences
-    for men who ran illegal waste site appeared first...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/suspended-prison-sentences-for-men-who-ran-illegal-waste-site/
-  pub_date: '2026-01-06T09:28:12'
-  source: Circular Online
-  title: Suspended prison sentences for men who ran illegal waste site
-last_updated: '2026-01-14T06:35:24.730566'
+last_updated: '2026-01-15T06:35:04.211724'
