@@ -1,5 +1,48 @@
 articles:
 - category: supply-chain
+  description: Amazon is pushing ahead with plans for its biggest retail store yet,
+    a massive Illinois location that would compete directly with Walmart's big-box
+    model.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-big-box-store-orland-park-illinois
+  pub_date: '2026-01-15T18:08:00'
+  source: Supply Chain 24/7
+  title: Amazon Targets Walmart With Massive Retail Store Near Chicago
+- category: supply-chain
+  description: As return rates soar, retailers are being forced to treat reverse logistics
+    as a core supply chain function instead of a costly afterthought.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/retail-returns-supply-chain-dhl-data
+  pub_date: '2026-01-15T17:44:00'
+  source: Supply Chain 24/7
+  title: 'DHL: Some Apparel Return Rates Near 90% in Post-Holiday Season'
+- category: supply-chain
+  description: Supply chains now see problems faster than they can act on them, and
+    misaligned decision structures are the reason why.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-supply-chain-decisions-slow-down
+  pub_date: '2026-01-15T12:38:00'
+  source: Supply Chain 24/7
+  title: 'Better Data, Same Problems: Where Supply Chains Get Stuck'
+- category: circular
+  description: Sarah Mukherjee and Mark Suthern have been reappointed to the Board
+    of the Environment Agency. The post Reappointments made to the Environment Agency
+    Board appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/reappointments-to-the-environment-agency-board/
+  pub_date: '2026-01-15T09:52:09'
+  source: Circular Online
+  title: Reappointments made to the Environment Agency Board
+- category: supply-chain
+  description: The Port of Virginia is close to completing a major channel deepening
+    and terminal upgrade that will allow bigger ships to move in and out with fewer
+    limits.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/port-of-virginia-nears-completion-gateway-investment-program
+  pub_date: '2026-01-15T02:16:00'
+  source: Supply Chain 24/7
+  title: Port of Virginia Nears Finish Line on $1.4 Billion Gateway Project
+- category: supply-chain
   description: Explore the 2026 freight spot market outlook with data-driven insights
     on pricing, capacity, contracts vs. spot freight, and procurement strategies for
     shippers, carriers, and brokers.
@@ -68,30 +111,6 @@ articles:
   pub_date: '2026-01-13T15:14:00'
   source: Supply Chain 24/7
   title: Exports to China Rebound Slightly While Imports Stay Weak
-- category: supply-chain
-  description: Even as supply chains adopt AI and advanced tools, outdated communication
-    is still causing costly delays, errors, and mistrust.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-communication-still-holds-supply-chains-back
-  pub_date: '2026-01-13T14:31:00'
-  source: Supply Chain 24/7
-  title: Why Poor Communication Is Still Holding Supply Chains Back
-- category: supply-chain
-  description: USPS will tighten access to package tracking data in April 2026, affecting
-    service providers while leaving consumer tracking unchanged.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usps-tightens-package-tracking-data-access-2026
-  pub_date: '2026-01-13T13:40:00'
-  source: Supply Chain 24/7
-  title: USPS to Restrict Package Tracking Data Access Starting in April
-- category: supply-chain
-  description: Walmart and Wing are expanding drone delivery to 150 additional stores
-    this year, bringing the total to more than 270 locations nationwide.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-wing-drone-delivery-expansion-2026
-  pub_date: '2026-01-13T12:47:00'
-  source: Supply Chain 24/7
-  title: Walmart Expands Drone Delivery to 150 More U.S. Locations
 - category: circular
   description: Leeds City Council partners with Podback, a not-for-profit coffee pod
     recycling service, to trial coffee pod recycling at household waste recycling
@@ -119,14 +138,6 @@ articles:
   pub_date: '2026-01-13T08:30:00'
   source: Circular Online
   title: Suffolk County Council and Biffa sign £12m MRF upgrade contract
-- category: supply-chain
-  description: Cyberattacks on logistics networks are accelerating rapidly, with new
-    data from Everstream Analytics pointing to another major spike in 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cyberattacks-on-logistics-set-to-double-2026-report
-  pub_date: '2026-01-12T16:01:00'
-  source: Supply Chain 24/7
-  title: Cyberattacks on Logistics Are Set to Double in 2026, Report Finds
 - category: circular
   description: A Cumbria-based cellulose film packaging producer has been fined GBP200,000
     after an employee died following exposure to harmful hydrogen sulphide gas. The
@@ -163,13 +174,4 @@ articles:
   pub_date: '2026-01-09T10:23:30'
   source: Circular Online
   title: Firm involved in political scandal fined for waste fire permit breaches
-- category: circular
-  description: The economic cost of food waste across the global supply chain is forecast
-    to reach $540 billion by 2026, according to new research. The post Food waste
-    forecast to cost businesses $540 billion in 202...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/food-waste-forecast-to-cost-businesses-540-billion-in-2026/
-  pub_date: '2026-01-08T08:00:00'
-  source: Circular Online
-  title: Food waste forecast to cost businesses $540 billion in 2026
-last_updated: '2026-01-15T06:35:04.211724'
+last_updated: '2026-01-16T06:35:39.656281'
