@@ -1,4 +1,21 @@
 articles:
+- category: machine-learning
+  description: Images, containers, volumes, and networks... Docker terms often sound
+    complex to beginners. This quick guide explains Docker essentials to get started.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-essential-docker-concepts-explained-in-under-10-minutes
+  pub_date: '2026-01-16T15:00:40'
+  source: KDnuggets
+  title: 10 Essential Docker Concepts Explained in Under 10 Minutes
+- category: machine-learning
+  description: Large open-source language models are now widely accessible, and this
+    article compares leading AI API providers on performance, pricing, latency, and
+    real-world reliability to help you choose the righ...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-open-source-ai-model-api-providers
+  pub_date: '2026-01-16T13:00:05'
+  source: KDnuggets
+  title: Top 5 Open-Source AI Model API Providers
 - category: ai-research
   description: A Nano Banana-generated image showing yellow bananas spelling out 'Nano
     Banana' on a bed of additional yellow bananas
@@ -125,25 +142,6 @@ articles:
   pub_date: '2026-01-13T13:00:14'
   source: KDnuggets
   title: 5 Useful Python Scripts for Effective Feature Engineering
-- category: machine-learning
-  description: We tested five imputation methods with proper cross-validation and
-    statistical testing. Mean imputation won for prediction but destroyed feature
-    relationships.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/we-tried-5-missing-data-imputation-methods-the-simplest-method-won-sort-of
-  pub_date: '2026-01-12T17:00:16'
-  source: KDnuggets
-  title: 'We Tried 5 Missing Data Imputation Methods: The Simplest Method Won (Sort
-    Of)'
-- category: machine-learning
-  description: This tutorial will guide you through the complete process of self-hosting
-    n8n on Docker in just 5 simple steps, with detailed explanations and code samples,
-    regardless of your technical background.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-self-host-n8n-on-docker-in-5-simple-steps
-  pub_date: '2026-01-12T15:00:55'
-  source: KDnuggets
-  title: How to Self-Host n8n on Docker in 5 Simple Steps
 - category: ai-research
   description: While the growing energy demands of AI are worrying, some techniques
     can also help make power grids cleaner and more efficient.
@@ -248,4 +246,4 @@ articles:
   pub_date: '2025-04-09T12:00:00'
   source: Google AI Blog
   title: Google Cloud Next 25
-last_updated: '2026-01-16T06:35:40.906629'
+last_updated: '2026-01-17T06:31:47.792337'

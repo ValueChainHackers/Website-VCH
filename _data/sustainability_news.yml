@@ -1,5 +1,47 @@
 articles:
 - category: supply-chain
+  description: USPS is opening competitive bidding for direct access to its last-mile
+    delivery units as it looks for new revenue and faster delivery options.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-opens-last-mile-delivery-units-to-competitive-bidding
+  pub_date: '2026-01-16T14:31:00'
+  source: Supply Chain 24/7
+  title: USPS Opens Last-Mile Delivery Facilities to Competitive Bidding
+- category: supply-chain
+  description: C.H. Robinson is urging the Supreme Court to keep a single federal
+    framework for freight brokers instead of allowing different state laws.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ch-robinson-supreme-court-freight-liability
+  pub_date: '2026-01-16T14:02:00'
+  source: Supply Chain 24/7
+  title: C.H. Robinson Calls on Supreme Court to Clarify Federal Freight Rules
+- category: supply-chain
+  description: EPG is using AI and NVIDIA technology to help logistics systems react
+    faster, spot risks earlier, and make better day-to-day decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/epg-ai-logistics-nvidia-aura
+  pub_date: '2026-01-16T13:48:00'
+  source: Supply Chain 24/7
+  title: EPG and NVIDIA Partner to Add Real-Time AI to Warehouses
+- category: supply-chain
+  description: The end of the de minimis rule is making international returns more
+    expensive, forcing U.S. brands to rethink how they handle cross-border sales and
+    returns.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/the-end-of-de-minimis-is-making-international-returns-costly
+  pub_date: '2026-01-16T11:58:00'
+  source: Supply Chain 24/7
+  title: How the End of De Minimis Is Raising the Cost of International Returns
+- category: circular
+  description: Defra has pushed back against media reports that households could face
+    GBP400 fines for recycling 37 'prohibited' items as part of Simpler Recycling
+    reforms. The post Defra challenges 'completely fals...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/defra-challenges-completely-false-simpler-recycling-reports/
+  pub_date: '2026-01-16T11:00:38'
+  source: Circular Online
+  title: Defra challenges ‘completely false’ Simpler Recycling reports
+- category: supply-chain
   description: Amazon is pushing ahead with plans for its biggest retail store yet,
     a massive Illinois location that would compete directly with Walmart's big-box
     model.
@@ -60,31 +102,6 @@ articles:
   pub_date: '2026-01-14T17:06:00'
   source: Supply Chain 24/7
   title: How Supply Chains Are Adjusting to Constant Disruption
-- category: supply-chain
-  description: U.S. warehouse construction has stopped declining, but high costs and
-    tight financing are still holding back new development, according to a report
-    from Interact Analysis.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-warehouse-construction-bottoms-out-interact-analysis-report
-  pub_date: '2026-01-14T14:04:00'
-  source: Supply Chain 24/7
-  title: Warehouse Construction Stabilizes, but Developers Remain Cautious
-- category: supply-chain
-  description: Hidden cyber gaps across vendors, warehouse technology, and cloud systems
-    are creating growing risks for modern supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hidden-cyber-gaps-supply-chain-risk
-  pub_date: '2026-01-14T12:38:00'
-  source: Supply Chain 24/7
-  title: The Most Overlooked Cyber Vulnerabilities in Modern Supply Chains
-- category: supply-chain
-  description: A new LiquiDonate report shows return-related fraud is rising fast
-    and adding real costs for retailers as e-commerce grows.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/liquidonate-2026-returns-fraud-report-retail-costs
-  pub_date: '2026-01-14T12:29:00'
-  source: Supply Chain 24/7
-  title: Retail Returns Fraud Hits New Levels as E-Commerce Grows
 - category: circular
   description: PackUK has appointed members to the Scheme Administrator Steering Group,
     completing the appointment of all four of its key advisory groups. The post PackUK
@@ -103,14 +120,6 @@ articles:
   pub_date: '2026-01-14T09:08:15'
   source: Circular Online
   title: eBay Expands Circular Fashion Fund Across Europe and North America
-- category: supply-chain
-  description: U.S. exports to China showed early signs of recovery in December, but
-    imports remain weak as tariffs continue to reshape trade and shipping patterns.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-china-trade-exports-recover-imports-lag
-  pub_date: '2026-01-13T15:14:00'
-  source: Supply Chain 24/7
-  title: Exports to China Rebound Slightly While Imports Stay Weak
 - category: circular
   description: Leeds City Council partners with Podback, a not-for-profit coffee pod
     recycling service, to trial coffee pod recycling at household waste recycling
@@ -165,13 +174,4 @@ articles:
   pub_date: '2026-01-09T11:41:10'
   source: Circular Online
   title: News in brief | CIWM Commercial Partner Updates January
-- category: circular
-  description: Atlantic Recycling Ltd has been fined GBP40,000 for contravening a
-    condition of its environmental permit for its waste site in Cardiff. The post
-    Firm involved in political scandal fined for waste fire...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/firm-involved-in-political-scandal-fined-for-waste-fire-permit-breaches/
-  pub_date: '2026-01-09T10:23:30'
-  source: Circular Online
-  title: Firm involved in political scandal fined for waste fire permit breaches
-last_updated: '2026-01-16T06:35:39.656281'
+last_updated: '2026-01-17T06:31:46.810677'
