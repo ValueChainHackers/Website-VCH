@@ -1,5 +1,21 @@
 articles:
 - category: supply-chain
+  description: An Iowa hot sauce company is suing its manufacturer, claiming faulty
+    production caused bottles to ferment, explode, and rack up $700,000 in losses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/exploding-hot-sauce-iowa-company-sues-manufacturer-over-bottles
+  pub_date: '2026-01-19T01:17:00'
+  source: Supply Chain 24/7
+  title: Exploding Hot Sauce Bottles Lead Iowa Company to Sue Manufacturer
+- category: supply-chain
+  description: FedEx has named the board of directors for FedEx Freight ahead of its
+    planned June 2026 spin-off.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-announces-board-of-directors-for-freight-spin-off
+  pub_date: '2026-01-19T01:04:00'
+  source: Supply Chain 24/7
+  title: FedEx Announces Board of Directors for Freight Spin-Off
+- category: supply-chain
   description: USPS is opening competitive bidding for direct access to its last-mile
     delivery units as it looks for new revenue and faster delivery options.
   icon: fa-box
@@ -84,24 +100,6 @@ articles:
   pub_date: '2026-01-15T02:16:00'
   source: Supply Chain 24/7
   title: Port of Virginia Nears Finish Line on $1.4 Billion Gateway Project
-- category: supply-chain
-  description: Explore the 2026 freight spot market outlook with data-driven insights
-    on pricing, capacity, contracts vs. spot freight, and procurement strategies for
-    shippers, carriers, and brokers.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/2026-freight-spot-market-outlook-strategies-for-shippers-carriers-and-brokers
-  pub_date: '2026-01-14T18:17:00'
-  source: Supply Chain 24/7
-  title: '2026 Freight Spot Market Outlook: Strategies for Shippers, Carriers, and
-    Brokers'
-- category: supply-chain
-  description: Loftware's 2026 report outlines five trends showing how supply chains
-    are shifting toward greater connectivity, flexibility, and traceability.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/loftware-2026-supply-chain-trends
-  pub_date: '2026-01-14T17:06:00'
-  source: Supply Chain 24/7
-  title: How Supply Chains Are Adjusting to Constant Disruption
 - category: circular
   description: PackUK has appointed members to the Scheme Administrator Steering Group,
     completing the appointment of all four of its key advisory groups. The post PackUK
@@ -174,4 +172,4 @@ articles:
   pub_date: '2026-01-09T11:41:10'
   source: Circular Online
   title: News in brief | CIWM Commercial Partner Updates January
-last_updated: '2026-01-18T06:32:25.467836'
+last_updated: '2026-01-19T06:39:44.725117'
