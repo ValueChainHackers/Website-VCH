@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: A court has thrown out Biffa's GBP50m lawsuit against the Scottish
+    government over its collapsed deposit return scheme (DRS). The post Court throws
+    out GBP50m Biffa lawsuit over failed Scottish DRS ap...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/court-throws-out-50m-biffa-lawsuit-over-failed-scottish-drs/
+  pub_date: '2026-01-19T10:04:08'
+  source: Circular Online
+  title: Court throws out £50m Biffa lawsuit over failed Scottish DRS
 - category: supply-chain
   description: An Iowa hot sauce company is suing its manufacturer, claiming faulty
     production caused bottles to ferment, explode, and rack up $700,000 in losses.
@@ -163,13 +172,4 @@ articles:
   pub_date: '2026-01-12T10:18:57'
   source: Circular Online
   title: Southall recycling centre fire causes travel chaos
-- category: circular
-  description: 'News updates written by CIWM''s commercial partners. Beyondly Beyondly''s
-    Events: 2025 Round-Up Vision Techniques Vision Techniques spread festive cheer
-    with gift donation to local hospital Alfred H Kni...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-january-2/
-  pub_date: '2026-01-09T11:41:10'
-  source: Circular Online
-  title: News in brief | CIWM Commercial Partner Updates January
-last_updated: '2026-01-19T06:39:44.725117'
+last_updated: '2026-01-20T06:37:24.311172'
