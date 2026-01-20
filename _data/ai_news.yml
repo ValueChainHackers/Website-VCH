@@ -1,5 +1,29 @@
 articles:
 - category: machine-learning
+  description: Cyber threats aren't slowing down, and data teams are now some of the
+    most attractive targets in the small business world.
+  icon: fa-chart-bar
+  link: https://bit.ly/4jOFnEB
+  pub_date: '2026-01-20T03:11:53'
+  source: KDnuggets
+  title: When Should SMB Data Teams Bring in Professional Security Expertise? (Sponsored)
+- category: machine-learning
+  description: Uncover how advanced hyperparameter search methods in machine learning
+    work, and why they can find optimal model configurations faster.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-hyperparameter-tuning-techniques-that-go-beyond-grid-search
+  pub_date: '2026-01-19T15:00:12'
+  source: KDnuggets
+  title: 3 Hyperparameter Tuning Techniques That Go Beyond Grid Search
+- category: machine-learning
+  description: Stop wrestling with messy JSON. These five Python functions help you
+    parse, validate, and transform JSON data efficiently.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-diy-python-functions-for-json-parsing-and-processing
+  pub_date: '2026-01-19T13:00:59'
+  source: KDnuggets
+  title: 5 Useful DIY Python Functions for JSON Parsing and Processing
+- category: machine-learning
   description: Images, containers, volumes, and networks... Docker terms often sound
     complex to beginners. This quick guide explains Docker essentials to get started.
   icon: fa-chart-bar
@@ -110,14 +134,6 @@ articles:
   pub_date: '2026-01-14T00:01:43'
   source: KDnuggets
   title: 'Delegating Without Chaos: Your Business Can’t Grow Until You Let Go (Sponsored)'
-- category: machine-learning
-  description: Stop using print statements and start logging like a pro. This guide
-    shows Python developers how to log smarter and debug faster.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-complete-guide-to-logging-for-python-developers
-  pub_date: '2026-01-13T17:00:10'
-  source: KDnuggets
-  title: The Complete Guide to Logging for Python Developers
 - category: ai-research
   description: A collage of various generated images, including an astronaut on Mars,
     a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up
@@ -127,21 +143,6 @@ articles:
   pub_date: '2026-01-13T17:00:00'
   source: Google AI Blog
   title: 'Veo 3.1 Ingredients to Video: More consistency, creativity and control'
-- category: machine-learning
-  description: Same data, different formats, very different performance.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/csv-vs-parquet-vs-arrow-storage-formats-explained
-  pub_date: '2026-01-13T15:00:55'
-  source: KDnuggets
-  title: 'CSV vs. Parquet vs. Arrow: Storage Formats Explained'
-- category: machine-learning
-  description: Feature engineering doesn't have to be complex. These 5 Python scripts
-    help you create meaningful features that improve model performance.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-engineering
-  pub_date: '2026-01-13T13:00:14'
-  source: KDnuggets
-  title: 5 Useful Python Scripts for Effective Feature Engineering
 - category: ai-research
   description: While the growing energy demands of AI are worrying, some techniques
     can also help make power grids cleaner and more efficient.
@@ -246,4 +247,4 @@ articles:
   pub_date: '2025-04-09T12:00:00'
   source: Google AI Blog
   title: Google Cloud Next 25
-last_updated: '2026-01-19T06:39:45.835251'
+last_updated: '2026-01-20T06:37:25.493160'
