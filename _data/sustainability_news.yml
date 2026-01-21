@@ -1,4 +1,96 @@
 articles:
+- category: supply-chain
+  description: Learn the truth about autonomous mobile robots (AMRs) in warehouses.
+    We debunk 10 common AMR myths around cost, safety, jobs, and complexity.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/autonomous-mobile-robots-amrs-10-common-myths-explained-for-warehouses
+  pub_date: '2026-01-20T19:00:00'
+  source: Supply Chain 24/7
+  title: 'Autonomous Mobile Robots (AMRs): 10 Common Myths Explained for Warehouses'
+- category: supply-chain
+  description: Amazon Now's London launch highlights the widening trend of same-day
+    and ultra-fast delivery for groceries and essentials.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-now-london-30-minute-delivery-same-day-trend
+  pub_date: '2026-01-20T16:19:00'
+  source: Supply Chain 24/7
+  title: Amazon Now Launches in London, Offering 30-Minute Delivery
+- category: supply-chain
+  description: A proposed federal rule limiting non-domiciled CDLs is drawing heavy
+    opposition over concerns it could shrink the driver workforce.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/non-domiciled-cdl-rule-faces-trucking-industry-pushback
+  pub_date: '2026-01-20T14:12:00'
+  source: Supply Chain 24/7
+  title: New CDL Rule Faces Heavy Opposition From Trucking Groups
+- category: supply-chain
+  description: An ORTEC survey shows 42% of logistics leaders are holding off on Agentic
+    AI, making 2026 a critical year to test its real-world value.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ortec-survey-logistics-leaders-hold-back-agentic-ai-2026
+  pub_date: '2026-01-20T13:59:00'
+  source: Supply Chain 24/7
+  title: Survey Finds 42% of Logistics Leaders Aren’t Using Agentic AI
+- category: supply-chain
+  description: Tariffs are driving higher costs and layoffs across supply chains,
+    with new survey data showing growing pressure on jobs, planning, and investment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/32-of-supply-chain-managers-say-tariffs-are-driving-layoffs
+  pub_date: '2026-01-20T12:30:00'
+  source: Supply Chain 24/7
+  title: 32% of Supply Chain Managers Say Tariffs Are Driving More Layoffs
+- category: supply-chain
+  description: Micron has officially begun construction on a large chipmaking campus
+    in central New York as part of a long-term push to expand U.S. semiconductor production.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/micron-breaks-ground-new-york-chip-plant
+  pub_date: '2026-01-20T12:25:00'
+  source: Supply Chain 24/7
+  title: Micron Breaks Ground on Massive Chip Plant by Syracuse, New York
+- category: circular
+  description: Natural Polymers Group say MPs have backed calls to ramp up government
+    support for British businesses at the forefront of developing alternative solutions
+    to plastic packaging. MPs were urged to suppo...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/mps-backs-call-for-greater-support-of-plastic-packaging-alternatives/
+  pub_date: '2026-01-20T12:17:58'
+  source: Circular Online
+  title: MPs ‘backs call’ for greater support of plastic packaging alternatives
+- category: circular
+  description: The University of Birmingham has launched a new facility for separating
+    and recycling rare earth magnets. The post Rare earth magnet recycling facility
+    opens in West Midlands appeared first on Circula...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/rare-earth-magnet-recycling-facility-opens-in-west-midlands/
+  pub_date: '2026-01-20T10:18:58'
+  source: Circular Online
+  title: Rare earth magnet recycling facility opens in West Midlands
+- category: circular
+  description: Scientists working on safe, degradable alternatives to plastics made
+    from agricultural waste awarded GBP500,000 2026 Hill Prize in Physical Sciences
+    The post Biodegradable plastics research wins $500k...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/biodegradable-plastics-research-wins-500k-hill-prize/
+  pub_date: '2026-01-20T07:30:00'
+  source: Circular Online
+  title: Biodegradable plastics research wins $500k Hill Prize
+- category: supply-chain
+  description: A comprehensive warehouse management guide covering key workflows,
+    systems like WMS, performance metrics, and practical tips to boost productivity,
+    accuracy, and cost control.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/complete-warehouse-management-guide-for-efficient-operations
+  pub_date: '2026-01-19T17:29:00'
+  source: Supply Chain 24/7
+  title: Complete Warehouse Management Guide for Efficient Operations
+- category: supply-chain
+  description: Learn what LTL General Rate Increases are, why carriers raise rates,
+    and how shippers can reduce freight cost increases with smarter LTL strategies.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/ltl-general-rate-increases-explained-a-shippers-guide-for-2026
+  pub_date: '2026-01-19T17:07:00'
+  source: Supply Chain 24/7
+  title: 'LTL General Rate Increases Explained: A Shipper’s Guide for 2026'
 - category: circular
   description: A court has thrown out Biffa's GBP50m lawsuit against the Scottish
     government over its collapsed deposit return scheme (DRS). The post Court throws
@@ -24,39 +116,6 @@ articles:
   pub_date: '2026-01-19T01:04:00'
   source: Supply Chain 24/7
   title: FedEx Announces Board of Directors for Freight Spin-Off
-- category: supply-chain
-  description: USPS is opening competitive bidding for direct access to its last-mile
-    delivery units as it looks for new revenue and faster delivery options.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usps-opens-last-mile-delivery-units-to-competitive-bidding
-  pub_date: '2026-01-16T14:31:00'
-  source: Supply Chain 24/7
-  title: USPS Opens Last-Mile Delivery Facilities to Competitive Bidding
-- category: supply-chain
-  description: C.H. Robinson is urging the Supreme Court to keep a single federal
-    framework for freight brokers instead of allowing different state laws.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ch-robinson-supreme-court-freight-liability
-  pub_date: '2026-01-16T14:02:00'
-  source: Supply Chain 24/7
-  title: C.H. Robinson Calls on Supreme Court to Clarify Federal Freight Rules
-- category: supply-chain
-  description: EPG is using AI and NVIDIA technology to help logistics systems react
-    faster, spot risks earlier, and make better day-to-day decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/epg-ai-logistics-nvidia-aura
-  pub_date: '2026-01-16T13:48:00'
-  source: Supply Chain 24/7
-  title: EPG and NVIDIA Partner to Add Real-Time AI to Warehouses
-- category: supply-chain
-  description: The end of the de minimis rule is making international returns more
-    expensive, forcing U.S. brands to rethink how they handle cross-border sales and
-    returns.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/the-end-of-de-minimis-is-making-international-returns-costly
-  pub_date: '2026-01-16T11:58:00'
-  source: Supply Chain 24/7
-  title: How the End of De Minimis Is Raising the Cost of International Returns
 - category: circular
   description: Defra has pushed back against media reports that households could face
     GBP400 fines for recycling 37 'prohibited' items as part of Simpler Recycling
@@ -66,31 +125,6 @@ articles:
   pub_date: '2026-01-16T11:00:38'
   source: Circular Online
   title: Defra challenges ‘completely false’ Simpler Recycling reports
-- category: supply-chain
-  description: Amazon is pushing ahead with plans for its biggest retail store yet,
-    a massive Illinois location that would compete directly with Walmart's big-box
-    model.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-big-box-store-orland-park-illinois
-  pub_date: '2026-01-15T18:08:00'
-  source: Supply Chain 24/7
-  title: Amazon Targets Walmart With Massive Retail Store Near Chicago
-- category: supply-chain
-  description: As return rates soar, retailers are being forced to treat reverse logistics
-    as a core supply chain function instead of a costly afterthought.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/retail-returns-supply-chain-dhl-data
-  pub_date: '2026-01-15T17:44:00'
-  source: Supply Chain 24/7
-  title: 'DHL: Some Apparel Return Rates Near 90% in Post-Holiday Season'
-- category: supply-chain
-  description: Supply chains now see problems faster than they can act on them, and
-    misaligned decision structures are the reason why.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-supply-chain-decisions-slow-down
-  pub_date: '2026-01-15T12:38:00'
-  source: Supply Chain 24/7
-  title: 'Better Data, Same Problems: Where Supply Chains Get Stuck'
 - category: circular
   description: Sarah Mukherjee and Mark Suthern have been reappointed to the Board
     of the Environment Agency. The post Reappointments made to the Environment Agency
@@ -100,15 +134,6 @@ articles:
   pub_date: '2026-01-15T09:52:09'
   source: Circular Online
   title: Reappointments made to the Environment Agency Board
-- category: supply-chain
-  description: The Port of Virginia is close to completing a major channel deepening
-    and terminal upgrade that will allow bigger ships to move in and out with fewer
-    limits.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/port-of-virginia-nears-completion-gateway-investment-program
-  pub_date: '2026-01-15T02:16:00'
-  source: Supply Chain 24/7
-  title: Port of Virginia Nears Finish Line on $1.4 Billion Gateway Project
 - category: circular
   description: PackUK has appointed members to the Scheme Administrator Steering Group,
     completing the appointment of all four of its key advisory groups. The post PackUK
@@ -145,31 +170,4 @@ articles:
   pub_date: '2026-01-13T09:37:52'
   source: Circular Online
   title: EU invests €6m in piloting a deposit return scheme for textiles
-- category: circular
-  description: Waste management company Biffa have signed a GBP12 million contract
-    to upgrade a materials recovery facility (MRF) near Ipswich. The post Suffolk
-    County Council and Biffa sign GBP12m MRF upgrade contr...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/suffolk-county-council-and-biffa-sign-12m-mrf-upgrade-contract/
-  pub_date: '2026-01-13T08:30:00'
-  source: Circular Online
-  title: Suffolk County Council and Biffa sign £12m MRF upgrade contract
-- category: circular
-  description: A Cumbria-based cellulose film packaging producer has been fined GBP200,000
-    after an employee died following exposure to harmful hydrogen sulphide gas. The
-    post Packaging firm fined after employee die...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/packaging-firm-fined-after-employee-dies-following-exposure-to-harmful-gas/
-  pub_date: '2026-01-12T10:45:45'
-  source: Circular Online
-  title: Packaging firm fined after employee dies following exposure to harmful gas
-- category: circular
-  description: A serious fire at a recycling centre in Southall is now under control
-    after causing severe travel delays on Sunday night. The post Southall recycling
-    centre fire causes travel chaos appeared first on ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/southall-recycling-centre-fire-causes-travel-chaos/
-  pub_date: '2026-01-12T10:18:57'
-  source: Circular Online
-  title: Southall recycling centre fire causes travel chaos
-last_updated: '2026-01-20T06:37:24.311172'
+last_updated: '2026-01-21T06:37:30.567480'
