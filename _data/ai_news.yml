@@ -1,4 +1,45 @@
 articles:
+- category: ai-research
+  description: New research detects hidden evidence of mistaken correlations - and
+    provides a method to improve accuracy.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120
+  pub_date: '2026-01-20T21:30:00'
+  source: MIT AI News
+  title: Why it’s critical to move beyond overly aggregated machine-learning metrics
+- category: ai-research
+  description: Illustration of a cinematographer filming with a professional video
+    camera mounted on a tripod, positioned next to a studio light and a film clapboard.
+  icon: fa-google
+  link: https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/
+  pub_date: '2026-01-20T20:30:00'
+  source: Google AI Blog
+  title: Building a community-led future for AI in film with Sundance Institute
+- category: machine-learning
+  description: AI can whip up Python code in no time. The challenge, however, is keeping
+    the code clean, readable, and maintainable.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job
+  pub_date: '2026-01-20T17:00:34'
+  source: KDnuggets
+  title: AI Writes Python Code, But Maintaining It Is Still Your Job
+- category: machine-learning
+  description: We tuned four classifiers on student performance data with proper nested
+    cross-validation and statistical testing. The result? Tuning changed nothing.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/we-tuned-4-classifiers-on-the-same-dataset-none-actually-improved
+  pub_date: '2026-01-20T15:00:39'
+  source: KDnuggets
+  title: 'We Tuned 4 Classifiers on the Same Dataset: None Actually Improved'
+- category: machine-learning
+  description: The most trusted GitHub repositories to help you master coding interviews,
+    system design, backend engineering, scalability, data structures and algorithms,
+    and machine learning interviews with confide...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview
+  pub_date: '2026-01-20T13:00:55'
+  source: KDnuggets
+  title: 10 GitHub Repositories to Ace Any Tech Interview
 - category: machine-learning
   description: Cyber threats aren't slowing down, and data teams are now some of the
     most attractive targets in the small business world.
@@ -91,16 +132,6 @@ articles:
   pub_date: '2026-01-14T21:00:00'
   source: MIT AI News
   title: Generative AI tool helps 3D print personal items that sustain daily use
-- category: machine-learning
-  description: 'Machine learning practitioners encounter three persistent challenges
-    that can undermine model performance: overfitting, class imbalance, and feature
-    scaling issues.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/avoiding-overfitting-class-imbalance-feature-scaling-issues-the-machine-learning-practitioners-notebook
-  pub_date: '2026-01-14T14:56:26'
-  source: KDnuggets
-  title: 'Avoiding Overfitting, Class Imbalance, & Feature Scaling Issues: The Machine
-    Learning Practitioner’s Notebook'
 - category: ai-research
   description: A drawing of three people working on laptops, with one person's screen
     showing "Kaggle Benchmark Results" with "Gemini XXXX" and a large "PASS" checkmark.1
@@ -109,14 +140,6 @@ articles:
   pub_date: '2026-01-14T14:00:00'
   source: Google AI Blog
   title: Introducing Community Benchmarks on Kaggle
-- category: machine-learning
-  description: A quick guide to the best code sandboxes for AI agents, so your LLM
-    can build, test, and debug safely without touching your production infrastructure.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-code-sandbox-for-your-ai-agents
-  pub_date: '2026-01-14T13:00:28'
-  source: KDnuggets
-  title: 5 Code Sandboxes for Your AI Agents
 - category: ai-research
   description: Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards
     for the film "Lily" by Zoubeir Jlassi. He stands by a trophy podium while Anthony
@@ -126,14 +149,6 @@ articles:
   pub_date: '2026-01-14T10:00:00'
   source: Google AI Blog
   title: Announcing the winner of the Global AI Film Award
-- category: machine-learning
-  description: Delegating without chaos is the difference between a business that
-    plateaus and one that scales.
-  icon: fa-chart-bar
-  link: https://bit.ly/45cyTt4#new_tab
-  pub_date: '2026-01-14T00:01:43'
-  source: KDnuggets
-  title: 'Delegating Without Chaos: Your Business Can’t Grow Until You Let Go (Sponsored)'
 - category: ai-research
   description: A collage of various generated images, including an astronaut on Mars,
     a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up
@@ -201,15 +216,6 @@ articles:
   source: MIT AI News
   title: Guided learning lets “untrainable” neural networks realize their potential
 - category: ai-research
-  description: MIT-IBM Watson AI Lab researchers developed an expressive architecture
-    that provides better state tracking and sequential reasoning in LLMs over long
-    texts.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217
-  pub_date: '2025-12-18T04:10:00'
-  source: MIT AI News
-  title: A new way to increase the capabilities of large language models
-- category: ai-research
   description: Learn more about Google's launches, milestones and more from 2025.
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/ai/look-back-2025/
@@ -240,11 +246,4 @@ articles:
   pub_date: '2025-05-20T17:45:00'
   source: Google AI Blog
   title: I/O 2025
-- category: ai-research
-  description: Here's a look at what we announced at Google Cloud Next 25.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2025/
-  pub_date: '2025-04-09T12:00:00'
-  source: Google AI Blog
-  title: Google Cloud Next 25
-last_updated: '2026-01-20T06:37:25.493160'
+last_updated: '2026-01-21T06:37:31.555012'
