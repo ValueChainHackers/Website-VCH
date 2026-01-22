@@ -1,4 +1,29 @@
 articles:
+- category: machine-learning
+  description: Understanding data starts with statistics. These 7 statistics concepts
+    give you the foundation to analyze and interpret with confidence.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-statistical-concepts-every-data-scientist-should-master-and-why
+  pub_date: '2026-01-21T17:00:31'
+  source: KDnuggets
+  title: 7 Statistical Concepts Every Data Scientist Should Master (and Why)
+- category: machine-learning
+  description: Through the lens of a serial entrepreneur, this article explores how
+    the AI revolution is shifting from infrastructure to the application layer, where
+    the greatest opportunities lie in solving special...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/navigating-ai-entrepreneurship-insights-from-the-application-layer
+  pub_date: '2026-01-21T15:00:38'
+  source: KDnuggets
+  title: 'Navigating AI Entrepreneurship: Insights From The Application Layer'
+- category: machine-learning
+  description: These five options make long-running jobs easier, faster, and less
+    frustrating than Colab.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-alternatives-to-google-colab-for-long-running-tasks
+  pub_date: '2026-01-21T11:37:31'
+  source: KDnuggets
+  title: 5 Alternatives to Google Colab for Long-Running Tasks
 - category: ai-research
   description: New research detects hidden evidence of mistaken correlations - and
     provides a method to improve accuracy.
@@ -72,15 +97,6 @@ articles:
   pub_date: '2026-01-16T15:00:40'
   source: KDnuggets
   title: 10 Essential Docker Concepts Explained in Under 10 Minutes
-- category: machine-learning
-  description: Large open-source language models are now widely accessible, and this
-    article compares leading AI API providers on performance, pricing, latency, and
-    real-world reliability to help you choose the righ...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-open-source-ai-model-api-providers
-  pub_date: '2026-01-16T13:00:05'
-  source: KDnuggets
-  title: Top 5 Open-Source AI Model API Providers
 - category: ai-research
   description: A Nano Banana-generated image showing yellow bananas spelling out 'Nano
     Banana' on a bed of additional yellow bananas
@@ -89,24 +105,6 @@ articles:
   pub_date: '2026-01-15T16:06:00'
   source: Google AI Blog
   title: How Nano Banana got its name
-- category: machine-learning
-  description: Google Antigravity marks the beginning of the "agent-first" era, It
-    isn't just a Copilot, it's a platform where you stop being the typist and start
-    being the architect.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/google-antigravity-ai-first-development-with-this-new-ide
-  pub_date: '2026-01-15T15:00:31'
-  source: KDnuggets
-  title: 'Google Antigravity: AI-First Development with This New IDE'
-- category: machine-learning
-  description: This list focuses on tools that streamline real workflows across data,
-    operations, and content, not flashy demos or brittle bots. Each one earns its
-    place by reducing manual effort while keeping human...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-ai-automation-tools-for-streamlined-workflows
-  pub_date: '2026-01-15T13:00:41'
-  source: KDnuggets
-  title: 7 AI Automation Tools for Streamlined Workflows
 - category: ai-research
   description: Teacher using a computer with students
   icon: fa-google
@@ -246,4 +244,4 @@ articles:
   pub_date: '2025-05-20T17:45:00'
   source: Google AI Blog
   title: I/O 2025
-last_updated: '2026-01-21T06:37:31.555012'
+last_updated: '2026-01-22T06:36:37.613012'

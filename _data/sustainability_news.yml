@@ -1,5 +1,56 @@
 articles:
 - category: supply-chain
+  description: Tariffs, AI data gaps, viral demand, and fraud are keeping supply chain
+    leaders stuck in reactive mode heading into 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-risks-2026-tariffs-ai-demand-fraud
+  pub_date: '2026-01-21T16:14:00'
+  source: Supply Chain 24/7
+  title: The Supply Chain Challenges that Refuse to Go Away in 2026
+- category: supply-chain
+  description: Gartner says humanoid robots are still years away from real supply
+    chain use, while simpler, task-focused robots are already winning in warehouses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-humanoid-robots-supply-chain-warehouse-2028
+  pub_date: '2026-01-21T16:05:00'
+  source: Supply Chain 24/7
+  title: 'Gartner: Few Companies Will Roll Out Humanoid Robots by 2028'
+- category: supply-chain
+  description: Manufacturing and supply chain-focused companies are gaining ground
+    on Glassdoor's Best Places to Work list for 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/glassdoor-best-places-to-work-2026-manufacturing-supply-chain
+  pub_date: '2026-01-21T13:39:00'
+  source: Supply Chain 24/7
+  title: Manufacturing Gains Ground on Glassdoor’s 2026 Best Places to Work List
+- category: circular
+  description: Welsh charities urge the UK Government to approve the Welsh Government's
+    request to collect glass as part of its Deposit Return Scheme (DRS). The post
+    Charities urge UK Government to allow Wales to co...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/charities-urge-uk-government-to-allow-wales-to-collect-glass-in-its-drs/
+  pub_date: '2026-01-21T12:03:37'
+  source: Circular Online
+  title: Charities urge UK Government to allow Wales to collect glass in its DRS
+- category: circular
+  description: Birmingham City Council's financial monitoring report estimates strike
+    action by refuse workers will cost the local authority GBP14.6m if the dispute
+    is not resolved before March. The post Birmingham ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/birmingham-bin-strikes-forecast-to-cost-council-14-6m/
+  pub_date: '2026-01-21T11:05:56'
+  source: Circular Online
+  title: Birmingham bin strikes forecast to cost council £14.6m
+- category: circular
+  description: Ivybridge Recycling Centre in Devon was evacuated yesterday after a
+    tank shell was found in a non-recyclable waste container. The post Tank shell
+    discovery forces Devon recycling centre to close appea...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/tank-shell-discovery-forces-devon-recycling-centre-to-close/
+  pub_date: '2026-01-21T09:20:53'
+  source: Circular Online
+  title: Tank shell discovery forces Devon recycling centre to close
+- category: supply-chain
   description: Learn the truth about autonomous mobile robots (AMRs) in warehouses.
     We debunk 10 common AMR myths around cost, safety, jobs, and complexity.
   icon: fa-box
@@ -83,14 +134,6 @@ articles:
   pub_date: '2026-01-19T17:29:00'
   source: Supply Chain 24/7
   title: Complete Warehouse Management Guide for Efficient Operations
-- category: supply-chain
-  description: Learn what LTL General Rate Increases are, why carriers raise rates,
-    and how shippers can reduce freight cost increases with smarter LTL strategies.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/ltl-general-rate-increases-explained-a-shippers-guide-for-2026
-  pub_date: '2026-01-19T17:07:00'
-  source: Supply Chain 24/7
-  title: 'LTL General Rate Increases Explained: A Shipper’s Guide for 2026'
 - category: circular
   description: A court has thrown out Biffa's GBP50m lawsuit against the Scottish
     government over its collapsed deposit return scheme (DRS). The post Court throws
@@ -100,22 +143,6 @@ articles:
   pub_date: '2026-01-19T10:04:08'
   source: Circular Online
   title: Court throws out £50m Biffa lawsuit over failed Scottish DRS
-- category: supply-chain
-  description: An Iowa hot sauce company is suing its manufacturer, claiming faulty
-    production caused bottles to ferment, explode, and rack up $700,000 in losses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/exploding-hot-sauce-iowa-company-sues-manufacturer-over-bottles
-  pub_date: '2026-01-19T01:17:00'
-  source: Supply Chain 24/7
-  title: Exploding Hot Sauce Bottles Lead Iowa Company to Sue Manufacturer
-- category: supply-chain
-  description: FedEx has named the board of directors for FedEx Freight ahead of its
-    planned June 2026 spin-off.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-announces-board-of-directors-for-freight-spin-off
-  pub_date: '2026-01-19T01:04:00'
-  source: Supply Chain 24/7
-  title: FedEx Announces Board of Directors for Freight Spin-Off
 - category: circular
   description: Defra has pushed back against media reports that households could face
     GBP400 fines for recycling 37 'prohibited' items as part of Simpler Recycling
@@ -143,31 +170,4 @@ articles:
   pub_date: '2026-01-14T11:04:02'
   source: Circular Online
   title: PackUK appoints advisory group members and Chairs
-- category: circular
-  description: eBay is expanding its Circular Fashion Fund in 2026 to applications
-    from businesses and startups across the EU, Switzerland, and Canada for the first
-    time. The post eBay Expands Circular Fashion Fund ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ebay-expands-circular-fashion-fund-across-europe-and-north-america/
-  pub_date: '2026-01-14T09:08:15'
-  source: Circular Online
-  title: eBay Expands Circular Fashion Fund Across Europe and North America
-- category: circular
-  description: Leeds City Council partners with Podback, a not-for-profit coffee pod
-    recycling service, to trial coffee pod recycling at household waste recycling
-    centres at Kirkstall, Wetherby and Yeadon. The centr...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/leeds-city-council-partners-to-trial-coffee-pod-recycling-at-hwrcs/
-  pub_date: '2026-01-13T10:24:36'
-  source: Circular Online
-  title: Leeds City Council partners to trial coffee pod recycling at HWRCs
-- category: circular
-  description: A new EU-funded project has been launched to develop a deposit return
-    scheme (DRS) for post-consumer textiles across Europe. The post EU invests 6m
-    in piloting a deposit return scheme for textiles app...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/eu-invests-e6m-in-piloting-a-deposit-return-scheme-for-textiles/
-  pub_date: '2026-01-13T09:37:52'
-  source: Circular Online
-  title: EU invests €6m in piloting a deposit return scheme for textiles
-last_updated: '2026-01-21T06:37:30.567480'
+last_updated: '2026-01-22T06:36:36.695431'
