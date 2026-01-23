@@ -1,5 +1,55 @@
 articles:
 - category: supply-chain
+  description: A new report from Motive shows fewer major crashes in 2025 as fleets
+    use AI to spot risk early, but driver behavior and certain times of day still
+    fuel danger on the road.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/motive-2026-ai-road-safety-report
+  pub_date: '2026-01-22T16:54:00'
+  source: Supply Chain 24/7
+  title: Why Fleets Are Learning More From Near Misses Than Crashes
+- category: supply-chain
+  description: Zipline is rolling out its autonomous drone delivery service in Houston
+    and Phoenix in early 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/zipline-drone-delivery-launches-houston-phoenix-2026
+  pub_date: '2026-01-22T16:34:00'
+  source: Supply Chain 24/7
+  title: Zipline Expands Drone Delivery Service To Houston And Phoenix
+- category: supply-chain
+  description: A new industry survey from CADDi finds 79% of manufacturing leaders
+    say the skilled labor shortage remains their biggest challenge heading into 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-skilled-labor-shortage-2026-caddi-study
+  pub_date: '2026-01-22T15:29:00'
+  source: Supply Chain 24/7
+  title: 79% of Manufacturing Leaders Cite Skilled Labor as Top Challenge
+- category: supply-chain
+  description: USPS has launched a bidding platform that allows more companies to
+    access its last-mile delivery network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-opens-bidding-platform-last-mile-delivery
+  pub_date: '2026-01-22T13:32:00'
+  source: Supply Chain 24/7
+  title: USPS Opens Bidding Platform for Last-Mile Delivery Access
+- category: supply-chain
+  description: USPS says holiday delivery performance improved this year with faster
+    average delivery times, fewer customer complaints, and higher satisfaction.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-holiday-delivery-performance-faster-and-higher-satisfaction
+  pub_date: '2026-01-22T12:26:00'
+  source: Supply Chain 24/7
+  title: USPS Says Holiday Mail and Package Delivery Ran Faster This Season
+- category: circular
+  description: CIWM announces partnership with the UK Government to support its new
+    Change Network, which aims to facilitate the implementation of Simpler Recycling
+    in England. The post CIWM Partners with Defra on C...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-partners-with-defra-on-change-network-for-simpler-recycling/
+  pub_date: '2026-01-22T08:00:00'
+  source: Circular Online
+  title: CIWM Partners with Defra on Change Network for Simpler Recycling
+- category: supply-chain
   description: Tariffs, AI data gaps, viral demand, and fraud are keeping supply chain
     leaders stuck in reactive mode heading into 2026.
   icon: fa-box
@@ -66,38 +116,6 @@ articles:
   pub_date: '2026-01-20T16:19:00'
   source: Supply Chain 24/7
   title: Amazon Now Launches in London, Offering 30-Minute Delivery
-- category: supply-chain
-  description: A proposed federal rule limiting non-domiciled CDLs is drawing heavy
-    opposition over concerns it could shrink the driver workforce.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/non-domiciled-cdl-rule-faces-trucking-industry-pushback
-  pub_date: '2026-01-20T14:12:00'
-  source: Supply Chain 24/7
-  title: New CDL Rule Faces Heavy Opposition From Trucking Groups
-- category: supply-chain
-  description: An ORTEC survey shows 42% of logistics leaders are holding off on Agentic
-    AI, making 2026 a critical year to test its real-world value.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ortec-survey-logistics-leaders-hold-back-agentic-ai-2026
-  pub_date: '2026-01-20T13:59:00'
-  source: Supply Chain 24/7
-  title: Survey Finds 42% of Logistics Leaders Aren’t Using Agentic AI
-- category: supply-chain
-  description: Tariffs are driving higher costs and layoffs across supply chains,
-    with new survey data showing growing pressure on jobs, planning, and investment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/32-of-supply-chain-managers-say-tariffs-are-driving-layoffs
-  pub_date: '2026-01-20T12:30:00'
-  source: Supply Chain 24/7
-  title: 32% of Supply Chain Managers Say Tariffs Are Driving More Layoffs
-- category: supply-chain
-  description: Micron has officially begun construction on a large chipmaking campus
-    in central New York as part of a long-term push to expand U.S. semiconductor production.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/micron-breaks-ground-new-york-chip-plant
-  pub_date: '2026-01-20T12:25:00'
-  source: Supply Chain 24/7
-  title: Micron Breaks Ground on Massive Chip Plant by Syracuse, New York
 - category: circular
   description: Natural Polymers Group say MPs have backed calls to ramp up government
     support for British businesses at the forefront of developing alternative solutions
@@ -125,15 +143,6 @@ articles:
   pub_date: '2026-01-20T07:30:00'
   source: Circular Online
   title: Biodegradable plastics research wins $500k Hill Prize
-- category: supply-chain
-  description: A comprehensive warehouse management guide covering key workflows,
-    systems like WMS, performance metrics, and practical tips to boost productivity,
-    accuracy, and cost control.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/complete-warehouse-management-guide-for-efficient-operations
-  pub_date: '2026-01-19T17:29:00'
-  source: Supply Chain 24/7
-  title: Complete Warehouse Management Guide for Efficient Operations
 - category: circular
   description: A court has thrown out Biffa's GBP50m lawsuit against the Scottish
     government over its collapsed deposit return scheme (DRS). The post Court throws
@@ -161,13 +170,4 @@ articles:
   pub_date: '2026-01-15T09:52:09'
   source: Circular Online
   title: Reappointments made to the Environment Agency Board
-- category: circular
-  description: PackUK has appointed members to the Scheme Administrator Steering Group,
-    completing the appointment of all four of its key advisory groups. The post PackUK
-    appoints advisory group members and Chairs a...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/packuk-appoints-advisory-group-members-and-chairs/
-  pub_date: '2026-01-14T11:04:02'
-  source: Circular Online
-  title: PackUK appoints advisory group members and Chairs
-last_updated: '2026-01-22T06:36:36.695431'
+last_updated: '2026-01-23T06:36:00.025368'
