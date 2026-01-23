@@ -1,4 +1,30 @@
 articles:
+- category: ai-research
+  description: Screenshot of the AI Mode page with the text, "Hi Lukas what's on your
+    mind?"
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/
+  pub_date: '2026-01-22T16:00:00'
+  source: Google AI Blog
+  title: 'Personal Intelligence in AI Mode in Search: Help that''s uniquely yours'
+- category: machine-learning
+  description: Open Notebook is an open-source, AI-powered platform designed to help
+    users take, organize, and interact with notes while keeping full control over
+    their data.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/open-notebook-a-true-open-source-private-notebooklm-alternative
+  pub_date: '2026-01-22T15:00:04'
+  source: KDnuggets
+  title: 'Open Notebook: A True Open Source Private NotebookLM Alternative?'
+- category: machine-learning
+  description: 'This article outlines 5 recent breakthroughs in GNNs that are worth
+    watching in the year ahead: from integration with LLMs to interdisciplinary scientific
+    discoveries.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-breakthroughs-in-graph-neural-networks-to-watch-in-2026
+  pub_date: '2026-01-22T13:00:12'
+  source: KDnuggets
+  title: 5 Breakthroughs in Graph Neural Networks to Watch in 2026
 - category: machine-learning
   description: Understanding data starts with statistics. These 7 statistics concepts
     give you the foundation to analyze and interpret with confidence.
@@ -81,22 +107,6 @@ articles:
   pub_date: '2026-01-19T15:00:12'
   source: KDnuggets
   title: 3 Hyperparameter Tuning Techniques That Go Beyond Grid Search
-- category: machine-learning
-  description: Stop wrestling with messy JSON. These five Python functions help you
-    parse, validate, and transform JSON data efficiently.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-diy-python-functions-for-json-parsing-and-processing
-  pub_date: '2026-01-19T13:00:59'
-  source: KDnuggets
-  title: 5 Useful DIY Python Functions for JSON Parsing and Processing
-- category: machine-learning
-  description: Images, containers, volumes, and networks... Docker terms often sound
-    complex to beginners. This quick guide explains Docker essentials to get started.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-essential-docker-concepts-explained-in-under-10-minutes
-  pub_date: '2026-01-16T15:00:40'
-  source: KDnuggets
-  title: 10 Essential Docker Concepts Explained in Under 10 Minutes
 - category: ai-research
   description: A Nano Banana-generated image showing yellow bananas spelling out 'Nano
     Banana' on a bed of additional yellow bananas
@@ -236,12 +246,4 @@ articles:
   pub_date: '2025-11-17T20:00:00'
   source: Google AI Blog
   title: Investing in America 2025
-- category: ai-research
-  description: We're doing cutting-edge research to build the most helpful AI that's
-    more intelligent, agentic and personalized.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2025-collection/
-  pub_date: '2025-05-20T17:45:00'
-  source: Google AI Blog
-  title: I/O 2025
-last_updated: '2026-01-22T06:36:37.613012'
+last_updated: '2026-01-23T06:36:01.259139'
