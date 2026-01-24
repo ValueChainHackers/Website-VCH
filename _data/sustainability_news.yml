@@ -1,5 +1,47 @@
 articles:
 - category: supply-chain
+  description: DHL's year-end roundup highlights how global logistics sometimes involves
+    wildlife, art, and sports history, not just boxes and pallets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-most-unusual-deliveries-2025
+  pub_date: '2026-01-23T19:09:00'
+  source: Supply Chain 24/7
+  title: DHL Reveals Wildest Deliveries of 2025, From Baboons to Art Bears
+- category: supply-chain
+  description: North Carolina is investing $16.3 million in short-line railroads and
+    port rail upgrades to support growing freight traffic across the state.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/north-carolina-16-million-freight-rail-upgrades
+  pub_date: '2026-01-23T14:07:00'
+  source: Supply Chain 24/7
+  title: North Carolina Puts $16.3M Into Freight Rail Updates Across State
+- category: supply-chain
+  description: Echo Global Logistics has acquired ITS Logistics, creating a bigger
+    third-party logistics company with about $5.4 billion in projected revenue by
+    2025.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/echo-global-logistics-acquires-its-logistics-2026
+  pub_date: '2026-01-23T12:07:00'
+  source: Supply Chain 24/7
+  title: Echo Global Logistics Announces Plans to Acquire ITS Logistics
+- category: supply-chain
+  description: Most shippers say they expect shipping volumes to rise in 2026 but
+    are planning with caution because of tariffs and tighter capacity.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/averitt-survey-shippers-plan-2026-caution-growth
+  pub_date: '2026-01-23T12:04:00'
+  source: Supply Chain 24/7
+  title: 'Survey: 2026 Shipping Outlook Is Confident But Cautious'
+- category: circular
+  description: Zero Waste Scotland has announced Ciaran McGuigan will replace Ian
+    Gulland as its CEO. The post Zero Waste Scotland appoints Ciaran McGuigan as new
+    CEO appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/zero-waste-scotland-appoints-ciaran-mcguigan-as-new-ceo/
+  pub_date: '2026-01-23T09:10:54'
+  source: Circular Online
+  title: Zero Waste Scotland appoints Ciaran McGuigan as new CEO
+- category: supply-chain
   description: A new report from Motive shows fewer major crashes in 2025 as fleets
     use AI to spot risk early, but driver behavior and certain times of day still
     fuel danger on the road.
@@ -57,22 +99,6 @@ articles:
   pub_date: '2026-01-21T16:14:00'
   source: Supply Chain 24/7
   title: The Supply Chain Challenges that Refuse to Go Away in 2026
-- category: supply-chain
-  description: Gartner says humanoid robots are still years away from real supply
-    chain use, while simpler, task-focused robots are already winning in warehouses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-humanoid-robots-supply-chain-warehouse-2028
-  pub_date: '2026-01-21T16:05:00'
-  source: Supply Chain 24/7
-  title: 'Gartner: Few Companies Will Roll Out Humanoid Robots by 2028'
-- category: supply-chain
-  description: Manufacturing and supply chain-focused companies are gaining ground
-    on Glassdoor's Best Places to Work list for 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/glassdoor-best-places-to-work-2026-manufacturing-supply-chain
-  pub_date: '2026-01-21T13:39:00'
-  source: Supply Chain 24/7
-  title: Manufacturing Gains Ground on Glassdoor’s 2026 Best Places to Work List
 - category: circular
   description: Welsh charities urge the UK Government to approve the Welsh Government's
     request to collect glass as part of its Deposit Return Scheme (DRS). The post
@@ -100,22 +126,6 @@ articles:
   pub_date: '2026-01-21T09:20:53'
   source: Circular Online
   title: Tank shell discovery forces Devon recycling centre to close
-- category: supply-chain
-  description: Learn the truth about autonomous mobile robots (AMRs) in warehouses.
-    We debunk 10 common AMR myths around cost, safety, jobs, and complexity.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/autonomous-mobile-robots-amrs-10-common-myths-explained-for-warehouses
-  pub_date: '2026-01-20T19:00:00'
-  source: Supply Chain 24/7
-  title: 'Autonomous Mobile Robots (AMRs): 10 Common Myths Explained for Warehouses'
-- category: supply-chain
-  description: Amazon Now's London launch highlights the widening trend of same-day
-    and ultra-fast delivery for groceries and essentials.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-now-london-30-minute-delivery-same-day-trend
-  pub_date: '2026-01-20T16:19:00'
-  source: Supply Chain 24/7
-  title: Amazon Now Launches in London, Offering 30-Minute Delivery
 - category: circular
   description: Natural Polymers Group say MPs have backed calls to ramp up government
     support for British businesses at the forefront of developing alternative solutions
@@ -161,13 +171,4 @@ articles:
   pub_date: '2026-01-16T11:00:38'
   source: Circular Online
   title: Defra challenges ‘completely false’ Simpler Recycling reports
-- category: circular
-  description: Sarah Mukherjee and Mark Suthern have been reappointed to the Board
-    of the Environment Agency. The post Reappointments made to the Environment Agency
-    Board appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/reappointments-to-the-environment-agency-board/
-  pub_date: '2026-01-15T09:52:09'
-  source: Circular Online
-  title: Reappointments made to the Environment Agency Board
-last_updated: '2026-01-23T06:36:00.025368'
+last_updated: '2026-01-24T06:33:03.601251'
