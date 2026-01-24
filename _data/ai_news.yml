@@ -1,4 +1,22 @@
 articles:
+- category: machine-learning
+  description: Python remains at the forefront data science, it is still very popular
+    and useful till date. But on the other hand strengthens the foundation underneath.
+    It becomes necessary where performance, memory...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/integrating-rust-and-python-for-data-science
+  pub_date: '2026-01-23T15:00:58'
+  source: KDnuggets
+  title: Integrating Rust and Python for Data Science
+- category: machine-learning
+  description: The best self hosting platforms that help developers deploy, scale,
+    and turn their projects into production ready applications while avoiding the
+    complexity of becoming a full time DevOps engineer.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-self-hosting-platform-alternative-to-vercel-heroku-netlify
+  pub_date: '2026-01-23T13:00:59'
+  source: KDnuggets
+  title: Top 5 Self Hosting Platform Alternative to Vercel, Heroku & Netlify
 - category: ai-research
   description: Screenshot of the AI Mode page with the text, "Hi Lukas what's on your
     mind?"
@@ -91,22 +109,6 @@ articles:
   pub_date: '2026-01-20T13:00:55'
   source: KDnuggets
   title: 10 GitHub Repositories to Ace Any Tech Interview
-- category: machine-learning
-  description: Cyber threats aren't slowing down, and data teams are now some of the
-    most attractive targets in the small business world.
-  icon: fa-chart-bar
-  link: https://bit.ly/4jOFnEB
-  pub_date: '2026-01-20T03:11:53'
-  source: KDnuggets
-  title: When Should SMB Data Teams Bring in Professional Security Expertise? (Sponsored)
-- category: machine-learning
-  description: Uncover how advanced hyperparameter search methods in machine learning
-    work, and why they can find optimal model configurations faster.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-hyperparameter-tuning-techniques-that-go-beyond-grid-search
-  pub_date: '2026-01-19T15:00:12'
-  source: KDnuggets
-  title: 3 Hyperparameter Tuning Techniques That Go Beyond Grid Search
 - category: ai-research
   description: A Nano Banana-generated image showing yellow bananas spelling out 'Nano
     Banana' on a bed of additional yellow bananas
@@ -246,4 +248,4 @@ articles:
   pub_date: '2025-11-17T20:00:00'
   source: Google AI Blog
   title: Investing in America 2025
-last_updated: '2026-01-23T06:36:01.259139'
+last_updated: '2026-01-24T06:33:04.432445'
