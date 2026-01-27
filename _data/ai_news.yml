@@ -1,4 +1,31 @@
 articles:
+- category: ai-research
+  description: A movie poster for a film titled "Dear Upstairs Neighbors", hand-painted
+    in a vivid expressionist style, featuring an exasperated cartoon woman clutching
+    her ears, surrounded by neon-colored images of...
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/
+  pub_date: '2026-01-26T18:00:00'
+  source: Google AI Blog
+  title: How animators and AI researchers made ‘Dear Upstairs Neighbors’
+- category: machine-learning
+  description: This crash course will take you from a complete beginner to a confident
+    ComfyUI user, walking you through every essential concept, feature, and practical
+    example you need to master this powerful tool.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-kdnuggets-comfyui-crash-course
+  pub_date: '2026-01-26T17:02:19'
+  source: KDnuggets
+  title: The KDnuggets ComfyUI Crash Course
+- category: machine-learning
+  description: Dates and times shouldn't break your code, but they often do. These
+    five DIY Python functions help turn real-world dates and times into clean, usable
+    data.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-diy-python-functions-for-parsing-dates-and-times
+  pub_date: '2026-01-26T13:00:47'
+  source: KDnuggets
+  title: 5 Useful DIY Python Functions for Parsing Dates and Times
 - category: machine-learning
   description: Python remains at the forefront data science, it is still very popular
     and useful till date. But on the other hand strengthens the foundation underneath.
@@ -92,23 +119,6 @@ articles:
   pub_date: '2026-01-20T17:00:34'
   source: KDnuggets
   title: AI Writes Python Code, But Maintaining It Is Still Your Job
-- category: machine-learning
-  description: We tuned four classifiers on student performance data with proper nested
-    cross-validation and statistical testing. The result? Tuning changed nothing.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/we-tuned-4-classifiers-on-the-same-dataset-none-actually-improved
-  pub_date: '2026-01-20T15:00:39'
-  source: KDnuggets
-  title: 'We Tuned 4 Classifiers on the Same Dataset: None Actually Improved'
-- category: machine-learning
-  description: The most trusted GitHub repositories to help you master coding interviews,
-    system design, backend engineering, scalability, data structures and algorithms,
-    and machine learning interviews with confide...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview
-  pub_date: '2026-01-20T13:00:55'
-  source: KDnuggets
-  title: 10 GitHub Repositories to Ace Any Tech Interview
 - category: ai-research
   description: A Nano Banana-generated image showing yellow bananas spelling out 'Nano
     Banana' on a bed of additional yellow bananas
@@ -240,12 +250,4 @@ articles:
   pub_date: '2025-11-25T18:00:00'
   source: Google AI Blog
   title: The Google guide for holiday help
-- category: ai-research
-  description: Google's deep investments in American technical infrastructure, R&D
-    and the workforce will help the U.S. continue to lead the world in AI.
-  icon: fa-google
-  link: https://blog.google/company-news/inside-google/company-announcements/investing-in-america-2025/
-  pub_date: '2025-11-17T20:00:00'
-  source: Google AI Blog
-  title: Investing in America 2025
-last_updated: '2026-01-26T06:38:28.802833'
+last_updated: '2026-01-27T06:36:49.016024'
