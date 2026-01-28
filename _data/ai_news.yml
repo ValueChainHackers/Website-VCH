@@ -1,5 +1,57 @@
 articles:
 - category: ai-research
+  description: We're launching Google AI Plus in 35 new countries and territories
+    including the US, making it available everywhere Google AI plans are available.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/
+  pub_date: '2026-01-27T18:00:00'
+  source: Google AI Blog
+  title: Google AI Plus is now available everywhere our AI plans are available, including
+    the U.S.
+- category: machine-learning
+  description: AI systems now see images, hear speech, and process video, understanding
+    information in its native form.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-multimodal-ai-guide-vision-voice-text-and-beyond
+  pub_date: '2026-01-27T17:00:50'
+  source: KDnuggets
+  title: 'The Multimodal AI Guide: Vision, Voice, Text, and Beyond'
+- category: ai-research
+  description: A centered, elongated oval shape resembling a search bar with the text
+    "Ask anything" inside it.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/
+  pub_date: '2026-01-27T17:00:00'
+  source: Google AI Blog
+  title: 'Just ask anything: a seamless new Search experience'
+- category: machine-learning
+  description: In this article, you will learn three practical ways to protect user
+    data in real-world ML pipelines, with techniques that data scientists can implement
+    directly in their workflows.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-ways-to-anonymize-and-protect-user-data-in-your-ml-pipeline
+  pub_date: '2026-01-27T15:00:27'
+  source: KDnuggets
+  title: 3 Ways to Anonymize and Protect User Data in Your ML Pipeline
+- category: machine-learning
+  description: This article lists 7 under-the-radar Python libraries that push the
+    boundaries of feature engineering processes at scale.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-under-the-radar-python-libraries-for-scalable-feature-engineering
+  pub_date: '2026-01-27T14:25:00'
+  source: KDnuggets
+  title: 7 Under-the-Radar Python Libraries for Scalable Feature Engineering
+- category: ai-research
+  description: 'The latest episode of the Google AI: Release Notes podcast focuses
+    on how the Gemini team built one of the world''s leading AI coding models.Host
+    Logan Kilpatrick chats w...'
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/
+  pub_date: '2026-01-27T10:28:00'
+  source: Google AI Blog
+  title: In our latest podcast, hear how the “Smokejumpers” team brings Gemini to
+    billions of people.
+- category: ai-research
   description: A movie poster for a film titled "Dear Upstairs Neighbors", hand-painted
     in a vivid expressionist style, featuring an exasperated cartoon woman clutching
     her ears, surrounded by neon-colored images of...
@@ -78,23 +130,6 @@ articles:
   pub_date: '2026-01-21T17:00:31'
   source: KDnuggets
   title: 7 Statistical Concepts Every Data Scientist Should Master (and Why)
-- category: machine-learning
-  description: Through the lens of a serial entrepreneur, this article explores how
-    the AI revolution is shifting from infrastructure to the application layer, where
-    the greatest opportunities lie in solving special...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/navigating-ai-entrepreneurship-insights-from-the-application-layer
-  pub_date: '2026-01-21T15:00:38'
-  source: KDnuggets
-  title: 'Navigating AI Entrepreneurship: Insights From The Application Layer'
-- category: machine-learning
-  description: These five options make long-running jobs easier, faster, and less
-    frustrating than Colab.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-alternatives-to-google-colab-for-long-running-tasks
-  pub_date: '2026-01-21T11:37:31'
-  source: KDnuggets
-  title: 5 Alternatives to Google Colab for Long-Running Tasks
 - category: ai-research
   description: New research detects hidden evidence of mistaken correlations - and
     provides a method to improve accuracy.
@@ -111,14 +146,6 @@ articles:
   pub_date: '2026-01-20T20:30:00'
   source: Google AI Blog
   title: Building a community-led future for AI in film with Sundance Institute
-- category: machine-learning
-  description: AI can whip up Python code in no time. The challenge, however, is keeping
-    the code clean, readable, and maintainable.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job
-  pub_date: '2026-01-20T17:00:34'
-  source: KDnuggets
-  title: AI Writes Python Code, But Maintaining It Is Still Your Job
 - category: ai-research
   description: A Nano Banana-generated image showing yellow bananas spelling out 'Nano
     Banana' on a bed of additional yellow bananas
@@ -169,15 +196,6 @@ articles:
   pub_date: '2026-01-14T10:00:00'
   source: Google AI Blog
   title: Announcing the winner of the Global AI Film Award
-- category: ai-research
-  description: A collage of various generated images, including an astronaut on Mars,
-    a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up
-    of coffee art, with the text "Veo 3.1 Ingredients t...
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/
-  pub_date: '2026-01-13T17:00:00'
-  source: Google AI Blog
-  title: 'Veo 3.1 Ingredients to Video: More consistency, creativity and control'
 - category: ai-research
   description: While the growing energy demands of AI are worrying, some techniques
     can also help make power grids cleaner and more efficient.
@@ -235,19 +253,4 @@ articles:
   pub_date: '2025-12-18T21:20:00'
   source: MIT AI News
   title: Guided learning lets “untrainable” neural networks realize their potential
-- category: ai-research
-  description: Learn more about Google's launches, milestones and more from 2025.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/look-back-2025/
-  pub_date: '2025-12-09T16:00:00'
-  source: Google AI Blog
-  title: 2025 at Google
-- category: ai-research
-  description: Learn more about using Google products like Gemini, Search, Shopping,
-    Pixel and more over the holidays.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/
-  pub_date: '2025-11-25T18:00:00'
-  source: Google AI Blog
-  title: The Google guide for holiday help
-last_updated: '2026-01-27T06:36:49.016024'
+last_updated: '2026-01-28T06:37:31.730074'
