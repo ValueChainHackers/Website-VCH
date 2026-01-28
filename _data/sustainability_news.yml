@@ -1,5 +1,73 @@
 articles:
 - category: supply-chain
+  description: DOT is seeking industry professionals to join its Motor Carrier Safety
+    Advisory Committee and provide input on trucking safety policy.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dot-motor-carrier-safety-advisory-committee-applications
+  pub_date: '2026-01-27T17:34:00'
+  source: Supply Chain 24/7
+  title: Want to Advise DOT on Motor Carrier Safety? Here’s How to Apply
+- category: supply-chain
+  description: Explore how AI and agentic AI are transforming transportation management,
+    boosting data-driven decisions, operational efficiency, and real-time responsiveness.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-in-transportation-management-key-insights-future-trends
+  pub_date: '2026-01-27T15:59:00'
+  source: Supply Chain 24/7
+  title: 'AI in Transportation Management: Key Insights & Future Trends'
+- category: supply-chain
+  description: HayWay Group is entering the U.S. trucking market with an 80-truck
+    Volvo order and plans for rapid fleet growth.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hayway-group-enters-us-market-volvo-truck-order
+  pub_date: '2026-01-27T15:00:00'
+  source: Supply Chain 24/7
+  title: European Carrier HayWay Launches U.S. Operations With Volvo Fleet
+- category: supply-chain
+  description: Federal regulators have started a probe into whether ocean carriers
+    are unfairly limiting truckers' and shippers' ability to choose chassis providers
+    at U.S. ports.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fmc-investigation-ocean-carriers-chassis-choice-us
+  pub_date: '2026-01-27T14:26:00'
+  source: Supply Chain 24/7
+  title: FMC Opens Probe Into Ocean Carriers Limiting Chassis Choice
+- category: supply-chain
+  description: New data shows where nonfatal workplace injuries are most common, with
+    transportation, warehousing, and manufacturing jobs leading the way.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/new-data-reveals-the-most-injury-prone-jobs-in-the-supply-chain
+  pub_date: '2026-01-27T13:17:00'
+  source: Supply Chain 24/7
+  title: America’s Most Dangerous Jobs, Ranked by Injury Rate
+- category: circular
+  description: Ahead of the October 2027 launch of the UK's DRS, the scheme administrator
+    has announced 'Exchange for Change' as its new trading name. The post UK DRS rebrands
+    as Exchange for Change ahead of 2027 la...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-drs-rebrands-as-exchange-for-change-ahead-of-2027-launch/
+  pub_date: '2026-01-27T11:56:50'
+  source: Circular Online
+  title: UK DRS rebrands as Exchange for Change ahead of 2027 launch
+- category: circular
+  description: North Northamptonshire Council has partnered with local police to close
+    a lay-by that has become a hotspot for fly-tipping. The post Council partners
+    with police to tackle fly-tipping at Northamptonsh...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/council-partners-with-police-to-tackle-fly-tipping-at-northamptonshire-hotspot/
+  pub_date: '2026-01-27T11:27:40'
+  source: Circular Online
+  title: Council partners with police to tackle fly-tipping at Northamptonshire hotspot
+- category: circular
+  description: A specialist CCTV camera that uses 'AI technology' has been installed
+    at a fly-tipping hotspot in West Northamptonshire. The post 'AI CCTV camera tower'
+    installed in Northamptonshire to tackle fly-tip...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ai-cctv-camera-tower-installed-in-northamptonshire-to-tackle-fly-tipping/
+  pub_date: '2026-01-27T09:16:34'
+  source: Circular Online
+  title: ‘AI CCTV camera tower’ installed in Northamptonshire to tackle fly-tipping
+- category: supply-chain
   description: Most procurement AI falls short because it automates tasks without
     understanding the context behind real purchasing decisions.
   icon: fa-box
@@ -50,31 +118,6 @@ articles:
   pub_date: '2026-01-23T19:09:00'
   source: Supply Chain 24/7
   title: DHL Reveals Wildest Deliveries of 2025, From Baboons to Art Bears
-- category: supply-chain
-  description: North Carolina is investing $16.3 million in short-line railroads and
-    port rail upgrades to support growing freight traffic across the state.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/north-carolina-16-million-freight-rail-upgrades
-  pub_date: '2026-01-23T14:07:00'
-  source: Supply Chain 24/7
-  title: North Carolina Puts $16.3M Into Freight Rail Updates Across State
-- category: supply-chain
-  description: Echo Global Logistics has acquired ITS Logistics, creating a bigger
-    third-party logistics company with about $5.4 billion in projected revenue by
-    2025.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/echo-global-logistics-acquires-its-logistics-2026
-  pub_date: '2026-01-23T12:07:00'
-  source: Supply Chain 24/7
-  title: Echo Global Logistics Announces Plans to Acquire ITS Logistics
-- category: supply-chain
-  description: Most shippers say they expect shipping volumes to rise in 2026 but
-    are planning with caution because of tariffs and tighter capacity.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/averitt-survey-shippers-plan-2026-caution-growth
-  pub_date: '2026-01-23T12:04:00'
-  source: Supply Chain 24/7
-  title: 'Survey: 2026 Shipping Outlook Is Confident But Cautious'
 - category: circular
   description: Zero Waste Scotland has announced Ciaran McGuigan will replace Ian
     Gulland as its CEO. The post Zero Waste Scotland appoints Ciaran McGuigan as new
@@ -84,23 +127,6 @@ articles:
   pub_date: '2026-01-23T09:10:54'
   source: Circular Online
   title: Zero Waste Scotland appoints Ciaran McGuigan as new CEO
-- category: supply-chain
-  description: A new report from Motive shows fewer major crashes in 2025 as fleets
-    use AI to spot risk early, but driver behavior and certain times of day still
-    fuel danger on the road.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/motive-2026-ai-road-safety-report
-  pub_date: '2026-01-22T16:54:00'
-  source: Supply Chain 24/7
-  title: Why Fleets Are Learning More From Near Misses Than Crashes
-- category: supply-chain
-  description: Zipline is rolling out its autonomous drone delivery service in Houston
-    and Phoenix in early 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/zipline-drone-delivery-launches-houston-phoenix-2026
-  pub_date: '2026-01-22T16:34:00'
-  source: Supply Chain 24/7
-  title: Zipline Expands Drone Delivery Service To Houston And Phoenix
 - category: circular
   description: CIWM announces partnership with the UK Government to support its new
     Change Network, which aims to facilitate the implementation of Simpler Recycling
@@ -146,31 +172,4 @@ articles:
   pub_date: '2026-01-20T12:17:58'
   source: Circular Online
   title: MPs ‘backs call’ for greater support of plastic packaging alternatives
-- category: circular
-  description: The University of Birmingham has launched a new facility for separating
-    and recycling rare earth magnets. The post Rare earth magnet recycling facility
-    opens in West Midlands appeared first on Circula...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/rare-earth-magnet-recycling-facility-opens-in-west-midlands/
-  pub_date: '2026-01-20T10:18:58'
-  source: Circular Online
-  title: Rare earth magnet recycling facility opens in West Midlands
-- category: circular
-  description: Scientists working on safe, degradable alternatives to plastics made
-    from agricultural waste awarded GBP500,000 2026 Hill Prize in Physical Sciences
-    The post Biodegradable plastics research wins $500k...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/biodegradable-plastics-research-wins-500k-hill-prize/
-  pub_date: '2026-01-20T07:30:00'
-  source: Circular Online
-  title: Biodegradable plastics research wins $500k Hill Prize
-- category: circular
-  description: A court has thrown out Biffa's GBP50m lawsuit against the Scottish
-    government over its collapsed deposit return scheme (DRS). The post Court throws
-    out GBP50m Biffa lawsuit over failed Scottish DRS ap...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/court-throws-out-50m-biffa-lawsuit-over-failed-scottish-drs/
-  pub_date: '2026-01-19T10:04:08'
-  source: Circular Online
-  title: Court throws out £50m Biffa lawsuit over failed Scottish DRS
-last_updated: '2026-01-27T06:36:48.125132'
+last_updated: '2026-01-28T06:37:30.725024'
