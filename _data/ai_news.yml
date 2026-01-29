@@ -1,4 +1,21 @@
 articles:
+- category: machine-learning
+  description: Successful data teams aren't using more AI; they're using AI differently.
+    They embed it into workflows and decisions, employing ownership models that many
+    SMBs haven't adopted.
+  icon: fa-chart-bar
+  link: https://bit.ly/4t6g1pK
+  pub_date: '2026-01-28T13:57:56'
+  source: KDnuggets
+  title: This Is How Successful Data Teams Are Using AI (Sponsored)
+- category: machine-learning
+  description: API bills are killing vibe coding. These seven coding plans let you
+    ship faster without watching token costs.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-coding-plans-for-vibe-coding
+  pub_date: '2026-01-28T13:00:14'
+  source: KDnuggets
+  title: Top 7 Coding Plans for Vibe Coding
 - category: ai-research
   description: We're launching Google AI Plus in 35 new countries and territories
     including the US, making it available everywhere Google AI plans are available.
@@ -113,23 +130,6 @@ articles:
   pub_date: '2026-01-22T15:00:04'
   source: KDnuggets
   title: 'Open Notebook: A True Open Source Private NotebookLM Alternative?'
-- category: machine-learning
-  description: 'This article outlines 5 recent breakthroughs in GNNs that are worth
-    watching in the year ahead: from integration with LLMs to interdisciplinary scientific
-    discoveries.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-breakthroughs-in-graph-neural-networks-to-watch-in-2026
-  pub_date: '2026-01-22T13:00:12'
-  source: KDnuggets
-  title: 5 Breakthroughs in Graph Neural Networks to Watch in 2026
-- category: machine-learning
-  description: Understanding data starts with statistics. These 7 statistics concepts
-    give you the foundation to analyze and interpret with confidence.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-statistical-concepts-every-data-scientist-should-master-and-why
-  pub_date: '2026-01-21T17:00:31'
-  source: KDnuggets
-  title: 7 Statistical Concepts Every Data Scientist Should Master (and Why)
 - category: ai-research
   description: New research detects hidden evidence of mistaken correlations - and
     provides a method to improve accuracy.
@@ -253,4 +253,4 @@ articles:
   pub_date: '2025-12-18T21:20:00'
   source: MIT AI News
   title: Guided learning lets “untrainable” neural networks realize their potential
-last_updated: '2026-01-28T06:37:31.730074'
+last_updated: '2026-01-29T06:49:42.782167'

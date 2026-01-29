@@ -1,5 +1,65 @@
 articles:
 - category: supply-chain
+  description: UPS says it will continue cutting Amazon volume in 2026 as it reshapes
+    its U.S. network and pushes for billions more in cost savings.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-amazon-volume-reduction-2026
+  pub_date: '2026-01-28T16:41:00'
+  source: Supply Chain 24/7
+  title: UPS Says Pullback From Amazon Is Leading To Cost Savings
+- category: supply-chain
+  description: AI-driven fraud is growing faster than traditional human defenses,
+    leaving many companies exposed despite rising awareness.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-fraud-outpacing-human-defenses-trustpair-2026
+  pub_date: '2026-01-28T15:23:00'
+  source: Supply Chain 24/7
+  title: 'Report: AI Fraud Is Moving Faster Than Companies Can Respond'
+- category: supply-chain
+  description: Amazon is closing its Amazon Go and Amazon Fresh stores, shifting grocery
+    operations away from store-based supply chains and toward centralized fulfillment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-closes-go-and-fresh-stores
+  pub_date: '2026-01-28T12:31:00'
+  source: Supply Chain 24/7
+  title: Amazon to Shut Down Amazon Go and Amazon Fresh Stores
+- category: supply-chain
+  description: BNSF will spend $3.6 billion in 2026 to maintain its rail network and
+    expand capacity across key freight corridors.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bnsf-3-6-billion-capital-plan-2026
+  pub_date: '2026-01-28T12:28:00'
+  source: Supply Chain 24/7
+  title: BNSF Plans $3.6B Rail Investment Across California, Arizona, and Illinois
+- category: circular
+  description: Young people are at risk of being locked out of the green economy,
+    according to a report by Co-op. The post Young people at risk of being locked
+    out of green economy, Co-op report finds appeared first...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/young-people-at-risk-of-being-locked-out-of-green-economy-co-op-report-finds/
+  pub_date: '2026-01-28T11:44:56'
+  source: Circular Online
+  title: Young people at risk of being locked out of green economy, Co-op report finds
+- category: circular
+  description: Yorkshire waste operator handed suspended sentence after illegally
+    acting as a company director while bankrupt. The post Suspended sentence for waste
+    operator who 'blatantly ignored' bankruptcy restri...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/suspended-sentence-for-waste-operator-who-blatantly-ignored-bankruptcy-restrictions/
+  pub_date: '2026-01-28T10:26:50'
+  source: Circular Online
+  title: Suspended sentence for waste operator who ‘blatantly ignored’ bankruptcy
+    restrictions
+- category: circular
+  description: The EU will struggle to meet its 2030 food waste and climate targets
+    without a new way to pay for food waste prevention and collection, according to
+    a new report by Zero Waste Europe. The post EU coul...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/eu-could-cut-bio-waste-by-introducing-epr-for-food-products-report-shows/
+  pub_date: '2026-01-28T09:40:15'
+  source: Circular Online
+  title: EU could cut bio-waste by introducing EPR for food products, report shows
+- category: supply-chain
   description: DOT is seeking industry professionals to join its Motor Carrier Safety
     Advisory Committee and provide input on trucking safety policy.
   icon: fa-box
@@ -75,31 +135,6 @@ articles:
   pub_date: '2026-01-26T15:09:00'
   source: Supply Chain 24/7
   title: 'The Biggest Problem With Procurement AI: It Lacks Context'
-- category: supply-chain
-  description: In 2026, transportation management systems are evolving from basic
-    execution tools into decision-support platforms shaped by AI, automation, and
-    shifting carrier networks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tms-2026-transportation-tech-trends
-  pub_date: '2026-01-26T14:29:00'
-  source: Supply Chain 24/7
-  title: Nine Trends Shaping the Future of Transportation Technology
-- category: supply-chain
-  description: Amazon is testing drone delivery in the UK while quietly abandoning
-    plans in Italy, showing how uneven and market-specific drone expansion remains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-drone-delivery-uk-italy-pullback
-  pub_date: '2026-01-26T14:19:00'
-  source: Supply Chain 24/7
-  title: Amazon Launches Drone Tests in UK as Italy Program Gets the Axe
-- category: supply-chain
-  description: Procurement leaders are being asked to lead more, but most companies
-    still stop short of giving them real executive power.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/report-only-11-of-companies-treat-the-cpo-as-a-true-executive
-  pub_date: '2026-01-26T14:02:00'
-  source: Supply Chain 24/7
-  title: 'Report: Only 11% of Companies Treat the CPO as a True Executive'
 - category: circular
   description: A paper packaging manufacturer has been fined GBP433,333 after an employee
     suffered life-changing injuries when a 4.5-tonne machine fell on him. The post
@@ -110,14 +145,6 @@ articles:
   source: Circular Online
   title: Paper packaging manufacturer fined £400,000 after man suffers life changing
     injuries
-- category: supply-chain
-  description: DHL's year-end roundup highlights how global logistics sometimes involves
-    wildlife, art, and sports history, not just boxes and pallets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-most-unusual-deliveries-2025
-  pub_date: '2026-01-23T19:09:00'
-  source: Supply Chain 24/7
-  title: DHL Reveals Wildest Deliveries of 2025, From Baboons to Art Bears
 - category: circular
   description: Zero Waste Scotland has announced Ciaran McGuigan will replace Ian
     Gulland as its CEO. The post Zero Waste Scotland appoints Ciaran McGuigan as new
@@ -145,31 +172,4 @@ articles:
   pub_date: '2026-01-21T12:03:37'
   source: Circular Online
   title: Charities urge UK Government to allow Wales to collect glass in its DRS
-- category: circular
-  description: Birmingham City Council's financial monitoring report estimates strike
-    action by refuse workers will cost the local authority GBP14.6m if the dispute
-    is not resolved before March. The post Birmingham ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/birmingham-bin-strikes-forecast-to-cost-council-14-6m/
-  pub_date: '2026-01-21T11:05:56'
-  source: Circular Online
-  title: Birmingham bin strikes forecast to cost council £14.6m
-- category: circular
-  description: Ivybridge Recycling Centre in Devon was evacuated yesterday after a
-    tank shell was found in a non-recyclable waste container. The post Tank shell
-    discovery forces Devon recycling centre to close appea...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/tank-shell-discovery-forces-devon-recycling-centre-to-close/
-  pub_date: '2026-01-21T09:20:53'
-  source: Circular Online
-  title: Tank shell discovery forces Devon recycling centre to close
-- category: circular
-  description: Natural Polymers Group say MPs have backed calls to ramp up government
-    support for British businesses at the forefront of developing alternative solutions
-    to plastic packaging. MPs were urged to suppo...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/mps-backs-call-for-greater-support-of-plastic-packaging-alternatives/
-  pub_date: '2026-01-20T12:17:58'
-  source: Circular Online
-  title: MPs ‘backs call’ for greater support of plastic packaging alternatives
-last_updated: '2026-01-28T06:37:30.725024'
+last_updated: '2026-01-29T06:49:41.549748'
