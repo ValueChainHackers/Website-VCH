@@ -1,5 +1,55 @@
 articles:
 - category: supply-chain
+  description: Tesla will end production of its Model S and Model X electric vehicles
+    next quarter to free up factory space for robotics and autonomous technology.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tesla-ends-model-s-x-production-for-robots
+  pub_date: '2026-01-29T17:32:00'
+  source: Supply Chain 24/7
+  title: Elon Musk Confirms Tesla Will Stop Model S and Model X Production
+- category: supply-chain
+  description: Gatik says it has moved driverless freight trucking from pilots into
+    everyday commercial operations across multiple U.S. markets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gatik-driverless-freight-trucks-commercial-scale
+  pub_date: '2026-01-29T12:59:00'
+  source: Supply Chain 24/7
+  title: Gatik Says Its Driverless Freight Trucks Have Reached Commercial Scale
+- category: supply-chain
+  description: John Deere is opening two new U.S. facilities in Indiana and North
+    Carolina, creating jobs and bringing excavator production back to the U.S.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/john-deere-expands-us-manufacturing-indiana-north-carolina
+  pub_date: '2026-01-29T12:09:00'
+  source: Supply Chain 24/7
+  title: John Deere Plans Two New Facilities in Indiana and North Carolina
+- category: supply-chain
+  description: KettenWulf is investing $34 million to open a new manufacturing facility
+    in Auburn, Alabama, creating around 70 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kettenwulf-auburn-alabama-manufacturing-facility
+  pub_date: '2026-01-29T10:21:00'
+  source: Supply Chain 24/7
+  title: KettenWulf to Open $34M Manufacturing Facility in Auburn, Alabama
+- category: circular
+  description: The Duchy of Lancaster has said it is exempt from regulatory obligations
+    to clear a 25,000-tonne waste site on its land, citing a 750-year-old feudal law.
+    The post King's estate denies responsibility ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/kings-estate-denies-responsibility-for-clearing-large-scale-illegal-waste-site/
+  pub_date: '2026-01-29T09:54:13'
+  source: Circular Online
+  title: King’s estate denies responsibility for clearing large-scale illegal waste
+    site
+- category: supply-chain
+  description: Corning plans to expand fiber-optic manufacturing and add jobs in North
+    Carolina under a supply deal with Meta worth up to $6 billion.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/corning-expands-north-carolina-manufacturing-meta-fiber-deal
+  pub_date: '2026-01-29T08:54:00'
+  source: Supply Chain 24/7
+  title: Corning, Meta Team Up to Grow Fiber Optic Production in North Carolina
+- category: supply-chain
   description: UPS says it will continue cutting Amazon volume in 2026 as it reshapes
     its U.S. network and pushes for billions more in cost savings.
   icon: fa-box
@@ -67,39 +117,6 @@ articles:
   pub_date: '2026-01-27T17:34:00'
   source: Supply Chain 24/7
   title: Want to Advise DOT on Motor Carrier Safety? Here’s How to Apply
-- category: supply-chain
-  description: Explore how AI and agentic AI are transforming transportation management,
-    boosting data-driven decisions, operational efficiency, and real-time responsiveness.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-in-transportation-management-key-insights-future-trends
-  pub_date: '2026-01-27T15:59:00'
-  source: Supply Chain 24/7
-  title: 'AI in Transportation Management: Key Insights & Future Trends'
-- category: supply-chain
-  description: HayWay Group is entering the U.S. trucking market with an 80-truck
-    Volvo order and plans for rapid fleet growth.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hayway-group-enters-us-market-volvo-truck-order
-  pub_date: '2026-01-27T15:00:00'
-  source: Supply Chain 24/7
-  title: European Carrier HayWay Launches U.S. Operations With Volvo Fleet
-- category: supply-chain
-  description: Federal regulators have started a probe into whether ocean carriers
-    are unfairly limiting truckers' and shippers' ability to choose chassis providers
-    at U.S. ports.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fmc-investigation-ocean-carriers-chassis-choice-us
-  pub_date: '2026-01-27T14:26:00'
-  source: Supply Chain 24/7
-  title: FMC Opens Probe Into Ocean Carriers Limiting Chassis Choice
-- category: supply-chain
-  description: New data shows where nonfatal workplace injuries are most common, with
-    transportation, warehousing, and manufacturing jobs leading the way.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/new-data-reveals-the-most-injury-prone-jobs-in-the-supply-chain
-  pub_date: '2026-01-27T13:17:00'
-  source: Supply Chain 24/7
-  title: America’s Most Dangerous Jobs, Ranked by Injury Rate
 - category: circular
   description: Ahead of the October 2027 launch of the UK's DRS, the scheme administrator
     has announced 'Exchange for Change' as its new trading name. The post UK DRS rebrands
@@ -127,14 +144,6 @@ articles:
   pub_date: '2026-01-27T09:16:34'
   source: Circular Online
   title: ‘AI CCTV camera tower’ installed in Northamptonshire to tackle fly-tipping
-- category: supply-chain
-  description: Most procurement AI falls short because it automates tasks without
-    understanding the context behind real purchasing decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-procurement-ai-misses-the-mark
-  pub_date: '2026-01-26T15:09:00'
-  source: Supply Chain 24/7
-  title: 'The Biggest Problem With Procurement AI: It Lacks Context'
 - category: circular
   description: A paper packaging manufacturer has been fined GBP433,333 after an employee
     suffered life-changing injuries when a 4.5-tonne machine fell on him. The post
@@ -163,13 +172,4 @@ articles:
   pub_date: '2026-01-22T08:00:00'
   source: Circular Online
   title: CIWM Partners with Defra on Change Network for Simpler Recycling
-- category: circular
-  description: Welsh charities urge the UK Government to approve the Welsh Government's
-    request to collect glass as part of its Deposit Return Scheme (DRS). The post
-    Charities urge UK Government to allow Wales to co...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/charities-urge-uk-government-to-allow-wales-to-collect-glass-in-its-drs/
-  pub_date: '2026-01-21T12:03:37'
-  source: Circular Online
-  title: Charities urge UK Government to allow Wales to collect glass in its DRS
-last_updated: '2026-01-29T06:49:41.549748'
+last_updated: '2026-01-30T06:51:06.520468'
