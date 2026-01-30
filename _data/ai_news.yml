@@ -1,5 +1,37 @@
 articles:
 - category: machine-learning
+  description: If you use API keys in Python, you need a safe way to store them. This
+    guide explains seven beginner-friendly techniques for managing secrets using .env
+    files.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/managing-secrets-and-api-keys-in-python-projects-env-guide
+  pub_date: '2026-01-29T17:00:50'
+  source: KDnuggets
+  title: Managing Secrets and API Keys in Python Projects (.env Guide)
+- category: ai-research
+  description: Text reads Introducing Project Genie
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/
+  pub_date: '2026-01-29T17:00:00'
+  source: Google AI Blog
+  title: 'Project Genie: Experimenting with infinite, interactive worlds'
+- category: machine-learning
+  description: Hugging Face Spaces is a free way to host a portfolio with live demos,
+    and this article walks through setting one up step by step.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-use-hugging-face-spaces-to-host-your-portfolio-for-free
+  pub_date: '2026-01-29T15:00:14'
+  source: KDnuggets
+  title: How to Use Hugging Face Spaces to Host Your Portfolio for Free
+- category: machine-learning
+  description: Ready to learn these 7 Scikit-learn tricks that will take your machine
+    learning models' hyperparameter tuning skills to the next level?
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-scikit-learn-tricks-for-hyperparameter-tuning
+  pub_date: '2026-01-29T14:37:51'
+  source: KDnuggets
+  title: 7 Scikit-learn Tricks for Hyperparameter Tuning
+- category: machine-learning
   description: Successful data teams aren't using more AI; they're using AI differently.
     They embed it into workflows and decisions, employing ownership models that many
     SMBs haven't adopted.
@@ -95,24 +127,6 @@ articles:
   pub_date: '2026-01-26T13:00:47'
   source: KDnuggets
   title: 5 Useful DIY Python Functions for Parsing Dates and Times
-- category: machine-learning
-  description: Python remains at the forefront data science, it is still very popular
-    and useful till date. But on the other hand strengthens the foundation underneath.
-    It becomes necessary where performance, memory...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/integrating-rust-and-python-for-data-science
-  pub_date: '2026-01-23T15:00:58'
-  source: KDnuggets
-  title: Integrating Rust and Python for Data Science
-- category: machine-learning
-  description: The best self hosting platforms that help developers deploy, scale,
-    and turn their projects into production ready applications while avoiding the
-    complexity of becoming a full time DevOps engineer.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-self-hosting-platform-alternative-to-vercel-heroku-netlify
-  pub_date: '2026-01-23T13:00:59'
-  source: KDnuggets
-  title: Top 5 Self Hosting Platform Alternative to Vercel, Heroku & Netlify
 - category: ai-research
   description: Screenshot of the AI Mode page with the text, "Hi Lukas what's on your
     mind?"
@@ -121,15 +135,6 @@ articles:
   pub_date: '2026-01-22T16:00:00'
   source: Google AI Blog
   title: 'Personal Intelligence in AI Mode in Search: Help that''s uniquely yours'
-- category: machine-learning
-  description: Open Notebook is an open-source, AI-powered platform designed to help
-    users take, organize, and interact with notes while keeping full control over
-    their data.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/open-notebook-a-true-open-source-private-notebooklm-alternative
-  pub_date: '2026-01-22T15:00:04'
-  source: KDnuggets
-  title: 'Open Notebook: A True Open Source Private NotebookLM Alternative?'
 - category: ai-research
   description: New research detects hidden evidence of mistaken correlations - and
     provides a method to improve accuracy.
@@ -188,15 +193,6 @@ articles:
   source: Google AI Blog
   title: Introducing Community Benchmarks on Kaggle
 - category: ai-research
-  description: Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards
-    for the film "Lily" by Zoubeir Jlassi. He stands by a trophy podium while Anthony
-    Nakache claps. The background shows the film's titl...
-  icon: fa-google
-  link: https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/
-  pub_date: '2026-01-14T10:00:00'
-  source: Google AI Blog
-  title: Announcing the winner of the Global AI Film Award
-- category: ai-research
   description: While the growing energy demands of AI are worrying, some techniques
     can also help make power grids cleaner and more efficient.
   icon: fa-graduation-cap
@@ -253,4 +249,4 @@ articles:
   pub_date: '2025-12-18T21:20:00'
   source: MIT AI News
   title: Guided learning lets “untrainable” neural networks realize their potential
-last_updated: '2026-01-29T06:49:42.782167'
+last_updated: '2026-01-30T06:51:07.480809'
