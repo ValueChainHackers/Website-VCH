@@ -1,4 +1,20 @@
 articles:
+- category: ai-research
+  description: As AI technology advances, a new interdisciplinary course seeks to
+    equip students with foundational critical thinking skills in computing.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/philosophical-puzzle-rational-artificial-intelligence-0130
+  pub_date: '2026-01-30T21:50:00'
+  source: MIT AI News
+  title: The philosophical puzzle of rational artificial intelligence
+- category: machine-learning
+  description: Five APIs that make experimenting with AI and web data easy, practical,
+    and beginner-friendly.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-fun-apis-for-absolute-beginners
+  pub_date: '2026-01-30T13:00:19'
+  source: KDnuggets
+  title: 5 Fun APIs for Absolute Beginners
 - category: machine-learning
   description: If you use API keys in Python, you need a safe way to store them. This
     guide explains seven beginner-friendly techniques for managing secrets using .env
@@ -91,14 +107,14 @@ articles:
   source: KDnuggets
   title: 7 Under-the-Radar Python Libraries for Scalable Feature Engineering
 - category: ai-research
-  description: 'The latest episode of the Google AI: Release Notes podcast focuses
-    on how the Gemini team built one of the world''s leading AI coding models.Host
-    Logan Kilpatrick chats w...'
+  description: 'Bringing Gemini to billions of users requires a massive, coordinated
+    infrastructure effort. In the latest episode of the Google AI: Release Notes podcast,
+    host Logan Kil...'
   icon: fa-google
   link: https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/
   pub_date: '2026-01-27T10:28:00'
   source: Google AI Blog
-  title: In our latest podcast, hear how the “Smokejumpers” team brings Gemini to
+  title: In our latest podcast, hear how the “Smoke Jumpers” team brings Gemini to
     billions of people.
 - category: ai-research
   description: A movie poster for a film titled "Dear Upstairs Neighbors", hand-painted
@@ -118,15 +134,6 @@ articles:
   pub_date: '2026-01-26T17:02:19'
   source: KDnuggets
   title: The KDnuggets ComfyUI Crash Course
-- category: machine-learning
-  description: Dates and times shouldn't break your code, but they often do. These
-    five DIY Python functions help turn real-world dates and times into clean, usable
-    data.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-diy-python-functions-for-parsing-dates-and-times
-  pub_date: '2026-01-26T13:00:47'
-  source: KDnuggets
-  title: 5 Useful DIY Python Functions for Parsing Dates and Times
 - category: ai-research
   description: Screenshot of the AI Mode page with the text, "Hi Lukas what's on your
     mind?"
@@ -241,12 +248,4 @@ articles:
   pub_date: '2025-12-22T22:20:00'
   source: MIT AI News
   title: 'MIT in the media: 2025 in review'
-- category: ai-research
-  description: CSAIL researchers find even "untrainable" neural nets can learn effectively
-    when guided by another network's built-in biases using their guidance method.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218
-  pub_date: '2025-12-18T21:20:00'
-  source: MIT AI News
-  title: Guided learning lets “untrainable” neural networks realize their potential
-last_updated: '2026-01-30T06:51:07.480809'
+last_updated: '2026-01-31T06:40:12.483221'
