@@ -1,5 +1,73 @@
 articles:
 - category: supply-chain
+  description: Mixed enforcement of the EU's new ICS2 customs rules is creating confusion
+    for UK carriers and adding risk to cross-border supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/uk-supply-chain-uncertainty-eu-ics2-roll-out-confusion
+  pub_date: '2026-01-30T16:15:00'
+  source: Supply Chain 24/7
+  title: EU’s New ICS2 Customs Rules Leave UK Carriers Scratching Their Heads
+- category: supply-chain
+  description: Krber agreed to acquire a majority stake in Stellium, creating a new
+    global unit, Krber Stellium, to help more companies improve their supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/korber-stellium-supply-chain-deal
+  pub_date: '2026-01-30T15:48:00'
+  source: Supply Chain 24/7
+  title: Körber Buys Majority Stake in Stellium, Expanding Supply Chain Reach
+- category: supply-chain
+  description: CMA CGM and Stonepeak have formed United Ports, a new joint venture
+    bringing together major terminal assets across the U.S. and global trade lanes.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cma-cgm-stonepeak-united-ports-joint-venture
+  pub_date: '2026-01-30T15:24:00'
+  source: Supply Chain 24/7
+  title: CMA CGM Teams Up With Stonepeak to Launch Global Port Joint Venture
+- category: supply-chain
+  description: Maersk has opened a new ground freight hub in Fontana, California,
+    to speed up trucking and strengthen its Southern California network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-opens-new-ground-freight-hub-in-fontana-california
+  pub_date: '2026-01-30T14:54:00'
+  source: Supply Chain 24/7
+  title: Maersk Opens New Ground Freight Hub in Fontana, California
+- category: supply-chain
+  description: Growing ecommerce brands should periodically reassess their 3PL to
+    ensure fulfillment, technology, and cost strategies still align with where the
+    business is headed.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/thinking-of-switching-3pls-what-to-consider-before-changing
+  pub_date: '2026-01-30T14:10:00'
+  source: Supply Chain 24/7
+  title: Ready to Switch 3PLs? What to Consider Before Making the Change
+- category: circular
+  description: 'News updates written by CIWM''s commercial partners. Greyparrot Greyparrot
+    gathers global waste leaders to help MRF operators plan for a protable 2026 Beyondly
+    Case Study: Empowering Tradelinens on the...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-30-january/
+  pub_date: '2026-01-30T13:00:33'
+  source: Circular Online
+  title: News in brief | CIWM Commercial Partner Updates 30 January
+- category: circular
+  description: Two men have been arrested as part of an investigation into the 20,000-tonne
+    illegal waste dump in Kidlington, Oxfordshire. The post Two arrested over 20,000
+    tonne Kidlington waste dump appeared first...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/two-arrested-over-20000-tonne-kidlington-waste-dump/
+  pub_date: '2026-01-30T10:54:50'
+  source: Circular Online
+  title: Two arrested over 20,000 tonne Kidlington waste dump
+- category: circular
+  description: Recycling rates in Wales increased to 68.4% in 2024-25 following the
+    introduction of new workplace recycling reforms. The post Welsh recycling rates
+    climb to 68.4% in 2024-25 appeared first on Circula...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/welsh-recycling-rates-climb-to-68-4-in-2024-25/
+  pub_date: '2026-01-30T07:00:00'
+  source: Circular Online
+  title: Welsh recycling rates climb to 68.4% in 2024-25
+- category: supply-chain
   description: Tesla will end production of its Model S and Model X electric vehicles
     next quarter to free up factory space for robotics and autonomous technology.
   icon: fa-box
@@ -49,38 +117,6 @@ articles:
   pub_date: '2026-01-29T08:54:00'
   source: Supply Chain 24/7
   title: Corning, Meta Team Up to Grow Fiber Optic Production in North Carolina
-- category: supply-chain
-  description: UPS says it will continue cutting Amazon volume in 2026 as it reshapes
-    its U.S. network and pushes for billions more in cost savings.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-amazon-volume-reduction-2026
-  pub_date: '2026-01-28T16:41:00'
-  source: Supply Chain 24/7
-  title: UPS Says Pullback From Amazon Is Leading To Cost Savings
-- category: supply-chain
-  description: AI-driven fraud is growing faster than traditional human defenses,
-    leaving many companies exposed despite rising awareness.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-fraud-outpacing-human-defenses-trustpair-2026
-  pub_date: '2026-01-28T15:23:00'
-  source: Supply Chain 24/7
-  title: 'Report: AI Fraud Is Moving Faster Than Companies Can Respond'
-- category: supply-chain
-  description: Amazon is closing its Amazon Go and Amazon Fresh stores, shifting grocery
-    operations away from store-based supply chains and toward centralized fulfillment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-closes-go-and-fresh-stores
-  pub_date: '2026-01-28T12:31:00'
-  source: Supply Chain 24/7
-  title: Amazon to Shut Down Amazon Go and Amazon Fresh Stores
-- category: supply-chain
-  description: BNSF will spend $3.6 billion in 2026 to maintain its rail network and
-    expand capacity across key freight corridors.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/bnsf-3-6-billion-capital-plan-2026
-  pub_date: '2026-01-28T12:28:00'
-  source: Supply Chain 24/7
-  title: BNSF Plans $3.6B Rail Investment Across California, Arizona, and Illinois
 - category: circular
   description: Young people are at risk of being locked out of the green economy,
     according to a report by Co-op. The post Young people at risk of being locked
@@ -109,14 +145,6 @@ articles:
   pub_date: '2026-01-28T09:40:15'
   source: Circular Online
   title: EU could cut bio-waste by introducing EPR for food products, report shows
-- category: supply-chain
-  description: DOT is seeking industry professionals to join its Motor Carrier Safety
-    Advisory Committee and provide input on trucking safety policy.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dot-motor-carrier-safety-advisory-committee-applications
-  pub_date: '2026-01-27T17:34:00'
-  source: Supply Chain 24/7
-  title: Want to Advise DOT on Motor Carrier Safety? Here’s How to Apply
 - category: circular
   description: Ahead of the October 2027 launch of the UK's DRS, the scheme administrator
     has announced 'Exchange for Change' as its new trading name. The post UK DRS rebrands
@@ -144,32 +172,4 @@ articles:
   pub_date: '2026-01-27T09:16:34'
   source: Circular Online
   title: ‘AI CCTV camera tower’ installed in Northamptonshire to tackle fly-tipping
-- category: circular
-  description: A paper packaging manufacturer has been fined GBP433,333 after an employee
-    suffered life-changing injuries when a 4.5-tonne machine fell on him. The post
-    Paper packaging manufacturer fined GBP400,000 ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/paper-packaging-manufacturer-fined-400000-after-man-suffers-life-changing-injuries/
-  pub_date: '2026-01-26T10:37:18'
-  source: Circular Online
-  title: Paper packaging manufacturer fined £400,000 after man suffers life changing
-    injuries
-- category: circular
-  description: Zero Waste Scotland has announced Ciaran McGuigan will replace Ian
-    Gulland as its CEO. The post Zero Waste Scotland appoints Ciaran McGuigan as new
-    CEO appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/zero-waste-scotland-appoints-ciaran-mcguigan-as-new-ceo/
-  pub_date: '2026-01-23T09:10:54'
-  source: Circular Online
-  title: Zero Waste Scotland appoints Ciaran McGuigan as new CEO
-- category: circular
-  description: CIWM announces partnership with the UK Government to support its new
-    Change Network, which aims to facilitate the implementation of Simpler Recycling
-    in England. The post CIWM Partners with Defra on C...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-partners-with-defra-on-change-network-for-simpler-recycling/
-  pub_date: '2026-01-22T08:00:00'
-  source: Circular Online
-  title: CIWM Partners with Defra on Change Network for Simpler Recycling
-last_updated: '2026-01-30T06:51:06.520468'
+last_updated: '2026-01-31T06:40:11.314985'
