@@ -1,5 +1,56 @@
 articles:
 - category: ai-research
+  description: A four-part vertical collage showing a cotton-top tamarin, an ibex,
+    a golden lion tamarin, and a penguin.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/
+  pub_date: '2026-02-02T18:00:00'
+  source: Google AI Blog
+  title: How we’re helping preserve the genetic information of endangered species
+    with AI
+- category: machine-learning
+  description: Analyze billion-row datasets in Python using Vaex. Learn how out-of-core
+    processing, lazy evaluation, and memory mapping enable fast analytics at scale.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/working-with-billion-row-datasets-in-python-using-vaex
+  pub_date: '2026-02-02T17:00:24'
+  source: KDnuggets
+  title: Working with Billion-Row Datasets in Python (Using Vaex)
+- category: ai-research
+  description: An illustration of a King and Ace playing card, a wolf's head, two
+    chess pieces, a poker chip, and other abstract shapes on a white background.1
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/
+  pub_date: '2026-02-02T17:00:00'
+  source: Google AI Blog
+  title: Advancing AI benchmarking with Game Arena
+- category: machine-learning
+  description: 'Demystifying the concept of a parameter in machine learning: what
+    they are, how many parameters a model has, and what could possibly go wrong when
+    learning them.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/wtf-is-a-parameter
+  pub_date: '2026-02-02T15:00:39'
+  source: KDnuggets
+  title: WTF is a Parameter?!?
+- category: machine-learning
+  description: From debugging to quick fixes, here are the top Android apps every
+    developer should have on their phone.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-android-apps-for-code-editing
+  pub_date: '2026-02-02T13:00:23'
+  source: KDnuggets
+  title: 5 Android Apps for Code Editing
+- category: ai-research
+  description: MIT researchers' DiffSyn model offers recipes for synthesizing new
+    materials, enabling faster experimentation and a shorter journey from hypothesis
+    to use.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202
+  pub_date: '2026-02-02T10:00:00'
+  source: MIT AI News
+  title: How generative AI can help scientists synthesize complex materials
+- category: ai-research
   description: As AI technology advances, a new interdisciplinary course seeks to
     equip students with foundational critical thinking skills in computing.
   icon: fa-graduation-cap
@@ -39,6 +90,13 @@ articles:
   pub_date: '2026-01-29T15:00:14'
   source: KDnuggets
   title: How to Use Hugging Face Spaces to Host Your Portfolio for Free
+- category: ai-research
+  description: 'Project Genie: Create and explore worlds'
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/release-notes-podcast-project-genie/
+  pub_date: '2026-01-29T15:00:00'
+  source: Google AI Blog
+  title: Hear more about interactive world models in our latest podcast.
 - category: machine-learning
   description: Ready to learn these 7 Scikit-learn tricks that will take your machine
     learning models' hyperparameter tuning skills to the next level?
@@ -89,23 +147,6 @@ articles:
   pub_date: '2026-01-27T17:00:00'
   source: Google AI Blog
   title: 'Just ask anything: a seamless new Search experience'
-- category: machine-learning
-  description: In this article, you will learn three practical ways to protect user
-    data in real-world ML pipelines, with techniques that data scientists can implement
-    directly in their workflows.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-ways-to-anonymize-and-protect-user-data-in-your-ml-pipeline
-  pub_date: '2026-01-27T15:00:27'
-  source: KDnuggets
-  title: 3 Ways to Anonymize and Protect User Data in Your ML Pipeline
-- category: machine-learning
-  description: This article lists 7 under-the-radar Python libraries that push the
-    boundaries of feature engineering processes at scale.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-under-the-radar-python-libraries-for-scalable-feature-engineering
-  pub_date: '2026-01-27T14:25:00'
-  source: KDnuggets
-  title: 7 Under-the-Radar Python Libraries for Scalable Feature Engineering
 - category: ai-research
   description: 'Bringing Gemini to billions of users requires a massive, coordinated
     infrastructure effort. In the latest episode of the Google AI: Release Notes podcast,
@@ -125,15 +166,6 @@ articles:
   pub_date: '2026-01-26T18:00:00'
   source: Google AI Blog
   title: How animators and AI researchers made ‘Dear Upstairs Neighbors’
-- category: machine-learning
-  description: This crash course will take you from a complete beginner to a confident
-    ComfyUI user, walking you through every essential concept, feature, and practical
-    example you need to master this powerful tool.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-kdnuggets-comfyui-crash-course
-  pub_date: '2026-01-26T17:02:19'
-  source: KDnuggets
-  title: The KDnuggets ComfyUI Crash Course
 - category: ai-research
   description: Screenshot of the AI Mode page with the text, "Hi Lukas what's on your
     mind?"
@@ -159,21 +191,6 @@ articles:
   source: Google AI Blog
   title: Building a community-led future for AI in film with Sundance Institute
 - category: ai-research
-  description: A Nano Banana-generated image showing yellow bananas spelling out 'Nano
-    Banana' on a bed of additional yellow bananas
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/
-  pub_date: '2026-01-15T16:06:00'
-  source: Google AI Blog
-  title: How Nano Banana got its name
-- category: ai-research
-  description: Teacher using a computer with students
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/
-  pub_date: '2026-01-15T11:00:00'
-  source: Google AI Blog
-  title: Learners and educators are AI’s new “super users”
-- category: ai-research
   description: With support from the Siegel Family Endowment, the newly renamed MIT
     Siegel Family Quest for Intelligence investigates how brains produce intelligence
     and how it can be replicated to solve problems.
@@ -191,14 +208,6 @@ articles:
   pub_date: '2026-01-14T21:00:00'
   source: MIT AI News
   title: Generative AI tool helps 3D print personal items that sustain daily use
-- category: ai-research
-  description: A drawing of three people working on laptops, with one person's screen
-    showing "Kaggle Benchmark Results" with "Gemini XXXX" and a large "PASS" checkmark.1
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/
-  pub_date: '2026-01-14T14:00:00'
-  source: Google AI Blog
-  title: Introducing Community Benchmarks on Kaggle
 - category: ai-research
   description: While the growing energy demands of AI are worrying, some techniques
     can also help make power grids cleaner and more efficient.
@@ -240,12 +249,4 @@ articles:
   pub_date: '2026-01-05T20:25:00'
   source: MIT AI News
   title: Using design to interpret the past and envision the future
-- category: ai-research
-  description: MIT community members made headlines with key research advances and
-    their efforts to tackle pressing challenges.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2025/mit-media-review-1222
-  pub_date: '2025-12-22T22:20:00'
-  source: MIT AI News
-  title: 'MIT in the media: 2025 in review'
-last_updated: '2026-02-02T07:03:06.986622'
+last_updated: '2026-02-03T06:52:56.780446'

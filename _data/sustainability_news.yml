@@ -1,5 +1,39 @@
 articles:
 - category: supply-chain
+  description: The report's benchmark reading, the PMI, came in at 52.6 (a reading
+    higher than 50 indicates growth).
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ism-reports-a-manufacturing-uptick-after-several-months-of-declines
+  pub_date: '2026-02-02T21:19:00'
+  source: Supply Chain 24/7
+  title: ISM reports a manufacturing uptick, after several months of declines
+- category: supply-chain
+  description: Learn how warehouse execution systems (WES) connect WMS, automation,
+    robotics, and labor to optimize real-time warehouse operations and future-proof
+    supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-warehouse-execution-systems-wes-are-critical-for-modern-warehouse-automation
+  pub_date: '2026-02-02T13:09:00'
+  source: Supply Chain 24/7
+  title: Why Warehouse Execution Systems (WES) Are Critical for Modern Warehouse Automation
+- category: circular
+  description: Reporting through Digital Waste Tracking (DWT) will now become mandatory
+    for all required operators in October 2027. The post Mandatory Digital Waste Tracking
+    rollout delayed by six months appeared fi...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/mandatory-digital-waste-tracking-rollout-delayed-by-six-months/
+  pub_date: '2026-02-02T10:43:58'
+  source: Circular Online
+  title: Mandatory Digital Waste Tracking rollout delayed by six months
+- category: supply-chain
+  description: As warehouse drones move into real operations, outdated assumptions
+    about disruption, safety, and complexity are proving hard to shake.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/five-common-misconceptions-about-autonomous-warehouse-drones
+  pub_date: '2026-02-02T05:28:00'
+  source: Supply Chain 24/7
+  title: Five Common Misconceptions About Autonomous Warehouse Drones
+- category: supply-chain
   description: Mixed enforcement of the EU's new ICS2 customs rules is creating confusion
     for UK carriers and adding risk to cross-border supply chains.
   icon: fa-box
@@ -83,22 +117,6 @@ articles:
   pub_date: '2026-01-29T12:59:00'
   source: Supply Chain 24/7
   title: Gatik Says Its Driverless Freight Trucks Have Reached Commercial Scale
-- category: supply-chain
-  description: John Deere is opening two new U.S. facilities in Indiana and North
-    Carolina, creating jobs and bringing excavator production back to the U.S.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/john-deere-expands-us-manufacturing-indiana-north-carolina
-  pub_date: '2026-01-29T12:09:00'
-  source: Supply Chain 24/7
-  title: John Deere Plans Two New Facilities in Indiana and North Carolina
-- category: supply-chain
-  description: KettenWulf is investing $34 million to open a new manufacturing facility
-    in Auburn, Alabama, creating around 70 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/kettenwulf-auburn-alabama-manufacturing-facility
-  pub_date: '2026-01-29T10:21:00'
-  source: Supply Chain 24/7
-  title: KettenWulf to Open $34M Manufacturing Facility in Auburn, Alabama
 - category: circular
   description: The Duchy of Lancaster has said it is exempt from regulatory obligations
     to clear a 25,000-tonne waste site on its land, citing a 750-year-old feudal law.
@@ -109,14 +127,6 @@ articles:
   source: Circular Online
   title: King’s estate denies responsibility for clearing large-scale illegal waste
     site
-- category: supply-chain
-  description: Corning plans to expand fiber-optic manufacturing and add jobs in North
-    Carolina under a supply deal with Meta worth up to $6 billion.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/corning-expands-north-carolina-manufacturing-meta-fiber-deal
-  pub_date: '2026-01-29T08:54:00'
-  source: Supply Chain 24/7
-  title: Corning, Meta Team Up to Grow Fiber Optic Production in North Carolina
 - category: circular
   description: Young people are at risk of being locked out of the green economy,
     according to a report by Co-op. The post Young people at risk of being locked
@@ -163,13 +173,4 @@ articles:
   pub_date: '2026-01-27T11:27:40'
   source: Circular Online
   title: Council partners with police to tackle fly-tipping at Northamptonshire hotspot
-- category: circular
-  description: A specialist CCTV camera that uses 'AI technology' has been installed
-    at a fly-tipping hotspot in West Northamptonshire. The post 'AI CCTV camera tower'
-    installed in Northamptonshire to tackle fly-tip...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ai-cctv-camera-tower-installed-in-northamptonshire-to-tackle-fly-tipping/
-  pub_date: '2026-01-27T09:16:34'
-  source: Circular Online
-  title: ‘AI CCTV camera tower’ installed in Northamptonshire to tackle fly-tipping
-last_updated: '2026-02-02T07:03:05.804107'
+last_updated: '2026-02-03T06:52:55.423897'
