@@ -1,12 +1,30 @@
 articles:
 - category: supply-chain
-  description: The report's benchmark reading, the PMI, came in at 52.6 (a reading
-    higher than 50 indicates growth).
+  description: LightSource CEO Spencer Penn explains why procurement keeps losing
+    institutional memory and how teams can stop it.
   icon: fa-box
-  link: https://www.supplychain247.com/article/ism-reports-a-manufacturing-uptick-after-several-months-of-declines
-  pub_date: '2026-02-02T21:19:00'
+  link: https://www.supplychain247.com/article/procurement-institutional-memory-spencer-penn
+  pub_date: '2026-02-03T15:46:00'
   source: Supply Chain 24/7
-  title: ISM reports a manufacturing uptick, after several months of declines
+  title: The Procurement Problem No System Was Built to Solve
+- category: circular
+  description: Global Plastics Treaty process risks failing without significant reform,
+    according to new research based on interviews with participants from the negotiations.
+    The report, released by the Global Plast...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/study-finds-global-plastics-treaty-risks-failure-without-reform/
+  pub_date: '2026-02-03T11:05:14'
+  source: Circular Online
+  title: Study finds Global Plastics Treaty risks failure without reform
+- category: circular
+  description: The UK Government has announced the UK's 'first-ever' plan to protect
+    public health and the environment from forever chemicals. The post Defra announces
+    plan to tackle forever chemicals appeared first...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/defra-announces-plan-to-tackle-forever-chemicals/
+  pub_date: '2026-02-03T09:17:37'
+  source: Circular Online
+  title: Defra announces plan to tackle forever chemicals
 - category: supply-chain
   description: Learn how warehouse execution systems (WES) connect WMS, automation,
     robotics, and labor to optimize real-time warehouse operations and future-proof
@@ -85,13 +103,13 @@ articles:
   title: News in brief | CIWM Commercial Partner Updates 30 January
 - category: circular
   description: Two men have been arrested as part of an investigation into the 20,000-tonne
-    illegal waste dump in Kidlington, Oxfordshire. The post Two arrested over 20,000
-    tonne Kidlington waste dump appeared first...
+    illegal waste dump in Kidlington, Oxfordshire. The post Three arrested over 20,000
+    tonne Kidlington waste dump appeared fir...
   icon: fa-recycle
   link: https://www.circularonline.co.uk/news/two-arrested-over-20000-tonne-kidlington-waste-dump/
   pub_date: '2026-01-30T10:54:50'
   source: Circular Online
-  title: Two arrested over 20,000 tonne Kidlington waste dump
+  title: Three arrested over 20,000 tonne Kidlington waste dump
 - category: circular
   description: Recycling rates in Wales increased to 68.4% in 2024-25 following the
     introduction of new workplace recycling reforms. The post Welsh recycling rates
@@ -155,22 +173,4 @@ articles:
   pub_date: '2026-01-28T09:40:15'
   source: Circular Online
   title: EU could cut bio-waste by introducing EPR for food products, report shows
-- category: circular
-  description: Ahead of the October 2027 launch of the UK's DRS, the scheme administrator
-    has announced 'Exchange for Change' as its new trading name. The post UK DRS rebrands
-    as Exchange for Change ahead of 2027 la...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-drs-rebrands-as-exchange-for-change-ahead-of-2027-launch/
-  pub_date: '2026-01-27T11:56:50'
-  source: Circular Online
-  title: UK DRS rebrands as Exchange for Change ahead of 2027 launch
-- category: circular
-  description: North Northamptonshire Council has partnered with local police to close
-    a lay-by that has become a hotspot for fly-tipping. The post Council partners
-    with police to tackle fly-tipping at Northamptonsh...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/council-partners-with-police-to-tackle-fly-tipping-at-northamptonshire-hotspot/
-  pub_date: '2026-01-27T11:27:40'
-  source: Circular Online
-  title: Council partners with police to tackle fly-tipping at Northamptonshire hotspot
-last_updated: '2026-02-03T06:52:55.423897'
+last_updated: '2026-02-04T06:53:52.855610'

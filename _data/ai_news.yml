@@ -1,4 +1,55 @@
 articles:
+- category: machine-learning
+  description: 'The business impact of AI is clear: faster response times, higher
+    customer satisfaction, reduced operational costs, and data-driven insights that
+    leaders can act on with confidence.'
+  icon: fa-chart-bar
+  link: https://bit.ly/45Qgzq2
+  pub_date: '2026-02-04T03:19:32'
+  source: KDnuggets
+  title: The Business Impact of AI Deployment (Sponsored)
+- category: ai-research
+  description: The MIT senior will pursue a master's degree at Cambridge University
+    in the U.K. this fall.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/katie-spivakovsky-wins-churchill-scholarship-0203
+  pub_date: '2026-02-03T22:25:00'
+  source: MIT AI News
+  title: Katie Spivakovsky wins 2026 Churchill Scholarship
+- category: ai-research
+  description: Architecture students bring new forms of human-machine interaction
+    into the kitchen.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/counter-intelligence-kitchen-cosmo-0203
+  pub_date: '2026-02-03T22:00:00'
+  source: MIT AI News
+  title: Counter intelligence
+- category: machine-learning
+  description: AI orchestration coordinates specialized models and tools into systems
+    greater than the sum of their parts.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/beyond-giant-models-why-ai-orchestration-is-the-new-architecture
+  pub_date: '2026-02-03T17:16:45'
+  source: KDnuggets
+  title: 'Beyond Giant Models: Why AI Orchestration Is the New Architecture'
+- category: ai-research
+  description: WITEC is working to develop the first wearable ultrasound imaging system
+    to monitor chronic conditions in real-time, with the goal of enabling earlier
+    detection and timely intervention.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/smart-launches-wearable-imaging-transforming-elderly-care-research-group-0203
+  pub_date: '2026-02-03T15:00:00'
+  source: MIT AI News
+  title: SMART launches new Wearable Imaging for Transforming Elderly Care research
+    group
+- category: machine-learning
+  description: Five widely adopted time series foundation models delivering accurate
+    zero-shot forecasting across industries and time horizons.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on
+  pub_date: '2026-02-03T14:46:29'
+  source: KDnuggets
+  title: 5 Time Series Foundation Models You Are Missing Out On
 - category: ai-research
   description: A four-part vertical collage showing a cotton-top tamarin, an ibex,
     a golden lion tamarin, and a penguin.
@@ -105,23 +156,6 @@ articles:
   pub_date: '2026-01-29T14:37:51'
   source: KDnuggets
   title: 7 Scikit-learn Tricks for Hyperparameter Tuning
-- category: machine-learning
-  description: Successful data teams aren't using more AI; they're using AI differently.
-    They embed it into workflows and decisions, employing ownership models that many
-    SMBs haven't adopted.
-  icon: fa-chart-bar
-  link: https://bit.ly/4t6g1pK
-  pub_date: '2026-01-28T13:57:56'
-  source: KDnuggets
-  title: This Is How Successful Data Teams Are Using AI (Sponsored)
-- category: machine-learning
-  description: API bills are killing vibe coding. These seven coding plans let you
-    ship faster without watching token costs.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-coding-plans-for-vibe-coding
-  pub_date: '2026-01-28T13:00:14'
-  source: KDnuggets
-  title: Top 7 Coding Plans for Vibe Coding
 - category: ai-research
   description: We're launching Google AI Plus in 35 new countries and territories
     including the US, making it available everywhere Google AI plans are available.
@@ -131,14 +165,6 @@ articles:
   source: Google AI Blog
   title: Google AI Plus is now available everywhere our AI plans are available, including
     the U.S.
-- category: machine-learning
-  description: AI systems now see images, hear speech, and process video, understanding
-    information in its native form.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-multimodal-ai-guide-vision-voice-text-and-beyond
-  pub_date: '2026-01-27T17:00:50'
-  source: KDnuggets
-  title: 'The Multimodal AI Guide: Vision, Voice, Text, and Beyond'
 - category: ai-research
   description: A centered, elongated oval shape resembling a search bar with the text
     "Ask anything" inside it.
@@ -225,28 +251,4 @@ articles:
   pub_date: '2026-01-08T21:55:00'
   source: MIT AI News
   title: Decoding the Arctic to predict winter weather
-- category: ai-research
-  description: Recent launch event for the center featured discussions on pro-worker
-    AI, wealth inequality, and the future of liberal democracy.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/stone-center-inequality-shaping-future-work-launches-0107
-  pub_date: '2026-01-07T20:30:00'
-  source: MIT AI News
-  title: Stone Center on Inequality and Shaping the Future of Work Launches at MIT
-- category: ai-research
-  description: New research demonstrates how AI models can be tested to ensure they
-    don't cause harm by revealing anonymized patient health data.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
-  pub_date: '2026-01-05T21:55:00'
-  source: MIT AI News
-  title: MIT scientists investigate memorization risk in the age of clinical AI
-- category: ai-research
-  description: MIT graduate student C Jacob Payne reimagines historic architecture
-    and invents new possibilities at the intersection of AI and design.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/using-design-interpret-past-envision-future-c-jacob-payne-0105
-  pub_date: '2026-01-05T20:25:00'
-  source: MIT AI News
-  title: Using design to interpret the past and envision the future
-last_updated: '2026-02-03T06:52:56.780446'
+last_updated: '2026-02-04T06:53:54.070865'
