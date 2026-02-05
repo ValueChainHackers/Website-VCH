@@ -1,4 +1,51 @@
 articles:
+- category: circular
+  description: The Lords' waste crime inquiry chair has said she is 'astounded' an
+    illegal waste site on the King's estate has not been cleared by the Environment
+    Agency. The post Waste crime inquiry chair 'astounde...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-crime-inquiry-chair-astounded-waste-site-on-kings-estate-has-not-been-cleared/
+  pub_date: '2026-02-04T14:34:27'
+  source: Circular Online
+  title: Waste crime inquiry chair ‘astounded’ waste site on King’s estate has not
+    been cleared
+- category: supply-chain
+  description: New research shows that poor supplier data is causing procurement AI
+    to hallucinate, creating risk, missed signals, and failed automation.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-ai-hallucinations-supplier-data-problem
+  pub_date: '2026-02-04T13:04:00'
+  source: Supply Chain 24/7
+  title: Procurement AI Has a Data Problem and It’s Bigger Than You Think
+- category: circular
+  description: Dynamic digital passports that track the condition of perishable goods
+    in real-time could 'dramatically cut waste and improve safety', new research shows.
+    The post Dynamic digital passports enable rea...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/dynamic-digital-passports-enable-real-time-tracking-of-perishable-goods-research-shows/
+  pub_date: '2026-02-04T12:39:10'
+  source: Circular Online
+  title: Dynamic digital passports enable real-time tracking of perishable goods,
+    research shows
+- category: circular
+  description: Too Good To Go has announced it has distributed 300,000 parcels since
+    launching a new initiative for major household brands. The post Too Good To Go
+    distributes 300,000 parcels of surplus food from ho...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/too-good-to-go-distributes-300000-parcels-of-surplus-food-from-household-brands/
+  pub_date: '2026-02-04T11:05:51'
+  source: Circular Online
+  title: Too Good To Go distributes 300,000 parcels of surplus food from household
+    brands
+- category: circular
+  description: South Gloucestershire Council is introducing new recycling bags for
+    residents ahead of its transition to three-weekly black bin collections. The post
+    Council introduce new recycling bags ahead of thre...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/council-introduce-new-recycling-bags-ahead-of-three-weekly-collections/
+  pub_date: '2026-02-04T09:13:23'
+  source: Circular Online
+  title: Council introduce new recycling bags ahead of three-weekly collections
 - category: supply-chain
   description: LightSource CEO Spencer Penn explains why procurement keeps losing
     institutional memory and how teams can stop it.
@@ -84,6 +131,15 @@ articles:
   source: Supply Chain 24/7
   title: Maersk Opens New Ground Freight Hub in Fontana, California
 - category: supply-chain
+  description: Discover the top warehouse automation trends shaping 2026, including
+    AI-driven orchestration, robotics-to-goods, human-robot collaboration, and smarter,
+    more flexible fulfillment networks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-warehouse-automation-trends-for-2026-ai-robotics-and-smart-fulfillment
+  pub_date: '2026-01-30T14:27:00'
+  source: Supply Chain 24/7
+  title: 'Top Warehouse Automation Trends for 2026: AI, Robotics, and Smart Fulfillment'
+- category: supply-chain
   description: Growing ecommerce brands should periodically reassess their 3PL to
     ensure fulfillment, technology, and cost strategies still align with where the
     business is headed.
@@ -119,58 +175,4 @@ articles:
   pub_date: '2026-01-30T07:00:00'
   source: Circular Online
   title: Welsh recycling rates climb to 68.4% in 2024-25
-- category: supply-chain
-  description: Tesla will end production of its Model S and Model X electric vehicles
-    next quarter to free up factory space for robotics and autonomous technology.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tesla-ends-model-s-x-production-for-robots
-  pub_date: '2026-01-29T17:32:00'
-  source: Supply Chain 24/7
-  title: Elon Musk Confirms Tesla Will Stop Model S and Model X Production
-- category: supply-chain
-  description: Gatik says it has moved driverless freight trucking from pilots into
-    everyday commercial operations across multiple U.S. markets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gatik-driverless-freight-trucks-commercial-scale
-  pub_date: '2026-01-29T12:59:00'
-  source: Supply Chain 24/7
-  title: Gatik Says Its Driverless Freight Trucks Have Reached Commercial Scale
-- category: circular
-  description: The Duchy of Lancaster has said it is exempt from regulatory obligations
-    to clear a 25,000-tonne waste site on its land, citing a 750-year-old feudal law.
-    The post King's estate denies responsibility ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/kings-estate-denies-responsibility-for-clearing-large-scale-illegal-waste-site/
-  pub_date: '2026-01-29T09:54:13'
-  source: Circular Online
-  title: King’s estate denies responsibility for clearing large-scale illegal waste
-    site
-- category: circular
-  description: Young people are at risk of being locked out of the green economy,
-    according to a report by Co-op. The post Young people at risk of being locked
-    out of green economy, Co-op report finds appeared first...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/young-people-at-risk-of-being-locked-out-of-green-economy-co-op-report-finds/
-  pub_date: '2026-01-28T11:44:56'
-  source: Circular Online
-  title: Young people at risk of being locked out of green economy, Co-op report finds
-- category: circular
-  description: Yorkshire waste operator handed suspended sentence after illegally
-    acting as a company director while bankrupt. The post Suspended sentence for waste
-    operator who 'blatantly ignored' bankruptcy restri...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/suspended-sentence-for-waste-operator-who-blatantly-ignored-bankruptcy-restrictions/
-  pub_date: '2026-01-28T10:26:50'
-  source: Circular Online
-  title: Suspended sentence for waste operator who ‘blatantly ignored’ bankruptcy
-    restrictions
-- category: circular
-  description: The EU will struggle to meet its 2030 food waste and climate targets
-    without a new way to pay for food waste prevention and collection, according to
-    a new report by Zero Waste Europe. The post EU coul...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/eu-could-cut-bio-waste-by-introducing-epr-for-food-products-report-shows/
-  pub_date: '2026-01-28T09:40:15'
-  source: Circular Online
-  title: EU could cut bio-waste by introducing EPR for food products, report shows
-last_updated: '2026-02-04T06:53:52.855610'
+last_updated: '2026-02-05T06:59:53.135698'
