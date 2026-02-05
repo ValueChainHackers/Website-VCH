@@ -1,4 +1,64 @@
 articles:
+- category: ai-research
+  description: He joins Nikos Trichakis in guiding the cross-cutting initiative of
+    the MIT Schwarzman College of Computing.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/brian-hedden-named-co-associate-dean-serc-0204
+  pub_date: '2026-02-04T18:25:00'
+  source: MIT AI News
+  title: Brian Hedden named co-associate dean of Social and Ethical Responsibilities
+    of Computing
+- category: ai-research
+  description: Torralba's research focuses on computer vision, machine learning, and
+    human visual perception.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/antonio-torralba-three-mit-alumni-named-acm-fellows-0204
+  pub_date: '2026-02-04T18:15:00'
+  source: MIT AI News
+  title: Antonio Torralba, three MIT alumni named 2025 ACM fellows
+- category: machine-learning
+  description: How the Abacus.AI CEO Views Artificial General Intelligence and the
+    Best AI Models for Every Use Case
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/02/abacus/bindu-reddy-navigating-the-path-to-agi
+  pub_date: '2026-02-04T18:00:15'
+  source: KDnuggets
+  title: 'Bindu Reddy: Navigating the Path to AGI'
+- category: ai-research
+  description: Professor James Collins discusses how collaboration has been central
+    to his research into combining computational predictions with new experimental
+    platforms.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204
+  pub_date: '2026-02-04T18:00:00'
+  source: MIT AI News
+  title: '3 Questions: Using AI to accelerate the discovery and design of therapeutic
+    drugs'
+- category: ai-research
+  description: mp4 showing a carousel of images including a card reading "Help that's
+    made for you"
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/
+  pub_date: '2026-02-04T16:55:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in January
+- category: machine-learning
+  description: Want to become an AI engineer in 2026? This step-by-step roadmap breaks
+    down the skills, tools, and projects you need.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-become-an-ai-engineer-in-2026-a-self-study-roadmap
+  pub_date: '2026-02-04T16:37:34'
+  source: KDnuggets
+  title: 'How to Become an AI Engineer in 2026: A Self-Study Roadmap'
+- category: machine-learning
+  description: From real-time edits to reasoning-driven image transformations, this
+    guide breaks down five open source AI models that are quietly reshaping how images
+    are created and edited.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-open-source-image-editing-ai-models
+  pub_date: '2026-02-04T13:30:26'
+  source: KDnuggets
+  title: 5 Open Source Image Editing AI Models
 - category: machine-learning
   description: 'The business impact of AI is clear: faster response times, higher
     customer satisfaction, reduced operational costs, and data-driven insights that
@@ -117,15 +177,6 @@ articles:
   pub_date: '2026-01-30T13:00:19'
   source: KDnuggets
   title: 5 Fun APIs for Absolute Beginners
-- category: machine-learning
-  description: If you use API keys in Python, you need a safe way to store them. This
-    guide explains seven beginner-friendly techniques for managing secrets using .env
-    files.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/managing-secrets-and-api-keys-in-python-projects-env-guide
-  pub_date: '2026-01-29T17:00:50'
-  source: KDnuggets
-  title: Managing Secrets and API Keys in Python Projects (.env Guide)
 - category: ai-research
   description: Text reads Introducing Project Genie
   icon: fa-google
@@ -133,14 +184,6 @@ articles:
   pub_date: '2026-01-29T17:00:00'
   source: Google AI Blog
   title: 'Project Genie: Experimenting with infinite, interactive worlds'
-- category: machine-learning
-  description: Hugging Face Spaces is a free way to host a portfolio with live demos,
-    and this article walks through setting one up step by step.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-use-hugging-face-spaces-to-host-your-portfolio-for-free
-  pub_date: '2026-01-29T15:00:14'
-  source: KDnuggets
-  title: How to Use Hugging Face Spaces to Host Your Portfolio for Free
 - category: ai-research
   description: 'Project Genie: Create and explore worlds'
   icon: fa-google
@@ -148,14 +191,6 @@ articles:
   pub_date: '2026-01-29T15:00:00'
   source: Google AI Blog
   title: Hear more about interactive world models in our latest podcast.
-- category: machine-learning
-  description: Ready to learn these 7 Scikit-learn tricks that will take your machine
-    learning models' hyperparameter tuning skills to the next level?
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-scikit-learn-tricks-for-hyperparameter-tuning
-  pub_date: '2026-01-29T14:37:51'
-  source: KDnuggets
-  title: 7 Scikit-learn Tricks for Hyperparameter Tuning
 - category: ai-research
   description: We're launching Google AI Plus in 35 new countries and territories
     including the US, making it available everywhere Google AI plans are available.
@@ -209,14 +244,6 @@ articles:
   source: MIT AI News
   title: Why it’s critical to move beyond overly aggregated machine-learning metrics
 - category: ai-research
-  description: Illustration of a cinematographer filming with a professional video
-    camera mounted on a tripod, positioned next to a studio light and a film clapboard.
-  icon: fa-google
-  link: https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/
-  pub_date: '2026-01-20T20:30:00'
-  source: Google AI Blog
-  title: Building a community-led future for AI in film with Sundance Institute
-- category: ai-research
   description: With support from the Siegel Family Endowment, the newly renamed MIT
     Siegel Family Quest for Intelligence investigates how brains produce intelligence
     and how it can be replicated to solve problems.
@@ -225,30 +252,4 @@ articles:
   pub_date: '2026-01-14T21:50:00'
   source: MIT AI News
   title: At MIT, a continued commitment to understanding intelligence
-- category: ai-research
-  description: '"MechStyle" allows users to personalize 3D models, while ensuring
-    they''re physically viable after fabrication, producing unique personal items
-    and assistive technology.'
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114
-  pub_date: '2026-01-14T21:00:00'
-  source: MIT AI News
-  title: Generative AI tool helps 3D print personal items that sustain daily use
-- category: ai-research
-  description: While the growing energy demands of AI are worrying, some techniques
-    can also help make power grids cleaner and more efficient.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109
-  pub_date: '2026-01-09T05:00:00'
-  source: MIT AI News
-  title: '3 Questions: How AI could optimize the power grid'
-- category: ai-research
-  description: With the help of AI, MIT Research Scientist Judah Cohen is reshaping
-    subseasonal forecasting, with the goal of extending the lead time for predicting
-    impactful weather.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/decoding-arctic-to-predict-winter-weather-0108
-  pub_date: '2026-01-08T21:55:00'
-  source: MIT AI News
-  title: Decoding the Arctic to predict winter weather
-last_updated: '2026-02-04T06:53:54.070865'
+last_updated: '2026-02-05T06:59:54.194444'
