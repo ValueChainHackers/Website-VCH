@@ -1,4 +1,63 @@
 articles:
+- category: supply-chain
+  description: Truckstop data shows Super Bowl LX is driving a sharp freight surge
+    into San Jose, with flatbed and reefer loads climbing well ahead of kickoff.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/super-bowl-lx-freight-impact-flatbed-reefer
+  pub_date: '2026-02-05T16:52:00'
+  source: Supply Chain 24/7
+  title: How the Super Bowl Turns Host Cities Into Freight Hot Spots
+- category: supply-chain
+  description: Gartner predicts 40% of large warehouses will adopt gamification tools
+    by 2028 to address labor shortages and turnover.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-warehouse-gamification-adoption-2028
+  pub_date: '2026-02-05T16:30:00'
+  source: Supply Chain 24/7
+  title: Gartner Predicts 40% of Large Warehouses Will Use Gamification by 2028
+- category: supply-chain
+  description: Learn how a logistics provider eliminated costly warehouse labeling
+    errors, improved accuracy, and nearly doubled productivity by replacing centralized
+    printing with mobile workstations.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-mobile-workstations-reduced-warehouse-labeling-errors-and-doubled-productivity
+  pub_date: '2026-02-05T16:27:00'
+  source: Supply Chain 24/7
+  title: How Mobile Workstations Reduced Warehouse Labeling Errors and Doubled Productivity
+- category: supply-chain
+  description: A new Tecsys survey finds that only 20% of hospital pharmacies have
+    real-time visibility, leaving most healthcare supply chains stuck reacting to
+    disruptions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hospital-pharmacy-supply-chain-visibility-crisis
+  pub_date: '2026-02-05T15:54:00'
+  source: Supply Chain 24/7
+  title: 'Report: 80% of Hospital Pharmacies Lack Real-Time Supply Chain Visibility'
+- category: supply-chain
+  description: Manufacturing and logistics employers are facing tight labor conditions,
+    with a new list highlighting the jobs expected to be hardest to fill in 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/most-in-demand-manufacturing-logistics-jobs-2026
+  pub_date: '2026-02-05T14:20:00'
+  source: Supply Chain 24/7
+  title: The Most In-Demand Manufacturing and Logistics Jobs for 2026
+- category: supply-chain
+  description: As AI becomes central to supply chain operations, security must move
+    beyond software and start with trusted hardware and edge systems.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-supply-chain-security-hardware-software
+  pub_date: '2026-02-05T14:17:00'
+  source: Supply Chain 24/7
+  title: Why AI Security in the Supply Chain Starts Below the Software Layer
+- category: circular
+  description: UK metals recycling's operational emissions could fall 93% by 2050
+    with government support, according to a new report from BMRA. The post UK metals
+    recycling's operational emissions could fall 93% by ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-metals-recyclings-operational-emissions-could-fall-93-by-2050/
+  pub_date: '2026-02-05T11:17:09'
+  source: Circular Online
+  title: UK metals recycling’s operational emissions could fall 93% by 2050
 - category: circular
   description: The Lords' waste crime inquiry chair has said she is 'astounded' an
     illegal waste site on the King's estate has not been cleared by the Environment
@@ -98,56 +157,6 @@ articles:
   pub_date: '2026-02-02T05:28:00'
   source: Supply Chain 24/7
   title: Five Common Misconceptions About Autonomous Warehouse Drones
-- category: supply-chain
-  description: Mixed enforcement of the EU's new ICS2 customs rules is creating confusion
-    for UK carriers and adding risk to cross-border supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/uk-supply-chain-uncertainty-eu-ics2-roll-out-confusion
-  pub_date: '2026-01-30T16:15:00'
-  source: Supply Chain 24/7
-  title: EU’s New ICS2 Customs Rules Leave UK Carriers Scratching Their Heads
-- category: supply-chain
-  description: Krber agreed to acquire a majority stake in Stellium, creating a new
-    global unit, Krber Stellium, to help more companies improve their supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/korber-stellium-supply-chain-deal
-  pub_date: '2026-01-30T15:48:00'
-  source: Supply Chain 24/7
-  title: Körber Buys Majority Stake in Stellium, Expanding Supply Chain Reach
-- category: supply-chain
-  description: CMA CGM and Stonepeak have formed United Ports, a new joint venture
-    bringing together major terminal assets across the U.S. and global trade lanes.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cma-cgm-stonepeak-united-ports-joint-venture
-  pub_date: '2026-01-30T15:24:00'
-  source: Supply Chain 24/7
-  title: CMA CGM Teams Up With Stonepeak to Launch Global Port Joint Venture
-- category: supply-chain
-  description: Maersk has opened a new ground freight hub in Fontana, California,
-    to speed up trucking and strengthen its Southern California network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-opens-new-ground-freight-hub-in-fontana-california
-  pub_date: '2026-01-30T14:54:00'
-  source: Supply Chain 24/7
-  title: Maersk Opens New Ground Freight Hub in Fontana, California
-- category: supply-chain
-  description: Discover the top warehouse automation trends shaping 2026, including
-    AI-driven orchestration, robotics-to-goods, human-robot collaboration, and smarter,
-    more flexible fulfillment networks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-warehouse-automation-trends-for-2026-ai-robotics-and-smart-fulfillment
-  pub_date: '2026-01-30T14:27:00'
-  source: Supply Chain 24/7
-  title: 'Top Warehouse Automation Trends for 2026: AI, Robotics, and Smart Fulfillment'
-- category: supply-chain
-  description: Growing ecommerce brands should periodically reassess their 3PL to
-    ensure fulfillment, technology, and cost strategies still align with where the
-    business is headed.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/thinking-of-switching-3pls-what-to-consider-before-changing
-  pub_date: '2026-01-30T14:10:00'
-  source: Supply Chain 24/7
-  title: Ready to Switch 3PLs? What to Consider Before Making the Change
 - category: circular
   description: 'News updates written by CIWM''s commercial partners. Greyparrot Greyparrot
     gathers global waste leaders to help MRF operators plan for a protable 2026 Beyondly
@@ -166,13 +175,4 @@ articles:
   pub_date: '2026-01-30T10:54:50'
   source: Circular Online
   title: Three arrested over 20,000 tonne Kidlington waste dump
-- category: circular
-  description: Recycling rates in Wales increased to 68.4% in 2024-25 following the
-    introduction of new workplace recycling reforms. The post Welsh recycling rates
-    climb to 68.4% in 2024-25 appeared first on Circula...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/welsh-recycling-rates-climb-to-68-4-in-2024-25/
-  pub_date: '2026-01-30T07:00:00'
-  source: Circular Online
-  title: Welsh recycling rates climb to 68.4% in 2024-25
-last_updated: '2026-02-05T06:59:53.135698'
+last_updated: '2026-02-06T06:55:52.744229'
