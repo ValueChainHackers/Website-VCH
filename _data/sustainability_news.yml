@@ -1,5 +1,48 @@
 articles:
 - category: supply-chain
+  description: Krber's Helena Garriga shares how growing up in a family business and
+    building a global engineering career shaped her leadership approach.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/women-in-supply-chain-dr-helena-garriga-of-koerber
+  pub_date: '2026-02-06T15:45:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Dr. Helena Garriga of Körber'
+- category: supply-chain
+  description: L.L.Bean is reshaping its supply chain around retail growth, store
+    efficiency, and cross-functional collaboration as part of its effort to support
+    long-term expansion.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ll-bean-supply-chain-retail-transformation
+  pub_date: '2026-02-06T14:06:00'
+  source: Supply Chain 24/7
+  title: Why L.L.Bean Hit a Wall at 50 Stores and Rethought Its Supply Chain
+- category: supply-chain
+  description: Scope 3 reporting has shifted from a sustainability task to a supply
+    chain responsibility as new regulations force companies to track emissions across
+    logistics networks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/scope-3-reporting-supply-chain-problem
+  pub_date: '2026-02-06T12:11:00'
+  source: Supply Chain 24/7
+  title: Why Scope 3 Is Now a Supply Chain Problem, Not Just Sustainability
+- category: supply-chain
+  description: Eli Lilly plans to invest $3.5 billion in a new Pennsylvania manufacturing
+    plant focused on injectable medicines.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eli-lilly-3-5-billion-pennsylvania-manufacturing-plant
+  pub_date: '2026-02-06T12:08:00'
+  source: Supply Chain 24/7
+  title: Lilly Announces Plans For $3.5B Manufacturing Plant in Pennsylvania
+- category: circular
+  description: A Cornwall firm has been found guilty of unpermitted storage and disposal
+    of waste and must repay GBP600,000 under the Proceeds of Crime Act. The post Firm
+    fined GBP600,000 for illegally storing waste...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/firm-fined-600000-for-illegally-storing-waste-including-animal-blood/
+  pub_date: '2026-02-06T09:09:22'
+  source: Circular Online
+  title: Firm fined £600,000 for illegally storing waste including animal blood
+- category: supply-chain
   description: Truckstop data shows Super Bowl LX is driving a sharp freight surge
     into San Jose, with flatbed and reefer loads climbing well ahead of kickoff.
   icon: fa-box
@@ -68,14 +111,6 @@ articles:
   source: Circular Online
   title: Waste crime inquiry chair ‘astounded’ waste site on King’s estate has not
     been cleared
-- category: supply-chain
-  description: New research shows that poor supplier data is causing procurement AI
-    to hallucinate, creating risk, missed signals, and failed automation.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-ai-hallucinations-supplier-data-problem
-  pub_date: '2026-02-04T13:04:00'
-  source: Supply Chain 24/7
-  title: Procurement AI Has a Data Problem and It’s Bigger Than You Think
 - category: circular
   description: Dynamic digital passports that track the condition of perishable goods
     in real-time could 'dramatically cut waste and improve safety', new research shows.
@@ -105,14 +140,6 @@ articles:
   pub_date: '2026-02-04T09:13:23'
   source: Circular Online
   title: Council introduce new recycling bags ahead of three-weekly collections
-- category: supply-chain
-  description: LightSource CEO Spencer Penn explains why procurement keeps losing
-    institutional memory and how teams can stop it.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-institutional-memory-spencer-penn
-  pub_date: '2026-02-03T15:46:00'
-  source: Supply Chain 24/7
-  title: The Procurement Problem No System Was Built to Solve
 - category: circular
   description: Global Plastics Treaty process risks failing without significant reform,
     according to new research based on interviews with participants from the negotiations.
@@ -131,15 +158,6 @@ articles:
   pub_date: '2026-02-03T09:17:37'
   source: Circular Online
   title: Defra announces plan to tackle forever chemicals
-- category: supply-chain
-  description: Learn how warehouse execution systems (WES) connect WMS, automation,
-    robotics, and labor to optimize real-time warehouse operations and future-proof
-    supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-warehouse-execution-systems-wes-are-critical-for-modern-warehouse-automation
-  pub_date: '2026-02-02T13:09:00'
-  source: Supply Chain 24/7
-  title: Why Warehouse Execution Systems (WES) Are Critical for Modern Warehouse Automation
 - category: circular
   description: Reporting through Digital Waste Tracking (DWT) will now become mandatory
     for all required operators in October 2027. The post Mandatory Digital Waste Tracking
@@ -149,14 +167,6 @@ articles:
   pub_date: '2026-02-02T10:43:58'
   source: Circular Online
   title: Mandatory Digital Waste Tracking rollout delayed by six months
-- category: supply-chain
-  description: As warehouse drones move into real operations, outdated assumptions
-    about disruption, safety, and complexity are proving hard to shake.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/five-common-misconceptions-about-autonomous-warehouse-drones
-  pub_date: '2026-02-02T05:28:00'
-  source: Supply Chain 24/7
-  title: Five Common Misconceptions About Autonomous Warehouse Drones
 - category: circular
   description: 'News updates written by CIWM''s commercial partners. Greyparrot Greyparrot
     gathers global waste leaders to help MRF operators plan for a protable 2026 Beyondly
@@ -166,13 +176,4 @@ articles:
   pub_date: '2026-01-30T13:00:33'
   source: Circular Online
   title: News in brief | CIWM Commercial Partner Updates 30 January
-- category: circular
-  description: Two men have been arrested as part of an investigation into the 20,000-tonne
-    illegal waste dump in Kidlington, Oxfordshire. The post Three arrested over 20,000
-    tonne Kidlington waste dump appeared fir...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/two-arrested-over-20000-tonne-kidlington-waste-dump/
-  pub_date: '2026-01-30T10:54:50'
-  source: Circular Online
-  title: Three arrested over 20,000 tonne Kidlington waste dump
-last_updated: '2026-02-06T06:55:52.744229'
+last_updated: '2026-02-07T06:42:23.265135'
