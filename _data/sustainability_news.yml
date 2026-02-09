@@ -1,38 +1,4 @@
 articles:
-- category: supply-chain
-  description: Krber's Helena Garriga shares how growing up in a family business and
-    building a global engineering career shaped her leadership approach.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/women-in-supply-chain-dr-helena-garriga-of-koerber
-  pub_date: '2026-02-06T15:45:00'
-  source: Supply Chain 24/7
-  title: 'Women in Supply Chain: Dr. Helena Garriga of Körber'
-- category: supply-chain
-  description: L.L.Bean is reshaping its supply chain around retail growth, store
-    efficiency, and cross-functional collaboration as part of its effort to support
-    long-term expansion.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ll-bean-supply-chain-retail-transformation
-  pub_date: '2026-02-06T14:06:00'
-  source: Supply Chain 24/7
-  title: Why L.L.Bean Hit a Wall at 50 Stores and Rethought Its Supply Chain
-- category: supply-chain
-  description: Scope 3 reporting has shifted from a sustainability task to a supply
-    chain responsibility as new regulations force companies to track emissions across
-    logistics networks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/scope-3-reporting-supply-chain-problem
-  pub_date: '2026-02-06T12:11:00'
-  source: Supply Chain 24/7
-  title: Why Scope 3 Is Now a Supply Chain Problem, Not Just Sustainability
-- category: supply-chain
-  description: Eli Lilly plans to invest $3.5 billion in a new Pennsylvania manufacturing
-    plant focused on injectable medicines.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/eli-lilly-3-5-billion-pennsylvania-manufacturing-plant
-  pub_date: '2026-02-06T12:08:00'
-  source: Supply Chain 24/7
-  title: Lilly Announces Plans For $3.5B Manufacturing Plant in Pennsylvania
 - category: circular
   description: A Cornwall firm has been found guilty of unpermitted storage and disposal
     of waste and must repay GBP600,000 under the Proceeds of Crime Act. The post Firm
@@ -42,56 +8,6 @@ articles:
   pub_date: '2026-02-06T09:09:22'
   source: Circular Online
   title: Firm fined £600,000 for illegally storing waste including animal blood
-- category: supply-chain
-  description: Truckstop data shows Super Bowl LX is driving a sharp freight surge
-    into San Jose, with flatbed and reefer loads climbing well ahead of kickoff.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/super-bowl-lx-freight-impact-flatbed-reefer
-  pub_date: '2026-02-05T16:52:00'
-  source: Supply Chain 24/7
-  title: How the Super Bowl Turns Host Cities Into Freight Hot Spots
-- category: supply-chain
-  description: Gartner predicts 40% of large warehouses will adopt gamification tools
-    by 2028 to address labor shortages and turnover.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-warehouse-gamification-adoption-2028
-  pub_date: '2026-02-05T16:30:00'
-  source: Supply Chain 24/7
-  title: Gartner Predicts 40% of Large Warehouses Will Use Gamification by 2028
-- category: supply-chain
-  description: Learn how a logistics provider eliminated costly warehouse labeling
-    errors, improved accuracy, and nearly doubled productivity by replacing centralized
-    printing with mobile workstations.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-mobile-workstations-reduced-warehouse-labeling-errors-and-doubled-productivity
-  pub_date: '2026-02-05T16:27:00'
-  source: Supply Chain 24/7
-  title: How Mobile Workstations Reduced Warehouse Labeling Errors and Doubled Productivity
-- category: supply-chain
-  description: A new Tecsys survey finds that only 20% of hospital pharmacies have
-    real-time visibility, leaving most healthcare supply chains stuck reacting to
-    disruptions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hospital-pharmacy-supply-chain-visibility-crisis
-  pub_date: '2026-02-05T15:54:00'
-  source: Supply Chain 24/7
-  title: 'Report: 80% of Hospital Pharmacies Lack Real-Time Supply Chain Visibility'
-- category: supply-chain
-  description: Manufacturing and logistics employers are facing tight labor conditions,
-    with a new list highlighting the jobs expected to be hardest to fill in 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/most-in-demand-manufacturing-logistics-jobs-2026
-  pub_date: '2026-02-05T14:20:00'
-  source: Supply Chain 24/7
-  title: The Most In-Demand Manufacturing and Logistics Jobs for 2026
-- category: supply-chain
-  description: As AI becomes central to supply chain operations, security must move
-    beyond software and start with trusted hardware and edge systems.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-supply-chain-security-hardware-software
-  pub_date: '2026-02-05T14:17:00'
-  source: Supply Chain 24/7
-  title: Why AI Security in the Supply Chain Starts Below the Software Layer
 - category: circular
   description: UK metals recycling's operational emissions could fall 93% by 2050
     with government support, according to a new report from BMRA. The post UK metals
@@ -176,4 +92,4 @@ articles:
   pub_date: '2026-01-30T13:00:33'
   source: Circular Online
   title: News in brief | CIWM Commercial Partner Updates 30 January
-last_updated: '2026-02-08T06:51:28.186879'
+last_updated: '2026-02-09T07:08:25.477090'

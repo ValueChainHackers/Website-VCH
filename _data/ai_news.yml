@@ -1,5 +1,13 @@
 articles:
 - category: ai-research
+  description: Removing just a tiny fraction of the crowdsourced data that informs
+    online ranking platforms can significantly change the results.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209
+  pub_date: '2026-02-09T05:00:00'
+  source: MIT AI News
+  title: 'Study: Platforms that rank the latest LLMs can be unreliable'
+- category: ai-research
   description: MIT faculty join The Curiosity Desk to discuss football, math, Olympic
     figure skating, AI and the quest to cure ovarian cancer.
   icon: fa-graduation-cap
@@ -211,14 +219,6 @@ articles:
   source: MIT AI News
   title: How generative AI can help scientists synthesize complex materials
 - category: ai-research
-  description: As AI technology advances, a new interdisciplinary course seeks to
-    equip students with foundational critical thinking skills in computing.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/philosophical-puzzle-rational-artificial-intelligence-0130
-  pub_date: '2026-01-30T21:50:00'
-  source: MIT AI News
-  title: The philosophical puzzle of rational artificial intelligence
-- category: ai-research
   description: Text reads Introducing Project Genie
   icon: fa-google
   link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/
@@ -249,4 +249,4 @@ articles:
   pub_date: '2026-01-27T17:00:00'
   source: Google AI Blog
   title: 'Just ask anything: a seamless new Search experience'
-last_updated: '2026-02-08T06:51:29.363309'
+last_updated: '2026-02-09T07:08:26.732322'
