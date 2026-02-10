@@ -1,4 +1,88 @@
 articles:
+- category: supply-chain
+  description: Rockwell Automation has confirmed New Berlin as the site of its planned
+    new manufacturing facility in Wisconsin.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rockwell-automation-new-berlin-manufacturing-plant
+  pub_date: '2026-02-09T19:11:00'
+  source: Supply Chain 24/7
+  title: Rockwell Confirms New Berlin, Wisconsin for New Manufacturing Campus
+- category: supply-chain
+  description: FedEx and an Advent-led group has acquired parcel locker company InPost
+    for $9.2 billion, expanding FedEx's reach in Europe's out-of-home delivery market.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-advent-inpost-parcel-locker-deal
+  pub_date: '2026-02-09T14:38:00'
+  source: Supply Chain 24/7
+  title: FedEx, Advent-Led Group Agrees to Acquire InPost in $9.2 Billion Deal
+- category: supply-chain
+  description: DOT says renewed enforcement of trucking regulations led to the removal
+    of more than 11,500 drivers and 7,500 CDL training schools over the past year.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dot-trucking-safety-enforcement-drivers-cdl-schools
+  pub_date: '2026-02-09T14:10:00'
+  source: Supply Chain 24/7
+  title: DOT Says 11,500 Truck Drivers Removed in Safety Enforcement Push
+- category: circular
+  description: Greenhouse gas emissions produced by the waste sector fell by 4% between
+    2023 and 2024. The post Waste sector emissions fall by 4% appeared first on Circular
+    Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-sector-emissions-fall-by-4/
+  pub_date: '2026-02-09T13:50:19'
+  source: Circular Online
+  title: Waste sector emissions fall by 4%
+- category: supply-chain
+  description: SCM software buyers are shifting their focus from promises and features
+    to real-world speed, execution, and decision-making performance.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eight-supply-chain-management-software-trends-reshaping-operations
+  pub_date: '2026-02-09T12:35:00'
+  source: Supply Chain 24/7
+  title: Eight Supply Chain Management Software Trends Reshaping Operations
+- category: circular
+  description: The Environment Agency has obtained court orders to restrict access
+    to two illegal waste sites. The post Environment Agency shuts down two illegal
+    waste sites appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/environment-agency-shuts-down-two-illegal-waste-sites/
+  pub_date: '2026-02-09T10:30:20'
+  source: Circular Online
+  title: Environment Agency shuts down two illegal waste sites
+- category: supply-chain
+  description: Krber's Helena Garriga shares how growing up in a family business and
+    building a global engineering career shaped her leadership approach.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/women-in-supply-chain-dr-helena-garriga-of-koerber
+  pub_date: '2026-02-06T15:45:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Dr. Helena Garriga of Körber'
+- category: supply-chain
+  description: L.L.Bean is reshaping its supply chain around retail growth, store
+    efficiency, and cross-functional collaboration as part of its effort to support
+    long-term expansion.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ll-bean-supply-chain-retail-transformation
+  pub_date: '2026-02-06T14:06:00'
+  source: Supply Chain 24/7
+  title: Why L.L.Bean Hit a Wall at 50 Stores and Rethought Its Supply Chain
+- category: supply-chain
+  description: Scope 3 reporting has shifted from a sustainability task to a supply
+    chain responsibility as new regulations force companies to track emissions across
+    logistics networks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/scope-3-reporting-supply-chain-problem
+  pub_date: '2026-02-06T12:11:00'
+  source: Supply Chain 24/7
+  title: Why Scope 3 Is Now a Supply Chain Problem, Not Just Sustainability
+- category: supply-chain
+  description: Eli Lilly plans to invest $3.5 billion in a new Pennsylvania manufacturing
+    plant focused on injectable medicines.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eli-lilly-3-5-billion-pennsylvania-manufacturing-plant
+  pub_date: '2026-02-06T12:08:00'
+  source: Supply Chain 24/7
+  title: Lilly Announces Plans For $3.5B Manufacturing Plant in Pennsylvania
 - category: circular
   description: A Cornwall firm has been found guilty of unpermitted storage and disposal
     of waste and must repay GBP600,000 under the Proceeds of Crime Act. The post Firm
@@ -8,6 +92,22 @@ articles:
   pub_date: '2026-02-06T09:09:22'
   source: Circular Online
   title: Firm fined £600,000 for illegally storing waste including animal blood
+- category: supply-chain
+  description: Truckstop data shows Super Bowl LX is driving a sharp freight surge
+    into San Jose, with flatbed and reefer loads climbing well ahead of kickoff.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/super-bowl-lx-freight-impact-flatbed-reefer
+  pub_date: '2026-02-05T16:52:00'
+  source: Supply Chain 24/7
+  title: How the Super Bowl Turns Host Cities Into Freight Hot Spots
+- category: supply-chain
+  description: Gartner predicts 40% of large warehouses will adopt gamification tools
+    by 2028 to address labor shortages and turnover.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-warehouse-gamification-adoption-2028
+  pub_date: '2026-02-05T16:30:00'
+  source: Supply Chain 24/7
+  title: Gartner Predicts 40% of Large Warehouses Will Use Gamification by 2028
 - category: circular
   description: UK metals recycling's operational emissions could fall 93% by 2050
     with government support, according to a new report from BMRA. The post UK metals
@@ -74,22 +174,4 @@ articles:
   pub_date: '2026-02-03T09:17:37'
   source: Circular Online
   title: Defra announces plan to tackle forever chemicals
-- category: circular
-  description: Reporting through Digital Waste Tracking (DWT) will now become mandatory
-    for all required operators in October 2027. The post Mandatory Digital Waste Tracking
-    rollout delayed by six months appeared fi...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/mandatory-digital-waste-tracking-rollout-delayed-by-six-months/
-  pub_date: '2026-02-02T10:43:58'
-  source: Circular Online
-  title: Mandatory Digital Waste Tracking rollout delayed by six months
-- category: circular
-  description: 'News updates written by CIWM''s commercial partners. Greyparrot Greyparrot
-    gathers global waste leaders to help MRF operators plan for a protable 2026 Beyondly
-    Case Study: Empowering Tradelinens on the...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-30-january/
-  pub_date: '2026-01-30T13:00:33'
-  source: Circular Online
-  title: News in brief | CIWM Commercial Partner Updates 30 January
-last_updated: '2026-02-09T07:08:25.477090'
+last_updated: '2026-02-10T07:05:05.369920'
