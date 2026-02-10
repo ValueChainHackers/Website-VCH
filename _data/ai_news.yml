@@ -1,5 +1,39 @@
 articles:
 - category: ai-research
+  description: MIT Sports Lab researchers are applying AI technologies to help figure
+    skaters improve. They also have thoughts on whether five-rotation jumps are humanly
+    possible.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210
+  pub_date: '2026-02-10T05:00:00'
+  source: MIT AI News
+  title: '3 Questions: Using AI to help Olympic skaters land a quint'
+- category: ai-research
+  description: User profile on smartphone connected to security, media, and settings
+    icons.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/
+  pub_date: '2026-02-10T02:30:00'
+  source: Google AI Blog
+  title: Helping kids and teens learn and grow online on Safer Internet Day
+- category: machine-learning
+  description: Use Claude Code to speed up data science. Master data cleaning, visualization,
+    and model prototyping with Python, pandas, and scikit-learn. Get actionable power
+    tips.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/claude-code-power-tips
+  pub_date: '2026-02-09T17:00:41'
+  source: KDnuggets
+  title: Claude Code Power Tips
+- category: machine-learning
+  description: 7 Python tricks applicable to your early exploratory data analyses
+    (EDA) to identify and deal with various data quality issues.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-python-eda-tricks-to-find-and-fix-data-issues
+  pub_date: '2026-02-09T15:40:40'
+  source: KDnuggets
+  title: 7 Python EDA Tricks to Find and Fix Data Issues
+- category: ai-research
   description: Removing just a tiny fraction of the crowdsourced data that informs
     online ranking platforms can significantly change the results.
   icon: fa-graduation-cap
@@ -176,14 +210,6 @@ articles:
   source: MIT AI News
   title: SMART launches new Wearable Imaging for Transforming Elderly Care research
     group
-- category: machine-learning
-  description: Five widely adopted time series foundation models delivering accurate
-    zero-shot forecasting across industries and time horizons.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on
-  pub_date: '2026-02-03T14:46:29'
-  source: KDnuggets
-  title: 5 Time Series Foundation Models You Are Missing Out On
 - category: ai-research
   description: A four-part vertical collage showing a cotton-top tamarin, an ibex,
     a golden lion tamarin, and a penguin.
@@ -193,14 +219,6 @@ articles:
   source: Google AI Blog
   title: How we’re helping preserve the genetic information of endangered species
     with AI
-- category: machine-learning
-  description: Analyze billion-row datasets in Python using Vaex. Learn how out-of-core
-    processing, lazy evaluation, and memory mapping enable fast analytics at scale.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/working-with-billion-row-datasets-in-python-using-vaex
-  pub_date: '2026-02-02T17:00:24'
-  source: KDnuggets
-  title: Working with Billion-Row Datasets in Python (Using Vaex)
 - category: ai-research
   description: An illustration of a King and Ace playing card, a wolf's head, two
     chess pieces, a poker chip, and other abstract shapes on a white background.1
@@ -209,15 +227,6 @@ articles:
   pub_date: '2026-02-02T17:00:00'
   source: Google AI Blog
   title: Advancing AI benchmarking with Game Arena
-- category: ai-research
-  description: MIT researchers' DiffSyn model offers recipes for synthesizing new
-    materials, enabling faster experimentation and a shorter journey from hypothesis
-    to use.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202
-  pub_date: '2026-02-02T10:00:00'
-  source: MIT AI News
-  title: How generative AI can help scientists synthesize complex materials
 - category: ai-research
   description: Text reads Introducing Project Genie
   icon: fa-google
@@ -241,12 +250,4 @@ articles:
   source: Google AI Blog
   title: Google AI Plus is now available everywhere our AI plans are available, including
     the U.S.
-- category: ai-research
-  description: A centered, elongated oval shape resembling a search bar with the text
-    "Ask anything" inside it.
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/
-  pub_date: '2026-01-27T17:00:00'
-  source: Google AI Blog
-  title: 'Just ask anything: a seamless new Search experience'
-last_updated: '2026-02-09T07:08:26.732322'
+last_updated: '2026-02-10T07:05:07.161020'
