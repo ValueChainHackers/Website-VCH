@@ -1,5 +1,56 @@
 articles:
 - category: ai-research
+  description: Opening a new window on the brainstem, a new tool reliably and finely
+    resolves distinct nerve bundles in live diffusion MRI scans, revealing signs of
+    injury or disease.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-window-on-brainstem-ai-algorithm-enables-tracking-white-matter-pathways-0210
+  pub_date: '2026-02-10T22:00:00'
+  source: MIT AI News
+  title: AI algorithm enables tracking of vital white matter pathways
+- category: machine-learning
+  description: 'Generative AI, as experienced using traditional chat-style interfaces,
+    has proven to be an incredibly useful tool. Still, it has a major limitation:
+    it sits there and waits for you to type.'
+  icon: fa-chart-bar
+  link: https://bit.ly/3NWvOYo
+  pub_date: '2026-02-10T18:07:28'
+  source: KDnuggets
+  title: What Every Small Business Needs to Know About Agentic AI
+- category: machine-learning
+  description: AI agents go beyond single responses to perform tasks autonomously.
+    Here's a simple breakdown across three levels of difficulty.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/ai-agents-explained-in-3-levels-of-difficulty
+  pub_date: '2026-02-10T17:00:25'
+  source: KDnuggets
+  title: AI Agents Explained in 3 Levels of Difficulty
+- category: ai-research
+  description: A collage of outdoor images, a blue icon that say "Ask Photos," and
+    examples of Ask Photos prompts.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/
+  pub_date: '2026-02-10T17:00:00'
+  source: Google AI Blog
+  title: 9 fun questions to try asking Google Photos
+- category: machine-learning
+  description: Modern data analytics doesn't have to be complex. Learn how Python,
+    Parquet, and DuckDB work together in practice.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-your-modern-data-analytics-stack-with-python-parquet-and-duckdb
+  pub_date: '2026-02-10T15:00:03'
+  source: KDnuggets
+  title: Building Your Modern Data Analytics Stack with Python, Parquet, and DuckDB
+- category: machine-learning
+  description: Tired of sifting through bloated folders, waiting on manual conversions,
+    or not quite knowing what is on your drive? These Python scripts handle the file
+    grunt work so you don't have to.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-file-tasks
+  pub_date: '2026-02-10T13:00:18'
+  source: KDnuggets
+  title: 5 Useful Python Scripts to Automate Boring File Tasks
+- category: ai-research
   description: MIT Sports Lab researchers are applying AI technologies to help figure
     skaters improve. They also have thoughts on whether five-rotation jumps are humanly
     possible.
@@ -150,32 +201,6 @@ articles:
   pub_date: '2026-02-04T16:55:00'
   source: Google AI Blog
   title: The latest AI news we announced in January
-- category: machine-learning
-  description: Want to become an AI engineer in 2026? This step-by-step roadmap breaks
-    down the skills, tools, and projects you need.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-become-an-ai-engineer-in-2026-a-self-study-roadmap
-  pub_date: '2026-02-04T16:37:34'
-  source: KDnuggets
-  title: 'How to Become an AI Engineer in 2026: A Self-Study Roadmap'
-- category: machine-learning
-  description: From real-time edits to reasoning-driven image transformations, this
-    guide breaks down five open source AI models that are quietly reshaping how images
-    are created and edited.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-open-source-image-editing-ai-models
-  pub_date: '2026-02-04T13:30:26'
-  source: KDnuggets
-  title: 5 Open Source Image Editing AI Models
-- category: machine-learning
-  description: 'The business impact of AI is clear: faster response times, higher
-    customer satisfaction, reduced operational costs, and data-driven insights that
-    leaders can act on with confidence.'
-  icon: fa-chart-bar
-  link: https://bit.ly/45Qgzq2
-  pub_date: '2026-02-04T03:19:32'
-  source: KDnuggets
-  title: The Business Impact of AI Deployment (Sponsored)
 - category: ai-research
   description: The MIT senior will pursue a master's degree at Cambridge University
     in the U.K. this fall.
@@ -192,24 +217,6 @@ articles:
   pub_date: '2026-02-03T22:00:00'
   source: MIT AI News
   title: Counter intelligence
-- category: machine-learning
-  description: AI orchestration coordinates specialized models and tools into systems
-    greater than the sum of their parts.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/beyond-giant-models-why-ai-orchestration-is-the-new-architecture
-  pub_date: '2026-02-03T17:16:45'
-  source: KDnuggets
-  title: 'Beyond Giant Models: Why AI Orchestration Is the New Architecture'
-- category: ai-research
-  description: WITEC is working to develop the first wearable ultrasound imaging system
-    to monitor chronic conditions in real-time, with the goal of enabling earlier
-    detection and timely intervention.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/smart-launches-wearable-imaging-transforming-elderly-care-research-group-0203
-  pub_date: '2026-02-03T15:00:00'
-  source: MIT AI News
-  title: SMART launches new Wearable Imaging for Transforming Elderly Care research
-    group
 - category: ai-research
   description: A four-part vertical collage showing a cotton-top tamarin, an ibex,
     a golden lion tamarin, and a penguin.
@@ -241,13 +248,4 @@ articles:
   pub_date: '2026-01-29T15:00:00'
   source: Google AI Blog
   title: Hear more about interactive world models in our latest podcast.
-- category: ai-research
-  description: We're launching Google AI Plus in 35 new countries and territories
-    including the US, making it available everywhere Google AI plans are available.
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/
-  pub_date: '2026-01-27T18:00:00'
-  source: Google AI Blog
-  title: Google AI Plus is now available everywhere our AI plans are available, including
-    the U.S.
-last_updated: '2026-02-10T07:05:07.161020'
+last_updated: '2026-02-11T07:01:52.762387'
