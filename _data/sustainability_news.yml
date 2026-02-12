@@ -1,5 +1,48 @@
 articles:
 - category: supply-chain
+  description: Elon Musk said Tesla may eventually pivot the Cybertruck toward autonomous
+    cargo delivery instead of consumer sales.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tesla-cybertruck-self-driving-delivery-shift
+  pub_date: '2026-02-11T20:08:00'
+  source: Supply Chain 24/7
+  title: Musk Floats Idea of Autonomous Cybertrucks for Cargo Delivery
+- category: supply-chain
+  description: In 2025, 3PLs accounted for 44 of the top 100 U.S. industrial leases,
+    while average lease terms grew as landlords pushed to hold tenants longer, CBRE
+    data shows.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/3pl-lead-industrial-leases-2025-cbre-report
+  pub_date: '2026-02-11T15:18:00'
+  source: Supply Chain 24/7
+  title: 'Report: 3PLs Accounted for 44% of Top 100 Industrial Leases in 2025'
+- category: supply-chain
+  description: A new study shows supply chain leaders are prioritizing execution speed,
+    but most are still relying on manual processes and reactive decision-making.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/execution-gap-supply-chain-study-infos
+  pub_date: '2026-02-11T14:21:00'
+  source: Supply Chain 24/7
+  title: 79% of Supply Chain Leaders Say Execution Is the Edge
+- category: supply-chain
+  description: Procurement professionals are once again warning that rising costs
+    and supply chain uncertainty are putting pressure on global operations, according
+    to new CIPS survey data.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-professionals-warn-rising-supply-chain-pressures
+  pub_date: '2026-02-11T13:01:00'
+  source: Supply Chain 24/7
+  title: Procurement Anxiety Hits Two-Year High, CIPS Survey Finds
+- category: circular
+  description: Community organisations across the Liverpool City Region can apply
+    for a share of a GBP165,000 fund to deliver projects that reduce waste and support
+    a more sustainable future. The post GBP165,000 fun...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/165000-fund-opens-for-communities-to-cut-waste-and-boost-reuse-and-recycling/
+  pub_date: '2026-02-11T09:23:21'
+  source: Circular Online
+  title: £165,000 fund opens for communities to cut waste and boost reuse and recycling
+- category: supply-chain
   description: A new FedEx report finds that most supply chains experience shipment
     delays, but only a small share can respond quickly enough to address them.
   icon: fa-box
@@ -75,30 +118,6 @@ articles:
   pub_date: '2026-02-10T09:30:07'
   source: Circular Online
   title: Workers vote to extend Birmingham bin strikes to September
-- category: supply-chain
-  description: Rockwell Automation has confirmed New Berlin as the site of its planned
-    new manufacturing facility in Wisconsin.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/rockwell-automation-new-berlin-manufacturing-plant
-  pub_date: '2026-02-09T19:11:00'
-  source: Supply Chain 24/7
-  title: Rockwell Confirms New Berlin, Wisconsin for New Manufacturing Campus
-- category: supply-chain
-  description: FedEx and an Advent-led group has acquired parcel locker company InPost
-    for $9.2 billion, expanding FedEx's reach in Europe's out-of-home delivery market.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-advent-inpost-parcel-locker-deal
-  pub_date: '2026-02-09T14:38:00'
-  source: Supply Chain 24/7
-  title: FedEx, Advent-Led Group Agrees to Acquire InPost in $9.2 Billion Deal
-- category: supply-chain
-  description: DOT says renewed enforcement of trucking regulations led to the removal
-    of more than 11,500 drivers and 7,500 CDL training schools over the past year.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dot-trucking-safety-enforcement-drivers-cdl-schools
-  pub_date: '2026-02-09T14:10:00'
-  source: Supply Chain 24/7
-  title: DOT Says 11,500 Truck Drivers Removed in Safety Enforcement Push
 - category: circular
   description: Greenhouse gas emissions produced by the waste sector fell by 4% between
     2023 and 2024. The post Waste sector emissions fall by 4% appeared first on Circular
@@ -108,14 +127,6 @@ articles:
   pub_date: '2026-02-09T13:50:19'
   source: Circular Online
   title: Waste sector emissions fall by 4%
-- category: supply-chain
-  description: Discover how data analytics and AI improve warehouse efficiency, increase
-    throughput, reduce errors, and enable smarter, more resilient fulfillment operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-data-analytics-and-ai-are-transforming-warehouse-operations
-  pub_date: '2026-02-09T13:09:00'
-  source: Supply Chain 24/7
-  title: How Data Analytics and AI Are Transforming Warehouse Operations
 - category: circular
   description: The Environment Agency has obtained court orders to restrict access
     to two illegal waste sites. The post Environment Agency shuts down two illegal
@@ -163,14 +174,4 @@ articles:
   source: Circular Online
   title: Dynamic digital passports enable real-time tracking of perishable goods,
     research shows
-- category: circular
-  description: Too Good To Go has announced it has distributed 300,000 parcels since
-    launching a new initiative for major household brands. The post Too Good To Go
-    distributes 300,000 parcels of surplus food from ho...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/too-good-to-go-distributes-300000-parcels-of-surplus-food-from-household-brands/
-  pub_date: '2026-02-04T11:05:51'
-  source: Circular Online
-  title: Too Good To Go distributes 300,000 parcels of surplus food from household
-    brands
-last_updated: '2026-02-11T07:01:50.790419'
+last_updated: '2026-02-12T07:01:58.617950'
