@@ -1,5 +1,39 @@
 articles:
 - category: ai-research
+  description: Associate Professor Rafael Gmez-Bombarelli has spent his career applying
+    AI to improve scientific discovery. Now he believes we are at an inflection point.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/accelerating-science-ai-and-simulations-rafael-gomez-bombarelli-0212
+  pub_date: '2026-02-12T05:00:00'
+  source: MIT AI News
+  title: Accelerating science with AI and simulations
+- category: machine-learning
+  description: Keys for oversampling your data for addressing class imbalance issues,
+    the right way.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/why-most-people-misuse-smote-and-how-to-do-it-right
+  pub_date: '2026-02-11T16:21:32'
+  source: KDnuggets
+  title: Why Most People Misuse SMOTE, And How to Do It Right
+- category: ai-research
+  description: Driven by overuse and misuse of antibiotics, drug-resistant infections
+    are on the rise, while development of new antibacterial tools has slowed.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/using-synthetic-biology-ai-address-global-antimicrobial-resistance-0211
+  pub_date: '2026-02-11T13:00:00'
+  source: MIT AI News
+  title: Using synthetic biology and AI to address global antimicrobial resistance
+    threat
+- category: machine-learning
+  description: Learn how to apply unit testing, version control, and continuous integration
+    to data analysis scripts using Python and GitHub Actions.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/versioning-and-testing-data-solutions-applying-ci-and-unit-tests-on-interview-style-queries
+  pub_date: '2026-02-11T12:58:14'
+  source: KDnuggets
+  title: 'Versioning and Testing Data Solutions: Applying CI and Unit Tests on Interview-style
+    Queries'
+- category: ai-research
   description: Opening a new window on the brainstem, a new tool reliably and finely
     resolves distinct nerve bundles in live diffusion MRI scans, revealing signs of
     injury or disease.
@@ -151,13 +185,6 @@ articles:
   pub_date: '2026-02-05T14:30:00'
   source: Google AI Blog
   title: Watch our new Gemini ad ahead of football’s biggest weekend
-- category: machine-learning
-  description: What the... AI agents arguing over memes? Sure, why not.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-absolute-insanity-of-moltbook
-  pub_date: '2026-02-05T12:29:37'
-  source: KDnuggets
-  title: The Absolute Insanity of Moltbook
 - category: ai-research
   description: He joins Nikos Trichakis in guiding the cross-cutting initiative of
     the MIT Schwarzman College of Computing.
@@ -175,14 +202,6 @@ articles:
   pub_date: '2026-02-04T18:15:00'
   source: MIT AI News
   title: Antonio Torralba, three MIT alumni named 2025 ACM fellows
-- category: machine-learning
-  description: How the Abacus.AI CEO Views Artificial General Intelligence and the
-    Best AI Models for Every Use Case
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/02/abacus/bindu-reddy-navigating-the-path-to-agi
-  pub_date: '2026-02-04T18:00:15'
-  source: KDnuggets
-  title: 'Bindu Reddy: Navigating the Path to AGI'
 - category: ai-research
   description: Professor James Collins discusses how collaboration has been central
     to his research into combining computational predictions with new experimental
@@ -201,22 +220,6 @@ articles:
   pub_date: '2026-02-04T16:55:00'
   source: Google AI Blog
   title: The latest AI news we announced in January
-- category: ai-research
-  description: The MIT senior will pursue a master's degree at Cambridge University
-    in the U.K. this fall.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/katie-spivakovsky-wins-churchill-scholarship-0203
-  pub_date: '2026-02-03T22:25:00'
-  source: MIT AI News
-  title: Katie Spivakovsky wins 2026 Churchill Scholarship
-- category: ai-research
-  description: Architecture students bring new forms of human-machine interaction
-    into the kitchen.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/counter-intelligence-kitchen-cosmo-0203
-  pub_date: '2026-02-03T22:00:00'
-  source: MIT AI News
-  title: Counter intelligence
 - category: ai-research
   description: A four-part vertical collage showing a cotton-top tamarin, an ibex,
     a golden lion tamarin, and a penguin.
@@ -248,4 +251,4 @@ articles:
   pub_date: '2026-01-29T15:00:00'
   source: Google AI Blog
   title: Hear more about interactive world models in our latest podcast.
-last_updated: '2026-02-11T07:01:52.762387'
+last_updated: '2026-02-12T07:02:00.504540'
