@@ -1,5 +1,66 @@
 articles:
 - category: supply-chain
+  description: Nearly half of carriers plan to delay fleet investments in 2026 due
+    to tariffs, even as more than a third accelerate spending to get ahead of rising
+    costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/carriers-delay-fleet-investments-2026-tariffs
+  pub_date: '2026-02-12T18:04:00'
+  source: Supply Chain 24/7
+  title: 'Report: 47% of Carriers Plan to Delay Fleet Investments Over Tariffs'
+- category: supply-chain
+  description: ASU researcher Lacy Greening is developing an AI-driven approach to
+    help freight networks anticipate and prevent middle-mile disruptions before costs
+    rise.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-middle-mile-freight-disruption-arpa
+  pub_date: '2026-02-12T17:59:00'
+  source: Supply Chain 24/7
+  title: The Researcher Who Wants to Rethink Freight’s Middle Mile
+- category: supply-chain
+  description: The U.S. has opened a sterile fly center in Texas to stop a flesh-eating
+    screwworm from disrupting cattle imports and straining the beef supply chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/flesh-eating-screwworm-beef-supply-chain-texas
+  pub_date: '2026-02-12T17:00:00'
+  source: Supply Chain 24/7
+  title: Flesh-Eating Parasite Threatens U.S. Beef Supply Chain, Texas Takes Action
+- category: supply-chain
+  description: Amazon Pharmacy will expand same-day prescription delivery to 4,500
+    U.S. cities by 2026, using its logistics network to reach underserved communities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-pharmacy-same-day-delivery-expansion-2026
+  pub_date: '2026-02-12T15:19:00'
+  source: Supply Chain 24/7
+  title: Amazon Pharmacy Expands Same-Day Delivery to 4,500 U.S. Cities
+- category: circular
+  description: Leading waste management companies Biffa, SUEZ and DS Smith to support
+    CIWM and Urge Collective's Design Skills for Embedding Circularity initiative.
+    The post Leading UK waste management companies joi...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/leading-uk-waste-management-companies-join-ciwm-urge-collective-initiative/
+  pub_date: '2026-02-12T12:16:41'
+  source: Circular Online
+  title: Leading UK waste management companies join CIWM & URGE Collective initiative
+- category: supply-chain
+  description: Cold chain failures often happen in small, overlooked moments, and
+    continuous temperature monitoring could prevent major spoilage, safety issues,
+    and recalls.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cold-chain-visibility-real-time-monitoring-food-supply
+  pub_date: '2026-02-12T12:16:00'
+  source: Supply Chain 24/7
+  title: The Hidden Gaps Where Cold Chain Visibility Breakdowns Begin
+- category: circular
+  description: Chile's Julio Cordano has been elected as the new Chair of UN Global
+    Plastic Treaty negotiations after talks collapsed last year. The post New Chair
+    of UN Global Plastic Treaty negotiations elected ap...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-chair-of-un-global-plastic-treaty-negotiations-elected/
+  pub_date: '2026-02-12T08:19:31'
+  source: Circular Online
+  title: New Chair of UN Global Plastic Treaty negotiations elected
+- category: supply-chain
   description: Elon Musk said Tesla may eventually pivot the Cybertruck toward autonomous
     cargo delivery instead of consumer sales.
   icon: fa-box
@@ -50,22 +111,6 @@ articles:
   pub_date: '2026-02-10T17:44:00'
   source: Supply Chain 24/7
   title: FedEx Study Shows Only 18% Can Intervene in Shipment Delays
-- category: supply-chain
-  description: LT Apparel's phased automation strategy shows how mid-market companies
-    can scale distribution capacity without over-automating or expanding their facilities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lt-apparel-flexible-automation-distribution-center
-  pub_date: '2026-02-10T17:04:00'
-  source: Supply Chain 24/7
-  title: How LT Apparel Used Flexible Automation to Keep Up With Growth
-- category: supply-chain
-  description: Corvus Robotics has launched freezer-ready inventory drones that track
-    frozen goods autonomously while keeping workers out of sub-zero environments.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/corvus-robotics-rolls-out-drones-built-for-cold-storage-warehouses
-  pub_date: '2026-02-10T16:21:00'
-  source: Supply Chain 24/7
-  title: Corvus Robotics Rolls Out Drones Built for Cold Storage Warehouses
 - category: circular
   description: The Environment Agency have confirmed clearance work on the illegal
     waste dump near the River Cherwell in Kidlington has been delayed due to heavy
@@ -75,31 +120,6 @@ articles:
   pub_date: '2026-02-10T15:57:34'
   source: Circular Online
   title: Clearance of 20,000 tonne illegal waste site in Kidlington delayed
-- category: supply-chain
-  description: Learn how to measure and improve warehouse labor productivity using
-    unified data, simple KPIs, and proven strategies to reduce waste, improve performance,
-    and lower costs.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/warehouse-labor-productivity-metrics-a-practical-playbook-for-modern-operations
-  pub_date: '2026-02-10T13:16:00'
-  source: Supply Chain 24/7
-  title: 'Warehouse Labor Productivity Metrics: A Practical Playbook for Modern Operations'
-- category: supply-chain
-  description: CargoNet's latest report shows cargo theft losses climbed 60% in 2025
-    as criminals targeted higher-value shipments.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cargonet-report-cargo-theft-losses-2025
-  pub_date: '2026-02-10T12:20:00'
-  source: Supply Chain 24/7
-  title: Cargo Theft Losses Near $725 Million as Criminals Target Costly Goods
-- category: supply-chain
-  description: Freehand launched at Manifest 2026 with "AI Teams" designed to automate
-    procure-to-pay work across supply chain spend.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/freehand-launches-ai-teams-supply-chain-spend-management
-  pub_date: '2026-02-10T12:13:00'
-  source: Supply Chain 24/7
-  title: Freehand, a New Startup, Launches AI Platform for Supply Chain Spend Management
 - category: circular
   description: The Circular Economy Institute (CEI) launches a new global professional
     membership programme. The post Circular Economy Institute launches CEI Professional
@@ -154,24 +174,4 @@ articles:
   pub_date: '2026-02-05T11:17:09'
   source: Circular Online
   title: UK metals recycling’s operational emissions could fall 93% by 2050
-- category: circular
-  description: The Lords' waste crime inquiry chair has said she is 'astounded' an
-    illegal waste site on the King's estate has not been cleared by the Environment
-    Agency. The post Waste crime inquiry chair 'astounde...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-crime-inquiry-chair-astounded-waste-site-on-kings-estate-has-not-been-cleared/
-  pub_date: '2026-02-04T14:34:27'
-  source: Circular Online
-  title: Waste crime inquiry chair ‘astounded’ waste site on King’s estate has not
-    been cleared
-- category: circular
-  description: Dynamic digital passports that track the condition of perishable goods
-    in real-time could 'dramatically cut waste and improve safety', new research shows.
-    The post Dynamic digital passports enable rea...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/dynamic-digital-passports-enable-real-time-tracking-of-perishable-goods-research-shows/
-  pub_date: '2026-02-04T12:39:10'
-  source: Circular Online
-  title: Dynamic digital passports enable real-time tracking of perishable goods,
-    research shows
-last_updated: '2026-02-12T07:01:58.617950'
+last_updated: '2026-02-13T07:00:15.751265'
