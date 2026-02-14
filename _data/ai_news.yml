@@ -1,4 +1,21 @@
 articles:
+- category: machine-learning
+  description: This guide explores the essential components, implementation strategies,
+    and best practices for building production-ready search applications using Vertex
+    AI Search and AI Applications.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-vertex-ai-search-applications-a-comprehensive-guide
+  pub_date: '2026-02-13T15:00:18'
+  source: KDnuggets
+  title: 'Building Vertex AI Search Applications: A Comprehensive Guide'
+- category: machine-learning
+  description: These are 12 Python libraries that made waves in 2025, and that every
+    developer should try in 2026.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/12-python-libraries-you-need-to-try-in-2026
+  pub_date: '2026-02-13T13:27:47'
+  source: KDnuggets
+  title: 12 Python Libraries You Need to Try in 2026
 - category: ai-research
   description: Project AI Evidence will connect governments, tech companies, and nonprofits
     with world-class economists at MIT and across J-PAL's global network to evaluate
@@ -114,15 +131,6 @@ articles:
   pub_date: '2026-02-10T15:00:03'
   source: KDnuggets
   title: Building Your Modern Data Analytics Stack with Python, Parquet, and DuckDB
-- category: machine-learning
-  description: Tired of sifting through bloated folders, waiting on manual conversions,
-    or not quite knowing what is on your drive? These Python scripts handle the file
-    grunt work so you don't have to.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-file-tasks
-  pub_date: '2026-02-10T13:00:18'
-  source: KDnuggets
-  title: 5 Useful Python Scripts to Automate Boring File Tasks
 - category: ai-research
   description: MIT Sports Lab researchers are applying AI technologies to help figure
     skaters improve. They also have thoughts on whether five-rotation jumps are humanly
@@ -140,15 +148,6 @@ articles:
   pub_date: '2026-02-10T02:30:00'
   source: Google AI Blog
   title: Helping kids and teens learn and grow online on Safer Internet Day
-- category: machine-learning
-  description: Use Claude Code to speed up data science. Master data cleaning, visualization,
-    and model prototyping with Python, pandas, and scikit-learn. Get actionable power
-    tips.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/claude-code-power-tips
-  pub_date: '2026-02-09T17:00:41'
-  source: KDnuggets
-  title: Claude Code Power Tips
 - category: ai-research
   description: Removing just a tiny fraction of the crowdsourced data that informs
     online ranking platforms can significantly change the results.
@@ -249,4 +248,4 @@ articles:
   pub_date: '2026-01-29T17:00:00'
   source: Google AI Blog
   title: 'Project Genie: Experimenting with infinite, interactive worlds'
-last_updated: '2026-02-13T07:00:22.369299'
+last_updated: '2026-02-14T06:45:43.414407'

@@ -1,4 +1,21 @@
 articles:
+- category: circular
+  description: Wales has confirmed it will collect glass as part of its Deposit Return
+    Scheme after the UK Government granted an exemption to the Internal Market Act.
+    The post Welsh DRS to include glass after UK Gov...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/welsh-drs-to-include-glass-after-uk-government-grants-exemption/
+  pub_date: '2026-02-13T09:58:30'
+  source: Circular Online
+  title: Welsh DRS to include glass after UK Government grants exemption
+- category: supply-chain
+  description: With chip production concentrated in a few regions, public sector procurement
+    teams must map risk and protect critical services before a crisis hits.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/public-sector-procurement-semiconductor-crisis-six-steps
+  pub_date: '2026-02-13T05:27:00'
+  source: Supply Chain 24/7
+  title: Six Steps Public Procurement Teams Must Take to Survive a Chip Crisis
 - category: supply-chain
   description: Nearly half of carriers plan to delay fleet investments in 2026 due
     to tariffs, even as more than a third accelerate spending to get ahead of rising
@@ -103,14 +120,6 @@ articles:
   pub_date: '2026-02-11T09:23:21'
   source: Circular Online
   title: £165,000 fund opens for communities to cut waste and boost reuse and recycling
-- category: supply-chain
-  description: A new FedEx report finds that most supply chains experience shipment
-    delays, but only a small share can respond quickly enough to address them.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-study-shows-only-18-can-intervene-in-shipment-delays
-  pub_date: '2026-02-10T17:44:00'
-  source: Supply Chain 24/7
-  title: FedEx Study Shows Only 18% Can Intervene in Shipment Delays
 - category: circular
   description: The Environment Agency have confirmed clearance work on the illegal
     waste dump near the River Cherwell in Kidlington has been delayed due to heavy
@@ -165,13 +174,4 @@ articles:
   pub_date: '2026-02-06T09:09:22'
   source: Circular Online
   title: Firm fined £600,000 for illegally storing waste including animal blood
-- category: circular
-  description: UK metals recycling's operational emissions could fall 93% by 2050
-    with government support, according to a new report from BMRA. The post UK metals
-    recycling's operational emissions could fall 93% by ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-metals-recyclings-operational-emissions-could-fall-93-by-2050/
-  pub_date: '2026-02-05T11:17:09'
-  source: Circular Online
-  title: UK metals recycling’s operational emissions could fall 93% by 2050
-last_updated: '2026-02-13T07:00:15.751265'
+last_updated: '2026-02-14T06:45:41.648369'
