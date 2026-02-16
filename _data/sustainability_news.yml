@@ -1,4 +1,12 @@
 articles:
+- category: supply-chain
+  description: Hapag-Lloyd is in advanced talks to acquire Israel's ZIM Shipping,
+    in a deal expected to exceed $3.5 billion and still pending final approvals.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hapag-lloyd-advanced-talks-to-buy-zim-shipping
+  pub_date: '2026-02-16T01:21:00'
+  source: Supply Chain 24/7
+  title: Hapag-Lloyd in Advanced Talks to Acquire ZIM for $3.5 Billion
 - category: circular
   description: Wales has confirmed it will collect glass as part of its Deposit Return
     Scheme after the UK Government granted an exemption to the Internal Market Act.
@@ -102,15 +110,6 @@ articles:
   pub_date: '2026-02-11T14:21:00'
   source: Supply Chain 24/7
   title: 79% of Supply Chain Leaders Say Execution Is the Edge
-- category: supply-chain
-  description: Procurement professionals are once again warning that rising costs
-    and supply chain uncertainty are putting pressure on global operations, according
-    to new CIPS survey data.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-professionals-warn-rising-supply-chain-pressures
-  pub_date: '2026-02-11T13:01:00'
-  source: Supply Chain 24/7
-  title: Procurement Anxiety Hits Two-Year High, CIPS Survey Finds
 - category: circular
   description: Community organisations across the Liverpool City Region can apply
     for a share of a GBP165,000 fund to deliver projects that reduce waste and support
@@ -174,4 +173,4 @@ articles:
   pub_date: '2026-02-06T09:09:22'
   source: Circular Online
   title: Firm fined £600,000 for illegally storing waste including animal blood
-last_updated: '2026-02-15T06:53:21.609623'
+last_updated: '2026-02-16T07:04:02.242011'
