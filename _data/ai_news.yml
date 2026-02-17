@@ -1,5 +1,39 @@
 articles:
 - category: machine-learning
+  description: This article gently introduces feature stores, describing their origins,
+    main characteristics, reasons for their current significance, and popular tools
+    at present.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/all-about-feature-stores
+  pub_date: '2026-02-16T17:00:51'
+  source: KDnuggets
+  title: All About Feature Stores
+- category: machine-learning
+  description: From February 16-22, DataCamp's entire curriculum is 100% free.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/datacamp/02/2026/learn-python-sql-and-powerbi-to-become-a-certified-data-analyst-for-free-this-week
+  pub_date: '2026-02-16T17:00:20'
+  source: KDnuggets
+  title: Learn Python, SQL and PowerBI to Become a Certified Data Analyst for FREE
+    This Week
+- category: machine-learning
+  description: Build your own private AI hub with Docker, Ollama, and n8n. A beginner's
+    guide to self-hosted, local automation with no cloud fees.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/self-hosted-ai-complete-roadmap-for-beginners
+  pub_date: '2026-02-16T13:00:52'
+  source: KDnuggets
+  title: 'Self-Hosted AI: A Complete Roadmap for Beginners'
+- category: machine-learning
+  description: Fast providers offering open source LLMs are breaking past previous
+    speed limits, delivering low latency and strong performance that make them suitable
+    for real time interaction, long running coding t...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-super-fast-llm-api-providers
+  pub_date: '2026-02-16T13:00:19'
+  source: KDnuggets
+  title: Top 5 Super Fast LLM API Providers
+- category: machine-learning
   description: This guide explores the essential components, implementation strategies,
     and best practices for building production-ready search applications using Vertex
     AI Search and AI Applications.
@@ -80,15 +114,6 @@ articles:
   source: MIT AI News
   title: Using synthetic biology and AI to address global antimicrobial resistance
     threat
-- category: machine-learning
-  description: Learn how to apply unit testing, version control, and continuous integration
-    to data analysis scripts using Python and GitHub Actions.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/versioning-and-testing-data-solutions-applying-ci-and-unit-tests-on-interview-style-queries
-  pub_date: '2026-02-11T12:58:14'
-  source: KDnuggets
-  title: 'Versioning and Testing Data Solutions: Applying CI and Unit Tests on Interview-style
-    Queries'
 - category: ai-research
   description: Opening a new window on the brainstem, a new tool reliably and finely
     resolves distinct nerve bundles in live diffusion MRI scans, revealing signs of
@@ -98,23 +123,6 @@ articles:
   pub_date: '2026-02-10T22:00:00'
   source: MIT AI News
   title: AI algorithm enables tracking of vital white matter pathways
-- category: machine-learning
-  description: 'Generative AI, as experienced using traditional chat-style interfaces,
-    has proven to be an incredibly useful tool. Still, it has a major limitation:
-    it sits there and waits for you to type.'
-  icon: fa-chart-bar
-  link: https://bit.ly/3NWvOYo
-  pub_date: '2026-02-10T18:07:28'
-  source: KDnuggets
-  title: What Every Small Business Needs to Know About Agentic AI
-- category: machine-learning
-  description: AI agents go beyond single responses to perform tasks autonomously.
-    Here's a simple breakdown across three levels of difficulty.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/ai-agents-explained-in-3-levels-of-difficulty
-  pub_date: '2026-02-10T17:00:25'
-  source: KDnuggets
-  title: AI Agents Explained in 3 Levels of Difficulty
 - category: ai-research
   description: A collage of outdoor images, a blue icon that say "Ask Photos," and
     examples of Ask Photos prompts.
@@ -123,14 +131,6 @@ articles:
   pub_date: '2026-02-10T17:00:00'
   source: Google AI Blog
   title: 9 fun questions to try asking Google Photos
-- category: machine-learning
-  description: Modern data analytics doesn't have to be complex. Learn how Python,
-    Parquet, and DuckDB work together in practice.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-your-modern-data-analytics-stack-with-python-parquet-and-duckdb
-  pub_date: '2026-02-10T15:00:03'
-  source: KDnuggets
-  title: Building Your Modern Data Analytics Stack with Python, Parquet, and DuckDB
 - category: ai-research
   description: MIT Sports Lab researchers are applying AI technologies to help figure
     skaters improve. They also have thoughts on whether five-rotation jumps are humanly
@@ -248,4 +248,4 @@ articles:
   pub_date: '2026-01-29T17:00:00'
   source: Google AI Blog
   title: 'Project Genie: Experimenting with infinite, interactive worlds'
-last_updated: '2026-02-16T07:04:04.254101'
+last_updated: '2026-02-17T07:00:01.781992'
