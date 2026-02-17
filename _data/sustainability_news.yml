@@ -1,12 +1,54 @@
 articles:
 - category: supply-chain
+  description: At RILA, Gap said retail supply chains must move beyond fast and cheap
+    and focus on resilience, flexibility, and strong fundamentals.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/retail-supply-chains-resilience-rila-gap
+  pub_date: '2026-02-16T18:29:00'
+  source: Supply Chain 24/7
+  title: Gap Ditches “Fast and Cheap” for a More Resilient Supply Chain
+- category: supply-chain
+  description: FedEx is shifting its strategy toward high-margin B2B sectors and premium
+    e-commerce to drive stronger margins and earnings growth through 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-targets-premium-b2b-ecommerce-growth
+  pub_date: '2026-02-16T14:42:00'
+  source: Supply Chain 24/7
+  title: FedEx Pivots Toward Premium B2B and E-Commerce Growth
+- category: supply-chain
+  description: A new Locus Robotics survey finds that 71% of shoppers say viral trends
+    drive purchases, creating demand spikes that are straining retail supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/viral-trends-strain-retail-supply-chains-locus-survey
+  pub_date: '2026-02-16T14:33:00'
+  source: Supply Chain 24/7
+  title: 71% of Shoppers Say Viral Trends Drive Retail Demand Surges
+- category: supply-chain
+  description: Ford said a late change to the Trump administration's tariff-relief
+    program left it with an approximately $900 million higher tariff bill in 2025
+    than expected.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ford-late-tariff-relief-change-adds-900-million-cost
+  pub_date: '2026-02-16T14:29:00'
+  source: Supply Chain 24/7
+  title: Ford Says Late Tariff Program Change Cost It $900 Million
+- category: supply-chain
   description: Hapag-Lloyd is in advanced talks to acquire Israel's ZIM Shipping,
     in a deal expected to exceed $3.5 billion and still pending final approvals.
   icon: fa-box
   link: https://www.supplychain247.com/article/hapag-lloyd-advanced-talks-to-buy-zim-shipping
-  pub_date: '2026-02-16T01:21:00'
+  pub_date: '2026-02-16T13:58:00'
   source: Supply Chain 24/7
   title: Hapag-Lloyd in Advanced Talks to Acquire ZIM for $3.5 Billion
+- category: circular
+  description: Material Focus has announced that the four projects have been awarded
+    funding from its Circular Electricals Fund. The post Material Focus announces
+    recipients of Circular Electricals Fund appeared fir...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/material-focus-announces-recipients-of-circular-electricals-fund/
+  pub_date: '2026-02-16T13:28:22'
+  source: Circular Online
+  title: Material Focus announces recipients of Circular Electricals Fund
 - category: circular
   description: Wales has confirmed it will collect glass as part of its Deposit Return
     Scheme after the UK Government granted an exemption to the Internal Market Act.
@@ -67,15 +109,6 @@ articles:
   pub_date: '2026-02-12T12:16:41'
   source: Circular Online
   title: Leading UK waste management companies join CIWM & URGE Collective initiative
-- category: supply-chain
-  description: Cold chain failures often happen in small, overlooked moments, and
-    continuous temperature monitoring could prevent major spoilage, safety issues,
-    and recalls.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cold-chain-visibility-real-time-monitoring-food-supply
-  pub_date: '2026-02-12T12:16:00'
-  source: Supply Chain 24/7
-  title: The Hidden Gaps Where Cold Chain Visibility Breakdowns Begin
 - category: circular
   description: Chile's Julio Cordano has been elected as the new Chair of UN Global
     Plastic Treaty negotiations after talks collapsed last year. The post New Chair
@@ -85,31 +118,6 @@ articles:
   pub_date: '2026-02-12T08:19:31'
   source: Circular Online
   title: New Chair of UN Global Plastic Treaty negotiations elected
-- category: supply-chain
-  description: Elon Musk said Tesla may eventually pivot the Cybertruck toward autonomous
-    cargo delivery instead of consumer sales.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tesla-cybertruck-self-driving-delivery-shift
-  pub_date: '2026-02-11T20:08:00'
-  source: Supply Chain 24/7
-  title: Musk Floats Idea of Autonomous Cybertrucks for Cargo Delivery
-- category: supply-chain
-  description: In 2025, 3PLs accounted for 44 of the top 100 U.S. industrial leases,
-    while average lease terms grew as landlords pushed to hold tenants longer, CBRE
-    data shows.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/3pl-lead-industrial-leases-2025-cbre-report
-  pub_date: '2026-02-11T15:18:00'
-  source: Supply Chain 24/7
-  title: 'Report: 3PLs Accounted for 44% of Top 100 Industrial Leases in 2025'
-- category: supply-chain
-  description: A new study shows supply chain leaders are prioritizing execution speed,
-    but most are still relying on manual processes and reactive decision-making.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/execution-gap-supply-chain-study-infos
-  pub_date: '2026-02-11T14:21:00'
-  source: Supply Chain 24/7
-  title: 79% of Supply Chain Leaders Say Execution Is the Edge
 - category: circular
   description: Community organisations across the Liverpool City Region can apply
     for a share of a GBP165,000 fund to deliver projects that reduce waste and support
@@ -164,13 +172,4 @@ articles:
   pub_date: '2026-02-09T10:30:20'
   source: Circular Online
   title: Environment Agency shuts down two illegal waste sites
-- category: circular
-  description: A Cornwall firm has been found guilty of unpermitted storage and disposal
-    of waste and must repay GBP600,000 under the Proceeds of Crime Act. The post Firm
-    fined GBP600,000 for illegally storing waste...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/firm-fined-600000-for-illegally-storing-waste-including-animal-blood/
-  pub_date: '2026-02-06T09:09:22'
-  source: Circular Online
-  title: Firm fined £600,000 for illegally storing waste including animal blood
-last_updated: '2026-02-16T07:04:02.242011'
+last_updated: '2026-02-17T06:59:59.524727'
