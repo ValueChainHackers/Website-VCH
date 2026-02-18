@@ -1,12 +1,63 @@
 articles:
 - category: supply-chain
+  description: A comprehensive preview of what to expect at MODEX 2026 in Atlanta,
+    from keynote speakers to sessions, exhibitors, and more.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/modex-2026-preview-atlanta-supply-chain-conference
+  pub_date: '2026-02-17T16:26:00'
+  source: Supply Chain 24/7
+  title: 'MODEX 2026: Dates, Speakers and Everything Else You Need to Know'
+- category: supply-chain
+  description: Ahold Delhaize USA is building a new $860 million distribution center
+    in Burlington, N.C., adding 1 million square feet of capacity and more than 500
+    jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ahold-delhaize-invests-860m-in-north-carolina-distribution-center
+  pub_date: '2026-02-17T15:23:00'
+  source: Supply Chain 24/7
+  title: Ahold Delhaize Invests $860M in North Carolina Distribution Center
+- category: supply-chain
+  description: Barb Reasinger shares how she started as a store manager at Finish
+    Line and worked her way up to Senior Director of Supply Chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/women-in-supply-chain-barb-reasinger-finish-line
+  pub_date: '2026-02-17T14:55:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Barb Reasinger of Finish Line'
+- category: supply-chain
+  description: Chameleon carriers are trucking companies that shut down after safety
+    violations and reopen under new names, creating hidden risks for shippers and
+    brokers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-101-what-are-chameleon-carriers
+  pub_date: '2026-02-17T14:17:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain 101: What Are Chameleon Carriers and How Do They Operate?'
+- category: supply-chain
+  description: DHL eCommerce has partnered with Georgia Tech to build a direct pipeline
+    for future industrial engineering hires.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-ecommerce-teams-up-with-georgia-tech-to-build-talent-pipeline
+  pub_date: '2026-02-17T13:00:00'
+  source: Supply Chain 24/7
+  title: DHL eCommerce Teams Up With Georgia Tech to Build Talent Pipeline
+- category: circular
+  description: The sale and supply of wet wipes containing plastic in Scotland will
+    be banned next year, the Scottish Government has announced. The post Wet wipes
+    containing plastic to be banned in Scotland appeared...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wet-wipes-containing-plastic-to-be-banned-in-scotland/
+  pub_date: '2026-02-17T08:30:00'
+  source: Circular Online
+  title: Wet wipes containing plastic to be banned in Scotland
+- category: supply-chain
   description: At RILA, Gap said retail supply chains must move beyond fast and cheap
     and focus on resilience, flexibility, and strong fundamentals.
   icon: fa-box
   link: https://www.supplychain247.com/article/retail-supply-chains-resilience-rila-gap
   pub_date: '2026-02-16T18:29:00'
   source: Supply Chain 24/7
-  title: Gap Ditches “Fast and Cheap” for a More Resilient Supply Chain
+  title: Gap Rebuilds Its Supply Chain for a Constantly Disrupted World
 - category: supply-chain
   description: FedEx is shifting its strategy toward high-margin B2B sectors and premium
     e-commerce to drive stronger margins and earnings growth through 2029.
@@ -58,48 +109,6 @@ articles:
   pub_date: '2026-02-13T09:58:30'
   source: Circular Online
   title: Welsh DRS to include glass after UK Government grants exemption
-- category: supply-chain
-  description: With chip production concentrated in a few regions, public sector procurement
-    teams must map risk and protect critical services before a crisis hits.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/public-sector-procurement-semiconductor-crisis-six-steps
-  pub_date: '2026-02-13T05:27:00'
-  source: Supply Chain 24/7
-  title: Six Steps Public Procurement Teams Must Take to Survive a Chip Crisis
-- category: supply-chain
-  description: Nearly half of carriers plan to delay fleet investments in 2026 due
-    to tariffs, even as more than a third accelerate spending to get ahead of rising
-    costs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/carriers-delay-fleet-investments-2026-tariffs
-  pub_date: '2026-02-12T18:04:00'
-  source: Supply Chain 24/7
-  title: 'Report: 47% of Carriers Plan to Delay Fleet Investments Over Tariffs'
-- category: supply-chain
-  description: ASU researcher Lacy Greening is developing an AI-driven approach to
-    help freight networks anticipate and prevent middle-mile disruptions before costs
-    rise.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-middle-mile-freight-disruption-arpa
-  pub_date: '2026-02-12T17:59:00'
-  source: Supply Chain 24/7
-  title: The Researcher Who Wants to Rethink Freight’s Middle Mile
-- category: supply-chain
-  description: The U.S. has opened a sterile fly center in Texas to stop a flesh-eating
-    screwworm from disrupting cattle imports and straining the beef supply chain.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/flesh-eating-screwworm-beef-supply-chain-texas
-  pub_date: '2026-02-12T17:00:00'
-  source: Supply Chain 24/7
-  title: Flesh-Eating Parasite Threatens U.S. Beef Supply Chain, Texas Takes Action
-- category: supply-chain
-  description: Amazon Pharmacy will expand same-day prescription delivery to 4,500
-    U.S. cities by 2026, using its logistics network to reach underserved communities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-pharmacy-same-day-delivery-expansion-2026
-  pub_date: '2026-02-12T15:19:00'
-  source: Supply Chain 24/7
-  title: Amazon Pharmacy Expands Same-Day Delivery to 4,500 U.S. Cities
 - category: circular
   description: Leading waste management companies Biffa, SUEZ and DS Smith to support
     CIWM and Urge Collective's Design Skills for Embedding Circularity initiative.
@@ -163,13 +172,4 @@ articles:
   pub_date: '2026-02-09T13:50:19'
   source: Circular Online
   title: Waste sector emissions fall by 4%
-- category: circular
-  description: The Environment Agency has obtained court orders to restrict access
-    to two illegal waste sites. The post Environment Agency shuts down two illegal
-    waste sites appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-agency-shuts-down-two-illegal-waste-sites/
-  pub_date: '2026-02-09T10:30:20'
-  source: Circular Online
-  title: Environment Agency shuts down two illegal waste sites
-last_updated: '2026-02-17T06:59:59.524727'
+last_updated: '2026-02-18T07:01:58.940190'
