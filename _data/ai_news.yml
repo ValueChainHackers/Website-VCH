@@ -1,4 +1,44 @@
 articles:
+- category: ai-research
+  description: The context of long-term conversations can cause an LLM to begin mirroring
+    the user's viewpoints, possibly reducing accuracy or creating a virtual echo-chamber.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218
+  pub_date: '2026-02-18T05:00:00'
+  source: MIT AI News
+  title: Personalization features can make LLMs more agreeable
+- category: ai-research
+  description: an illustration of blue and white cubes
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/
+  pub_date: '2026-02-17T22:30:00'
+  source: Google AI Blog
+  title: Our 2026 Responsible AI Progress Report
+- category: machine-learning
+  description: Before you commit, ask these 3 essential questions about vendor lock-in,
+    hidden costs, and tool integration to protect your business future.
+  icon: fa-chart-bar
+  link: https://bit.ly/46xL7xd#new_tab
+  pub_date: '2026-02-17T17:50:02'
+  source: KDnuggets
+  title: 3 Questions Resellers Should Ask Before Choosing A Cloud Provider (Sponsored)
+- category: machine-learning
+  description: Check out this practical 2026 guide to Hugging Face. Explore transformers,
+    datasets, sentiment analysis, APIs, fine-tuning, and deployment with Python.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-complete-hugging-face-primer-for-2026
+  pub_date: '2026-02-17T15:53:28'
+  source: KDnuggets
+  title: The Complete Hugging Face Primer for 2026
+- category: machine-learning
+  description: This article covers the top seven Python libraries for implementing
+    progress bars, with practical examples to help you quickly add progress tracking
+    to data processing, machine learning, and automatio...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-python-libraries-for-progress-bars
+  pub_date: '2026-02-17T14:06:31'
+  source: KDnuggets
+  title: Top 7 Python Libraries for Progress Bars
 - category: machine-learning
   description: This article gently introduces feature stores, describing their origins,
     main characteristics, reasons for their current significance, and popular tools
@@ -74,21 +114,6 @@ articles:
   pub_date: '2026-02-12T16:13:00'
   source: Google AI Blog
   title: 'Gemini 3 Deep Think: Advancing science, research and engineering'
-- category: machine-learning
-  description: A step-by-step guide to turning a notebook-based analysis into a reproducible,
-    deployable, and portfolio-ready MLOps project
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-practical-mlops-for-a-personal-ml-project
-  pub_date: '2026-02-12T15:00:03'
-  source: KDnuggets
-  title: Building Practical MLOps for a Personal ML Project
-- category: machine-learning
-  description: Natural Language Processing
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-embedding-models-for-your-rag-pipeline
-  pub_date: '2026-02-12T13:00:28'
-  source: KDnuggets
-  title: Top 5 Embedding Models for Your RAG Pipeline
 - category: ai-research
   description: Associate Professor Rafael Gmez-Bombarelli has spent his career applying
     AI to improve scientific discovery. Now he believes we are at an inflection point.
@@ -97,14 +122,6 @@ articles:
   pub_date: '2026-02-12T05:00:00'
   source: MIT AI News
   title: Accelerating science with AI and simulations
-- category: machine-learning
-  description: Keys for oversampling your data for addressing class imbalance issues,
-    the right way.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/why-most-people-misuse-smote-and-how-to-do-it-right
-  pub_date: '2026-02-11T16:21:32'
-  source: KDnuggets
-  title: Why Most People Misuse SMOTE, And How to Do It Right
 - category: ai-research
   description: Driven by overuse and misuse of antibiotics, drug-resistant infections
     are on the rise, while development of new antibacterial tools has slowed.
@@ -209,14 +226,6 @@ articles:
   title: Brian Hedden named co-associate dean of Social and Ethical Responsibilities
     of Computing
 - category: ai-research
-  description: Torralba's research focuses on computer vision, machine learning, and
-    human visual perception.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/antonio-torralba-three-mit-alumni-named-acm-fellows-0204
-  pub_date: '2026-02-04T18:15:00'
-  source: MIT AI News
-  title: Antonio Torralba, three MIT alumni named 2025 ACM fellows
-- category: ai-research
   description: mp4 showing a carousel of images including a card reading "Help that's
     made for you"
   icon: fa-google
@@ -241,11 +250,4 @@ articles:
   pub_date: '2026-02-02T17:00:00'
   source: Google AI Blog
   title: Advancing AI benchmarking with Game Arena
-- category: ai-research
-  description: Text reads Introducing Project Genie
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/
-  pub_date: '2026-01-29T17:00:00'
-  source: Google AI Blog
-  title: 'Project Genie: Experimenting with infinite, interactive worlds'
-last_updated: '2026-02-17T07:00:01.781992'
+last_updated: '2026-02-18T07:02:00.778488'
