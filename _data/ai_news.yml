@@ -1,5 +1,62 @@
 articles:
 - category: ai-research
+  description: By minimizing the need to drive around looking for a parking spot,
+    this technique can save drivers up to 35 minutes - and give them a realistic estimate
+    of total travel time.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/parking-aware-navigation-could-prevent-frustration-and-emissions-0219
+  pub_date: '2026-02-19T05:00:00'
+  source: MIT AI News
+  title: Parking-aware navigation system could prevent frustration and emissions
+- category: ai-research
+  description: a stylized design resembling the Ashoka Chakra with colorful network
+    lines and text reading " 2026 INDIA." A vertical line separates it from the Google
+    logo on the right, all set against a light blue ...
+  icon: fa-google
+  link: https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/
+  pub_date: '2026-02-19T04:30:00'
+  source: Google AI Blog
+  title: “No technology has me dreaming bigger than AI”
+- category: ai-research
+  description: A look at the partnerships and investments Google announced at the
+    AI Impact Summit 2026.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/
+  pub_date: '2026-02-19T04:30:00'
+  source: Google AI Blog
+  title: AI Impact Summit 2026
+- category: ai-research
+  description: Image showing sample tracks created with Lyria 3
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/
+  pub_date: '2026-02-18T16:00:00'
+  source: Google AI Blog
+  title: 'A new way to express yourself: Gemini can now create music'
+- category: machine-learning
+  description: 8 Python tricks to turn raw, messy data into clean, neatly preprocessed
+    data with minimal effort.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/from-messy-to-clean-8-python-tricks-for-effortless-data-preprocessing
+  pub_date: '2026-02-18T15:00:01'
+  source: KDnuggets
+  title: 'From Messy to Clean: 8 Python Tricks for Effortless Data Preprocessing'
+- category: machine-learning
+  description: Code reviews shouldn't be a bottleneck. The best AI code review tools
+    now catch bugs, anti-patterns, security flaws, and more in seconds before they
+    ever hit production.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-ai-code-review-tools-for-developers
+  pub_date: '2026-02-18T13:00:47'
+  source: KDnuggets
+  title: Top 5 AI Code Review Tools for Developers
+- category: ai-research
+  description: four people seated on a conference stage
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/
+  pub_date: '2026-02-18T10:30:00'
+  source: Google AI Blog
+  title: 'AI Impact Summit 2026: How we’re partnering to make AI work for everyone'
+- category: ai-research
   description: The context of long-term conversations can cause an LLM to begin mirroring
     the user's viewpoints, possibly reducing accuracy or creating a virtual echo-chamber.
   icon: fa-graduation-cap
@@ -82,14 +139,6 @@ articles:
   pub_date: '2026-02-13T15:00:18'
   source: KDnuggets
   title: 'Building Vertex AI Search Applications: A Comprehensive Guide'
-- category: machine-learning
-  description: These are 12 Python libraries that made waves in 2025, and that every
-    developer should try in 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/12-python-libraries-you-need-to-try-in-2026
-  pub_date: '2026-02-13T13:27:47'
-  source: KDnuggets
-  title: 12 Python Libraries You Need to Try in 2026
 - category: ai-research
   description: Project AI Evidence will connect governments, tech companies, and nonprofits
     with world-class economists at MIT and across J-PAL's global network to evaluate
@@ -100,13 +149,6 @@ articles:
   source: MIT AI News
   title: New J-PAL research and policy initiative to test and scale AI innovations
     to fight poverty
-- category: machine-learning
-  description: A glimpse into what might be the early days of artificial general intelligence
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2025/02/abacus/my-honest-and-candid-review-of-abacus-ai-deep-agent
-  pub_date: '2026-02-12T18:00:44'
-  source: KDnuggets
-  title: My Honest And Candid Review of Abacus AI Deep Agent
 - category: ai-research
   description: Gemini 3 Deep Think logo
   icon: fa-google
@@ -208,46 +250,4 @@ articles:
   pub_date: '2026-02-05T16:00:00'
   source: Google AI Blog
   title: How Google Cloud is helping Team USA elevate their tricks with AI
-- category: ai-research
-  description: 'A toddler in a blue and yellow striped shirt sits on a kitchen counter
-    eating a red apple. Text in the corner reads: ''New Home, Google Gemini SB Commercial'''
-  icon: fa-google
-  link: https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/
-  pub_date: '2026-02-05T14:30:00'
-  source: Google AI Blog
-  title: Watch our new Gemini ad ahead of football’s biggest weekend
-- category: ai-research
-  description: He joins Nikos Trichakis in guiding the cross-cutting initiative of
-    the MIT Schwarzman College of Computing.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/brian-hedden-named-co-associate-dean-serc-0204
-  pub_date: '2026-02-04T18:25:00'
-  source: MIT AI News
-  title: Brian Hedden named co-associate dean of Social and Ethical Responsibilities
-    of Computing
-- category: ai-research
-  description: mp4 showing a carousel of images including a card reading "Help that's
-    made for you"
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/
-  pub_date: '2026-02-04T16:55:00'
-  source: Google AI Blog
-  title: The latest AI news we announced in January
-- category: ai-research
-  description: A four-part vertical collage showing a cotton-top tamarin, an ibex,
-    a golden lion tamarin, and a penguin.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/
-  pub_date: '2026-02-02T18:00:00'
-  source: Google AI Blog
-  title: How we’re helping preserve the genetic information of endangered species
-    with AI
-- category: ai-research
-  description: An illustration of a King and Ace playing card, a wolf's head, two
-    chess pieces, a poker chip, and other abstract shapes on a white background.1
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/
-  pub_date: '2026-02-02T17:00:00'
-  source: Google AI Blog
-  title: Advancing AI benchmarking with Game Arena
-last_updated: '2026-02-18T07:02:00.778488'
+last_updated: '2026-02-19T07:00:52.256867'

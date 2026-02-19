@@ -1,5 +1,64 @@
 articles:
 - category: supply-chain
+  description: Companies using procurement orchestration tools are cutting sourcing
+    cycle times by 20 days and reporting measurable gains in efficiency and cost savings.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-cut-cycle-times-20-days-study
+  pub_date: '2026-02-18T15:42:00'
+  source: Supply Chain 24/7
+  title: Procurement Orchestration Cuts Cycle Times By 20 Days, Study Finds
+- category: supply-chain
+  description: Miami Beach now requires delivery robots to carry safety flags, maintain
+    insurance and follow stricter sidewalk rules.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/miami-beach-imposes-stricter-rules-on-sidewalk-robots
+  pub_date: '2026-02-18T15:07:00'
+  source: Supply Chain 24/7
+  title: Miami Beach Imposes Stricter Rules on Sidewalk Robots
+- category: supply-chain
+  description: Chicago's I-294 interchange has replaced Fort Lee, N.J., as the most
+    congested freight bottleneck in the United States, according to ATRI's 2026 report.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/chicago-worst-truck-bottleneck-2026-atri-report
+  pub_date: '2026-02-18T14:16:00'
+  source: Supply Chain 24/7
+  title: Ranking The Top 10 U.S. Locations For Worst Truck Traffic
+- category: supply-chain
+  description: Blank sailings have fallen sharply, but U.S.-China trade remains under
+    strain as sourcing shifts toward Southeast Asia.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/project44-blank-sailings-china-trade-shift-2026
+  pub_date: '2026-02-18T13:27:00'
+  source: Supply Chain 24/7
+  title: Blank Sailings Hit Lowest Level in Over a Year, Data Shows
+- category: circular
+  description: Hertfordshire County Council has approved plans for a new digital system
+    that allows residents to access recycling centres without the need to book in
+    advance. The post Hertfordshire approves new digi...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/hertfordshire-approves-new-digital-pass-system-for-recycling-centres/
+  pub_date: '2026-02-18T11:00:21'
+  source: Circular Online
+  title: Hertfordshire approves new digital pass system for recycling centres
+- category: circular
+  description: The Welsh Government has announced funding for 150 new surveillance
+    cameras to deter fly-tipping. The post Wales announces funding for 150 fly-tipping
+    surveillance cameras appeared first on Circular O...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wales-announces-funding-for-150-fly-tipping-surveillance-cameras/
+  pub_date: '2026-02-18T09:39:12'
+  source: Circular Online
+  title: Wales announces funding for 150 fly-tipping surveillance cameras
+- category: circular
+  description: Recycling rates for aluminium cans reached 76.3% in the EU, UK, Switzerland,
+    Norway, and Iceland in 2023, according to a new report. The post Recycling rates
+    for aluminium cans rise across Europe to 7...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/recycling-rates-for-aluminium-cans-rise-across-europe-to-76-3/
+  pub_date: '2026-02-18T08:30:00'
+  source: Circular Online
+  title: Recycling rates for aluminium cans rise across Europe to 76.3%
+- category: supply-chain
   description: A comprehensive preview of what to expect at MODEX 2026 in Atlanta,
     from keynote speakers to sessions, exhibitors, and more.
   icon: fa-box
@@ -58,39 +117,6 @@ articles:
   pub_date: '2026-02-16T18:29:00'
   source: Supply Chain 24/7
   title: Gap Rebuilds Its Supply Chain for a Constantly Disrupted World
-- category: supply-chain
-  description: FedEx is shifting its strategy toward high-margin B2B sectors and premium
-    e-commerce to drive stronger margins and earnings growth through 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-targets-premium-b2b-ecommerce-growth
-  pub_date: '2026-02-16T14:42:00'
-  source: Supply Chain 24/7
-  title: FedEx Pivots Toward Premium B2B and E-Commerce Growth
-- category: supply-chain
-  description: A new Locus Robotics survey finds that 71% of shoppers say viral trends
-    drive purchases, creating demand spikes that are straining retail supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/viral-trends-strain-retail-supply-chains-locus-survey
-  pub_date: '2026-02-16T14:33:00'
-  source: Supply Chain 24/7
-  title: 71% of Shoppers Say Viral Trends Drive Retail Demand Surges
-- category: supply-chain
-  description: Ford said a late change to the Trump administration's tariff-relief
-    program left it with an approximately $900 million higher tariff bill in 2025
-    than expected.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ford-late-tariff-relief-change-adds-900-million-cost
-  pub_date: '2026-02-16T14:29:00'
-  source: Supply Chain 24/7
-  title: Ford Says Late Tariff Program Change Cost It $900 Million
-- category: supply-chain
-  description: Hapag-Lloyd is in advanced talks to acquire Israel's ZIM Shipping,
-    in a deal expected to exceed $3.5 billion and still pending final approvals.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hapag-lloyd-advanced-talks-to-buy-zim-shipping
-  pub_date: '2026-02-16T13:58:00'
-  source: Supply Chain 24/7
-  title: Hapag-Lloyd in Advanced Talks to Acquire ZIM for $3.5 Billion
 - category: circular
   description: Material Focus has announced that the four projects have been awarded
     funding from its Circular Electricals Fund. The post Material Focus announces
@@ -145,31 +171,4 @@ articles:
   pub_date: '2026-02-10T15:57:34'
   source: Circular Online
   title: Clearance of 20,000 tonne illegal waste site in Kidlington delayed
-- category: circular
-  description: The Circular Economy Institute (CEI) launches a new global professional
-    membership programme. The post Circular Economy Institute launches CEI Professional
-    Membership appeared first on Circular Online...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/circular-economy-institute-launches-cei-professional-membership/
-  pub_date: '2026-02-10T12:00:00'
-  source: Circular Online
-  title: Circular Economy Institute launches CEI Professional Membership
-- category: circular
-  description: Refuse workers and agency staff in Birmingham have voted to extend
-    strike action past local elections in May and into September. The post Workers
-    vote to extend Birmingham bin strikes to September app...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/workers-vote-to-extend-birmingham-bin-strikes-to-september/
-  pub_date: '2026-02-10T09:30:07'
-  source: Circular Online
-  title: Workers vote to extend Birmingham bin strikes to September
-- category: circular
-  description: Greenhouse gas emissions produced by the waste sector fell by 4% between
-    2023 and 2024. The post Waste sector emissions fall by 4% appeared first on Circular
-    Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-sector-emissions-fall-by-4/
-  pub_date: '2026-02-09T13:50:19'
-  source: Circular Online
-  title: Waste sector emissions fall by 4%
-last_updated: '2026-02-18T07:01:58.940190'
+last_updated: '2026-02-19T07:00:50.158323'
