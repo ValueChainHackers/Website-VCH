@@ -1,5 +1,48 @@
 articles:
 - category: ai-research
+  description: Research from the MIT Center for Constructive Communication finds leading
+    AI models perform worse for users with lower English proficiency, less formal
+    education, and non-US origins.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219
+  pub_date: '2026-02-19T23:25:00'
+  source: MIT AI News
+  title: 'Study: AI chatbots provide less-accurate information to vulnerable users'
+- category: ai-research
+  description: A new method developed at MIT could root out vulnerabilities and improve
+    LLM safety and performance.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/exposing-biases-moods-personalities-hidden-large-language-models-0219
+  pub_date: '2026-02-19T19:00:00'
+  source: MIT AI News
+  title: Exposing biases, moods, personalities, and abstract concepts hidden in large
+    language models
+- category: machine-learning
+  description: Learn how to build MCP servers and clients using FastMCP, which is
+    comprehensive, complete with error handling, best practices, and deployment strategies,
+    making it ideal for both beginners and interm...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/fastmcp-the-pythonic-way-to-build-mcp-servers-and-clients
+  pub_date: '2026-02-19T17:00:31'
+  source: KDnuggets
+  title: 'FastMCP: The Pythonic Way to Build MCP Servers and Clients'
+- category: machine-learning
+  description: ADK from Google addresses a critical gap in the agentic AI ecosystem
+    by providing a framework that simplifies the construction and deployment of multi-agent
+    systems. Learn more.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-production-ready-ai-agents-with-agent-development-kit
+  pub_date: '2026-02-19T15:00:18'
+  source: KDnuggets
+  title: Building Production-Ready AI Agents with Agent Development Kit
+- category: machine-learning
+  description: Want a smaller, faster, more secure agent stack than OpenClaw?
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-lightweight-and-secure-openclaw-alternatives-to-try-right-now
+  pub_date: '2026-02-19T13:00:29'
+  source: KDnuggets
+  title: 5 Lightweight and Secure OpenClaw Alternatives to Try Right Now
+- category: ai-research
   description: By minimizing the need to drive around looking for a parking spot,
     this technique can save drivers up to 35 minutes - and give them a realistic estimate
     of total travel time.
@@ -113,32 +156,6 @@ articles:
   source: KDnuggets
   title: Learn Python, SQL and PowerBI to Become a Certified Data Analyst for FREE
     This Week
-- category: machine-learning
-  description: Build your own private AI hub with Docker, Ollama, and n8n. A beginner's
-    guide to self-hosted, local automation with no cloud fees.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/self-hosted-ai-complete-roadmap-for-beginners
-  pub_date: '2026-02-16T13:00:52'
-  source: KDnuggets
-  title: 'Self-Hosted AI: A Complete Roadmap for Beginners'
-- category: machine-learning
-  description: Fast providers offering open source LLMs are breaking past previous
-    speed limits, delivering low latency and strong performance that make them suitable
-    for real time interaction, long running coding t...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-super-fast-llm-api-providers
-  pub_date: '2026-02-16T13:00:19'
-  source: KDnuggets
-  title: Top 5 Super Fast LLM API Providers
-- category: machine-learning
-  description: This guide explores the essential components, implementation strategies,
-    and best practices for building production-ready search applications using Vertex
-    AI Search and AI Applications.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-vertex-ai-search-applications-a-comprehensive-guide
-  pub_date: '2026-02-13T15:00:18'
-  source: KDnuggets
-  title: 'Building Vertex AI Search Applications: A Comprehensive Guide'
 - category: ai-research
   description: Project AI Evidence will connect governments, tech companies, and nonprofits
     with world-class economists at MIT and across J-PAL's global network to evaluate
@@ -216,24 +233,6 @@ articles:
   source: MIT AI News
   title: 'Study: Platforms that rank the latest LLMs can be unreliable'
 - category: ai-research
-  description: MIT faculty join The Curiosity Desk to discuss football, math, Olympic
-    figure skating, AI and the quest to cure ovarian cancer.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/science-mit-president-talks-about-importance-americas-research-enterprise-gbhs-boston-public
-  pub_date: '2026-02-06T17:38:22'
-  source: MIT AI News
-  title: “This is science!” – MIT president talks about the importance of America’s
-    research enterprise on GBH’s Boston Public Radio
-- category: ai-research
-  description: EnCompass executes AI agent programs by backtracking and making multiple
-    attempts, finding the best set of outputs generated by an LLM. It could help coders
-    work with AI agents more efficiently.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/helping-ai-agents-search-to-get-best-results-from-llms-0205
-  pub_date: '2026-02-05T21:30:00'
-  source: MIT AI News
-  title: Helping AI agents search to get the best results out of large language models
-- category: ai-research
   description: A collage of four images, the first of a woman with curly hair in front
     of a silver laptop, the second of the same woman and a man with short black hair
     speaking on a stairwell, the third of a the sam...
@@ -250,4 +249,4 @@ articles:
   pub_date: '2026-02-05T16:00:00'
   source: Google AI Blog
   title: How Google Cloud is helping Team USA elevate their tricks with AI
-last_updated: '2026-02-19T07:00:52.256867'
+last_updated: '2026-02-20T06:57:33.938580'

@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: In its latest earnings call, Walmart announced that e-commerce grew
+    24% in Q4 as store-fulfilled delivery surged and inventory stayed in check.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-store-fulfillment-drives-24-percent-ecommerce-growth
+  pub_date: '2026-02-19T17:15:00'
+  source: Supply Chain 24/7
+  title: How Walmart Turned Its Stores Into a Secret E-Commerce Weapon
+- category: supply-chain
+  description: Amazon has halted its Blue Jay warehouse robot project just months
+    after launch, saying the technology will be reused in other robotics initiatives.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/report-amazon-scraps-blue-jay-robot-just-months-after-launch
+  pub_date: '2026-02-19T14:44:00'
+  source: Supply Chain 24/7
+  title: 'Report: Amazon Shelves Blue Jay Robot Just Months After Launch'
+- category: supply-chain
+  description: A nationwide study ranks the 10 U.S. metro areas where trucks most
+    often park on highway ramps, with Atlanta and Indianapolis leading the way.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-10-cities-most-ramp-truck-parking-2026
+  pub_date: '2026-02-19T14:21:00'
+  source: Supply Chain 24/7
+  title: The 10 U.S. Cities Where Trucks Park on Ramps Most Often
+- category: supply-chain
+  description: Most warehouse networks span five levels of maturity, from manual operations
+    to dynamic, software-driven facilities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/five-levels-of-warehouse-maturity-and-why-they-can-coexist
+  pub_date: '2026-02-19T13:04:00'
+  source: Supply Chain 24/7
+  title: The Five Levels of Warehouse Maturity And Why They Can Coexist
+- category: circular
+  description: New drone footage released by Channel 4 shows renewed activity at a
+    25,000 tonne illegal waste site on land owned by King Charles. The post Footage
+    shows more waste being dumped on land owned by King ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/footage-shows-more-waste-being-dumped-on-land-owned-by-king-charles/
+  pub_date: '2026-02-19T10:09:05'
+  source: Circular Online
+  title: Footage shows more waste being dumped on land owned by King Charles
+- category: supply-chain
   description: Companies using procurement orchestration tools are cutting sourcing
     cycle times by 20 days and reporting measurable gains in efficiency and cost savings.
   icon: fa-box
@@ -75,31 +116,6 @@ articles:
   pub_date: '2026-02-17T15:23:00'
   source: Supply Chain 24/7
   title: Ahold Delhaize Invests $860M in North Carolina Distribution Center
-- category: supply-chain
-  description: Barb Reasinger shares how she started as a store manager at Finish
-    Line and worked her way up to Senior Director of Supply Chain.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/women-in-supply-chain-barb-reasinger-finish-line
-  pub_date: '2026-02-17T14:55:00'
-  source: Supply Chain 24/7
-  title: 'Women in Supply Chain: Barb Reasinger of Finish Line'
-- category: supply-chain
-  description: Chameleon carriers are trucking companies that shut down after safety
-    violations and reopen under new names, creating hidden risks for shippers and
-    brokers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-101-what-are-chameleon-carriers
-  pub_date: '2026-02-17T14:17:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain 101: What Are Chameleon Carriers and How Do They Operate?'
-- category: supply-chain
-  description: DHL eCommerce has partnered with Georgia Tech to build a direct pipeline
-    for future industrial engineering hires.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-ecommerce-teams-up-with-georgia-tech-to-build-talent-pipeline
-  pub_date: '2026-02-17T13:00:00'
-  source: Supply Chain 24/7
-  title: DHL eCommerce Teams Up With Georgia Tech to Build Talent Pipeline
 - category: circular
   description: The sale and supply of wet wipes containing plastic in Scotland will
     be banned next year, the Scottish Government has announced. The post Wet wipes
@@ -109,14 +125,6 @@ articles:
   pub_date: '2026-02-17T08:30:00'
   source: Circular Online
   title: Wet wipes containing plastic to be banned in Scotland
-- category: supply-chain
-  description: At RILA, Gap said retail supply chains must move beyond fast and cheap
-    and focus on resilience, flexibility, and strong fundamentals.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/retail-supply-chains-resilience-rila-gap
-  pub_date: '2026-02-16T18:29:00'
-  source: Supply Chain 24/7
-  title: Gap Rebuilds Its Supply Chain for a Constantly Disrupted World
 - category: circular
   description: Material Focus has announced that the four projects have been awarded
     funding from its Circular Electricals Fund. The post Material Focus announces
@@ -162,13 +170,4 @@ articles:
   pub_date: '2026-02-11T09:23:21'
   source: Circular Online
   title: £165,000 fund opens for communities to cut waste and boost reuse and recycling
-- category: circular
-  description: The Environment Agency have confirmed clearance work on the illegal
-    waste dump near the River Cherwell in Kidlington has been delayed due to heavy
-    rainfall. The post Clearance of 20,000 tonne illegal ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/clearance-of-20000-tonne-illegal-waste-site-in-kidlington-delayed/
-  pub_date: '2026-02-10T15:57:34'
-  source: Circular Online
-  title: Clearance of 20,000 tonne illegal waste site in Kidlington delayed
-last_updated: '2026-02-19T07:00:50.158323'
+last_updated: '2026-02-20T06:57:31.628958'
