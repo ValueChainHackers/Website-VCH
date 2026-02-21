@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: This is the ultimate guide to uploading, downloading, and saving files
+    in Colab.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/all-about-google-colab-file-management
+  pub_date: '2026-02-20T15:00:18'
+  source: KDnuggets
+  title: All About Google Colab File Management
+- category: machine-learning
+  description: 7 Python tricks that may help make the most of the standalone XGBoost
+    library, particularly in terms of seeking more accurate predictive models.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-xgboost-tricks-for-more-accurate-predictive-models
+  pub_date: '2026-02-20T13:00:37'
+  source: KDnuggets
+  title: 7 XGBoost Tricks for More Accurate Predictive Models
 - category: ai-research
   description: Research from the MIT Center for Constructive Communication finds leading
     AI models perform worse for users with lower English proficiency, less formal
@@ -139,23 +155,6 @@ articles:
   pub_date: '2026-02-17T14:06:31'
   source: KDnuggets
   title: Top 7 Python Libraries for Progress Bars
-- category: machine-learning
-  description: This article gently introduces feature stores, describing their origins,
-    main characteristics, reasons for their current significance, and popular tools
-    at present.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/all-about-feature-stores
-  pub_date: '2026-02-16T17:00:51'
-  source: KDnuggets
-  title: All About Feature Stores
-- category: machine-learning
-  description: From February 16-22, DataCamp's entire curriculum is 100% free.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/datacamp/02/2026/learn-python-sql-and-powerbi-to-become-a-certified-data-analyst-for-free-this-week
-  pub_date: '2026-02-16T17:00:20'
-  source: KDnuggets
-  title: Learn Python, SQL and PowerBI to Become a Certified Data Analyst for FREE
-    This Week
 - category: ai-research
   description: Project AI Evidence will connect governments, tech companies, and nonprofits
     with world-class economists at MIT and across J-PAL's global network to evaluate
@@ -249,4 +248,4 @@ articles:
   pub_date: '2026-02-05T16:00:00'
   source: Google AI Blog
   title: How Google Cloud is helping Team USA elevate their tricks with AI
-last_updated: '2026-02-20T06:57:33.938580'
+last_updated: '2026-02-21T06:42:33.103395'
