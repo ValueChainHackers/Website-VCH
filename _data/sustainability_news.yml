@@ -1,5 +1,13 @@
 articles:
 - category: supply-chain
+  description: A comprehensive directory of major supply chain associations offering
+    certifications, research, events and professional development opportunities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-associations-directory
+  pub_date: '2026-02-23T02:24:00'
+  source: Supply Chain 24/7
+  title: A Comprehensive List of Supply Chain Organizations
+- category: supply-chain
   description: The Supreme Court ruled that President Trump's sweeping emergency tariffs
     are illegal because he did not have clear congressional power to impose them.
   icon: fa-box
@@ -7,14 +15,6 @@ articles:
   pub_date: '2026-02-20T15:21:00'
   source: Supply Chain 24/7
   title: Supreme Court Strikes Down Trump’s Emergency Tariffs
-- category: supply-chain
-  description: A comprehensive directory of major supply chain associations offering
-    certifications, research, events and professional development opportunities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-associations-directory
-  pub_date: '2026-02-20T14:31:00'
-  source: Supply Chain 24/7
-  title: A Comprehensive List of Supply Chain Organizations
 - category: supply-chain
   description: Amazon has overtaken Walmart in annual revenue for the first time,
     marking a symbolic shift in the global retail and supply chain landscape.
@@ -170,4 +170,4 @@ articles:
   pub_date: '2026-02-12T12:16:41'
   source: Circular Online
   title: Leading UK waste management companies join CIWM & URGE Collective initiative
-last_updated: '2026-02-22T06:49:45.301381'
+last_updated: '2026-02-23T07:05:14.685520'
