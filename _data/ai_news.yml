@@ -1,5 +1,23 @@
 articles:
 - category: machine-learning
+  description: A conversation with AI researcher Sebastian Wallktter reveals insights
+    on standardization, security challenges, and the fundamental question facing enterprise
+    artificial intelligence adoption.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-mcp-revolution-and-the-search-for-stable-ai-use-cases
+  pub_date: '2026-02-23T15:00:47'
+  source: KDnuggets
+  title: The MCP Revolution and the Search for Stable AI Use Cases
+- category: machine-learning
+  description: Build robust AI agents with design patterns for ReAct loops, multi-agent
+    workflows, and state management essential for moving from prototype to reliable
+    production.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-essential-design-patterns-for-building-robust-agentic-ai-systems
+  pub_date: '2026-02-23T13:00:41'
+  source: KDnuggets
+  title: 5 Essential Design Patterns for Building Robust Agentic AI Systems
+- category: machine-learning
   description: This is the ultimate guide to uploading, downloading, and saving files
     in Colab.
   icon: fa-chart-bar
@@ -138,23 +156,6 @@ articles:
   pub_date: '2026-02-17T17:50:02'
   source: KDnuggets
   title: 3 Questions Resellers Should Ask Before Choosing A Cloud Provider (Sponsored)
-- category: machine-learning
-  description: Check out this practical 2026 guide to Hugging Face. Explore transformers,
-    datasets, sentiment analysis, APIs, fine-tuning, and deployment with Python.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-complete-hugging-face-primer-for-2026
-  pub_date: '2026-02-17T15:53:28'
-  source: KDnuggets
-  title: The Complete Hugging Face Primer for 2026
-- category: machine-learning
-  description: This article covers the top seven Python libraries for implementing
-    progress bars, with practical examples to help you quickly add progress tracking
-    to data processing, machine learning, and automatio...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-python-libraries-for-progress-bars
-  pub_date: '2026-02-17T14:06:31'
-  source: KDnuggets
-  title: Top 7 Python Libraries for Progress Bars
 - category: ai-research
   description: Project AI Evidence will connect governments, tech companies, and nonprofits
     with world-class economists at MIT and across J-PAL's global network to evaluate
@@ -248,4 +249,4 @@ articles:
   pub_date: '2026-02-05T16:00:00'
   source: Google AI Blog
   title: How Google Cloud is helping Team USA elevate their tricks with AI
-last_updated: '2026-02-23T07:05:16.527922'
+last_updated: '2026-02-24T07:01:12.797622'
