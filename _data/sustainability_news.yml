@@ -1,5 +1,40 @@
 articles:
 - category: supply-chain
+  description: Carhartt doubled in size over six years while improving service and
+    lowering supply chain costs through network redesign, tighter forecasting, and
+    robotics.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/carhartt-doubled-business-raised-service-99
+  pub_date: '2026-02-23T13:30:00'
+  source: Supply Chain 24/7
+  title: How Carhartt Doubled Its Scale and Cut Supply Chain Costs 7%
+- category: supply-chain
+  description: MHI has announced the 2026 Innovation Award finalists, with winners
+    to be revealed at MODEX in April.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/mhi-2026-innovation-award-finalists-modex
+  pub_date: '2026-02-23T13:09:00'
+  source: Supply Chain 24/7
+  title: MHI Names 2026 Innovation Award Finalists Ahead of MODEX
+- category: supply-chain
+  description: Aurora tripled its driverless truck network to 10 routes and added
+    a 1,000-mile Texas to Arizona lane as it scales autonomous freight.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/aurora-triples-driverless-truck-routes-across-texas
+  pub_date: '2026-02-23T13:08:00'
+  source: Supply Chain 24/7
+  title: Aurora Triples Driverless Truck Routes Across Texas
+- category: circular
+  description: New Regulatory Requirements set out how drinks producers must apply
+    the Deposit Return Scheme (DRS) logo to in-scope containers across England, Scotland
+    and Northern Ireland from 1 October 2027. The p...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/exchange-for-change-publishes-mandatory-drs-logo-requirements-ahead-of-2027-launch/
+  pub_date: '2026-02-23T11:37:33'
+  source: Circular Online
+  title: Exchange for Change publishes mandatory DRS logo requirements ahead of 2027
+    launch
+- category: supply-chain
   description: A comprehensive directory of major supply chain associations offering
     certifications, research, events and professional development opportunities.
   icon: fa-box
@@ -74,22 +109,6 @@ articles:
   pub_date: '2026-02-19T14:44:00'
   source: Supply Chain 24/7
   title: 'Report: Amazon Shelves Blue Jay Robot Just Months After Launch'
-- category: supply-chain
-  description: A nationwide study ranks the 10 U.S. metro areas where trucks most
-    often park on highway ramps, with Atlanta and Indianapolis leading the way.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-10-cities-most-ramp-truck-parking-2026
-  pub_date: '2026-02-19T14:21:00'
-  source: Supply Chain 24/7
-  title: The 10 U.S. Cities Where Trucks Park on Ramps Most Often
-- category: supply-chain
-  description: Most warehouse networks span five levels of maturity, from manual operations
-    to dynamic, software-driven facilities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/five-levels-of-warehouse-maturity-and-why-they-can-coexist
-  pub_date: '2026-02-19T13:04:00'
-  source: Supply Chain 24/7
-  title: The Five Levels of Warehouse Maturity And Why They Can Coexist
 - category: circular
   description: New drone footage released by Channel 4 shows renewed activity at a
     25,000 tonne illegal waste site on land owned by King Charles. The post Footage
@@ -99,14 +118,6 @@ articles:
   pub_date: '2026-02-19T10:09:05'
   source: Circular Online
   title: Footage shows more waste being dumped on land owned by King Charles
-- category: supply-chain
-  description: Companies using procurement orchestration tools are cutting sourcing
-    cycle times by 20 days and reporting measurable gains in efficiency and cost savings.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-cut-cycle-times-20-days-study
-  pub_date: '2026-02-18T15:42:00'
-  source: Supply Chain 24/7
-  title: Procurement Orchestration Cuts Cycle Times By 20 Days, Study Finds
 - category: circular
   description: Hertfordshire County Council has approved plans for a new digital system
     that allows residents to access recycling centres without the need to book in
@@ -161,13 +172,4 @@ articles:
   pub_date: '2026-02-13T09:58:30'
   source: Circular Online
   title: Welsh DRS to include glass after UK Government grants exemption
-- category: circular
-  description: Leading waste management companies Biffa, SUEZ and DS Smith to support
-    CIWM and Urge Collective's Design Skills for Embedding Circularity initiative.
-    The post Leading UK waste management companies joi...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/leading-uk-waste-management-companies-join-ciwm-urge-collective-initiative/
-  pub_date: '2026-02-12T12:16:41'
-  source: Circular Online
-  title: Leading UK waste management companies join CIWM & URGE Collective initiative
-last_updated: '2026-02-23T07:05:14.685520'
+last_updated: '2026-02-24T07:01:10.970292'
