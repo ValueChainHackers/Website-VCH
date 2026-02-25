@@ -1,5 +1,35 @@
 articles:
 - category: supply-chain
+  description: Discover how TA Services reduced LTL transportation costs by 30% using
+    advanced LTL rating software, freight APIs, and real-time routing intelligence
+    from SMC. Learn how to improve LTL accuracy and pe...
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-to-reduce-ltl-shipping-costs-with-accurate-rating-routing-freight-apis
+  pub_date: '2026-02-24T16:52:00'
+  source: Supply Chain 24/7
+  title: How to Reduce LTL Shipping Costs with Accurate Rating, Routing & Freight
+    APIs
+- category: circular
+  description: New European Environment Agency briefing reviews over 130 studies and
+    assesses potential emissions reductions from circular economy approaches. A European
+    Environment Agency (EEA) briefing published t...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/eu-report-outlines-wide-range-of-greenhouse-gas-savings-from-circular-economy-actions/
+  pub_date: '2026-02-24T09:26:18'
+  source: Circular Online
+  title: EU report outlines wide range of greenhouse-gas savings from circular economy
+    actions
+- category: circular
+  description: enfinium has rolled out ultrasonic leak detection sensors, also used
+    on the International Space Station. The post enfinium deploys NASA-used leak detection
+    technology across UK Energy from Waste sites...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/enfinium-deploys-nasa-used-leak-detection-technology-across-uk-energy-from-waste-sites/
+  pub_date: '2026-02-24T09:07:23'
+  source: Circular Online
+  title: enfinium deploys NASA-used leak detection technology across UK Energy from
+    Waste sites
+- category: supply-chain
   description: Carhartt doubled in size over six years while improving service and
     lowering supply chain costs through network redesign, tighter forecasting, and
     robotics.
@@ -101,14 +131,6 @@ articles:
   pub_date: '2026-02-19T17:15:00'
   source: Supply Chain 24/7
   title: How Walmart Turned Its Stores Into a Secret E-Commerce Weapon
-- category: supply-chain
-  description: Amazon has halted its Blue Jay warehouse robot project just months
-    after launch, saying the technology will be reused in other robotics initiatives.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/report-amazon-scraps-blue-jay-robot-just-months-after-launch
-  pub_date: '2026-02-19T14:44:00'
-  source: Supply Chain 24/7
-  title: 'Report: Amazon Shelves Blue Jay Robot Just Months After Launch'
 - category: circular
   description: New drone footage released by Channel 4 shows renewed activity at a
     25,000 tonne illegal waste site on land owned by King Charles. The post Footage
@@ -154,22 +176,4 @@ articles:
   pub_date: '2026-02-17T08:30:00'
   source: Circular Online
   title: Wet wipes containing plastic to be banned in Scotland
-- category: circular
-  description: Material Focus has announced that the four projects have been awarded
-    funding from its Circular Electricals Fund. The post Material Focus announces
-    recipients of Circular Electricals Fund appeared fir...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/material-focus-announces-recipients-of-circular-electricals-fund/
-  pub_date: '2026-02-16T13:28:22'
-  source: Circular Online
-  title: Material Focus announces recipients of Circular Electricals Fund
-- category: circular
-  description: Wales has confirmed it will collect glass as part of its Deposit Return
-    Scheme after the UK Government granted an exemption to the Internal Market Act.
-    The post Welsh DRS to include glass after UK Gov...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/welsh-drs-to-include-glass-after-uk-government-grants-exemption/
-  pub_date: '2026-02-13T09:58:30'
-  source: Circular Online
-  title: Welsh DRS to include glass after UK Government grants exemption
-last_updated: '2026-02-24T07:01:10.970292'
+last_updated: '2026-02-25T07:02:53.332743'
