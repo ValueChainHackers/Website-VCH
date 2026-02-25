@@ -1,4 +1,38 @@
 articles:
+- category: ai-research
+  description: Strahinja Janjusevic brings an international perspective and US Naval
+    Academy education to his graduate research in the MIT Technology and Policy Program.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/enhancing-maritime-cybersecurity-technology-policy-strahinja-janjusevic-0225
+  pub_date: '2026-02-25T05:00:00'
+  source: MIT AI News
+  title: Enhancing maritime cybersecurity with technology and policy
+- category: machine-learning
+  description: For most small- and medium-sized business leaders, the question about
+    AI has shifted. While it used to be "Should we use AI?", it's now "Where should
+    we run it?"
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/cloud-vs-local-vs-hybrid-for-ai-models-a-practitioners-guide-sponsored
+  pub_date: '2026-02-24T23:16:39'
+  source: KDnuggets
+  title: 'Cloud vs. Local vs. Hybrid for AI Models: A Practitioner’s Guide (Sponsored)'
+- category: machine-learning
+  description: Leverage NotebookLM's features to turn raw, sometimes chaotic information
+    into a grounded PRD in a matter of minutes.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/grounded-prd-generation-with-notebooklm
+  pub_date: '2026-02-24T16:00:27'
+  source: KDnuggets
+  title: Grounded PRD Generation with NotebookLM
+- category: machine-learning
+  description: These five libraries approach validation from very different angles,
+    which is exactly why they matter. Each one solves a specific class of problems
+    that appear again and again in modern data and machi...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-python-data-validation-libraries-you-should-be-using
+  pub_date: '2026-02-24T14:29:57'
+  source: KDnuggets
+  title: 5 Python Data Validation Libraries You Should Be Using
 - category: machine-learning
   description: A conversation with AI researcher Sebastian Wallktter reveals insights
     on standardization, security challenges, and the fundamental question facing enterprise
@@ -109,23 +143,6 @@ articles:
   pub_date: '2026-02-18T16:00:00'
   source: Google AI Blog
   title: 'A new way to express yourself: Gemini can now create music'
-- category: machine-learning
-  description: 8 Python tricks to turn raw, messy data into clean, neatly preprocessed
-    data with minimal effort.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/from-messy-to-clean-8-python-tricks-for-effortless-data-preprocessing
-  pub_date: '2026-02-18T15:00:01'
-  source: KDnuggets
-  title: 'From Messy to Clean: 8 Python Tricks for Effortless Data Preprocessing'
-- category: machine-learning
-  description: Code reviews shouldn't be a bottleneck. The best AI code review tools
-    now catch bugs, anti-patterns, security flaws, and more in seconds before they
-    ever hit production.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-ai-code-review-tools-for-developers
-  pub_date: '2026-02-18T13:00:47'
-  source: KDnuggets
-  title: Top 5 AI Code Review Tools for Developers
 - category: ai-research
   description: four people seated on a conference stage
   icon: fa-google
@@ -148,14 +165,6 @@ articles:
   pub_date: '2026-02-17T22:30:00'
   source: Google AI Blog
   title: Our 2026 Responsible AI Progress Report
-- category: machine-learning
-  description: Before you commit, ask these 3 essential questions about vendor lock-in,
-    hidden costs, and tool integration to protect your business future.
-  icon: fa-chart-bar
-  link: https://bit.ly/46xL7xd#new_tab
-  pub_date: '2026-02-17T17:50:02'
-  source: KDnuggets
-  title: 3 Questions Resellers Should Ask Before Choosing A Cloud Provider (Sponsored)
 - category: ai-research
   description: Project AI Evidence will connect governments, tech companies, and nonprofits
     with world-class economists at MIT and across J-PAL's global network to evaluate
@@ -225,14 +234,6 @@ articles:
   source: Google AI Blog
   title: Helping kids and teens learn and grow online on Safer Internet Day
 - category: ai-research
-  description: Removing just a tiny fraction of the crowdsourced data that informs
-    online ranking platforms can significantly change the results.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209
-  pub_date: '2026-02-09T05:00:00'
-  source: MIT AI News
-  title: 'Study: Platforms that rank the latest LLMs can be unreliable'
-- category: ai-research
   description: A collage of four images, the first of a woman with curly hair in front
     of a silver laptop, the second of the same woman and a man with short black hair
     speaking on a stairwell, the third of a the sam...
@@ -249,4 +250,4 @@ articles:
   pub_date: '2026-02-05T16:00:00'
   source: Google AI Blog
   title: How Google Cloud is helping Team USA elevate their tricks with AI
-last_updated: '2026-02-24T07:01:12.797622'
+last_updated: '2026-02-25T07:02:55.353605'
