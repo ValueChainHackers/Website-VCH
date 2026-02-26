@@ -1,5 +1,61 @@
 articles:
 - category: supply-chain
+  description: Following last week's decision by the United States Supreme Court,
+    which ruled against the legality of President Trump's implementation of global
+    reciprocal tariffs under the International Emergency E...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/shippers-prep-for-ongoing-volatility-amid-new-section-122-tariff
+  pub_date: '2026-02-25T17:33:00'
+  source: Supply Chain 24/7
+  title: Shippers prep for ongoing volatility amid new Section 122 tariff
+- category: circular
+  description: New whole-of-government plan aims to raise Ireland's circular material
+    use rate to 12% by 2030 and reduce reliance on virgin resources through sector-wide
+    action. The Department of Climate, Energy and...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ireland-unveils-circular-economy-strategy-2026-2028/
+  pub_date: '2026-02-25T14:48:13'
+  source: Circular Online
+  title: Ireland unveils Circular Economy Strategy 2026–2028
+- category: supply-chain
+  description: More than half of supply chain leaders say agentic AI could reduce
+    entry-level hiring, but most agree companies must rethink how they train and develop
+    talent.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/agentic-ai-supply-chain-hiring-gartner-survey
+  pub_date: '2026-02-25T14:01:00'
+  source: Supply Chain 24/7
+  title: 'Gartner: 55% of Leaders Say Agentic AI Will Cut Entry-Level Jobs'
+- category: circular
+  description: New Defra statistics show councils in England dealt with 1.26 million
+    fly-tipping incidents in 2024/25, up from 1.15 million the previous year... The
+    post Fly-tipping in England increases 9% in a year...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/fly-tipping-in-england-increases-9-in-a-year/
+  pub_date: '2026-02-25T10:04:35'
+  source: Circular Online
+  title: Fly-tipping in England increases 9% in a year
+- category: circular
+  description: Researchers at the University of Edinburgh have demonstrated a microbial
+    process that uses waste bread to generate hydrogen for industrial hydrogenation,
+    potentially reducing reliance on fossil fuels ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-bread-used-to-replace-fossil-fuel-hydrogen-in-carbon-negative-chemical-manufacturing-breakthrough/
+  pub_date: '2026-02-25T09:26:16'
+  source: Circular Online
+  title: Waste bread used to replace fossil fuel hydrogen in carbon-negative chemical
+    manufacturing breakthrough
+- category: circular
+  description: Almost a quarter of English councils will not meet the government's
+    deadline for weekly food waste collections, according to a BBC investigation.
+    The post Almost a quarter of English councils to miss ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/almost-a-quarter-of-english-councils-to-miss-weekly-food-waste-deadline-bbc-news-reports/
+  pub_date: '2026-02-25T09:18:52'
+  source: Circular Online
+  title: Almost a quarter of English councils to miss weekly food waste deadline,
+    BBC News reports
+- category: supply-chain
   description: Discover how TA Services reduced LTL transportation costs by 30% using
     advanced LTL rating software, freight APIs, and real-time routing intelligence
     from SMC. Learn how to improve LTL accuracy and pe...
@@ -96,15 +152,6 @@ articles:
   pub_date: '2026-02-20T14:18:00'
   source: Supply Chain 24/7
   title: How CDC Vaccine Changes Are Reshaping Pharma Supply Chains
-- category: supply-chain
-  description: DHL is expanding its global cold chain air network with a dedicated
-    777 freighter and new Brussels-Cincinnati route to move temperature-sensitive
-    medicines.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-expands-cold-chain-air-network-health-logistics
-  pub_date: '2026-02-20T13:46:00'
-  source: Supply Chain 24/7
-  title: DHL Adds Dedicated Brussels–Cincinnati Cold Chain Route
 - category: circular
   description: The Environment Agency has confirmed its enforcement budget has risen
     to GBP15.6 million, a 50% increase, and announced a suite of new measures to tackle
@@ -123,14 +170,6 @@ articles:
   pub_date: '2026-02-20T09:51:34'
   source: Circular Online
   title: Prolific offender must repay £1.4m after dumping 4,275 tonnes of waste
-- category: supply-chain
-  description: In its latest earnings call, Walmart announced that e-commerce grew
-    24% in Q4 as store-fulfilled delivery surged and inventory stayed in check.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-store-fulfillment-drives-24-percent-ecommerce-growth
-  pub_date: '2026-02-19T17:15:00'
-  source: Supply Chain 24/7
-  title: How Walmart Turned Its Stores Into a Secret E-Commerce Weapon
 - category: circular
   description: New drone footage released by Channel 4 shows renewed activity at a
     25,000 tonne illegal waste site on land owned by King Charles. The post Footage
@@ -140,40 +179,4 @@ articles:
   pub_date: '2026-02-19T10:09:05'
   source: Circular Online
   title: Footage shows more waste being dumped on land owned by King Charles
-- category: circular
-  description: Hertfordshire County Council has approved plans for a new digital system
-    that allows residents to access recycling centres without the need to book in
-    advance. The post Hertfordshire approves new digi...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/hertfordshire-approves-new-digital-pass-system-for-recycling-centres/
-  pub_date: '2026-02-18T11:00:21'
-  source: Circular Online
-  title: Hertfordshire approves new digital pass system for recycling centres
-- category: circular
-  description: The Welsh Government has announced funding for 150 new surveillance
-    cameras to deter fly-tipping. The post Wales announces funding for 150 fly-tipping
-    surveillance cameras appeared first on Circular O...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wales-announces-funding-for-150-fly-tipping-surveillance-cameras/
-  pub_date: '2026-02-18T09:39:12'
-  source: Circular Online
-  title: Wales announces funding for 150 fly-tipping surveillance cameras
-- category: circular
-  description: Recycling rates for aluminium cans reached 76.3% in the EU, UK, Switzerland,
-    Norway, and Iceland in 2023, according to a new report. The post Recycling rates
-    for aluminium cans rise across Europe to 7...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/recycling-rates-for-aluminium-cans-rise-across-europe-to-76-3/
-  pub_date: '2026-02-18T08:30:00'
-  source: Circular Online
-  title: Recycling rates for aluminium cans rise across Europe to 76.3%
-- category: circular
-  description: The sale and supply of wet wipes containing plastic in Scotland will
-    be banned next year, the Scottish Government has announced. The post Wet wipes
-    containing plastic to be banned in Scotland appeared...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wet-wipes-containing-plastic-to-be-banned-in-scotland/
-  pub_date: '2026-02-17T08:30:00'
-  source: Circular Online
-  title: Wet wipes containing plastic to be banned in Scotland
-last_updated: '2026-02-25T07:02:53.332743'
+last_updated: '2026-02-26T07:01:07.108501'
