@@ -1,5 +1,49 @@
 articles:
 - category: ai-research
+  description: By leveraging idle computing time, researchers can double the speed
+    of model training while preserving accuracy.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226
+  pub_date: '2026-02-26T05:00:00'
+  source: MIT AI News
+  title: New method could increase LLM training efficiency
+- category: ai-research
+  description: To help generative AI models create durable, real-world accessories
+    and decor, the PhysiOpt system runs physics simulations and makes subtle tweaks
+    to its 3D blueprints.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225
+  pub_date: '2026-02-25T19:40:00'
+  source: MIT AI News
+  title: Mixing generative AI with physics to create personal items that work in the
+    real world
+- category: ai-research
+  description: Google Search interface featuring AI-powered tools including an "AI
+    Overview" that breaks down an outfit's components and a virtual "Try it on" button
+    that visualizes apparel on diverse body types.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/
+  pub_date: '2026-02-25T18:00:00'
+  source: Google AI Blog
+  title: See the whole picture and find the look with Circle to Search
+- category: ai-research
+  description: A woman in a red turtleneck, camouflage shorts, and black boots poses
+    against a bright red wall, while a smartphone to her right displays a Google search
+    page with image recognition results.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/
+  pub_date: '2026-02-25T18:00:00'
+  source: Google AI Blog
+  title: A more intelligent Android on Samsung Galaxy S26
+- category: ai-research
+  description: By providing holistic information on a cell, an AI-driven method could
+    help scientists better understand disease mechanisms and plan experiments.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225
+  pub_date: '2026-02-25T10:00:00'
+  source: MIT AI News
+  title: AI to help researchers see the bigger picture in cell biology
+- category: ai-research
   description: Strahinja Janjusevic brings an international perspective and US Naval
     Academy education to his graduate research in the MIT Technology and Policy Program.
   icon: fa-graduation-cap
@@ -12,7 +56,7 @@ articles:
     AI has shifted. While it used to be "Should we use AI?", it's now "Where should
     we run it?"
   icon: fa-chart-bar
-  link: https://www.kdnuggets.com/cloud-vs-local-vs-hybrid-for-ai-models-a-practitioners-guide-sponsored
+  link: https://bit.ly/4qK1Cxo
   pub_date: '2026-02-24T23:16:39'
   source: KDnuggets
   title: 'Cloud vs. Local vs. Hybrid for AI Models: A Practitioner’s Guide (Sponsored)'
@@ -191,24 +235,6 @@ articles:
   source: MIT AI News
   title: Accelerating science with AI and simulations
 - category: ai-research
-  description: Driven by overuse and misuse of antibiotics, drug-resistant infections
-    are on the rise, while development of new antibacterial tools has slowed.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/using-synthetic-biology-ai-address-global-antimicrobial-resistance-0211
-  pub_date: '2026-02-11T13:00:00'
-  source: MIT AI News
-  title: Using synthetic biology and AI to address global antimicrobial resistance
-    threat
-- category: ai-research
-  description: Opening a new window on the brainstem, a new tool reliably and finely
-    resolves distinct nerve bundles in live diffusion MRI scans, revealing signs of
-    injury or disease.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-window-on-brainstem-ai-algorithm-enables-tracking-white-matter-pathways-0210
-  pub_date: '2026-02-10T22:00:00'
-  source: MIT AI News
-  title: AI algorithm enables tracking of vital white matter pathways
-- category: ai-research
   description: A collage of outdoor images, a blue icon that say "Ask Photos," and
     examples of Ask Photos prompts.
   icon: fa-google
@@ -217,15 +243,6 @@ articles:
   source: Google AI Blog
   title: 9 fun questions to try asking Google Photos
 - category: ai-research
-  description: MIT Sports Lab researchers are applying AI technologies to help figure
-    skaters improve. They also have thoughts on whether five-rotation jumps are humanly
-    possible.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210
-  pub_date: '2026-02-10T05:00:00'
-  source: MIT AI News
-  title: '3 Questions: Using AI to help Olympic skaters land a quint'
-- category: ai-research
   description: User profile on smartphone connected to security, media, and settings
     icons.
   icon: fa-google
@@ -233,21 +250,4 @@ articles:
   pub_date: '2026-02-10T02:30:00'
   source: Google AI Blog
   title: Helping kids and teens learn and grow online on Safer Internet Day
-- category: ai-research
-  description: A collage of four images, the first of a woman with curly hair in front
-    of a silver laptop, the second of the same woman and a man with short black hair
-    speaking on a stairwell, the third of a the sam...
-  icon: fa-google
-  link: https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/
-  pub_date: '2026-02-05T17:00:00'
-  source: Google AI Blog
-  title: 'Natively Adaptive Interfaces: A new framework for AI accessibility'
-- category: ai-research
-  description: A woman outdoors in the snow looks at a tablet. A half pipe is behind
-    her.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/
-  pub_date: '2026-02-05T16:00:00'
-  source: Google AI Blog
-  title: How Google Cloud is helping Team USA elevate their tricks with AI
-last_updated: '2026-02-25T07:02:55.353605'
+last_updated: '2026-02-26T07:01:09.068532'
