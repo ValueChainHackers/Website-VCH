@@ -1,5 +1,61 @@
 articles:
 - category: ai-research
+  description: Google is partnering with the Massachusetts AI Hub to provide every
+    Baystater with no-cost access to Google's AI training.
+  icon: fa-google
+  link: https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/
+  pub_date: '2026-02-26T18:55:00'
+  source: Google AI Blog
+  title: Google and the Massachusetts AI Hub are launching a new AI training initiative
+    for the Commonwealth.
+- category: ai-research
+  description: New alternatives, "understand" and "ask" buttons in Google Translate
+    help you navigate the complexities of natural language.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/
+  pub_date: '2026-02-26T18:00:00'
+  source: Google AI Blog
+  title: Get more context and understand translations more deeply with new AI-powered
+    updates in Translate.
+- category: machine-learning
+  description: Bad data leads to bad decisions. These Python scripts will help you
+    catch data quality issues before they cause problems.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-for-automated-data-quality-checks
+  pub_date: '2026-02-26T17:00:19'
+  source: KDnuggets
+  title: 5 Useful Python Scripts for Automated Data Quality Checks
+- category: ai-research
+  description: Build with Nano Banana 2
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/
+  pub_date: '2026-02-26T16:00:00'
+  source: Google AI Blog
+  title: Build with Nano Banana 2, our best image generation and editing model
+- category: ai-research
+  description: Nano Banana 2 text with AI generated images around it
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
+  pub_date: '2026-02-26T16:00:00'
+  source: Google AI Blog
+  title: 'Nano Banana 2: Combining Pro capabilities with lightning-fast speed'
+- category: machine-learning
+  description: Data Lake vs Data Warehouse vs Lakehouse vs Data Mesh explained simply.
+    Learn the key differences and which architecture fits your data needs
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/data-lake-vs-data-warehouse-vs-lakehouse-vs-data-mesh-whats-the-difference
+  pub_date: '2026-02-26T15:00:54'
+  source: KDnuggets
+  title: 'Data Lake vs Data Warehouse vs Lakehouse vs Data Mesh: What’s the Difference?'
+- category: machine-learning
+  description: Most people are only using 10% of OpenClaw. These integrations unlock
+    what it is truly capable of.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-openclaw-tools-integrations-you-are-missing-out
+  pub_date: '2026-02-26T13:00:21'
+  source: KDnuggets
+  title: Top 7 OpenClaw Tools & Integrations You Are Missing Out On
+- category: ai-research
   description: By leveraging idle computing time, researchers can double the speed
     of model training while preserving accuracy.
   icon: fa-graduation-cap
@@ -129,31 +185,6 @@ articles:
   source: MIT AI News
   title: Exposing biases, moods, personalities, and abstract concepts hidden in large
     language models
-- category: machine-learning
-  description: Learn how to build MCP servers and clients using FastMCP, which is
-    comprehensive, complete with error handling, best practices, and deployment strategies,
-    making it ideal for both beginners and interm...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/fastmcp-the-pythonic-way-to-build-mcp-servers-and-clients
-  pub_date: '2026-02-19T17:00:31'
-  source: KDnuggets
-  title: 'FastMCP: The Pythonic Way to Build MCP Servers and Clients'
-- category: machine-learning
-  description: ADK from Google addresses a critical gap in the agentic AI ecosystem
-    by providing a framework that simplifies the construction and deployment of multi-agent
-    systems. Learn more.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-production-ready-ai-agents-with-agent-development-kit
-  pub_date: '2026-02-19T15:00:18'
-  source: KDnuggets
-  title: Building Production-Ready AI Agents with Agent Development Kit
-- category: machine-learning
-  description: Want a smaller, faster, more secure agent stack than OpenClaw?
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-lightweight-and-secure-openclaw-alternatives-to-try-right-now
-  pub_date: '2026-02-19T13:00:29'
-  source: KDnuggets
-  title: 5 Lightweight and Secure OpenClaw Alternatives to Try Right Now
 - category: ai-research
   description: By minimizing the need to drive around looking for a parking spot,
     this technique can save drivers up to 35 minutes - and give them a realistic estimate
@@ -203,13 +234,6 @@ articles:
   source: MIT AI News
   title: Personalization features can make LLMs more agreeable
 - category: ai-research
-  description: an illustration of blue and white cubes
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/
-  pub_date: '2026-02-17T22:30:00'
-  source: Google AI Blog
-  title: Our 2026 Responsible AI Progress Report
-- category: ai-research
   description: Project AI Evidence will connect governments, tech companies, and nonprofits
     with world-class economists at MIT and across J-PAL's global network to evaluate
     and improve AI solutions.
@@ -220,13 +244,6 @@ articles:
   title: New J-PAL research and policy initiative to test and scale AI innovations
     to fight poverty
 - category: ai-research
-  description: Gemini 3 Deep Think logo
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
-  pub_date: '2026-02-12T16:13:00'
-  source: Google AI Blog
-  title: 'Gemini 3 Deep Think: Advancing science, research and engineering'
-- category: ai-research
   description: Associate Professor Rafael Gmez-Bombarelli has spent his career applying
     AI to improve scientific discovery. Now he believes we are at an inflection point.
   icon: fa-graduation-cap
@@ -234,20 +251,4 @@ articles:
   pub_date: '2026-02-12T05:00:00'
   source: MIT AI News
   title: Accelerating science with AI and simulations
-- category: ai-research
-  description: A collage of outdoor images, a blue icon that say "Ask Photos," and
-    examples of Ask Photos prompts.
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/
-  pub_date: '2026-02-10T17:00:00'
-  source: Google AI Blog
-  title: 9 fun questions to try asking Google Photos
-- category: ai-research
-  description: User profile on smartphone connected to security, media, and settings
-    icons.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/
-  pub_date: '2026-02-10T02:30:00'
-  source: Google AI Blog
-  title: Helping kids and teens learn and grow online on Safer Internet Day
-last_updated: '2026-02-26T07:01:09.068532'
+last_updated: '2026-02-27T06:55:21.575783'
