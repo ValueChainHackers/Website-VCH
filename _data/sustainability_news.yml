@@ -1,5 +1,37 @@
 articles:
 - category: supply-chain
+  description: DHL coordinated the air transport of eight rescued big cats from Honduras
+    to U.S. sanctuaries in a complex international rescue operation.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-transports-rescued-big-cats-to-us-sanctuaries
+  pub_date: '2026-02-27T14:07:00'
+  source: Supply Chain 24/7
+  title: The Logistics Behind DHL’s Rescue and Relocation of Eight Lions and Tigers
+- category: supply-chain
+  description: Walmart agreed to a $100 million settlement with the FTC and states
+    over claims that it misled Spark delivery drivers about pay and tips.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-spark-driver-settlement-pay-transparency
+  pub_date: '2026-02-27T13:21:00'
+  source: Supply Chain 24/7
+  title: Walmart to Pay Drivers $100 Million in Settlement Over Misleading Pay
+- category: supply-chain
+  description: Extreme weather is now a constant supply chain risk, and e2open's John
+    Lash explains where networks break first and how leaders can prepare.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/extreme-weather-supply-chain-risk-john-lash-e2open
+  pub_date: '2026-02-27T12:52:00'
+  source: Supply Chain 24/7
+  title: Prepare Your Supply Chain Now for the Next Extreme Weather Event
+- category: supply-chain
+  description: A new survey from Sage finds that visibility and supplier gaps are
+    creating sourcing risk as companies head into 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/visibility-supplier-gaps-sourcing-risk-2026
+  pub_date: '2026-02-27T10:15:00'
+  source: Supply Chain 24/7
+  title: Visibility and Supplier Gaps Emerge as Sourcing Risk, Survey Finds
+- category: supply-chain
   description: This legislation was initially introduced into the Senate in 2023,
     with a major impetus for it being due to the February 3, 2023 derailment of a
     Norfolk Southern freight train, transporting hazardous ...
@@ -97,16 +129,6 @@ articles:
   source: Circular Online
   title: Almost a quarter of English councils to miss weekly food waste deadline,
     BBC News reports
-- category: supply-chain
-  description: Discover how TA Services reduced LTL transportation costs by 30% using
-    advanced LTL rating software, freight APIs, and real-time routing intelligence
-    from SMC. Learn how to improve LTL accuracy and pe...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-to-reduce-ltl-shipping-costs-with-accurate-rating-routing-freight-apis
-  pub_date: '2026-02-24T16:52:00'
-  source: Supply Chain 24/7
-  title: How to Reduce LTL Shipping Costs with Accurate Rating, Routing & Freight
-    APIs
 - category: circular
   description: New European Environment Agency briefing reviews over 130 studies and
     assesses potential emissions reductions from circular economy approaches. A European
@@ -127,31 +149,6 @@ articles:
   source: Circular Online
   title: enfinium deploys NASA-used leak detection technology across UK Energy from
     Waste sites
-- category: supply-chain
-  description: Carhartt doubled in size over six years while improving service and
-    lowering supply chain costs through network redesign, tighter forecasting, and
-    robotics.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/carhartt-doubled-business-raised-service-99
-  pub_date: '2026-02-23T13:30:00'
-  source: Supply Chain 24/7
-  title: How Carhartt Doubled Its Scale and Cut Supply Chain Costs 7%
-- category: supply-chain
-  description: MHI has announced the 2026 Innovation Award finalists, with winners
-    to be revealed at MODEX in April.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/mhi-2026-innovation-award-finalists-modex
-  pub_date: '2026-02-23T13:09:00'
-  source: Supply Chain 24/7
-  title: MHI Names 2026 Innovation Award Finalists Ahead of MODEX
-- category: supply-chain
-  description: Aurora tripled its driverless truck network to 10 routes and added
-    a 1,000-mile Texas to Arizona lane as it scales autonomous freight.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/aurora-triples-driverless-truck-routes-across-texas
-  pub_date: '2026-02-23T13:08:00'
-  source: Supply Chain 24/7
-  title: Aurora Triples Driverless Truck Routes Across Texas
 - category: circular
   description: New Regulatory Requirements set out how drinks producers must apply
     the Deposit Return Scheme (DRS) logo to in-scope containers across England, Scotland
@@ -180,4 +177,4 @@ articles:
   pub_date: '2026-02-20T09:51:34'
   source: Circular Online
   title: Prolific offender must repay £1.4m after dumping 4,275 tonnes of waste
-last_updated: '2026-02-27T06:55:19.293613'
+last_updated: '2026-02-28T06:39:34.940796'
