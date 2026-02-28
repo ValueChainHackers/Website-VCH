@@ -1,5 +1,37 @@
 articles:
 - category: ai-research
+  description: Lincoln Laboratory intern Ivy Mahncke developed and tested algorithms
+    to help human divers and robots navigate underwater.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/featured-video-coding-underwater-robotics-0227
+  pub_date: '2026-02-27T22:15:00'
+  source: MIT AI News
+  title: 'Featured video: Coding for underwater robotics'
+- category: machine-learning
+  description: This article explores five infrastructure patterns that make Docker
+    a powerful foundation for building robust, autonomous AI applications.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/docker-ai-for-agent-builders-models-tools-and-cloud-offload
+  pub_date: '2026-02-27T17:00:06'
+  source: KDnuggets
+  title: 'Docker AI for Agent Builders: Models, Tools, and Cloud Offload'
+- category: machine-learning
+  description: Redefining data storytelling through interactive narratives, immersive
+    environments, and alternative sensory techniques
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-future-of-data-storytelling-formats-beyond-dashboards
+  pub_date: '2026-02-27T15:00:19'
+  source: KDnuggets
+  title: 'The Future of Data Storytelling Formats: Beyond Dashboards'
+- category: machine-learning
+  description: OpenClaw is incredibly powerful, but if you install it without understanding
+    these five things, you could expose far more than you expect.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw
+  pub_date: '2026-02-27T13:00:46'
+  source: KDnuggets
+  title: 5 Things You Need to Know Before Using OpenClaw
+- category: ai-research
   description: Google is partnering with the Massachusetts AI Hub to provide every
     Baystater with no-cost access to Google's AI training.
   icon: fa-google
@@ -142,31 +174,6 @@ articles:
   pub_date: '2026-02-23T15:00:47'
   source: KDnuggets
   title: The MCP Revolution and the Search for Stable AI Use Cases
-- category: machine-learning
-  description: Build robust AI agents with design patterns for ReAct loops, multi-agent
-    workflows, and state management essential for moving from prototype to reliable
-    production.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-essential-design-patterns-for-building-robust-agentic-ai-systems
-  pub_date: '2026-02-23T13:00:41'
-  source: KDnuggets
-  title: 5 Essential Design Patterns for Building Robust Agentic AI Systems
-- category: machine-learning
-  description: This is the ultimate guide to uploading, downloading, and saving files
-    in Colab.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/all-about-google-colab-file-management
-  pub_date: '2026-02-20T15:00:18'
-  source: KDnuggets
-  title: All About Google Colab File Management
-- category: machine-learning
-  description: 7 Python tricks that may help make the most of the standalone XGBoost
-    library, particularly in terms of seeking more accurate predictive models.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-xgboost-tricks-for-more-accurate-predictive-models
-  pub_date: '2026-02-20T13:00:37'
-  source: KDnuggets
-  title: 7 XGBoost Tricks for More Accurate Predictive Models
 - category: ai-research
   description: Research from the MIT Center for Constructive Communication finds leading
     AI models perform worse for users with lower English proficiency, less formal
@@ -243,12 +250,4 @@ articles:
   source: MIT AI News
   title: New J-PAL research and policy initiative to test and scale AI innovations
     to fight poverty
-- category: ai-research
-  description: Associate Professor Rafael Gmez-Bombarelli has spent his career applying
-    AI to improve scientific discovery. Now he believes we are at an inflection point.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/accelerating-science-ai-and-simulations-rafael-gomez-bombarelli-0212
-  pub_date: '2026-02-12T05:00:00'
-  source: MIT AI News
-  title: Accelerating science with AI and simulations
-last_updated: '2026-02-27T06:55:21.575783'
+last_updated: '2026-02-28T06:39:37.231852'
