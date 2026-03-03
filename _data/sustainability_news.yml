@@ -1,5 +1,55 @@
 articles:
 - category: supply-chain
+  description: IFS has completed its acquisition of Softeon to connect industrial
+    AI software with warehouse management systems under a single platform.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ifs-completes-softeon-acquisition-warehouse-software
+  pub_date: '2026-03-02T15:11:00'
+  source: Supply Chain 24/7
+  title: IFS Completes Acquisition of Softeon, Expanding Warehouse Push
+- category: supply-chain
+  description: More than half of drivers say fleet technology affects retention decisions,
+    according to Platform Science's Driver Experience Report 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/drivers-say-fleet-tech-impacts-retention
+  pub_date: '2026-03-02T14:10:00'
+  source: Supply Chain 24/7
+  title: 52% of Drivers Say Technology Influences Whether They Stay at Job
+- category: supply-chain
+  description: Apple is expanding its Houston factory to produce the Mac mini in the
+    U.S. and grow AI server manufacturing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/apple-expands-houston-factory-mac-mini-production
+  pub_date: '2026-03-02T14:07:00'
+  source: Supply Chain 24/7
+  title: Apple Taps Houston for U.S. Production of Mac Mini Computer
+- category: supply-chain
+  description: A new study finds 77% of warehouses say their systems are too rigid
+    to handle disruptions, leading to double-digit cost increases.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-systems-too-rigid-for-disruption-study
+  pub_date: '2026-03-02T14:02:00'
+  source: Supply Chain 24/7
+  title: 'Study: 77% Say Warehouse Systems Are Too Rigid to Handle Disruptions'
+- category: supply-chain
+  description: A WMS delivers ROI not just through labor savings, but by improving
+    accuracy, enabling growth, and reducing hidden operational costs across the supply
+    chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/real-wms-roi-beyond-labor-savings
+  pub_date: '2026-03-02T14:00:00'
+  source: Supply Chain 24/7
+  title: The Real ROI of Modern Warehouse Management
+- category: circular
+  description: The Environment Agency has secured a court order prohibiting anyone
+    from importing waste to the site, known as The Old Cricket Ground, in Bickershaw.
+    The post Site closed amid investigation into illeg...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/site-closed-amid-investigation-into-illegal-waste-activity-on-kings-estate/
+  pub_date: '2026-03-02T10:54:03'
+  source: Circular Online
+  title: Site closed amid investigation into illegal waste activity on King’s estate
+- category: supply-chain
   description: DHL coordinated the air transport of eight rescued big cats from Honduras
     to U.S. sanctuaries in a complex international rescue operation.
   icon: fa-box
@@ -40,30 +90,6 @@ articles:
   pub_date: '2026-02-26T14:54:00'
   source: Supply Chain 24/7
   title: Railway Safety Act of 2026 is reintroduced by Bipartisan Senate group
-- category: supply-chain
-  description: AI is now expected in manufacturing, but sourcing complexity and global
-    volatility are reshaping supply chain strategy in 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/2026-state-of-manufacturing-ai-supply-chain-report
-  pub_date: '2026-02-26T14:51:00'
-  source: Supply Chain 24/7
-  title: 'Study: 95% of Leaders Say AI Is Now Essential in Manufacturing'
-- category: supply-chain
-  description: AI is helping warehouse managers adjust plans in real time when daily
-    disruptions threaten to derail fulfillment operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-intraday-planning-warehouse-operations
-  pub_date: '2026-02-26T13:00:00'
-  source: Supply Chain 24/7
-  title: Five Ways AI Is Improving Daily Warehouse Operations
-- category: supply-chain
-  description: FedEx has filed a lawsuit against the U.S. government seeking a full
-    refund of tariffs it paid after the Supreme Court ruled those trade taxes unlawful.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-sues-government-tariff-refund-after-supreme-court-ruling
-  pub_date: '2026-02-26T12:59:00'
-  source: Supply Chain 24/7
-  title: FedEx Sues U.S. Government For Tariff Refund After Supreme Court Ruling
 - category: circular
   description: Two individuals have been arrested in Penzance, Cornwall, as part of
     a joint investigation by the Environment Agency and Devon and Cornwall Police
@@ -73,15 +99,6 @@ articles:
   pub_date: '2026-02-26T09:15:08'
   source: Circular Online
   title: Arrests made in multi-million pound waste fraud case
-- category: supply-chain
-  description: Following last week's decision by the United States Supreme Court,
-    which ruled against the legality of President Trump's implementation of global
-    reciprocal tariffs under the International Emergency E...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/shippers-prep-for-ongoing-volatility-amid-new-section-122-tariff
-  pub_date: '2026-02-25T17:33:00'
-  source: Supply Chain 24/7
-  title: Shippers prep for ongoing volatility amid new Section 122 tariff
 - category: circular
   description: New whole-of-government plan aims to raise Ireland's circular material
     use rate to 12% by 2030 and reduce reliance on virgin resources through sector-wide
@@ -91,15 +108,6 @@ articles:
   pub_date: '2026-02-25T14:48:13'
   source: Circular Online
   title: Ireland unveils Circular Economy Strategy 2026–2028
-- category: supply-chain
-  description: More than half of supply chain leaders say agentic AI could reduce
-    entry-level hiring, but most agree companies must rethink how they train and develop
-    talent.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/agentic-ai-supply-chain-hiring-gartner-survey
-  pub_date: '2026-02-25T14:01:00'
-  source: Supply Chain 24/7
-  title: 'Gartner: 55% of Leaders Say Agentic AI Will Cut Entry-Level Jobs'
 - category: circular
   description: New Defra statistics show councils in England dealt with 1.26 million
     fly-tipping incidents in 2024/25, up from 1.15 million the previous year... The
@@ -168,13 +176,4 @@ articles:
   pub_date: '2026-02-20T12:25:10'
   source: Circular Online
   title: Environment Agency confirms 50% increase to its enforcement budget
-- category: circular
-  description: A company boss has been handed a suspended prison sentence and must
-    repay GBP1.4 million after illegally dumping 4,275 tonnes of waste across England.
-    The post Prolific offender must repay GBP1.4m aft...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/prolific-offender-must-repay-1-4m-after-dumping-4275-tonnes-of-waste/
-  pub_date: '2026-02-20T09:51:34'
-  source: Circular Online
-  title: Prolific offender must repay £1.4m after dumping 4,275 tonnes of waste
-last_updated: '2026-03-02T06:59:05.306214'
+last_updated: '2026-03-03T06:53:35.358241'
