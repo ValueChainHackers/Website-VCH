@@ -1,4 +1,30 @@
 articles:
+- category: machine-learning
+  description: Artificial intelligence is currently occupying the same mental space
+    that "the cloud" did fifteen years ago, or the internet itself did twenty-five
+    years ago.
+  icon: fa-chart-bar
+  link: https://bit.ly/4rRtvVu
+  pub_date: '2026-03-03T02:14:58'
+  source: KDnuggets
+  title: 'The SMB Owner’s Guide to AI ROI: Measuring Time Saved, Revenue Gained, and
+    Risk Added (Sponsored)'
+- category: machine-learning
+  description: Build faster Python applications by mastering async programming and
+    learning how to handle I/O bound workloads efficiently with real world examples.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-python-async-programming
+  pub_date: '2026-03-02T17:00:56'
+  source: KDnuggets
+  title: Getting Started with Python Async Programming
+- category: machine-learning
+  description: Great LLMs need great data. Discover the pipelines, tools, and RAG
+    architecture shaping the future of AI-ready data engineering
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/data-engineering-for-the-llm-age
+  pub_date: '2026-03-02T15:00:37'
+  source: KDnuggets
+  title: Data Engineering for the LLM Age
 - category: ai-research
   description: Lincoln Laboratory intern Ivy Mahncke developed and tested algorithms
     to help human divers and robots navigate underwater.
@@ -148,32 +174,6 @@ articles:
   pub_date: '2026-02-24T23:16:39'
   source: KDnuggets
   title: 'Cloud vs. Local vs. Hybrid for AI Models: A Practitioner’s Guide (Sponsored)'
-- category: machine-learning
-  description: Leverage NotebookLM's features to turn raw, sometimes chaotic information
-    into a grounded PRD in a matter of minutes.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/grounded-prd-generation-with-notebooklm
-  pub_date: '2026-02-24T16:00:27'
-  source: KDnuggets
-  title: Grounded PRD Generation with NotebookLM
-- category: machine-learning
-  description: These five libraries approach validation from very different angles,
-    which is exactly why they matter. Each one solves a specific class of problems
-    that appear again and again in modern data and machi...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-python-data-validation-libraries-you-should-be-using
-  pub_date: '2026-02-24T14:29:57'
-  source: KDnuggets
-  title: 5 Python Data Validation Libraries You Should Be Using
-- category: machine-learning
-  description: A conversation with AI researcher Sebastian Wallktter reveals insights
-    on standardization, security challenges, and the fundamental question facing enterprise
-    artificial intelligence adoption.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-mcp-revolution-and-the-search-for-stable-ai-use-cases
-  pub_date: '2026-02-23T15:00:47'
-  source: KDnuggets
-  title: The MCP Revolution and the Search for Stable AI Use Cases
 - category: ai-research
   description: Research from the MIT Center for Constructive Communication finds leading
     AI models perform worse for users with lower English proficiency, less formal
@@ -250,4 +250,4 @@ articles:
   source: MIT AI News
   title: New J-PAL research and policy initiative to test and scale AI innovations
     to fight poverty
-last_updated: '2026-03-02T06:59:07.837105'
+last_updated: '2026-03-03T06:53:37.424178'
