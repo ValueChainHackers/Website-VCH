@@ -1,5 +1,91 @@
 articles:
 - category: supply-chain
+  description: Two weeks after the tariff ruling, supply chain leaders say uncertainty
+    still outweighs any immediate cost relief.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tariff-roundtable-industry-leaders-reaction
+  pub_date: '2026-03-03T15:55:00'
+  source: Supply Chain 24/7
+  title: 'Tariff Roundtable: What Happens Next for Supply Chains'
+- category: supply-chain
+  description: As automation spreads across warehouses, employers are paying more
+    for leaders and workers who can manage technology and data.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-automation-driving-higher-pay
+  pub_date: '2026-03-03T14:54:00'
+  source: Supply Chain 24/7
+  title: The Skills Warehouse Companies Are Paying For Right Now
+- category: circular
+  description: News updates written by CIWM's commercial partners. Greyparrot Greyparrot
+    brings waste intelligence to beauty sector to encourage recoverable cosmetics
+    streams Bucher Municipal How Intelligent Street ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-03-march/
+  pub_date: '2026-03-03T14:44:51'
+  source: Circular Online
+  title: News in brief | CIWM Commercial Partner Updates 03 March
+- category: supply-chain
+  description: Target's same-day delivery grew more than 30% in Q4 as the retailer
+    leaned on stores for fulfillment and saw some easing in supply chain costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/target-same-day-delivery-growth-q4-2025
+  pub_date: '2026-03-03T14:33:00'
+  source: Supply Chain 24/7
+  title: Target’s Same-Day Delivery Jumps 30% in Fourth Quarter
+- category: supply-chain
+  description: A food delivery robot in East Hollywood became tangled in a homeowner's
+    fence, uprooted plants, and dragged the fencing down the street before stopping.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/food-delivery-robot-causes-mayhem-los-angeles-neighborhood
+  pub_date: '2026-03-03T14:11:00'
+  source: Supply Chain 24/7
+  title: Runaway Food Delivery Robot Causes Mayhem in L.A. Neighborhood
+- category: supply-chain
+  description: Cisco's latest report shows industrial AI is now active in live operations,
+    but network and security gaps are limiting how fast companies can scale.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cisco-industrial-ai-live-operations-report
+  pub_date: '2026-03-03T11:58:00'
+  source: Supply Chain 24/7
+  title: 'Report: 61% of Industrial Firms Now Using AI in Production'
+- category: circular
+  description: The project will reuse construction waste to build new homes in the
+    Royal Docks and aims to divert at least 950 tonnes of materials from landfill
+    over five years. The UK's first Circular Construction ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uks-first-circular-construction-hub-to-launch-in-royal-docks/
+  pub_date: '2026-03-03T10:33:50'
+  source: Circular Online
+  title: ‘UK’s first’ circular construction hub to launch in Royal Docks
+- category: circular
+  description: The Environment Agency have confirmed a clearance work on a high-profile
+    illegal waste site in Kidlington will now begin in April after heavy rainfall.
+    The post Kidlington waste site clearance delayed...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/kidlington-waste-site-clearance-delayed-until-april-after-heavy-rainfall/
+  pub_date: '2026-03-03T08:55:31'
+  source: Circular Online
+  title: Kidlington waste site clearance delayed until April after heavy rainfall
+- category: circular
+  description: Circular sectors generated GBP37.33 in Gross Value Added per hour in
+    2021, nearly GBP5 more per hour than the Scottish average, according to research
+    by Zero Waste Scotland. The post Circular jobs gen...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/circular-jobs-generate-5-more-value-per-hour-than-scottish-average/
+  pub_date: '2026-03-03T08:30:00'
+  source: Circular Online
+  title: Circular jobs generate £5 more value per hour than Scottish average
+- category: supply-chain
+  description: Learn how Softeon's warehouse execution and orchestration platform
+    is featured in Gartner's Innovation Insight on multiagent orchestration platforms
+    - enabling coordination across robotics, automation...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/softeon-highlighted-in-gartners-innovation-insight-report-on-multiagent-orchestration-for-warehouse-automation
+  pub_date: '2026-03-02T20:08:00'
+  source: Supply Chain 24/7
+  title: Softeon Highlighted in Gartner’s Innovation Insight Report on Multiagent
+    Orchestration for Warehouse Automation
+- category: supply-chain
   description: IFS has completed its acquisition of Softeon to connect industrial
     AI software with warehouse management systems under a single platform.
   icon: fa-box
@@ -31,15 +117,6 @@ articles:
   pub_date: '2026-03-02T14:02:00'
   source: Supply Chain 24/7
   title: 'Study: 77% Say Warehouse Systems Are Too Rigid to Handle Disruptions'
-- category: supply-chain
-  description: A WMS delivers ROI not just through labor savings, but by improving
-    accuracy, enabling growth, and reducing hidden operational costs across the supply
-    chain.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/real-wms-roi-beyond-labor-savings
-  pub_date: '2026-03-02T14:00:00'
-  source: Supply Chain 24/7
-  title: The Real ROI of Modern Warehouse Management
 - category: circular
   description: The Environment Agency has secured a court order prohibiting anyone
     from importing waste to the site, known as The Old Cricket Ground, in Bickershaw.
@@ -49,47 +126,6 @@ articles:
   pub_date: '2026-03-02T10:54:03'
   source: Circular Online
   title: Site closed amid investigation into illegal waste activity on King’s estate
-- category: supply-chain
-  description: DHL coordinated the air transport of eight rescued big cats from Honduras
-    to U.S. sanctuaries in a complex international rescue operation.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-transports-rescued-big-cats-to-us-sanctuaries
-  pub_date: '2026-02-27T14:07:00'
-  source: Supply Chain 24/7
-  title: The Logistics Behind DHL’s Rescue and Relocation of Eight Lions and Tigers
-- category: supply-chain
-  description: Walmart agreed to a $100 million settlement with the FTC and states
-    over claims that it misled Spark delivery drivers about pay and tips.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-spark-driver-settlement-pay-transparency
-  pub_date: '2026-02-27T13:21:00'
-  source: Supply Chain 24/7
-  title: Walmart to Pay Drivers $100 Million in Settlement Over Misleading Pay
-- category: supply-chain
-  description: Extreme weather is now a constant supply chain risk, and e2open's John
-    Lash explains where networks break first and how leaders can prepare.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/extreme-weather-supply-chain-risk-john-lash-e2open
-  pub_date: '2026-02-27T12:52:00'
-  source: Supply Chain 24/7
-  title: Prepare Your Supply Chain Now for the Next Extreme Weather Event
-- category: supply-chain
-  description: A new survey from Sage finds that visibility and supplier gaps are
-    creating sourcing risk as companies head into 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/visibility-supplier-gaps-sourcing-risk-2026
-  pub_date: '2026-02-27T10:15:00'
-  source: Supply Chain 24/7
-  title: Visibility and Supplier Gaps Emerge as Sourcing Risk, Survey Finds
-- category: supply-chain
-  description: This legislation was initially introduced into the Senate in 2023,
-    with a major impetus for it being due to the February 3, 2023 derailment of a
-    Norfolk Southern freight train, transporting hazardous ...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/railway-safety-act-of-2026-is-reintroduced-by-bipartisan-senate-group
-  pub_date: '2026-02-26T14:54:00'
-  source: Supply Chain 24/7
-  title: Railway Safety Act of 2026 is reintroduced by Bipartisan Senate group
 - category: circular
   description: Two individuals have been arrested in Penzance, Cornwall, as part of
     a joint investigation by the Environment Agency and Devon and Cornwall Police
@@ -137,43 +173,4 @@ articles:
   source: Circular Online
   title: Almost a quarter of English councils to miss weekly food waste deadline,
     BBC News reports
-- category: circular
-  description: New European Environment Agency briefing reviews over 130 studies and
-    assesses potential emissions reductions from circular economy approaches. A European
-    Environment Agency (EEA) briefing published t...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/eu-report-outlines-wide-range-of-greenhouse-gas-savings-from-circular-economy-actions/
-  pub_date: '2026-02-24T09:26:18'
-  source: Circular Online
-  title: EU report outlines wide range of greenhouse-gas savings from circular economy
-    actions
-- category: circular
-  description: enfinium has rolled out ultrasonic leak detection sensors, also used
-    on the International Space Station. The post enfinium deploys NASA-used leak detection
-    technology across UK Energy from Waste sites...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/enfinium-deploys-nasa-used-leak-detection-technology-across-uk-energy-from-waste-sites/
-  pub_date: '2026-02-24T09:07:23'
-  source: Circular Online
-  title: enfinium deploys NASA-used leak detection technology across UK Energy from
-    Waste sites
-- category: circular
-  description: New Regulatory Requirements set out how drinks producers must apply
-    the Deposit Return Scheme (DRS) logo to in-scope containers across England, Scotland
-    and Northern Ireland from 1 October 2027. The p...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/exchange-for-change-publishes-mandatory-drs-logo-requirements-ahead-of-2027-launch/
-  pub_date: '2026-02-23T11:37:33'
-  source: Circular Online
-  title: Exchange for Change publishes mandatory DRS logo requirements ahead of 2027
-    launch
-- category: circular
-  description: The Environment Agency has confirmed its enforcement budget has risen
-    to GBP15.6 million, a 50% increase, and announced a suite of new measures to tackle
-    waste crime. The post Environment Agency confi...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-agency-confirms-50-increase-to-its-enforcement-budget/
-  pub_date: '2026-02-20T12:25:10'
-  source: Circular Online
-  title: Environment Agency confirms 50% increase to its enforcement budget
-last_updated: '2026-03-03T06:53:35.358241'
+last_updated: '2026-03-04T06:49:53.699492'

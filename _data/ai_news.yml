@@ -1,4 +1,54 @@
 articles:
+- category: ai-research
+  description: The approach could help engineers tackle extremely complex design problems,
+    from power grid optimization to vehicle design.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304
+  pub_date: '2026-03-04T05:00:00'
+  source: MIT AI News
+  title: A “ChatGPT for spreadsheets” helps solve difficult engineering challenges
+    faster
+- category: ai-research
+  description: A screen capture of Project Genie, an experimental interface showing
+    a grid of circular images, many of which appear to be 360-degree views, with a
+    large, central black globe labeled Create your own
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/
+  pub_date: '2026-03-03T17:00:00'
+  source: Google AI Blog
+  title: Create new worlds in Project Genie with these 4 tips
+- category: machine-learning
+  description: Skills are what make OpenClaw more than a local assistant, and these
+    are the most popular ones worth installing today.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-essential-openclaw-skills-you-need-right-now
+  pub_date: '2026-03-03T17:00:00'
+  source: KDnuggets
+  title: 7 Essential OpenClaw Skills You Need Right Now
+- category: ai-research
+  description: Gemini 3.1 Flash Lite logo
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/
+  pub_date: '2026-03-03T16:34:00'
+  source: Google AI Blog
+  title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
+- category: machine-learning
+  description: This article guide you through an example use case to turn a PRD into
+    a functioning software prototype using Google Antigravity.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/from-prd-to-functioning-software-with-google-antigravity
+  pub_date: '2026-03-03T15:00:25'
+  source: KDnuggets
+  title: From PRD to Functioning Software with Google Antigravity
+- category: machine-learning
+  description: An AI agent combines a large language model for reasoning, access to
+    tools or APIs for action, memory to retain context and a control loop to decide
+    what happens next.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-agentic-ai-concepts-explained-in-under-10-minutes
+  pub_date: '2026-03-03T13:00:30'
+  source: KDnuggets
+  title: 10 Agentic AI Concepts Explained in Under 10 Minutes
 - category: machine-learning
   description: Artificial intelligence is currently occupying the same mental space
     that "the cloud" did fifteen years ago, or the internet itself did twenty-five
@@ -97,22 +147,6 @@ articles:
   pub_date: '2026-02-26T16:00:00'
   source: Google AI Blog
   title: 'Nano Banana 2: Combining Pro capabilities with lightning-fast speed'
-- category: machine-learning
-  description: Data Lake vs Data Warehouse vs Lakehouse vs Data Mesh explained simply.
-    Learn the key differences and which architecture fits your data needs
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/data-lake-vs-data-warehouse-vs-lakehouse-vs-data-mesh-whats-the-difference
-  pub_date: '2026-02-26T15:00:54'
-  source: KDnuggets
-  title: 'Data Lake vs Data Warehouse vs Lakehouse vs Data Mesh: What’s the Difference?'
-- category: machine-learning
-  description: Most people are only using 10% of OpenClaw. These integrations unlock
-    what it is truly capable of.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-openclaw-tools-integrations-you-are-missing-out
-  pub_date: '2026-02-26T13:00:21'
-  source: KDnuggets
-  title: Top 7 OpenClaw Tools & Integrations You Are Missing Out On
 - category: ai-research
   description: By leveraging idle computing time, researchers can double the speed
     of model training while preserving accuracy.
@@ -165,15 +199,6 @@ articles:
   pub_date: '2026-02-25T05:00:00'
   source: MIT AI News
   title: Enhancing maritime cybersecurity with technology and policy
-- category: machine-learning
-  description: For most small- and medium-sized business leaders, the question about
-    AI has shifted. While it used to be "Should we use AI?", it's now "Where should
-    we run it?"
-  icon: fa-chart-bar
-  link: https://bit.ly/4qK1Cxo
-  pub_date: '2026-02-24T23:16:39'
-  source: KDnuggets
-  title: 'Cloud vs. Local vs. Hybrid for AI Models: A Practitioner’s Guide (Sponsored)'
 - category: ai-research
   description: Research from the MIT Center for Constructive Communication finds leading
     AI models perform worse for users with lower English proficiency, less formal
@@ -219,20 +244,6 @@ articles:
   source: Google AI Blog
   title: AI Impact Summit 2026
 - category: ai-research
-  description: Image showing sample tracks created with Lyria 3
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/
-  pub_date: '2026-02-18T16:00:00'
-  source: Google AI Blog
-  title: 'A new way to express yourself: Gemini can now create music'
-- category: ai-research
-  description: four people seated on a conference stage
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/
-  pub_date: '2026-02-18T10:30:00'
-  source: Google AI Blog
-  title: 'AI Impact Summit 2026: How we’re partnering to make AI work for everyone'
-- category: ai-research
   description: The context of long-term conversations can cause an LLM to begin mirroring
     the user's viewpoints, possibly reducing accuracy or creating a virtual echo-chamber.
   icon: fa-graduation-cap
@@ -240,14 +251,4 @@ articles:
   pub_date: '2026-02-18T05:00:00'
   source: MIT AI News
   title: Personalization features can make LLMs more agreeable
-- category: ai-research
-  description: Project AI Evidence will connect governments, tech companies, and nonprofits
-    with world-class economists at MIT and across J-PAL's global network to evaluate
-    and improve AI solutions.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-j-pal-research-policy-initiative-to-test-scale-ai-innovations-fight-poverty-0212
-  pub_date: '2026-02-12T23:50:00'
-  source: MIT AI News
-  title: New J-PAL research and policy initiative to test and scale AI innovations
-    to fight poverty
-last_updated: '2026-03-03T06:53:37.424178'
+last_updated: '2026-03-04T06:49:55.762406'
