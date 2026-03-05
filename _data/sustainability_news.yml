@@ -1,5 +1,65 @@
 articles:
 - category: supply-chain
+  description: High return rates are reshaping warehouse operations. Learn how reverse
+    logistics affects inventory accuracy, visibility, and operational confidence -
+    and why managing returns correctly is critical to...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-returns-impact-inventory-accuracy-and-warehouse-confidence
+  pub_date: '2026-03-04T19:02:00'
+  source: Supply Chain 24/7
+  title: How Returns Impact Inventory Accuracy and Warehouse Confidence
+- category: supply-chain
+  description: Fordham professor Sarah Jinhui Wu explains how rising tensions with
+    Iran could disrupt shipping routes, energy markets and global supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-the-iran-conflict-could-affect-energy-freight-and-supply-chains
+  pub_date: '2026-03-04T16:33:00'
+  source: Supply Chain 24/7
+  title: How the Iran Conflict Could Affect Energy, Freight and Supply Chains
+- category: supply-chain
+  description: Gartner analysis says supply chains in their current form may struggle
+    within two years due to AI, geopolitical risks and changing customer expectations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-supply-chains-may-struggle-two-years
+  pub_date: '2026-03-04T14:34:00'
+  source: Supply Chain 24/7
+  title: Why Your Supply Chain Could Be Outdated in Two Years
+- category: supply-chain
+  description: PwC's latest outlook says the share of highly automated processes in
+    manufacturing will rise from 18% today to 50% by 2030.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-automation-18-to-50-percent-2030
+  pub_date: '2026-03-04T12:51:00'
+  source: Supply Chain 24/7
+  title: Manufacturers Expect Automation to Jump From 18% to 50% by 2030
+- category: supply-chain
+  description: The Hackett Group's latest study shows procurement workloads rising
+    while headcount and budgets decline, pushing leaders to rely on AI to close the
+    gap.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-workloads-rise-8-percent-2026-ai
+  pub_date: '2026-03-04T12:46:00'
+  source: Supply Chain 24/7
+  title: Procurement Workloads Rise 8% as Staffing Decreases
+- category: circular
+  description: Councils in England have been given powers to issue on-the-spot fines
+    of up to GBP500 for littering, as part of legally-binding government guidance.
+    The post Councils given powers to issue GBP500 on-t...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/councils-given-powers-to-issue-500-on-the-spot-fines-for-littering/
+  pub_date: '2026-03-04T09:01:29'
+  source: Circular Online
+  title: Councils given powers to issue £500 on-the-spot fines for littering
+- category: circular
+  description: British Glass has called for Wales's Deposit Return Scheme to be paused,
+    warning the inclusion of glass in the policy could create 'substantial cost burdens'.
+    The post Glass industry calls for Welsh D...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/glass-industry-calls-for-welsh-drs-pause/
+  pub_date: '2026-03-04T08:06:23'
+  source: Circular Online
+  title: Glass industry calls for Welsh DRS ‘pause’
+- category: supply-chain
   description: Two weeks after the tariff ruling, supply chain leaders say uncertainty
     still outweighs any immediate cost relief.
   icon: fa-box
@@ -75,48 +135,6 @@ articles:
   pub_date: '2026-03-03T08:30:00'
   source: Circular Online
   title: Circular jobs generate £5 more value per hour than Scottish average
-- category: supply-chain
-  description: Learn how Softeon's warehouse execution and orchestration platform
-    is featured in Gartner's Innovation Insight on multiagent orchestration platforms
-    - enabling coordination across robotics, automation...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/softeon-highlighted-in-gartners-innovation-insight-report-on-multiagent-orchestration-for-warehouse-automation
-  pub_date: '2026-03-02T20:08:00'
-  source: Supply Chain 24/7
-  title: Softeon Highlighted in Gartner’s Innovation Insight Report on Multiagent
-    Orchestration for Warehouse Automation
-- category: supply-chain
-  description: IFS has completed its acquisition of Softeon to connect industrial
-    AI software with warehouse management systems under a single platform.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ifs-completes-softeon-acquisition-warehouse-software
-  pub_date: '2026-03-02T15:11:00'
-  source: Supply Chain 24/7
-  title: IFS Completes Acquisition of Softeon, Expanding Warehouse Push
-- category: supply-chain
-  description: More than half of drivers say fleet technology affects retention decisions,
-    according to Platform Science's Driver Experience Report 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/drivers-say-fleet-tech-impacts-retention
-  pub_date: '2026-03-02T14:10:00'
-  source: Supply Chain 24/7
-  title: 52% of Drivers Say Technology Influences Whether They Stay at Job
-- category: supply-chain
-  description: Apple is expanding its Houston factory to produce the Mac mini in the
-    U.S. and grow AI server manufacturing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/apple-expands-houston-factory-mac-mini-production
-  pub_date: '2026-03-02T14:07:00'
-  source: Supply Chain 24/7
-  title: Apple Taps Houston for U.S. Production of Mac Mini Computer
-- category: supply-chain
-  description: A new study finds 77% of warehouses say their systems are too rigid
-    to handle disruptions, leading to double-digit cost increases.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-systems-too-rigid-for-disruption-study
-  pub_date: '2026-03-02T14:02:00'
-  source: Supply Chain 24/7
-  title: 'Study: 77% Say Warehouse Systems Are Too Rigid to Handle Disruptions'
 - category: circular
   description: The Environment Agency has secured a court order prohibiting anyone
     from importing waste to the site, known as The Old Cricket Ground, in Bickershaw.
@@ -125,7 +143,7 @@ articles:
   link: https://www.circularonline.co.uk/news/site-closed-amid-investigation-into-illegal-waste-activity-on-kings-estate/
   pub_date: '2026-03-02T10:54:03'
   source: Circular Online
-  title: Site closed amid investigation into illegal waste activity on King’s estate
+  title: Site closed amid investigation into illegal waste activity on King’s land
 - category: circular
   description: Two individuals have been arrested in Penzance, Cornwall, as part of
     a joint investigation by the Environment Agency and Devon and Cornwall Police
@@ -153,24 +171,4 @@ articles:
   pub_date: '2026-02-25T10:04:35'
   source: Circular Online
   title: Fly-tipping in England increases 9% in a year
-- category: circular
-  description: Researchers at the University of Edinburgh have demonstrated a microbial
-    process that uses waste bread to generate hydrogen for industrial hydrogenation,
-    potentially reducing reliance on fossil fuels ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-bread-used-to-replace-fossil-fuel-hydrogen-in-carbon-negative-chemical-manufacturing-breakthrough/
-  pub_date: '2026-02-25T09:26:16'
-  source: Circular Online
-  title: Waste bread used to replace fossil fuel hydrogen in carbon-negative chemical
-    manufacturing breakthrough
-- category: circular
-  description: Almost a quarter of English councils will not meet the government's
-    deadline for weekly food waste collections, according to a BBC investigation.
-    The post Almost a quarter of English councils to miss ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/almost-a-quarter-of-english-councils-to-miss-weekly-food-waste-deadline-bbc-news-reports/
-  pub_date: '2026-02-25T09:18:52'
-  source: Circular Online
-  title: Almost a quarter of English councils to miss weekly food waste deadline,
-    BBC News reports
-last_updated: '2026-03-04T06:49:53.699492'
+last_updated: '2026-03-05T06:53:51.944189'

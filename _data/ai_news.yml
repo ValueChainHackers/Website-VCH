@@ -1,5 +1,32 @@
 articles:
 - category: ai-research
+  description: Canvas in AI Mode is now available for everyone in the U.S. Plus, it
+    can now help you draft documents or build interactive tools.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/
+  pub_date: '2026-03-04T17:00:00'
+  source: Google AI Blog
+  title: Use Canvas in AI Mode to get things done and bring your ideas to life, right
+    in Search.
+- category: machine-learning
+  description: This article introduces and explores Kedro's main features, guiding
+    you through its core concepts for a better understanding before diving deeper
+    into this framework for addressing real data science p...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/a-guide-to-kedro-your-production-ready-data-science-toolbox
+  pub_date: '2026-03-04T15:00:41'
+  source: KDnuggets
+  title: 'A Guide to Kedro: Your Production-Ready Data Science Toolbox'
+- category: machine-learning
+  description: Spending hours cleaning, summarizing, and visualizing your data manually?
+    Automate your exploratory data analysis workflow with these 5 ready-to-use Python
+    scripts.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-exploratory-data-analysis
+  pub_date: '2026-03-04T13:00:15'
+  source: KDnuggets
+  title: 5 Useful Python Scripts to Automate Exploratory Data Analysis
+- category: ai-research
   description: The approach could help engineers tackle extremely complex design problems,
     from power grid optimization to vehicle design.
   icon: fa-graduation-cap
@@ -99,14 +126,6 @@ articles:
   pub_date: '2026-02-27T15:00:19'
   source: KDnuggets
   title: 'The Future of Data Storytelling Formats: Beyond Dashboards'
-- category: machine-learning
-  description: OpenClaw is incredibly powerful, but if you install it without understanding
-    these five things, you could expose far more than you expect.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw
-  pub_date: '2026-02-27T13:00:46'
-  source: KDnuggets
-  title: 5 Things You Need to Know Before Using OpenClaw
 - category: ai-research
   description: Google is partnering with the Massachusetts AI Hub to provide every
     Baystater with no-cost access to Google's AI training.
@@ -125,14 +144,6 @@ articles:
   source: Google AI Blog
   title: Get more context and understand translations more deeply with new AI-powered
     updates in Translate.
-- category: machine-learning
-  description: Bad data leads to bad decisions. These Python scripts will help you
-    catch data quality issues before they cause problems.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-for-automated-data-quality-checks
-  pub_date: '2026-02-26T17:00:19'
-  source: KDnuggets
-  title: 5 Useful Python Scripts for Automated Data Quality Checks
 - category: ai-research
   description: Build with Nano Banana 2
   icon: fa-google
@@ -236,14 +247,6 @@ articles:
   source: Google AI Blog
   title: “No technology has me dreaming bigger than AI”
 - category: ai-research
-  description: A look at the partnerships and investments Google announced at the
-    AI Impact Summit 2026.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/
-  pub_date: '2026-02-19T04:30:00'
-  source: Google AI Blog
-  title: AI Impact Summit 2026
-- category: ai-research
   description: The context of long-term conversations can cause an LLM to begin mirroring
     the user's viewpoints, possibly reducing accuracy or creating a virtual echo-chamber.
   icon: fa-graduation-cap
@@ -251,4 +254,4 @@ articles:
   pub_date: '2026-02-18T05:00:00'
   source: MIT AI News
   title: Personalization features can make LLMs more agreeable
-last_updated: '2026-03-04T06:49:55.762406'
+last_updated: '2026-03-05T06:53:53.695125'
