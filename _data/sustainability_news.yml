@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: DHL Express workers represented by the Teamsters have authorized a
+    strike if a new contract is not reached before the March 31 deadline.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-workers-authorize-strike-march-31-contract-deadline
+  pub_date: '2026-03-05T18:08:00'
+  source: Supply Chain 24/7
+  title: DHL Workers Authorize Strike If No Deal Reached by March 31
+- category: supply-chain
+  description: The Postal Service is reviewing its finances as leaders warn the agency
+    could run out of money without major changes.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-usps-keeps-losing-money
+  pub_date: '2026-03-05T15:54:00'
+  source: Supply Chain 24/7
+  title: USPS Warns It Could Run Out of Money Without Major Changes
+- category: supply-chain
+  description: A federal judge ruled the Trump administration cannot shut down New
+    York City's congestion pricing program.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nyc-congestion-pricing-court-trump-ruling
+  pub_date: '2026-03-05T15:23:00'
+  source: Supply Chain 24/7
+  title: Court Blocks Trump Effort To Shut Down NYC Congestion Pricing
+- category: supply-chain
+  description: Industry analysts say strikes on Iran could disrupt shipping lanes,
+    push freight rates higher, and raise energy prices.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/iran-strikes-supply-chain-shipping-energy-impact
+  pub_date: '2026-03-05T15:16:00'
+  source: Supply Chain 24/7
+  title: Iran Conflict Could Push Freight and Energy Costs Higher
+- category: circular
+  description: The Local Government Association (LGA) is calling on the Government
+    and the Sentencing Council to urgently review sentencing guidelines for fly-tipping.
+    The post LGA calls for urgent sentencing review...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/lga-calls-for-urgent-sentencing-review-into-fly-tipping-court-fines/
+  pub_date: '2026-03-05T08:30:00'
+  source: Circular Online
+  title: LGA calls for urgent sentencing review into fly-tipping court fines
+- category: supply-chain
   description: High return rates are reshaping warehouse operations. Learn how reverse
     logistics affects inventory accuracy, visibility, and operational confidence -
     and why managing returns correctly is critical to...
@@ -67,14 +108,6 @@ articles:
   pub_date: '2026-03-03T15:55:00'
   source: Supply Chain 24/7
   title: 'Tariff Roundtable: What Happens Next for Supply Chains'
-- category: supply-chain
-  description: As automation spreads across warehouses, employers are paying more
-    for leaders and workers who can manage technology and data.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-automation-driving-higher-pay
-  pub_date: '2026-03-03T14:54:00'
-  source: Supply Chain 24/7
-  title: The Skills Warehouse Companies Are Paying For Right Now
 - category: circular
   description: News updates written by CIWM's commercial partners. Greyparrot Greyparrot
     brings waste intelligence to beauty sector to encourage recoverable cosmetics
@@ -84,30 +117,6 @@ articles:
   pub_date: '2026-03-03T14:44:51'
   source: Circular Online
   title: News in brief | CIWM Commercial Partner Updates 03 March
-- category: supply-chain
-  description: Target's same-day delivery grew more than 30% in Q4 as the retailer
-    leaned on stores for fulfillment and saw some easing in supply chain costs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/target-same-day-delivery-growth-q4-2025
-  pub_date: '2026-03-03T14:33:00'
-  source: Supply Chain 24/7
-  title: Target’s Same-Day Delivery Jumps 30% in Fourth Quarter
-- category: supply-chain
-  description: A food delivery robot in East Hollywood became tangled in a homeowner's
-    fence, uprooted plants, and dragged the fencing down the street before stopping.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/food-delivery-robot-causes-mayhem-los-angeles-neighborhood
-  pub_date: '2026-03-03T14:11:00'
-  source: Supply Chain 24/7
-  title: Runaway Food Delivery Robot Causes Mayhem in L.A. Neighborhood
-- category: supply-chain
-  description: Cisco's latest report shows industrial AI is now active in live operations,
-    but network and security gaps are limiting how fast companies can scale.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cisco-industrial-ai-live-operations-report
-  pub_date: '2026-03-03T11:58:00'
-  source: Supply Chain 24/7
-  title: 'Report: 61% of Industrial Firms Now Using AI in Production'
 - category: circular
   description: The project will reuse construction waste to build new homes in the
     Royal Docks and aims to divert at least 950 tonnes of materials from landfill
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-02-25T14:48:13'
   source: Circular Online
   title: Ireland unveils Circular Economy Strategy 2026–2028
-- category: circular
-  description: New Defra statistics show councils in England dealt with 1.26 million
-    fly-tipping incidents in 2024/25, up from 1.15 million the previous year... The
-    post Fly-tipping in England increases 9% in a year...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/fly-tipping-in-england-increases-9-in-a-year/
-  pub_date: '2026-02-25T10:04:35'
-  source: Circular Online
-  title: Fly-tipping in England increases 9% in a year
-last_updated: '2026-03-05T06:53:51.944189'
+last_updated: '2026-03-06T06:51:30.138643'
