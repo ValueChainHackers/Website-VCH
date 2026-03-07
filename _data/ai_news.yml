@@ -1,5 +1,20 @@
 articles:
 - category: ai-research
+  description: Photos of animals being identified by the SpeciesNet AI model
+  icon: fa-google
+  link: https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/
+  pub_date: '2026-03-06T18:00:00'
+  source: Google AI Blog
+  title: How our open-source AI model SpeciesNet is helping to promote wildlife conservation
+- category: machine-learning
+  description: Learn these five Python decorators based on diverse libraries, that
+    take particular significance when used in the context of LLM-based applications.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-powerful-python-decorators-to-optimize-llm-applications
+  pub_date: '2026-03-06T15:00:19'
+  source: KDnuggets
+  title: 5 Powerful Python Decorators to Optimize LLM Applications
+- category: ai-research
   description: Mobile phone with a search bar that says "Ask anything"
   icon: fa-google
   link: https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/
@@ -126,14 +141,6 @@ articles:
   pub_date: '2026-03-02T17:00:56'
   source: KDnuggets
   title: Getting Started with Python Async Programming
-- category: machine-learning
-  description: Great LLMs need great data. Discover the pipelines, tools, and RAG
-    architecture shaping the future of AI-ready data engineering
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/data-engineering-for-the-llm-age
-  pub_date: '2026-03-02T15:00:37'
-  source: KDnuggets
-  title: Data Engineering for the LLM Age
 - category: ai-research
   description: Lincoln Laboratory intern Ivy Mahncke developed and tested algorithms
     to help human divers and robots navigate underwater.
@@ -193,15 +200,6 @@ articles:
   title: Mixing generative AI with physics to create personal items that work in the
     real world
 - category: ai-research
-  description: A woman in a red turtleneck, camouflage shorts, and black boots poses
-    against a bright red wall, while a smartphone to her right displays a Google search
-    page with image recognition results.
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/
-  pub_date: '2026-02-25T18:00:00'
-  source: Google AI Blog
-  title: A more intelligent Android on Samsung Galaxy S26
-- category: ai-research
   description: By providing holistic information on a cell, an AI-driven method could
     help scientists better understand disease mechanisms and plan experiments.
   icon: fa-graduation-cap
@@ -252,4 +250,4 @@ articles:
   pub_date: '2026-02-18T05:00:00'
   source: MIT AI News
   title: Personalization features can make LLMs more agreeable
-last_updated: '2026-03-06T06:51:32.308243'
+last_updated: '2026-03-07T06:41:41.718001'

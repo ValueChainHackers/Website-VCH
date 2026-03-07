@@ -1,5 +1,47 @@
 articles:
 - category: supply-chain
+  description: Twenty-four states have filed a lawsuit challenging President Trump's
+    tariffs, arguing the administration lacks authority to impose sweeping import
+    duties.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/24-states-suing-trump-over-tariffs
+  pub_date: '2026-03-06T14:59:00'
+  source: Supply Chain 24/7
+  title: See Which 24 States Are Fighting Trump’s Tariffs in Court
+- category: supply-chain
+  description: Only 10% of companies currently have AI running inside their supply
+    chain operations, according to a new industry report from Sage.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-ai-adoption-only-10-percent
+  pub_date: '2026-03-06T14:03:00'
+  source: Supply Chain 24/7
+  title: Despite the AI Hype, Only 10% of Supply Chain Companies Use It
+- category: supply-chain
+  description: Billing mistakes may seem small, but across thousands of shipments
+    they can quietly drain revenue from logistics companies.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/logistics-billing-errors-revenue-loss-freight
+  pub_date: '2026-03-06T13:22:00'
+  source: Supply Chain 24/7
+  title: How Logistics Firms Prevent Revenue Loss From Billing Errors
+- category: supply-chain
+  description: A new Allianz report says the most likely "black swan" risk facing
+    businesses is a geopolitical conflict that shuts down global supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/global-supply-chain-shutdown-black-swan-risk
+  pub_date: '2026-03-06T13:03:00'
+  source: Supply Chain 24/7
+  title: Global Supply Chain Shutdown Tops “Black Swan” Business Risks
+- category: circular
+  description: Fly-tipping incidents in Wales rose by 14.7% between April 2024 and
+    March 2025, according to official figures. The post Fly-tipping incidents in Wales
+    rise by 14.7% appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/fly-tipping-incidents-in-wales-rise-by-14-7/
+  pub_date: '2026-03-06T11:00:22'
+  source: Circular Online
+  title: Fly-tipping incidents in Wales rise by 14.7%
+- category: supply-chain
   description: DHL Express workers represented by the Teamsters have authorized a
     strike if a new contract is not reached before the March 31 deadline.
   icon: fa-box
@@ -57,31 +99,6 @@ articles:
   pub_date: '2026-03-04T16:33:00'
   source: Supply Chain 24/7
   title: How the Iran Conflict Could Affect Energy, Freight and Supply Chains
-- category: supply-chain
-  description: Gartner analysis says supply chains in their current form may struggle
-    within two years due to AI, geopolitical risks and changing customer expectations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-supply-chains-may-struggle-two-years
-  pub_date: '2026-03-04T14:34:00'
-  source: Supply Chain 24/7
-  title: Why Your Supply Chain Could Be Outdated in Two Years
-- category: supply-chain
-  description: PwC's latest outlook says the share of highly automated processes in
-    manufacturing will rise from 18% today to 50% by 2030.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturing-automation-18-to-50-percent-2030
-  pub_date: '2026-03-04T12:51:00'
-  source: Supply Chain 24/7
-  title: Manufacturers Expect Automation to Jump From 18% to 50% by 2030
-- category: supply-chain
-  description: The Hackett Group's latest study shows procurement workloads rising
-    while headcount and budgets decline, pushing leaders to rely on AI to close the
-    gap.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-workloads-rise-8-percent-2026-ai
-  pub_date: '2026-03-04T12:46:00'
-  source: Supply Chain 24/7
-  title: Procurement Workloads Rise 8% as Staffing Decreases
 - category: circular
   description: Councils in England have been given powers to issue on-the-spot fines
     of up to GBP500 for littering, as part of legally-binding government guidance.
@@ -100,14 +117,6 @@ articles:
   pub_date: '2026-03-04T08:06:23'
   source: Circular Online
   title: Glass industry calls for Welsh DRS ‘pause’
-- category: supply-chain
-  description: Two weeks after the tariff ruling, supply chain leaders say uncertainty
-    still outweighs any immediate cost relief.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tariff-roundtable-industry-leaders-reaction
-  pub_date: '2026-03-03T15:55:00'
-  source: Supply Chain 24/7
-  title: 'Tariff Roundtable: What Happens Next for Supply Chains'
 - category: circular
   description: News updates written by CIWM's commercial partners. Greyparrot Greyparrot
     brings waste intelligence to beauty sector to encourage recoverable cosmetics
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-02-26T09:15:08'
   source: Circular Online
   title: Arrests made in multi-million pound waste fraud case
-- category: circular
-  description: New whole-of-government plan aims to raise Ireland's circular material
-    use rate to 12% by 2030 and reduce reliance on virgin resources through sector-wide
-    action. The Department of Climate, Energy and...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ireland-unveils-circular-economy-strategy-2026-2028/
-  pub_date: '2026-02-25T14:48:13'
-  source: Circular Online
-  title: Ireland unveils Circular Economy Strategy 2026–2028
-last_updated: '2026-03-06T06:51:30.138643'
+last_updated: '2026-03-07T06:41:39.633321'
