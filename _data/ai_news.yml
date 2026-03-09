@@ -1,5 +1,13 @@
 articles:
 - category: ai-research
+  description: A new approach could help users know whether to trust a model's predictions
+    in safety-critical applications like health care and autonomous driving.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309
+  pub_date: '2026-03-09T04:00:00'
+  source: MIT AI News
+  title: Improving AI models’ ability to explain their predictions
+- category: ai-research
   description: Photos of animals being identified by the SpeciesNet AI model
   icon: fa-google
   link: https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/
@@ -242,12 +250,4 @@ articles:
   pub_date: '2026-02-19T05:00:00'
   source: MIT AI News
   title: Parking-aware navigation system could prevent frustration and emissions
-- category: ai-research
-  description: The context of long-term conversations can cause an LLM to begin mirroring
-    the user's viewpoints, possibly reducing accuracy or creating a virtual echo-chamber.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218
-  pub_date: '2026-02-18T05:00:00'
-  source: MIT AI News
-  title: Personalization features can make LLMs more agreeable
-last_updated: '2026-03-08T06:43:17.277654'
+last_updated: '2026-03-09T07:02:54.044763'
