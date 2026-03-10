@@ -1,12 +1,62 @@
 articles:
 - category: supply-chain
+  description: Engineers at Purdue have built a road that can wirelessly power electric
+    trucks as they drive, a technology that could change how freight vehicles recharge.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/purdue-highway-wireless-charging-electric-trucks
+  pub_date: '2026-03-09T14:04:00'
+  source: Supply Chain 24/7
+  title: Inside Purdue’s Plan to Build Highways That Charge Electric Trucks
+- category: supply-chain
+  description: NewCold is expanding its Indiana cold chain campus with a new automated
+    warehouse designed to handle frozen and refrigerated food products.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/newcold-indiana-cold-storage-expansion
+  pub_date: '2026-03-09T13:52:00'
+  source: Supply Chain 24/7
+  title: NewCold Continues Indiana Expansion with $500M Cold Chain Expansion
+- category: supply-chain
+  description: Gas prices are rising again, and the gap between the most and least
+    expensive states now exceeds $2 per gallon.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/most-expensive-cheapest-gas-prices-by-state
+  pub_date: '2026-03-09T13:26:00'
+  source: Supply Chain 24/7
+  title: The 10 Most and Least Expensive States for Gas Right Now
+- category: supply-chain
+  description: Redwood Logistics acquired Laredo customs broker EELCO to expand its
+    cross-border freight operations as U.S.-Mexico trade continues to grow.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/redwood-logistics-acquires-eelco-to-grow-u.s.mexico-logistics
+  pub_date: '2026-03-09T13:12:00'
+  source: Supply Chain 24/7
+  title: Redwood Logistics Acquires EELCO to Expand U.S.–Mexico Trade
+- category: circular
+  description: Two companies have been fined after a man was killed and another seriously
+    injured when a cherry picker struck an 11,000-volt overhead powerline at an anaerobic
+    digestion plant in Devon. The post Two ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/two-companies-fined-after-death-at-anaerobic-digestion-plant/
+  pub_date: '2026-03-09T11:20:14'
+  source: Circular Online
+  title: Two companies fined after death at anaerobic digestion plant
+- category: supply-chain
   description: To celebrate International Women's Day, we're revisiting 19 women featured
     in our Women in Supply Chain series.
   icon: fa-box
   link: https://www.supplychain247.com/article/international-womens-day-WISP
-  pub_date: '2026-03-09T00:36:00'
+  pub_date: '2026-03-09T11:03:00'
   source: Supply Chain 24/7
   title: Women In Supply Chain Share Career Lessons And Advice
+- category: circular
+  description: 64% of people in the UK believe that some food waste at home is inevitable,
+    a survey released by WRAP as part of Food Waste Action Week has found. The post
+    64% of people think some household food wast...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/64-of-people-think-some-household-food-waste-is-inevitable/
+  pub_date: '2026-03-09T10:33:46'
+  source: Circular Online
+  title: 64% of people think some household food waste is ‘inevitable’
 - category: supply-chain
   description: Twenty-four states have filed a lawsuit challenging President Trump's
     tariffs, arguing the administration lacks authority to impose sweeping import
@@ -57,30 +107,6 @@ articles:
   pub_date: '2026-03-05T18:08:00'
   source: Supply Chain 24/7
   title: DHL Workers Authorize Strike If No Deal Reached by March 31
-- category: supply-chain
-  description: The Postal Service is reviewing its finances as leaders warn the agency
-    could run out of money without major changes.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-usps-keeps-losing-money
-  pub_date: '2026-03-05T15:54:00'
-  source: Supply Chain 24/7
-  title: USPS Warns It Could Run Out of Money Without Major Changes
-- category: supply-chain
-  description: A federal judge ruled the Trump administration cannot shut down New
-    York City's congestion pricing program.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nyc-congestion-pricing-court-trump-ruling
-  pub_date: '2026-03-05T15:23:00'
-  source: Supply Chain 24/7
-  title: Court Blocks Trump Effort To Shut Down NYC Congestion Pricing
-- category: supply-chain
-  description: Industry analysts say strikes on Iran could disrupt shipping lanes,
-    push freight rates higher, and raise energy prices.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/iran-strikes-supply-chain-shipping-energy-impact
-  pub_date: '2026-03-05T15:16:00'
-  source: Supply Chain 24/7
-  title: Iran Conflict Could Push Freight and Energy Costs Higher
 - category: circular
   description: The Local Government Association (LGA) is calling on the Government
     and the Sentencing Council to urgently review sentencing guidelines for fly-tipping.
@@ -90,15 +116,6 @@ articles:
   pub_date: '2026-03-05T08:30:00'
   source: Circular Online
   title: LGA calls for urgent sentencing review into fly-tipping court fines
-- category: supply-chain
-  description: High return rates are reshaping warehouse operations. Learn how reverse
-    logistics affects inventory accuracy, visibility, and operational confidence -
-    and why managing returns correctly is critical to...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-returns-impact-inventory-accuracy-and-warehouse-confidence
-  pub_date: '2026-03-04T19:02:00'
-  source: Supply Chain 24/7
-  title: How Returns Impact Inventory Accuracy and Warehouse Confidence
 - category: circular
   description: Councils in England have been given powers to issue on-the-spot fines
     of up to GBP500 for littering, as part of legally-binding government guidance.
@@ -153,22 +170,4 @@ articles:
   pub_date: '2026-03-03T08:30:00'
   source: Circular Online
   title: Circular jobs generate £5 more value per hour than Scottish average
-- category: circular
-  description: The Environment Agency has secured a court order prohibiting anyone
-    from importing waste to the site, known as The Old Cricket Ground, in Bickershaw.
-    The post Site closed amid investigation into illeg...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/site-closed-amid-investigation-into-illegal-waste-activity-on-kings-estate/
-  pub_date: '2026-03-02T10:54:03'
-  source: Circular Online
-  title: Site closed amid investigation into illegal waste activity on King’s land
-- category: circular
-  description: Two individuals have been arrested in Penzance, Cornwall, as part of
-    a joint investigation by the Environment Agency and Devon and Cornwall Police
-    into suspected waste packaging fraud and money launde...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/arrests-made-in-multi-million-pound-waste-fraud-case/
-  pub_date: '2026-02-26T09:15:08'
-  source: Circular Online
-  title: Arrests made in multi-million pound waste fraud case
-last_updated: '2026-03-09T07:02:52.162052'
+last_updated: '2026-03-10T06:52:01.477019'
