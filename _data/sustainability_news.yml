@@ -1,5 +1,66 @@
 articles:
 - category: supply-chain
+  description: GE Aerospace is investing $1 billion in U.S. manufacturing to expand
+    engine production and support a growing backlog of aviation orders.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ge-aerospace-1-billion-us-manufacturing-investment
+  pub_date: '2026-03-10T16:50:00'
+  source: Supply Chain 24/7
+  title: GE Aerospace Announces $1 Billion Investment in U.S. Manufacturing
+- category: supply-chain
+  description: U.S. container import volumes are expected to decline during the first
+    half of the year as retailers navigate tariff uncertainty and geopolitical risks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/u.s-imports-expected-to-fall-amid-tariff-uncertainty
+  pub_date: '2026-03-10T14:52:00'
+  source: Supply Chain 24/7
+  title: U.S. Imports Expected to Fall Amid Tariff Uncertainty
+- category: supply-chain
+  description: A sharp rise in diesel prices tied to Middle East tensions is beginning
+    to push transportation costs higher across the supply chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/diesel-prices-spike-middle-east-conflict-supply-chain
+  pub_date: '2026-03-10T11:34:00'
+  source: Supply Chain 24/7
+  title: Diesel Prices Spike as Middle East Tensions Rattle Supply Chains
+- category: supply-chain
+  description: A new Fictiv report finds AI adoption jumped 18% in the past year as
+    manufacturers rely more on data-driven planning and logistics decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-use-in-supply-chain-operations-jumps-18-points-in-one-year
+  pub_date: '2026-03-10T11:24:00'
+  source: Supply Chain 24/7
+  title: AI Use in Supply Chain Operations Jumps 18 Points in One Year
+- category: circular
+  description: Public support for the UK Government's net zero target has nearly halved
+    since 2021, according to a new study by King's College London. The post Support
+    for UK net zero target has almost halved, surve...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/support-for-uk-net-zero-target-has-almost-halved-survey-shows/
+  pub_date: '2026-03-10T10:13:21'
+  source: Circular Online
+  title: Support for UK net zero target has almost halved, survey shows
+- category: circular
+  description: Paper could play a valuable role in tackling plastic pollution by providing
+    an alternative to flexible plastic packaging, according to a new report from the
+    Ellen MacArthur Foundation. The post Paper ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/paper-could-play-a-valuable-role-in-tackling-plastic-pollution-according-to-emf-report/
+  pub_date: '2026-03-10T09:19:43'
+  source: Circular Online
+  title: Paper could play a ‘valuable role’ in tackling plastic pollution, according
+    to EMF report
+- category: supply-chain
+  description: Learn how Staples Canada transformed its fulfillment center with warehouse
+    automation. Discover how robotic picking improved order accuracy by 73%, doubled
+    productivity, and reduced training time.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/warehouse-automation-case-study-how-staples-canada-improved-order-accuracy-and-productivity
+  pub_date: '2026-03-09T22:21:00'
+  source: Supply Chain 24/7
+  title: 'Warehouse Automation Case Study: How Staples Canada Improved Order Accuracy
+    and Productivity'
+- category: supply-chain
   description: Engineers at Purdue have built a road that can wirelessly power electric
     trucks as they drive, a technology that could change how freight vehicles recharge.
   icon: fa-box
@@ -57,39 +118,6 @@ articles:
   pub_date: '2026-03-09T10:33:46'
   source: Circular Online
   title: 64% of people think some household food waste is ‘inevitable’
-- category: supply-chain
-  description: Twenty-four states have filed a lawsuit challenging President Trump's
-    tariffs, arguing the administration lacks authority to impose sweeping import
-    duties.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/24-states-suing-trump-over-tariffs
-  pub_date: '2026-03-06T14:59:00'
-  source: Supply Chain 24/7
-  title: See Which 24 States Are Fighting Trump’s Tariffs in Court
-- category: supply-chain
-  description: Only 10% of companies currently have AI running inside their supply
-    chain operations, according to a new industry report from Sage.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-ai-adoption-only-10-percent
-  pub_date: '2026-03-06T14:03:00'
-  source: Supply Chain 24/7
-  title: Despite the AI Hype, Only 10% of Supply Chain Companies Use It
-- category: supply-chain
-  description: Billing mistakes may seem small, but across thousands of shipments
-    they can quietly drain revenue from logistics companies.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/logistics-billing-errors-revenue-loss-freight
-  pub_date: '2026-03-06T13:22:00'
-  source: Supply Chain 24/7
-  title: How Logistics Firms Prevent Revenue Loss From Billing Errors
-- category: supply-chain
-  description: A new Allianz report says the most likely "black swan" risk facing
-    businesses is a geopolitical conflict that shuts down global supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/global-supply-chain-shutdown-black-swan-risk
-  pub_date: '2026-03-06T13:03:00'
-  source: Supply Chain 24/7
-  title: Global Supply Chain Shutdown Tops “Black Swan” Business Risks
 - category: circular
   description: Fly-tipping incidents in Wales rose by 14.7% between April 2024 and
     March 2025, according to official figures. The post Fly-tipping incidents in Wales
@@ -99,14 +127,6 @@ articles:
   pub_date: '2026-03-06T11:00:22'
   source: Circular Online
   title: Fly-tipping incidents in Wales rise by 14.7%
-- category: supply-chain
-  description: DHL Express workers represented by the Teamsters have authorized a
-    strike if a new contract is not reached before the March 31 deadline.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-workers-authorize-strike-march-31-contract-deadline
-  pub_date: '2026-03-05T18:08:00'
-  source: Supply Chain 24/7
-  title: DHL Workers Authorize Strike If No Deal Reached by March 31
 - category: circular
   description: The Local Government Association (LGA) is calling on the Government
     and the Sentencing Council to urgently review sentencing guidelines for fly-tipping.
@@ -152,22 +172,4 @@ articles:
   pub_date: '2026-03-03T10:33:50'
   source: Circular Online
   title: ‘UK’s first’ circular construction hub to launch in Royal Docks
-- category: circular
-  description: The Environment Agency have confirmed a clearance work on a high-profile
-    illegal waste site in Kidlington will now begin in April after heavy rainfall.
-    The post Kidlington waste site clearance delayed...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/kidlington-waste-site-clearance-delayed-until-april-after-heavy-rainfall/
-  pub_date: '2026-03-03T08:55:31'
-  source: Circular Online
-  title: Kidlington waste site clearance delayed until April after heavy rainfall
-- category: circular
-  description: Circular sectors generated GBP37.33 in Gross Value Added per hour in
-    2021, nearly GBP5 more per hour than the Scottish average, according to research
-    by Zero Waste Scotland. The post Circular jobs gen...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/circular-jobs-generate-5-more-value-per-hour-than-scottish-average/
-  pub_date: '2026-03-03T08:30:00'
-  source: Circular Online
-  title: Circular jobs generate £5 more value per hour than Scottish average
-last_updated: '2026-03-10T06:52:01.477019'
+last_updated: '2026-03-11T06:54:58.778455'

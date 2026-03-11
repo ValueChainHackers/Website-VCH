@@ -1,5 +1,99 @@
 articles:
 - category: ai-research
+  description: A new hybrid system could help robots navigate in changing environments
+    or increase the efficiency of multirobot assembly teams.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311
+  pub_date: '2026-03-11T04:00:00'
+  source: MIT AI News
+  title: A better method for planning complex visual tasks
+- category: ai-research
+  description: Assistant Professor Matthew Jones is working to decode molecular processes
+    on the genetic, epigenetic, and microenvironment levels to anticipate how and
+    when tumors evolve to resist treatment.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-building-predictive-models-characterize-tumor-progression-0310
+  pub_date: '2026-03-10T20:50:00'
+  source: MIT AI News
+  title: '3 Questions: Building predictive models to characterize tumor progression'
+- category: ai-research
+  description: From early motion-sensing platforms to environmental monitoring, the
+    professor and head of the Program in Media Arts and Sciences has turned decades
+    of cross-disciplinary research into real-world impa...
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-professor-joseph-paradiso-sensing-innovations-0310
+  pub_date: '2026-03-10T20:25:00'
+  source: MIT AI News
+  title: How Joseph Paradiso’s sensing innovations bridge the arts, medicine, and
+    ecology
+- category: machine-learning
+  description: ''
+  icon: fa-chart-bar
+  link: https://bit.ly/40nBVbe
+  pub_date: '2026-03-10T17:29:06'
+  source: KDnuggets
+  title: Understanding The Cost Of One Compromised Account (Sponsored)
+- category: machine-learning
+  description: Learn how to install bitnet.cpp, download the BitNet b1.58 model, and
+    run a fully local AI chat and inference server on your machine.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/run-tiny-ai-models-locally-using-bitnet-a-beginner-guide
+  pub_date: '2026-03-10T16:00:45'
+  source: KDnuggets
+  title: Run Tiny AI Models Locally Using BitNet A Beginner Guide
+- category: machine-learning
+  description: Check out a practical benchmark of three popular SQL databases using
+    real-world analytical problems.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/postgres-vs-mysql-vs-sqlite-comparing-sql-performance-across-engines
+  pub_date: '2026-03-10T14:00:30'
+  source: KDnuggets
+  title: 'Postgres vs MySQL vs SQLite: Comparing SQL Performance Across Engines'
+- category: ai-research
+  description: Today we announced new beta features for Gemini in Sheets to help you
+    create, organize and edit entire sheets, from basic tasks to complex data analysis
+    - just describe ...
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/
+  pub_date: '2026-03-10T13:00:00'
+  source: Google AI Blog
+  title: Gemini in Google Sheets just achieved state-of-the-art performance.
+- category: machine-learning
+  description: Interested in becoming an LLM engineer? Here's a list of Python libraries
+    you'll find essential for your work.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-python-libraries-every-llm-engineer-should-know
+  pub_date: '2026-03-10T12:00:33'
+  source: KDnuggets
+  title: 10 Python Libraries Every LLM Engineer Should Know
+- category: machine-learning
+  description: Learn how Google Stax tests AI models and prompts against your own
+    criteria. Compare Gemini vs GPT with custom evaluators. Step-by-step guide for
+    beginners
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/google-stax-testing-models-and-prompts-against-your-own-criteria
+  pub_date: '2026-03-09T16:00:18'
+  source: KDnuggets
+  title: 'Google Stax: Testing Models and Prompts Against Your Own Criteria'
+- category: machine-learning
+  description: 'Analyzing a set of objective facts about language models role and
+    evolution, with some thoughts on the following question: are they the new commodity
+    of the decade we can no longer live without?'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/are-language-models-a-commodity
+  pub_date: '2026-03-09T14:00:49'
+  source: KDnuggets
+  title: Are Language Models a Commodity?
+- category: machine-learning
+  description: Learn how people are turning AI tools into real income by building
+    practical systems, selling outcomes, and creating niche products that businesses
+    are willing to pay for.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-ways-people-are-making-money-using-ai-in-2026
+  pub_date: '2026-03-09T12:00:27'
+  source: KDnuggets
+  title: 7 Ways People Are Making Money Using AI in 2026
+- category: ai-research
   description: A new approach could help users know whether to trust a model's predictions
     in safety-critical applications like health care and autonomous driving.
   icon: fa-graduation-cap
@@ -14,6 +108,14 @@ articles:
   pub_date: '2026-03-06T18:00:00'
   source: Google AI Blog
   title: How our open-source AI model SpeciesNet is helping to promote wildlife conservation
+- category: machine-learning
+  description: Learn these five Python decorators based on diverse libraries, that
+    take particular significance when used in the context of LLM-based applications.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-powerful-python-decorators-to-optimize-llm-applications
+  pub_date: '2026-03-06T15:00:19'
+  source: KDnuggets
+  title: 5 Powerful Python Decorators to Optimize LLM Applications
 - category: ai-research
   description: Mobile phone with a search bar that says "Ask anything"
   icon: fa-google
@@ -29,6 +131,23 @@ articles:
   pub_date: '2026-03-05T16:30:00'
   source: Google AI Blog
   title: The latest AI news we announced in February
+- category: machine-learning
+  description: Need help choosing the right Python dataframe library? This article
+    compares Pandas and Polars to help you decide.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/pandas-vs-polars-a-complete-comparison-of-syntax-speed-and-memory
+  pub_date: '2026-03-05T15:00:58'
+  source: KDnuggets
+  title: 'Pandas vs. Polars: A Complete Comparison of Syntax, Speed, and Memory'
+- category: machine-learning
+  description: Want to move beyond drawing boxes and arrows and actually understand
+    how scalable systems are built? These GitHub repositories break down the concepts,
+    patterns, and real-world trade-offs that make gr...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-github-repositories-to-master-system-design
+  pub_date: '2026-03-05T13:00:50'
+  source: KDnuggets
+  title: 10 GitHub Repositories to Master System Design
 - category: ai-research
   description: Canvas in AI Mode is now available for everyone in the U.S. Plus, it
     can now help you draft documents or build interactive tools.
@@ -97,13 +216,6 @@ articles:
   source: Google AI Blog
   title: 'Nano Banana 2: Combining Pro capabilities with lightning-fast speed'
 - category: ai-research
-  description: Build with Nano Banana 2
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/
-  pub_date: '2026-02-26T16:00:00'
-  source: Google AI Blog
-  title: Build with Nano Banana 2, our best image generation and editing model
-- category: ai-research
   description: By leveraging idle computing time, researchers can double the speed
     of model training while preserving accuracy.
   icon: fa-graduation-cap
@@ -137,31 +249,4 @@ articles:
   pub_date: '2026-02-25T05:00:00'
   source: MIT AI News
   title: Enhancing maritime cybersecurity with technology and policy
-- category: ai-research
-  description: Research from the MIT Center for Constructive Communication finds leading
-    AI models perform worse for users with lower English proficiency, less formal
-    education, and non-US origins.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219
-  pub_date: '2026-02-19T23:25:00'
-  source: MIT AI News
-  title: 'Study: AI chatbots provide less-accurate information to vulnerable users'
-- category: ai-research
-  description: A new method developed at MIT could root out vulnerabilities and improve
-    LLM safety and performance.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/exposing-biases-moods-personalities-hidden-large-language-models-0219
-  pub_date: '2026-02-19T19:00:00'
-  source: MIT AI News
-  title: Exposing biases, moods, personalities, and abstract concepts hidden in large
-    language models
-- category: ai-research
-  description: By minimizing the need to drive around looking for a parking spot,
-    this technique can save drivers up to 35 minutes - and give them a realistic estimate
-    of total travel time.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/parking-aware-navigation-could-prevent-frustration-and-emissions-0219
-  pub_date: '2026-02-19T05:00:00'
-  source: MIT AI News
-  title: Parking-aware navigation system could prevent frustration and emissions
-last_updated: '2026-03-10T06:52:02.454679'
+last_updated: '2026-03-11T06:55:01.982834'
