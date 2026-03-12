@@ -1,5 +1,48 @@
 articles:
 - category: supply-chain
+  description: Gateway officials say construction on the $16 billion Hudson River
+    tunnel could stop again within months if federal funding is not restored.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hudson-river-tunnel-funding-dispute-work-could-halt
+  pub_date: '2026-03-11T13:35:00'
+  source: Supply Chain 24/7
+  title: New York–New Jersey Rail Tunnel Project Faces Another Shutdown
+- category: supply-chain
+  description: A trade court has revived a lawsuit challenging the administration's
+    suspension of the de minimis exemption for low-value imports.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/court-reopens-de-minimis-lawsuit-detroit-axle
+  pub_date: '2026-03-11T13:27:00'
+  source: Supply Chain 24/7
+  title: Court Reopens Lawsuit Over Trump’s De Minimis Suspension
+- category: supply-chain
+  description: MIT and Mecalux have developed an AI simulator that helps companies
+    optimize inventory across multiple warehouses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/mit-mecalux-develop-genesis-inventory-management
+  pub_date: '2026-03-11T13:10:00'
+  source: Supply Chain 24/7
+  title: MIT and Mecalux Develop AI Tool to Help Companies Balance Inventory
+- category: circular
+  description: Lidl GB has increased its target to reduce food waste from its stores
+    from 50% to 70% by 2030. The post Lidl GB sets target to reduce food waste by
+    70% by 2030 appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/lidl-gb-sets-target-to-reduce-food-waste-by-70-by-2030/
+  pub_date: '2026-03-11T09:45:36'
+  source: Circular Online
+  title: Lidl GB sets target to reduce food waste by 70% by 2030
+- category: supply-chain
+  description: Discover the top transportation and logistics trends for 2026, including
+    AI adoption, supply chain resilience, sustainability strategies, workforce challenges,
+    and the rise of connected logistics ecos...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/transportation-and-logistics-trends-for-2026-ai-sustainability-and-supply-chain-resilience
+  pub_date: '2026-03-10T19:22:00'
+  source: Supply Chain 24/7
+  title: 'Transportation and Logistics Trends for 2026: AI, Sustainability, and Supply
+    Chain Resilience'
+- category: supply-chain
   description: GE Aerospace is investing $1 billion in U.S. manufacturing to expand
     engine production and support a growing backlog of aviation orders.
   icon: fa-box
@@ -68,30 +111,6 @@ articles:
   pub_date: '2026-03-09T14:04:00'
   source: Supply Chain 24/7
   title: Inside Purdue’s Plan to Build Highways That Charge Electric Trucks
-- category: supply-chain
-  description: NewCold is expanding its Indiana cold chain campus with a new automated
-    warehouse designed to handle frozen and refrigerated food products.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/newcold-indiana-cold-storage-expansion
-  pub_date: '2026-03-09T13:52:00'
-  source: Supply Chain 24/7
-  title: NewCold Continues Indiana Expansion with $500M Cold Chain Expansion
-- category: supply-chain
-  description: Gas prices are rising again, and the gap between the most and least
-    expensive states now exceeds $2 per gallon.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/most-expensive-cheapest-gas-prices-by-state
-  pub_date: '2026-03-09T13:26:00'
-  source: Supply Chain 24/7
-  title: The 10 Most and Least Expensive States for Gas Right Now
-- category: supply-chain
-  description: Redwood Logistics acquired Laredo customs broker EELCO to expand its
-    cross-border freight operations as U.S.-Mexico trade continues to grow.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/redwood-logistics-acquires-eelco-to-grow-u.s.mexico-logistics
-  pub_date: '2026-03-09T13:12:00'
-  source: Supply Chain 24/7
-  title: Redwood Logistics Acquires EELCO to Expand U.S.–Mexico Trade
 - category: circular
   description: Two companies have been fined after a man was killed and another seriously
     injured when a cherry picker struck an 11,000-volt overhead powerline at an anaerobic
@@ -101,14 +120,6 @@ articles:
   pub_date: '2026-03-09T11:20:14'
   source: Circular Online
   title: Two companies fined after death at anaerobic digestion plant
-- category: supply-chain
-  description: To celebrate International Women's Day, we're revisiting 19 women featured
-    in our Women in Supply Chain series.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/international-womens-day-WISP
-  pub_date: '2026-03-09T11:03:00'
-  source: Supply Chain 24/7
-  title: Women In Supply Chain Share Career Lessons And Advice
 - category: circular
   description: 64% of people in the UK believe that some food waste at home is inevitable,
     a survey released by WRAP as part of Food Waste Action Week has found. The post
@@ -163,13 +174,4 @@ articles:
   pub_date: '2026-03-03T14:44:51'
   source: Circular Online
   title: News in brief | CIWM Commercial Partner Updates 03 March
-- category: circular
-  description: The project will reuse construction waste to build new homes in the
-    Royal Docks and aims to divert at least 950 tonnes of materials from landfill
-    over five years. The UK's first Circular Construction ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uks-first-circular-construction-hub-to-launch-in-royal-docks/
-  pub_date: '2026-03-03T10:33:50'
-  source: Circular Online
-  title: ‘UK’s first’ circular construction hub to launch in Royal Docks
-last_updated: '2026-03-11T06:54:58.778455'
+last_updated: '2026-03-12T06:56:49.237012'
