@@ -1,5 +1,47 @@
 articles:
 - category: ai-research
+  description: A doctor is sitting across a desk from a patient. The doctor is holding
+    a tablet and a pen. Medical charts renderings are in the background.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/
+  pub_date: '2026-03-12T15:00:00'
+  source: Google AI Blog
+  title: How AI is helping improve heart health in rural Australia
+- category: ai-research
+  description: Professor Jesse Thaler describes a vision for a two-way bridge between
+    artificial intelligence and the mathematical and physical sciences - one that
+    promises to advance both.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311
+  pub_date: '2026-03-11T22:30:00'
+  source: MIT AI News
+  title: '3 Questions: On the future of AI and the mathematical and physical sciences'
+- category: ai-research
+  description: MIT computer science students design AI chatbots to help young users
+    become more social, and socially confident.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-class-uses-anthropology-to-improve-chatbots-0311
+  pub_date: '2026-03-11T16:10:00'
+  source: MIT AI News
+  title: New MIT class uses anthropology to improve chatbots
+- category: machine-learning
+  description: In this guide, you learn how to install and run PersonaPlex locally
+    step by step, so you can experience real time, interruptible speech to speech
+    AI directly on your own machine.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally
+  pub_date: '2026-03-11T14:00:36'
+  source: KDnuggets
+  title: Run a Real Time Speech to Speech AI Model Locally
+- category: machine-learning
+  description: Discover five AI tools that make exploring and understanding large
+    codebases faster and easier.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-ai-tools-to-understand-code-and-generate-documentation
+  pub_date: '2026-03-11T12:00:38'
+  source: KDnuggets
+  title: 5 Free AI Tools to Understand Code and Generate Documentation
+- category: ai-research
   description: A new hybrid system could help robots navigate in changing environments
     or increase the efficiency of multirobot assembly teams.
   icon: fa-graduation-cap
@@ -131,23 +173,6 @@ articles:
   pub_date: '2026-03-05T16:30:00'
   source: Google AI Blog
   title: The latest AI news we announced in February
-- category: machine-learning
-  description: Need help choosing the right Python dataframe library? This article
-    compares Pandas and Polars to help you decide.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/pandas-vs-polars-a-complete-comparison-of-syntax-speed-and-memory
-  pub_date: '2026-03-05T15:00:58'
-  source: KDnuggets
-  title: 'Pandas vs. Polars: A Complete Comparison of Syntax, Speed, and Memory'
-- category: machine-learning
-  description: Want to move beyond drawing boxes and arrows and actually understand
-    how scalable systems are built? These GitHub repositories break down the concepts,
-    patterns, and real-world trade-offs that make gr...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-to-master-system-design
-  pub_date: '2026-03-05T13:00:50'
-  source: KDnuggets
-  title: 10 GitHub Repositories to Master System Design
 - category: ai-research
   description: Canvas in AI Mode is now available for everyone in the U.S. Plus, it
     can now help you draft documents or build interactive tools.
@@ -209,13 +234,6 @@ articles:
   title: Get more context and understand translations more deeply with new AI-powered
     updates in Translate.
 - category: ai-research
-  description: Nano Banana 2 text with AI generated images around it
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
-  pub_date: '2026-02-26T16:00:00'
-  source: Google AI Blog
-  title: 'Nano Banana 2: Combining Pro capabilities with lightning-fast speed'
-- category: ai-research
   description: By leveraging idle computing time, researchers can double the speed
     of model training while preserving accuracy.
   icon: fa-graduation-cap
@@ -233,20 +251,4 @@ articles:
   source: MIT AI News
   title: Mixing generative AI with physics to create personal items that work in the
     real world
-- category: ai-research
-  description: By providing holistic information on a cell, an AI-driven method could
-    help scientists better understand disease mechanisms and plan experiments.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225
-  pub_date: '2026-02-25T10:00:00'
-  source: MIT AI News
-  title: AI to help researchers see the bigger picture in cell biology
-- category: ai-research
-  description: Strahinja Janjusevic brings an international perspective and US Naval
-    Academy education to his graduate research in the MIT Technology and Policy Program.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/enhancing-maritime-cybersecurity-technology-policy-strahinja-janjusevic-0225
-  pub_date: '2026-02-25T05:00:00'
-  source: MIT AI News
-  title: Enhancing maritime cybersecurity with technology and policy
-last_updated: '2026-03-11T06:55:01.982834'
+last_updated: '2026-03-12T06:56:51.316775'
