@@ -1,5 +1,55 @@
 articles:
 - category: supply-chain
+  description: The Strait of Hormuz carries about one-fifth of the world's oil, making
+    it one of the most important chokepoints in global supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-101-why-the-strait-of-hormuz-matters
+  pub_date: '2026-03-12T17:53:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain 101: Why the Strait of Hormuz Is So Important'
+- category: supply-chain
+  description: The U.S. Department of Labor recovered $1.08 million for 24 warehouse
+    workers after an investigation found they were paid as little as $2.03 per hour.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-workers-underpaid-dept-of-labor
+  pub_date: '2026-03-12T17:25:00'
+  source: Supply Chain 24/7
+  title: '$2.03 an Hour: Labor Dept. Finds Major Wage Violations at Warehouse'
+- category: supply-chain
+  description: AI shopping agents may soon place online orders automatically, forcing
+    retailers to strengthen the fulfillment networks behind their ecommerce operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-shopping-agents-retail-fulfillment-networks
+  pub_date: '2026-03-12T17:24:00'
+  source: Supply Chain 24/7
+  title: 'Report: AI Shopping Agents Will Force Retailers To Rethink Fulfillment'
+- category: supply-chain
+  description: Aptean EVP Allan Dow explains why faster decision-making, not more
+    data, may be the key to building more resilient supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/aptean-allan-dow-decision-centric-supply-chain
+  pub_date: '2026-03-12T16:25:00'
+  source: Supply Chain 24/7
+  title: Why Supply Chain Leaders Need Faster Decisions, Not More Data
+- category: circular
+  description: Material Focus has launched its Electricals Recycling Fund 2026, offering
+    UK councils and other organisations the opportunity to apply for a share of GBP1
+    million in grant funding. Now in its third ye...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/1m-electricals-recycling-fund-2026-opens-for-applications/
+  pub_date: '2026-03-12T09:01:44'
+  source: Circular Online
+  title: £1m Electricals Recycling Fund 2026 opens for applications
+- category: circular
+  description: Unite the Union has voted to cut its funding to the Labour Party by
+    GBP580,000 over the government's handling of bin strikes in Birmingham. The post
+    Unite cut Labour funding by GBP580,000 over Birming...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/unite-cut-labour-funding-by-580000-over-birmingham-bin-strikes/
+  pub_date: '2026-03-12T08:03:55'
+  source: Circular Online
+  title: Unite cut Labour funding by £580,000 over Birmingham bin strikes
+- category: supply-chain
   description: Gateway officials say construction on the $16 billion Hudson River
     tunnel could stop again within months if federal funding is not restored.
   icon: fa-box
@@ -58,22 +108,6 @@ articles:
   pub_date: '2026-03-10T14:52:00'
   source: Supply Chain 24/7
   title: U.S. Imports Expected to Fall Amid Tariff Uncertainty
-- category: supply-chain
-  description: A sharp rise in diesel prices tied to Middle East tensions is beginning
-    to push transportation costs higher across the supply chain.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/diesel-prices-spike-middle-east-conflict-supply-chain
-  pub_date: '2026-03-10T11:34:00'
-  source: Supply Chain 24/7
-  title: Diesel Prices Spike as Middle East Tensions Rattle Supply Chains
-- category: supply-chain
-  description: A new Fictiv report finds AI adoption jumped 18% in the past year as
-    manufacturers rely more on data-driven planning and logistics decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-use-in-supply-chain-operations-jumps-18-points-in-one-year
-  pub_date: '2026-03-10T11:24:00'
-  source: Supply Chain 24/7
-  title: AI Use in Supply Chain Operations Jumps 18 Points in One Year
 - category: circular
   description: Public support for the UK Government's net zero target has nearly halved
     since 2021, according to a new study by King's College London. The post Support
@@ -93,24 +127,6 @@ articles:
   source: Circular Online
   title: Paper could play a ‘valuable role’ in tackling plastic pollution, according
     to EMF report
-- category: supply-chain
-  description: Learn how Staples Canada transformed its fulfillment center with warehouse
-    automation. Discover how robotic picking improved order accuracy by 73%, doubled
-    productivity, and reduced training time.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/warehouse-automation-case-study-how-staples-canada-improved-order-accuracy-and-productivity
-  pub_date: '2026-03-09T22:21:00'
-  source: Supply Chain 24/7
-  title: 'Warehouse Automation Case Study: How Staples Canada Improved Order Accuracy
-    and Productivity'
-- category: supply-chain
-  description: Engineers at Purdue have built a road that can wirelessly power electric
-    trucks as they drive, a technology that could change how freight vehicles recharge.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/purdue-highway-wireless-charging-electric-trucks
-  pub_date: '2026-03-09T14:04:00'
-  source: Supply Chain 24/7
-  title: Inside Purdue’s Plan to Build Highways That Charge Electric Trucks
 - category: circular
   description: Two companies have been fined after a man was killed and another seriously
     injured when a cherry picker struck an 11,000-volt overhead powerline at an anaerobic
@@ -156,22 +172,4 @@ articles:
   pub_date: '2026-03-04T09:01:29'
   source: Circular Online
   title: Councils given powers to issue £500 on-the-spot fines for littering
-- category: circular
-  description: British Glass has called for Wales's Deposit Return Scheme to be paused,
-    warning the inclusion of glass in the policy could create 'substantial cost burdens'.
-    The post Glass industry calls for Welsh D...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/glass-industry-calls-for-welsh-drs-pause/
-  pub_date: '2026-03-04T08:06:23'
-  source: Circular Online
-  title: Glass industry calls for Welsh DRS ‘pause’
-- category: circular
-  description: News updates written by CIWM's commercial partners. Greyparrot Greyparrot
-    brings waste intelligence to beauty sector to encourage recoverable cosmetics
-    streams Bucher Municipal How Intelligent Street ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-03-march/
-  pub_date: '2026-03-03T14:44:51'
-  source: Circular Online
-  title: News in brief | CIWM Commercial Partner Updates 03 March
-last_updated: '2026-03-12T06:56:49.237012'
+last_updated: '2026-03-13T06:55:09.509838'

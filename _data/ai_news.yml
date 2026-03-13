@@ -1,5 +1,14 @@
 articles:
 - category: ai-research
+  description: Researchers at MIT, Mass General Brigham, and Harvard Medical School
+    developed a deep-learning model to forecast a patient's heart failure prognosis
+    up to a year in advance.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312
+  pub_date: '2026-03-12T21:30:00'
+  source: MIT AI News
+  title: Can AI help predict which heart-failure patients will worsen within a year?
+- category: ai-research
   description: A doctor is sitting across a desk from a patient. The doctor is holding
     a tablet and a pen. Medical charts renderings are in the background.
   icon: fa-google
@@ -7,6 +16,23 @@ articles:
   pub_date: '2026-03-12T15:00:00'
   source: Google AI Blog
   title: How AI is helping improve heart health in rural Australia
+- category: machine-learning
+  description: New to data science? Cut through the noise with the 2026 starter kit.
+    Which Python, SQL, and machine learning essentials are important, and what can
+    be ignored?
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-2026-data-science-starter-kit-what-to-learn-first-and-what-to-ignore
+  pub_date: '2026-03-12T14:00:10'
+  source: KDnuggets
+  title: 'The 2026 Data Science Starter Kit: What to Learn First (And What to Ignore)'
+- category: machine-learning
+  description: Looking to build autonomous AI agent systems? Here are the frameworks
+    that will help you orchestrate agents effectively.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks
+  pub_date: '2026-03-12T12:00:01'
+  source: KDnuggets
+  title: Top 7 AI Agent Orchestration Frameworks
 - category: ai-research
   description: Professor Jesse Thaler describes a vision for a two-way bridge between
     artificial intelligence and the mathematical and physical sciences - one that
@@ -126,15 +152,6 @@ articles:
   pub_date: '2026-03-09T14:00:49'
   source: KDnuggets
   title: Are Language Models a Commodity?
-- category: machine-learning
-  description: Learn how people are turning AI tools into real income by building
-    practical systems, selling outcomes, and creating niche products that businesses
-    are willing to pay for.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-ways-people-are-making-money-using-ai-in-2026
-  pub_date: '2026-03-09T12:00:27'
-  source: KDnuggets
-  title: 7 Ways People Are Making Money Using AI in 2026
 - category: ai-research
   description: A new approach could help users know whether to trust a model's predictions
     in safety-critical applications like health care and autonomous driving.
@@ -150,14 +167,6 @@ articles:
   pub_date: '2026-03-06T18:00:00'
   source: Google AI Blog
   title: How our open-source AI model SpeciesNet is helping to promote wildlife conservation
-- category: machine-learning
-  description: Learn these five Python decorators based on diverse libraries, that
-    take particular significance when used in the context of LLM-based applications.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-powerful-python-decorators-to-optimize-llm-applications
-  pub_date: '2026-03-06T15:00:19'
-  source: KDnuggets
-  title: 5 Powerful Python Decorators to Optimize LLM Applications
 - category: ai-research
   description: Mobile phone with a search bar that says "Ask anything"
   icon: fa-google
@@ -241,14 +250,4 @@ articles:
   pub_date: '2026-02-26T05:00:00'
   source: MIT AI News
   title: New method could increase LLM training efficiency
-- category: ai-research
-  description: To help generative AI models create durable, real-world accessories
-    and decor, the PhysiOpt system runs physics simulations and makes subtle tweaks
-    to its 3D blueprints.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225
-  pub_date: '2026-02-25T19:40:00'
-  source: MIT AI News
-  title: Mixing generative AI with physics to create personal items that work in the
-    real world
-last_updated: '2026-03-12T06:56:51.316775'
+last_updated: '2026-03-13T06:55:11.596933'
