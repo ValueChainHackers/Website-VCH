@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: A new Gartner research note outlines seven ways the Iran war could
+    disrupt semiconductor production, AI infrastructure and global tech supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/iran-war-tech-supply-chain-risks
+  pub_date: '2026-03-13T15:46:00'
+  source: Supply Chain 24/7
+  title: Seven Ways the Iran War Could Disrupt Global Tech Supply Chains
+- category: supply-chain
+  description: EPG's Lindsay Schuemann shares how a career pivot, an MBA, and strong
+    mentors helped launch her into supply chain technology marketing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/lindsay-schuemann-epg-women-in-supply-chain
+  pub_date: '2026-03-13T13:47:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Lindsay Schuemann of EPG'
+- category: supply-chain
+  description: AI is changing supply chains rapidly, but outdated training methods
+    are leaving many frontline workers unprepared to use the technology.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-frontline-training-supply-chain-workforce
+  pub_date: '2026-03-13T13:02:00'
+  source: Supply Chain 24/7
+  title: AI Is the Future. But Frontline Training Is Stuck in the Past
+- category: circular
+  description: UK paint brands invest GBP500,000 in leftover paint return scheme trial,
+    which will be run in partnership with waste management company Biffa. The post
+    UK paint brands partner with Biffa on leftover p...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-paint-brands-partner-with-biffa-on-leftover-paint-return-scheme/
+  pub_date: '2026-03-13T11:54:37'
+  source: Circular Online
+  title: UK paint brands partner with Biffa on leftover paint return scheme
+- category: supply-chain
+  description: Leasing for large U.S. warehouses surged in 2025 as companies consolidated
+    operations and upgraded logistics facilities, according to Cushman & Wakefield.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/large-warehouse-leasing-rebounds-us
+  pub_date: '2026-03-13T07:52:00'
+  source: Supply Chain 24/7
+  title: Demand for Big-Box Warehouse Jumps as Big-Box Leasing Rebounds
+- category: supply-chain
   description: The Strait of Hormuz carries about one-fifth of the world's oil, making
     it one of the most important chokepoints in global supply chains.
   icon: fa-box
@@ -65,14 +106,6 @@ articles:
   pub_date: '2026-03-11T13:27:00'
   source: Supply Chain 24/7
   title: Court Reopens Lawsuit Over Trump’s De Minimis Suspension
-- category: supply-chain
-  description: MIT and Mecalux have developed an AI simulator that helps companies
-    optimize inventory across multiple warehouses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/mit-mecalux-develop-genesis-inventory-management
-  pub_date: '2026-03-11T13:10:00'
-  source: Supply Chain 24/7
-  title: MIT and Mecalux Develop AI Tool to Help Companies Balance Inventory
 - category: circular
   description: Lidl GB has increased its target to reduce food waste from its stores
     from 50% to 70% by 2030. The post Lidl GB sets target to reduce food waste by
@@ -82,32 +115,6 @@ articles:
   pub_date: '2026-03-11T09:45:36'
   source: Circular Online
   title: Lidl GB sets target to reduce food waste by 70% by 2030
-- category: supply-chain
-  description: Discover the top transportation and logistics trends for 2026, including
-    AI adoption, supply chain resilience, sustainability strategies, workforce challenges,
-    and the rise of connected logistics ecos...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/transportation-and-logistics-trends-for-2026-ai-sustainability-and-supply-chain-resilience
-  pub_date: '2026-03-10T19:22:00'
-  source: Supply Chain 24/7
-  title: 'Transportation and Logistics Trends for 2026: AI, Sustainability, and Supply
-    Chain Resilience'
-- category: supply-chain
-  description: GE Aerospace is investing $1 billion in U.S. manufacturing to expand
-    engine production and support a growing backlog of aviation orders.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ge-aerospace-1-billion-us-manufacturing-investment
-  pub_date: '2026-03-10T16:50:00'
-  source: Supply Chain 24/7
-  title: GE Aerospace Announces $1 Billion Investment in U.S. Manufacturing
-- category: supply-chain
-  description: U.S. container import volumes are expected to decline during the first
-    half of the year as retailers navigate tariff uncertainty and geopolitical risks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/u.s-imports-expected-to-fall-amid-tariff-uncertainty
-  pub_date: '2026-03-10T14:52:00'
-  source: Supply Chain 24/7
-  title: U.S. Imports Expected to Fall Amid Tariff Uncertainty
 - category: circular
   description: Public support for the UK Government's net zero target has nearly halved
     since 2021, according to a new study by King's College London. The post Support
@@ -163,13 +170,4 @@ articles:
   pub_date: '2026-03-05T08:30:00'
   source: Circular Online
   title: LGA calls for urgent sentencing review into fly-tipping court fines
-- category: circular
-  description: Councils in England have been given powers to issue on-the-spot fines
-    of up to GBP500 for littering, as part of legally-binding government guidance.
-    The post Councils given powers to issue GBP500 on-t...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/councils-given-powers-to-issue-500-on-the-spot-fines-for-littering/
-  pub_date: '2026-03-04T09:01:29'
-  source: Circular Online
-  title: Councils given powers to issue £500 on-the-spot fines for littering
-last_updated: '2026-03-13T06:55:09.509838'
+last_updated: '2026-03-14T06:48:19.853356'

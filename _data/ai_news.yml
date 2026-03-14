@@ -1,4 +1,21 @@
 articles:
+- category: machine-learning
+  description: Out of 816 wines flagged by at least one method, just 32 made the unanimous
+    list. Those wines had something in common.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/we-used-5-outlier-detection-methods-on-a-real-dataset-they-disagreed-on-96-of-flagged-samples
+  pub_date: '2026-03-13T14:00:48'
+  source: KDnuggets
+  title: 'We Used 5 Outlier Detection Methods on a Real Dataset: They Disagreed on
+    96% of Flagged Samples'
+- category: machine-learning
+  description: This article presents five useful and effective Python decorators to
+    build and optimize high performance data pipelines.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-powerful-python-decorators-for-high-performance-data-pipelines
+  pub_date: '2026-03-13T12:00:06'
+  source: KDnuggets
+  title: 5 Powerful Python Decorators for High-Performance Data Pipelines
 - category: ai-research
   description: Researchers at MIT, Mass General Brigham, and Harvard Medical School
     developed a deep-learning model to forecast a patient's heart failure prognosis
@@ -134,24 +151,6 @@ articles:
   pub_date: '2026-03-10T12:00:33'
   source: KDnuggets
   title: 10 Python Libraries Every LLM Engineer Should Know
-- category: machine-learning
-  description: Learn how Google Stax tests AI models and prompts against your own
-    criteria. Compare Gemini vs GPT with custom evaluators. Step-by-step guide for
-    beginners
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/google-stax-testing-models-and-prompts-against-your-own-criteria
-  pub_date: '2026-03-09T16:00:18'
-  source: KDnuggets
-  title: 'Google Stax: Testing Models and Prompts Against Your Own Criteria'
-- category: machine-learning
-  description: 'Analyzing a set of objective facts about language models role and
-    evolution, with some thoughts on the following question: are they the new commodity
-    of the decade we can no longer live without?'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/are-language-models-a-commodity
-  pub_date: '2026-03-09T14:00:49'
-  source: KDnuggets
-  title: Are Language Models a Commodity?
 - category: ai-research
   description: A new approach could help users know whether to trust a model's predictions
     in safety-critical applications like health care and autonomous driving.
@@ -250,4 +249,4 @@ articles:
   pub_date: '2026-02-26T05:00:00'
   source: MIT AI News
   title: New method could increase LLM training efficiency
-last_updated: '2026-03-13T06:55:11.596933'
+last_updated: '2026-03-14T06:48:21.485574'
