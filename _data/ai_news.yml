@@ -1,5 +1,37 @@
 articles:
 - category: machine-learning
+  description: Access the complimentary Gartner insights now and discover how to make
+    the shifts that matter most for analytics and AI success.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/03/gartner/5-critical-shifts-da-leaders-must-make-to-drive-analytics-and-ai-success
+  pub_date: '2026-03-16T17:00:51'
+  source: KDnuggets
+  title: 5 Critical Shifts D&A Leaders Must Make to Drive Analytics and AI Success
+- category: machine-learning
+  description: Understanding the gap between startup aspirations and practical execution
+    reveals important lessons about building sustainable AI companies.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-ai-startup-advisors-see-that-founders-often-miss
+  pub_date: '2026-03-16T16:00:19'
+  source: KDnuggets
+  title: What AI Startup Advisors See That Founders Often Miss
+- category: machine-learning
+  description: Google's MusicFX DJ turns AI music generation into an interactive,
+    consumer-friendly experience, creating real-time music from text prompts.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/ai-music-generation-goes-consumer-with-googles-musicfx-dj
+  pub_date: '2026-03-16T14:00:50'
+  source: KDnuggets
+  title: AI Music Generation Goes Consumer with Google’s MusicFX DJ
+- category: machine-learning
+  description: Save money & take control in 2026. Discover 5 powerful open-source,
+    self-hosted tools to replace costly subscriptions for data scientists.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-self-hosted-alternatives-for-data-scientists-in-2026
+  pub_date: '2026-03-16T12:00:01'
+  source: KDnuggets
+  title: 5 Self-Hosted Alternatives for Data Scientists in 2026
+- category: machine-learning
   description: Out of 816 wines flagged by at least one method, just 32 made the unanimous
     list. Those wines had something in common.
   icon: fa-chart-bar
@@ -111,29 +143,6 @@ articles:
   source: MIT AI News
   title: How Joseph Paradiso’s sensing innovations bridge the arts, medicine, and
     ecology
-- category: machine-learning
-  description: ''
-  icon: fa-chart-bar
-  link: https://bit.ly/40nBVbe
-  pub_date: '2026-03-10T17:29:06'
-  source: KDnuggets
-  title: Understanding The Cost Of One Compromised Account (Sponsored)
-- category: machine-learning
-  description: Learn how to install bitnet.cpp, download the BitNet b1.58 model, and
-    run a fully local AI chat and inference server on your machine.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/run-tiny-ai-models-locally-using-bitnet-a-beginner-guide
-  pub_date: '2026-03-10T16:00:45'
-  source: KDnuggets
-  title: Run Tiny AI Models Locally Using BitNet A Beginner Guide
-- category: machine-learning
-  description: Check out a practical benchmark of three popular SQL databases using
-    real-world analytical problems.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/postgres-vs-mysql-vs-sqlite-comparing-sql-performance-across-engines
-  pub_date: '2026-03-10T14:00:30'
-  source: KDnuggets
-  title: 'Postgres vs MySQL vs SQLite: Comparing SQL Performance Across Engines'
 - category: ai-research
   description: Today we announced new beta features for Gemini in Sheets to help you
     create, organize and edit entire sheets, from basic tasks to complex data analysis
@@ -143,14 +152,6 @@ articles:
   pub_date: '2026-03-10T13:00:00'
   source: Google AI Blog
   title: Gemini in Google Sheets just achieved state-of-the-art performance.
-- category: machine-learning
-  description: Interested in becoming an LLM engineer? Here's a list of Python libraries
-    you'll find essential for your work.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-python-libraries-every-llm-engineer-should-know
-  pub_date: '2026-03-10T12:00:33'
-  source: KDnuggets
-  title: 10 Python Libraries Every LLM Engineer Should Know
 - category: ai-research
   description: A new approach could help users know whether to trust a model's predictions
     in safety-critical applications like health care and autonomous driving.
@@ -249,4 +250,4 @@ articles:
   pub_date: '2026-02-26T05:00:00'
   source: MIT AI News
   title: New method could increase LLM training efficiency
-last_updated: '2026-03-16T07:18:30.502923'
+last_updated: '2026-03-17T07:05:08.319307'

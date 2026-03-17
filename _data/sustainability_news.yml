@@ -1,5 +1,65 @@
 articles:
 - category: supply-chain
+  description: Arvato has acquired Think Logistics to expand its North American logistics
+    network and enter the Canadian fulfillment market.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/arvato-think-logistics-acquisition
+  pub_date: '2026-03-16T16:11:00'
+  source: Supply Chain 24/7
+  title: Arvato Expands North American Network With Think Logistics Acquisition
+- category: circular
+  description: The UK Government is considering granting the Environment Agency 'police-style'
+    powers to tackle waste. The post Ministers consider granting Environment Agency
+    police-style powers to tackle waste crim...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ministers-consider-granting-environment-agency-police-style-powers-to-tackle-waste-crime/
+  pub_date: '2026-03-16T12:29:00'
+  source: Circular Online
+  title: Ministers consider granting Environment Agency police-style powers to tackle
+    waste crime
+- category: supply-chain
+  description: A new DHL report finds globalization remains near record levels despite
+    tariffs, geopolitical tensions, and growing U.S.-China decoupling.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-global-connectedness-report-globalization-trade-2026
+  pub_date: '2026-03-16T12:24:00'
+  source: Supply Chain 24/7
+  title: DHL Report Finds Globalization Holding Steady Amid Trade Tensions
+- category: supply-chain
+  description: The U.S. Department of Energy is investing $500 million to expand domestic
+    processing, recycling and manufacturing of critical battery materials.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-500m-battery-materials-supply-chain-investment
+  pub_date: '2026-03-16T12:16:00'
+  source: Supply Chain 24/7
+  title: Energy Department Invests $500M in Critical Minerals Supply Chain
+- category: supply-chain
+  description: MODEX 2026 is expected to set new records for attendance and exhibit
+    space as robotics, automation and AI continue to reshape supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/modex-2026-expected-to-draw-50000-attendees-atlanta
+  pub_date: '2026-03-16T11:37:00'
+  source: Supply Chain 24/7
+  title: MHI CEO John Paxton On Robotics, AI And The Future Of MODEX
+- category: circular
+  description: The Chartered Institution of Wastes Management (CIWM) has announced
+    that Marcus Gover, former CEO of WRAP, will become its new Junior Vice President.
+    The post CIWM to appoint Marcus Gover as new Junio...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-to-appoint-marcus-gover-as-new-junior-vice-president/
+  pub_date: '2026-03-16T10:02:49'
+  source: Circular Online
+  title: CIWM to appoint Marcus Gover as new Junior Vice President
+- category: circular
+  description: A waste and recycling company has been fined over GBP30,000 after an
+    employee suffered life-changing injuries after being crushed by a reversing telehandler.
+    The post Recycling company fined after man...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/recycling-company-fined-after-man-suffers-life-changing-injuries/
+  pub_date: '2026-03-16T08:56:48'
+  source: Circular Online
+  title: Recycling company fined after man suffers life-changing injuries
+- category: supply-chain
   description: A new Gartner research note outlines seven ways the Iran war could
     disrupt semiconductor production, AI infrastructure and global tech supply chains.
   icon: fa-box
@@ -56,22 +116,6 @@ articles:
   pub_date: '2026-03-12T17:25:00'
   source: Supply Chain 24/7
   title: '$2.03 an Hour: Labor Dept. Finds Major Wage Violations at Warehouse'
-- category: supply-chain
-  description: AI shopping agents may soon place online orders automatically, forcing
-    retailers to strengthen the fulfillment networks behind their ecommerce operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-shopping-agents-retail-fulfillment-networks
-  pub_date: '2026-03-12T17:24:00'
-  source: Supply Chain 24/7
-  title: 'Report: AI Shopping Agents Will Force Retailers To Rethink Fulfillment'
-- category: supply-chain
-  description: Aptean EVP Allan Dow explains why faster decision-making, not more
-    data, may be the key to building more resilient supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/aptean-allan-dow-decision-centric-supply-chain
-  pub_date: '2026-03-12T16:25:00'
-  source: Supply Chain 24/7
-  title: Why Supply Chain Leaders Need Faster Decisions, Not More Data
 - category: circular
   description: Material Focus has launched its Electricals Recycling Fund 2026, offering
     UK councils and other organisations the opportunity to apply for a share of GBP1
@@ -90,22 +134,6 @@ articles:
   pub_date: '2026-03-12T08:03:55'
   source: Circular Online
   title: Unite cut Labour funding by £580,000 over Birmingham bin strikes
-- category: supply-chain
-  description: Gateway officials say construction on the $16 billion Hudson River
-    tunnel could stop again within months if federal funding is not restored.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hudson-river-tunnel-funding-dispute-work-could-halt
-  pub_date: '2026-03-11T13:35:00'
-  source: Supply Chain 24/7
-  title: New York–New Jersey Rail Tunnel Project Faces Another Shutdown
-- category: supply-chain
-  description: A trade court has revived a lawsuit challenging the administration's
-    suspension of the de minimis exemption for low-value imports.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/court-reopens-de-minimis-lawsuit-detroit-axle
-  pub_date: '2026-03-11T13:27:00'
-  source: Supply Chain 24/7
-  title: Court Reopens Lawsuit Over Trump’s De Minimis Suspension
 - category: circular
   description: Lidl GB has increased its target to reduce food waste from its stores
     from 50% to 70% by 2030. The post Lidl GB sets target to reduce food waste by
@@ -143,31 +171,4 @@ articles:
   pub_date: '2026-03-09T11:20:14'
   source: Circular Online
   title: Two companies fined after death at anaerobic digestion plant
-- category: circular
-  description: 64% of people in the UK believe that some food waste at home is inevitable,
-    a survey released by WRAP as part of Food Waste Action Week has found. The post
-    64% of people think some household food wast...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/64-of-people-think-some-household-food-waste-is-inevitable/
-  pub_date: '2026-03-09T10:33:46'
-  source: Circular Online
-  title: 64% of people think some household food waste is ‘inevitable’
-- category: circular
-  description: Fly-tipping incidents in Wales rose by 14.7% between April 2024 and
-    March 2025, according to official figures. The post Fly-tipping incidents in Wales
-    rise by 14.7% appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/fly-tipping-incidents-in-wales-rise-by-14-7/
-  pub_date: '2026-03-06T11:00:22'
-  source: Circular Online
-  title: Fly-tipping incidents in Wales rise by 14.7%
-- category: circular
-  description: The Local Government Association (LGA) is calling on the Government
-    and the Sentencing Council to urgently review sentencing guidelines for fly-tipping.
-    The post LGA calls for urgent sentencing review...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/lga-calls-for-urgent-sentencing-review-into-fly-tipping-court-fines/
-  pub_date: '2026-03-05T08:30:00'
-  source: Circular Online
-  title: LGA calls for urgent sentencing review into fly-tipping court fines
-last_updated: '2026-03-16T07:18:28.145619'
+last_updated: '2026-03-17T07:05:02.314981'
