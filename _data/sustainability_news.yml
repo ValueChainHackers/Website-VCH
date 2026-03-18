@@ -1,5 +1,55 @@
 articles:
 - category: supply-chain
+  description: Tesla is reportedly turning to LG Energy Solution for a $4.3 billion
+    battery deal to expand U.S. production in Michigan.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tesla-lg-energy-michigan-battery-deal
+  pub_date: '2026-03-17T15:22:00'
+  source: Supply Chain 24/7
+  title: 'Report: Tesla, LG Energy to Build $4.3B Battery Plant in Michigan'
+- category: supply-chain
+  description: Dole is positioning supply chain as a leadership function that helps
+    drive innovation, strengthen partnerships and support long-term growth.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dole-supply-chain-growth-strategy
+  pub_date: '2026-03-17T14:40:00'
+  source: Supply Chain 24/7
+  title: How Dole Is Repositioning Its Supply Chain as a Growth Strategy
+- category: supply-chain
+  description: Krber is partnering with NVIDIA to help companies simulate warehouse
+    operations and test changes before putting them into action.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/koerber-teams-with-nvidia-to-bring-ai-simulations-to-warehouses
+  pub_date: '2026-03-17T14:29:00'
+  source: Supply Chain 24/7
+  title: Körber Teams With NVIDIA to Bring AI Simulations to Warehouses
+- category: supply-chain
+  description: Radial's Mike Simpson explains how TikTok Shop is changing fulfillment
+    strategy and why brands need flexible logistics networks to handle viral demand.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tiktok-shop-fulfillment-strategy-brands
+  pub_date: '2026-03-17T13:17:00'
+  source: Supply Chain 24/7
+  title: How TikTok Shop Is Changing Fulfillment for Retail Brands
+- category: circular
+  description: A drug to treat Parkinson's disease can be made from waste plastic
+    bottles using bacteria, a new study shows. The post Scientists recycle waste plastic
+    bottles into Parkinson's drug appeared first on ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/scientists-recycle-waste-plastic-bottles-into-parkinsons-drug/
+  pub_date: '2026-03-17T09:15:57'
+  source: Circular Online
+  title: Scientists recycle waste plastic bottles into Parkinson’s drug
+- category: circular
+  description: Natural Resources Wales has never applied for a restriction order,
+    a unique enforcement power to shut down illegal waste sites within 72 hours, since
+    being given the power to do so in 2018. The post N...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/nrw-has-never-used-its-unique-legal-powers-to-stop-waste-crime/
+  pub_date: '2026-03-17T08:00:00'
+  source: Circular Online
+  title: NRW has never used its unique legal powers to stop waste crime
+- category: supply-chain
   description: Arvato has acquired Think Logistics to expand its North American logistics
     network and enter the Canadian fulfillment market.
   icon: fa-box
@@ -7,6 +57,45 @@ articles:
   pub_date: '2026-03-16T16:11:00'
   source: Supply Chain 24/7
   title: Arvato Expands North American Network With Think Logistics Acquisition
+- category: supply-chain
+  description: See how warehouse automation, conveyor systems, and integrated software
+    improved fulfillment efficiency, freed floor space, and increased order accuracy
+    for DoMyOwn's new distribution facility.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/warehouse-automation-case-study-improving-fulfillment-efficiency-for-domyown
+  pub_date: '2026-03-16T14:03:00'
+  source: Supply Chain 24/7
+  title: 'Warehouse Automation Case Study: Improving Fulfillment Efficiency for DoMyOwn'
+- category: supply-chain
+  description: See how Storage Solutions designed and installed over 1,000 bays of
+    pallet racking and 15,000+ pallet positions for L&M Fleet Supply's new distribution
+    center in Grand Rapids, MN.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/warehouse-pallet-racking-installation-case-study-lm-fleet-supply-distribution-center
+  pub_date: '2026-03-16T14:02:00'
+  source: Supply Chain 24/7
+  title: Warehouse Pallet Racking Installation Case Study L&M Fleet Supply Distribution
+    Center
+- category: supply-chain
+  description: Learn how a custom drive-in racking solution helped a warehouse add
+    3,200+ pallet positions and eliminate costly off-site storage. Explore this warehouse
+    storage optimization case study.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/warehouse-storage-optimization-case-study-increasing-pallet-capacity-with-drive-in-racking
+  pub_date: '2026-03-16T14:02:00'
+  source: Supply Chain 24/7
+  title: 'Warehouse Storage Optimization Case Study: Increasing Pallet Capacity with
+    Drive-In Racking'
+- category: supply-chain
+  description: Discover how vertical lift modules (VLMs) helped optimize storage,
+    improve picking speed, and increase efficiency for a 200,000 sq. ft. aerospace
+    parts facility handling 20,000+ small parts.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/aerospace-parts-storage-solution-vertical-lift-modules-improve-warehouse-efficiency
+  pub_date: '2026-03-16T14:00:00'
+  source: Supply Chain 24/7
+  title: 'Aerospace Parts Storage Solution: Vertical Lift Modules Improve Warehouse
+    Efficiency'
 - category: circular
   description: The UK Government is considering granting the Environment Agency 'police-style'
     powers to tackle waste. The post Ministers consider granting Environment Agency
@@ -25,22 +114,6 @@ articles:
   pub_date: '2026-03-16T12:24:00'
   source: Supply Chain 24/7
   title: DHL Report Finds Globalization Holding Steady Amid Trade Tensions
-- category: supply-chain
-  description: The U.S. Department of Energy is investing $500 million to expand domestic
-    processing, recycling and manufacturing of critical battery materials.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-500m-battery-materials-supply-chain-investment
-  pub_date: '2026-03-16T12:16:00'
-  source: Supply Chain 24/7
-  title: Energy Department Invests $500M in Critical Minerals Supply Chain
-- category: supply-chain
-  description: MODEX 2026 is expected to set new records for attendance and exhibit
-    space as robotics, automation and AI continue to reshape supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/modex-2026-expected-to-draw-50000-attendees-atlanta
-  pub_date: '2026-03-16T11:37:00'
-  source: Supply Chain 24/7
-  title: MHI CEO John Paxton On Robotics, AI And The Future Of MODEX
 - category: circular
   description: The Chartered Institution of Wastes Management (CIWM) has announced
     that Marcus Gover, former CEO of WRAP, will become its new Junior Vice President.
@@ -59,30 +132,6 @@ articles:
   pub_date: '2026-03-16T08:56:48'
   source: Circular Online
   title: Recycling company fined after man suffers life-changing injuries
-- category: supply-chain
-  description: A new Gartner research note outlines seven ways the Iran war could
-    disrupt semiconductor production, AI infrastructure and global tech supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/iran-war-tech-supply-chain-risks
-  pub_date: '2026-03-13T15:46:00'
-  source: Supply Chain 24/7
-  title: Seven Ways the Iran War Could Disrupt Global Tech Supply Chains
-- category: supply-chain
-  description: EPG's Lindsay Schuemann shares how a career pivot, an MBA, and strong
-    mentors helped launch her into supply chain technology marketing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lindsay-schuemann-epg-women-in-supply-chain
-  pub_date: '2026-03-13T13:47:00'
-  source: Supply Chain 24/7
-  title: 'Women in Supply Chain: Lindsay Schuemann of EPG'
-- category: supply-chain
-  description: AI is changing supply chains rapidly, but outdated training methods
-    are leaving many frontline workers unprepared to use the technology.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-frontline-training-supply-chain-workforce
-  pub_date: '2026-03-13T13:02:00'
-  source: Supply Chain 24/7
-  title: AI Is the Future. But Frontline Training Is Stuck in the Past
 - category: circular
   description: UK paint brands invest GBP500,000 in leftover paint return scheme trial,
     which will be run in partnership with waste management company Biffa. The post
@@ -92,30 +141,6 @@ articles:
   pub_date: '2026-03-13T11:54:37'
   source: Circular Online
   title: UK paint brands partner with Biffa on leftover paint return scheme
-- category: supply-chain
-  description: Leasing for large U.S. warehouses surged in 2025 as companies consolidated
-    operations and upgraded logistics facilities, according to Cushman & Wakefield.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/large-warehouse-leasing-rebounds-us
-  pub_date: '2026-03-13T07:52:00'
-  source: Supply Chain 24/7
-  title: Demand for Big-Box Warehouse Jumps as Big-Box Leasing Rebounds
-- category: supply-chain
-  description: The Strait of Hormuz carries about one-fifth of the world's oil, making
-    it one of the most important chokepoints in global supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-101-why-the-strait-of-hormuz-matters
-  pub_date: '2026-03-12T17:53:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain 101: Why the Strait of Hormuz Is So Important'
-- category: supply-chain
-  description: The U.S. Department of Labor recovered $1.08 million for 24 warehouse
-    workers after an investigation found they were paid as little as $2.03 per hour.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-workers-underpaid-dept-of-labor
-  pub_date: '2026-03-12T17:25:00'
-  source: Supply Chain 24/7
-  title: '$2.03 an Hour: Labor Dept. Finds Major Wage Violations at Warehouse'
 - category: circular
   description: Material Focus has launched its Electricals Recycling Fund 2026, offering
     UK councils and other organisations the opportunity to apply for a share of GBP1
@@ -152,23 +177,4 @@ articles:
   pub_date: '2026-03-10T10:13:21'
   source: Circular Online
   title: Support for UK net zero target has almost halved, survey shows
-- category: circular
-  description: Paper could play a valuable role in tackling plastic pollution by providing
-    an alternative to flexible plastic packaging, according to a new report from the
-    Ellen MacArthur Foundation. The post Paper ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/paper-could-play-a-valuable-role-in-tackling-plastic-pollution-according-to-emf-report/
-  pub_date: '2026-03-10T09:19:43'
-  source: Circular Online
-  title: Paper could play a ‘valuable role’ in tackling plastic pollution, according
-    to EMF report
-- category: circular
-  description: Two companies have been fined after a man was killed and another seriously
-    injured when a cherry picker struck an 11,000-volt overhead powerline at an anaerobic
-    digestion plant in Devon. The post Two ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/two-companies-fined-after-death-at-anaerobic-digestion-plant/
-  pub_date: '2026-03-09T11:20:14'
-  source: Circular Online
-  title: Two companies fined after death at anaerobic digestion plant
-last_updated: '2026-03-17T07:05:02.314981'
+last_updated: '2026-03-18T07:02:18.721221'

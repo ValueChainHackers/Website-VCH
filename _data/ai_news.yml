@@ -1,4 +1,69 @@
 articles:
+- category: ai-research
+  description: At MIT, former U.S. ambassador to China Nicholas Burns highlights climate
+    change as an area for diplomatic engagement, while exploring areas including China's
+    emphasis on STEM education.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318
+  pub_date: '2026-03-18T04:00:00'
+  source: MIT AI News
+  title: Sustaining diplomacy amid competition in US-China relations
+- category: machine-learning
+  description: In the lab, your AI model might seem perfect, but the real world is
+    often where it breaks.
+  icon: fa-chart-bar
+  link: https://bit.ly/ingram-topic-21-kdn-website#new_tab
+  pub_date: '2026-03-18T00:21:40'
+  source: KDnuggets
+  title: 'AIOps 101: The 3 Pillars of Reliably Deploying AI Models (Sponsored)'
+- category: ai-research
+  description: Academia-industry relationship is an early-stage accelerator, supporting
+    professional progress and research.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317
+  pub_date: '2026-03-17T20:35:44'
+  source: MIT AI News
+  title: 'MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact'
+- category: machine-learning
+  description: With 100+ built-in skills, OpenClaw connects AI models directly to
+    apps, browsers, and system tools.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/openclaw-explained-the-free-ai-agent-tool-going-viral-already-in-2026
+  pub_date: '2026-03-17T16:00:37'
+  source: KDnuggets
+  title: 'OpenClaw Explained: The Free AI Agent Tool Going Viral Already in 2026'
+- category: ai-research
+  description: Bubble that says "Personal Intelligence" with Google G, Google Photos
+    logo, and Gmail logo around it
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/
+  pub_date: '2026-03-17T16:00:00'
+  source: Google AI Blog
+  title: Bringing the power of Personal Intelligence to more people
+- category: ai-research
+  description: A collage including security icons and photos of hands clasped, a man
+    looking at a computer, and two people pointing at something off camera
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/
+  pub_date: '2026-03-17T16:00:00'
+  source: Google AI Blog
+  title: Our latest investment in open source security for the AI era
+- category: machine-learning
+  description: 'Check out the current state AI agent engineering the accessible way:
+    demystifying the jargon, and seeking supporting evidence.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-state-of-agent-engineering-report-overview
+  pub_date: '2026-03-17T14:00:28'
+  source: KDnuggets
+  title: The State of Agent Engineering Report Overview
+- category: machine-learning
+  description: Learn about a future-proof shift from fragile prompt strings to reusable,
+    testable building blocks.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-evolution-from-prompt-engineering-to-concept-engineering
+  pub_date: '2026-03-17T12:00:40'
+  source: KDnuggets
+  title: The Evolution From Prompt Engineering to Concept Engineering
 - category: machine-learning
   description: Access the complimentary Gartner insights now and discover how to make
     the shifts that matter most for analytics and AI success.
@@ -65,23 +130,6 @@ articles:
   pub_date: '2026-03-12T15:00:00'
   source: Google AI Blog
   title: How AI is helping improve heart health in rural Australia
-- category: machine-learning
-  description: New to data science? Cut through the noise with the 2026 starter kit.
-    Which Python, SQL, and machine learning essentials are important, and what can
-    be ignored?
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-2026-data-science-starter-kit-what-to-learn-first-and-what-to-ignore
-  pub_date: '2026-03-12T14:00:10'
-  source: KDnuggets
-  title: 'The 2026 Data Science Starter Kit: What to Learn First (And What to Ignore)'
-- category: machine-learning
-  description: Looking to build autonomous AI agent systems? Here are the frameworks
-    that will help you orchestrate agents effectively.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks
-  pub_date: '2026-03-12T12:00:01'
-  source: KDnuggets
-  title: Top 7 AI Agent Orchestration Frameworks
 - category: ai-research
   description: Professor Jesse Thaler describes a vision for a two-way bridge between
     artificial intelligence and the mathematical and physical sciences - one that
@@ -99,23 +147,6 @@ articles:
   pub_date: '2026-03-11T16:10:00'
   source: MIT AI News
   title: New MIT class uses anthropology to improve chatbots
-- category: machine-learning
-  description: In this guide, you learn how to install and run PersonaPlex locally
-    step by step, so you can experience real time, interruptible speech to speech
-    AI directly on your own machine.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally
-  pub_date: '2026-03-11T14:00:36'
-  source: KDnuggets
-  title: Run a Real Time Speech to Speech AI Model Locally
-- category: machine-learning
-  description: Discover five AI tools that make exploring and understanding large
-    codebases faster and easier.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-ai-tools-to-understand-code-and-generate-documentation
-  pub_date: '2026-03-11T12:00:38'
-  source: KDnuggets
-  title: 5 Free AI Tools to Understand Code and Generate Documentation
 - category: ai-research
   description: A new hybrid system could help robots navigate in changing environments
     or increase the efficiency of multirobot assembly teams.
@@ -216,38 +247,4 @@ articles:
   pub_date: '2026-03-03T16:34:00'
   source: Google AI Blog
   title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
-- category: ai-research
-  description: Lincoln Laboratory intern Ivy Mahncke developed and tested algorithms
-    to help human divers and robots navigate underwater.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/featured-video-coding-underwater-robotics-0227
-  pub_date: '2026-02-27T22:15:00'
-  source: MIT AI News
-  title: 'Featured video: Coding for underwater robotics'
-- category: ai-research
-  description: Google is partnering with the Massachusetts AI Hub to provide every
-    Baystater with no-cost access to Google's AI training.
-  icon: fa-google
-  link: https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/
-  pub_date: '2026-02-26T18:55:00'
-  source: Google AI Blog
-  title: Google and the Massachusetts AI Hub are launching a new AI training initiative
-    for the Commonwealth.
-- category: ai-research
-  description: New alternatives, "understand" and "ask" buttons in Google Translate
-    help you navigate the complexities of natural language.
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/
-  pub_date: '2026-02-26T18:00:00'
-  source: Google AI Blog
-  title: Get more context and understand translations more deeply with new AI-powered
-    updates in Translate.
-- category: ai-research
-  description: By leveraging idle computing time, researchers can double the speed
-    of model training while preserving accuracy.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226
-  pub_date: '2026-02-26T05:00:00'
-  source: MIT AI News
-  title: New method could increase LLM training efficiency
-last_updated: '2026-03-17T07:05:08.319307'
+last_updated: '2026-03-18T07:02:21.079271'
