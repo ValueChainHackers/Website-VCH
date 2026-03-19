@@ -1,5 +1,36 @@
 articles:
 - category: ai-research
+  description: With this new technique, a robot could more accurately detect hidden
+    objects or understand an indoor scene using reflected Wi-Fi signals.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319
+  pub_date: '2026-03-19T04:00:00'
+  source: MIT AI News
+  title: Generative AI improves a wireless vision system that sees through obstructions
+- category: ai-research
+  description: This new metric for measuring uncertainty could flag hallucinations
+    and help users know whether to trust an AI model.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319
+  pub_date: '2026-03-19T04:00:00'
+  source: MIT AI News
+  title: A better method for identifying overconfident large language models
+- category: machine-learning
+  description: Read this empirical analysis of how dataset structure drives window
+    functions, CTEs, JOINs, and pandas merge patterns.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/visualizing-patterns-in-solutions-how-data-structure-affects-coding-style
+  pub_date: '2026-03-18T14:00:33'
+  source: KDnuggets
+  title: 'Visualizing Patterns in Solutions: How Data Structure Affects Coding Style'
+- category: machine-learning
+  description: Most LLM hallucination fixes fail. Here is what actually works in production.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-ways-to-reduce-hallucinations-in-production-llms
+  pub_date: '2026-03-18T12:00:21'
+  source: KDnuggets
+  title: 7 Ways to Reduce Hallucinations in Production LLMs
+- category: ai-research
   description: At MIT, former U.S. ambassador to China Nicholas Burns highlights climate
     change as an area for diplomatic engagement, while exploring areas including China's
     emphasis on STEM education.
@@ -96,23 +127,6 @@ articles:
   pub_date: '2026-03-16T12:00:01'
   source: KDnuggets
   title: 5 Self-Hosted Alternatives for Data Scientists in 2026
-- category: machine-learning
-  description: Out of 816 wines flagged by at least one method, just 32 made the unanimous
-    list. Those wines had something in common.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/we-used-5-outlier-detection-methods-on-a-real-dataset-they-disagreed-on-96-of-flagged-samples
-  pub_date: '2026-03-13T14:00:48'
-  source: KDnuggets
-  title: 'We Used 5 Outlier Detection Methods on a Real Dataset: They Disagreed on
-    96% of Flagged Samples'
-- category: machine-learning
-  description: This article presents five useful and effective Python decorators to
-    build and optimize high performance data pipelines.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-powerful-python-decorators-for-high-performance-data-pipelines
-  pub_date: '2026-03-13T12:00:06'
-  source: KDnuggets
-  title: 5 Powerful Python Decorators for High-Performance Data Pipelines
 - category: ai-research
   description: Researchers at MIT, Mass General Brigham, and Harvard Medical School
     developed a deep-learning model to forecast a patient's heart failure prognosis
@@ -184,14 +198,6 @@ articles:
   source: Google AI Blog
   title: Gemini in Google Sheets just achieved state-of-the-art performance.
 - category: ai-research
-  description: A new approach could help users know whether to trust a model's predictions
-    in safety-critical applications like health care and autonomous driving.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309
-  pub_date: '2026-03-09T04:00:00'
-  source: MIT AI News
-  title: Improving AI models’ ability to explain their predictions
-- category: ai-research
   description: Photos of animals being identified by the SpeciesNet AI model
   icon: fa-google
   link: https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/
@@ -223,15 +229,6 @@ articles:
   title: Use Canvas in AI Mode to get things done and bring your ideas to life, right
     in Search.
 - category: ai-research
-  description: The approach could help engineers tackle extremely complex design problems,
-    from power grid optimization to vehicle design.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304
-  pub_date: '2026-03-04T05:00:00'
-  source: MIT AI News
-  title: A “ChatGPT for spreadsheets” helps solve difficult engineering challenges
-    faster
-- category: ai-research
   description: A screen capture of Project Genie, an experimental interface showing
     a grid of circular images, many of which appear to be 360-degree views, with a
     large, central black globe labeled Create your own
@@ -247,4 +244,4 @@ articles:
   pub_date: '2026-03-03T16:34:00'
   source: Google AI Blog
   title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
-last_updated: '2026-03-18T07:02:21.079271'
+last_updated: '2026-03-19T06:59:10.260609'

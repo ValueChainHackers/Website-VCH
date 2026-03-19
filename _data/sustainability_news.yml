@@ -1,5 +1,80 @@
 articles:
 - category: supply-chain
+  description: Learn how in-house expertise in warehouse design, engineering, and
+    project management delivers faster implementation, better quality, and more efficient
+    material handling solutions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/5-ways-in-house-warehouse-solutions-improve-efficiency-reduce-costs
+  pub_date: '2026-03-18T16:24:00'
+  source: Supply Chain 24/7
+  title: 5 Ways In-House Warehouse Solutions Improve Efficiency & Reduce Costs
+- category: supply-chain
+  description: Learn how warehouse consultations help identify inefficiencies, optimize
+    layouts, and create strategies that improve productivity and future-proof operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-warehouse-consultations-matter-for-efficient-operations
+  pub_date: '2026-03-18T14:13:00'
+  source: Supply Chain 24/7
+  title: Why Warehouse Consultations Matter for Efficient Operations
+- category: supply-chain
+  description: Learn how mobile ASRS systems improve warehouse efficiency, reduce
+    labor costs, and maximize storage density with flexible automated storage technology.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/5-key-benefits-of-mobile-asrs-systems-for-modern-warehouses
+  pub_date: '2026-03-18T14:10:00'
+  source: Supply Chain 24/7
+  title: 5 Key Benefits of Mobile ASRS Systems for Modern Warehouses
+- category: supply-chain
+  description: Krber's Austin Percifull explains how warehouses can improve performance
+    by adding targeted automation to existing systems rather than replacing them entirely.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-automation-upgrades-without-replacement
+  pub_date: '2026-03-18T13:34:00'
+  source: Supply Chain 24/7
+  title: How Warehouses Can Add Automation Without Replacing Equipment
+- category: supply-chain
+  description: Gartner says AI could resolve most supply chain disruptions by 2031
+    as companies move toward more automated decision-making.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-supply-chain-disruptions-2031-gartner
+  pub_date: '2026-03-18T13:04:00'
+  source: Supply Chain 24/7
+  title: AI Could Handle 60% of Supply Chain Disruptions by 2031
+- category: supply-chain
+  description: Bel is investing $200 million to double Babybel production in South
+    Dakota and expand its U.S. supply chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bel-babybel-south-dakota-expansion-production-doubles
+  pub_date: '2026-03-18T12:15:00'
+  source: Supply Chain 24/7
+  title: Babybel Production To Double With $200M South Dakota Expansion
+- category: supply-chain
+  description: Amazon is expanding one-hour and three-hour delivery to speed up everyday
+    orders across the U.S.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-rolls-out-1-hour-and-3-hour-delivery-in-more-u.s-cities
+  pub_date: '2026-03-18T12:13:00'
+  source: Supply Chain 24/7
+  title: Amazon Rolls Out 1-Hour and 3-Hour Delivery in More U.S. Cities
+- category: circular
+  description: A green waste recycling company based has been fined over GBP20,000
+    after an employee broke his leg when he fell from a compost screening machine.
+    The post Waste management company fined after man bre...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-management-company-fined-after-man-breaks-leg-from-fall/
+  pub_date: '2026-03-18T11:17:29'
+  source: Circular Online
+  title: Waste management company fined after man breaks leg from fall
+- category: circular
+  description: King Charles launched the nationwide circularity initiative for businesses
+    at the Renew Hub in Greater Manchester. The post King Charles launches circularity
+    initiative for businesses appeared first o...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/king-charles-launches-circularity-initiative-for-businesses/
+  pub_date: '2026-03-18T09:46:25'
+  source: Circular Online
+  title: King Charles launches circularity initiative for businesses
+- category: supply-chain
   description: Tesla is reportedly turning to LG Energy Solution for a $4.3 billion
     battery deal to expand U.S. production in Michigan.
   icon: fa-box
@@ -23,14 +98,6 @@ articles:
   pub_date: '2026-03-17T14:29:00'
   source: Supply Chain 24/7
   title: Körber Teams With NVIDIA to Bring AI Simulations to Warehouses
-- category: supply-chain
-  description: Radial's Mike Simpson explains how TikTok Shop is changing fulfillment
-    strategy and why brands need flexible logistics networks to handle viral demand.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tiktok-shop-fulfillment-strategy-brands
-  pub_date: '2026-03-17T13:17:00'
-  source: Supply Chain 24/7
-  title: How TikTok Shop Is Changing Fulfillment for Retail Brands
 - category: circular
   description: A drug to treat Parkinson's disease can be made from waste plastic
     bottles using bacteria, a new study shows. The post Scientists recycle waste plastic
@@ -49,53 +116,6 @@ articles:
   pub_date: '2026-03-17T08:00:00'
   source: Circular Online
   title: NRW has never used its unique legal powers to stop waste crime
-- category: supply-chain
-  description: Arvato has acquired Think Logistics to expand its North American logistics
-    network and enter the Canadian fulfillment market.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/arvato-think-logistics-acquisition
-  pub_date: '2026-03-16T16:11:00'
-  source: Supply Chain 24/7
-  title: Arvato Expands North American Network With Think Logistics Acquisition
-- category: supply-chain
-  description: See how warehouse automation, conveyor systems, and integrated software
-    improved fulfillment efficiency, freed floor space, and increased order accuracy
-    for DoMyOwn's new distribution facility.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/warehouse-automation-case-study-improving-fulfillment-efficiency-for-domyown
-  pub_date: '2026-03-16T14:03:00'
-  source: Supply Chain 24/7
-  title: 'Warehouse Automation Case Study: Improving Fulfillment Efficiency for DoMyOwn'
-- category: supply-chain
-  description: See how Storage Solutions designed and installed over 1,000 bays of
-    pallet racking and 15,000+ pallet positions for L&M Fleet Supply's new distribution
-    center in Grand Rapids, MN.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/warehouse-pallet-racking-installation-case-study-lm-fleet-supply-distribution-center
-  pub_date: '2026-03-16T14:02:00'
-  source: Supply Chain 24/7
-  title: Warehouse Pallet Racking Installation Case Study L&M Fleet Supply Distribution
-    Center
-- category: supply-chain
-  description: Learn how a custom drive-in racking solution helped a warehouse add
-    3,200+ pallet positions and eliminate costly off-site storage. Explore this warehouse
-    storage optimization case study.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/warehouse-storage-optimization-case-study-increasing-pallet-capacity-with-drive-in-racking
-  pub_date: '2026-03-16T14:02:00'
-  source: Supply Chain 24/7
-  title: 'Warehouse Storage Optimization Case Study: Increasing Pallet Capacity with
-    Drive-In Racking'
-- category: supply-chain
-  description: Discover how vertical lift modules (VLMs) helped optimize storage,
-    improve picking speed, and increase efficiency for a 200,000 sq. ft. aerospace
-    parts facility handling 20,000+ small parts.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/aerospace-parts-storage-solution-vertical-lift-modules-improve-warehouse-efficiency
-  pub_date: '2026-03-16T14:00:00'
-  source: Supply Chain 24/7
-  title: 'Aerospace Parts Storage Solution: Vertical Lift Modules Improve Warehouse
-    Efficiency'
 - category: circular
   description: The UK Government is considering granting the Environment Agency 'police-style'
     powers to tackle waste. The post Ministers consider granting Environment Agency
@@ -106,14 +126,6 @@ articles:
   source: Circular Online
   title: Ministers consider granting Environment Agency police-style powers to tackle
     waste crime
-- category: supply-chain
-  description: A new DHL report finds globalization remains near record levels despite
-    tariffs, geopolitical tensions, and growing U.S.-China decoupling.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-global-connectedness-report-globalization-trade-2026
-  pub_date: '2026-03-16T12:24:00'
-  source: Supply Chain 24/7
-  title: DHL Report Finds Globalization Holding Steady Amid Trade Tensions
 - category: circular
   description: The Chartered Institution of Wastes Management (CIWM) has announced
     that Marcus Gover, former CEO of WRAP, will become its new Junior Vice President.
@@ -159,22 +171,4 @@ articles:
   pub_date: '2026-03-12T08:03:55'
   source: Circular Online
   title: Unite cut Labour funding by £580,000 over Birmingham bin strikes
-- category: circular
-  description: Lidl GB has increased its target to reduce food waste from its stores
-    from 50% to 70% by 2030. The post Lidl GB sets target to reduce food waste by
-    70% by 2030 appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/lidl-gb-sets-target-to-reduce-food-waste-by-70-by-2030/
-  pub_date: '2026-03-11T09:45:36'
-  source: Circular Online
-  title: Lidl GB sets target to reduce food waste by 70% by 2030
-- category: circular
-  description: Public support for the UK Government's net zero target has nearly halved
-    since 2021, according to a new study by King's College London. The post Support
-    for UK net zero target has almost halved, surve...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/support-for-uk-net-zero-target-has-almost-halved-survey-shows/
-  pub_date: '2026-03-10T10:13:21'
-  source: Circular Online
-  title: Support for UK net zero target has almost halved, survey shows
-last_updated: '2026-03-18T07:02:18.721221'
+last_updated: '2026-03-19T06:59:08.056958'
