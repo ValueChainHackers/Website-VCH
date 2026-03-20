@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: A new Criteria survey shows 61% of manufacturing workers may leave
+    the industry, adding more risk for companies already facing labor shortages.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-workers-leaving-industry-retention-challenges
+  pub_date: '2026-03-20T00:10:00'
+  source: Supply Chain 24/7
+  title: 'Survey: 61% of Manufacturing Workers Are Thinking About Leaving'
+- category: supply-chain
+  description: A look at how Amazon and USPS are pushing back as the battle for last-mile
+    control continues to shift.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-usps-last-mile-delivery-shift
+  pub_date: '2026-03-19T12:08:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain 101: What’s Really Happening Between Amazon and USPS?'
+- category: supply-chain
+  description: Wiliot's Amir Khoshniyati explains why AI-driven supply chains need
+    real-time visibility to avoid costly mistakes.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-supply-chain-visibility-wiliot-qa
+  pub_date: '2026-03-19T11:54:00'
+  source: Supply Chain 24/7
+  title: AI Is Making Supply Chain Decisions, But It’s Flying Blind
+- category: supply-chain
+  description: Peerless Media's 2026 Industry Outlook Study shows that spending caution
+    is rising, but automation and software investments are still moving forward.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/automation-spending-holds-strong-2026-outlook-survey
+  pub_date: '2026-03-19T11:31:00'
+  source: Supply Chain 24/7
+  title: Caution Creeps In, But Automation Spending Holds Strong
+- category: circular
+  description: Fly-tippers could be forced to clean up streets and parks as part of
+    new government plans. The post New council powers can force fly-tippers to clear
+    dumped waste appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-council-powers-can-force-fly-tippers-to-clear-dumped-waste/
+  pub_date: '2026-03-19T09:15:18'
+  source: Circular Online
+  title: New council powers can force fly-tippers to clear dumped waste
+- category: supply-chain
   description: Learn how in-house expertise in warehouse design, engineering, and
     project management delivers faster implementation, better quality, and more efficient
     material handling solutions.
@@ -48,14 +89,6 @@ articles:
   pub_date: '2026-03-18T12:15:00'
   source: Supply Chain 24/7
   title: Babybel Production To Double With $200M South Dakota Expansion
-- category: supply-chain
-  description: Amazon is expanding one-hour and three-hour delivery to speed up everyday
-    orders across the U.S.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-rolls-out-1-hour-and-3-hour-delivery-in-more-u.s-cities
-  pub_date: '2026-03-18T12:13:00'
-  source: Supply Chain 24/7
-  title: Amazon Rolls Out 1-Hour and 3-Hour Delivery in More U.S. Cities
 - category: circular
   description: A green waste recycling company based has been fined over GBP20,000
     after an employee broke his leg when he fell from a compost screening machine.
@@ -74,30 +107,6 @@ articles:
   pub_date: '2026-03-18T09:46:25'
   source: Circular Online
   title: King Charles launches circularity initiative for businesses
-- category: supply-chain
-  description: Tesla is reportedly turning to LG Energy Solution for a $4.3 billion
-    battery deal to expand U.S. production in Michigan.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tesla-lg-energy-michigan-battery-deal
-  pub_date: '2026-03-17T15:22:00'
-  source: Supply Chain 24/7
-  title: 'Report: Tesla, LG Energy to Build $4.3B Battery Plant in Michigan'
-- category: supply-chain
-  description: Dole is positioning supply chain as a leadership function that helps
-    drive innovation, strengthen partnerships and support long-term growth.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dole-supply-chain-growth-strategy
-  pub_date: '2026-03-17T14:40:00'
-  source: Supply Chain 24/7
-  title: How Dole Is Repositioning Its Supply Chain as a Growth Strategy
-- category: supply-chain
-  description: Krber is partnering with NVIDIA to help companies simulate warehouse
-    operations and test changes before putting them into action.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/koerber-teams-with-nvidia-to-bring-ai-simulations-to-warehouses
-  pub_date: '2026-03-17T14:29:00'
-  source: Supply Chain 24/7
-  title: Körber Teams With NVIDIA to Bring AI Simulations to Warehouses
 - category: circular
   description: A drug to treat Parkinson's disease can be made from waste plastic
     bottles using bacteria, a new study shows. The post Scientists recycle waste plastic
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-03-12T09:01:44'
   source: Circular Online
   title: £1m Electricals Recycling Fund 2026 opens for applications
-- category: circular
-  description: Unite the Union has voted to cut its funding to the Labour Party by
-    GBP580,000 over the government's handling of bin strikes in Birmingham. The post
-    Unite cut Labour funding by GBP580,000 over Birming...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/unite-cut-labour-funding-by-580000-over-birmingham-bin-strikes/
-  pub_date: '2026-03-12T08:03:55'
-  source: Circular Online
-  title: Unite cut Labour funding by £580,000 over Birmingham bin strikes
-last_updated: '2026-03-19T06:59:08.056958'
+last_updated: '2026-03-20T06:56:39.686796'
