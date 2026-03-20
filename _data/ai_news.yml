@@ -1,4 +1,31 @@
 articles:
+- category: machine-learning
+  description: A detailed Abacus AI review exploring Abacus AI features, vibe coding
+    AI, DeepAgent, and how this AI agent platform helps build applications and automate
+    workflows faster.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/03/abacus/abacus-ai-honest-review-and-pricing-the-ai-that-lets-you-vibe-code-build-agents-replace-10-tools
+  pub_date: '2026-03-19T17:00:25'
+  source: KDnuggets
+  title: 'Abacus AI Honest Review And Pricing: The AI That Lets You Vibe Code, Build
+    Agents & Replace 10+ Tools?'
+- category: machine-learning
+  description: Goose is a free, open-source AI agent that goes beyond code suggestions
+    to autonomously execute tasks, letting you automate development workflows directly
+    on your machine.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/free-agentic-coding-with-goose
+  pub_date: '2026-03-19T16:00:18'
+  source: KDnuggets
+  title: (Free) Agentic Coding with Goose
+- category: machine-learning
+  description: Before you trust a library to generate your data, learn how to do it
+    yourself and see where bias and errors actually begin.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-for-synthetic-data-generation
+  pub_date: '2026-03-19T13:52:13'
+  source: KDnuggets
+  title: 5 Useful Python Scripts for Synthetic Data Generation
 - category: ai-research
   description: With this new technique, a robot could more accurately detect hidden
     objects or understand an indoor scene using reflected Wi-Fi signals.
@@ -103,30 +130,6 @@ articles:
   pub_date: '2026-03-16T17:00:51'
   source: KDnuggets
   title: 5 Critical Shifts D&A Leaders Must Make to Drive Analytics and AI Success
-- category: machine-learning
-  description: Understanding the gap between startup aspirations and practical execution
-    reveals important lessons about building sustainable AI companies.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-ai-startup-advisors-see-that-founders-often-miss
-  pub_date: '2026-03-16T16:00:19'
-  source: KDnuggets
-  title: What AI Startup Advisors See That Founders Often Miss
-- category: machine-learning
-  description: Google's MusicFX DJ turns AI music generation into an interactive,
-    consumer-friendly experience, creating real-time music from text prompts.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/ai-music-generation-goes-consumer-with-googles-musicfx-dj
-  pub_date: '2026-03-16T14:00:50'
-  source: KDnuggets
-  title: AI Music Generation Goes Consumer with Google’s MusicFX DJ
-- category: machine-learning
-  description: Save money & take control in 2026. Discover 5 powerful open-source,
-    self-hosted tools to replace costly subscriptions for data scientists.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-self-hosted-alternatives-for-data-scientists-in-2026
-  pub_date: '2026-03-16T12:00:01'
-  source: KDnuggets
-  title: 5 Self-Hosted Alternatives for Data Scientists in 2026
 - category: ai-research
   description: Researchers at MIT, Mass General Brigham, and Harvard Medical School
     developed a deep-learning model to forecast a patient's heart failure prognosis
@@ -244,4 +247,4 @@ articles:
   pub_date: '2026-03-03T16:34:00'
   source: Google AI Blog
   title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
-last_updated: '2026-03-19T06:59:10.260609'
+last_updated: '2026-03-20T06:56:41.624921'
