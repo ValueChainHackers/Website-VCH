@@ -1,5 +1,39 @@
 articles:
 - category: machine-learning
+  description: Learn everything about SynthID, how it embeds invisible AI watermarks,
+    and how it verifies and identifies AI-generated content across text, images, audio,
+    and video
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/synthid-what-it-is-and-how-it-works
+  pub_date: '2026-03-20T14:00:36'
+  source: KDnuggets
+  title: 'SynthID: What it is and How it Works'
+- category: ai-research
+  description: Conference speakers discussed the unfolding trajectory of AI and the
+    benefits of shaping technology to meets people's needs.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320
+  pub_date: '2026-03-20T13:30:00'
+  source: MIT AI News
+  title: What’s the right path for AI?
+- category: ai-research
+  description: Jointly led by the MIT Morningside Academy for Design, MIT Schwarzman
+    College of Computing, and the Hasso Plattner Institute in Potsdam, the hub will
+    foster a dynamic community where computing, creati...
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320
+  pub_date: '2026-03-20T12:45:00'
+  source: MIT AI News
+  title: MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity
+- category: machine-learning
+  description: These five Python decorators have saved me from countless headaches,
+    and they will probably save you, too.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-powerful-python-decorators-for-robust-ai-agents
+  pub_date: '2026-03-20T12:00:55'
+  source: KDnuggets
+  title: 5 Powerful Python Decorators for Robust AI Agents
+- category: machine-learning
   description: A detailed Abacus AI review exploring Abacus AI features, vibe coding
     AI, DeepAgent, and how this AI agent platform helps build applications and automate
     workflows faster.
@@ -114,22 +148,6 @@ articles:
   pub_date: '2026-03-17T14:00:28'
   source: KDnuggets
   title: The State of Agent Engineering Report Overview
-- category: machine-learning
-  description: Learn about a future-proof shift from fragile prompt strings to reusable,
-    testable building blocks.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-evolution-from-prompt-engineering-to-concept-engineering
-  pub_date: '2026-03-17T12:00:40'
-  source: KDnuggets
-  title: The Evolution From Prompt Engineering to Concept Engineering
-- category: machine-learning
-  description: Access the complimentary Gartner insights now and discover how to make
-    the shifts that matter most for analytics and AI success.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/03/gartner/5-critical-shifts-da-leaders-must-make-to-drive-analytics-and-ai-success
-  pub_date: '2026-03-16T17:00:51'
-  source: KDnuggets
-  title: 5 Critical Shifts D&A Leaders Must Make to Drive Analytics and AI Success
 - category: ai-research
   description: Researchers at MIT, Mass General Brigham, and Harvard Medical School
     developed a deep-learning model to forecast a patient's heart failure prognosis
@@ -172,25 +190,6 @@ articles:
   pub_date: '2026-03-11T04:00:00'
   source: MIT AI News
   title: A better method for planning complex visual tasks
-- category: ai-research
-  description: Assistant Professor Matthew Jones is working to decode molecular processes
-    on the genetic, epigenetic, and microenvironment levels to anticipate how and
-    when tumors evolve to resist treatment.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/3-questions-building-predictive-models-characterize-tumor-progression-0310
-  pub_date: '2026-03-10T20:50:00'
-  source: MIT AI News
-  title: '3 Questions: Building predictive models to characterize tumor progression'
-- category: ai-research
-  description: From early motion-sensing platforms to environmental monitoring, the
-    professor and head of the Program in Media Arts and Sciences has turned decades
-    of cross-disciplinary research into real-world impa...
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-professor-joseph-paradiso-sensing-innovations-0310
-  pub_date: '2026-03-10T20:25:00'
-  source: MIT AI News
-  title: How Joseph Paradiso’s sensing innovations bridge the arts, medicine, and
-    ecology
 - category: ai-research
   description: Today we announced new beta features for Gemini in Sheets to help you
     create, organize and edit entire sheets, from basic tasks to complex data analysis
@@ -247,4 +246,4 @@ articles:
   pub_date: '2026-03-03T16:34:00'
   source: Google AI Blog
   title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
-last_updated: '2026-03-20T06:56:41.624921'
+last_updated: '2026-03-21T06:44:46.193476'
