@@ -1,4 +1,62 @@
 articles:
+- category: ai-research
+  description: An MIT-led team is designing artificial intelligence systems for medical
+    diagnosis that are more collaborative and forthcoming about uncertainty.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/creating-humble-ai-0324
+  pub_date: '2026-03-24T04:00:00'
+  source: MIT AI News
+  title: How to create “humble” AI
+- category: machine-learning
+  description: Was "move fast and break things" ever really the best approach to building
+    a business?
+  icon: fa-chart-bar
+  link: https://bit.ly/Ingram-topic-22-kdn-website#new_tab
+  pub_date: '2026-03-23T22:22:45'
+  source: KDnuggets
+  title: 'Decision-Making for Busy Owners: Moving Fast vs. Moving Slow (Sponsored)'
+- category: ai-research
+  description: Sojun Park, a postdoc at the Center for International Studies, has
+    learned much from his research on intellectual property as well as his interactions
+    with students and mentors at MIT.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/sojun-park-advancing-international-trade-research-finding-community-0323
+  pub_date: '2026-03-23T21:00:00'
+  source: MIT AI News
+  title: Advancing international trade research and finding community
+- category: ai-research
+  description: Operations research expert Dimitris Bertsimas delivered the annual
+    Killian Lecture, providing a look at the past and future of his work.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/algorithms-life-learning-killian-lecture-dimitris-bertsimas-0323
+  pub_date: '2026-03-23T17:45:00'
+  source: MIT AI News
+  title: On algorithms, life, and learning
+- category: machine-learning
+  description: Skip the hype and follow these 10 X accounts for reliable LLM papers,
+    product launches, and thoughtful takes on where AI is heading.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-best-x-twitter-accounts-to-follow-for-llm-updates
+  pub_date: '2026-03-23T16:00:21'
+  source: KDnuggets
+  title: 10 Best X (Twitter) Accounts to Follow for LLM Updates
+- category: machine-learning
+  description: Slow Python code is often caused by small inefficiencies. With a few
+    beginner-friendly techniques, you can make your programs run noticeably faster.
+    This guide will teach you how.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-speed-up-slow-python-code-even-if-youre-a-beginner
+  pub_date: '2026-03-23T14:00:12'
+  source: KDnuggets
+  title: How to Speed Up Slow Python Code Even If You’re a Beginner
+- category: machine-learning
+  description: Learn five practical ways to make OpenAI Codex more agentic, reliable,
+    and useful for real software engineering workflows.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-tips-to-turn-openai-codex-into-a-powerful-ai-coding-agent
+  pub_date: '2026-03-23T12:00:05'
+  source: KDnuggets
+  title: 5 Tips to Turn OpenAI Codex Into a Powerful AI Coding Agent
 - category: machine-learning
   description: Learn everything about SynthID, how it embeds invisible AI watermarks,
     and how it verifies and identifies AI-generated content across text, images, audio,
@@ -10,7 +68,7 @@ articles:
   title: 'SynthID: What it is and How it Works'
 - category: ai-research
   description: Conference speakers discussed the unfolding trajectory of AI and the
-    benefits of shaping technology to meets people's needs.
+    benefits of shaping technology to meet people's needs.
   icon: fa-graduation-cap
   link: https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320
   pub_date: '2026-03-20T13:30:00'
@@ -84,13 +142,6 @@ articles:
   pub_date: '2026-03-18T14:00:33'
   source: KDnuggets
   title: 'Visualizing Patterns in Solutions: How Data Structure Affects Coding Style'
-- category: machine-learning
-  description: Most LLM hallucination fixes fail. Here is what actually works in production.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-ways-to-reduce-hallucinations-in-production-llms
-  pub_date: '2026-03-18T12:00:21'
-  source: KDnuggets
-  title: 7 Ways to Reduce Hallucinations in Production LLMs
 - category: ai-research
   description: At MIT, former U.S. ambassador to China Nicholas Burns highlights climate
     change as an area for diplomatic engagement, while exploring areas including China's
@@ -100,14 +151,6 @@ articles:
   pub_date: '2026-03-18T04:00:00'
   source: MIT AI News
   title: Sustaining diplomacy amid competition in US-China relations
-- category: machine-learning
-  description: In the lab, your AI model might seem perfect, but the real world is
-    often where it breaks.
-  icon: fa-chart-bar
-  link: https://bit.ly/ingram-topic-21-kdn-website#new_tab
-  pub_date: '2026-03-18T00:21:40'
-  source: KDnuggets
-  title: 'AIOps 101: The 3 Pillars of Reliably Deploying AI Models (Sponsored)'
 - category: ai-research
   description: Academia-industry relationship is an early-stage accelerator, supporting
     professional progress and research.
@@ -116,14 +159,6 @@ articles:
   pub_date: '2026-03-17T20:35:44'
   source: MIT AI News
   title: 'MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact'
-- category: machine-learning
-  description: With 100+ built-in skills, OpenClaw connects AI models directly to
-    apps, browsers, and system tools.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/openclaw-explained-the-free-ai-agent-tool-going-viral-already-in-2026
-  pub_date: '2026-03-17T16:00:37'
-  source: KDnuggets
-  title: 'OpenClaw Explained: The Free AI Agent Tool Going Viral Already in 2026'
 - category: ai-research
   description: Bubble that says "Personal Intelligence" with Google G, Google Photos
     logo, and Gmail logo around it
@@ -140,14 +175,6 @@ articles:
   pub_date: '2026-03-17T16:00:00'
   source: Google AI Blog
   title: Our latest investment in open source security for the AI era
-- category: machine-learning
-  description: 'Check out the current state AI agent engineering the accessible way:
-    demystifying the jargon, and seeking supporting evidence.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-state-of-agent-engineering-report-overview
-  pub_date: '2026-03-17T14:00:28'
-  source: KDnuggets
-  title: The State of Agent Engineering Report Overview
 - category: ai-research
   description: Researchers at MIT, Mass General Brigham, and Harvard Medical School
     developed a deep-learning model to forecast a patient's heart failure prognosis
@@ -165,31 +192,6 @@ articles:
   pub_date: '2026-03-12T15:00:00'
   source: Google AI Blog
   title: How AI is helping improve heart health in rural Australia
-- category: ai-research
-  description: Professor Jesse Thaler describes a vision for a two-way bridge between
-    artificial intelligence and the mathematical and physical sciences - one that
-    promises to advance both.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311
-  pub_date: '2026-03-11T22:30:00'
-  source: MIT AI News
-  title: '3 Questions: On the future of AI and the mathematical and physical sciences'
-- category: ai-research
-  description: MIT computer science students design AI chatbots to help young users
-    become more social, and socially confident.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-class-uses-anthropology-to-improve-chatbots-0311
-  pub_date: '2026-03-11T16:10:00'
-  source: MIT AI News
-  title: New MIT class uses anthropology to improve chatbots
-- category: ai-research
-  description: A new hybrid system could help robots navigate in changing environments
-    or increase the efficiency of multirobot assembly teams.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311
-  pub_date: '2026-03-11T04:00:00'
-  source: MIT AI News
-  title: A better method for planning complex visual tasks
 - category: ai-research
   description: Today we announced new beta features for Gemini in Sheets to help you
     create, organize and edit entire sheets, from basic tasks to complex data analysis
@@ -246,4 +248,4 @@ articles:
   pub_date: '2026-03-03T16:34:00'
   source: Google AI Blog
   title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
-last_updated: '2026-03-23T07:11:43.018323'
+last_updated: '2026-03-24T07:05:03.227188'
