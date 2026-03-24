@@ -1,5 +1,74 @@
 articles:
 - category: supply-chain
+  description: A new Randstad survey shows that half of workers now use AI for job
+    advice rather than managers, signaling a shift in how workplace decisions are
+    made.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/50-of-workers-are-turning-to-ai-instead-of-their-managers
+  pub_date: '2026-03-23T18:35:00'
+  source: Supply Chain 24/7
+  title: 50% of Workers are Turning to AI Instead of Their Managers
+- category: supply-chain
+  description: Amazon has acquired Rivr to help automate the final steps of delivery
+    and improve last-mile efficiency.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-acquires-rivr-to-improve-last-mile-delivery-efficiency
+  pub_date: '2026-03-23T15:49:00'
+  source: Supply Chain 24/7
+  title: Amazon Acquires Rivr to Improve Last-Mile Delivery Efficiency
+- category: circular
+  description: Protective workwear manufacturer Alsico has announced a 'major technical
+    breakthrough' in circular workwear. Alsico announced that, in collaboration with
+    Stuff4Life and Coats, it has successfully reco...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/major-technical-breakthrough-in-circular-workwear-announced/
+  pub_date: '2026-03-23T14:17:33'
+  source: Circular Online
+  title: ‘Major technical breakthrough’ in circular workwear announced
+- category: supply-chain
+  description: Jeff Bezos is planning a $100 billion fund to buy and modernize manufacturers
+    using AI, according to a Wall Street Journal report.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/jeff-bezos-seeks-100-billion-to-bring-ai-into-manufacturing
+  pub_date: '2026-03-23T13:57:00'
+  source: Supply Chain 24/7
+  title: Jeff Bezos Seeks $100 Billion To Bring AI Into Manufacturing
+- category: supply-chain
+  description: NRF forecasts retail sales will grow 4.4% to $5.6 trillion in 2026,
+    even as tariffs, global tensions, and mixed economic signals continue to create
+    uncertainty.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nrf-retail-sales-forecast-2026-growth
+  pub_date: '2026-03-23T13:35:00'
+  source: Supply Chain 24/7
+  title: Retail Spending Expected To Grow 4.4% In 2026, NRF Says
+- category: supply-chain
+  description: FedEx is building an AI agent workforce to handle logistics tasks as
+    it leans further into automation and real-time decision-making.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-ai-agent-workforce-logistics-network
+  pub_date: '2026-03-23T13:25:00'
+  source: Supply Chain 24/7
+  title: FedEx Is Building An AI Workforce To Run Its Network
+- category: circular
+  description: The producer-led organisationUK Packaging PRO has beenappointed to
+    manage the UK's Extended Producer Responsibility for Packaging (pEPR) scheme.
+    UK Packaging PRO is a producer-led organisation of more...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-packaging-pro-appointed-to-deliver-pepr-scheme/
+  pub_date: '2026-03-23T11:36:57'
+  source: Circular Online
+  title: UK Packaging PRO appointed to deliver pEPR scheme
+- category: circular
+  description: The government has announced it will fund the clean-up of three large
+    illegal waste sites, including one on land owned by the King's estate. The post
+    Taxpayers to fund clearance of waste site on land ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/taxpayers-to-fund-clearance-of-waste-site-on-land-owned-by-king/
+  pub_date: '2026-03-23T08:36:20'
+  source: Circular Online
+  title: Taxpayers to fund clearance of waste site on land owned by King
+- category: supply-chain
   description: The move comes as AI and cloud computing drive a surge in shipments
     of high-value equipment.
   icon: fa-box
@@ -48,39 +117,6 @@ articles:
   pub_date: '2026-03-20T00:10:00'
   source: Supply Chain 24/7
   title: 'Survey: 61% of Manufacturing Workers Are Thinking About Leaving'
-- category: supply-chain
-  description: Learn how warehouse automation improves efficiency, reduces labor costs,
-    and boosts productivity. Explore systems, technologies, and strategies for modern
-    warehouse operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/warehouse-automation-guide-improve-efficiency-reduce-costs-scale-operations
-  pub_date: '2026-03-19T13:52:00'
-  source: Supply Chain 24/7
-  title: 'Warehouse Automation Guide: Improve Efficiency, Reduce Costs & Scale Operations'
-- category: supply-chain
-  description: A look at how Amazon and USPS are pushing back as the battle for last-mile
-    control continues to shift.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-usps-last-mile-delivery-shift
-  pub_date: '2026-03-19T12:08:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain 101: What’s Really Happening Between Amazon and USPS?'
-- category: supply-chain
-  description: Wiliot's Amir Khoshniyati explains why AI-driven supply chains need
-    real-time visibility to avoid costly mistakes.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-supply-chain-visibility-wiliot-qa
-  pub_date: '2026-03-19T11:54:00'
-  source: Supply Chain 24/7
-  title: AI Is Making Supply Chain Decisions, But It’s Flying Blind
-- category: supply-chain
-  description: Peerless Media's 2026 Industry Outlook Study shows that spending caution
-    is rising, but automation and software investments are still moving forward.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/automation-spending-holds-strong-2026-outlook-survey
-  pub_date: '2026-03-19T11:31:00'
-  source: Supply Chain 24/7
-  title: Caution Creeps In, But Automation Spending Holds Strong
 - category: circular
   description: Fly-tippers could be forced to clean up streets and parks as part of
     new government plans. The post New council powers can force fly-tippers to clear
@@ -90,15 +126,6 @@ articles:
   pub_date: '2026-03-19T09:15:18'
   source: Circular Online
   title: New council powers can force fly-tippers to clear dumped waste
-- category: supply-chain
-  description: Learn how in-house expertise in warehouse design, engineering, and
-    project management delivers faster implementation, better quality, and more efficient
-    material handling solutions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/5-ways-in-house-warehouse-solutions-improve-efficiency-reduce-costs
-  pub_date: '2026-03-18T16:24:00'
-  source: Supply Chain 24/7
-  title: 5 Ways In-House Warehouse Solutions Improve Efficiency & Reduce Costs
 - category: circular
   description: A green waste recycling company based has been fined over GBP20,000
     after an employee broke his leg when he fell from a compost screening machine.
@@ -145,31 +172,4 @@ articles:
   source: Circular Online
   title: Ministers consider granting Environment Agency police-style powers to tackle
     waste crime
-- category: circular
-  description: The Chartered Institution of Wastes Management (CIWM) has announced
-    that Marcus Gover, former CEO of WRAP, will become its new Junior Vice President.
-    The post CIWM to appoint Marcus Gover as new Junio...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-to-appoint-marcus-gover-as-new-junior-vice-president/
-  pub_date: '2026-03-16T10:02:49'
-  source: Circular Online
-  title: CIWM to appoint Marcus Gover as new Junior Vice President
-- category: circular
-  description: A waste and recycling company has been fined over GBP30,000 after an
-    employee suffered life-changing injuries after being crushed by a reversing telehandler.
-    The post Recycling company fined after man...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/recycling-company-fined-after-man-suffers-life-changing-injuries/
-  pub_date: '2026-03-16T08:56:48'
-  source: Circular Online
-  title: Recycling company fined after man suffers life-changing injuries
-- category: circular
-  description: UK paint brands invest GBP500,000 in leftover paint return scheme trial,
-    which will be run in partnership with waste management company Biffa. The post
-    UK paint brands partner with Biffa on leftover p...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-paint-brands-partner-with-biffa-on-leftover-paint-return-scheme/
-  pub_date: '2026-03-13T11:54:37'
-  source: Circular Online
-  title: UK paint brands partner with Biffa on leftover paint return scheme
-last_updated: '2026-03-23T07:11:41.195726'
+last_updated: '2026-03-24T07:05:00.769852'
