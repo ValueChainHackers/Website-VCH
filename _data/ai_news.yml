@@ -1,4 +1,30 @@
 articles:
+- category: machine-learning
+  description: Explore ChatLLM by Abacus AI, an all-in-one AI platform that brings
+    together tools like ChatGPT, Claude, and Midjourney into a single workflow. Learn
+    about its features, pricing, and real-world use ca...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/03/abacus/chatllm-all-in-one-ai-platform-review
+  pub_date: '2026-03-24T17:00:59'
+  source: KDnuggets
+  title: 'ChatLLM Review: Tired of Multiple AI Tools? Here’s a Smarter All-in-One
+    Alternative'
+- category: machine-learning
+  description: Learn the analytics pattern you can use in most business analytics
+    tasks.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/analytics-patterns-every-data-scientist-should-master
+  pub_date: '2026-03-24T14:34:58'
+  source: KDnuggets
+  title: Analytics Patterns Every Data Scientist Should Master
+- category: machine-learning
+  description: Learn how to set up Nanobot, connect it to WhatsApp, and power it with
+    OpenAI GPT-5.3-Codex for a practical, always-on AI agent.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-nanobot-build-your-first-ai-agent
+  pub_date: '2026-03-24T12:14:39'
+  source: KDnuggets
+  title: 'Getting Started with Nanobot: Build Your First AI Agent'
 - category: ai-research
   description: An MIT-led team is designing artificial intelligence systems for medical
     diagnosis that are more collaborative and forthcoming about uncertainty.
@@ -101,23 +127,6 @@ articles:
   source: KDnuggets
   title: 'Abacus AI Honest Review And Pricing: The AI That Lets You Vibe Code, Build
     Agents & Replace 10+ Tools?'
-- category: machine-learning
-  description: Goose is a free, open-source AI agent that goes beyond code suggestions
-    to autonomously execute tasks, letting you automate development workflows directly
-    on your machine.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/free-agentic-coding-with-goose
-  pub_date: '2026-03-19T16:00:18'
-  source: KDnuggets
-  title: (Free) Agentic Coding with Goose
-- category: machine-learning
-  description: Before you trust a library to generate your data, learn how to do it
-    yourself and see where bias and errors actually begin.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-for-synthetic-data-generation
-  pub_date: '2026-03-19T13:52:13'
-  source: KDnuggets
-  title: 5 Useful Python Scripts for Synthetic Data Generation
 - category: ai-research
   description: With this new technique, a robot could more accurately detect hidden
     objects or understand an indoor scene using reflected Wi-Fi signals.
@@ -134,14 +143,6 @@ articles:
   pub_date: '2026-03-19T04:00:00'
   source: MIT AI News
   title: A better method for identifying overconfident large language models
-- category: machine-learning
-  description: Read this empirical analysis of how dataset structure drives window
-    functions, CTEs, JOINs, and pandas merge patterns.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/visualizing-patterns-in-solutions-how-data-structure-affects-coding-style
-  pub_date: '2026-03-18T14:00:33'
-  source: KDnuggets
-  title: 'Visualizing Patterns in Solutions: How Data Structure Affects Coding Style'
 - category: ai-research
   description: At MIT, former U.S. ambassador to China Nicholas Burns highlights climate
     change as an area for diplomatic engagement, while exploring areas including China's
@@ -248,4 +249,4 @@ articles:
   pub_date: '2026-03-03T16:34:00'
   source: Google AI Blog
   title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
-last_updated: '2026-03-24T07:05:03.227188'
+last_updated: '2026-03-25T07:02:58.142786'

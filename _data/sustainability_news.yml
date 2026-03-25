@@ -1,4 +1,63 @@
 articles:
+- category: circular
+  description: The Chartered Institution of Wastes Management (CIWM) has called the
+    withdrawal of funding for 16 apprenticeship standards by government a 'missed
+    opportunity'. The post Apprenticeship changes a 'miss...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/another-missed-opportunity-ciwm-criticises-apprenticeship-changes/
+  pub_date: '2026-03-24T15:46:16'
+  source: Circular Online
+  title: Apprenticeship changes a ‘missed opportunity’, CIWM says
+- category: supply-chain
+  description: Toyota is investing $1 billion to expand production and upgrade its
+    Kentucky and Indiana plants.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/toyota-1b-investment-kentucky-indiana-plants
+  pub_date: '2026-03-24T13:26:00'
+  source: Supply Chain 24/7
+  title: Toyota Invests $1 Bilion in Kentucky and Indiana Plants
+- category: supply-chain
+  description: Prologis and GIC are investing $1.6 billion in new U.S. logistics facilities
+    tied to e-commerce demand.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/prologis-gic-us-logistics-venture-ecommerce
+  pub_date: '2026-03-24T13:14:00'
+  source: Supply Chain 24/7
+  title: Prologis and GIC Launch $1.6 Bilion U.S. Logistics Venture
+- category: supply-chain
+  description: AI is giving warehouses a better way to manage demand, assign work
+    and keep orders moving in real time.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-warehouse-operations-8-ways
+  pub_date: '2026-03-24T13:07:00'
+  source: Supply Chain 24/7
+  title: Eight Ways AI is Transforming the Modern Warehouse
+- category: circular
+  description: The UK food and drink manufacturing sector could redistribute one billion
+    meals a year by making 'small improvements' across the industry, new research
+    finds. A new report has found that UK food and d...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/food-manufacturers-could-redistribute-1bn-more-meals-a-year-report-finds/
+  pub_date: '2026-03-24T11:43:56'
+  source: Circular Online
+  title: Food manufacturers could redistribute 1bn more meals a year, report finds
+- category: supply-chain
+  description: EQT has acquired a 2 million square foot logistics portfolio in Southern
+    New Jersey near key East Coast markets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eqt-new-jersey-logistics-portfolio-acquisition
+  pub_date: '2026-03-24T10:35:00'
+  source: Supply Chain 24/7
+  title: EQT Buys 2 Million Square Feet of Logistics Space in Southern New Jersey
+- category: circular
+  description: Coca-Cola, Red Bull, and McDonald's among UK's '12 most polluting brands'
+    responsible for 52% of all plastic packaging found in 2025, according to new report.
+    The post New report reveals the UK's 'big...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-report-reveals-the-uks-biggest-plastic-polluters/
+  pub_date: '2026-03-24T08:53:40'
+  source: Circular Online
+  title: New report reveals the UK’s ‘biggest plastic polluters’
 - category: supply-chain
   description: A new Randstad survey shows that half of workers now use AI for job
     advice rather than managers, signaling a shift in how workplace decisions are
@@ -76,30 +135,6 @@ articles:
   pub_date: '2026-03-20T16:06:00'
   source: Supply Chain 24/7
   title: DHL Expands Logistics Network To Support Data Center Boom
-- category: supply-chain
-  description: Uber's $1.25 billion investment in Rivian shows how autonomous vehicles
-    could reshape last-mile delivery and transportation networks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/uber-rivian-robotaxi-investment-last-mile-delivery
-  pub_date: '2026-03-20T13:27:00'
-  source: Supply Chain 24/7
-  title: Uber Invests $1.25B Billion in Rivian as Robotaxi Plans Take Shape
-- category: supply-chain
-  description: The White House is easing shipping rules to move fuel faster, but labor
-    groups say the move may do more harm than good.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/white-house-eases-shipping-rules-labor-pushback
-  pub_date: '2026-03-20T13:07:00'
-  source: Supply Chain 24/7
-  title: White House Eases Shipping Rules, Labor Groups Push Back
-- category: supply-chain
-  description: Maersk is rolling out new surcharges on shipments to the U.S., pointing
-    to rising ocean shipping costs ahead of peak season.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-new-fees-shipments-us-peak-season
-  pub_date: '2026-03-20T12:55:00'
-  source: Supply Chain 24/7
-  title: Maersk Adds New Fees on Shipments to U.S. Ahead of Peak Season
 - category: circular
   description: The Environment Agency will receive GBP45 million to strengthen waste
     crime enforcement as part of new government action plan. The post Environment
@@ -109,14 +144,6 @@ articles:
   pub_date: '2026-03-20T08:57:37'
   source: Circular Online
   title: Environment Agency to receive £45m as part of waste crime action plan
-- category: supply-chain
-  description: A new Criteria survey shows 61% of manufacturing workers may leave
-    the industry, adding more risk for companies already facing labor shortages.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturing-workers-leaving-industry-retention-challenges
-  pub_date: '2026-03-20T00:10:00'
-  source: Supply Chain 24/7
-  title: 'Survey: 61% of Manufacturing Workers Are Thinking About Leaving'
 - category: circular
   description: Fly-tippers could be forced to clean up streets and parks as part of
     new government plans. The post New council powers can force fly-tippers to clear
@@ -144,32 +171,4 @@ articles:
   pub_date: '2026-03-18T09:46:25'
   source: Circular Online
   title: King Charles launches circularity initiative for businesses
-- category: circular
-  description: A drug to treat Parkinson's disease can be made from waste plastic
-    bottles using bacteria, a new study shows. The post Scientists recycle waste plastic
-    bottles into Parkinson's drug appeared first on ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/scientists-recycle-waste-plastic-bottles-into-parkinsons-drug/
-  pub_date: '2026-03-17T09:15:57'
-  source: Circular Online
-  title: Scientists recycle waste plastic bottles into Parkinson’s drug
-- category: circular
-  description: Natural Resources Wales has never applied for a restriction order,
-    a unique enforcement power to shut down illegal waste sites within 72 hours, since
-    being given the power to do so in 2018. The post N...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/nrw-has-never-used-its-unique-legal-powers-to-stop-waste-crime/
-  pub_date: '2026-03-17T08:00:00'
-  source: Circular Online
-  title: NRW has never used its unique legal powers to stop waste crime
-- category: circular
-  description: The UK Government is considering granting the Environment Agency 'police-style'
-    powers to tackle waste. The post Ministers consider granting Environment Agency
-    police-style powers to tackle waste crim...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ministers-consider-granting-environment-agency-police-style-powers-to-tackle-waste-crime/
-  pub_date: '2026-03-16T12:29:00'
-  source: Circular Online
-  title: Ministers consider granting Environment Agency police-style powers to tackle
-    waste crime
-last_updated: '2026-03-24T07:05:00.769852'
+last_updated: '2026-03-25T07:02:56.158491'
