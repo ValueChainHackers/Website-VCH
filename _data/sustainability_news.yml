@@ -1,4 +1,45 @@
 articles:
+- category: supply-chain
+  description: Elon Musk has unveiled plans for Terafab, a major chip facility aimed
+    at securing AI supply for his companies.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/musk-terafab-chip-factory-austin-texas-ai-supply
+  pub_date: '2026-03-25T14:04:00'
+  source: Supply Chain 24/7
+  title: Elon Musk Announces Plans For $25 Billion Chip Project in Austin, Texas
+- category: supply-chain
+  description: Eight teams are working to recover critical minerals from waste, offering
+    a potential new domestic supply source for manufacturers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eight-teams-turn-waste-into-critical-minerals-supply-chain
+  pub_date: '2026-03-25T14:00:00'
+  source: Supply Chain 24/7
+  title: Eight Teams Look to Turn Waste Into Critical Supply Chain Materials
+- category: supply-chain
+  description: A new Aurora-backed study says autonomous trucking could deliver billions
+    in savings and economic impact by 2035.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/aurora-study-finds-autonomous-trucks-could-save-9-billion-annually
+  pub_date: '2026-03-25T13:52:00'
+  source: Supply Chain 24/7
+  title: Aurora Study Finds Autonomous Trucks Could Save $9 Billion Annually
+- category: supply-chain
+  description: FedEx has launched FedEx SameDay Local, a same-day local delivery service
+    to give retailers more flexible and faster last-mile options.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-same-day-local-delivery-onerail-last-mile
+  pub_date: '2026-03-25T13:27:00'
+  source: Supply Chain 24/7
+  title: FedEx SameDay Local Launches With OneRail Delivery Network
+- category: circular
+  description: The Environment Agency is 'spread too thin' and lacks powers to tackle
+    waste crime, an influential group of MPs has said. The post Environment Agency
+    lacks powers to tackle waste crime, MPs say appear...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/environment-agency-lacks-powers-to-tackle-waste-crime-mps-say/
+  pub_date: '2026-03-25T09:48:43'
+  source: Circular Online
+  title: Environment Agency lacks powers to tackle waste crime, MPs say
 - category: circular
   description: The Chartered Institution of Wastes Management (CIWM) has called the
     withdrawal of funding for 16 apprenticeship standards by government a 'missed
@@ -84,31 +125,6 @@ articles:
   pub_date: '2026-03-23T14:17:33'
   source: Circular Online
   title: ‘Major technical breakthrough’ in circular workwear announced
-- category: supply-chain
-  description: Jeff Bezos is planning a $100 billion fund to buy and modernize manufacturers
-    using AI, according to a Wall Street Journal report.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/jeff-bezos-seeks-100-billion-to-bring-ai-into-manufacturing
-  pub_date: '2026-03-23T13:57:00'
-  source: Supply Chain 24/7
-  title: Jeff Bezos Seeks $100 Billion To Bring AI Into Manufacturing
-- category: supply-chain
-  description: NRF forecasts retail sales will grow 4.4% to $5.6 trillion in 2026,
-    even as tariffs, global tensions, and mixed economic signals continue to create
-    uncertainty.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nrf-retail-sales-forecast-2026-growth
-  pub_date: '2026-03-23T13:35:00'
-  source: Supply Chain 24/7
-  title: Retail Spending Expected To Grow 4.4% In 2026, NRF Says
-- category: supply-chain
-  description: FedEx is building an AI agent workforce to handle logistics tasks as
-    it leans further into automation and real-time decision-making.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-ai-agent-workforce-logistics-network
-  pub_date: '2026-03-23T13:25:00'
-  source: Supply Chain 24/7
-  title: FedEx Is Building An AI Workforce To Run Its Network
 - category: circular
   description: The producer-led organisationUK Packaging PRO has beenappointed to
     manage the UK's Extended Producer Responsibility for Packaging (pEPR) scheme.
@@ -127,14 +143,6 @@ articles:
   pub_date: '2026-03-23T08:36:20'
   source: Circular Online
   title: Taxpayers to fund clearance of waste site on land owned by King
-- category: supply-chain
-  description: The move comes as AI and cloud computing drive a surge in shipments
-    of high-value equipment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-expands-logistics-network-data-center-demand
-  pub_date: '2026-03-20T16:06:00'
-  source: Supply Chain 24/7
-  title: DHL Expands Logistics Network To Support Data Center Boom
 - category: circular
   description: The Environment Agency will receive GBP45 million to strengthen waste
     crime enforcement as part of new government action plan. The post Environment
@@ -162,13 +170,4 @@ articles:
   pub_date: '2026-03-18T11:17:29'
   source: Circular Online
   title: Waste management company fined after man breaks leg from fall
-- category: circular
-  description: King Charles launched the nationwide circularity initiative for businesses
-    at the Renew Hub in Greater Manchester. The post King Charles launches circularity
-    initiative for businesses appeared first o...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/king-charles-launches-circularity-initiative-for-businesses/
-  pub_date: '2026-03-18T09:46:25'
-  source: Circular Online
-  title: King Charles launches circularity initiative for businesses
-last_updated: '2026-03-25T07:02:56.158491'
+last_updated: '2026-03-26T07:09:50.873942'

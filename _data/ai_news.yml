@@ -1,4 +1,68 @@
 articles:
+- category: ai-research
+  description: This new approach adapts to decide which robots should get the right
+    of way at every moment, avoiding congestion and increasing throughput.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326
+  pub_date: '2026-03-26T04:00:00'
+  source: MIT AI News
+  title: AI system learns to keep warehouse robot traffic running smoothly
+- category: ai-research
+  description: MIT Sea Grant works with the Woodwell Climate Research Center and other
+    collaborators to demonstrate a deep learning-based system for fish monitoring.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325
+  pub_date: '2026-03-25T21:00:00'
+  source: MIT AI News
+  title: Augmenting citizen science with computer vision for fish monitoring
+- category: machine-learning
+  description: 'Learn to build an AI data analyst with Python: analyzes data, detects
+    anomalies, and generates predictions using local LLMs.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/vibe-coding-a-private-ai-financial-analyst-with-python-and-local-llms
+  pub_date: '2026-03-25T16:11:39'
+  source: KDnuggets
+  title: Vibe Coding a Private AI Financial Analyst with Python and Local LLMs
+- category: ai-research
+  description: Google Lyria teaser
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/
+  pub_date: '2026-03-25T16:00:00'
+  source: Google AI Blog
+  title: Build with Lyria 3, our newest music generation model
+- category: ai-research
+  description: Sizzle video showing new capabilities from Lyria 3 Pro
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/
+  pub_date: '2026-03-25T16:00:00'
+  source: Google AI Blog
+  title: 'Lyria 3 Pro: Create longer tracks in more Google products'
+- category: machine-learning
+  description: Traditional data pipeline development often requires extensive procedural
+    code to define how data should be transformed and moved between stages. The declarative
+    approach flips this paradigm by allowi...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-declarative-data-pipelines-with-snowflake-dynamic-tables-a-workshop-deep-dive
+  pub_date: '2026-03-25T15:11:42'
+  source: KDnuggets
+  title: 'Building Declarative Data Pipelines with Snowflake Dynamic Tables: A Workshop
+    Deep Dive'
+- category: machine-learning
+  description: Debugging Python doesn't need to be complicated. These 5 DIY functions
+    simplify error handling and improve code reliability.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-diy-python-functions-for-error-handling
+  pub_date: '2026-03-25T12:00:36'
+  source: KDnuggets
+  title: 5 Useful DIY Python Functions for Error Handling
+- category: ai-research
+  description: By moving their hands and fingers, users can direct a robot to play
+    piano or shoot a basketball, or they can manipulate objects in a virtual environment.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325
+  pub_date: '2026-03-25T10:00:00'
+  source: MIT AI News
+  title: Wristband enables wearers to control a robotic hand with their own movements
 - category: machine-learning
   description: Explore ChatLLM by Abacus AI, an all-in-one AI platform that brings
     together tools like ChatGPT, Claude, and Midjourney into a single workflow. Learn
@@ -83,15 +147,6 @@ articles:
   pub_date: '2026-03-23T12:00:05'
   source: KDnuggets
   title: 5 Tips to Turn OpenAI Codex Into a Powerful AI Coding Agent
-- category: machine-learning
-  description: Learn everything about SynthID, how it embeds invisible AI watermarks,
-    and how it verifies and identifies AI-generated content across text, images, audio,
-    and video
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/synthid-what-it-is-and-how-it-works
-  pub_date: '2026-03-20T14:00:36'
-  source: KDnuggets
-  title: 'SynthID: What it is and How it Works'
 - category: ai-research
   description: Conference speakers discussed the unfolding trajectory of AI and the
     benefits of shaping technology to meet people's needs.
@@ -109,24 +164,6 @@ articles:
   pub_date: '2026-03-20T12:45:00'
   source: MIT AI News
   title: MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity
-- category: machine-learning
-  description: These five Python decorators have saved me from countless headaches,
-    and they will probably save you, too.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-powerful-python-decorators-for-robust-ai-agents
-  pub_date: '2026-03-20T12:00:55'
-  source: KDnuggets
-  title: 5 Powerful Python Decorators for Robust AI Agents
-- category: machine-learning
-  description: A detailed Abacus AI review exploring Abacus AI features, vibe coding
-    AI, DeepAgent, and how this AI agent platform helps build applications and automate
-    workflows faster.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/03/abacus/abacus-ai-honest-review-and-pricing-the-ai-that-lets-you-vibe-code-build-agents-replace-10-tools
-  pub_date: '2026-03-19T17:00:25'
-  source: KDnuggets
-  title: 'Abacus AI Honest Review And Pricing: The AI That Lets You Vibe Code, Build
-    Agents & Replace 10+ Tools?'
 - category: ai-research
   description: With this new technique, a robot could more accurately detect hidden
     objects or understand an indoor scene using reflected Wi-Fi signals.
@@ -144,23 +181,6 @@ articles:
   source: MIT AI News
   title: A better method for identifying overconfident large language models
 - category: ai-research
-  description: At MIT, former U.S. ambassador to China Nicholas Burns highlights climate
-    change as an area for diplomatic engagement, while exploring areas including China's
-    emphasis on STEM education.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318
-  pub_date: '2026-03-18T04:00:00'
-  source: MIT AI News
-  title: Sustaining diplomacy amid competition in US-China relations
-- category: ai-research
-  description: Academia-industry relationship is an early-stage accelerator, supporting
-    professional progress and research.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317
-  pub_date: '2026-03-17T20:35:44'
-  source: MIT AI News
-  title: 'MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact'
-- category: ai-research
   description: Bubble that says "Personal Intelligence" with Google G, Google Photos
     logo, and Gmail logo around it
   icon: fa-google
@@ -176,15 +196,6 @@ articles:
   pub_date: '2026-03-17T16:00:00'
   source: Google AI Blog
   title: Our latest investment in open source security for the AI era
-- category: ai-research
-  description: Researchers at MIT, Mass General Brigham, and Harvard Medical School
-    developed a deep-learning model to forecast a patient's heart failure prognosis
-    up to a year in advance.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312
-  pub_date: '2026-03-12T21:30:00'
-  source: MIT AI News
-  title: Can AI help predict which heart-failure patients will worsen within a year?
 - category: ai-research
   description: A doctor is sitting across a desk from a patient. The doctor is holding
     a tablet and a pen. Medical charts renderings are in the background.
@@ -233,20 +244,4 @@ articles:
   source: Google AI Blog
   title: Use Canvas in AI Mode to get things done and bring your ideas to life, right
     in Search.
-- category: ai-research
-  description: A screen capture of Project Genie, an experimental interface showing
-    a grid of circular images, many of which appear to be 360-degree views, with a
-    large, central black globe labeled Create your own
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/
-  pub_date: '2026-03-03T17:00:00'
-  source: Google AI Blog
-  title: Create new worlds in Project Genie with these 4 tips
-- category: ai-research
-  description: Gemini 3.1 Flash Lite logo
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/
-  pub_date: '2026-03-03T16:34:00'
-  source: Google AI Blog
-  title: 'Gemini 3.1 Flash-Lite: Built for intelligence at scale'
-last_updated: '2026-03-25T07:02:58.142786'
+last_updated: '2026-03-26T07:09:52.621982'
