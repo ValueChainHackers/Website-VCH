@@ -1,4 +1,29 @@
 articles:
+- category: circular
+  description: News updates written by CIWM's commercial partners. EPIC Media As Simpler
+    Recycling Goes Live, Clear Street-Level Communication Is Now Critical Beyondly
+    Compliance and the importance of following regu...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-26-march/
+  pub_date: '2026-03-26T11:20:18'
+  source: Circular Online
+  title: News in brief | CIWM Commercial Partner Updates 26 March
+- category: supply-chain
+  description: Fictiv's Vinny Licata and Andy Sherman explain what's behind the slowdown
+    in U.S. manufacturing and what companies can do to stay competitive.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hiring-slows-as-tariffs-and-costs-weigh-on-manufacturers
+  pub_date: '2026-03-26T10:57:00'
+  source: Supply Chain 24/7
+  title: Hiring Slows As Tariffs And Costs Weigh On Manufacturers
+- category: supply-chain
+  description: Southern Glazer's and Corvus Robotics are scaling inventory drones
+    across nine facilities to improve accuracy and speed up warehouse operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/southern-glazer-corvus-inventory-drones-warehouse
+  pub_date: '2026-03-26T10:52:00'
+  source: Supply Chain 24/7
+  title: Southern Glazer, Corvus Expand Inventory Drones To Nine Facilities
 - category: supply-chain
   description: Elon Musk has unveiled plans for Terafab, a major chip facility aimed
     at securing AI supply for his companies.
@@ -99,23 +124,6 @@ articles:
   pub_date: '2026-03-24T08:53:40'
   source: Circular Online
   title: New report reveals the UK’s ‘biggest plastic polluters’
-- category: supply-chain
-  description: A new Randstad survey shows that half of workers now use AI for job
-    advice rather than managers, signaling a shift in how workplace decisions are
-    made.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/50-of-workers-are-turning-to-ai-instead-of-their-managers
-  pub_date: '2026-03-23T18:35:00'
-  source: Supply Chain 24/7
-  title: 50% of Workers are Turning to AI Instead of Their Managers
-- category: supply-chain
-  description: Amazon has acquired Rivr to help automate the final steps of delivery
-    and improve last-mile efficiency.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-acquires-rivr-to-improve-last-mile-delivery-efficiency
-  pub_date: '2026-03-23T15:49:00'
-  source: Supply Chain 24/7
-  title: Amazon Acquires Rivr to Improve Last-Mile Delivery Efficiency
 - category: circular
   description: Protective workwear manufacturer Alsico has announced a 'major technical
     breakthrough' in circular workwear. Alsico announced that, in collaboration with
@@ -161,13 +169,4 @@ articles:
   pub_date: '2026-03-19T09:15:18'
   source: Circular Online
   title: New council powers can force fly-tippers to clear dumped waste
-- category: circular
-  description: A green waste recycling company based has been fined over GBP20,000
-    after an employee broke his leg when he fell from a compost screening machine.
-    The post Waste management company fined after man bre...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-management-company-fined-after-man-breaks-leg-from-fall/
-  pub_date: '2026-03-18T11:17:29'
-  source: Circular Online
-  title: Waste management company fined after man breaks leg from fall
-last_updated: '2026-03-26T07:09:50.873942'
+last_updated: '2026-03-27T07:08:42.090252'
