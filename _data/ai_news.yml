@@ -1,8 +1,16 @@
 articles:
+- category: machine-learning
+  description: Learn which tools help AI agents search, scrape, crawl, map websites,
+    answer questions, and research the web faster.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know
+  pub_date: '2026-03-27T12:00:22'
+  source: KDnuggets
+  title: 7 Free Web APIs Every Developer and Vibe Coder Should Know
 - category: ai-research
-  description: Mariano Salcedo, a master's student in the new Music Technology and
-    Computation Graduate Program, is designing an AI to visualize and express music
-    and other sounds.
+  description: Mariano Salcedo '25, a master's student in the new Music Technology
+    and Computation Graduate Program, is designing an AI to visualize and express
+    music and other sounds.
   icon: fa-graduation-cap
   link: https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326
   pub_date: '2026-03-26T20:45:00'
@@ -189,14 +197,6 @@ articles:
   pub_date: '2026-03-23T17:45:00'
   source: MIT AI News
   title: On algorithms, life, and learning
-- category: machine-learning
-  description: Skip the hype and follow these 10 X accounts for reliable LLM papers,
-    product launches, and thoughtful takes on where AI is heading.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-best-x-twitter-accounts-to-follow-for-llm-updates
-  pub_date: '2026-03-23T16:00:21'
-  source: KDnuggets
-  title: 10 Best X (Twitter) Accounts to Follow for LLM Updates
 - category: ai-research
   description: Conference speakers discussed the unfolding trajectory of AI and the
     benefits of shaping technology to meet people's needs.
@@ -247,4 +247,4 @@ articles:
   pub_date: '2026-03-10T13:00:00'
   source: Google AI Blog
   title: Gemini in Google Sheets just achieved state-of-the-art performance.
-last_updated: '2026-03-27T07:08:44.781267'
+last_updated: '2026-03-28T06:59:46.124323'
