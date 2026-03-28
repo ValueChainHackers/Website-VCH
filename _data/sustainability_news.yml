@@ -1,4 +1,63 @@
 articles:
+- category: supply-chain
+  description: Amazon is expanding its returns network by adding more than 1,500 FedEx
+    Office locations, providing shoppers with more drop-off options.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-adds-fedex-office-to-returns-network
+  pub_date: '2026-03-27T15:13:00'
+  source: Supply Chain 24/7
+  title: Amazon Adds 1,500 FedEx Sites to Its Returns Network
+- category: supply-chain
+  description: FANUC America is investing $90 million to build a new Michigan facility
+    to expand robot manufacturing capacity in the U.S.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fanuc-90m-michigan-robot-manufacturing-expansion
+  pub_date: '2026-03-27T13:52:00'
+  source: Supply Chain 24/7
+  title: FANUC Expands Michigan Footprint With $90 Million Robot Facility
+- category: supply-chain
+  description: A new RELEX report finds that AI is becoming part of supply chain planning,
+    but humans are still making the final decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-not-replacing-supply-chain-planners-relex-report
+  pub_date: '2026-03-27T13:44:00'
+  source: Supply Chain 24/7
+  title: AI Isn’t Replacing Planners, It’s Sitting Beside Them in Daily Decisions
+- category: supply-chain
+  description: A new report from LogiPharma finds pharma supply chains are stable
+    but still too reactive to handle growing disruption.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/pharmaceutical-supply-chains-holding-up-but-cracks-are-showing
+  pub_date: '2026-03-27T13:33:00'
+  source: Supply Chain 24/7
+  title: Pharmaceutical Supply Chains Holding Up, But Cracks Are Showing
+- category: supply-chain
+  description: UCB is investing $2 billion in a Georgia facility to bring drug manufacturing
+    to the U.S. for the first time.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ucb-chooses-georgia-for-first-u.s-drug-manufacturing-site
+  pub_date: '2026-03-27T13:21:00'
+  source: Supply Chain 24/7
+  title: UCB Chooses Georgia for First U.S. Drug Manufacturing Site
+- category: circular
+  description: 6.3 million vapes and pods are thrown away every week in the UK despite
+    the ban on single-use vape products. The post 6.3m vapes are thrown away each
+    week despite single-use ban appeared first on Circ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/6-3m-vapes-are-thrown-away-each-week-despite-single-use-ban/
+  pub_date: '2026-03-27T08:49:50'
+  source: Circular Online
+  title: 6.3m vapes are thrown away each week despite single-use ban
+- category: supply-chain
+  description: Discover how plugins are transforming transportation management and
+    supply chain systems by enabling faster innovation, reducing risk, and improving
+    flexibility without replacing existing platforms.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-plugins-are-the-future-of-transportation-management-systems-tms-and-supply-chain-technology
+  pub_date: '2026-03-26T16:08:00'
+  source: Supply Chain 24/7
+  title: Why Plugins Are the Future of Transportation Management Systems (TMS) and
+    Supply Chain Technology
 - category: circular
   description: News updates written by CIWM's commercial partners. EPIC Media As Simpler
     Recycling Goes Live, Clear Street-Level Communication Is Now Critical Beyondly
@@ -40,22 +99,6 @@ articles:
   pub_date: '2026-03-25T14:00:00'
   source: Supply Chain 24/7
   title: Eight Teams Look to Turn Waste Into Critical Supply Chain Materials
-- category: supply-chain
-  description: A new Aurora-backed study says autonomous trucking could deliver billions
-    in savings and economic impact by 2035.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/aurora-study-finds-autonomous-trucks-could-save-9-billion-annually
-  pub_date: '2026-03-25T13:52:00'
-  source: Supply Chain 24/7
-  title: Aurora Study Finds Autonomous Trucks Could Save $9 Billion Annually
-- category: supply-chain
-  description: FedEx has launched FedEx SameDay Local, a same-day local delivery service
-    to give retailers more flexible and faster last-mile options.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-same-day-local-delivery-onerail-last-mile
-  pub_date: '2026-03-25T13:27:00'
-  source: Supply Chain 24/7
-  title: FedEx SameDay Local Launches With OneRail Delivery Network
 - category: circular
   description: The Environment Agency is 'spread too thin' and lacks powers to tackle
     waste crime, an influential group of MPs has said. The post Environment Agency
@@ -74,30 +117,6 @@ articles:
   pub_date: '2026-03-24T15:46:16'
   source: Circular Online
   title: Apprenticeship changes a ‘missed opportunity’, CIWM says
-- category: supply-chain
-  description: Toyota is investing $1 billion to expand production and upgrade its
-    Kentucky and Indiana plants.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/toyota-1b-investment-kentucky-indiana-plants
-  pub_date: '2026-03-24T13:26:00'
-  source: Supply Chain 24/7
-  title: Toyota Invests $1 Bilion in Kentucky and Indiana Plants
-- category: supply-chain
-  description: Prologis and GIC are investing $1.6 billion in new U.S. logistics facilities
-    tied to e-commerce demand.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/prologis-gic-us-logistics-venture-ecommerce
-  pub_date: '2026-03-24T13:14:00'
-  source: Supply Chain 24/7
-  title: Prologis and GIC Launch $1.6 Bilion U.S. Logistics Venture
-- category: supply-chain
-  description: AI is giving warehouses a better way to manage demand, assign work
-    and keep orders moving in real time.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-warehouse-operations-8-ways
-  pub_date: '2026-03-24T13:07:00'
-  source: Supply Chain 24/7
-  title: Eight Ways AI is Transforming the Modern Warehouse
 - category: circular
   description: The UK food and drink manufacturing sector could redistribute one billion
     meals a year by making 'small improvements' across the industry, new research
@@ -107,14 +126,6 @@ articles:
   pub_date: '2026-03-24T11:43:56'
   source: Circular Online
   title: Food manufacturers could redistribute 1bn more meals a year, report finds
-- category: supply-chain
-  description: EQT has acquired a 2 million square foot logistics portfolio in Southern
-    New Jersey near key East Coast markets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/eqt-new-jersey-logistics-portfolio-acquisition
-  pub_date: '2026-03-24T10:35:00'
-  source: Supply Chain 24/7
-  title: EQT Buys 2 Million Square Feet of Logistics Space in Southern New Jersey
 - category: circular
   description: Coca-Cola, Red Bull, and McDonald's among UK's '12 most polluting brands'
     responsible for 52% of all plastic packaging found in 2025, according to new report.
@@ -160,13 +171,4 @@ articles:
   pub_date: '2026-03-20T08:57:37'
   source: Circular Online
   title: Environment Agency to receive £45m as part of waste crime action plan
-- category: circular
-  description: Fly-tippers could be forced to clean up streets and parks as part of
-    new government plans. The post New council powers can force fly-tippers to clear
-    dumped waste appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-council-powers-can-force-fly-tippers-to-clear-dumped-waste/
-  pub_date: '2026-03-19T09:15:18'
-  source: Circular Online
-  title: New council powers can force fly-tippers to clear dumped waste
-last_updated: '2026-03-27T07:08:42.090252'
+last_updated: '2026-03-28T06:59:44.490997'
