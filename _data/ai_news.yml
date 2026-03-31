@@ -1,4 +1,20 @@
 articles:
+- category: ai-research
+  description: A new model measures defects that can be leveraged to improve materials'
+    mechanical strength, heat transfer, and energy-conversion efficiency.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330
+  pub_date: '2026-03-30T15:00:00'
+  source: MIT AI News
+  title: MIT researchers use AI to uncover atomic defects in materials
+- category: machine-learning
+  description: Learn five simple Python scripts to perform effective feature selection.
+    Each one is practical, minimal, and easy to use in real projects.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection
+  pub_date: '2026-03-30T12:00:19'
+  source: KDnuggets
+  title: 5 Useful Python Scripts for Effective Feature Selection
 - category: machine-learning
   description: Learn which tools help AI agents search, scrape, crawl, map websites,
     answer questions, and research the web faster.
@@ -172,14 +188,6 @@ articles:
   pub_date: '2026-03-24T04:00:00'
   source: MIT AI News
   title: How to create “humble” AI
-- category: machine-learning
-  description: Was "move fast and break things" ever really the best approach to building
-    a business?
-  icon: fa-chart-bar
-  link: https://bit.ly/Ingram-topic-22-kdn-website#new_tab
-  pub_date: '2026-03-23T22:22:45'
-  source: KDnuggets
-  title: 'Decision-Making for Busy Owners: Moving Fast vs. Moving Slow (Sponsored)'
 - category: ai-research
   description: Sojun Park, a postdoc at the Center for International Studies, has
     learned much from his research on intellectual property as well as his interactions
@@ -205,15 +213,6 @@ articles:
   pub_date: '2026-03-20T13:30:00'
   source: MIT AI News
   title: What’s the right path for AI?
-- category: ai-research
-  description: Jointly led by the MIT Morningside Academy for Design, MIT Schwarzman
-    College of Computing, and the Hasso Plattner Institute in Potsdam, the hub will
-    foster a dynamic community where computing, creati...
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320
-  pub_date: '2026-03-20T12:45:00'
-  source: MIT AI News
-  title: MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity
 - category: ai-research
   description: Bubble that says "Personal Intelligence" with Google G, Google Photos
     logo, and Gmail logo around it
@@ -247,4 +246,4 @@ articles:
   pub_date: '2026-03-10T13:00:00'
   source: Google AI Blog
   title: Gemini in Google Sheets just achieved state-of-the-art performance.
-last_updated: '2026-03-30T07:42:46.794612'
+last_updated: '2026-03-31T07:16:14.682292'
