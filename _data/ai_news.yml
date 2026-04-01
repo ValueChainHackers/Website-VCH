@@ -1,5 +1,36 @@
 articles:
 - category: ai-research
+  description: By quickly generating aesthetically accurate previews of fabricated
+    objects, the VisiPrint system could make prototyping faster and less wasteful.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401
+  pub_date: '2026-04-01T04:00:00'
+  source: MIT AI News
+  title: Preview tool helps makers visualize 3D-printed objects
+- category: ai-research
+  description: Build with Veo 3.1 Lite
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/
+  pub_date: '2026-03-31T16:00:00'
+  source: Google AI Blog
+  title: Build with Veo 3.1 Lite, our most cost-effective video generation model
+- category: machine-learning
+  description: gnoring the foundation of your digital business is the fastest way
+    to turn a profitable quarter into a devastating loss.
+  icon: fa-chart-bar
+  link: https://bit.ly/Ingram-topic-23-kdn-website#new_tab
+  pub_date: '2026-03-31T15:46:39'
+  source: KDnuggets
+  title: The Value of a Relationship with a Cybersecurity Professional (Sponsored)
+- category: machine-learning
+  description: Build a full-stack AI meeting summarizer with React, FastAPI, and free
+    LLMs. Zero budget, complete code included
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/zero-budget-full-stack-building-with-only-free-llms
+  pub_date: '2026-03-31T12:00:35'
+  source: KDnuggets
+  title: 'Zero Budget, Full Stack: Building with Only Free LLMs'
+- category: ai-research
   description: A new model measures defects that can be leveraged to improve materials'
     mechanical strength, heat transfer, and energy-conversion efficiency.
   icon: fa-graduation-cap
@@ -164,22 +195,6 @@ articles:
   source: KDnuggets
   title: 'ChatLLM Review: Tired of Multiple AI Tools? Here’s a Smarter All-in-One
     Alternative'
-- category: machine-learning
-  description: Learn the analytics pattern you can use in most business analytics
-    tasks.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/analytics-patterns-every-data-scientist-should-master
-  pub_date: '2026-03-24T14:34:58'
-  source: KDnuggets
-  title: Analytics Patterns Every Data Scientist Should Master
-- category: machine-learning
-  description: Learn how to set up Nanobot, connect it to WhatsApp, and power it with
-    OpenAI GPT-5.3-Codex for a practical, always-on AI agent.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/getting-started-with-nanobot-build-your-first-ai-agent
-  pub_date: '2026-03-24T12:14:39'
-  source: KDnuggets
-  title: 'Getting Started with Nanobot: Build Your First AI Agent'
 - category: ai-research
   description: An MIT-led team is designing artificial intelligence systems for medical
     diagnosis that are more collaborative and forthcoming about uncertainty.
@@ -206,14 +221,6 @@ articles:
   source: MIT AI News
   title: On algorithms, life, and learning
 - category: ai-research
-  description: Conference speakers discussed the unfolding trajectory of AI and the
-    benefits of shaping technology to meet people's needs.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320
-  pub_date: '2026-03-20T13:30:00'
-  source: MIT AI News
-  title: What’s the right path for AI?
-- category: ai-research
   description: Bubble that says "Personal Intelligence" with Google G, Google Photos
     logo, and Gmail logo around it
   icon: fa-google
@@ -237,13 +244,4 @@ articles:
   pub_date: '2026-03-12T15:00:00'
   source: Google AI Blog
   title: How AI is helping improve heart health in rural Australia
-- category: ai-research
-  description: Today we announced new beta features for Gemini in Sheets to help you
-    create, organize and edit entire sheets, from basic tasks to complex data analysis
-    - just describe ...
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/
-  pub_date: '2026-03-10T13:00:00'
-  source: Google AI Blog
-  title: Gemini in Google Sheets just achieved state-of-the-art performance.
-last_updated: '2026-03-31T07:16:14.682292'
+last_updated: '2026-04-01T07:21:45.298537'

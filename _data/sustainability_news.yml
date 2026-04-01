@@ -1,4 +1,63 @@
 articles:
+- category: circular
+  description: Reconomy has announced it is set to open a new GBP20 million closed-loop
+    plastic recycling facility in Corby later this year. The post Reconomy to open
+    GBP20m plastic recycling plant in Corby appeared...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/reconomy-to-open-20m-plastic-recycling-plant-in-corby/
+  pub_date: '2026-04-01T07:00:00'
+  source: Circular Online
+  title: Reconomy to open £20m plastic recycling plant in Corby
+- category: supply-chain
+  description: 'Women in Supply Chain: Cyndi Brandt shares how she built a career
+    in last-mile logistics and what''s next for the industry.'
+  icon: fa-box
+  link: https://www.supplychain247.com/article/women-in-supply-chain-cyndi-brandt-descartes-systems-group
+  pub_date: '2026-03-31T17:15:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Cyndi Brandt of Descartes Systems Group'
+- category: supply-chain
+  description: Cold storage demand is still there, but companies are choosing newer,
+    more efficient facilities over older sites.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cold-storage-demand-shifts-newer-facilities
+  pub_date: '2026-03-31T14:32:00'
+  source: Supply Chain 24/7
+  title: 'Report: Cold Storage Demand Shifts to Newer, High-Tech Facilities'
+- category: circular
+  description: Stratford-on-Avon District Council achieved the highest recycling rate
+    of any local authority in England last year, Defra data reveals. The post Stratford-on-Avon
+    revealed as best council for recyclin...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/stratford-on-avon-revealed-as-top-recycling-council-in-england/
+  pub_date: '2026-03-31T13:58:01'
+  source: Circular Online
+  title: Stratford-on-Avon revealed as best council for recycling in England
+- category: supply-chain
+  description: Amazon is expanding its U.S. returns network to make drop-offs easier
+    while improving how returned items move through its supply chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-expands-returns-network-10000-locations
+  pub_date: '2026-03-31T11:35:00'
+  source: Supply Chain 24/7
+  title: Amazon Expands Returns Network To 10,000 U.S. Locations
+- category: supply-chain
+  description: Mercury's John Burhans explains how supply chain teams can plan for
+    constant tariff changes and respond faster when disruptions hit.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-companies-can-plan-for-changing-tariffs
+  pub_date: '2026-03-31T11:26:00'
+  source: Supply Chain 24/7
+  title: How Companies Can Stay Ahead Of Tariffs That Keep Changing
+- category: circular
+  description: Simpler Recycling rules that mandate the separate collection of different
+    waste streams have come into force for households across England. The post Household
+    Simpler Recycling collections begin acros...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/household-simpler-recycling-rules-begin-across-england/
+  pub_date: '2026-03-31T08:26:59'
+  source: Circular Online
+  title: Household Simpler Recycling collections begin across England
 - category: supply-chain
   description: Georgia Ports will open a new inland port in Gainesville in May 2026
     to improve cargo movement between Savannah and inland markets.
@@ -74,38 +133,6 @@ articles:
   pub_date: '2026-03-27T15:13:00'
   source: Supply Chain 24/7
   title: Amazon Adds 1,500 FedEx Sites to Its Returns Network
-- category: supply-chain
-  description: FANUC America is investing $90 million to build a new Michigan facility
-    to expand robot manufacturing capacity in the U.S.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fanuc-90m-michigan-robot-manufacturing-expansion
-  pub_date: '2026-03-27T13:52:00'
-  source: Supply Chain 24/7
-  title: FANUC Expands Michigan Footprint With $90 Million Robot Facility
-- category: supply-chain
-  description: A new RELEX report finds that AI is becoming part of supply chain planning,
-    but humans are still making the final decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-not-replacing-supply-chain-planners-relex-report
-  pub_date: '2026-03-27T13:44:00'
-  source: Supply Chain 24/7
-  title: AI Isn’t Replacing Planners, It’s Sitting Beside Them in Daily Decisions
-- category: supply-chain
-  description: A new report from LogiPharma finds pharma supply chains are stable
-    but still too reactive to handle growing disruption.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/pharmaceutical-supply-chains-holding-up-but-cracks-are-showing
-  pub_date: '2026-03-27T13:33:00'
-  source: Supply Chain 24/7
-  title: Pharmaceutical Supply Chains Holding Up, But Cracks Are Showing
-- category: supply-chain
-  description: UCB is investing $2 billion in a Georgia facility to bring drug manufacturing
-    to the U.S. for the first time.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ucb-chooses-georgia-for-first-u.s-drug-manufacturing-site
-  pub_date: '2026-03-27T13:21:00'
-  source: Supply Chain 24/7
-  title: UCB Chooses Georgia for First U.S. Drug Manufacturing Site
 - category: circular
   description: 6.3 million vapes and pods are thrown away every week in the UK despite
     the ban on single-use vape products. The post 6.3m vapes are thrown away each
@@ -116,9 +143,9 @@ articles:
   source: Circular Online
   title: 6.3m vapes are thrown away each week despite single-use ban
 - category: circular
-  description: News updates written by CIWM's commercial partners. EPIC Media As Simpler
-    Recycling Goes Live, Clear Street-Level Communication Is Now Critical Beyondly
-    Compliance and the importance of following regu...
+  description: 'News updates written by CIWM''s commercial partners. CRJ Services
+    New Partnership Announcement: Exclusive UK and Ireland Dealership Secured with
+    Tana Valpak UCL wins ''Beyond the Bin'' funding bid with p...'
   icon: fa-recycle
   link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-26-march/
   pub_date: '2026-03-26T11:20:18'
@@ -142,31 +169,4 @@ articles:
   pub_date: '2026-03-24T15:46:16'
   source: Circular Online
   title: Apprenticeship changes a ‘missed opportunity’, CIWM says
-- category: circular
-  description: The UK food and drink manufacturing sector could redistribute one billion
-    meals a year by making 'small improvements' across the industry, new research
-    finds. A new report has found that UK food and d...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/food-manufacturers-could-redistribute-1bn-more-meals-a-year-report-finds/
-  pub_date: '2026-03-24T11:43:56'
-  source: Circular Online
-  title: Food manufacturers could redistribute 1bn more meals a year, report finds
-- category: circular
-  description: Coca-Cola, Red Bull, and McDonald's among UK's '12 most polluting brands'
-    responsible for 52% of all plastic packaging found in 2025, according to new report.
-    The post New report reveals the UK's 'big...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-report-reveals-the-uks-biggest-plastic-polluters/
-  pub_date: '2026-03-24T08:53:40'
-  source: Circular Online
-  title: New report reveals the UK’s ‘biggest plastic polluters’
-- category: circular
-  description: Protective workwear manufacturer Alsico has announced a 'major technical
-    breakthrough' in circular workwear. Alsico announced that, in collaboration with
-    Stuff4Life and Coats, it has successfully reco...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/major-technical-breakthrough-in-circular-workwear-announced/
-  pub_date: '2026-03-23T14:17:33'
-  source: Circular Online
-  title: ‘Major technical breakthrough’ in circular workwear announced
-last_updated: '2026-03-31T07:16:13.615409'
+last_updated: '2026-04-01T07:21:44.334113'
