@@ -1,5 +1,44 @@
 articles:
 - category: ai-research
+  description: MIT researchers developed a testing framework that pinpoints situations
+    where AI decision-support systems are not treating people and communities fairly.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402
+  pub_date: '2026-04-02T04:00:00'
+  source: MIT AI News
+  title: Evaluating the ethics of autonomous systems
+- category: machine-learning
+  description: 'How to configure Antigravity AI agent workflows to resiliently automate
+    critical code generation tasks: all without the need for third-party tools.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/build-better-ai-agents-with-google-antigravity-skills-and-workflows
+  pub_date: '2026-04-01T15:00:46'
+  source: KDnuggets
+  title: Build Better AI Agents with Google Antigravity Skills and Workflows
+- category: ai-research
+  description: Google partnered with the Brazilian government on a satellite imagery
+    map to help protect the country's forests.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/
+  pub_date: '2026-04-01T13:30:00'
+  source: Google AI Blog
+  title: We’re creating a new satellite imagery map to help protect Brazil’s forests.
+- category: ai-research
+  description: March 2026 AI Recap showing new updates
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/
+  pub_date: '2026-04-01T13:00:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in March 2026
+- category: machine-learning
+  description: I reviewed dozens of AI website builders and found 7 that are worth
+    testing.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-essential-ai-website-builders-from-prompt-to-production
+  pub_date: '2026-04-01T12:49:41'
+  source: KDnuggets
+  title: '7 Essential AI Website Builders: From Prompt to Production'
+- category: ai-research
   description: By quickly generating aesthetically accurate previews of fabricated
     objects, the VisiPrint system could make prototyping faster and less wasteful.
   icon: fa-graduation-cap
@@ -169,14 +208,6 @@ articles:
   source: KDnuggets
   title: 'Building Declarative Data Pipelines with Snowflake Dynamic Tables: A Workshop
     Deep Dive'
-- category: machine-learning
-  description: Debugging Python doesn't need to be complicated. These 5 DIY functions
-    simplify error handling and improve code reliability.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-diy-python-functions-for-error-handling
-  pub_date: '2026-03-25T12:00:36'
-  source: KDnuggets
-  title: 5 Useful DIY Python Functions for Error Handling
 - category: ai-research
   description: By moving their hands and fingers, users can direct a robot to play
     piano or shoot a basketball, or they can manipulate objects in a virtual environment.
@@ -185,16 +216,6 @@ articles:
   pub_date: '2026-03-25T10:00:00'
   source: MIT AI News
   title: Wristband enables wearers to control a robotic hand with their own movements
-- category: machine-learning
-  description: Explore ChatLLM by Abacus AI, an all-in-one AI platform that brings
-    together tools like ChatGPT, Claude, and Midjourney into a single workflow. Learn
-    about its features, pricing, and real-world use ca...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/03/abacus/chatllm-all-in-one-ai-platform-review
-  pub_date: '2026-03-24T17:00:59'
-  source: KDnuggets
-  title: 'ChatLLM Review: Tired of Multiple AI Tools? Here’s a Smarter All-in-One
-    Alternative'
 - category: ai-research
   description: An MIT-led team is designing artificial intelligence systems for medical
     diagnosis that are more collaborative and forthcoming about uncertainty.
@@ -213,14 +234,6 @@ articles:
   source: MIT AI News
   title: Advancing international trade research and finding community
 - category: ai-research
-  description: Operations research expert Dimitris Bertsimas delivered the annual
-    Killian Lecture, providing a look at the past and future of his work.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/algorithms-life-learning-killian-lecture-dimitris-bertsimas-0323
-  pub_date: '2026-03-23T17:45:00'
-  source: MIT AI News
-  title: On algorithms, life, and learning
-- category: ai-research
   description: Bubble that says "Personal Intelligence" with Google G, Google Photos
     logo, and Gmail logo around it
   icon: fa-google
@@ -228,20 +241,4 @@ articles:
   pub_date: '2026-03-17T16:00:00'
   source: Google AI Blog
   title: Bringing the power of Personal Intelligence to more people
-- category: ai-research
-  description: A collage including security icons and photos of hands clasped, a man
-    looking at a computer, and two people pointing at something off camera
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/
-  pub_date: '2026-03-17T16:00:00'
-  source: Google AI Blog
-  title: Our latest investment in open source security for the AI era
-- category: ai-research
-  description: A doctor is sitting across a desk from a patient. The doctor is holding
-    a tablet and a pen. Medical charts renderings are in the background.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/
-  pub_date: '2026-03-12T15:00:00'
-  source: Google AI Blog
-  title: How AI is helping improve heart health in rural Australia
-last_updated: '2026-04-01T07:21:45.298537'
+last_updated: '2026-04-02T07:13:40.244424'

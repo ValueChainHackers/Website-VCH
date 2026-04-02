@@ -1,5 +1,56 @@
 articles:
 - category: circular
+  description: An estimated 3.5 million people in the UK throw hot cross buns away
+    each year, new research from Too Good To Go shows. The post 3.5 million Brits
+    throw away hot cross buns every Easter appeared first ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/3-5-million-brits-throw-away-hot-cross-buns-every-easter/
+  pub_date: '2026-04-02T07:00:00'
+  source: Circular Online
+  title: 3.5 million Brits throw away hot cross buns every Easter
+- category: supply-chain
+  description: Learn how accurate labor forecasting reduces costs, improves productivity,
+    and prevents overtime. A practical guide to better workforce planning in modern
+    operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/labor-forecasting-guide-how-to-reduce-costs-and-improve-workforce-planning
+  pub_date: '2026-04-01T16:51:00'
+  source: Supply Chain 24/7
+  title: 'Labor Forecasting Guide: How to Reduce Costs and Improve Workforce Planning'
+- category: supply-chain
+  description: Manufacturers are investing in smart technology, but the real focus
+    is shifting to where it actually delivers measurable results.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturers-smart-technology-roi-automation-report
+  pub_date: '2026-04-01T14:14:00'
+  source: Supply Chain 24/7
+  title: Manufacturers Turn to Smart Technology, but ROI Still a Question
+- category: supply-chain
+  description: A new Coupa report shows that companies are all-in on AI, but confidence
+    in actually using it is slipping.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/confidence-in-ai-execution-drops-as-cfo-concerns-rise
+  pub_date: '2026-04-01T13:53:00'
+  source: Supply Chain 24/7
+  title: Confidence in AI Execution Drops as CFO Concerns Rise
+- category: supply-chain
+  description: Savannah is gaining ground as cargo shifts to East Coast ports and
+    companies rethink how they move freight across the U.S., based on new data from
+    Colliers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/savannah-port-cargo-shift-east-coast
+  pub_date: '2026-04-01T13:26:00'
+  source: Supply Chain 24/7
+  title: Savannah Emerges as Top Port as Cargo Shifts to East Coast
+- category: supply-chain
+  description: Hasbro opened a new Georgia distribution center that will handle 25%
+    of its U.S. volume and improve delivery speed.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hasbro-georgia-distribution-center-midway-savannah
+  pub_date: '2026-04-01T13:26:00'
+  source: Supply Chain 24/7
+  title: Hasbro Opens Georgia Distribution Center Near Port of Savannah
+- category: circular
   description: Reconomy has announced it is set to open a new GBP20 million closed-loop
     plastic recycling facility in Corby later this year. The post Reconomy to open
     GBP20m plastic recycling plant in Corby appeared...
@@ -66,38 +117,6 @@ articles:
   pub_date: '2026-03-30T14:00:00'
   source: Supply Chain 24/7
   title: Savannah Port Expansion Aims to Reduce Truck Traffic in Atlanta
-- category: supply-chain
-  description: The NextGen Supply Chain Conference has opened submissions for its
-    2026 awards, with more focus on companies showing real results.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nextgen-supply-chain-conference-2026-awards-open
-  pub_date: '2026-03-30T13:43:00'
-  source: Supply Chain 24/7
-  title: NextGen Opens Award Entries Ahead of 2026 Nashville Conference
-- category: supply-chain
-  description: UPS has withdrawn its driver buyout program in the Teamsters' Central
-    Region after local unions challenged it as a violation of the national labor contract.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-withdraws-driver-buyout-program-teamsters-central-region
-  pub_date: '2026-03-30T13:36:00'
-  source: Supply Chain 24/7
-  title: UPS Pulls Driver Buyout Program After Teamsters Pushback
-- category: supply-chain
-  description: Cargo theft is becoming more sophisticated and costly, with losses
-    reaching $6.6 billion as criminals increasingly use cyber tactics to target shipments.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/argo-theft-6-6-billion-cyber-tactics-geotab
-  pub_date: '2026-03-30T13:27:00'
-  source: Supply Chain 24/7
-  title: Cargo Theft Hits $6.6 Billion as Criminals Go Digital
-- category: supply-chain
-  description: Apple plans to invest $400 million through 2030 and add new partners
-    to expand U.S.-based production of key supply chain components.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/apple-adds-us-manufacturing-partners-400m-investment
-  pub_date: '2026-03-30T13:14:00'
-  source: Supply Chain 24/7
-  title: Apple Expands U.S. Supply Chain with $400 Million Investment
 - category: circular
   description: A farmer in North Yorkshire has been given a suspended prison sentence
     after admitting to operating an illegal waste site on his land. Environment Agency
@@ -125,14 +144,6 @@ articles:
   pub_date: '2026-03-30T08:00:12'
   source: Circular Online
   title: Global waste set to rise sharply without urgent action, World Bank warns
-- category: supply-chain
-  description: Amazon is expanding its returns network by adding more than 1,500 FedEx
-    Office locations, providing shoppers with more drop-off options.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-adds-fedex-office-to-returns-network
-  pub_date: '2026-03-27T15:13:00'
-  source: Supply Chain 24/7
-  title: Amazon Adds 1,500 FedEx Sites to Its Returns Network
 - category: circular
   description: 6.3 million vapes and pods are thrown away every week in the UK despite
     the ban on single-use vape products. The post 6.3m vapes are thrown away each
@@ -160,13 +171,4 @@ articles:
   pub_date: '2026-03-25T09:48:43'
   source: Circular Online
   title: Environment Agency lacks powers to tackle waste crime, MPs say
-- category: circular
-  description: The Chartered Institution of Wastes Management (CIWM) has called the
-    withdrawal of funding for 16 apprenticeship standards by government a 'missed
-    opportunity'. The post Apprenticeship changes a 'miss...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/another-missed-opportunity-ciwm-criticises-apprenticeship-changes/
-  pub_date: '2026-03-24T15:46:16'
-  source: Circular Online
-  title: Apprenticeship changes a ‘missed opportunity’, CIWM says
-last_updated: '2026-04-01T07:21:44.334113'
+last_updated: '2026-04-02T07:13:38.426559'
