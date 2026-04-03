@@ -1,4 +1,37 @@
 articles:
+- category: supply-chain
+  description: Diesel prices surged across the U.S. in March, with several states
+    seeing increases of more than $2 per gallon.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/diesel-prices-by-state-march-increase
+  pub_date: '2026-04-02T15:55:00'
+  source: Supply Chain 24/7
+  title: Which States Had the Biggest Diesel Price Increases in March?
+- category: supply-chain
+  description: Pandora is redesigning its network to keep Canadian orders out of the
+    U.S. and avoid tariffs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/pandora-canada-dc-bypass-us-tariffs
+  pub_date: '2026-04-02T14:55:00'
+  source: Supply Chain 24/7
+  title: Pandora Opens Ontario Hub in Canada Amid U.S. Tariff Uncertainty
+- category: supply-chain
+  description: Before investing in automation, companies should first audit their
+    warehouse operations to identify existing inefficiencies and opportunities for
+    improvement.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-operations-audit-before-automation
+  pub_date: '2026-04-02T13:14:00'
+  source: Supply Chain 24/7
+  title: Why An Operations Audit Should Come Before Automation
+- category: supply-chain
+  description: AI can help companies catch supply chain problems earlier, but it also
+    introduces new risks that need to be managed.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-supply-chain-risk-management-oversight
+  pub_date: '2026-04-02T12:56:00'
+  source: Supply Chain 24/7
+  title: How AI Could Help Catch Supply Chain Problems Earlier
 - category: circular
   description: An estimated 3.5 million people in the UK throw hot cross buns away
     each year, new research from Too Good To Go shows. The post 3.5 million Brits
@@ -67,14 +100,6 @@ articles:
   pub_date: '2026-03-31T17:15:00'
   source: Supply Chain 24/7
   title: 'Women in Supply Chain: Cyndi Brandt of Descartes Systems Group'
-- category: supply-chain
-  description: Cold storage demand is still there, but companies are choosing newer,
-    more efficient facilities over older sites.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cold-storage-demand-shifts-newer-facilities
-  pub_date: '2026-03-31T14:32:00'
-  source: Supply Chain 24/7
-  title: 'Report: Cold Storage Demand Shifts to Newer, High-Tech Facilities'
 - category: circular
   description: Stratford-on-Avon District Council achieved the highest recycling rate
     of any local authority in England last year, Defra data reveals. The post Stratford-on-Avon
@@ -84,22 +109,6 @@ articles:
   pub_date: '2026-03-31T13:58:01'
   source: Circular Online
   title: Stratford-on-Avon revealed as best council for recycling in England
-- category: supply-chain
-  description: Amazon is expanding its U.S. returns network to make drop-offs easier
-    while improving how returned items move through its supply chain.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-expands-returns-network-10000-locations
-  pub_date: '2026-03-31T11:35:00'
-  source: Supply Chain 24/7
-  title: Amazon Expands Returns Network To 10,000 U.S. Locations
-- category: supply-chain
-  description: Mercury's John Burhans explains how supply chain teams can plan for
-    constant tariff changes and respond faster when disruptions hit.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-companies-can-plan-for-changing-tariffs
-  pub_date: '2026-03-31T11:26:00'
-  source: Supply Chain 24/7
-  title: How Companies Can Stay Ahead Of Tariffs That Keep Changing
 - category: circular
   description: Simpler Recycling rules that mandate the separate collection of different
     waste streams have come into force for households across England. The post Household
@@ -109,14 +118,6 @@ articles:
   pub_date: '2026-03-31T08:26:59'
   source: Circular Online
   title: Household Simpler Recycling collections begin across England
-- category: supply-chain
-  description: Georgia Ports will open a new inland port in Gainesville in May 2026
-    to improve cargo movement between Savannah and inland markets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/georgia-ports-gainesville-inland-port-opening-2026
-  pub_date: '2026-03-30T14:00:00'
-  source: Supply Chain 24/7
-  title: Savannah Port Expansion Aims to Reduce Truck Traffic in Atlanta
 - category: circular
   description: A farmer in North Yorkshire has been given a suspended prison sentence
     after admitting to operating an illegal waste site on his land. Environment Agency
@@ -171,4 +172,4 @@ articles:
   pub_date: '2026-03-25T09:48:43'
   source: Circular Online
   title: Environment Agency lacks powers to tackle waste crime, MPs say
-last_updated: '2026-04-02T07:13:38.426559'
+last_updated: '2026-04-03T07:09:45.830686'
