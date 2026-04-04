@@ -1,5 +1,37 @@
 articles:
 - category: supply-chain
+  description: Maersk is opening a 233,000-square-foot ground freight hub in New Jersey
+    to support its growing U.S. logistics network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-new-jersey-freight-hub-linden-logistics-center
+  pub_date: '2026-04-03T14:50:00'
+  source: Supply Chain 24/7
+  title: Maersk Adds Major New Jersey Hub Near Port Newark-Elizabeth
+- category: supply-chain
+  description: A surge in demand for skilled trades is creating a labor bottleneck
+    that is starting to slow supply chain and infrastructure projects.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/skilled-trades-shortage-ai-supply-chain-labor-gap
+  pub_date: '2026-04-03T14:02:00'
+  source: Supply Chain 24/7
+  title: Where Did All the Skilled Workers Go? Demand Surges in U.S.
+- category: supply-chain
+  description: A new Lineage survey shows that food companies are seeing rising demand
+    but also higher costs, prompting more investment in AI and logistics.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/food-supply-chains-tariffs-demand-ai-lineage-survey
+  pub_date: '2026-04-03T13:41:00'
+  source: Supply Chain 24/7
+  title: 73% Of Food Companies Expect Tariffs To Hurt Finances In 2026
+- category: supply-chain
+  description: Manufacturing is still growing, but slowing demand, rising costs, and
+    global uncertainty are starting to weigh on the outlook.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ism-manufacturing-growth-march-2026-slowdown-risks
+  pub_date: '2026-04-03T13:40:00'
+  source: Supply Chain 24/7
+  title: Manufacturing Grows for Third Straight Month as Output Improves
+- category: supply-chain
   description: Diesel prices surged across the U.S. in March, with several states
     seeing increases of more than $2 per gallon.
   icon: fa-box
@@ -58,31 +90,6 @@ articles:
   pub_date: '2026-04-01T14:14:00'
   source: Supply Chain 24/7
   title: Manufacturers Turn to Smart Technology, but ROI Still a Question
-- category: supply-chain
-  description: A new Coupa report shows that companies are all-in on AI, but confidence
-    in actually using it is slipping.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/confidence-in-ai-execution-drops-as-cfo-concerns-rise
-  pub_date: '2026-04-01T13:53:00'
-  source: Supply Chain 24/7
-  title: Confidence in AI Execution Drops as CFO Concerns Rise
-- category: supply-chain
-  description: Savannah is gaining ground as cargo shifts to East Coast ports and
-    companies rethink how they move freight across the U.S., based on new data from
-    Colliers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/savannah-port-cargo-shift-east-coast
-  pub_date: '2026-04-01T13:26:00'
-  source: Supply Chain 24/7
-  title: Savannah Emerges as Top Port as Cargo Shifts to East Coast
-- category: supply-chain
-  description: Hasbro opened a new Georgia distribution center that will handle 25%
-    of its U.S. volume and improve delivery speed.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hasbro-georgia-distribution-center-midway-savannah
-  pub_date: '2026-04-01T13:26:00'
-  source: Supply Chain 24/7
-  title: Hasbro Opens Georgia Distribution Center Near Port of Savannah
 - category: circular
   description: Reconomy has announced it is set to open a new GBP20 million closed-loop
     plastic recycling facility in Corby later this year. The post Reconomy to open
@@ -92,14 +99,6 @@ articles:
   pub_date: '2026-04-01T07:00:00'
   source: Circular Online
   title: Reconomy to open £20m plastic recycling plant in Corby
-- category: supply-chain
-  description: 'Women in Supply Chain: Cyndi Brandt shares how she built a career
-    in last-mile logistics and what''s next for the industry.'
-  icon: fa-box
-  link: https://www.supplychain247.com/article/women-in-supply-chain-cyndi-brandt-descartes-systems-group
-  pub_date: '2026-03-31T17:15:00'
-  source: Supply Chain 24/7
-  title: 'Women in Supply Chain: Cyndi Brandt of Descartes Systems Group'
 - category: circular
   description: Stratford-on-Avon District Council achieved the highest recycling rate
     of any local authority in England last year, Defra data reveals. The post Stratford-on-Avon
@@ -172,4 +171,4 @@ articles:
   pub_date: '2026-03-25T09:48:43'
   source: Circular Online
   title: Environment Agency lacks powers to tackle waste crime, MPs say
-last_updated: '2026-04-03T07:09:45.830686'
+last_updated: '2026-04-04T07:01:56.518117'
