@@ -1,4 +1,29 @@
 articles:
+- category: ai-research
+  description: Dean Price, assistant professor in the Department of Nuclear Science
+    and Engineering, sees a bright future for nuclear power, and believes AI can help
+    us realize that vision.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403
+  pub_date: '2026-04-03T20:55:00'
+  source: MIT AI News
+  title: Working to advance the nuclear renaissance
+- category: machine-learning
+  description: Five key statistical traps in FAANG interviews that test your ability
+    to question data, spot bias, and think critically
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-most-common-statistical-traps-in-faang-interviews
+  pub_date: '2026-04-03T14:50:18'
+  source: KDnuggets
+  title: The Most Common Statistical Traps in FAANG Interviews
+- category: machine-learning
+  description: Build AI agents instantly with 5 readytorun Docker containers. Pull,
+    run, and start creating with zero setup.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers
+  pub_date: '2026-04-03T12:00:03'
+  source: KDnuggets
+  title: 5 Useful Docker Containers for Agentic Developers
 - category: machine-learning
   description: An overview of a state-of-the-art study, uncovering simulation-based
     reasoning, a "just-in-time" framework and how it helps improve predictions in
@@ -124,14 +149,6 @@ articles:
   pub_date: '2026-03-30T12:00:19'
   source: KDnuggets
   title: 5 Useful Python Scripts for Effective Feature Selection
-- category: machine-learning
-  description: Learn which tools help AI agents search, scrape, crawl, map websites,
-    answer questions, and research the web faster.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know
-  pub_date: '2026-03-27T12:00:22'
-  source: KDnuggets
-  title: 7 Free Web APIs Every Developer and Vibe Coder Should Know
 - category: ai-research
   description: Mariano Salcedo '25, a master's student in the new Music Technology
     and Computation Graduate Program, is designing an AI to visualize and express
@@ -157,14 +174,6 @@ articles:
   pub_date: '2026-03-26T17:00:00'
   source: Google AI Blog
   title: Watch James Manyika talk AI and creativity with LL COOL J.
-- category: machine-learning
-  description: Build an AI weather agent in 40 lines of Python using Hugging Face's
-    smolagents library. Learn to create tools, connect LLMs, and run autonomous tasks.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/getting-started-with-smolagents-build-your-first-code-agent-in-15-minutes
-  pub_date: '2026-03-26T16:00:25'
-  source: KDnuggets
-  title: 'Getting Started with Smolagents: Build Your First Code Agent in 15 Minutes'
 - category: ai-research
   description: Google Translate's Live translate with headphones is officially arriving
     on iOS! And we're expanding the capability for both iOS and Android users to even
@@ -230,13 +239,4 @@ articles:
   pub_date: '2026-03-24T04:00:00'
   source: MIT AI News
   title: How to create “humble” AI
-- category: ai-research
-  description: Sojun Park, a postdoc at the Center for International Studies, has
-    learned much from his research on intellectual property as well as his interactions
-    with students and mentors at MIT.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/sojun-park-advancing-international-trade-research-finding-community-0323
-  pub_date: '2026-03-23T21:00:00'
-  source: MIT AI News
-  title: Advancing international trade research and finding community
-last_updated: '2026-04-03T07:09:47.278035'
+last_updated: '2026-04-04T07:01:57.706936'
