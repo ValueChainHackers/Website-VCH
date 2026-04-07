@@ -1,5 +1,38 @@
 articles:
 - category: ai-research
+  description: Researchers developed a system that intelligently balances workloads
+    to improve the efficiency of flash storage hardware in a data center.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407
+  pub_date: '2026-04-07T04:00:00'
+  source: MIT AI News
+  title: Helping data centers deliver higher performance with less hardware
+- category: machine-learning
+  description: Data disruptions are no longer rare events. Hardware failures, ransomware,
+    and unexpected outages can interrupt operations at any time. The difference between
+    a temporary setback and a major business ...
+  icon: fa-chart-bar
+  link: https://bit.ly/Ingram-topic-24-kdn-website
+  pub_date: '2026-04-07T01:57:34'
+  source: KDnuggets
+  title: Building A Bulletproof Strategy For Data Recovery (Sponsored)
+- category: machine-learning
+  description: 'But here''s what nobody''s actually saying out loud: the threat everyone
+    keeps attributing to AI belongs more specifically to automation.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/ai-isnt-coming-for-your-job-automation-is
+  pub_date: '2026-04-06T14:00:52'
+  source: KDnuggets
+  title: 'AI Isn’t Coming For Your Job: Automation Is'
+- category: machine-learning
+  description: Turn OpenClaw into a powerful personal assistant with these 5 hands-on
+    projects from beginner to advanced.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-fun-projects-using-openclaw
+  pub_date: '2026-04-06T12:00:33'
+  source: KDnuggets
+  title: 5 Fun Projects Using OpenClaw
+- category: ai-research
   description: Dean Price, assistant professor in the Department of Nuclear Science
     and Engineering, sees a bright future for nuclear power, and believes AI can help
     us realize that vision.
@@ -117,22 +150,6 @@ articles:
   pub_date: '2026-03-31T16:00:00'
   source: Google AI Blog
   title: Build with Veo 3.1 Lite, our most cost-effective video generation model
-- category: machine-learning
-  description: gnoring the foundation of your digital business is the fastest way
-    to turn a profitable quarter into a devastating loss.
-  icon: fa-chart-bar
-  link: https://bit.ly/Ingram-topic-23-kdn-website#new_tab
-  pub_date: '2026-03-31T15:46:39'
-  source: KDnuggets
-  title: The Value of a Relationship with a Cybersecurity Professional (Sponsored)
-- category: machine-learning
-  description: Build a full-stack AI meeting summarizer with React, FastAPI, and free
-    LLMs. Zero budget, complete code included
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/zero-budget-full-stack-building-with-only-free-llms
-  pub_date: '2026-03-31T12:00:35'
-  source: KDnuggets
-  title: 'Zero Budget, Full Stack: Building with Only Free LLMs'
 - category: ai-research
   description: A new model measures defects that can be leveraged to improve materials'
     mechanical strength, heat transfer, and energy-conversion efficiency.
@@ -141,14 +158,6 @@ articles:
   pub_date: '2026-03-30T15:00:00'
   source: MIT AI News
   title: MIT researchers use AI to uncover atomic defects in materials
-- category: machine-learning
-  description: Learn five simple Python scripts to perform effective feature selection.
-    Each one is practical, minimal, and easy to use in real projects.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection
-  pub_date: '2026-03-30T12:00:19'
-  source: KDnuggets
-  title: 5 Useful Python Scripts for Effective Feature Selection
 - category: ai-research
   description: Mariano Salcedo '25, a master's student in the new Music Technology
     and Computation Graduate Program, is designing an AI to visualize and express
@@ -231,12 +240,4 @@ articles:
   pub_date: '2026-03-25T10:00:00'
   source: MIT AI News
   title: Wristband enables wearers to control a robotic hand with their own movements
-- category: ai-research
-  description: An MIT-led team is designing artificial intelligence systems for medical
-    diagnosis that are more collaborative and forthcoming about uncertainty.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/creating-humble-ai-0324
-  pub_date: '2026-03-24T04:00:00'
-  source: MIT AI News
-  title: How to create “humble” AI
-last_updated: '2026-04-06T07:44:13.922708'
+last_updated: '2026-04-07T07:18:18.782355'
