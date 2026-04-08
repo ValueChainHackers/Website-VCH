@@ -1,5 +1,38 @@
 articles:
 - category: ai-research
+  description: Startup accelerator program grows to over 30 companies, almost half
+    of them with MIT pedigrees.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407
+  pub_date: '2026-04-07T20:40:00'
+  source: MIT AI News
+  title: Sixteen new START.nano companies are developing hard-tech solutions with
+    the support of MIT.nano
+- category: machine-learning
+  description: Compare SQL and NoSQL backend services. Find out which BaaS is right
+    for your next app in this neutral guide.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/supabase-vs-firebase-which-backend-is-right-for-your-next-app
+  pub_date: '2026-04-07T16:00:21'
+  source: KDnuggets
+  title: 'Supabase vs Firebase: Which Backend Is Right for Your Next App?'
+- category: machine-learning
+  description: 'As language model applications evolved, they increasingly became one
+    with so-called RAG architectures: learn 7 key steps deemed essential to mastering
+    their successful development.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-steps-to-mastering-retrieval-augmented-generation
+  pub_date: '2026-04-07T14:00:59'
+  source: KDnuggets
+  title: 7 Steps to Mastering Retrieval-Augmented Generation
+- category: machine-learning
+  description: The 10 concepts every LLM engineer swears by to build reliable AI systems.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-llm-engineering-concepts-explained-in-10-minutes
+  pub_date: '2026-04-07T12:00:31'
+  source: KDnuggets
+  title: 10 LLM Engineering Concepts Explained in 10 Minutes
+- category: ai-research
   description: Researchers developed a system that intelligently balances workloads
     to improve the efficiency of flash storage hardware in a data center.
   icon: fa-graduation-cap
@@ -88,14 +121,6 @@ articles:
   pub_date: '2026-04-02T14:00:31'
   source: KDnuggets
   title: 'LLMOps in 2026: The 10 Tools Every Team Must Have'
-- category: machine-learning
-  description: Explore the top agent skill marketplaces shaping how AI agents discover,
-    install, and use reusable capabilities.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-agent-skill-marketplaces-for-building-powerful-ai-agents
-  pub_date: '2026-04-02T12:00:47'
-  source: KDnuggets
-  title: Top 5 Agent Skill Marketplaces for Building Powerful AI Agents
 - category: ai-research
   description: MIT researchers developed a testing framework that pinpoints situations
     where AI decision-support systems are not treating people and communities fairly.
@@ -104,14 +129,6 @@ articles:
   pub_date: '2026-04-02T04:00:00'
   source: MIT AI News
   title: Evaluating the ethics of autonomous systems
-- category: machine-learning
-  description: 'How to configure Antigravity AI agent workflows to resiliently automate
-    critical code generation tasks: all without the need for third-party tools.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/build-better-ai-agents-with-google-antigravity-skills-and-workflows
-  pub_date: '2026-04-01T15:00:46'
-  source: KDnuggets
-  title: Build Better AI Agents with Google Antigravity Skills and Workflows
 - category: ai-research
   description: Google partnered with the Brazilian government on a satellite imagery
     map to help protect the country's forests.
@@ -127,14 +144,6 @@ articles:
   pub_date: '2026-04-01T13:00:00'
   source: Google AI Blog
   title: The latest AI news we announced in March 2026
-- category: machine-learning
-  description: I reviewed dozens of AI website builders and found 7 that are worth
-    testing.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-essential-ai-website-builders-from-prompt-to-production
-  pub_date: '2026-04-01T12:49:41'
-  source: KDnuggets
-  title: '7 Essential AI Website Builders: From Prompt to Production'
 - category: ai-research
   description: By quickly generating aesthetically accurate previews of fabricated
     objects, the VisiPrint system could make prototyping faster and less wasteful.
@@ -232,12 +241,4 @@ articles:
   pub_date: '2026-03-25T16:00:00'
   source: Google AI Blog
   title: Build with Lyria 3, our newest music generation model
-- category: ai-research
-  description: By moving their hands and fingers, users can direct a robot to play
-    piano or shoot a basketball, or they can manipulate objects in a virtual environment.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325
-  pub_date: '2026-03-25T10:00:00'
-  source: MIT AI News
-  title: Wristband enables wearers to control a robotic hand with their own movements
-last_updated: '2026-04-07T07:18:18.782355'
+last_updated: '2026-04-08T07:21:03.609924'

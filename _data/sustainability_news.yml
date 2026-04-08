@@ -1,5 +1,64 @@
 articles:
 - category: supply-chain
+  description: Gartner says spending on AI-powered supply chain software will reach
+    $53 billion by 2030 as companies move beyond early testing and start wider adoption.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-ai-spending-53-billion-2030-gartner
+  pub_date: '2026-04-07T13:52:00'
+  source: Supply Chain 24/7
+  title: Supply Chain AI Spending To Surge From $2B To $53B By 2030
+- category: supply-chain
+  description: Drugmakers are shifting manufacturing to Europe despite U.S. tariffs,
+    with Europe now seeing more than triple the deal volume.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/drug-manufacturing-shifts-europe-us-tariffs
+  pub_date: '2026-04-07T13:39:00'
+  source: Supply Chain 24/7
+  title: Europe Pulls Ahead In Drug Manufacturing Deals For U.S. Market
+- category: supply-chain
+  description: In this edition of Rising Stars, meet Keanau Ormson, who turned early
+    lessons in customer service into a career helping companies navigate change.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/keanau-ormson-rising-stars-summit-advisory-team
+  pub_date: '2026-04-07T13:23:00'
+  source: Supply Chain 24/7
+  title: 'Rising Stars: Keanau Ormson of Summit Advisory Team'
+- category: supply-chain
+  description: UPS and the Teamsters reached a nationwide deal that sets limits and
+    terms for the company's driver buyout program.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-teamsters-driver-buyout-program-deal
+  pub_date: '2026-04-07T12:55:00'
+  source: Supply Chain 24/7
+  title: UPS, Teamsters Finalize Nationwide Driver Buyout Plan
+- category: circular
+  description: Researchers at the University of Bath have developed a new method for
+    repeatedly chemically recycling acrylic plastic without reducing quality. The
+    post New method for recycling acrylic plastic in cir...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-method-for-recycling-acrylic-plastic-in-circular-system-developed/
+  pub_date: '2026-04-07T11:39:44'
+  source: Circular Online
+  title: New method for recycling acrylic plastic in circular system developed
+- category: circular
+  description: Researchers have developed a solar-powered reactor that breaks down
+    hard-to-recycle forms of plastic waste and converts it into hydrogen fuel and
+    industrial chemicals. The solar-powered reactor, devel...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/researchers-develop-solar-powered-reactor-to-break-down-plastic-waste/
+  pub_date: '2026-04-07T08:32:33'
+  source: Circular Online
+  title: Researchers develop solar-powered reactor to break down plastic waste
+- category: circular
+  description: Colchester City Council has removed almost 14 tonnes of waste that
+    was dumped on the A12 in a four-night operation. The post 14 tonnes of waste cleared
+    from A12 in overnight operation appeared first o...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/14-tonnes-of-waste-cleared-from-a12-in-overnight-operation/
+  pub_date: '2026-04-07T08:02:36'
+  source: Circular Online
+  title: 14 tonnes of waste cleared from A12 in overnight operation
+- category: supply-chain
   description: Sysco's $29.1 billion acquisition of Restaurant Depot combines delivery
     and pickup models to expand its distribution network.
   icon: fa-box
@@ -49,38 +108,6 @@ articles:
   pub_date: '2026-04-03T14:02:00'
   source: Supply Chain 24/7
   title: Where Did All the Skilled Workers Go? Demand Surges in U.S.
-- category: supply-chain
-  description: A new Lineage survey shows that food companies are seeing rising demand
-    but also higher costs, prompting more investment in AI and logistics.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/food-supply-chains-tariffs-demand-ai-lineage-survey
-  pub_date: '2026-04-03T13:41:00'
-  source: Supply Chain 24/7
-  title: 73% Of Food Companies Expect Tariffs To Hurt Finances In 2026
-- category: supply-chain
-  description: Manufacturing is still growing, but slowing demand, rising costs, and
-    global uncertainty are starting to weigh on the outlook.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ism-manufacturing-growth-march-2026-slowdown-risks
-  pub_date: '2026-04-03T13:40:00'
-  source: Supply Chain 24/7
-  title: Manufacturing Grows for Third Straight Month as Output Improves
-- category: supply-chain
-  description: Diesel prices surged across the U.S. in March, with several states
-    seeing increases of more than $2 per gallon.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/diesel-prices-by-state-march-increase
-  pub_date: '2026-04-02T15:55:00'
-  source: Supply Chain 24/7
-  title: Which States Had the Biggest Diesel Price Increases in March?
-- category: supply-chain
-  description: Pandora is redesigning its network to keep Canadian orders out of the
-    U.S. and avoid tariffs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/pandora-canada-dc-bypass-us-tariffs
-  pub_date: '2026-04-02T14:55:00'
-  source: Supply Chain 24/7
-  title: Pandora Opens Ontario Hub in Canada Amid U.S. Tariff Uncertainty
 - category: circular
   description: An estimated 3.5 million people in the UK throw hot cross buns away
     each year, new research from Too Good To Go shows. The post 3.5 million Brits
@@ -144,31 +171,4 @@ articles:
   pub_date: '2026-03-30T08:00:12'
   source: Circular Online
   title: Global waste set to rise sharply without urgent action, World Bank warns
-- category: circular
-  description: 6.3 million vapes and pods are thrown away every week in the UK despite
-    the ban on single-use vape products. The post 6.3m vapes are thrown away each
-    week despite single-use ban appeared first on Circ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/6-3m-vapes-are-thrown-away-each-week-despite-single-use-ban/
-  pub_date: '2026-03-27T08:49:50'
-  source: Circular Online
-  title: 6.3m vapes are thrown away each week despite single-use ban
-- category: circular
-  description: 'News updates written by CIWM''s commercial partners. CRJ Services
-    New Partnership Announcement: Exclusive UK and Ireland Dealership Secured with
-    Tana Valpak UCL wins ''Beyond the Bin'' funding bid with p...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-26-march/
-  pub_date: '2026-03-26T11:20:18'
-  source: Circular Online
-  title: News in brief | CIWM Commercial Partner Updates 26 March
-- category: circular
-  description: The Environment Agency is 'spread too thin' and lacks powers to tackle
-    waste crime, an influential group of MPs has said. The post Environment Agency
-    lacks powers to tackle waste crime, MPs say appear...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-agency-lacks-powers-to-tackle-waste-crime-mps-say/
-  pub_date: '2026-03-25T09:48:43'
-  source: Circular Online
-  title: Environment Agency lacks powers to tackle waste crime, MPs say
-last_updated: '2026-04-07T07:18:17.902360'
+last_updated: '2026-04-08T07:21:02.294727'
