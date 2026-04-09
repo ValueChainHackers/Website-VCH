@@ -1,5 +1,39 @@
 articles:
 - category: supply-chain
+  description: A practical guide to choosing between FTL and LTL shipping based on
+    shipment size, delivery speed, and how sensitive the freight is to handling.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-to-choose-between-ftl-and-ltl-shipping
+  pub_date: '2026-04-08T15:57:00'
+  source: Supply Chain 24/7
+  title: FTL or LTL? How to Choose the Right Shipping Mode
+- category: circular
+  description: Exchange for Change has announced a 'targeted grant scheme' to support
+    small businesses in funding reverse vending machine installation. The post DRS
+    administrator announces grant scheme for small bus...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/drs-administrator-announces-grant-scheme-for-small-businesses/
+  pub_date: '2026-04-08T12:29:38'
+  source: Circular Online
+  title: DRS administrator announces grant scheme for small businesses
+- category: supply-chain
+  description: Amazon's new deal with USPS keeps most deliveries in place, giving
+    both sides time as Amazon expands its own network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-usps-delivery-deal-keeps-majority-volume
+  pub_date: '2026-04-08T10:56:00'
+  source: Supply Chain 24/7
+  title: Amazon, USPS Reach New Deal on Package Deliveries
+- category: circular
+  description: A man who dumped household waste around Stonehenge and Tidworth has
+    been fined GBP2,000 by Wiltshire Council. The post Stonehenge fly-tipper fined
+    GBP2,000 appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/stonehenge-fly-tipper-fined-2000/
+  pub_date: '2026-04-08T08:19:26'
+  source: Circular Online
+  title: Stonehenge fly-tipper fined £2,000
+- category: supply-chain
   description: Gartner says spending on AI-powered supply chain software will reach
     $53 billion by 2030 as companies move beyond early testing and start wider adoption.
   icon: fa-box
@@ -92,22 +126,6 @@ articles:
   pub_date: '2026-04-06T12:06:00'
   source: Supply Chain 24/7
   title: 5 Ways In-House Warehouse Expertise Improves Project Success
-- category: supply-chain
-  description: Maersk is opening a 233,000-square-foot ground freight hub in New Jersey
-    to support its growing U.S. logistics network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-new-jersey-freight-hub-linden-logistics-center
-  pub_date: '2026-04-03T14:50:00'
-  source: Supply Chain 24/7
-  title: Maersk Adds Major New Jersey Hub Near Port Newark-Elizabeth
-- category: supply-chain
-  description: A surge in demand for skilled trades is creating a labor bottleneck
-    that is starting to slow supply chain and infrastructure projects.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/skilled-trades-shortage-ai-supply-chain-labor-gap
-  pub_date: '2026-04-03T14:02:00'
-  source: Supply Chain 24/7
-  title: Where Did All the Skilled Workers Go? Demand Surges in U.S.
 - category: circular
   description: An estimated 3.5 million people in the UK throw hot cross buns away
     each year, new research from Too Good To Go shows. The post 3.5 million Brits
@@ -153,22 +171,4 @@ articles:
   pub_date: '2026-03-30T08:11:34'
   source: Circular Online
   title: Farmer sentenced over illegal waste site in North Yorkshire
-- category: circular
-  description: The Scottish Government has published a draft strategy outlining plans
-    to transition the country towards a circular economy, as part of wider efforts
-    to tackle climate change and reduce environmental ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/scotland-sets-out-long-term-plan-to-shift-to-circular-economy/
-  pub_date: '2026-03-30T08:06:41'
-  source: Circular Online
-  title: Scotland sets out long-term plan to shift to circular economy
-- category: circular
-  description: Global waste generation is projected to increase dramatically over
-    the coming decades, according to the World Bank's What a Waste research programme.
-    The post Global waste set to rise sharply without ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/global-waste-set-to-rise-sharply-without-urgent-action-world-bank-warns/
-  pub_date: '2026-03-30T08:00:12'
-  source: Circular Online
-  title: Global waste set to rise sharply without urgent action, World Bank warns
-last_updated: '2026-04-08T07:21:02.294727'
+last_updated: '2026-04-09T07:23:34.789134'
