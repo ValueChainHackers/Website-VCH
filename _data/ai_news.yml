@@ -1,4 +1,21 @@
 articles:
+- category: machine-learning
+  description: Turn an aging laptop into a private AI workspace with Ollama and OpenCode
+    for local coding, testing, and experimentation.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide
+  pub_date: '2026-04-08T14:00:52'
+  source: KDnuggets
+  title: 'Run Qwen3.5 on an Old Laptop: A Lightweight Local Agentic AI Setup Guide'
+- category: machine-learning
+  description: Merging spreadsheets, cleaning exports, and splitting reports are necessary-but-boring
+    tasks. These Python scripts handle the repetitive parts so you can focus on the
+    actual work.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-excel-tasks
+  pub_date: '2026-04-08T12:00:27'
+  source: KDnuggets
+  title: 5 Useful Python Scripts to Automate Boring Excel Tasks
 - category: ai-research
   description: Startup accelerator program grows to over 30 companies, almost half
     of them with MIT pedigrees.
@@ -90,15 +107,6 @@ articles:
   pub_date: '2026-04-03T12:00:03'
   source: KDnuggets
   title: 5 Useful Docker Containers for Agentic Developers
-- category: machine-learning
-  description: An overview of a state-of-the-art study, uncovering simulation-based
-    reasoning, a "just-in-time" framework and how it helps improve predictions in
-    the context of supporting human planning and reasonin...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/just-in-time-world-modeling-supports-human-planning-and-reasoning
-  pub_date: '2026-04-02T16:00:19'
-  source: KDnuggets
-  title: “Just in Time” World Modeling Supports Human Planning and Reasoning
 - category: ai-research
   description: Gemini API Dials
   icon: fa-google
@@ -113,14 +121,6 @@ articles:
   pub_date: '2026-04-02T16:00:00'
   source: Google AI Blog
   title: Create, edit and share videos at no cost in Google Vids
-- category: machine-learning
-  description: Don't deploy another model until you check out these essential 2026
-    LLMOps tools.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/llmops-in-2026-the-10-tools-every-team-must-have
-  pub_date: '2026-04-02T14:00:31'
-  source: KDnuggets
-  title: 'LLMOps in 2026: The 10 Tools Every Team Must Have'
 - category: ai-research
   description: MIT researchers developed a testing framework that pinpoints situations
     where AI decision-support systems are not treating people and communities fairly.
@@ -241,4 +241,4 @@ articles:
   pub_date: '2026-03-25T16:00:00'
   source: Google AI Blog
   title: Build with Lyria 3, our newest music generation model
-last_updated: '2026-04-08T07:21:03.609924'
+last_updated: '2026-04-09T07:23:35.757354'
