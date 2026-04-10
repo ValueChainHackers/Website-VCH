@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: A new LeanDNA study finds most supply chain failures happen after the
+    plan is set, costing manufacturers time, money, and trust.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-execution-gap-study-manufacturing-failures
+  pub_date: '2026-04-09T16:43:00'
+  source: Supply Chain 24/7
+  title: 75% of Supply Chain Failures Happen on Factory Floor, Study Finds
+- category: supply-chain
+  description: Automation is helping grocers move fresh food faster, reduce waste,
+    and manage growing product assortments.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fresh-food-automation-grocery-logistics
+  pub_date: '2026-04-09T14:16:00'
+  source: Supply Chain 24/7
+  title: How Automation is Helping Grocers Improve Fresh Food Logistics
+- category: supply-chain
+  description: The latest Top 50 Trucking Companies list shows a freight market that
+    remains flat, with most carriers still waiting for demand to rebound.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-50-trucking-companies-2025-ranking
+  pub_date: '2026-04-09T13:46:00'
+  source: Supply Chain 24/7
+  title: Top 50 Trucking Companies in the U.S. for 2025
+- category: supply-chain
+  description: Factory robot use is rising worldwide, with Europe leading and Asia
+    growing fast, according to new IFR data.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/robot-density-rises-global-manufacturing-ifr-report
+  pub_date: '2026-04-09T11:10:00'
+  source: Supply Chain 24/7
+  title: Europe Leads Factory Robot Use, U.S. Ranks Eighth
+- category: circular
+  description: A company and its director have been fined over GBP142,000 for illegally
+    exporting contaminated plastic waste to Malaysia. The post Company fined GBP142,000
+    for exporting contaminated plastic waste ap...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/company-fined-142000-for-exporting-contaminated-plastic-waste/
+  pub_date: '2026-04-09T08:06:36'
+  source: Circular Online
+  title: Company fined £142,000 for exporting contaminated plastic waste
+- category: supply-chain
   description: A practical guide to choosing between FTL and LTL shipping based on
     shipment size, delivery speed, and how sensitive the freight is to handling.
   icon: fa-box
@@ -92,40 +133,6 @@ articles:
   pub_date: '2026-04-07T08:02:36'
   source: Circular Online
   title: 14 tonnes of waste cleared from A12 in overnight operation
-- category: supply-chain
-  description: Sysco's $29.1 billion acquisition of Restaurant Depot combines delivery
-    and pickup models to expand its distribution network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/sysco-acquires-restaurant-depot-29-billion-deal
-  pub_date: '2026-04-06T15:08:00'
-  source: Supply Chain 24/7
-  title: Sysco To Acquire Restaurant Depot In $29.1 Billion Deal
-- category: supply-chain
-  description: New data shows supply chain salaries in 2026 range from about $86,000
-    to more than $215,000 depending on role and seniority.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-salaries-by-role-2026
-  pub_date: '2026-04-06T13:25:00'
-  source: Supply Chain 24/7
-  title: 'Salary Survey: What Logistics and Supply Chain Jobs Pay in 2026'
-- category: supply-chain
-  description: Erin McFarlane, VP of Operations at Fairmarkit, explains how procurement
-    teams are rethinking sourcing as demand speeds up and AI reshapes how work gets
-    done.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-sourcing-speed-ai
-  pub_date: '2026-04-06T13:03:00'
-  source: Supply Chain 24/7
-  title: How Procurement Teams Are Scaling Sourcing Without Hiring
-- category: supply-chain
-  description: Learn how in-house warehouse engineering, design, and project management
-    teams deliver tailored solutions, faster timelines, and more successful automation
-    projects.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/5-ways-in-house-warehouse-expertise-improves-project-success
-  pub_date: '2026-04-06T12:06:00'
-  source: Supply Chain 24/7
-  title: 5 Ways In-House Warehouse Expertise Improves Project Success
 - category: circular
   description: An estimated 3.5 million people in the UK throw hot cross buns away
     each year, new research from Too Good To Go shows. The post 3.5 million Brits
@@ -162,13 +169,4 @@ articles:
   pub_date: '2026-03-31T08:26:59'
   source: Circular Online
   title: Household Simpler Recycling collections begin across England
-- category: circular
-  description: A farmer in North Yorkshire has been given a suspended prison sentence
-    after admitting to operating an illegal waste site on his land. Environment Agency
-    said Hayden Fortune, 50, of Pyethornes Farm in...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/farmer-sentenced-over-illegal-waste-site-in-north-yorkshire/
-  pub_date: '2026-03-30T08:11:34'
-  source: Circular Online
-  title: Farmer sentenced over illegal waste site in North Yorkshire
-last_updated: '2026-04-09T07:23:34.789134'
+last_updated: '2026-04-10T07:42:48.472581'
