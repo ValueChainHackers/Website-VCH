@@ -1,4 +1,46 @@
 articles:
+- category: ai-research
+  description: As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is
+    advancing dialogue, teaching, and research into the social and ethical dimensions
+    of new computing technologies.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/philosophy-work-michal-masny-0409
+  pub_date: '2026-04-09T18:00:00'
+  source: MIT AI News
+  title: A philosophy of work
+- category: machine-learning
+  description: 'Cleancode, clean data: why Pyjanitor''s method chaining approach is
+    the pathway to reach this double goal.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/all-about-pyjanitors-method-chaining-functionality-and-why-its-useful
+  pub_date: '2026-04-09T16:00:53'
+  source: KDnuggets
+  title: All About Pyjanitor’s Method Chaining Functionality, And Why Its Useful
+- category: machine-learning
+  description: This five day generative AI intensive course covers foundational models,
+    embeddings, AI agents, domain-specific LLMs, and MLOps through a week of whitepapers,
+    hands-on code labs, and live expert sessi...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course
+  pub_date: '2026-04-09T14:00:16'
+  source: KDnuggets
+  title: Kaggle + Google’s Free 5-Day Gen AI Course
+- category: ai-research
+  description: Researchers use control theory to shed unnecessary complexity from
+    AI models during training, cutting compute costs without sacrificing performance.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409
+  pub_date: '2026-04-09T13:00:00'
+  source: MIT AI News
+  title: New technique makes AI models leaner and faster while they’re still learning
+- category: machine-learning
+  description: Here are five ready-to-go Docker containers that can be deployed today
+    to make any small business run smoother.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-docker-containers-for-small-business
+  pub_date: '2026-04-09T12:00:30'
+  source: KDnuggets
+  title: 5 Docker Containers for Small Business
 - category: machine-learning
   description: Turn an aging laptop into a private AI workspace with Ollama and OpenCode
     for local coding, testing, and experimentation.
@@ -74,14 +116,6 @@ articles:
   pub_date: '2026-04-06T14:00:52'
   source: KDnuggets
   title: 'AI Isn’t Coming For Your Job: Automation Is'
-- category: machine-learning
-  description: Turn OpenClaw into a powerful personal assistant with these 5 hands-on
-    projects from beginner to advanced.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-fun-projects-using-openclaw
-  pub_date: '2026-04-06T12:00:33'
-  source: KDnuggets
-  title: 5 Fun Projects Using OpenClaw
 - category: ai-research
   description: Dean Price, assistant professor in the Department of Nuclear Science
     and Engineering, sees a bright future for nuclear power, and believes AI can help
@@ -91,22 +125,6 @@ articles:
   pub_date: '2026-04-03T20:55:00'
   source: MIT AI News
   title: Working to advance the nuclear renaissance
-- category: machine-learning
-  description: Five key statistical traps in FAANG interviews that test your ability
-    to question data, spot bias, and think critically
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-most-common-statistical-traps-in-faang-interviews
-  pub_date: '2026-04-03T14:50:18'
-  source: KDnuggets
-  title: The Most Common Statistical Traps in FAANG Interviews
-- category: machine-learning
-  description: Build AI agents instantly with 5 readytorun Docker containers. Pull,
-    run, and start creating with zero setup.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers
-  pub_date: '2026-04-03T12:00:03'
-  source: KDnuggets
-  title: 5 Useful Docker Containers for Agentic Developers
 - category: ai-research
   description: Gemini API Dials
   icon: fa-google
@@ -219,26 +237,10 @@ articles:
   source: Google AI Blog
   title: Search Live is expanding globally
 - category: ai-research
-  description: This new approach adapts to decide which robots should get the right
-    of way at every moment, avoiding congestion and increasing throughput.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326
-  pub_date: '2026-03-26T04:00:00'
-  source: MIT AI News
-  title: AI system learns to keep warehouse robot traffic running smoothly
-- category: ai-research
-  description: MIT Sea Grant works with the Woodwell Climate Research Center and other
-    collaborators to demonstrate a deep learning-based system for fish monitoring.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325
-  pub_date: '2026-03-25T21:00:00'
-  source: MIT AI News
-  title: Augmenting citizen science with computer vision for fish monitoring
-- category: ai-research
   description: Google Lyria teaser
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/
   pub_date: '2026-03-25T16:00:00'
   source: Google AI Blog
   title: Build with Lyria 3, our newest music generation model
-last_updated: '2026-04-09T07:23:35.757354'
+last_updated: '2026-04-10T07:42:49.388318'
