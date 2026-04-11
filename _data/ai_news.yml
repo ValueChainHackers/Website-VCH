@@ -1,4 +1,21 @@
 articles:
+- category: machine-learning
+  description: Let's break down five newly introduced, high-impact features, and discuss
+    how advanced practitioners can incorporate them into their daily workflows to
+    maximize productivity.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users
+  pub_date: '2026-04-10T14:00:06'
+  source: KDnuggets
+  title: Advanced NotebookLM Tips & Tricks for Power Users
+- category: machine-learning
+  description: Antigravity is sitting on a stack of capabilities, many of which have
+    very little to do with writing functions.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-things-to-do-with-googles-antigravity-besides-coding
+  pub_date: '2026-04-10T12:00:01'
+  source: KDnuggets
+  title: 5 Useful Things to Do with Google’s Antigravity Besides Coding
 - category: ai-research
   description: As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is
     advancing dialogue, teaching, and research into the social and ethical dimensions
@@ -99,23 +116,6 @@ articles:
   pub_date: '2026-04-07T04:00:00'
   source: MIT AI News
   title: Helping data centers deliver higher performance with less hardware
-- category: machine-learning
-  description: Data disruptions are no longer rare events. Hardware failures, ransomware,
-    and unexpected outages can interrupt operations at any time. The difference between
-    a temporary setback and a major business ...
-  icon: fa-chart-bar
-  link: https://bit.ly/Ingram-topic-24-kdn-website
-  pub_date: '2026-04-07T01:57:34'
-  source: KDnuggets
-  title: Building A Bulletproof Strategy For Data Recovery (Sponsored)
-- category: machine-learning
-  description: 'But here''s what nobody''s actually saying out loud: the threat everyone
-    keeps attributing to AI belongs more specifically to automation.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/ai-isnt-coming-for-your-job-automation-is
-  pub_date: '2026-04-06T14:00:52'
-  source: KDnuggets
-  title: 'AI Isn’t Coming For Your Job: Automation Is'
 - category: ai-research
   description: Dean Price, assistant professor in the Department of Nuclear Science
     and Engineering, sees a bright future for nuclear power, and believes AI can help
@@ -243,4 +243,4 @@ articles:
   pub_date: '2026-03-25T16:00:00'
   source: Google AI Blog
   title: Build with Lyria 3, our newest music generation model
-last_updated: '2026-04-10T07:42:49.388318'
+last_updated: '2026-04-11T07:01:46.011813'

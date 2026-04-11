@@ -1,5 +1,39 @@
 articles:
 - category: supply-chain
+  description: Project44 is moving from supply chain visibility to execution with
+    its LunaPath acquisition, adding AI agents to handle day-to-day freight tasks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/project44-lunapath-ai-execution-acquisition
+  pub_date: '2026-04-10T13:27:00'
+  source: Supply Chain 24/7
+  title: Project44 Acquires LunaPath to Automate Freight Workflows
+- category: supply-chain
+  description: Sedex CEO Jon Hancock explains how extreme heat and limited supplier
+    visibility are creating new risks for apparel supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/extreme-heat-apparel-supply-chain-risk-sedex-qa
+  pub_date: '2026-04-10T13:13:00'
+  source: Supply Chain 24/7
+  title: Why Extreme Heat Is Now a Real Risk for Apparel Supply Chains
+- category: supply-chain
+  description: Amazon is investing heavily in AI, robotics, and delivery speed as
+    demand surges and competition intensifies.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-ai-robotics-delivery-strategy-2026
+  pub_date: '2026-04-10T13:12:00'
+  source: Supply Chain 24/7
+  title: Amazon Bets Big on AI, Robotics, and Faster Delivery in CEO Letter
+- category: circular
+  description: The US-Iran war has caused 'unprecedented' raw material shortages and
+    cost increases, the British plastics industry has said. The post British Plastics
+    industry warns of 'unprecedented' shortages amid...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/british-plastics-industry-warns-of-unprecedented-shortages-amid-us-iran-war/
+  pub_date: '2026-04-10T08:09:07'
+  source: Circular Online
+  title: British Plastics industry warns of ‘unprecedented’ shortages amid US-Iran
+    war
+- category: supply-chain
   description: A new LeanDNA study finds most supply chain failures happen after the
     plan is set, costing manufacturers time, money, and trust.
   icon: fa-box
@@ -82,30 +116,6 @@ articles:
   pub_date: '2026-04-07T13:52:00'
   source: Supply Chain 24/7
   title: Supply Chain AI Spending To Surge From $2B To $53B By 2030
-- category: supply-chain
-  description: Drugmakers are shifting manufacturing to Europe despite U.S. tariffs,
-    with Europe now seeing more than triple the deal volume.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/drug-manufacturing-shifts-europe-us-tariffs
-  pub_date: '2026-04-07T13:39:00'
-  source: Supply Chain 24/7
-  title: Europe Pulls Ahead In Drug Manufacturing Deals For U.S. Market
-- category: supply-chain
-  description: In this edition of Rising Stars, meet Keanau Ormson, who turned early
-    lessons in customer service into a career helping companies navigate change.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/keanau-ormson-rising-stars-summit-advisory-team
-  pub_date: '2026-04-07T13:23:00'
-  source: Supply Chain 24/7
-  title: 'Rising Stars: Keanau Ormson of Summit Advisory Team'
-- category: supply-chain
-  description: UPS and the Teamsters reached a nationwide deal that sets limits and
-    terms for the company's driver buyout program.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-teamsters-driver-buyout-program-deal
-  pub_date: '2026-04-07T12:55:00'
-  source: Supply Chain 24/7
-  title: UPS, Teamsters Finalize Nationwide Driver Buyout Plan
 - category: circular
   description: Researchers at the University of Bath have developed a new method for
     repeatedly chemically recycling acrylic plastic without reducing quality. The
@@ -160,13 +170,4 @@ articles:
   pub_date: '2026-03-31T13:58:01'
   source: Circular Online
   title: Stratford-on-Avon revealed as best council for recycling in England
-- category: circular
-  description: Simpler Recycling rules that mandate the separate collection of different
-    waste streams have come into force for households across England. The post Household
-    Simpler Recycling collections begin acros...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/household-simpler-recycling-rules-begin-across-england/
-  pub_date: '2026-03-31T08:26:59'
-  source: Circular Online
-  title: Household Simpler Recycling collections begin across England
-last_updated: '2026-04-10T07:42:48.472581'
+last_updated: '2026-04-11T07:01:45.053043'
