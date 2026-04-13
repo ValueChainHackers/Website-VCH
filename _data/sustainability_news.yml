@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: The UK Government has awarded clean technology company Altilium GBP18.5m
+    to build the 'UK's first' commercial facility for recovering critical battery
+    materials. The post Altilium awarded GBP18.5m to ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/altilium-awarded-18-5m-to-build-electric-vehicle-battery-recycling-facility/
+  pub_date: '2026-04-13T07:52:03'
+  source: Circular Online
+  title: Altilium awarded £18.5m to build electric vehicle battery recycling facility
 - category: supply-chain
   description: Project44 is moving from supply chain visibility to execution with
     its LunaPath acquisition, adding AI agents to handle day-to-day freight tasks.
@@ -161,13 +170,4 @@ articles:
   pub_date: '2026-04-01T07:00:00'
   source: Circular Online
   title: Reconomy to open £20m plastic recycling plant in Corby
-- category: circular
-  description: Stratford-on-Avon District Council achieved the highest recycling rate
-    of any local authority in England last year, Defra data reveals. The post Stratford-on-Avon
-    revealed as best council for recyclin...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/stratford-on-avon-revealed-as-top-recycling-council-in-england/
-  pub_date: '2026-03-31T13:58:01'
-  source: Circular Online
-  title: Stratford-on-Avon revealed as best council for recycling in England
-last_updated: '2026-04-12T07:15:02.223773'
+last_updated: '2026-04-13T08:04:27.579077'
