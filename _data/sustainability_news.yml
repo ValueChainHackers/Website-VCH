@@ -1,5 +1,39 @@
 articles:
 - category: circular
+  description: The Welsh Government have rejected Exchange for Change's application
+    to become its deposit return scheme administrator. The post Welsh Gov reject Exchange
+    for Change as DRS administrator appeared firs...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/welsh-gov-reject-exchange-for-change-as-drs-administrator/
+  pub_date: '2026-04-14T07:36:17'
+  source: Circular Online
+  title: Welsh Gov reject Exchange for Change as DRS administrator
+- category: supply-chain
+  description: MHI is launching MODEX West in Las Vegas in 2028 to reach more supply
+    chain professionals and expand its trade show footprint.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/mhi-modex-west-las-vegas-2028-trade-show
+  pub_date: '2026-04-13T14:51:00'
+  source: Supply Chain 24/7
+  title: Las Vegas to Host New MODEX West Trade Show in October 2028
+- category: supply-chain
+  description: Gartner says half of new warehouses will rely mainly on robots by 2030,
+    with humans playing a smaller role.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/robot-warehouses-human-optional-2030-gartner
+  pub_date: '2026-04-13T13:00:00'
+  source: Supply Chain 24/7
+  title: Gartner Says Half of New Warehouses Will Be Human-Optional by 2030
+- category: circular
+  description: New TV adverts from WRAP are set to begin across Sky channels as part
+    of its new 'Rescue Me, Recycle' campaign. The post WRAP launches circular economy
+    and recycling adverts on Sky TV appeared first o...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wrap-launches-circular-economy-and-recycling-adverts-on-sky-tv/
+  pub_date: '2026-04-13T09:23:31'
+  source: Circular Online
+  title: WRAP launches circular economy and recycling adverts on Sky TV
+- category: circular
   description: The UK Government has awarded clean technology company Altilium GBP18.5m
     to build the 'UK's first' commercial facility for recovering critical battery
     materials. The post Altilium awarded GBP18.5m to ...
@@ -100,14 +134,6 @@ articles:
   pub_date: '2026-04-08T12:29:38'
   source: Circular Online
   title: DRS administrator announces grant scheme for small businesses
-- category: supply-chain
-  description: Amazon's new deal with USPS keeps most deliveries in place, giving
-    both sides time as Amazon expands its own network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-usps-delivery-deal-keeps-majority-volume
-  pub_date: '2026-04-08T10:56:00'
-  source: Supply Chain 24/7
-  title: Amazon, USPS Reach New Deal on Package Deliveries
 - category: circular
   description: A man who dumped household waste around Stonehenge and Tidworth has
     been fined GBP2,000 by Wiltshire Council. The post Stonehenge fly-tipper fined
@@ -117,14 +143,6 @@ articles:
   pub_date: '2026-04-08T08:19:26'
   source: Circular Online
   title: Stonehenge fly-tipper fined £2,000
-- category: supply-chain
-  description: Gartner says spending on AI-powered supply chain software will reach
-    $53 billion by 2030 as companies move beyond early testing and start wider adoption.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-ai-spending-53-billion-2030-gartner
-  pub_date: '2026-04-07T13:52:00'
-  source: Supply Chain 24/7
-  title: Supply Chain AI Spending To Surge From $2B To $53B By 2030
 - category: circular
   description: Researchers at the University of Bath have developed a new method for
     repeatedly chemically recycling acrylic plastic without reducing quality. The
@@ -152,22 +170,4 @@ articles:
   pub_date: '2026-04-07T08:02:36'
   source: Circular Online
   title: 14 tonnes of waste cleared from A12 in overnight operation
-- category: circular
-  description: An estimated 3.5 million people in the UK throw hot cross buns away
-    each year, new research from Too Good To Go shows. The post 3.5 million Brits
-    throw away hot cross buns every Easter appeared first ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/3-5-million-brits-throw-away-hot-cross-buns-every-easter/
-  pub_date: '2026-04-02T07:00:00'
-  source: Circular Online
-  title: 3.5 million Brits throw away hot cross buns every Easter
-- category: circular
-  description: Reconomy has announced it is set to open a new GBP20 million closed-loop
-    plastic recycling facility in Corby later this year. The post Reconomy to open
-    GBP20m plastic recycling plant in Corby appeared...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/reconomy-to-open-20m-plastic-recycling-plant-in-corby/
-  pub_date: '2026-04-01T07:00:00'
-  source: Circular Online
-  title: Reconomy to open £20m plastic recycling plant in Corby
-last_updated: '2026-04-13T08:04:27.579077'
+last_updated: '2026-04-14T07:47:02.012025'
