@@ -1,4 +1,40 @@
 articles:
+- category: supply-chain
+  description: Discover how human-robot collaboration transforms warehouse operations.
+    Learn how AMRs, orchestration platforms, and AI improve productivity, reduce labor
+    strain, and scale fulfillment efficiently.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/what-is-warehouse-collaboration-how-human-robot-automation-improves-efficiency-safety-scalability
+  pub_date: '2026-04-14T18:20:00'
+  source: Supply Chain 24/7
+  title: What Is Warehouse Collaboration? How Human-Robot Automation Improves Efficiency,
+    Safety & Scalability
+- category: supply-chain
+  description: Gartner says half of new warehouses will rely mainly on robots by 2030,
+    with humans playing a smaller role.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/robot-warehouses-human-optional-2030-gartner
+  pub_date: '2026-04-14T12:49:00'
+  source: Supply Chain 24/7
+  title: Gartner Says Half of New Warehouses Will Be Human-Optional by 2030
+- category: circular
+  description: Veolia to provide household collection services to over 73,000 residential
+    properties on the Isle of Wight after being awarded a two-year contract by the
+    local council. The post Veolia awarded two-yea...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/veolia-awarded-two-year-recycling-and-waste-contract-on-the-isle-of-wight/
+  pub_date: '2026-04-14T09:31:16'
+  source: Circular Online
+  title: Veolia awarded two-year recycling and waste contract on the Isle of Wight
+- category: circular
+  description: Devonshire recycling centres now accept used coffee pods for anaerobic
+    digestion and recycling as part of a partnership with Podback. The move comes
+    after waste management company SUEZ Recycling and R...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/devonshire-recycling-centres-to-accept-used-coffee-pods/
+  pub_date: '2026-04-14T08:27:13'
+  source: Circular Online
+  title: Devonshire recycling centres to accept used coffee pods
 - category: circular
   description: The Welsh Government have rejected Exchange for Change's application
     to become its deposit return scheme administrator. The post Welsh Gov reject Exchange
@@ -9,6 +45,26 @@ articles:
   source: Circular Online
   title: Welsh Gov reject Exchange for Change as DRS administrator
 - category: supply-chain
+  description: Carrier costing is no longer just accounting-it now powers pricing,
+    operations, and emissions reporting. Learn how real-time cost data, AI, and standardized
+    frameworks are reshaping logistics strategy...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/what-is-carrier-costing-and-why-it-now-powers-pricing-sustainability-and-logistics-strategy
+  pub_date: '2026-04-13T15:41:00'
+  source: Supply Chain 24/7
+  title: What Is Carrier Costing and Why It Now Powers Pricing, Sustainability, and
+    Logistics Strategy
+- category: supply-chain
+  description: Choosing a laptop computer cart? Use this expert checklist to evaluate
+    battery life, mobility, ergonomics, and usability-so you can spec the right mobile
+    workstation for your facility and improve prod...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-to-choose-the-right-laptop-computer-cart-complete-facility-checklist-for-power-mobility-ergonomics
+  pub_date: '2026-04-13T15:20:00'
+  source: Supply Chain 24/7
+  title: How to Choose the Right Laptop Computer Cart Complete Facility Checklist
+    for Power, Mobility & Ergonomics
+- category: supply-chain
   description: MHI is launching MODEX West in Las Vegas in 2028 to reach more supply
     chain professionals and expand its trade show footprint.
   icon: fa-box
@@ -16,14 +72,6 @@ articles:
   pub_date: '2026-04-13T14:51:00'
   source: Supply Chain 24/7
   title: Las Vegas to Host New MODEX West Trade Show in October 2028
-- category: supply-chain
-  description: Gartner says half of new warehouses will rely mainly on robots by 2030,
-    with humans playing a smaller role.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/robot-warehouses-human-optional-2030-gartner
-  pub_date: '2026-04-13T13:00:00'
-  source: Supply Chain 24/7
-  title: Gartner Says Half of New Warehouses Will Be Human-Optional by 2030
 - category: circular
   description: New TV adverts from WRAP are set to begin across Sky channels as part
     of its new 'Rescue Me, Recycle' campaign. The post WRAP launches circular economy
@@ -92,22 +140,6 @@ articles:
   pub_date: '2026-04-09T14:16:00'
   source: Supply Chain 24/7
   title: How Automation is Helping Grocers Improve Fresh Food Logistics
-- category: supply-chain
-  description: The latest Top 50 Trucking Companies list shows a freight market that
-    remains flat, with most carriers still waiting for demand to rebound.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-50-trucking-companies-2025-ranking
-  pub_date: '2026-04-09T13:46:00'
-  source: Supply Chain 24/7
-  title: Top 50 Trucking Companies in the U.S. for 2025
-- category: supply-chain
-  description: Factory robot use is rising worldwide, with Europe leading and Asia
-    growing fast, according to new IFR data.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/robot-density-rises-global-manufacturing-ifr-report
-  pub_date: '2026-04-09T11:10:00'
-  source: Supply Chain 24/7
-  title: Europe Leads Factory Robot Use, U.S. Ranks Eighth
 - category: circular
   description: A company and its director have been fined over GBP142,000 for illegally
     exporting contaminated plastic waste to Malaysia. The post Company fined GBP142,000
@@ -117,14 +149,6 @@ articles:
   pub_date: '2026-04-09T08:06:36'
   source: Circular Online
   title: Company fined £142,000 for exporting contaminated plastic waste
-- category: supply-chain
-  description: A practical guide to choosing between FTL and LTL shipping based on
-    shipment size, delivery speed, and how sensitive the freight is to handling.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-to-choose-between-ftl-and-ltl-shipping
-  pub_date: '2026-04-08T15:57:00'
-  source: Supply Chain 24/7
-  title: FTL or LTL? How to Choose the Right Shipping Mode
 - category: circular
   description: Exchange for Change has announced a 'targeted grant scheme' to support
     small businesses in funding reverse vending machine installation. The post DRS
@@ -152,22 +176,4 @@ articles:
   pub_date: '2026-04-07T11:39:44'
   source: Circular Online
   title: New method for recycling acrylic plastic in circular system developed
-- category: circular
-  description: Researchers have developed a solar-powered reactor that breaks down
-    hard-to-recycle forms of plastic waste and converts it into hydrogen fuel and
-    industrial chemicals. The solar-powered reactor, devel...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/researchers-develop-solar-powered-reactor-to-break-down-plastic-waste/
-  pub_date: '2026-04-07T08:32:33'
-  source: Circular Online
-  title: Researchers develop solar-powered reactor to break down plastic waste
-- category: circular
-  description: Colchester City Council has removed almost 14 tonnes of waste that
-    was dumped on the A12 in a four-night operation. The post 14 tonnes of waste cleared
-    from A12 in overnight operation appeared first o...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/14-tonnes-of-waste-cleared-from-a12-in-overnight-operation/
-  pub_date: '2026-04-07T08:02:36'
-  source: Circular Online
-  title: 14 tonnes of waste cleared from A12 in overnight operation
-last_updated: '2026-04-14T07:47:02.012025'
+last_updated: '2026-04-15T07:47:16.791556'
