@@ -1,4 +1,53 @@
 articles:
+- category: ai-research
+  description: Video showing Skills in Chrome
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/
+  pub_date: '2026-04-14T17:00:00'
+  source: Google AI Blog
+  title: Turn your best AI prompts into one-click tools in Chrome
+- category: machine-learning
+  description: Everyone says they're "collaborating" with AI. Most are just giving
+    orders and accepting whatever comes back.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/collaborative-ai-systems-human-ai-teaming-workflows
+  pub_date: '2026-04-14T14:00:31'
+  source: KDnuggets
+  title: 'Collaborative AI Systems: Human-AI Teaming Workflows'
+- category: ai-research
+  description: Researchers are developing hardware and algorithms to improve collaboration
+    between divers and autonomous underwater vehicles engaged in maritime missions.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414
+  pub_date: '2026-04-14T13:00:00'
+  source: MIT AI News
+  title: Human-machine teaming dives underwater
+- category: ai-research
+  description: As the School of Humanities, Arts, and Social Sciences marks 75 years,
+    Dean Agustn Rayo reflects on how AI is reshaping higher education and why SHASS
+    disciplines continue to be central to MIT's missi...
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/qa-mit-shass-and-future-of-education-age-ai-0414
+  pub_date: '2026-04-14T13:00:00'
+  source: MIT AI News
+  title: 'Q&A: MIT SHASS and the future of education in the age of AI'
+- category: machine-learning
+  description: Learn seven Docker Compose templates for CMS, web apps, databases,
+    Python backends, streaming, automation, and local AI development.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use
+  pub_date: '2026-04-14T12:00:21'
+  source: KDnuggets
+  title: Top 7 Docker Compose Templates Every Developer Should Use
+- category: ai-research
+  description: Woman working with a large tool. On the left are the Google and MIT
+    FutureTech logos, "AI for the Economy Forum", and "Innovation and Adaption in
+    the New Era"
+  icon: fa-google
+  link: https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/
+  pub_date: '2026-04-14T09:00:00'
+  source: Google AI Blog
+  title: Bringing people together at AI for the Economy Forum
 - category: machine-learning
   description: The .claude folder is created by tools that integrate with Claude to
     store local state, to keep track of how the model behaves inside your project.
@@ -82,23 +131,6 @@ articles:
   pub_date: '2026-04-09T12:00:30'
   source: KDnuggets
   title: 5 Docker Containers for Small Business
-- category: machine-learning
-  description: Turn an aging laptop into a private AI workspace with Ollama and OpenCode
-    for local coding, testing, and experimentation.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide
-  pub_date: '2026-04-08T14:00:52'
-  source: KDnuggets
-  title: 'Run Qwen3.5 on an Old Laptop: A Lightweight Local Agentic AI Setup Guide'
-- category: machine-learning
-  description: Merging spreadsheets, cleaning exports, and splitting reports are necessary-but-boring
-    tasks. These Python scripts handle the repetitive parts so you can focus on the
-    actual work.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-excel-tasks
-  pub_date: '2026-04-08T12:00:27'
-  source: KDnuggets
-  title: 5 Useful Python Scripts to Automate Boring Excel Tasks
 - category: ai-research
   description: Startup accelerator program grows to over 30 companies, almost half
     of them with MIT pedigrees.
@@ -186,23 +218,6 @@ articles:
   source: MIT AI News
   title: MIT researchers use AI to uncover atomic defects in materials
 - category: ai-research
-  description: Mariano Salcedo '25, a master's student in the new Music Technology
-    and Computation Graduate Program, is designing an AI to visualize and express
-    music and other sounds.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326
-  pub_date: '2026-03-26T20:45:00'
-  source: MIT AI News
-  title: Seeing sounds
-- category: ai-research
-  description: An AI model generates novel proteins based on how they vibrate and
-    move, opening new possibilities for dynamic biomaterials and adaptive therapeutics.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326
-  pub_date: '2026-03-26T20:20:00'
-  source: MIT AI News
-  title: MIT engineers design proteins by their motion, not just their shape
-- category: ai-research
   description: In the latest episode of our Dialogues on Technology and Society series,
     LL COOL J sits down with James Manyika.
   icon: fa-google
@@ -227,20 +242,4 @@ articles:
   pub_date: '2026-03-26T15:21:00'
   source: Google AI Blog
   title: 'Gemini 3.1 Flash Live: Making audio AI more natural and reliable'
-- category: ai-research
-  description: A graphic with the words Search Live shown underneath a waveform icon.
-    To the right, a phone shows the Google app with Search Live open. The camera is
-    pointing at trees in a forest.
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/search-live-global-expansion/
-  pub_date: '2026-03-26T15:00:00'
-  source: Google AI Blog
-  title: Search Live is expanding globally
-- category: ai-research
-  description: Google Lyria teaser
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/
-  pub_date: '2026-03-25T16:00:00'
-  source: Google AI Blog
-  title: Build with Lyria 3, our newest music generation model
-last_updated: '2026-04-14T07:47:04.207841'
+last_updated: '2026-04-15T07:47:18.210225'
