@@ -1,4 +1,35 @@
 articles:
+- category: machine-learning
+  description: If you are looking to optimize your creative and productivity workflows,
+    here are the five features in NotebookLM that matter most right now.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/notebooklm-for-the-creative-architect
+  pub_date: '2026-04-15T16:00:27'
+  source: KDnuggets
+  title: NotebookLM for the Creative Architect
+- category: ai-research
+  description: Gemini logo next to the text "3.1 Flash TTS", all over colored dots
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/
+  pub_date: '2026-04-15T15:00:00'
+  source: Google AI Blog
+  title: 'Gemini 3.1 Flash TTS: the next generation of expressive AI speech'
+- category: machine-learning
+  description: Deployment is not just about calling an API or hosting a model. It
+    involves decisions around architecture, cost, latency, safety, and monitoring.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-steps-to-mastering-language-model-deployment
+  pub_date: '2026-04-15T14:00:38'
+  source: KDnuggets
+  title: 7 Steps to Mastering Language Model Deployment
+- category: machine-learning
+  description: Discover five simple VS Code extensions that boost your everyday productivity
+    without AI.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-extensions-for-vs-code-that-arent-copilot
+  pub_date: '2026-04-15T12:00:01'
+  source: KDnuggets
+  title: Top 5 Extensions for VS Code That Aren’t Copilot
 - category: ai-research
   description: Video showing Skills in Chrome
   icon: fa-google
@@ -98,23 +129,6 @@ articles:
   pub_date: '2026-04-09T18:00:00'
   source: MIT AI News
   title: A philosophy of work
-- category: machine-learning
-  description: 'Cleancode, clean data: why Pyjanitor''s method chaining approach is
-    the pathway to reach this double goal.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/all-about-pyjanitors-method-chaining-functionality-and-why-its-useful
-  pub_date: '2026-04-09T16:00:53'
-  source: KDnuggets
-  title: All About Pyjanitor’s Method Chaining Functionality, And Why Its Useful
-- category: machine-learning
-  description: This five day generative AI intensive course covers foundational models,
-    embeddings, AI agents, domain-specific LLMs, and MLOps through a week of whitepapers,
-    hands-on code labs, and live expert sessi...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course
-  pub_date: '2026-04-09T14:00:16'
-  source: KDnuggets
-  title: Kaggle + Google’s Free 5-Day Gen AI Course
 - category: ai-research
   description: Researchers use control theory to shed unnecessary complexity from
     AI models during training, cutting compute costs without sacrificing performance.
@@ -123,14 +137,6 @@ articles:
   pub_date: '2026-04-09T13:00:00'
   source: MIT AI News
   title: New technique makes AI models leaner and faster while they’re still learning
-- category: machine-learning
-  description: Here are five ready-to-go Docker containers that can be deployed today
-    to make any small business run smoother.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-docker-containers-for-small-business
-  pub_date: '2026-04-09T12:00:30'
-  source: KDnuggets
-  title: 5 Docker Containers for Small Business
 - category: ai-research
   description: Startup accelerator program grows to over 30 companies, almost half
     of them with MIT pedigrees.
@@ -234,12 +240,4 @@ articles:
   pub_date: '2026-03-26T16:00:00'
   source: Google AI Blog
   title: Transform your headphones into a live personal translator on iOS.
-- category: ai-research
-  description: The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'.
-    The background has blue, multicolored dots making up a microphone icon
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/
-  pub_date: '2026-03-26T15:21:00'
-  source: Google AI Blog
-  title: 'Gemini 3.1 Flash Live: Making audio AI more natural and reliable'
-last_updated: '2026-04-15T07:47:18.210225'
+last_updated: '2026-04-16T07:47:45.407244'

@@ -1,4 +1,40 @@
 articles:
+- category: circular
+  description: The Washed Aggregates Trade Association is calling on the government
+    to protect the resources and waste sector from escalating fuel costs. The post
+    WATA calls on government to protect sector from fuel...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wata-calls-on-government-to-protect-sector-from-fuel-cost-spikes/
+  pub_date: '2026-04-16T07:39:39'
+  source: Circular Online
+  title: WATA calls on government to protect sector from fuel cost spikes
+- category: supply-chain
+  description: Speaking at MODEX, Home Depot CFO Richard McPhail said the company
+    now views its supply chain as a "strategic weapon" after years of investment and
+    change.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-home-depot-made-supply-chain-a-strategic-weapon
+  pub_date: '2026-04-15T12:31:00'
+  source: Supply Chain 24/7
+  title: How Home Depot Turned Its Supply Chain Into a “Strategic Weapon”
+- category: circular
+  description: A cow has been legally approved to dispose of household waste, which
+    campaigners say shows how easy it is for criminals to gain a waste carrier license.
+    The post Cow called Beau Vine approved for wast...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/cow-called-beau-vine-approved-for-waste-carrier-license/
+  pub_date: '2026-04-15T10:03:21'
+  source: Circular Online
+  title: Cow called Beau Vine approved for waste carrier license
+- category: circular
+  description: Work to remove 21,000 tonnes of waste from an illegal waste site in
+    Kidlington, Oxfordshire, has now begun. The post GBP9 million clean-up of illegal
+    waste site in Kidlington begins appeared first on ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/9-million-clean-up-of-illegal-waste-site-in-kidlington-begins/
+  pub_date: '2026-04-15T07:57:56'
+  source: Circular Online
+  title: £9 million clean-up of illegal waste site in Kidlington begins
 - category: supply-chain
   description: Discover how human-robot collaboration transforms warehouse operations.
     Learn how AMRs, orchestration platforms, and AI improve productivity, reduce labor
@@ -132,14 +168,6 @@ articles:
   pub_date: '2026-04-09T16:43:00'
   source: Supply Chain 24/7
   title: 75% of Supply Chain Failures Happen on Factory Floor, Study Finds
-- category: supply-chain
-  description: Automation is helping grocers move fresh food faster, reduce waste,
-    and manage growing product assortments.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fresh-food-automation-grocery-logistics
-  pub_date: '2026-04-09T14:16:00'
-  source: Supply Chain 24/7
-  title: How Automation is Helping Grocers Improve Fresh Food Logistics
 - category: circular
   description: A company and its director have been fined over GBP142,000 for illegally
     exporting contaminated plastic waste to Malaysia. The post Company fined GBP142,000
@@ -149,31 +177,4 @@ articles:
   pub_date: '2026-04-09T08:06:36'
   source: Circular Online
   title: Company fined £142,000 for exporting contaminated plastic waste
-- category: circular
-  description: Exchange for Change has announced a 'targeted grant scheme' to support
-    small businesses in funding reverse vending machine installation. The post DRS
-    administrator announces grant scheme for small bus...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/drs-administrator-announces-grant-scheme-for-small-businesses/
-  pub_date: '2026-04-08T12:29:38'
-  source: Circular Online
-  title: DRS administrator announces grant scheme for small businesses
-- category: circular
-  description: A man who dumped household waste around Stonehenge and Tidworth has
-    been fined GBP2,000 by Wiltshire Council. The post Stonehenge fly-tipper fined
-    GBP2,000 appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/stonehenge-fly-tipper-fined-2000/
-  pub_date: '2026-04-08T08:19:26'
-  source: Circular Online
-  title: Stonehenge fly-tipper fined £2,000
-- category: circular
-  description: Researchers at the University of Bath have developed a new method for
-    repeatedly chemically recycling acrylic plastic without reducing quality. The
-    post New method for recycling acrylic plastic in cir...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-method-for-recycling-acrylic-plastic-in-circular-system-developed/
-  pub_date: '2026-04-07T11:39:44'
-  source: Circular Online
-  title: New method for recycling acrylic plastic in circular system developed
-last_updated: '2026-04-15T07:47:16.791556'
+last_updated: '2026-04-16T07:47:44.671297'
