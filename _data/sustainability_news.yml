@@ -1,4 +1,20 @@
 articles:
+- category: supply-chain
+  description: A new Schneider Electric survey shows manufacturers expect major gains
+    from AI, but most are still struggling to turn those investments into real results.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturers-expect-ai-gains-but-results-still-lag
+  pub_date: '2026-04-16T14:59:00'
+  source: Supply Chain 24/7
+  title: AI Expectations Are Rising Fast, But Results Aren’t There Yet
+- category: supply-chain
+  description: MHI's latest report highlights 10 supply chain trends for 2026, while
+    MODEX panelists say execution, not technology, remains the biggest challenge.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/10-trends-shaping-supply-chains-in-2026-according-to-mhi
+  pub_date: '2026-04-16T14:01:00'
+  source: Supply Chain 24/7
+  title: 10 Supply Chain Trends to Watch in 2026
 - category: circular
   description: The Washed Aggregates Trade Association is calling on the government
     to protect the resources and waste sector from escalating fuel costs. The post
@@ -28,13 +44,13 @@ articles:
   title: Cow called Beau Vine approved for waste carrier license
 - category: circular
   description: Work to remove 21,000 tonnes of waste from an illegal waste site in
-    Kidlington, Oxfordshire, has now begun. The post GBP9 million clean-up of illegal
+    Kidlington, Oxfordshire, has now begun. The post GBP8 million clean-up of illegal
     waste site in Kidlington begins appeared first on ...
   icon: fa-recycle
   link: https://www.circularonline.co.uk/news/9-million-clean-up-of-illegal-waste-site-in-kidlington-begins/
   pub_date: '2026-04-15T07:57:56'
   source: Circular Online
-  title: £9 million clean-up of illegal waste site in Kidlington begins
+  title: £8 million clean-up of illegal waste site in Kidlington begins
 - category: supply-chain
   description: Discover how human-robot collaboration transforms warehouse operations.
     Learn how AMRs, orchestration platforms, and AI improve productivity, reduce labor
@@ -142,14 +158,6 @@ articles:
   pub_date: '2026-04-10T13:13:00'
   source: Supply Chain 24/7
   title: Why Extreme Heat Is Now a Real Risk for Apparel Supply Chains
-- category: supply-chain
-  description: Amazon is investing heavily in AI, robotics, and delivery speed as
-    demand surges and competition intensifies.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-ai-robotics-delivery-strategy-2026
-  pub_date: '2026-04-10T13:12:00'
-  source: Supply Chain 24/7
-  title: Amazon Bets Big on AI, Robotics, and Faster Delivery in CEO Letter
 - category: circular
   description: The US-Iran war has caused 'unprecedented' raw material shortages and
     cost increases, the British plastics industry has said. The post British Plastics
@@ -160,14 +168,6 @@ articles:
   source: Circular Online
   title: British Plastics industry warns of ‘unprecedented’ shortages amid US-Iran
     war
-- category: supply-chain
-  description: A new LeanDNA study finds most supply chain failures happen after the
-    plan is set, costing manufacturers time, money, and trust.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-execution-gap-study-manufacturing-failures
-  pub_date: '2026-04-09T16:43:00'
-  source: Supply Chain 24/7
-  title: 75% of Supply Chain Failures Happen on Factory Floor, Study Finds
 - category: circular
   description: A company and its director have been fined over GBP142,000 for illegally
     exporting contaminated plastic waste to Malaysia. The post Company fined GBP142,000
@@ -177,4 +177,4 @@ articles:
   pub_date: '2026-04-09T08:06:36'
   source: Circular Online
   title: Company fined £142,000 for exporting contaminated plastic waste
-last_updated: '2026-04-16T07:47:44.671297'
+last_updated: '2026-04-17T07:47:56.782271'

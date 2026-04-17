@@ -1,4 +1,44 @@
 articles:
+- category: ai-research
+  description: Founded by Tristan Bepler PhD '20 and former MIT professor Tim Lu PhD
+    '07, OpenProtein.AI offers researchers open-source models and other tools for
+    protein engineering.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/bringing-ai-driven-protein-design-tools-everywhere-0417
+  pub_date: '2026-04-17T04:00:00'
+  source: MIT AI News
+  title: Bringing AI-driven protein-design tools to biologists everywhere
+- category: ai-research
+  description: AI Mode in Chrome
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/ai-mode-chrome/
+  pub_date: '2026-04-16T17:00:00'
+  source: Google AI Blog
+  title: A new way to explore the web with AI Mode in Chrome
+- category: ai-research
+  description: Example images made with Personal Intelligence
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/
+  pub_date: '2026-04-16T16:00:00'
+  source: Google AI Blog
+  title: New ways to create personalized images in the Gemini app
+- category: machine-learning
+  description: This one simple Python stack will make your projects faster, cleaner,
+    and easier to maintain.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/python-project-setup-2026-uv-ruff-ty-polars
+  pub_date: '2026-04-16T14:00:35'
+  source: KDnuggets
+  title: 'Python Project Setup 2026: uv + Ruff + Ty + Polars'
+- category: machine-learning
+  description: Managing dependencies for Python data projects can get messy fast.
+    Docker helps you create consistent environments you can build, share, and deploy
+    with ease.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/docker-for-python-data-projects-a-beginners-guide
+  pub_date: '2026-04-16T12:00:33'
+  source: KDnuggets
+  title: 'Docker for Python & Data Projects: A Beginner’s Guide'
 - category: machine-learning
   description: If you are looking to optimize your creative and productivity workflows,
     here are the five features in NotebookLM that matter most right now.
@@ -103,23 +143,6 @@ articles:
   pub_date: '2026-04-13T12:00:52'
   source: KDnuggets
   title: 5 Best Books for Building Agentic AI Systems in 2026
-- category: machine-learning
-  description: Let's break down five newly introduced, high-impact features, and discuss
-    how advanced practitioners can incorporate them into their daily workflows to
-    maximize productivity.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users
-  pub_date: '2026-04-10T14:00:06'
-  source: KDnuggets
-  title: Advanced NotebookLM Tips & Tricks for Power Users
-- category: machine-learning
-  description: Antigravity is sitting on a stack of capabilities, many of which have
-    very little to do with writing functions.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-things-to-do-with-googles-antigravity-besides-coding
-  pub_date: '2026-04-10T12:00:01'
-  source: KDnuggets
-  title: 5 Useful Things to Do with Google’s Antigravity Besides Coding
 - category: ai-research
   description: As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is
     advancing dialogue, teaching, and research into the social and ethical dimensions
@@ -215,29 +238,4 @@ articles:
   pub_date: '2026-03-31T16:00:00'
   source: Google AI Blog
   title: Build with Veo 3.1 Lite, our most cost-effective video generation model
-- category: ai-research
-  description: A new model measures defects that can be leveraged to improve materials'
-    mechanical strength, heat transfer, and energy-conversion efficiency.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330
-  pub_date: '2026-03-30T15:00:00'
-  source: MIT AI News
-  title: MIT researchers use AI to uncover atomic defects in materials
-- category: ai-research
-  description: In the latest episode of our Dialogues on Technology and Society series,
-    LL COOL J sits down with James Manyika.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/
-  pub_date: '2026-03-26T17:00:00'
-  source: Google AI Blog
-  title: Watch James Manyika talk AI and creativity with LL COOL J.
-- category: ai-research
-  description: Google Translate's Live translate with headphones is officially arriving
-    on iOS! And we're expanding the capability for both iOS and Android users to even
-    more countries...
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/
-  pub_date: '2026-03-26T16:00:00'
-  source: Google AI Blog
-  title: Transform your headphones into a live personal translator on iOS.
-last_updated: '2026-04-16T07:47:45.407244'
+last_updated: '2026-04-17T07:47:58.052417'
