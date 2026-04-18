@@ -1,4 +1,38 @@
 articles:
+- category: machine-learning
+  description: Build an AI customer sentiment analyzer for call recordings using Whisper,
+    BERTopic & Streamlit with this open-source step-by-step guide with code.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/vibe-coded-tool-analyzes-customer-sentiment-and-topics-from-call-recordings
+  pub_date: '2026-04-17T14:00:54'
+  source: KDnuggets
+  title: I Vibe Coded a Tool to That Analyzes Customer Sentiment and Topics From Call
+    Recordings
+- category: ai-research
+  description: Illustration showing a person with a Pixel phone in a beach town farmers'
+    market by the water
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/
+  pub_date: '2026-04-17T14:00:00'
+  source: Google AI Blog
+  title: 7 ways to travel smarter this summer, with help from Google
+- category: ai-research
+  description: The associate professors of EECS and chemistry, respectively, are honored
+    for exceptional contributions to teaching, research, and service at MIT.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/jacob-andreas-brett-mcguire-edgerton-award-winners-0417
+  pub_date: '2026-04-17T13:40:00'
+  source: MIT AI News
+  title: Jacob Andreas and Brett McGuire named Edgerton Award winners
+- category: machine-learning
+  description: From missing values to schema mismatches, data issues appear in many
+    forms. These five Python scripts provide smart, automated validation for modern
+    data workflows.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-for-advanced-data-validation-quality-checks
+  pub_date: '2026-04-17T12:00:58'
+  source: KDnuggets
+  title: 5 Useful Python Scripts for Advanced Data Validation & Quality Checks
 - category: ai-research
   description: Founded by Tristan Bepler PhD '20 and former MIT professor Tim Lu PhD
     '07, OpenProtein.AI offers researchers open-source models and other tools for
@@ -127,22 +161,6 @@ articles:
   pub_date: '2026-04-13T16:00:07'
   source: KDnuggets
   title: Breaking Down the .claude Folder
-- category: machine-learning
-  description: This article provides a reflective summary, based on the most recent
-    insights and dilemmas, about the current state of security in AI agents.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare
-  pub_date: '2026-04-13T14:00:22'
-  source: KDnuggets
-  title: Are AI Agents Your Next Security Nightmare?
-- category: machine-learning
-  description: These five books are the ones worth your time in 2026 if you are building
-    systems where models don't just respond, they act.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-best-books-for-building-agentic-ai-systems-in-2026
-  pub_date: '2026-04-13T12:00:52'
-  source: KDnuggets
-  title: 5 Best Books for Building Agentic AI Systems in 2026
 - category: ai-research
   description: As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is
     advancing dialogue, teaching, and research into the social and ethical dimensions
@@ -223,19 +241,4 @@ articles:
   pub_date: '2026-04-01T13:00:00'
   source: Google AI Blog
   title: The latest AI news we announced in March 2026
-- category: ai-research
-  description: By quickly generating aesthetically accurate previews of fabricated
-    objects, the VisiPrint system could make prototyping faster and less wasteful.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401
-  pub_date: '2026-04-01T04:00:00'
-  source: MIT AI News
-  title: Preview tool helps makers visualize 3D-printed objects
-- category: ai-research
-  description: Build with Veo 3.1 Lite
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/
-  pub_date: '2026-03-31T16:00:00'
-  source: Google AI Blog
-  title: Build with Veo 3.1 Lite, our most cost-effective video generation model
-last_updated: '2026-04-17T07:47:58.052417'
+last_updated: '2026-04-18T07:09:14.299218'

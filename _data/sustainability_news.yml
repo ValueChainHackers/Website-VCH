@@ -1,5 +1,54 @@
 articles:
 - category: supply-chain
+  description: The Savannah Bananas are building a fast-moving, multi-channel supply
+    chain to support a growing national tour, balancing inventory complexity with
+    a fan-first approach.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/savannah-bananas-supply-chain-merchandise-operations
+  pub_date: '2026-04-17T16:31:00'
+  source: Supply Chain 24/7
+  title: How the Savannah Bananas Built a Traveling Retail Supply Chain
+- category: supply-chain
+  description: Importers can begin filing claims April 20 to recover tariffs ruled
+    unlawful under IEEPA as CBP launches a new electronic process.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tariff-refund-process-goes-live-april-20-for-ieepa-tariffs
+  pub_date: '2026-04-17T13:47:00'
+  source: Supply Chain 24/7
+  title: Refund Process for IEEPA Tariffs Goes Live April 20
+- category: supply-chain
+  description: UPS is embedding RFID tags into shipping labels and installing sensors
+    across its network to improve tracking accuracy.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-rfid-tracking-rollout-us-network
+  pub_date: '2026-04-17T13:28:00'
+  source: Supply Chain 24/7
+  title: UPS Rolls Out RFID Package Tracking Across U.S. Operations
+- category: supply-chain
+  description: Honda is expanding into last-mile logistics with a new electric cargo
+    vehicle and fleet model designed for dense urban delivery operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/honda-launches-electric-cargo-vehicle-for-urban-delivery
+  pub_date: '2026-04-17T13:11:00'
+  source: Supply Chain 24/7
+  title: Honda Launches Electric Cargo Vehicle for Urban Delivery
+- category: supply-chain
+  description: Supply chains aren't failing because of a lack of data, they're failing
+    because companies struggle to make decisions under pressure.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-decision-making-problem-not-data
+  pub_date: '2026-04-17T13:09:00'
+  source: Supply Chain 24/7
+  title: Why Supply Chains Struggle With Decisions, Not Data
+- category: supply-chain
+  description: Discover how Infios WM improves warehouse efficiency, visibility, and
+    automation by connecting inventory, workflows, and real-time data.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/smarter-warehouse-operations-for-greater-efficiency-and-control
+  pub_date: '2026-04-16T18:29:00'
+  source: Supply Chain 24/7
+  title: Smarter Warehouse Operations for Greater Efficiency and Control
+- category: supply-chain
   description: A new Schneider Electric survey shows manufacturers expect major gains
     from AI, but most are still struggling to turn those investments into real results.
   icon: fa-box
@@ -61,14 +110,6 @@ articles:
   source: Supply Chain 24/7
   title: What Is Warehouse Collaboration? How Human-Robot Automation Improves Efficiency,
     Safety & Scalability
-- category: supply-chain
-  description: Gartner says half of new warehouses will rely mainly on robots by 2030,
-    with humans playing a smaller role.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/robot-warehouses-human-optional-2030-gartner
-  pub_date: '2026-04-14T12:49:00'
-  source: Supply Chain 24/7
-  title: Gartner Says Half of New Warehouses Will Be Human-Optional by 2030
 - category: circular
   description: Veolia to provide household collection services to over 73,000 residential
     properties on the Isle of Wight after being awarded a two-year contract by the
@@ -96,34 +137,6 @@ articles:
   pub_date: '2026-04-14T07:36:17'
   source: Circular Online
   title: Welsh Gov reject Exchange for Change as DRS administrator
-- category: supply-chain
-  description: Carrier costing is no longer just accounting-it now powers pricing,
-    operations, and emissions reporting. Learn how real-time cost data, AI, and standardized
-    frameworks are reshaping logistics strategy...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/what-is-carrier-costing-and-why-it-now-powers-pricing-sustainability-and-logistics-strategy
-  pub_date: '2026-04-13T15:41:00'
-  source: Supply Chain 24/7
-  title: What Is Carrier Costing and Why It Now Powers Pricing, Sustainability, and
-    Logistics Strategy
-- category: supply-chain
-  description: Choosing a laptop computer cart? Use this expert checklist to evaluate
-    battery life, mobility, ergonomics, and usability-so you can spec the right mobile
-    workstation for your facility and improve prod...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-to-choose-the-right-laptop-computer-cart-complete-facility-checklist-for-power-mobility-ergonomics
-  pub_date: '2026-04-13T15:20:00'
-  source: Supply Chain 24/7
-  title: How to Choose the Right Laptop Computer Cart Complete Facility Checklist
-    for Power, Mobility & Ergonomics
-- category: supply-chain
-  description: MHI is launching MODEX West in Las Vegas in 2028 to reach more supply
-    chain professionals and expand its trade show footprint.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/mhi-modex-west-las-vegas-2028-trade-show
-  pub_date: '2026-04-13T14:51:00'
-  source: Supply Chain 24/7
-  title: Las Vegas to Host New MODEX West Trade Show in October 2028
 - category: circular
   description: New TV adverts from WRAP are set to begin across Sky channels as part
     of its new 'Rescue Me, Recycle' campaign. The post WRAP launches circular economy
@@ -142,22 +155,6 @@ articles:
   pub_date: '2026-04-13T07:52:03'
   source: Circular Online
   title: Altilium awarded £18.5m to build electric vehicle battery recycling facility
-- category: supply-chain
-  description: Project44 is moving from supply chain visibility to execution with
-    its LunaPath acquisition, adding AI agents to handle day-to-day freight tasks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/project44-lunapath-ai-execution-acquisition
-  pub_date: '2026-04-10T13:27:00'
-  source: Supply Chain 24/7
-  title: Project44 Acquires LunaPath to Automate Freight Workflows
-- category: supply-chain
-  description: Sedex CEO Jon Hancock explains how extreme heat and limited supplier
-    visibility are creating new risks for apparel supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/extreme-heat-apparel-supply-chain-risk-sedex-qa
-  pub_date: '2026-04-10T13:13:00'
-  source: Supply Chain 24/7
-  title: Why Extreme Heat Is Now a Real Risk for Apparel Supply Chains
 - category: circular
   description: The US-Iran war has caused 'unprecedented' raw material shortages and
     cost increases, the British plastics industry has said. The post British Plastics
@@ -177,4 +174,4 @@ articles:
   pub_date: '2026-04-09T08:06:36'
   source: Circular Online
   title: Company fined £142,000 for exporting contaminated plastic waste
-last_updated: '2026-04-17T07:47:56.782271'
+last_updated: '2026-04-18T07:09:13.133220'
