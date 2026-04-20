@@ -1,4 +1,14 @@
 articles:
+- category: circular
+  description: Including waste incineration in the EU Emissions Trading System (EU
+    ETS) is 'unlikely' to lead to an increase in landfilling, according to a new report
+    from Zero Waste Europe. The post New report find...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-report-finds-including-incineration-in-the-eu-ets-will-not-drive-more-landfilling/
+  pub_date: '2026-04-20T08:02:17'
+  source: Circular Online
+  title: New report finds including incineration in the EU ETS will ‘not drive more
+    landfilling’
 - category: supply-chain
   description: The Savannah Bananas are building a fast-moving, multi-channel supply
     chain to support a growing national tour, balancing inventory complexity with
@@ -165,13 +175,4 @@ articles:
   source: Circular Online
   title: British Plastics industry warns of ‘unprecedented’ shortages amid US-Iran
     war
-- category: circular
-  description: A company and its director have been fined over GBP142,000 for illegally
-    exporting contaminated plastic waste to Malaysia. The post Company fined GBP142,000
-    for exporting contaminated plastic waste ap...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/company-fined-142000-for-exporting-contaminated-plastic-waste/
-  pub_date: '2026-04-09T08:06:36'
-  source: Circular Online
-  title: Company fined £142,000 for exporting contaminated plastic waste
-last_updated: '2026-04-19T07:20:28.063320'
+last_updated: '2026-04-20T08:08:28.408897'
