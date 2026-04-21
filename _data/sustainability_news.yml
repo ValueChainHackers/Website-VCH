@@ -1,5 +1,65 @@
 articles:
 - category: circular
+  description: A liquidated waste management company has been fined GBP1 after a 24-year-old
+    man lost both his legs when he was crushed by a 15-tonne excavator. The post Liquidated
+    waste management company fined GBP...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/liquidated-waste-management-company-fined-1-after-man-loses-both-legs-in-excavator-crush/
+  pub_date: '2026-04-21T07:00:00'
+  source: Circular Online
+  title: Liquidated waste management company fined £1 after man loses both legs in
+    excavator crush
+- category: supply-chain
+  description: Brady Corporation is buying Honeywell's Productivity Solutions business,
+    adding scanning and mobile tech used in warehouses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/honeywell-sells-warehouse-tech-business-to-brady
+  pub_date: '2026-04-20T14:23:00'
+  source: Supply Chain 24/7
+  title: Honeywell Sells Warehouse Tech Unit to Brady for $1.4 Billion
+- category: supply-chain
+  description: A federal audit found widespread CDL violations in New York, leading
+    regulators to withhold more than $73 million in funding.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fmcsa-withholds-73m-new-york-cdl-violations
+  pub_date: '2026-04-20T14:01:00'
+  source: Supply Chain 24/7
+  title: New York Loses $73 Million in Federal Funds After CDL Audit
+- category: supply-chain
+  description: Logistics teams are moving beyond basic tracking to achieve more reliable,
+    end-to-end visibility across their operations through RFID, AI, and automation.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rfid-ai-logistics-visibility-final-mile-delivery
+  pub_date: '2026-04-20T13:46:00'
+  source: Supply Chain 24/7
+  title: How RFID and AI Are Improving Delivery Reliability Across Logistics
+- category: supply-chain
+  description: Most companies can track Tier 1 suppliers, but visibility still drops
+    off sharply beyond that, an EcoVadis report finds.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-visibility-gaps-tier-2-suppliers
+  pub_date: '2026-04-20T12:55:00'
+  source: Supply Chain 24/7
+  title: Supply Chain Visibility Still Fades Quickly Beyond Tier 1 Suppliers
+- category: circular
+  description: The new tool, aimed at organisations and individuals, helps identify
+    how businesses can reuse materials, rather than discard them. The post King's
+    College London launches new circular economy tool app...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/kings-college-london-launches-new-circular-economy-tool/
+  pub_date: '2026-04-20T11:12:26'
+  source: Circular Online
+  title: King’s College London launches new circular economy tool
+- category: circular
+  description: Inefficient resource use is responsible for GBP22.1 trillion in losses,
+    a third of global GDP, each year, a new report has found. The post GBP22.1 trillion
+    lost to inefficient resource use annually, r...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/22-1-trillion-lost-to-inefficient-resource-use-annually-report-finds/
+  pub_date: '2026-04-20T10:17:39'
+  source: Circular Online
+  title: £22.1 trillion lost to inefficient resource use annually, report finds
+- category: circular
   description: Including waste incineration in the EU Emissions Trading System (EU
     ETS) is 'unlikely' to lead to an increase in landfilling, according to a new report
     from Zero Waste Europe. The post New report find...
@@ -58,22 +118,6 @@ articles:
   pub_date: '2026-04-16T18:29:00'
   source: Supply Chain 24/7
   title: Smarter Warehouse Operations for Greater Efficiency and Control
-- category: supply-chain
-  description: A new Schneider Electric survey shows manufacturers expect major gains
-    from AI, but most are still struggling to turn those investments into real results.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturers-expect-ai-gains-but-results-still-lag
-  pub_date: '2026-04-16T14:59:00'
-  source: Supply Chain 24/7
-  title: AI Expectations Are Rising Fast, But Results Aren’t There Yet
-- category: supply-chain
-  description: MHI's latest report highlights 10 supply chain trends for 2026, while
-    MODEX panelists say execution, not technology, remains the biggest challenge.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/10-trends-shaping-supply-chains-in-2026-according-to-mhi
-  pub_date: '2026-04-16T14:01:00'
-  source: Supply Chain 24/7
-  title: 10 Supply Chain Trends to Watch in 2026
 - category: circular
   description: The Washed Aggregates Trade Association is calling on the government
     to protect the resources and waste sector from escalating fuel costs. The post
@@ -83,15 +127,6 @@ articles:
   pub_date: '2026-04-16T07:39:39'
   source: Circular Online
   title: WATA calls on government to protect sector from fuel cost spikes
-- category: supply-chain
-  description: Speaking at MODEX, Home Depot CFO Richard McPhail said the company
-    now views its supply chain as a "strategic weapon" after years of investment and
-    change.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-home-depot-made-supply-chain-a-strategic-weapon
-  pub_date: '2026-04-15T12:31:00'
-  source: Supply Chain 24/7
-  title: How Home Depot Turned Its Supply Chain Into a “Strategic Weapon”
 - category: circular
   description: A cow has been legally approved to dispose of household waste, which
     campaigners say shows how easy it is for criminals to gain a waste carrier license.
@@ -110,16 +145,6 @@ articles:
   pub_date: '2026-04-15T07:57:56'
   source: Circular Online
   title: £8 million clean-up of illegal waste site in Kidlington begins
-- category: supply-chain
-  description: Discover how human-robot collaboration transforms warehouse operations.
-    Learn how AMRs, orchestration platforms, and AI improve productivity, reduce labor
-    strain, and scale fulfillment efficiently.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/what-is-warehouse-collaboration-how-human-robot-automation-improves-efficiency-safety-scalability
-  pub_date: '2026-04-14T18:20:00'
-  source: Supply Chain 24/7
-  title: What Is Warehouse Collaboration? How Human-Robot Automation Improves Efficiency,
-    Safety & Scalability
 - category: circular
   description: Veolia to provide household collection services to over 73,000 residential
     properties on the Isle of Wight after being awarded a two-year contract by the
@@ -147,32 +172,4 @@ articles:
   pub_date: '2026-04-14T07:36:17'
   source: Circular Online
   title: Welsh Gov reject Exchange for Change as DRS administrator
-- category: circular
-  description: New TV adverts from WRAP are set to begin across Sky channels as part
-    of its new 'Rescue Me, Recycle' campaign. The post WRAP launches circular economy
-    and recycling adverts on Sky TV appeared first o...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wrap-launches-circular-economy-and-recycling-adverts-on-sky-tv/
-  pub_date: '2026-04-13T09:23:31'
-  source: Circular Online
-  title: WRAP launches circular economy and recycling adverts on Sky TV
-- category: circular
-  description: The UK Government has awarded clean technology company Altilium GBP18.5m
-    to build the 'UK's first' commercial facility for recovering critical battery
-    materials. The post Altilium awarded GBP18.5m to ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/altilium-awarded-18-5m-to-build-electric-vehicle-battery-recycling-facility/
-  pub_date: '2026-04-13T07:52:03'
-  source: Circular Online
-  title: Altilium awarded £18.5m to build electric vehicle battery recycling facility
-- category: circular
-  description: The US-Iran war has caused 'unprecedented' raw material shortages and
-    cost increases, the British plastics industry has said. The post British Plastics
-    industry warns of 'unprecedented' shortages amid...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/british-plastics-industry-warns-of-unprecedented-shortages-amid-us-iran-war/
-  pub_date: '2026-04-10T08:09:07'
-  source: Circular Online
-  title: British Plastics industry warns of ‘unprecedented’ shortages amid US-Iran
-    war
-last_updated: '2026-04-20T08:08:28.408897'
+last_updated: '2026-04-21T07:51:36.551385'

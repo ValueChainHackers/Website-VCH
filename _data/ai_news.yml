@@ -1,5 +1,29 @@
 articles:
 - category: machine-learning
+  description: Automatically collect documentation pages, clean and structure the
+    content, and turn website data into AI-ready output using a few lines of code.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-crawl-an-entire-documentation-site-with-olostep
+  pub_date: '2026-04-20T16:00:33'
+  source: KDnuggets
+  title: How to Crawl an Entire Documentation Site with Olostep
+- category: machine-learning
+  description: Merge LLMs easily with Unsloth Studio's no-code GUI and combine models
+    without retraining.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/merging-language-models-with-unsloth-studio
+  pub_date: '2026-04-20T14:00:24'
+  source: KDnuggets
+  title: Merging Language Models with Unsloth Studio
+- category: machine-learning
+  description: Explore five beginner-friendly platforms that let you host Python apps
+    for free, compare their limits, and pick the right one.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-ways-to-host-a-python-application
+  pub_date: '2026-04-20T12:00:22'
+  source: KDnuggets
+  title: 5 Free Ways to Host a Python Application
+- category: machine-learning
   description: Build an AI customer sentiment analyzer for call recordings using Whisper,
     BERTopic & Streamlit with this open-source step-by-step guide with code.
   icon: fa-chart-bar
@@ -111,14 +135,6 @@ articles:
   pub_date: '2026-04-14T17:00:00'
   source: Google AI Blog
   title: Turn your best AI prompts into one-click tools in Chrome
-- category: machine-learning
-  description: Everyone says they're "collaborating" with AI. Most are just giving
-    orders and accepting whatever comes back.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/collaborative-ai-systems-human-ai-teaming-workflows
-  pub_date: '2026-04-14T14:00:31'
-  source: KDnuggets
-  title: 'Collaborative AI Systems: Human-AI Teaming Workflows'
 - category: ai-research
   description: Researchers are developing hardware and algorithms to improve collaboration
     between divers and autonomous underwater vehicles engaged in maritime missions.
@@ -136,14 +152,6 @@ articles:
   pub_date: '2026-04-14T13:00:00'
   source: MIT AI News
   title: 'Q&A: MIT SHASS and the future of education in the age of AI'
-- category: machine-learning
-  description: Learn seven Docker Compose templates for CMS, web apps, databases,
-    Python backends, streaming, automation, and local AI development.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use
-  pub_date: '2026-04-14T12:00:21'
-  source: KDnuggets
-  title: Top 7 Docker Compose Templates Every Developer Should Use
 - category: ai-research
   description: Woman working with a large tool. On the left are the Google and MIT
     FutureTech logos, "AI for the Economy Forum", and "Innovation and Adaption in
@@ -153,14 +161,6 @@ articles:
   pub_date: '2026-04-14T09:00:00'
   source: Google AI Blog
   title: Bringing people together at AI for the Economy Forum
-- category: machine-learning
-  description: The .claude folder is created by tools that integrate with Claude to
-    store local state, to keep track of how the model behaves inside your project.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/breaking-down-the-claude-folder
-  pub_date: '2026-04-13T16:00:07'
-  source: KDnuggets
-  title: Breaking Down the .claude Folder
 - category: ai-research
   description: As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is
     advancing dialogue, teaching, and research into the social and ethical dimensions
@@ -241,4 +241,4 @@ articles:
   pub_date: '2026-04-01T13:00:00'
   source: Google AI Blog
   title: The latest AI news we announced in March 2026
-last_updated: '2026-04-20T08:08:29.635818'
+last_updated: '2026-04-21T07:51:37.641323'
