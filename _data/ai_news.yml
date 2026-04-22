@@ -1,5 +1,37 @@
 articles:
 - category: machine-learning
+  description: Run a powerful, private AI coder locally with OpenCode, Ollama & Qwen3-Coder.
+    Free, offline, and unlimited.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/seeing-whats-possible-with-opencode-ollama-qwen3-coder
+  pub_date: '2026-04-21T16:00:03'
+  source: KDnuggets
+  title: Seeing What’s Possible with OpenCode + Ollama + Qwen3-Coder
+- category: ai-research
+  description: The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White
+    background with colorful bottom gradient.
+  icon: fa-google
+  link: https://blog.google/products/ads-commerce/ads-advisor-google-ads/
+  pub_date: '2026-04-21T14:30:00'
+  source: Google AI Blog
+  title: 3 new ways Ads Advisor is making Google Ads safer and faster
+- category: machine-learning
+  description: Learn method chaining, pipe(), efficient joins, optimized groupby operations,
+    and vectorized logic to write faster and cleaner pandas code
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/advanced-pandas-patterns-most-data-scientists-dont-use
+  pub_date: '2026-04-21T14:00:40'
+  source: KDnuggets
+  title: Advanced Pandas Patterns Most Data Scientists Don’t Use
+- category: machine-learning
+  description: By applying a few smart Docker practices, you can build faster images,
+    and keep them clean, compact, and production-ready.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-docker-best-practices-for-faster-builds-and-smaller-images
+  pub_date: '2026-04-21T12:00:19'
+  source: KDnuggets
+  title: 5 Docker Best Practices for Faster Builds and Smaller Images
+- category: machine-learning
   description: Automatically collect documentation pages, clean and structure the
     content, and turn website data into AI-ready output using a few lines of code.
   icon: fa-chart-bar
@@ -97,14 +129,6 @@ articles:
   pub_date: '2026-04-16T12:00:33'
   source: KDnuggets
   title: 'Docker for Python & Data Projects: A Beginner’s Guide'
-- category: machine-learning
-  description: If you are looking to optimize your creative and productivity workflows,
-    here are the five features in NotebookLM that matter most right now.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/notebooklm-for-the-creative-architect
-  pub_date: '2026-04-15T16:00:27'
-  source: KDnuggets
-  title: NotebookLM for the Creative Architect
 - category: ai-research
   description: Gemini logo next to the text "3.1 Flash TTS", all over colored dots
   icon: fa-google
@@ -112,22 +136,6 @@ articles:
   pub_date: '2026-04-15T15:00:00'
   source: Google AI Blog
   title: 'Gemini 3.1 Flash TTS: the next generation of expressive AI speech'
-- category: machine-learning
-  description: Deployment is not just about calling an API or hosting a model. It
-    involves decisions around architecture, cost, latency, safety, and monitoring.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-steps-to-mastering-language-model-deployment
-  pub_date: '2026-04-15T14:00:38'
-  source: KDnuggets
-  title: 7 Steps to Mastering Language Model Deployment
-- category: machine-learning
-  description: Discover five simple VS Code extensions that boost your everyday productivity
-    without AI.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-extensions-for-vs-code-that-arent-copilot
-  pub_date: '2026-04-15T12:00:01'
-  source: KDnuggets
-  title: Top 5 Extensions for VS Code That Aren’t Copilot
 - category: ai-research
   description: Video showing Skills in Chrome
   icon: fa-google
@@ -234,11 +242,4 @@ articles:
   pub_date: '2026-04-01T13:30:00'
   source: Google AI Blog
   title: We’re creating a new satellite imagery map to help protect Brazil’s forests.
-- category: ai-research
-  description: March 2026 AI Recap showing new updates
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/
-  pub_date: '2026-04-01T13:00:00'
-  source: Google AI Blog
-  title: The latest AI news we announced in March 2026
-last_updated: '2026-04-21T07:51:37.641323'
+last_updated: '2026-04-22T07:48:29.228090'

@@ -1,4 +1,30 @@
 articles:
+- category: supply-chain
+  description: A new report from Colliers shows cargo shifting toward East and Gulf
+    Coast ports as West Coast volumes remain uneven.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-port-shift-east-gulf-coast-growth-2025
+  pub_date: '2026-04-22T01:05:00'
+  source: Supply Chain 24/7
+  title: Why East and Gulf Coast Ports Are Gaining Ground on the West Coast
+- category: circular
+  description: The government has created a 'perverse incentive' for demolishing buildings
+    over retrofit projects, Don't Waste Buildings says. The post VAT system incentivises
+    building demolition over reuse, report ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/vat-system-incentivises-building-demolition-over-reuse-report-says/
+  pub_date: '2026-04-21T09:34:22'
+  source: Circular Online
+  title: VAT system incentivises building demolition over reuse, report says
+- category: circular
+  description: In-scope drinks containers must adopt new barcodes as part of the UK's
+    Deposit Return Scheme, Exchange for Change has announced. The post Producers must
+    adopt new barcodes as part of the UK's DRS appe...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/producers-must-adopt-new-barcodes-as-part-of-the-uks-drs/
+  pub_date: '2026-04-21T09:33:50'
+  source: Circular Online
+  title: Producers must adopt new barcodes as part of the UK’s DRS
 - category: circular
   description: A liquidated waste management company has been fined GBP1 after a 24-year-old
     man lost both his legs when he was crushed by a 15-tonne excavator. The post Liquidated
@@ -9,6 +35,14 @@ articles:
   source: Circular Online
   title: Liquidated waste management company fined £1 after man loses both legs in
     excavator crush
+- category: supply-chain
+  description: Tariff pressure is rising, and these four KPIs can help supply chain
+    leaders stay ahead of costs and reduce risk.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/4-kpis-supply-chain-leaders-should-prioritize-as-tariff-pressures-persist
+  pub_date: '2026-04-21T05:14:00'
+  source: Supply Chain 24/7
+  title: 4 KPIs Supply Chain Leaders Should Prioritize as Tariff Pressures Persist
 - category: supply-chain
   description: Brady Corporation is buying Honeywell's Productivity Solutions business,
     adding scanning and mobile tech used in warehouses.
@@ -102,22 +136,6 @@ articles:
   pub_date: '2026-04-17T13:11:00'
   source: Supply Chain 24/7
   title: Honda Launches Electric Cargo Vehicle for Urban Delivery
-- category: supply-chain
-  description: Supply chains aren't failing because of a lack of data, they're failing
-    because companies struggle to make decisions under pressure.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-decision-making-problem-not-data
-  pub_date: '2026-04-17T13:09:00'
-  source: Supply Chain 24/7
-  title: Why Supply Chains Struggle With Decisions, Not Data
-- category: supply-chain
-  description: Discover how Infios WM improves warehouse efficiency, visibility, and
-    automation by connecting inventory, workflows, and real-time data.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/smarter-warehouse-operations-for-greater-efficiency-and-control
-  pub_date: '2026-04-16T18:29:00'
-  source: Supply Chain 24/7
-  title: Smarter Warehouse Operations for Greater Efficiency and Control
 - category: circular
   description: The Washed Aggregates Trade Association is calling on the government
     to protect the resources and waste sector from escalating fuel costs. The post
@@ -154,22 +172,4 @@ articles:
   pub_date: '2026-04-14T09:31:16'
   source: Circular Online
   title: Veolia awarded two-year recycling and waste contract on the Isle of Wight
-- category: circular
-  description: Devonshire recycling centres now accept used coffee pods for anaerobic
-    digestion and recycling as part of a partnership with Podback. The move comes
-    after waste management company SUEZ Recycling and R...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/devonshire-recycling-centres-to-accept-used-coffee-pods/
-  pub_date: '2026-04-14T08:27:13'
-  source: Circular Online
-  title: Devonshire recycling centres to accept used coffee pods
-- category: circular
-  description: The Welsh Government have rejected Exchange for Change's application
-    to become its deposit return scheme administrator. The post Welsh Gov reject Exchange
-    for Change as DRS administrator appeared firs...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/welsh-gov-reject-exchange-for-change-as-drs-administrator/
-  pub_date: '2026-04-14T07:36:17'
-  source: Circular Online
-  title: Welsh Gov reject Exchange for Change as DRS administrator
-last_updated: '2026-04-21T07:51:36.551385'
+last_updated: '2026-04-22T07:48:27.922415'
