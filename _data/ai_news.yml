@@ -1,4 +1,35 @@
 articles:
+- category: machine-learning
+  description: These 10 projects will teach you agent engineering faster than any
+    tutorial.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/ai-engineering-hub-breakdown-10-agentic-projects-you-can-fork-today
+  pub_date: '2026-04-23T14:00:06'
+  source: KDnuggets
+  title: 'AI Engineering Hub Breakdown: 10 Agentic Projects You Can Fork Today'
+- category: machine-learning
+  description: These ares seven unconventional uses of LLMs that go far beyond usual
+    chat interface and conversations.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-specific-unconventional-things-to-do-with-language-models
+  pub_date: '2026-04-23T12:00:39'
+  source: KDnuggets
+  title: 7 Specific Unconventional Things to Do with Language Models
+- category: ai-research
+  description: Learn how Google's TPUs power increasingly demanding AI workloads with
+    this new video.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/
+  pub_date: '2026-04-23T12:00:00'
+  source: Google AI Blog
+  title: Here’s how our TPUs power increasingly demanding AI workloads.
+- category: ai-research
+  description: Aerial image of the data center
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/
+  pub_date: '2026-04-23T09:00:00'
+  source: Google AI Blog
+  title: 'Elevating Austria: Google invests in its first data center in the Alps.'
 - category: ai-research
   description: A new training method improves the reliability of AI confidence estimates
     without sacrificing performance, addressing a root cause of hallucination in reasoning
@@ -89,15 +120,6 @@ articles:
   pub_date: '2026-04-20T12:00:22'
   source: KDnuggets
   title: 5 Free Ways to Host a Python Application
-- category: machine-learning
-  description: Build an AI customer sentiment analyzer for call recordings using Whisper,
-    BERTopic & Streamlit with this open-source step-by-step guide with code.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/vibe-coded-tool-analyzes-customer-sentiment-and-topics-from-call-recordings
-  pub_date: '2026-04-17T14:00:54'
-  source: KDnuggets
-  title: I Vibe Coded a Tool to That Analyzes Customer Sentiment and Topics From Call
-    Recordings
 - category: ai-research
   description: Illustration showing a person with a Pixel phone in a beach town farmers'
     market by the water
@@ -114,15 +136,6 @@ articles:
   pub_date: '2026-04-17T13:40:00'
   source: MIT AI News
   title: Jacob Andreas and Brett McGuire named Edgerton Award winners
-- category: machine-learning
-  description: From missing values to schema mismatches, data issues appear in many
-    forms. These five Python scripts provide smart, automated validation for modern
-    data workflows.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-for-advanced-data-validation-quality-checks
-  pub_date: '2026-04-17T12:00:58'
-  source: KDnuggets
-  title: 5 Useful Python Scripts for Advanced Data Validation & Quality Checks
 - category: ai-research
   description: Founded by Tristan Bepler PhD '20 and former MIT professor Tim Lu PhD
     '07, OpenProtein.AI offers researchers open-source models and other tools for
@@ -229,18 +242,4 @@ articles:
   pub_date: '2026-04-03T20:55:00'
   source: MIT AI News
   title: Working to advance the nuclear renaissance
-- category: ai-research
-  description: Gemini API Dials
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/
-  pub_date: '2026-04-02T16:00:00'
-  source: Google AI Blog
-  title: New ways to balance cost and reliability in the Gemini API
-- category: ai-research
-  description: Google Vids logo surrounded by various video editing UI
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/
-  pub_date: '2026-04-02T16:00:00'
-  source: Google AI Blog
-  title: Create, edit and share videos at no cost in Google Vids
-last_updated: '2026-04-23T07:57:09.301166'
+last_updated: '2026-04-24T08:04:41.011386'
