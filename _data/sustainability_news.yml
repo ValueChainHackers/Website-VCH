@@ -1,4 +1,12 @@
 articles:
+- category: supply-chain
+  description: Warehouse teams aren't short on data, they're losing time chasing updates
+    instead of acting on it, according to a recent Trimble Data-First Resilience Roundtable.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-warehouse-teams-spend-more-time-chasing-than-moving-freight
+  pub_date: '2026-04-23T02:24:00'
+  source: Supply Chain 24/7
+  title: The Real Bottleneck Inside Warehouse and Logistics Operations
 - category: circular
   description: Company ordered to clear illegal waste site and pay 20,000 in fines
     The post Company ordered to clear illegal waste site and pay 20,000 in fines appeared
@@ -17,6 +25,14 @@ articles:
   pub_date: '2026-04-22T09:00:50'
   source: Circular Online
   title: WRAP launches the UK Packaging Pact
+- category: supply-chain
+  description: A new report from Colliers shows cargo shifting toward East and Gulf
+    Coast ports as West Coast volumes remain uneven.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-port-shift-east-gulf-coast-growth-2025
+  pub_date: '2026-04-22T01:05:00'
+  source: Supply Chain 24/7
+  title: Why East and Gulf Coast Ports Are Gaining Ground on the West Coast
 - category: circular
   description: The government has created a 'perverse incentive' for demolishing buildings
     over retrofit projects, Don't Waste Buildings says. The post VAT system incentivises
@@ -45,6 +61,46 @@ articles:
   source: Circular Online
   title: Liquidated waste management company fined £1 after man loses both legs in
     excavator crush
+- category: supply-chain
+  description: Tariff pressure is rising, and these four KPIs can help supply chain
+    leaders stay ahead of costs and reduce risk.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/4-kpis-supply-chain-leaders-should-prioritize-as-tariff-pressures-persist
+  pub_date: '2026-04-21T05:14:00'
+  source: Supply Chain 24/7
+  title: 4 KPIs Supply Chain Leaders Should Prioritize as Tariff Pressures Persist
+- category: supply-chain
+  description: Brady Corporation is buying Honeywell's Productivity Solutions business,
+    adding scanning and mobile tech used in warehouses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/honeywell-sells-warehouse-tech-business-to-brady
+  pub_date: '2026-04-20T14:23:00'
+  source: Supply Chain 24/7
+  title: Honeywell Sells Warehouse Tech Unit to Brady for $1.4 Billion
+- category: supply-chain
+  description: A federal audit found widespread CDL violations in New York, leading
+    regulators to withhold more than $73 million in funding.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fmcsa-withholds-73m-new-york-cdl-violations
+  pub_date: '2026-04-20T14:01:00'
+  source: Supply Chain 24/7
+  title: New York Loses $73 Million in Federal Funds After CDL Audit
+- category: supply-chain
+  description: Logistics teams are moving beyond basic tracking to achieve more reliable,
+    end-to-end visibility across their operations through RFID, AI, and automation.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rfid-ai-logistics-visibility-final-mile-delivery
+  pub_date: '2026-04-20T13:46:00'
+  source: Supply Chain 24/7
+  title: How RFID and AI Are Improving Delivery Reliability Across Logistics
+- category: supply-chain
+  description: Most companies can track Tier 1 suppliers, but visibility still drops
+    off sharply beyond that, an EcoVadis report finds.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-visibility-gaps-tier-2-suppliers
+  pub_date: '2026-04-20T12:55:00'
+  source: Supply Chain 24/7
+  title: Supply Chain Visibility Still Fades Quickly Beyond Tier 1 Suppliers
 - category: circular
   description: The new tool, aimed at organisations and individuals, helps identify
     how businesses can reuse materials, rather than discard them. The post King's
@@ -73,6 +129,31 @@ articles:
   source: Circular Online
   title: New report finds including incineration in the EU ETS will ‘not drive more
     landfilling’
+- category: supply-chain
+  description: The Savannah Bananas are building a fast-moving, multi-channel supply
+    chain to support a growing national tour, balancing inventory complexity with
+    a fan-first approach.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/savannah-bananas-supply-chain-merchandise-operations
+  pub_date: '2026-04-17T16:31:00'
+  source: Supply Chain 24/7
+  title: How the Savannah Bananas Built a Traveling Retail Supply Chain
+- category: supply-chain
+  description: Importers can begin filing claims April 20 to recover tariffs ruled
+    unlawful under IEEPA as CBP launches a new electronic process.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tariff-refund-process-goes-live-april-20-for-ieepa-tariffs
+  pub_date: '2026-04-17T13:47:00'
+  source: Supply Chain 24/7
+  title: Refund Process for IEEPA Tariffs Goes Live April 20
+- category: supply-chain
+  description: UPS is embedding RFID tags into shipping labels and installing sensors
+    across its network to improve tracking accuracy.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-rfid-tracking-rollout-us-network
+  pub_date: '2026-04-17T13:28:00'
+  source: Supply Chain 24/7
+  title: UPS Rolls Out RFID Package Tracking Across U.S. Operations
 - category: circular
   description: The Washed Aggregates Trade Association is calling on the government
     to protect the resources and waste sector from escalating fuel costs. The post
@@ -91,4 +172,4 @@ articles:
   pub_date: '2026-04-15T10:03:21'
   source: Circular Online
   title: Cow called Beau Vine approved for waste carrier license
-last_updated: '2026-04-23T07:57:08.025507'
+last_updated: '2026-04-24T08:04:40.109002'
