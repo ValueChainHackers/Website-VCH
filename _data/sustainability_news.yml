@@ -1,5 +1,65 @@
 articles:
 - category: supply-chain
+  description: Walmart is testing a new model that stores marketplace inventory inside
+    stores to speed up delivery and improve fulfillment from its existing footprint.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-tests-in-store-marketplace-inventory-delivery
+  pub_date: '2026-04-24T15:06:00'
+  source: Supply Chain 24/7
+  title: Walmart Chooses Dallas to Test Storing Marketplace Inventory
+- category: supply-chain
+  description: Logistics ranks fourth in AI workforce readiness gaps, with AI tools
+    being introduced faster than workers can be trained to use them effectively.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-training-costs-logistics-warehousing-2026
+  pub_date: '2026-04-24T14:36:00'
+  source: Supply Chain 24/7
+  title: The Hidden Cost of AI in Warehouses Is Training Workers
+- category: supply-chain
+  description: Costs across shipping, freight, and tariffs are rising simultaneously,
+    making pricing harder to manage and predict.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/price-increases-across-supply-chain-tariffs-shipping-costs
+  pub_date: '2026-04-24T13:54:00'
+  source: Supply Chain 24/7
+  title: Costs Have Shifted Across the Supply Chain, And They’re Not Going Back
+- category: supply-chain
+  description: A new Netstock report finds that most SMBs are now raising prices and
+    passing tariff costs directly to customers as pressure continues to build.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/82-percent-smbs-passing-tariff-costs-to-customers-netstock-report
+  pub_date: '2026-04-24T13:40:00'
+  source: Supply Chain 24/7
+  title: 82% of SMBs Are Passing Tariff Costs to Customers, Report Finds
+- category: circular
+  description: Digital Waste Tracking legislation, which will requires operators to
+    a create a real-time audit trial for the waste they handle, is being laid in parliament.
+    The post Digital Waste Tracking legislatio...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/digital-waste-tracking-legislation-laid-in-parliament/
+  pub_date: '2026-04-24T11:00:36'
+  source: Circular Online
+  title: Digital Waste Tracking legislation laid in parliament
+- category: circular
+  description: A flat rate 20p deposit will apply to all drink containers in scope
+    of the UK's Deposit Return Scheme when it launches next year. The post Flat 20p
+    deposit rate confirmed for UK DRS appeared first on ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/flat-20p-rate-confirmed-for-uk-drs/
+  pub_date: '2026-04-24T08:51:39'
+  source: Circular Online
+  title: Flat 20p deposit rate confirmed for UK DRS
+- category: supply-chain
+  description: Learn how Voice of the Customer (VoC) drives TMS innovation by improving
+    visibility, reducing transportation costs, and enabling smarter, data-driven logistics
+    decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/what-is-voice-of-the-customer-in-tms-how-it-improves-visibility-cost-control-and-logistics-performance
+  pub_date: '2026-04-23T17:03:00'
+  source: Supply Chain 24/7
+  title: What Is Voice of the Customer in TMS? How It Improves Visibility, Cost Control,
+    and Logistics Performance
+- category: supply-chain
   description: Warehouse teams aren't short on data, they're losing time chasing updates
     instead of acting on it, according to a recent Trimble Data-First Resilience Roundtable.
   icon: fa-box
@@ -9,13 +69,13 @@ articles:
   title: The Real Bottleneck Inside Warehouse and Logistics Operations
 - category: circular
   description: Company ordered to clear illegal waste site and pay 20,000 in fines
-    The post Company ordered to clear illegal waste site and pay 20,000 in fines appeared
-    first on Circular Online.
+    The post Company ordered to clear illegal waste site and pay GBP20,000 in fines
+    appeared first on Circular Online.
   icon: fa-recycle
   link: https://www.circularonline.co.uk/news/company-ordered-to-clear-illegal-waste-site-and-pay-20000-in-fines/
   pub_date: '2026-04-22T09:53:19'
   source: Circular Online
-  title: Company ordered to clear illegal waste site and pay 20,000 in fines
+  title: Company ordered to clear illegal waste site and pay £20,000 in fines
 - category: circular
   description: The UK Packaging Pact officially launches with almost 100 organisations
     announced as signatories to WRAP's ten-year programme. The post WRAP launches
@@ -85,22 +145,6 @@ articles:
   pub_date: '2026-04-20T14:01:00'
   source: Supply Chain 24/7
   title: New York Loses $73 Million in Federal Funds After CDL Audit
-- category: supply-chain
-  description: Logistics teams are moving beyond basic tracking to achieve more reliable,
-    end-to-end visibility across their operations through RFID, AI, and automation.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/rfid-ai-logistics-visibility-final-mile-delivery
-  pub_date: '2026-04-20T13:46:00'
-  source: Supply Chain 24/7
-  title: How RFID and AI Are Improving Delivery Reliability Across Logistics
-- category: supply-chain
-  description: Most companies can track Tier 1 suppliers, but visibility still drops
-    off sharply beyond that, an EcoVadis report finds.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-visibility-gaps-tier-2-suppliers
-  pub_date: '2026-04-20T12:55:00'
-  source: Supply Chain 24/7
-  title: Supply Chain Visibility Still Fades Quickly Beyond Tier 1 Suppliers
 - category: circular
   description: The new tool, aimed at organisations and individuals, helps identify
     how businesses can reuse materials, rather than discard them. The post King's
@@ -129,47 +173,4 @@ articles:
   source: Circular Online
   title: New report finds including incineration in the EU ETS will ‘not drive more
     landfilling’
-- category: supply-chain
-  description: The Savannah Bananas are building a fast-moving, multi-channel supply
-    chain to support a growing national tour, balancing inventory complexity with
-    a fan-first approach.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/savannah-bananas-supply-chain-merchandise-operations
-  pub_date: '2026-04-17T16:31:00'
-  source: Supply Chain 24/7
-  title: How the Savannah Bananas Built a Traveling Retail Supply Chain
-- category: supply-chain
-  description: Importers can begin filing claims April 20 to recover tariffs ruled
-    unlawful under IEEPA as CBP launches a new electronic process.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tariff-refund-process-goes-live-april-20-for-ieepa-tariffs
-  pub_date: '2026-04-17T13:47:00'
-  source: Supply Chain 24/7
-  title: Refund Process for IEEPA Tariffs Goes Live April 20
-- category: supply-chain
-  description: UPS is embedding RFID tags into shipping labels and installing sensors
-    across its network to improve tracking accuracy.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-rfid-tracking-rollout-us-network
-  pub_date: '2026-04-17T13:28:00'
-  source: Supply Chain 24/7
-  title: UPS Rolls Out RFID Package Tracking Across U.S. Operations
-- category: circular
-  description: The Washed Aggregates Trade Association is calling on the government
-    to protect the resources and waste sector from escalating fuel costs. The post
-    WATA calls on government to protect sector from fuel...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wata-calls-on-government-to-protect-sector-from-fuel-cost-spikes/
-  pub_date: '2026-04-16T07:39:39'
-  source: Circular Online
-  title: WATA calls on government to protect sector from fuel cost spikes
-- category: circular
-  description: A cow has been legally approved to dispose of household waste, which
-    campaigners say shows how easy it is for criminals to gain a waste carrier license.
-    The post Cow called Beau Vine approved for wast...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/cow-called-beau-vine-approved-for-waste-carrier-license/
-  pub_date: '2026-04-15T10:03:21'
-  source: Circular Online
-  title: Cow called Beau Vine approved for waste carrier license
-last_updated: '2026-04-24T08:04:40.109002'
+last_updated: '2026-04-25T07:17:45.129073'
