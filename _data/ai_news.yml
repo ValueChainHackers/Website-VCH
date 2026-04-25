@@ -1,4 +1,31 @@
 articles:
+- category: ai-research
+  description: Black screen with illustrations including a laptop with document and
+    email icons streaming out, a smiling person holding a phone and looking at a checklist,
+    and a user activating Gemini Live
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/
+  pub_date: '2026-04-24T19:00:00'
+  source: Google AI Blog
+  title: 8 Gemini tips for organizing your space (and life)
+- category: ai-research
+  description: New dataset of 30,000-plus competition math problems from 47 countries
+    gives AI researchers a harder test - and students worldwide a better training
+    ground.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424
+  pub_date: '2026-04-24T17:00:00'
+  source: MIT AI News
+  title: MIT scientists build the world’s largest collection of Olympiad-level math
+    problems, and open it to everyone
+- category: machine-learning
+  description: Learn how people are using OpenClaw to automate workflows, build custom
+    agents, boost productivity, and turn AI into practical action.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know
+  pub_date: '2026-04-24T12:00:23'
+  source: KDnuggets
+  title: 7 Practical OpenClaw Use Cases You Should Know
 - category: machine-learning
   description: These 10 projects will teach you agent engineering faster than any
     tutorial.
@@ -112,14 +139,6 @@ articles:
   pub_date: '2026-04-20T14:00:24'
   source: KDnuggets
   title: Merging Language Models with Unsloth Studio
-- category: machine-learning
-  description: Explore five beginner-friendly platforms that let you host Python apps
-    for free, compare their limits, and pick the right one.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-ways-to-host-a-python-application
-  pub_date: '2026-04-20T12:00:22'
-  source: KDnuggets
-  title: 5 Free Ways to Host a Python Application
 - category: ai-research
   description: Illustration showing a person with a Pixel phone in a beach town farmers'
     market by the water
@@ -191,15 +210,6 @@ articles:
   source: MIT AI News
   title: 'Q&A: MIT SHASS and the future of education in the age of AI'
 - category: ai-research
-  description: Woman working with a large tool. On the left are the Google and MIT
-    FutureTech logos, "AI for the Economy Forum", and "Innovation and Adaption in
-    the New Era"
-  icon: fa-google
-  link: https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/
-  pub_date: '2026-04-14T09:00:00'
-  source: Google AI Blog
-  title: Bringing people together at AI for the Economy Forum
-- category: ai-research
   description: As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is
     advancing dialogue, teaching, and research into the social and ethical dimensions
     of new computing technologies.
@@ -233,13 +243,4 @@ articles:
   pub_date: '2026-04-07T04:00:00'
   source: MIT AI News
   title: Helping data centers deliver higher performance with less hardware
-- category: ai-research
-  description: Dean Price, assistant professor in the Department of Nuclear Science
-    and Engineering, sees a bright future for nuclear power, and believes AI can help
-    us realize that vision.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403
-  pub_date: '2026-04-03T20:55:00'
-  source: MIT AI News
-  title: Working to advance the nuclear renaissance
-last_updated: '2026-04-24T08:04:41.011386'
+last_updated: '2026-04-25T07:17:45.915968'
