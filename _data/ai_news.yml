@@ -1,5 +1,13 @@
 articles:
 - category: ai-research
+  description: The "EnergAIzer" method generates reliable results in seconds, enabling
+    data center operators to efficiently allocate resources and reduce wasted energy.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427
+  pub_date: '2026-04-27T04:00:00'
+  source: MIT AI News
+  title: A faster way to estimate AI power consumption
+- category: ai-research
   description: Black screen with illustrations including a laptop with document and
     email icons streaming out, a smiling person holding a phone and looking at a checklist,
     and a user activating Gemini Live
@@ -235,12 +243,4 @@ articles:
   source: MIT AI News
   title: Sixteen new START.nano companies are developing hard-tech solutions with
     the support of MIT.nano
-- category: ai-research
-  description: Researchers developed a system that intelligently balances workloads
-    to improve the efficiency of flash storage hardware in a data center.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407
-  pub_date: '2026-04-07T04:00:00'
-  source: MIT AI News
-  title: Helping data centers deliver higher performance with less hardware
-last_updated: '2026-04-26T07:40:21.405190'
+last_updated: '2026-04-27T08:26:37.327753'
