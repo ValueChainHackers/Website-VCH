@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: The government should urgently restrict non-essential uses of 'forever
+    chemicals' in products like frying pans and school uniforms, MPs have urged. The
+    post Ban 'forever chemicals' in non-essential pr...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ban-forever-chemicals-in-non-essential-products-mps-urge/
+  pub_date: '2026-04-27T06:48:52'
+  source: Circular Online
+  title: Ban ‘forever chemicals’ in non-essential products, MPs urge
 - category: supply-chain
   description: Walmart is testing a new model that stores marketplace inventory inside
     stores to speed up delivery and improve fulfillment from its existing footprint.
@@ -163,14 +172,4 @@ articles:
   pub_date: '2026-04-20T10:17:39'
   source: Circular Online
   title: £22.1 trillion lost to inefficient resource use annually, report finds
-- category: circular
-  description: Including waste incineration in the EU Emissions Trading System (EU
-    ETS) is 'unlikely' to lead to an increase in landfilling, according to a new report
-    from Zero Waste Europe. The post New report find...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-report-finds-including-incineration-in-the-eu-ets-will-not-drive-more-landfilling/
-  pub_date: '2026-04-20T08:02:17'
-  source: Circular Online
-  title: New report finds including incineration in the EU ETS will ‘not drive more
-    landfilling’
-last_updated: '2026-04-26T07:40:17.550831'
+last_updated: '2026-04-27T08:26:36.353612'
