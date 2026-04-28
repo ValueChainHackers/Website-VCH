@@ -1,5 +1,56 @@
 articles:
 - category: circular
+  description: Birmingham City Council and Unite the Union have agreed a deal to end
+    the year-long strike action by refuse workers in the city. The post Deal agreed
+    to end Birmingham bin strikes appeared first on Ci...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/deal-agreed-to-end-birmingham-bin-strikes/
+  pub_date: '2026-04-27T14:52:00'
+  source: Circular Online
+  title: Deal agreed to end Birmingham bin strikes
+- category: supply-chain
+  description: New data from Logistics Management shows the gender pay gap in supply
+    chain is still there, and it gets wider when you look at median pay.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/2026-salary-survey-the-gender-pay-gap-in-logistics-hasnt-closed
+  pub_date: '2026-04-27T13:28:00'
+  source: Supply Chain 24/7
+  title: '2026 Salary Survey: The Gender Pay Gap in Logistics Hasn’t Closed'
+- category: supply-chain
+  description: Sustainability may be slipping as a stated priority, but companies
+    are still driving progress by building it into everyday operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/sustainability-not-top-priority-supply-chain-operations-shift
+  pub_date: '2026-04-27T13:25:00'
+  source: Supply Chain 24/7
+  title: Sustainability Isn’t a Top Priority Anymore, But It’s Still Happening
+- category: supply-chain
+  description: Rising fuel costs due to the closure of the Strait of Hormuz are forcing
+    U.S. companies to rethink how they ship, source, and manage inventory.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/strait-of-hormuz-supply-chain-impact-fuel-costs-2026
+  pub_date: '2026-04-27T13:13:00'
+  source: Supply Chain 24/7
+  title: The Real Cost of the Strait of Hormuz Goes Beyond Oil Prices
+- category: supply-chain
+  description: A new survey from Dykema finds tariff costs are putting pressure on
+    auto suppliers, driving contract disputes, sourcing shifts, and growing financial
+    risk.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/auto-suppliers-tariffs-contract-pressure-2026
+  pub_date: '2026-04-27T13:08:00'
+  source: Supply Chain 24/7
+  title: Tariff Costs Are Forcing Tough Choices for Auto Suppliers
+- category: circular
+  description: A London waste crime gang has been jailed for conspiracy to illegally
+    dump controlled waste across six sites in the capital. The post London waste crime
+    gang jailed after illegal dumping investigation...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/london-waste-crime-gang-jailed-after-illegal-dumping-investigation/
+  pub_date: '2026-04-27T10:31:03'
+  source: Circular Online
+  title: London waste crime gang jailed after illegal dumping investigation
+- category: circular
   description: The government should urgently restrict non-essential uses of 'forever
     chemicals' in products like frying pans and school uniforms, MPs have urged. The
     post Ban 'forever chemicals' in non-essential pr...
@@ -94,14 +145,6 @@ articles:
   pub_date: '2026-04-22T09:00:50'
   source: Circular Online
   title: WRAP launches the UK Packaging Pact
-- category: supply-chain
-  description: A new report from Colliers shows cargo shifting toward East and Gulf
-    Coast ports as West Coast volumes remain uneven.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-port-shift-east-gulf-coast-growth-2025
-  pub_date: '2026-04-22T01:05:00'
-  source: Supply Chain 24/7
-  title: Why East and Gulf Coast Ports Are Gaining Ground on the West Coast
 - category: circular
   description: The government has created a 'perverse incentive' for demolishing buildings
     over retrofit projects, Don't Waste Buildings says. The post VAT system incentivises
@@ -130,46 +173,4 @@ articles:
   source: Circular Online
   title: Liquidated waste management company fined £1 after man loses both legs in
     excavator crush
-- category: supply-chain
-  description: Tariff pressure is rising, and these four KPIs can help supply chain
-    leaders stay ahead of costs and reduce risk.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/4-kpis-supply-chain-leaders-should-prioritize-as-tariff-pressures-persist
-  pub_date: '2026-04-21T05:14:00'
-  source: Supply Chain 24/7
-  title: 4 KPIs Supply Chain Leaders Should Prioritize as Tariff Pressures Persist
-- category: supply-chain
-  description: Brady Corporation is buying Honeywell's Productivity Solutions business,
-    adding scanning and mobile tech used in warehouses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/honeywell-sells-warehouse-tech-business-to-brady
-  pub_date: '2026-04-20T14:23:00'
-  source: Supply Chain 24/7
-  title: Honeywell Sells Warehouse Tech Unit to Brady for $1.4 Billion
-- category: supply-chain
-  description: A federal audit found widespread CDL violations in New York, leading
-    regulators to withhold more than $73 million in funding.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fmcsa-withholds-73m-new-york-cdl-violations
-  pub_date: '2026-04-20T14:01:00'
-  source: Supply Chain 24/7
-  title: New York Loses $73 Million in Federal Funds After CDL Audit
-- category: circular
-  description: The new tool, aimed at organisations and individuals, helps identify
-    how businesses can reuse materials, rather than discard them. The post King's
-    College London launches new circular economy tool app...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/kings-college-london-launches-new-circular-economy-tool/
-  pub_date: '2026-04-20T11:12:26'
-  source: Circular Online
-  title: King’s College London launches new circular economy tool
-- category: circular
-  description: Inefficient resource use is responsible for GBP22.1 trillion in losses,
-    a third of global GDP, each year, a new report has found. The post GBP22.1 trillion
-    lost to inefficient resource use annually, r...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/22-1-trillion-lost-to-inefficient-resource-use-annually-report-finds/
-  pub_date: '2026-04-20T10:17:39'
-  source: Circular Online
-  title: £22.1 trillion lost to inefficient resource use annually, report finds
-last_updated: '2026-04-27T08:26:36.353612'
+last_updated: '2026-04-28T08:25:28.074036'

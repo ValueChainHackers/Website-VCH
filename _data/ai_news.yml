@@ -1,5 +1,20 @@
 articles:
 - category: ai-research
+  description: A web next to a laptop
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/
+  pub_date: '2026-04-27T13:00:00'
+  source: Google AI Blog
+  title: Join the new AI Agents Vibe Coding Course from Google and Kaggle
+- category: machine-learning
+  description: Learn the top Python frameworks for LLM apps covering fine-tuning,
+    model loading, serving, RAG pipelines, multi-agent systems, and evaluation.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-python-libraries-for-building-llm-applications
+  pub_date: '2026-04-27T12:00:00'
+  source: KDnuggets
+  title: 10 Python Libraries for Building LLM Applications
+- category: ai-research
   description: The "EnergAIzer" method generates reliable results in seconds, enabling
     data center operators to efficiently allocate resources and reduce wasted energy.
   icon: fa-graduation-cap
@@ -139,14 +154,6 @@ articles:
   pub_date: '2026-04-20T16:00:33'
   source: KDnuggets
   title: How to Crawl an Entire Documentation Site with Olostep
-- category: machine-learning
-  description: Merge LLMs easily with Unsloth Studio's no-code GUI and combine models
-    without retraining.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/merging-language-models-with-unsloth-studio
-  pub_date: '2026-04-20T14:00:24'
-  source: KDnuggets
-  title: Merging Language Models with Unsloth Studio
 - category: ai-research
   description: Illustration showing a person with a Pixel phone in a beach town farmers'
     market by the water
@@ -194,13 +201,6 @@ articles:
   source: Google AI Blog
   title: 'Gemini 3.1 Flash TTS: the next generation of expressive AI speech'
 - category: ai-research
-  description: Video showing Skills in Chrome
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/
-  pub_date: '2026-04-14T17:00:00'
-  source: Google AI Blog
-  title: Turn your best AI prompts into one-click tools in Chrome
-- category: ai-research
   description: Researchers are developing hardware and algorithms to improve collaboration
     between divers and autonomous underwater vehicles engaged in maritime missions.
   icon: fa-graduation-cap
@@ -243,4 +243,4 @@ articles:
   source: MIT AI News
   title: Sixteen new START.nano companies are developing hard-tech solutions with
     the support of MIT.nano
-last_updated: '2026-04-27T08:26:37.327753'
+last_updated: '2026-04-28T08:25:30.442629'
