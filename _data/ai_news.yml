@@ -1,5 +1,39 @@
 articles:
 - category: ai-research
+  description: A new method could bring more accurate and efficient AI models to high-stakes
+    applications like health care and finance, even in under-resourced settings.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429
+  pub_date: '2026-04-29T04:00:00'
+  source: MIT AI News
+  title: Enabling privacy-preserving AI training on everyday devices
+- category: ai-research
+  description: The Google Translate logo sits in the middle of colorful illustrated
+    scenes, including people translating live conversations and a birthday cake topped
+    by candles with the numeral 20
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/
+  pub_date: '2026-04-28T16:00:00'
+  source: Google AI Blog
+  title: 'Celebrating 20 years of Google Translate: Fun facts, tips and new features
+    to try'
+- category: machine-learning
+  description: Learn how to eranscribe audio locally using FasterWhisper and Python,
+    with an emphasis on privacyfirst and CPU/GPUready.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/local-whisper-audio-transcription
+  pub_date: '2026-04-28T14:00:53'
+  source: KDnuggets
+  title: Local Whisper Audio Transcription
+- category: machine-learning
+  description: Learn why most "winning" experiments fail in production, and how top
+    companies avoid this.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/a-b-testing-pitfalls-what-works-and-what-doesnt-with-real-data
+  pub_date: '2026-04-28T12:00:50'
+  source: KDnuggets
+  title: 'A/B Testing Pitfalls: What Works and What Doesn’t with Real Data'
+- category: ai-research
   description: A web next to a laptop
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/
@@ -138,22 +172,6 @@ articles:
   pub_date: '2026-04-21T14:00:40'
   source: KDnuggets
   title: Advanced Pandas Patterns Most Data Scientists Don’t Use
-- category: machine-learning
-  description: By applying a few smart Docker practices, you can build faster images,
-    and keep them clean, compact, and production-ready.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-docker-best-practices-for-faster-builds-and-smaller-images
-  pub_date: '2026-04-21T12:00:19'
-  source: KDnuggets
-  title: 5 Docker Best Practices for Faster Builds and Smaller Images
-- category: machine-learning
-  description: Automatically collect documentation pages, clean and structure the
-    content, and turn website data into AI-ready output using a few lines of code.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-crawl-an-entire-documentation-site-with-olostep
-  pub_date: '2026-04-20T16:00:33'
-  source: KDnuggets
-  title: How to Crawl an Entire Documentation Site with Olostep
 - category: ai-research
   description: Illustration showing a person with a Pixel phone in a beach town farmers'
     market by the water
@@ -194,13 +212,6 @@ articles:
   source: Google AI Blog
   title: New ways to create personalized images in the Gemini app
 - category: ai-research
-  description: Gemini logo next to the text "3.1 Flash TTS", all over colored dots
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/
-  pub_date: '2026-04-15T15:00:00'
-  source: Google AI Blog
-  title: 'Gemini 3.1 Flash TTS: the next generation of expressive AI speech'
-- category: ai-research
   description: Researchers are developing hardware and algorithms to improve collaboration
     between divers and autonomous underwater vehicles engaged in maritime missions.
   icon: fa-graduation-cap
@@ -234,13 +245,4 @@ articles:
   pub_date: '2026-04-09T13:00:00'
   source: MIT AI News
   title: New technique makes AI models leaner and faster while they’re still learning
-- category: ai-research
-  description: Startup accelerator program grows to over 30 companies, almost half
-    of them with MIT pedigrees.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407
-  pub_date: '2026-04-07T20:40:00'
-  source: MIT AI News
-  title: Sixteen new START.nano companies are developing hard-tech solutions with
-    the support of MIT.nano
-last_updated: '2026-04-28T08:25:30.442629'
+last_updated: '2026-04-29T08:20:14.487953'
