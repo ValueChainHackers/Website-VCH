@@ -1,5 +1,58 @@
 articles:
 - category: circular
+  description: '''World''s first'' pilot facility converting waste plastic to Sustainable
+    Aviation Fuel (SAF) opens in Kent. The post ''World''s first'' facility that converts
+    waste plastic to aviation fuel opens appeared ...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/worlds-first-facility-that-converts-waste-plastic-to-aviation-fuel-opens/
+  pub_date: '2026-04-29T06:58:59'
+  source: Circular Online
+  title: ‘World’s first’ facility that converts waste plastic to aviation fuel opens
+- category: supply-chain
+  description: Los Angeles remained the No. 1 U.S. port for containerized imports
+    in 2025, while Baltimore and New York, NY posted some of the biggest gains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-30-us-ports-import-volume-2025
+  pub_date: '2026-04-28T16:31:00'
+  source: Supply Chain 24/7
+  title: Top 30 U.S. Ports Ranked By Container Imports In 2025
+- category: supply-chain
+  description: New data from o9 Solutions shows Gen Z and Millennials are reporting
+    the highest levels of product shortages and delays.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tariffs-volatility-slow-global-expansion-plans
+  pub_date: '2026-04-28T12:18:00'
+  source: Supply Chain 24/7
+  title: Younger Shoppers Drive Summer Demand, And More Shortages
+- category: supply-chain
+  description: A new report from Avalara shows companies are pulling back on global
+    expansion as trade rules change faster than they can plan for.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tariffs-slow-global-expansion-avalara-report
+  pub_date: '2026-04-28T12:15:00'
+  source: Supply Chain 24/7
+  title: Why More Companies Are Hitting Pause on Global Expansion
+- category: supply-chain
+  description: Learn how Express Logistics used intelligent data and automation to
+    reduce LTL quote times from weeks to 24 hours, improve pricing accuracy, and scale
+    faster with real-time insights.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-intelligent-data-transforms-ltl-pricing-cut-quote-time-to-24-hours-and-boost-accuracy
+  pub_date: '2026-04-27T19:15:00'
+  source: Supply Chain 24/7
+  title: 'How Intelligent Data Transforms LTL Pricing: Cut Quote Time to 24 Hours
+    and Boost Accuracy'
+- category: supply-chain
+  description: Discover the top benefits of vertical lift modules (VLMs), including
+    increased storage density, faster order picking, reduced labor costs, and improved
+    accuracy. Learn how VLM automation transforms wa...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/what-are-the-benefits-of-vertical-lift-modules-6-proven-ways-vlms-improve-warehouse-efficiency
+  pub_date: '2026-04-27T18:14:00'
+  source: Supply Chain 24/7
+  title: What Are the Benefits of Vertical Lift Modules? 6 Proven Ways VLMs Improve
+    Warehouse Efficiency
+- category: circular
   description: Birmingham City Council and Unite the Union have agreed a deal to end
     the year-long strike action by refuse workers in the city. The post Deal agreed
     to end Birmingham bin strikes appeared first on Ci...
@@ -9,6 +62,16 @@ articles:
   source: Circular Online
   title: Deal agreed to end Birmingham bin strikes
 - category: supply-chain
+  description: Learn what vertical lift modules (VLMs) are, how they work, and where
+    they're used. Discover key benefits, applications, and how VLMs improve storage
+    efficiency and productivity.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/what-are-vertical-lift-modules-benefits-uses-and-industry-applications-explained
+  pub_date: '2026-04-27T13:43:00'
+  source: Supply Chain 24/7
+  title: What Are Vertical Lift Modules? Benefits, Uses, and Industry Applications
+    Explained
+- category: supply-chain
   description: New data from Logistics Management shows the gender pay gap in supply
     chain is still there, and it gets wider when you look at median pay.
   icon: fa-box
@@ -16,6 +79,16 @@ articles:
   pub_date: '2026-04-27T13:28:00'
   source: Supply Chain 24/7
   title: '2026 Salary Survey: The Gender Pay Gap in Logistics Hasn’t Closed'
+- category: supply-chain
+  description: Learn how automation transforms brownfield warehouses using scalable
+    solutions, improving efficiency without costly new construction. Discover strategies,
+    benefits, and real-world applications.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/brownfield-warehouse-automation-how-to-modernize-existing-facilities-without-rebuilding
+  pub_date: '2026-04-27T13:25:00'
+  source: Supply Chain 24/7
+  title: 'Brownfield Warehouse Automation: How to Modernize Existing Facilities Without
+    Rebuilding'
 - category: supply-chain
   description: Sustainability may be slipping as a stated priority, but companies
     are still driving progress by building it into everyday operations.
@@ -32,15 +105,6 @@ articles:
   pub_date: '2026-04-27T13:13:00'
   source: Supply Chain 24/7
   title: The Real Cost of the Strait of Hormuz Goes Beyond Oil Prices
-- category: supply-chain
-  description: A new survey from Dykema finds tariff costs are putting pressure on
-    auto suppliers, driving contract disputes, sourcing shifts, and growing financial
-    risk.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/auto-suppliers-tariffs-contract-pressure-2026
-  pub_date: '2026-04-27T13:08:00'
-  source: Supply Chain 24/7
-  title: Tariff Costs Are Forcing Tough Choices for Auto Suppliers
 - category: circular
   description: A London waste crime gang has been jailed for conspiracy to illegally
     dump controlled waste across six sites in the capital. The post London waste crime
@@ -59,38 +123,6 @@ articles:
   pub_date: '2026-04-27T06:48:52'
   source: Circular Online
   title: Ban ‘forever chemicals’ in non-essential products, MPs urge
-- category: supply-chain
-  description: Walmart is testing a new model that stores marketplace inventory inside
-    stores to speed up delivery and improve fulfillment from its existing footprint.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-tests-in-store-marketplace-inventory-delivery
-  pub_date: '2026-04-24T15:06:00'
-  source: Supply Chain 24/7
-  title: Walmart Chooses Dallas to Test Storing Marketplace Inventory
-- category: supply-chain
-  description: Logistics ranks fourth in AI workforce readiness gaps, with AI tools
-    being introduced faster than workers can be trained to use them effectively.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-training-costs-logistics-warehousing-2026
-  pub_date: '2026-04-24T14:36:00'
-  source: Supply Chain 24/7
-  title: The Hidden Cost of AI in Warehouses Is Training Workers
-- category: supply-chain
-  description: Costs across shipping, freight, and tariffs are rising simultaneously,
-    making pricing harder to manage and predict.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/price-increases-across-supply-chain-tariffs-shipping-costs
-  pub_date: '2026-04-24T13:54:00'
-  source: Supply Chain 24/7
-  title: Costs Have Shifted Across the Supply Chain, And They’re Not Going Back
-- category: supply-chain
-  description: A new Netstock report finds that most SMBs are now raising prices and
-    passing tariff costs directly to customers as pressure continues to build.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/82-percent-smbs-passing-tariff-costs-to-customers-netstock-report
-  pub_date: '2026-04-24T13:40:00'
-  source: Supply Chain 24/7
-  title: 82% of SMBs Are Passing Tariff Costs to Customers, Report Finds
 - category: circular
   description: Digital Waste Tracking legislation, which will requires operators to
     a create a real-time audit trial for the waste they handle, is being laid in parliament.
@@ -109,24 +141,6 @@ articles:
   pub_date: '2026-04-24T08:51:39'
   source: Circular Online
   title: Flat 20p deposit rate confirmed for UK DRS
-- category: supply-chain
-  description: Learn how Voice of the Customer (VoC) drives TMS innovation by improving
-    visibility, reducing transportation costs, and enabling smarter, data-driven logistics
-    decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/what-is-voice-of-the-customer-in-tms-how-it-improves-visibility-cost-control-and-logistics-performance
-  pub_date: '2026-04-23T17:03:00'
-  source: Supply Chain 24/7
-  title: What Is Voice of the Customer in TMS? How It Improves Visibility, Cost Control,
-    and Logistics Performance
-- category: supply-chain
-  description: Warehouse teams aren't short on data, they're losing time chasing updates
-    instead of acting on it, according to a recent Trimble Data-First Resilience Roundtable.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-warehouse-teams-spend-more-time-chasing-than-moving-freight
-  pub_date: '2026-04-23T02:24:00'
-  source: Supply Chain 24/7
-  title: The Real Bottleneck Inside Warehouse and Logistics Operations
 - category: circular
   description: Company ordered to clear illegal waste site and pay 20,000 in fines
     The post Company ordered to clear illegal waste site and pay GBP20,000 in fines
@@ -163,14 +177,4 @@ articles:
   pub_date: '2026-04-21T09:33:50'
   source: Circular Online
   title: Producers must adopt new barcodes as part of the UK’s DRS
-- category: circular
-  description: A liquidated waste management company has been fined GBP1 after a 24-year-old
-    man lost both his legs when he was crushed by a 15-tonne excavator. The post Liquidated
-    waste management company fined GBP...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/liquidated-waste-management-company-fined-1-after-man-loses-both-legs-in-excavator-crush/
-  pub_date: '2026-04-21T07:00:00'
-  source: Circular Online
-  title: Liquidated waste management company fined £1 after man loses both legs in
-    excavator crush
-last_updated: '2026-04-28T08:25:28.074036'
+last_updated: '2026-04-29T08:20:12.985298'
