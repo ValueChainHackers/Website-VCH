@@ -1,5 +1,55 @@
 articles:
 - category: circular
+  description: A joint letter signed by 19 organisations, including CIWM, Green Alliance,
+    and SUEZ, is calling on the Prime Minister to release the government's Circular
+    Economy Growth Plan. The post Joint letter ca...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/joint-letter-calls-on-pm-to-release-circular-economy-growth-plan/
+  pub_date: '2026-04-30T07:30:00'
+  source: Circular Online
+  title: Joint letter calls on PM to release Circular Economy Growth Plan
+- category: circular
+  description: 'News updates written by CIWM''s commercial partners. Dennis Eagle
+    Dennis Eagle''s five top tips to reduce your food waste CRJ Services Driving Sustainability
+    Forward: CRJ Services Invests in Solar Energ...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-april-2/
+  pub_date: '2026-04-30T07:30:00'
+  source: Circular Online
+  title: News in brief | CIWM Commercial Partner Updates April
+- category: supply-chain
+  description: Target is introducing a new type of facility to hold inventory earlier
+    and better time when it moves through its network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/target-houston-receive-center-warehouse-congestion
+  pub_date: '2026-04-29T14:40:00'
+  source: Supply Chain 24/7
+  title: Target Builds Receive Center in Houston to Reduce Warehouse Congestion
+- category: supply-chain
+  description: A new Gartner survey finds that outdated systems and talent shortages
+    are the biggest barriers to scaling AI in supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-supply-chain-integration-talent-gaps-gartner-survey
+  pub_date: '2026-04-29T14:33:00'
+  source: Supply Chain 24/7
+  title: Half Of Supply Chain Leaders Lack Talent To Run AI Tools
+- category: supply-chain
+  description: A new Skill Dynamics report shows that companies are investing in AI,
+    but skills gaps are making it harder to keep up with rising supply chain pressure.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/skills-gap-grows-as-companies-push-ahead-with-ai-and-automation
+  pub_date: '2026-04-29T14:30:00'
+  source: Supply Chain 24/7
+  title: Skills Gap Grows as Companies Push Ahead With AI and Automation
+- category: supply-chain
+  description: Most warehouse delays don't come from big problems; they come from
+    small ones that keep repeating.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/five-hidden-time-thieves-lurking-in-the-warehouse-logistics
+  pub_date: '2026-04-29T14:20:00'
+  source: Supply Chain 24/7
+  title: Five Hidden Time Thieves Lurking in the Warehouse and Logistics
+- category: circular
   description: '''World''s first'' pilot facility converting waste plastic to Sustainable
     Aviation Fuel (SAF) opens in Kent. The post ''World''s first'' facility that converts
     waste plastic to aviation fuel opens appeared ...'
@@ -71,40 +121,6 @@ articles:
   source: Supply Chain 24/7
   title: What Are Vertical Lift Modules? Benefits, Uses, and Industry Applications
     Explained
-- category: supply-chain
-  description: New data from Logistics Management shows the gender pay gap in supply
-    chain is still there, and it gets wider when you look at median pay.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/2026-salary-survey-the-gender-pay-gap-in-logistics-hasnt-closed
-  pub_date: '2026-04-27T13:28:00'
-  source: Supply Chain 24/7
-  title: '2026 Salary Survey: The Gender Pay Gap in Logistics Hasn’t Closed'
-- category: supply-chain
-  description: Learn how automation transforms brownfield warehouses using scalable
-    solutions, improving efficiency without costly new construction. Discover strategies,
-    benefits, and real-world applications.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/brownfield-warehouse-automation-how-to-modernize-existing-facilities-without-rebuilding
-  pub_date: '2026-04-27T13:25:00'
-  source: Supply Chain 24/7
-  title: 'Brownfield Warehouse Automation: How to Modernize Existing Facilities Without
-    Rebuilding'
-- category: supply-chain
-  description: Sustainability may be slipping as a stated priority, but companies
-    are still driving progress by building it into everyday operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/sustainability-not-top-priority-supply-chain-operations-shift
-  pub_date: '2026-04-27T13:25:00'
-  source: Supply Chain 24/7
-  title: Sustainability Isn’t a Top Priority Anymore, But It’s Still Happening
-- category: supply-chain
-  description: Rising fuel costs due to the closure of the Strait of Hormuz are forcing
-    U.S. companies to rethink how they ship, source, and manage inventory.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/strait-of-hormuz-supply-chain-impact-fuel-costs-2026
-  pub_date: '2026-04-27T13:13:00'
-  source: Supply Chain 24/7
-  title: The Real Cost of the Strait of Hormuz Goes Beyond Oil Prices
 - category: circular
   description: A London waste crime gang has been jailed for conspiracy to illegally
     dump controlled waste across six sites in the capital. The post London waste crime
@@ -159,22 +175,4 @@ articles:
   pub_date: '2026-04-22T09:00:50'
   source: Circular Online
   title: WRAP launches the UK Packaging Pact
-- category: circular
-  description: The government has created a 'perverse incentive' for demolishing buildings
-    over retrofit projects, Don't Waste Buildings says. The post VAT system incentivises
-    building demolition over reuse, report ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/vat-system-incentivises-building-demolition-over-reuse-report-says/
-  pub_date: '2026-04-21T09:34:22'
-  source: Circular Online
-  title: VAT system incentivises building demolition over reuse, report says
-- category: circular
-  description: In-scope drinks containers must adopt new barcodes as part of the UK's
-    Deposit Return Scheme, Exchange for Change has announced. The post Producers must
-    adopt new barcodes as part of the UK's DRS appe...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/producers-must-adopt-new-barcodes-as-part-of-the-uks-drs/
-  pub_date: '2026-04-21T09:33:50'
-  source: Circular Online
-  title: Producers must adopt new barcodes as part of the UK’s DRS
-last_updated: '2026-04-29T08:20:12.985298'
+last_updated: '2026-04-30T08:22:21.420701'

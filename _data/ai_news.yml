@@ -1,5 +1,31 @@
 articles:
 - category: ai-research
+  description: A new debiasing technique called WRING avoids creating or amplifying
+    biases that can occur with existing debiasing approaches.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429
+  pub_date: '2026-04-29T21:40:00'
+  source: MIT AI News
+  title: 'Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models'
+- category: machine-learning
+  description: 'This article is about what actually happens when you take self-hosted
+    LLMs seriously: not the benchmarks, not the hype, but the real operational friction
+    most tutorials skip entirely.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/self-hosted-llms-in-the-real-world-limits-workarounds-and-hard-lessons
+  pub_date: '2026-04-29T12:00:48'
+  source: KDnuggets
+  title: 'Self-Hosted LLMs in the Real World: Limits, Workarounds, and Hard Lessons'
+- category: ai-research
+  description: Building on a long-standing MIT-IBM collaboration, the new lab will
+    chart the convergence of AI, algorithms, and quantum computing.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429
+  pub_date: '2026-04-29T10:00:00'
+  source: MIT AI News
+  title: The MIT-IBM Computing Research Lab launches to shape the future of AI and
+    quantum computing
+- category: ai-research
   description: A new method could bring more accurate and efficient AI models to high-stakes
     applications like health care and finance, even in under-resourced settings.
   icon: fa-graduation-cap
@@ -164,14 +190,6 @@ articles:
   pub_date: '2026-04-21T14:30:00'
   source: Google AI Blog
   title: 3 new ways Ads Advisor is making Google Ads safer and faster
-- category: machine-learning
-  description: Learn method chaining, pipe(), efficient joins, optimized groupby operations,
-    and vectorized logic to write faster and cleaner pandas code
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/advanced-pandas-patterns-most-data-scientists-dont-use
-  pub_date: '2026-04-21T14:00:40'
-  source: KDnuggets
-  title: Advanced Pandas Patterns Most Data Scientists Don’t Use
 - category: ai-research
   description: Illustration showing a person with a Pixel phone in a beach town farmers'
     market by the water
@@ -228,21 +246,4 @@ articles:
   pub_date: '2026-04-14T13:00:00'
   source: MIT AI News
   title: 'Q&A: MIT SHASS and the future of education in the age of AI'
-- category: ai-research
-  description: As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is
-    advancing dialogue, teaching, and research into the social and ethical dimensions
-    of new computing technologies.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/philosophy-work-michal-masny-0409
-  pub_date: '2026-04-09T18:00:00'
-  source: MIT AI News
-  title: A philosophy of work
-- category: ai-research
-  description: Researchers use control theory to shed unnecessary complexity from
-    AI models during training, cutting compute costs without sacrificing performance.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409
-  pub_date: '2026-04-09T13:00:00'
-  source: MIT AI News
-  title: New technique makes AI models leaner and faster while they’re still learning
-last_updated: '2026-04-29T08:20:14.487953'
+last_updated: '2026-04-30T08:22:22.359966'
