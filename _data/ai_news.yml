@@ -1,5 +1,48 @@
 articles:
 - category: ai-research
+  description: Founded by Jake Donoghue PhD '19 and former MIT researcher Jarrett
+    Revels, the company is creating an AI-driven platform to help diagnose and treat
+    disease.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501
+  pub_date: '2026-05-01T04:00:00'
+  source: MIT AI News
+  title: Beacon Biosignals is mapping the brain during sleep
+- category: ai-research
+  description: MIT senior Olivia Honeycutt investigates how the ways we communicate
+    can shape our views of the world.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501
+  pub_date: '2026-05-01T04:00:00'
+  source: MIT AI News
+  title: Improving understanding with language
+- category: machine-learning
+  description: From April 30 - May 10, Zero To Mastery's entire course catalogue is
+    100% free.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/04/zerotomastery/learn-the-most-in-demand-tech-skills-for-free
+  pub_date: '2026-04-30T17:00:00'
+  source: KDnuggets
+  title: Learn The Most In-Demand Tech Skills for FREE
+- category: machine-learning
+  description: This article outlines five particularly useful Python decorators that,
+    based on developers' experience, haven proven themselves effective to make AI
+    code cleaner.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-powerful-python-decorators-to-build-clean-ai-code
+  pub_date: '2026-04-30T12:00:11'
+  source: KDnuggets
+  title: 5 Powerful Python Decorators to Build Clean AI Code
+- category: ai-research
+  description: President Sally Kornbluth spoke in front of a packed crowd about growing
+    challenges to the U.S. research ecosystem as funding for America's top research
+    universities becomes increasingly strained
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/making-case-curiosity-driven-science
+  pub_date: '2026-04-30T04:00:00'
+  source: MIT AI News
+  title: Making the case for curiosity-driven science
+- category: ai-research
   description: A new debiasing technique called WRING avoids creating or amplifying
     biases that can occur with existing debiasing approaches.
   icon: fa-graduation-cap
@@ -157,15 +200,6 @@ articles:
   pub_date: '2026-04-22T14:00:05'
   source: KDnuggets
   title: 5 GitHub Repositories to Learn Quantum Machine Learning
-- category: machine-learning
-  description: Learn faster, build smarter, and unlock the full power of Claude Code
-    through real examples, reusable templates, prompts, workflows, subagents, and
-    system design.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-to-master-claude-code
-  pub_date: '2026-04-22T12:00:47'
-  source: KDnuggets
-  title: 10 GitHub Repositories To Master Claude Code
 - category: ai-research
   description: The eighth generation of Google's TPU includes two specialized chips
     that will power the future of AI.
@@ -174,14 +208,6 @@ articles:
   pub_date: '2026-04-22T12:00:00'
   source: Google AI Blog
   title: We're launching two specialized TPUs for the agentic era.
-- category: machine-learning
-  description: Run a powerful, private AI coder locally with OpenCode, Ollama & Qwen3-Coder.
-    Free, offline, and unlimited.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/seeing-whats-possible-with-opencode-ollama-qwen3-coder
-  pub_date: '2026-04-21T16:00:03'
-  source: KDnuggets
-  title: Seeing What’s Possible with OpenCode + Ollama + Qwen3-Coder
 - category: ai-research
   description: The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White
     background with colorful bottom gradient.
@@ -207,15 +233,6 @@ articles:
   source: MIT AI News
   title: Jacob Andreas and Brett McGuire named Edgerton Award winners
 - category: ai-research
-  description: Founded by Tristan Bepler PhD '20 and former MIT professor Tim Lu PhD
-    '07, OpenProtein.AI offers researchers open-source models and other tools for
-    protein engineering.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/bringing-ai-driven-protein-design-tools-everywhere-0417
-  pub_date: '2026-04-17T04:00:00'
-  source: MIT AI News
-  title: Bringing AI-driven protein-design tools to biologists everywhere
-- category: ai-research
   description: AI Mode in Chrome
   icon: fa-google
   link: https://blog.google/products-and-platforms/products/search/ai-mode-chrome/
@@ -229,21 +246,4 @@ articles:
   pub_date: '2026-04-16T16:00:00'
   source: Google AI Blog
   title: New ways to create personalized images in the Gemini app
-- category: ai-research
-  description: Researchers are developing hardware and algorithms to improve collaboration
-    between divers and autonomous underwater vehicles engaged in maritime missions.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414
-  pub_date: '2026-04-14T13:00:00'
-  source: MIT AI News
-  title: Human-machine teaming dives underwater
-- category: ai-research
-  description: As the School of Humanities, Arts, and Social Sciences marks 75 years,
-    Dean Agustn Rayo reflects on how AI is reshaping higher education and why SHASS
-    disciplines continue to be central to MIT's missi...
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/qa-mit-shass-and-future-of-education-age-ai-0414
-  pub_date: '2026-04-14T13:00:00'
-  source: MIT AI News
-  title: 'Q&A: MIT SHASS and the future of education in the age of AI'
-last_updated: '2026-04-30T08:22:22.359966'
+last_updated: '2026-05-01T08:11:40.737630'
