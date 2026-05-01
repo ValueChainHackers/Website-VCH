@@ -1,4 +1,53 @@
 articles:
+- category: supply-chain
+  description: TIME has released its list of the 10 most influential companies in
+    manufacturing and logistics for 2026, including DHL, Foxconn, and Flexport.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/time-top-10-most-influential-supply-chain-companies-2026
+  pub_date: '2026-04-30T16:05:00'
+  source: Supply Chain 24/7
+  title: TIME Names 10 Most Influential Supply Chain Companies of 2026
+- category: supply-chain
+  description: Supply chain disruptions tied to procurement are costing companies
+    about $16 million a year, according to a new report from Coupa.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-disruptions-cost-16-million-supply-chain-coupa-report
+  pub_date: '2026-04-30T15:25:00'
+  source: Supply Chain 24/7
+  title: Supply Chain Disruptions Cost Companies $16 Million a Year, Study Finds
+- category: supply-chain
+  description: Averitt is building a new $200 million logistics campus in Charlotte
+    that will add more than 200 jobs and bring all of its regional operations into
+    one location.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/averitt-charlotte-logistics-campus-expansion
+  pub_date: '2026-04-30T14:44:00'
+  source: Supply Chain 24/7
+  title: Averitt Plans $200 Million Logistics Campus In Charlotte Area
+- category: supply-chain
+  description: Walmart opened a $350 million Texas milk plant to supply 650 stores
+    and take more control over its perishable supply chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-texas-milk-processing-facility-robinson
+  pub_date: '2026-04-30T13:44:00'
+  source: Supply Chain 24/7
+  title: Walmart Opens Third U.S. Milk Processing Facility in Robinson, Texas
+- category: supply-chain
+  description: Companies are moving quickly on AI, but many procurement and IT teams
+    still aren't aligned on how to manage it.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procureability-ai-governance-gap-procurement-it
+  pub_date: '2026-04-30T12:27:00'
+  source: Supply Chain 24/7
+  title: Most Firms Work With IT on AI, But Not on Governance
+- category: supply-chain
+  description: PCS Software integrated DAT One into its Cortex platform so carriers
+    can source loads, evaluate profitability, and plan backhauls in one system.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/pcs-dat-one-load-board-integration-cortex-tms
+  pub_date: '2026-04-30T11:34:00'
+  source: Supply Chain 24/7
+  title: PCS Brings DAT One Load Board Directly Into Dispatch Workflow
 - category: circular
   description: A joint letter signed by 19 organisations, including CIWM, Green Alliance,
     and SUEZ, is calling on the Prime Minister to release the government's Circular
@@ -58,50 +107,6 @@ articles:
   pub_date: '2026-04-29T06:58:59'
   source: Circular Online
   title: ‘World’s first’ facility that converts waste plastic to aviation fuel opens
-- category: supply-chain
-  description: Los Angeles remained the No. 1 U.S. port for containerized imports
-    in 2025, while Baltimore and New York, NY posted some of the biggest gains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-30-us-ports-import-volume-2025
-  pub_date: '2026-04-28T16:31:00'
-  source: Supply Chain 24/7
-  title: Top 30 U.S. Ports Ranked By Container Imports In 2025
-- category: supply-chain
-  description: New data from o9 Solutions shows Gen Z and Millennials are reporting
-    the highest levels of product shortages and delays.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tariffs-volatility-slow-global-expansion-plans
-  pub_date: '2026-04-28T12:18:00'
-  source: Supply Chain 24/7
-  title: Younger Shoppers Drive Summer Demand, And More Shortages
-- category: supply-chain
-  description: A new report from Avalara shows companies are pulling back on global
-    expansion as trade rules change faster than they can plan for.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tariffs-slow-global-expansion-avalara-report
-  pub_date: '2026-04-28T12:15:00'
-  source: Supply Chain 24/7
-  title: Why More Companies Are Hitting Pause on Global Expansion
-- category: supply-chain
-  description: Learn how Express Logistics used intelligent data and automation to
-    reduce LTL quote times from weeks to 24 hours, improve pricing accuracy, and scale
-    faster with real-time insights.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-intelligent-data-transforms-ltl-pricing-cut-quote-time-to-24-hours-and-boost-accuracy
-  pub_date: '2026-04-27T19:15:00'
-  source: Supply Chain 24/7
-  title: 'How Intelligent Data Transforms LTL Pricing: Cut Quote Time to 24 Hours
-    and Boost Accuracy'
-- category: supply-chain
-  description: Discover the top benefits of vertical lift modules (VLMs), including
-    increased storage density, faster order picking, reduced labor costs, and improved
-    accuracy. Learn how VLM automation transforms wa...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/what-are-the-benefits-of-vertical-lift-modules-6-proven-ways-vlms-improve-warehouse-efficiency
-  pub_date: '2026-04-27T18:14:00'
-  source: Supply Chain 24/7
-  title: What Are the Benefits of Vertical Lift Modules? 6 Proven Ways VLMs Improve
-    Warehouse Efficiency
 - category: circular
   description: Birmingham City Council and Unite the Union have agreed a deal to end
     the year-long strike action by refuse workers in the city. The post Deal agreed
@@ -111,16 +116,6 @@ articles:
   pub_date: '2026-04-27T14:52:00'
   source: Circular Online
   title: Deal agreed to end Birmingham bin strikes
-- category: supply-chain
-  description: Learn what vertical lift modules (VLMs) are, how they work, and where
-    they're used. Discover key benefits, applications, and how VLMs improve storage
-    efficiency and productivity.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/what-are-vertical-lift-modules-benefits-uses-and-industry-applications-explained
-  pub_date: '2026-04-27T13:43:00'
-  source: Supply Chain 24/7
-  title: What Are Vertical Lift Modules? Benefits, Uses, and Industry Applications
-    Explained
 - category: circular
   description: A London waste crime gang has been jailed for conspiracy to illegally
     dump controlled waste across six sites in the capital. The post London waste crime
@@ -175,4 +170,4 @@ articles:
   pub_date: '2026-04-22T09:00:50'
   source: Circular Online
   title: WRAP launches the UK Packaging Pact
-last_updated: '2026-04-30T08:22:21.420701'
+last_updated: '2026-05-01T08:11:39.845270'
