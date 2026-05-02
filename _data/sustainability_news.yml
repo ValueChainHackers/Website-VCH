@@ -1,5 +1,29 @@
 articles:
 - category: supply-chain
+  description: In this edition of Rising Stars, meet Maddie Dorish, who turned a swim
+    meet side hustle into a career managing complex supply chain operations at Boeing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rising-stars-maddie-dorish
+  pub_date: '2026-05-01T14:33:00'
+  source: Supply Chain 24/7
+  title: 'Rising Stars: Maddie Dorish, Asset Manager at Boeing'
+- category: supply-chain
+  description: Equipment demand hit a record in Q1 2026, but falling confidence and
+    softer March activity suggest momentum could start to slow.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/q1-equipment-demand-hits-record-as-confidence-starts-to-slip
+  pub_date: '2026-05-01T13:06:00'
+  source: Supply Chain 24/7
+  title: Q1 Equipment Demand Hits Record as Confidence Starts to Slip
+- category: supply-chain
+  description: EPG and Locus Robotics are teaming up to help warehouses move faster
+    by combining robots with warehouse management software.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/epg-locus-robotics-warehouse-automation-partnership
+  pub_date: '2026-05-01T13:05:00'
+  source: Supply Chain 24/7
+  title: EPG Teams With Locus Robotics to Speed Up Warehouse Picking
+- category: supply-chain
   description: TIME has released its list of the 10 most influential companies in
     manufacturing and logistics for 2026, including DHL, Foxconn, and Flexport.
   icon: fa-box
@@ -74,30 +98,6 @@ articles:
   pub_date: '2026-04-29T14:40:00'
   source: Supply Chain 24/7
   title: Target Builds Receive Center in Houston to Reduce Warehouse Congestion
-- category: supply-chain
-  description: A new Gartner survey finds that outdated systems and talent shortages
-    are the biggest barriers to scaling AI in supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-supply-chain-integration-talent-gaps-gartner-survey
-  pub_date: '2026-04-29T14:33:00'
-  source: Supply Chain 24/7
-  title: Half Of Supply Chain Leaders Lack Talent To Run AI Tools
-- category: supply-chain
-  description: A new Skill Dynamics report shows that companies are investing in AI,
-    but skills gaps are making it harder to keep up with rising supply chain pressure.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/skills-gap-grows-as-companies-push-ahead-with-ai-and-automation
-  pub_date: '2026-04-29T14:30:00'
-  source: Supply Chain 24/7
-  title: Skills Gap Grows as Companies Push Ahead With AI and Automation
-- category: supply-chain
-  description: Most warehouse delays don't come from big problems; they come from
-    small ones that keep repeating.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/five-hidden-time-thieves-lurking-in-the-warehouse-logistics
-  pub_date: '2026-04-29T14:20:00'
-  source: Supply Chain 24/7
-  title: Five Hidden Time Thieves Lurking in the Warehouse and Logistics
 - category: circular
   description: '''World''s first'' pilot facility converting waste plastic to Sustainable
     Aviation Fuel (SAF) opens in Kent. The post ''World''s first'' facility that converts
@@ -170,4 +170,4 @@ articles:
   pub_date: '2026-04-22T09:00:50'
   source: Circular Online
   title: WRAP launches the UK Packaging Pact
-last_updated: '2026-05-01T08:11:39.845270'
+last_updated: '2026-05-02T07:45:05.243428'
