@@ -1,4 +1,22 @@
 articles:
+- category: machine-learning
+  description: 'This article uncovers the craftsmanship of using robust statistics
+    in data science processes: illustrating what to do when data fail tests due to
+    not meeting standard assumptions.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-robust-data-scientist-winning-with-messy-data-and-pingouin
+  pub_date: '2026-05-01T14:00:28'
+  source: KDnuggets
+  title: 'The “Robust” Data Scientist: Winning with Messy Data and Pingouin'
+- category: machine-learning
+  description: Learn how the Voxtral TTS model works, what makes its voice cloning
+    and lowlatency performance special, and how to start generating speech with just
+    a few lines of Python code.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/open-weight-text-to-speach-with-voxtral-tts
+  pub_date: '2026-05-01T12:00:09'
+  source: KDnuggets
+  title: Open Weight Text-to-Speach with Voxtral TTS
 - category: ai-research
   description: Founded by Jake Donoghue PhD '19 and former MIT researcher Jarrett
     Revels, the company is creating an AI-driven platform to help diagnose and treat
@@ -25,6 +43,14 @@ articles:
   source: KDnuggets
   title: Learn The Most In-Demand Tech Skills for FREE
 - category: machine-learning
+  description: Read this technical walkthrough of safety, MCP, workflow orchestration,
+    and agentic RAG in Python.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-agentic-ai-systems-with-microsofts-agent-framework
+  pub_date: '2026-04-30T16:20:18'
+  source: KDnuggets
+  title: Building Agentic AI Systems with Microsoft’s Agent Framework
+- category: machine-learning
   description: This article outlines five particularly useful Python decorators that,
     based on developers' experience, haven proven themselves effective to make AI
     code cleaner.
@@ -36,7 +62,7 @@ articles:
 - category: ai-research
   description: President Sally Kornbluth spoke in front of a packed crowd about growing
     challenges to the U.S. research ecosystem as funding for America's top research
-    universities becomes increasingly strained
+    universities becomes increasingly strained.
   icon: fa-graduation-cap
   link: https://news.mit.edu/2026/making-case-curiosity-driven-science
   pub_date: '2026-04-30T04:00:00'
@@ -152,22 +178,6 @@ articles:
   pub_date: '2026-04-24T12:00:23'
   source: KDnuggets
   title: 7 Practical OpenClaw Use Cases You Should Know
-- category: machine-learning
-  description: These 10 projects will teach you agent engineering faster than any
-    tutorial.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/ai-engineering-hub-breakdown-10-agentic-projects-you-can-fork-today
-  pub_date: '2026-04-23T14:00:06'
-  source: KDnuggets
-  title: 'AI Engineering Hub Breakdown: 10 Agentic Projects You Can Fork Today'
-- category: machine-learning
-  description: These ares seven unconventional uses of LLMs that go far beyond usual
-    chat interface and conversations.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-specific-unconventional-things-to-do-with-language-models
-  pub_date: '2026-04-23T12:00:39'
-  source: KDnuggets
-  title: 7 Specific Unconventional Things to Do with Language Models
 - category: ai-research
   description: Learn how Google's TPUs power increasingly demanding AI workloads with
     this new video.
@@ -192,14 +202,6 @@ articles:
   pub_date: '2026-04-22T19:15:00'
   source: MIT AI News
   title: Teaching AI models to say “I’m not sure”
-- category: machine-learning
-  description: If you want to learn quantum machine learning in 2025, these five GitHub
-    repositories can get you started in hours, not months.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-github-repositories-to-learn-quantum-machine-learning
-  pub_date: '2026-04-22T14:00:05'
-  source: KDnuggets
-  title: 5 GitHub Repositories to Learn Quantum Machine Learning
 - category: ai-research
   description: The eighth generation of Google's TPU includes two specialized chips
     that will power the future of AI.
@@ -246,4 +248,4 @@ articles:
   pub_date: '2026-04-16T16:00:00'
   source: Google AI Blog
   title: New ways to create personalized images in the Gemini app
-last_updated: '2026-05-01T08:11:40.737630'
+last_updated: '2026-05-02T07:45:07.277679'
