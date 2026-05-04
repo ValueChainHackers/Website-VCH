@@ -1,5 +1,13 @@
 articles:
 - category: supply-chain
+  description: A new report from E2open shows shows ocean shipping delays are shifting
+    beyond ports and into later stages of the journey, making shipments less predictable.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/shipping-delays-shift-downstream-ocean-shipping-2026
+  pub_date: '2026-05-03T21:37:00'
+  source: Supply Chain 24/7
+  title: Shipping Delays Are Moving Downstream, Not at Ports
+- category: supply-chain
   description: In this edition of Rising Stars, meet Maddie Dorish, who turned a swim
     meet side hustle into a career managing complex supply chain operations at Boeing.
   icon: fa-box
@@ -90,14 +98,6 @@ articles:
   pub_date: '2026-04-30T07:30:00'
   source: Circular Online
   title: News in brief | CIWM Commercial Partner Updates April
-- category: supply-chain
-  description: Target is introducing a new type of facility to hold inventory earlier
-    and better time when it moves through its network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/target-houston-receive-center-warehouse-congestion
-  pub_date: '2026-04-29T14:40:00'
-  source: Supply Chain 24/7
-  title: Target Builds Receive Center in Houston to Reduce Warehouse Congestion
 - category: circular
   description: '''World''s first'' pilot facility converting waste plastic to Sustainable
     Aviation Fuel (SAF) opens in Kent. The post ''World''s first'' facility that converts
@@ -170,4 +170,4 @@ articles:
   pub_date: '2026-04-22T09:00:50'
   source: Circular Online
   title: WRAP launches the UK Packaging Pact
-last_updated: '2026-05-03T08:01:46.118253'
+last_updated: '2026-05-04T08:29:40.898064'
