@@ -1,4 +1,44 @@
 articles:
+- category: ai-research
+  description: mp4 featuring an underwater video and a mobile AI video mockup.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/
+  pub_date: '2026-05-04T17:00:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in April 2026
+- category: machine-learning
+  description: How to turn an interview-style SQL query into a production-ready, testable,
+    version-controlled workflow.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/testing-sql-like-a-software-engineer-unit-testing-ci-cd-and-data-quality-automation
+  pub_date: '2026-05-04T16:00:16'
+  source: KDnuggets
+  title: 'Testing SQL Like a Software Engineer: Unit Testing, CI/CD, and Data Quality
+    Automation'
+- category: ai-research
+  description: Gemini API
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/
+  pub_date: '2026-05-04T15:30:00'
+  source: Google AI Blog
+  title: Reduce friction and latency for long-running jobs with Webhooks in Gemini
+    API
+- category: machine-learning
+  description: Learn how to build, test, deploy, and monitor your first FastAPI Cloud
+    app, a simple live gold and silver dashboard.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-deploy-your-first-app-on-fastapi-cloud
+  pub_date: '2026-05-04T14:00:33'
+  source: KDnuggets
+  title: How to Deploy Your First App on FastAPI Cloud
+- category: machine-learning
+  description: Claude Code token costs usually come from bloated context, not just
+    long prompts. These 7 practical tactics help reduce waste without hurting quality.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-practical-ways-to-reduce-claude-code-token-usage
+  pub_date: '2026-05-04T12:00:47'
+  source: KDnuggets
+  title: 7 Practical Ways to Reduce Claude Code Token Usage
 - category: machine-learning
   description: 'This article uncovers the craftsmanship of using robust statistics
     in data science processes: illustrating what to do when data fail tests due to
@@ -120,14 +160,6 @@ articles:
   pub_date: '2026-04-28T14:00:53'
   source: KDnuggets
   title: Local Whisper Audio Transcription
-- category: machine-learning
-  description: Learn why most "winning" experiments fail in production, and how top
-    companies avoid this.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/a-b-testing-pitfalls-what-works-and-what-doesnt-with-real-data
-  pub_date: '2026-04-28T12:00:50'
-  source: KDnuggets
-  title: 'A/B Testing Pitfalls: What Works and What Doesn’t with Real Data'
 - category: ai-research
   description: A web next to a laptop
   icon: fa-google
@@ -135,14 +167,6 @@ articles:
   pub_date: '2026-04-27T13:00:00'
   source: Google AI Blog
   title: Join the new AI Agents Vibe Coding Course from Google and Kaggle
-- category: machine-learning
-  description: Learn the top Python frameworks for LLM apps covering fine-tuning,
-    model loading, serving, RAG pipelines, multi-agent systems, and evaluation.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-python-libraries-for-building-llm-applications
-  pub_date: '2026-04-27T12:00:00'
-  source: KDnuggets
-  title: 10 Python Libraries for Building LLM Applications
 - category: ai-research
   description: The "EnergAIzer" method generates reliable results in seconds, enabling
     data center operators to efficiently allocate resources and reduce wasted energy.
@@ -170,14 +194,6 @@ articles:
   source: MIT AI News
   title: MIT scientists build the world’s largest collection of Olympiad-level math
     problems, and open it to everyone
-- category: machine-learning
-  description: Learn how people are using OpenClaw to automate workflows, build custom
-    agents, boost productivity, and turn AI into practical action.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know
-  pub_date: '2026-04-24T12:00:23'
-  source: KDnuggets
-  title: 7 Practical OpenClaw Use Cases You Should Know
 - category: ai-research
   description: Learn how Google's TPUs power increasingly demanding AI workloads with
     this new video.
@@ -234,18 +250,4 @@ articles:
   pub_date: '2026-04-17T13:40:00'
   source: MIT AI News
   title: Jacob Andreas and Brett McGuire named Edgerton Award winners
-- category: ai-research
-  description: AI Mode in Chrome
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/ai-mode-chrome/
-  pub_date: '2026-04-16T17:00:00'
-  source: Google AI Blog
-  title: A new way to explore the web with AI Mode in Chrome
-- category: ai-research
-  description: Example images made with Personal Intelligence
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/
-  pub_date: '2026-04-16T16:00:00'
-  source: Google AI Blog
-  title: New ways to create personalized images in the Gemini app
-last_updated: '2026-05-04T08:29:42.264013'
+last_updated: '2026-05-05T08:10:14.143362'
