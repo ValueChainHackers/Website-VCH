@@ -1,5 +1,13 @@
 articles:
 - category: supply-chain
+  description: Amazon is opening its entire logistics network to outside businesses,
+    pushing deeper into third-party supply chain services.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-opens-supply-chain-services-to-all-businesses
+  pub_date: '2026-05-04T12:47:00'
+  source: Supply Chain 24/7
+  title: Amazon Opens Its Supply Chain Network to Outside Businesses
+- category: supply-chain
   description: A new report from E2open shows shows ocean shipping delays are shifting
     beyond ports and into later stages of the journey, making shipments less predictable.
   icon: fa-box
@@ -72,14 +80,6 @@ articles:
   pub_date: '2026-04-30T12:27:00'
   source: Supply Chain 24/7
   title: Most Firms Work With IT on AI, But Not on Governance
-- category: supply-chain
-  description: PCS Software integrated DAT One into its Cortex platform so carriers
-    can source loads, evaluate profitability, and plan backhauls in one system.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/pcs-dat-one-load-board-integration-cortex-tms
-  pub_date: '2026-04-30T11:34:00'
-  source: Supply Chain 24/7
-  title: PCS Brings DAT One Load Board Directly Into Dispatch Workflow
 - category: circular
   description: A joint letter signed by 19 organisations, including CIWM, Green Alliance,
     and SUEZ, is calling on the Prime Minister to release the government's Circular
@@ -170,4 +170,4 @@ articles:
   pub_date: '2026-04-22T09:00:50'
   source: Circular Online
   title: WRAP launches the UK Packaging Pact
-last_updated: '2026-05-04T08:29:40.898064'
+last_updated: '2026-05-05T08:10:12.853776'
