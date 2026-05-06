@@ -1,5 +1,39 @@
 articles:
 - category: ai-research
+  description: Assistant Professor Gabriele Farina mines the foundations of decision-making
+    in complex multi-agent scenarios.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505
+  pub_date: '2026-05-05T21:00:00'
+  source: MIT AI News
+  title: 'Games people — and machines — play: Untangling strategic reasoning to advance
+    AI'
+- category: ai-research
+  description: Google is partnering with XPRIZE and Range Media Partners on the $3.5
+    million Future Vision film competition.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/
+  pub_date: '2026-05-05T16:00:00'
+  source: Google AI Blog
+  title: Google is partnering with XPRIZE and Range Media Partners on the $3.5 million
+    Future Vision film competition.
+- category: machine-learning
+  description: One is genuine curiosity. The other is someone who already knows what
+    they want and went looking for a number to back it up.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/baptists-and-bootleggers-the-hidden-coalition-behind-data-driven-decisions
+  pub_date: '2026-05-05T14:00:50'
+  source: KDnuggets
+  title: 'Baptists and Bootleggers: The Hidden Coalition Behind ‘Data-Driven’ Decisions'
+- category: machine-learning
+  description: Turn Claude Code into your AI coding partner with these 5 hands-on
+    projects, from beginner-friendly builds to advanced agent workflows.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-fun-projects-using-claude-code
+  pub_date: '2026-05-05T12:00:34'
+  source: KDnuggets
+  title: 5 Fun Projects Using Claude Code
+- category: ai-research
   description: mp4 featuring an underwater video and a mobile AI video mockup.
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/
@@ -116,15 +150,6 @@ articles:
   pub_date: '2026-04-29T21:40:00'
   source: MIT AI News
   title: 'Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models'
-- category: machine-learning
-  description: 'This article is about what actually happens when you take self-hosted
-    LLMs seriously: not the benchmarks, not the hype, but the real operational friction
-    most tutorials skip entirely.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/self-hosted-llms-in-the-real-world-limits-workarounds-and-hard-lessons
-  pub_date: '2026-04-29T12:00:48'
-  source: KDnuggets
-  title: 'Self-Hosted LLMs in the Real World: Limits, Workarounds, and Hard Lessons'
 - category: ai-research
   description: Building on a long-standing MIT-IBM collaboration, the new lab will
     chart the convergence of AI, algorithms, and quantum computing.
@@ -152,14 +177,6 @@ articles:
   source: Google AI Blog
   title: 'Celebrating 20 years of Google Translate: Fun facts, tips and new features
     to try'
-- category: machine-learning
-  description: Learn how to eranscribe audio locally using FasterWhisper and Python,
-    with an emphasis on privacyfirst and CPU/GPUready.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/local-whisper-audio-transcription
-  pub_date: '2026-04-28T14:00:53'
-  source: KDnuggets
-  title: Local Whisper Audio Transcription
 - category: ai-research
   description: A web next to a laptop
   icon: fa-google
@@ -234,20 +251,4 @@ articles:
   pub_date: '2026-04-21T14:30:00'
   source: Google AI Blog
   title: 3 new ways Ads Advisor is making Google Ads safer and faster
-- category: ai-research
-  description: Illustration showing a person with a Pixel phone in a beach town farmers'
-    market by the water
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/
-  pub_date: '2026-04-17T14:00:00'
-  source: Google AI Blog
-  title: 7 ways to travel smarter this summer, with help from Google
-- category: ai-research
-  description: The associate professors of EECS and chemistry, respectively, are honored
-    for exceptional contributions to teaching, research, and service at MIT.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/jacob-andreas-brett-mcguire-edgerton-award-winners-0417
-  pub_date: '2026-04-17T13:40:00'
-  source: MIT AI News
-  title: Jacob Andreas and Brett McGuire named Edgerton Award winners
-last_updated: '2026-05-05T08:10:14.143362'
+last_updated: '2026-05-06T08:26:59.804074'

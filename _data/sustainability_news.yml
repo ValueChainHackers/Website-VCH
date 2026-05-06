@@ -1,4 +1,57 @@
 articles:
+- category: circular
+  description: The Environment Agency has launched an investigation into a 'sickening'
+    30,000 illegal waste dump on a Site of Special Scientific Interest in Leicestershire.
+    The post Investigation launched into 'sick...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/investigation-launched-into-sickening-30000-tonne-waste-dump/
+  pub_date: '2026-05-06T07:30:00'
+  source: Circular Online
+  title: Investigation launched into ‘sickening’ 30,000-tonne waste dump
+- category: circular
+  description: Over 50 businesses and trade associations, including IKEA and Virgin
+    Media O2, are urging the UK Government to publish the long-delayed Circular Economy
+    Growth Plan. The post Over 50 businesses urge g...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/over-50-businesses-urge-government-to-publish-circular-economy-growth-plan/
+  pub_date: '2026-05-06T07:30:00'
+  source: Circular Online
+  title: Over 50 businesses urge government to publish Circular Economy Growth Plan
+- category: supply-chain
+  description: Penske Logistics launched a new platform that brings supply chain data
+    into one place to help companies track and manage operations in real time.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/penske-launches-supply-chain-insight-platform-visibility
+  pub_date: '2026-05-05T20:26:00'
+  source: Supply Chain 24/7
+  title: Penske Logistics Launches Supply Chain Insight to Improve Visibility
+- category: supply-chain
+  description: 'As shipping routes tighten, the Strait of Hormuz crisis highlights
+    a major gap in global supply chains: companies can see disruptions-but can''t
+    respond collaboratively. Here''s what needs to change.'
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-the-strait-of-hormuz-crisis-is-exposing-hidden-weaknesses-in-supply-chains
+  pub_date: '2026-05-05T16:59:00'
+  source: Supply Chain 24/7
+  title: Why the Strait of Hormuz Crisis Is Exposing Hidden Weaknesses in Supply Chains
+- category: supply-chain
+  description: Supply chain leaders are balancing daily operations with long-term
+    AI investments as they prepare for a shift toward more autonomous, decision-driven
+    supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-leaders-balancing-today-operations-ai-future
+  pub_date: '2026-05-05T13:26:00'
+  source: Supply Chain 24/7
+  title: Supply Chain Leaders Are Being Asked to Do Two Jobs at Once
+- category: circular
+  description: The European Commission has held talks on the Circular Economy Act
+    ahead of a final stakeholder workshop involving 1000 participants. The post European
+    Commission holds Circular Economy Act talks appe...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/european-commission-holds-circular-economy-act-talks/
+  pub_date: '2026-05-05T09:29:09'
+  source: Circular Online
+  title: European Commission holds Circular Economy Act talks
 - category: supply-chain
   description: Amazon is opening its entire logistics network to outside businesses,
     pushing deeper into third-party supply chain services.
@@ -55,31 +108,6 @@ articles:
   pub_date: '2026-04-30T15:25:00'
   source: Supply Chain 24/7
   title: Supply Chain Disruptions Cost Companies $16 Million a Year, Study Finds
-- category: supply-chain
-  description: Averitt is building a new $200 million logistics campus in Charlotte
-    that will add more than 200 jobs and bring all of its regional operations into
-    one location.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/averitt-charlotte-logistics-campus-expansion
-  pub_date: '2026-04-30T14:44:00'
-  source: Supply Chain 24/7
-  title: Averitt Plans $200 Million Logistics Campus In Charlotte Area
-- category: supply-chain
-  description: Walmart opened a $350 million Texas milk plant to supply 650 stores
-    and take more control over its perishable supply chain.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-texas-milk-processing-facility-robinson
-  pub_date: '2026-04-30T13:44:00'
-  source: Supply Chain 24/7
-  title: Walmart Opens Third U.S. Milk Processing Facility in Robinson, Texas
-- category: supply-chain
-  description: Companies are moving quickly on AI, but many procurement and IT teams
-    still aren't aligned on how to manage it.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procureability-ai-governance-gap-procurement-it
-  pub_date: '2026-04-30T12:27:00'
-  source: Supply Chain 24/7
-  title: Most Firms Work With IT on AI, But Not on Governance
 - category: circular
   description: A joint letter signed by 19 organisations, including CIWM, Green Alliance,
     and SUEZ, is calling on the Prime Minister to release the government's Circular
@@ -90,9 +118,9 @@ articles:
   source: Circular Online
   title: Joint letter calls on PM to release Circular Economy Growth Plan
 - category: circular
-  description: 'News updates written by CIWM''s commercial partners. Dennis Eagle
-    Dennis Eagle''s five top tips to reduce your food waste CRJ Services Driving Sustainability
-    Forward: CRJ Services Invests in Solar Energ...'
+  description: News updates written by CIWM's commercial partners. Greyparrot Greyparrot
+    to share interactive facility simulator at IFAT and PRSE Dennis Eagle Dennis Eagle's
+    five top tips to reduce your food waste C...
   icon: fa-recycle
   link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-april-2/
   pub_date: '2026-04-30T07:30:00'
@@ -143,31 +171,4 @@ articles:
   pub_date: '2026-04-24T11:00:36'
   source: Circular Online
   title: Digital Waste Tracking legislation laid in parliament
-- category: circular
-  description: A flat rate 20p deposit will apply to all drink containers in scope
-    of the UK's Deposit Return Scheme when it launches next year. The post Flat 20p
-    deposit rate confirmed for UK DRS appeared first on ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/flat-20p-rate-confirmed-for-uk-drs/
-  pub_date: '2026-04-24T08:51:39'
-  source: Circular Online
-  title: Flat 20p deposit rate confirmed for UK DRS
-- category: circular
-  description: Company ordered to clear illegal waste site and pay 20,000 in fines
-    The post Company ordered to clear illegal waste site and pay GBP20,000 in fines
-    appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/company-ordered-to-clear-illegal-waste-site-and-pay-20000-in-fines/
-  pub_date: '2026-04-22T09:53:19'
-  source: Circular Online
-  title: Company ordered to clear illegal waste site and pay £20,000 in fines
-- category: circular
-  description: The UK Packaging Pact officially launches with almost 100 organisations
-    announced as signatories to WRAP's ten-year programme. The post WRAP launches
-    the UK Packaging Pact appeared first on Circular O...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wrap-launches-the-uk-packaging-pact/
-  pub_date: '2026-04-22T09:00:50'
-  source: Circular Online
-  title: WRAP launches the UK Packaging Pact
-last_updated: '2026-05-05T08:10:12.853776'
+last_updated: '2026-05-06T08:26:58.824076'
