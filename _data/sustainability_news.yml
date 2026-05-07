@@ -1,5 +1,41 @@
 articles:
 - category: circular
+  description: Biffa and FCC Environment are among the 'first' waste management companies
+    globally to use AI for compliance reporting. The waste management companies have
+    begun using AI to submit waste composition d...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/biffa-and-fcc-environment-use-ai-for-environment-agency-compliance-reporting/
+  pub_date: '2026-05-07T08:16:39'
+  source: Circular Online
+  title: Biffa and FCC Environment use AI for Environment Agency compliance reporting
+- category: circular
+  description: More than 430 tonnes of food waste have been diverted from black bins
+    during the first month of household food waste collections in Derby. All local
+    authorities in Englandwere requiredtointroduceweekl...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/430-tonnes-of-food-waste-collected-in-derby-in-rollouts-first-month/
+  pub_date: '2026-05-07T07:22:44'
+  source: Circular Online
+  title: 430 tonnes of food waste collected in Derby in rollout’s first month
+- category: supply-chain
+  description: Discover how connected packaging technologies like QR codes, RFID,
+    and dynamic labeling help food and beverage brands improve transparency, reduce
+    waste, strengthen compliance, and engage consumers.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/what-is-smart-packaging-how-connected-packaging-is-transforming-the-food-beverage-industry
+  pub_date: '2026-05-06T14:00:00'
+  source: Supply Chain 24/7
+  title: What Is Smart Packaging? How Connected Packaging Is Transforming the Food
+    & Beverage Industry
+- category: supply-chain
+  description: A new Sovos survey shows that rising global tax complexity is slowing
+    business decisions and pushing companies to rethink compliance strategies.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/finance-leaders-struggle-global-tax-compliance-ai-growth
+  pub_date: '2026-05-06T13:00:00'
+  source: Supply Chain 24/7
+  title: Finance Leaders Struggle to Keep Up With Tax Rules as AI Use Grows
+- category: circular
   description: The Environment Agency has launched an investigation into a 'sickening'
     30,000 illegal waste dump on a Site of Special Scientific Interest in Leicestershire.
     The post Investigation launched into 'sick...
@@ -43,6 +79,14 @@ articles:
   pub_date: '2026-05-05T13:26:00'
   source: Supply Chain 24/7
   title: Supply Chain Leaders Are Being Asked to Do Two Jobs at Once
+- category: supply-chain
+  description: A new Gartner survey finds that outdated systems and talent shortages
+    are the biggest barriers to scaling AI in supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-supply-chain-integration-talent-gaps-gartner-survey
+  pub_date: '2026-05-05T13:06:00'
+  source: Supply Chain 24/7
+  title: Half Of Supply Chain Leaders Lack Talent To Run AI Tools
 - category: circular
   description: The European Commission has held talks on the Circular Economy Act
     ahead of a final stakeholder workshop involving 1000 participants. The post European
@@ -84,30 +128,6 @@ articles:
   pub_date: '2026-05-01T13:06:00'
   source: Supply Chain 24/7
   title: Q1 Equipment Demand Hits Record as Confidence Starts to Slip
-- category: supply-chain
-  description: EPG and Locus Robotics are teaming up to help warehouses move faster
-    by combining robots with warehouse management software.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/epg-locus-robotics-warehouse-automation-partnership
-  pub_date: '2026-05-01T13:05:00'
-  source: Supply Chain 24/7
-  title: EPG Teams With Locus Robotics to Speed Up Warehouse Picking
-- category: supply-chain
-  description: TIME has released its list of the 10 most influential companies in
-    manufacturing and logistics for 2026, including DHL, Foxconn, and Flexport.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/time-top-10-most-influential-supply-chain-companies-2026
-  pub_date: '2026-04-30T16:05:00'
-  source: Supply Chain 24/7
-  title: TIME Names 10 Most Influential Supply Chain Companies of 2026
-- category: supply-chain
-  description: Supply chain disruptions tied to procurement are costing companies
-    about $16 million a year, according to a new report from Coupa.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-disruptions-cost-16-million-supply-chain-coupa-report
-  pub_date: '2026-04-30T15:25:00'
-  source: Supply Chain 24/7
-  title: Supply Chain Disruptions Cost Companies $16 Million a Year, Study Finds
 - category: circular
   description: A joint letter signed by 19 organisations, including CIWM, Green Alliance,
     and SUEZ, is calling on the Prime Minister to release the government's Circular
@@ -153,22 +173,4 @@ articles:
   pub_date: '2026-04-27T10:31:03'
   source: Circular Online
   title: London waste crime gang jailed after illegal dumping investigation
-- category: circular
-  description: The government should urgently restrict non-essential uses of 'forever
-    chemicals' in products like frying pans and school uniforms, MPs have urged. The
-    post Ban 'forever chemicals' in non-essential pr...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ban-forever-chemicals-in-non-essential-products-mps-urge/
-  pub_date: '2026-04-27T06:48:52'
-  source: Circular Online
-  title: Ban ‘forever chemicals’ in non-essential products, MPs urge
-- category: circular
-  description: Digital Waste Tracking legislation, which will requires operators to
-    a create a real-time audit trial for the waste they handle, is being laid in parliament.
-    The post Digital Waste Tracking legislatio...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/digital-waste-tracking-legislation-laid-in-parliament/
-  pub_date: '2026-04-24T11:00:36'
-  source: Circular Online
-  title: Digital Waste Tracking legislation laid in parliament
-last_updated: '2026-05-06T08:26:58.824076'
+last_updated: '2026-05-07T08:34:15.587527'
