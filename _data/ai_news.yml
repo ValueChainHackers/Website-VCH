@@ -1,5 +1,47 @@
 articles:
 - category: ai-research
+  description: MIT economists found US companies tend to target employees earning
+    a "wage premium," which increases inequality but not necessarily productivity.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507
+  pub_date: '2026-05-07T04:00:00'
+  source: MIT AI News
+  title: 'Study: Firms often use automation to control certain workers’ wages'
+- category: machine-learning
+  description: A detailed Abacus AI review covering ChatLLM, Abacus AI Agent, Claw,
+    automation, app building, image and video generation, pricing, pros, cons, and
+    who should use it.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/05/abacus/abacus-ai-review
+  pub_date: '2026-05-06T17:00:36'
+  source: KDnuggets
+  title: 'Abacus AI Review: Features, AI Agents & Automation Explained (Honest Guide)'
+- category: ai-research
+  description: An abstract background featuring soft, stippled illustrations of flowers
+    and a butterfly in a bright palette of blue, green, and red. In the center of
+    the image is a white circle containing a magnifyi...
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/gardening-tips/
+  pub_date: '2026-05-06T16:00:00'
+  source: Google AI Blog
+  title: 5 gardening tips you can try right in Search
+- category: machine-learning
+  description: Learn how to connect Claude Code to Discord locally, pair your account,
+    control access, and keep the bot running reliably.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-set-up-claude-code-channels-locally
+  pub_date: '2026-05-06T14:00:00'
+  source: KDnuggets
+  title: How to Set Up Claude Code Channels Locally
+- category: machine-learning
+  description: Learn which seven OpenCode plugins add memory, search, Gemini, terminal
+    control, analytics, and reusable skills to make AI coding workflows stronger.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-opencode-plugins-that-make-ai-coding-more-powerful
+  pub_date: '2026-05-06T12:00:47'
+  source: KDnuggets
+  title: 7 OpenCode Plugins That Make AI Coding More Powerful
+- category: ai-research
   description: Assistant Professor Gabriele Farina mines the foundations of decision-making
     in complex multi-agent scenarios.
   icon: fa-graduation-cap
@@ -108,31 +150,6 @@ articles:
   pub_date: '2026-05-01T04:00:00'
   source: MIT AI News
   title: Improving understanding with language
-- category: machine-learning
-  description: From April 30 - May 10, Zero To Mastery's entire course catalogue is
-    100% free.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/04/zerotomastery/learn-the-most-in-demand-tech-skills-for-free
-  pub_date: '2026-04-30T17:00:00'
-  source: KDnuggets
-  title: Learn The Most In-Demand Tech Skills for FREE
-- category: machine-learning
-  description: Read this technical walkthrough of safety, MCP, workflow orchestration,
-    and agentic RAG in Python.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-agentic-ai-systems-with-microsofts-agent-framework
-  pub_date: '2026-04-30T16:20:18'
-  source: KDnuggets
-  title: Building Agentic AI Systems with Microsoft’s Agent Framework
-- category: machine-learning
-  description: This article outlines five particularly useful Python decorators that,
-    based on developers' experience, haven proven themselves effective to make AI
-    code cleaner.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-powerful-python-decorators-to-build-clean-ai-code
-  pub_date: '2026-04-30T12:00:11'
-  source: KDnuggets
-  title: 5 Powerful Python Decorators to Build Clean AI Code
 - category: ai-research
   description: President Sally Kornbluth spoke in front of a packed crowd about growing
     challenges to the U.S. research ecosystem as funding for America's top research
@@ -227,15 +244,6 @@ articles:
   source: Google AI Blog
   title: 'Elevating Austria: Google invests in its first data center in the Alps.'
 - category: ai-research
-  description: A new training method improves the reliability of AI confidence estimates
-    without sacrificing performance, addressing a root cause of hallucination in reasoning
-    models.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422
-  pub_date: '2026-04-22T19:15:00'
-  source: MIT AI News
-  title: Teaching AI models to say “I’m not sure”
-- category: ai-research
   description: The eighth generation of Google's TPU includes two specialized chips
     that will power the future of AI.
   icon: fa-google
@@ -243,12 +251,4 @@ articles:
   pub_date: '2026-04-22T12:00:00'
   source: Google AI Blog
   title: We're launching two specialized TPUs for the agentic era.
-- category: ai-research
-  description: The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White
-    background with colorful bottom gradient.
-  icon: fa-google
-  link: https://blog.google/products/ads-commerce/ads-advisor-google-ads/
-  pub_date: '2026-04-21T14:30:00'
-  source: Google AI Blog
-  title: 3 new ways Ads Advisor is making Google Ads safer and faster
-last_updated: '2026-05-06T08:26:59.804074'
+last_updated: '2026-05-07T08:34:16.895354'
