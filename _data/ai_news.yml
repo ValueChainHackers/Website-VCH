@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: Learn how to build a holistic pipeline for rigorous, statistical EDA,
+    validating several important data properties.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-modern-eda-pipelines-with-pingouin
+  pub_date: '2026-05-07T14:00:08'
+  source: KDnuggets
+  title: Building Modern EDA Pipelines with Pingouin
+- category: machine-learning
+  description: This article is a quick, everyday tour of seven distributions you'll
+    actually recognize once you know what to look for. No heavy math. No gatekeeping.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-everyday-distributions-explained-simply
+  pub_date: '2026-05-07T12:00:54'
+  source: KDnuggets
+  title: 7 Everyday Distributions Explained Simply
 - category: ai-research
   description: MIT economists found US companies tend to target employees earning
     a "wage premium," which increases inequality but not necessarily productivity.
@@ -115,24 +131,6 @@ articles:
   pub_date: '2026-05-04T12:00:47'
   source: KDnuggets
   title: 7 Practical Ways to Reduce Claude Code Token Usage
-- category: machine-learning
-  description: 'This article uncovers the craftsmanship of using robust statistics
-    in data science processes: illustrating what to do when data fail tests due to
-    not meeting standard assumptions.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-robust-data-scientist-winning-with-messy-data-and-pingouin
-  pub_date: '2026-05-01T14:00:28'
-  source: KDnuggets
-  title: 'The “Robust” Data Scientist: Winning with Messy Data and Pingouin'
-- category: machine-learning
-  description: Learn how the Voxtral TTS model works, what makes its voice cloning
-    and lowlatency performance special, and how to start generating speech with just
-    a few lines of Python code.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/open-weight-text-to-speach-with-voxtral-tts
-  pub_date: '2026-05-01T12:00:09'
-  source: KDnuggets
-  title: Open Weight Text-to-Speach with Voxtral TTS
 - category: ai-research
   description: Founded by Jake Donoghue PhD '19 and former MIT researcher Jarrett
     Revels, the company is creating an AI-driven platform to help diagnose and treat
@@ -251,4 +249,4 @@ articles:
   pub_date: '2026-04-22T12:00:00'
   source: Google AI Blog
   title: We're launching two specialized TPUs for the agentic era.
-last_updated: '2026-05-07T08:34:16.895354'
+last_updated: '2026-05-08T07:42:30.596147'

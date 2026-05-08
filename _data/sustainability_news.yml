@@ -1,4 +1,44 @@
 articles:
+- category: supply-chain
+  description: The Port of Brunswick remained the busiest automobile port in the United
+    States in 2025, according to the Georgia Ports Authority.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/brunswick-busiest-us-auto-port-2025
+  pub_date: '2026-05-07T13:40:00'
+  source: Supply Chain 24/7
+  title: Georgia’s Brunswick Retains Title as America’s Busiest Auto Port
+- category: supply-chain
+  description: Amazon Business is expanding same-day grocery delivery to thousands
+    of U.S. cities as it continues growing its workplace fulfillment network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-now-lets-businesses-order-groceries-with-office-supplies
+  pub_date: '2026-05-07T11:48:00'
+  source: Supply Chain 24/7
+  title: Amazon Now Lets Businesses Order Groceries With Their Office Supplies
+- category: supply-chain
+  description: Gartner says supply chain companies cutting entry-level hiring because
+    of AI may face higher labor costs and talent shortages later this decade.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-ai-entry-level-hiring-supply-chain-talent-shortage
+  pub_date: '2026-05-07T11:43:00'
+  source: Supply Chain 24/7
+  title: Gartner Warns AI-Driven Hiring Freeze Could Backfire by 2030
+- category: supply-chain
+  description: Aurora and Volvo are expanding autonomous trucking operations with
+    a new freight route connecting Dallas and Oklahoma City.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/volvo-aurora-autonomous-truck-route-oklahoma-city
+  pub_date: '2026-05-07T11:38:00'
+  source: Supply Chain 24/7
+  title: Volvo and Aurora Add Driverless Route Between Dallas and Oklahoma City
+- category: supply-chain
+  description: The R&D Tax Credit is giving U.S. manufacturers a practical way to
+    invest in innovation and stay competitive despite rising global pressure.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rd-tax-credit-us-manufacturing-reshoring
+  pub_date: '2026-05-07T10:28:00'
+  source: Supply Chain 24/7
+  title: Why the R&D Tax Credit Could Bring Back Made in the USA
 - category: circular
   description: Biffa and FCC Environment are among the 'first' waste management companies
     globally to use AI for compliance reporting. The waste management companies have
@@ -17,6 +57,16 @@ articles:
   pub_date: '2026-05-07T07:22:44'
   source: Circular Online
   title: 430 tonnes of food waste collected in Derby in rollout’s first month
+- category: supply-chain
+  description: Discover the hidden operational risks affecting warehouse throughput,
+    labor productivity, inventory confidence, and peak-season performance with this
+    fulfillment assessment checklist.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/what-causes-warehouse-performance-breakdowns-a-checklist-for-modern-fulfillment-teams
+  pub_date: '2026-05-06T14:16:00'
+  source: Supply Chain 24/7
+  title: What Causes Warehouse Performance Breakdowns? A Checklist for Modern Fulfillment
+    Teams
 - category: supply-chain
   description: Discover how connected packaging technologies like QR codes, RFID,
     and dynamic labeling help food and beverage brands improve transparency, reduce
@@ -70,23 +120,6 @@ articles:
   pub_date: '2026-05-05T16:59:00'
   source: Supply Chain 24/7
   title: Why the Strait of Hormuz Crisis Is Exposing Hidden Weaknesses in Supply Chains
-- category: supply-chain
-  description: Supply chain leaders are balancing daily operations with long-term
-    AI investments as they prepare for a shift toward more autonomous, decision-driven
-    supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-leaders-balancing-today-operations-ai-future
-  pub_date: '2026-05-05T13:26:00'
-  source: Supply Chain 24/7
-  title: Supply Chain Leaders Are Being Asked to Do Two Jobs at Once
-- category: supply-chain
-  description: A new Gartner survey finds that outdated systems and talent shortages
-    are the biggest barriers to scaling AI in supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-supply-chain-integration-talent-gaps-gartner-survey
-  pub_date: '2026-05-05T13:06:00'
-  source: Supply Chain 24/7
-  title: Half Of Supply Chain Leaders Lack Talent To Run AI Tools
 - category: circular
   description: The European Commission has held talks on the Circular Economy Act
     ahead of a final stakeholder workshop involving 1000 participants. The post European
@@ -96,38 +129,6 @@ articles:
   pub_date: '2026-05-05T09:29:09'
   source: Circular Online
   title: European Commission holds Circular Economy Act talks
-- category: supply-chain
-  description: Amazon is opening its entire logistics network to outside businesses,
-    pushing deeper into third-party supply chain services.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-opens-supply-chain-services-to-all-businesses
-  pub_date: '2026-05-04T12:47:00'
-  source: Supply Chain 24/7
-  title: Amazon Opens Its Supply Chain Network to Outside Businesses
-- category: supply-chain
-  description: A new report from E2open shows shows ocean shipping delays are shifting
-    beyond ports and into later stages of the journey, making shipments less predictable.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/shipping-delays-shift-downstream-ocean-shipping-2026
-  pub_date: '2026-05-03T21:37:00'
-  source: Supply Chain 24/7
-  title: Shipping Delays Are Moving Downstream, Not at Ports
-- category: supply-chain
-  description: In this edition of Rising Stars, meet Maddie Dorish, who turned a swim
-    meet side hustle into a career managing complex supply chain operations at Boeing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/rising-stars-maddie-dorish
-  pub_date: '2026-05-01T14:33:00'
-  source: Supply Chain 24/7
-  title: 'Rising Stars: Maddie Dorish, Asset Manager at Boeing'
-- category: supply-chain
-  description: Equipment demand hit a record in Q1 2026, but falling confidence and
-    softer March activity suggest momentum could start to slow.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/q1-equipment-demand-hits-record-as-confidence-starts-to-slip
-  pub_date: '2026-05-01T13:06:00'
-  source: Supply Chain 24/7
-  title: Q1 Equipment Demand Hits Record as Confidence Starts to Slip
 - category: circular
   description: A joint letter signed by 19 organisations, including CIWM, Green Alliance,
     and SUEZ, is calling on the Prime Minister to release the government's Circular
@@ -173,4 +174,4 @@ articles:
   pub_date: '2026-04-27T10:31:03'
   source: Circular Online
   title: London waste crime gang jailed after illegal dumping investigation
-last_updated: '2026-05-07T08:34:15.587527'
+last_updated: '2026-05-08T07:42:29.543922'
