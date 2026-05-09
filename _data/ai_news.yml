@@ -1,4 +1,28 @@
 articles:
+- category: ai-research
+  description: black and white card with headshots of susan credle, jayonta jenkins
+    and tiffany rolfe
+  icon: fa-google
+  link: https://blog.google/company-news/inside-google/company-announcements/the-small-brief/
+  pub_date: '2026-05-08T15:00:00'
+  source: Google AI Blog
+  title: See what happens when creative legends use AI to make ads for small businesses.
+- category: machine-learning
+  description: If you are feeding structured data into an LLM, there is a good chance
+    you are paying a JSON tax.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/stop-wasting-tokens-a-smarter-alternative-to-json-for-llm-pipelines
+  pub_date: '2026-05-08T14:00:30'
+  source: KDnuggets
+  title: 'Stop Wasting Tokens: A Smarter Alternative to JSON for LLM Pipelines'
+- category: machine-learning
+  description: Learn how to build a vector search engine from scratch in Python with
+    embeddings, similarity scoring, and basic retrieval logic.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-build-vector-search-from-scratch-in-python
+  pub_date: '2026-05-08T12:00:32'
+  source: KDnuggets
+  title: How to Build Vector Search From Scratch in Python
 - category: machine-learning
   description: Learn how to build a holistic pipeline for rigorous, statistical EDA,
     validating several important data properties.
@@ -115,22 +139,6 @@ articles:
   source: Google AI Blog
   title: Reduce friction and latency for long-running jobs with Webhooks in Gemini
     API
-- category: machine-learning
-  description: Learn how to build, test, deploy, and monitor your first FastAPI Cloud
-    app, a simple live gold and silver dashboard.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-deploy-your-first-app-on-fastapi-cloud
-  pub_date: '2026-05-04T14:00:33'
-  source: KDnuggets
-  title: How to Deploy Your First App on FastAPI Cloud
-- category: machine-learning
-  description: Claude Code token costs usually come from bloated context, not just
-    long prompts. These 7 practical tactics help reduce waste without hurting quality.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-practical-ways-to-reduce-claude-code-token-usage
-  pub_date: '2026-05-04T12:00:47'
-  source: KDnuggets
-  title: 7 Practical Ways to Reduce Claude Code Token Usage
 - category: ai-research
   description: Founded by Jake Donoghue PhD '19 and former MIT researcher Jarrett
     Revels, the company is creating an AI-driven platform to help diagnose and treat
@@ -241,12 +249,4 @@ articles:
   pub_date: '2026-04-23T09:00:00'
   source: Google AI Blog
   title: 'Elevating Austria: Google invests in its first data center in the Alps.'
-- category: ai-research
-  description: The eighth generation of Google's TPU includes two specialized chips
-    that will power the future of AI.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/
-  pub_date: '2026-04-22T12:00:00'
-  source: Google AI Blog
-  title: We're launching two specialized TPUs for the agentic era.
-last_updated: '2026-05-08T07:42:30.596147'
+last_updated: '2026-05-09T07:57:11.652286'
