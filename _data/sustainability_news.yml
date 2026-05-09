@@ -1,5 +1,37 @@
 articles:
 - category: supply-chain
+  description: Nvidia and Corning are expanding U.S. manufacturing with new AI-focused
+    factories planned for Texas and North Carolina.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nvidia-corning-ai-manufacturing-factories-texas-north-carolina
+  pub_date: '2026-05-08T12:09:00'
+  source: Supply Chain 24/7
+  title: Nvidia and Corning Open New AI Factories in Texas and North Carolina
+- category: supply-chain
+  description: Lilly is spending another $4.5 billion to expand its Indiana manufacturing
+    network as demand for obesity and diabetes drugs continues rising.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eli-lilly-indiana-manufacturing-expansion-4-5-billion
+  pub_date: '2026-05-08T12:07:00'
+  source: Supply Chain 24/7
+  title: Eli Lilly Invests Another $4.5 Billion in Indiana Manufacturing Sites
+- category: supply-chain
+  description: Americold is forming a $1.3 billion cold storage joint venture with
+    EQT that includes 12 U.S. refrigerated warehouse facilities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/americold-eqt-cold-storage-joint-venture
+  pub_date: '2026-05-08T12:03:00'
+  source: Supply Chain 24/7
+  title: Americold, EQT Launch $1.3 Billion Cold Storage Joint Venture
+- category: supply-chain
+  description: DoorDash said it plans to spend more than $50 million helping drivers
+    manage rising fuel costs while delivery demand remains strong.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/doordash-driver-fuel-relief-rising-gas-prices
+  pub_date: '2026-05-08T12:00:00'
+  source: Supply Chain 24/7
+  title: DoorDash Spending $50 Million to Help Drivers With Gas Costs
+- category: supply-chain
   description: The Port of Brunswick remained the busiest automobile port in the United
     States in 2025, according to the Georgia Ports Authority.
   icon: fa-box
@@ -67,24 +99,6 @@ articles:
   source: Supply Chain 24/7
   title: What Causes Warehouse Performance Breakdowns? A Checklist for Modern Fulfillment
     Teams
-- category: supply-chain
-  description: Discover how connected packaging technologies like QR codes, RFID,
-    and dynamic labeling help food and beverage brands improve transparency, reduce
-    waste, strengthen compliance, and engage consumers.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/what-is-smart-packaging-how-connected-packaging-is-transforming-the-food-beverage-industry
-  pub_date: '2026-05-06T14:00:00'
-  source: Supply Chain 24/7
-  title: What Is Smart Packaging? How Connected Packaging Is Transforming the Food
-    & Beverage Industry
-- category: supply-chain
-  description: A new Sovos survey shows that rising global tax complexity is slowing
-    business decisions and pushing companies to rethink compliance strategies.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/finance-leaders-struggle-global-tax-compliance-ai-growth
-  pub_date: '2026-05-06T13:00:00'
-  source: Supply Chain 24/7
-  title: Finance Leaders Struggle to Keep Up With Tax Rules as AI Use Grows
 - category: circular
   description: The Environment Agency has launched an investigation into a 'sickening'
     30,000 illegal waste dump on a Site of Special Scientific Interest in Leicestershire.
@@ -103,23 +117,6 @@ articles:
   pub_date: '2026-05-06T07:30:00'
   source: Circular Online
   title: Over 50 businesses urge government to publish Circular Economy Growth Plan
-- category: supply-chain
-  description: Penske Logistics launched a new platform that brings supply chain data
-    into one place to help companies track and manage operations in real time.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/penske-launches-supply-chain-insight-platform-visibility
-  pub_date: '2026-05-05T20:26:00'
-  source: Supply Chain 24/7
-  title: Penske Logistics Launches Supply Chain Insight to Improve Visibility
-- category: supply-chain
-  description: 'As shipping routes tighten, the Strait of Hormuz crisis highlights
-    a major gap in global supply chains: companies can see disruptions-but can''t
-    respond collaboratively. Here''s what needs to change.'
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-the-strait-of-hormuz-crisis-is-exposing-hidden-weaknesses-in-supply-chains
-  pub_date: '2026-05-05T16:59:00'
-  source: Supply Chain 24/7
-  title: Why the Strait of Hormuz Crisis Is Exposing Hidden Weaknesses in Supply Chains
 - category: circular
   description: The European Commission has held talks on the Circular Economy Act
     ahead of a final stakeholder workshop involving 1000 participants. The post European
@@ -174,4 +171,4 @@ articles:
   pub_date: '2026-04-27T10:31:03'
   source: Circular Online
   title: London waste crime gang jailed after illegal dumping investigation
-last_updated: '2026-05-08T07:42:29.543922'
+last_updated: '2026-05-09T07:57:10.653786'
