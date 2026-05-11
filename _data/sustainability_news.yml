@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: UK fire brigades are tackling fires caused by a lithium-ion battery
+    at a rate of once every five hours, new figures show. The post Fire brigades called
+    to one lithium-ion battery fire every five hours...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/fire-brigades-called-to-one-lithium-ion-battery-fire-every-five-hours/
+  pub_date: '2026-05-11T08:07:10'
+  source: Circular Online
+  title: Fire brigades called to one lithium-ion battery fire every five hours
 - category: supply-chain
   description: Nvidia and Corning are expanding U.S. manufacturing with new AI-focused
     factories planned for Texas and North Carolina.
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-04-27T14:52:00'
   source: Circular Online
   title: Deal agreed to end Birmingham bin strikes
-- category: circular
-  description: A London waste crime gang has been jailed for conspiracy to illegally
-    dump controlled waste across six sites in the capital. The post London waste crime
-    gang jailed after illegal dumping investigation...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/london-waste-crime-gang-jailed-after-illegal-dumping-investigation/
-  pub_date: '2026-04-27T10:31:03'
-  source: Circular Online
-  title: London waste crime gang jailed after illegal dumping investigation
-last_updated: '2026-05-10T08:08:04.998728'
+last_updated: '2026-05-11T09:39:59.917473'

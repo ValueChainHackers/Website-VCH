@@ -1,5 +1,12 @@
 articles:
 - category: ai-research
+  description: A screenshot of the AI-powered experience on Google Finance.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/
+  pub_date: '2026-05-11T06:00:00'
+  source: Google AI Blog
+  title: The new AI-powered Google Finance is expanding to Europe.
+- category: ai-research
   description: black and white card with headshots of susan credle, jayonta jenkins
     and tiffany rolfe
   icon: fa-google
@@ -242,11 +249,4 @@ articles:
   pub_date: '2026-04-23T12:00:00'
   source: Google AI Blog
   title: Here’s how our TPUs power increasingly demanding AI workloads.
-- category: ai-research
-  description: Aerial image of the data center
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/
-  pub_date: '2026-04-23T09:00:00'
-  source: Google AI Blog
-  title: 'Elevating Austria: Google invests in its first data center in the Alps.'
-last_updated: '2026-05-10T08:08:06.011521'
+last_updated: '2026-05-11T09:40:00.751976'
