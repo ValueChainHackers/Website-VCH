@@ -1,4 +1,29 @@
 articles:
+- category: machine-learning
+  description: This article discusses how to implement an infrastructure for measuring
+    and controlling overly verbose LLM responses.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/guardrails-for-llms-measuring-ai-hallucination-and-verbosity
+  pub_date: '2026-05-11T16:00:36'
+  source: KDnuggets
+  title: 'Guardrails for LLMs: Measuring AI ‘Hallucination’ and Verbosity'
+- category: machine-learning
+  description: Learn how to build an AI-powered Learning Management System from scratch
+    using Ollama, FastAPI, and React. A step-by-step guide for beginner and intermediate
+    developers.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/build-an-ai-powered-learning-management-system-that-actually-trains-people
+  pub_date: '2026-05-11T14:00:43'
+  source: KDnuggets
+  title: Build an AI-Powered Learning Management System That Actually Trains People
+- category: machine-learning
+  description: Learn FastAPI through templates, examples, guides, auth tools, microservices,
+    full-stack starters, and machine learning projects.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-github-repositories-to-master-fastapi
+  pub_date: '2026-05-11T12:00:48'
+  source: KDnuggets
+  title: 10 GitHub Repositories to Master FastAPI
 - category: ai-research
   description: A screenshot of the AI-powered experience on Google Finance.
   icon: fa-google
@@ -106,22 +131,6 @@ articles:
   source: Google AI Blog
   title: Google is partnering with XPRIZE and Range Media Partners on the $3.5 million
     Future Vision film competition.
-- category: machine-learning
-  description: One is genuine curiosity. The other is someone who already knows what
-    they want and went looking for a number to back it up.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/baptists-and-bootleggers-the-hidden-coalition-behind-data-driven-decisions
-  pub_date: '2026-05-05T14:00:50'
-  source: KDnuggets
-  title: 'Baptists and Bootleggers: The Hidden Coalition Behind ‘Data-Driven’ Decisions'
-- category: machine-learning
-  description: Turn Claude Code into your AI coding partner with these 5 hands-on
-    projects, from beginner-friendly builds to advanced agent workflows.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-fun-projects-using-claude-code
-  pub_date: '2026-05-05T12:00:34'
-  source: KDnuggets
-  title: 5 Fun Projects Using Claude Code
 - category: ai-research
   description: mp4 featuring an underwater video and a mobile AI video mockup.
   icon: fa-google
@@ -129,15 +138,6 @@ articles:
   pub_date: '2026-05-04T17:00:00'
   source: Google AI Blog
   title: The latest AI news we announced in April 2026
-- category: machine-learning
-  description: How to turn an interview-style SQL query into a production-ready, testable,
-    version-controlled workflow.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/testing-sql-like-a-software-engineer-unit-testing-ci-cd-and-data-quality-automation
-  pub_date: '2026-05-04T16:00:16'
-  source: KDnuggets
-  title: 'Testing SQL Like a Software Engineer: Unit Testing, CI/CD, and Data Quality
-    Automation'
 - category: ai-research
   description: Gemini API
   icon: fa-google
@@ -249,4 +249,4 @@ articles:
   pub_date: '2026-04-23T12:00:00'
   source: Google AI Blog
   title: Here’s how our TPUs power increasingly demanding AI workloads.
-last_updated: '2026-05-11T09:40:00.751976'
+last_updated: '2026-05-12T08:40:19.796640'
