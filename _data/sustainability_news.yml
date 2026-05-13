@@ -1,4 +1,63 @@
 articles:
+- category: circular
+  description: Two councils in Kent have jointly awarded a new 12-year household recycling,
+    waste collection and street cleansing contract to FCC Environment. The post Kent
+    councils award joint 12-year contract to F...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/kent-councils-award-joint-12-year-contract-to-fcc-environment/
+  pub_date: '2026-05-13T07:30:00'
+  source: Circular Online
+  title: Kent councils award joint 12-year contract to FCC Environment
+- category: circular
+  description: A waste and recycling company in South East London has been fined GBP167,000
+    for stockpiling skips with the risk described as 'potentially catastrophic'. The
+    post Waste company given six-figure fine f...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-company-given-six-figure-fine-for-stockpiling-skips/
+  pub_date: '2026-05-13T07:30:00'
+  source: Circular Online
+  title: Waste company given six-figure fine for stockpiling skips
+- category: supply-chain
+  description: Amazon is rapidly expanding its Amazon Now service, bringing 30-minute
+    delivery of groceries and household essentials to more U.S. cities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-now-30-minute-delivery-expansion-us-cities
+  pub_date: '2026-05-12T17:59:00'
+  source: Supply Chain 24/7
+  title: Amazon Expands 30-Minute Delivery Service to More U.S. Cities
+- category: supply-chain
+  description: Amazon VP Peter Larsen discusses why Amazon opened its supply chain
+    network to outside businesses and how the company plans to scale the service.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/inside-amazons-push-to-open-its-logistics-network-to-everyone
+  pub_date: '2026-05-12T15:01:00'
+  source: Supply Chain 24/7
+  title: Inside Amazon’s Push to Open Its Logistics Network to Everyone
+- category: supply-chain
+  description: Diesel prices remain elevated across the U.S., with California approaching
+    $7.50 per gallon while several Southern states remain closer to $5.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-much-diesel-costs-in-every-state-right-now
+  pub_date: '2026-05-12T14:14:00'
+  source: Supply Chain 24/7
+  title: How Much Diesel Costs in Every State Across the U.S.
+- category: supply-chain
+  description: Maersk is adding a new seasonal shipping route between Asia and the
+    U.S. West Coast as importers prepare for peak season demand.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-adds-new-asia-u.s-shipping-route-ahead-of-peak-season
+  pub_date: '2026-05-12T14:04:00'
+  source: Supply Chain 24/7
+  title: Maersk Adds New Asia-U.S. Shipping Route Ahead of Peak Season
+- category: circular
+  description: Germany was the largest exporter of plastic waste in 2025, closely
+    followed by the UK, according to new research published in the Guardian. The post
+    Germany was the 'largest plastic waste exporter' in...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/germany-was-the-largest-plastic-waste-exporter-in-2025-research-finds/
+  pub_date: '2026-05-12T09:59:58'
+  source: Circular Online
+  title: Germany was the ‘largest plastic waste exporter’ in 2025, research finds
 - category: supply-chain
   description: Supply chain leaders at the Gartner conference said the next major
     challenge is turning visibility data into faster operational decisions.
@@ -65,38 +124,6 @@ articles:
   pub_date: '2026-05-08T12:09:00'
   source: Supply Chain 24/7
   title: Nvidia and Corning Open New AI Factories in Texas and North Carolina
-- category: supply-chain
-  description: Lilly is spending another $4.5 billion to expand its Indiana manufacturing
-    network as demand for obesity and diabetes drugs continues rising.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/eli-lilly-indiana-manufacturing-expansion-4-5-billion
-  pub_date: '2026-05-08T12:07:00'
-  source: Supply Chain 24/7
-  title: Eli Lilly Invests Another $4.5 Billion in Indiana Manufacturing Sites
-- category: supply-chain
-  description: Americold is forming a $1.3 billion cold storage joint venture with
-    EQT that includes 12 U.S. refrigerated warehouse facilities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/americold-eqt-cold-storage-joint-venture
-  pub_date: '2026-05-08T12:03:00'
-  source: Supply Chain 24/7
-  title: Americold, EQT Launch $1.3 Billion Cold Storage Joint Venture
-- category: supply-chain
-  description: DoorDash said it plans to spend more than $50 million helping drivers
-    manage rising fuel costs while delivery demand remains strong.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/doordash-driver-fuel-relief-rising-gas-prices
-  pub_date: '2026-05-08T12:00:00'
-  source: Supply Chain 24/7
-  title: DoorDash Spending $50 Million to Help Drivers With Gas Costs
-- category: supply-chain
-  description: The Port of Brunswick remained the busiest automobile port in the United
-    States in 2025, according to the Georgia Ports Authority.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/brunswick-busiest-us-auto-port-2025
-  pub_date: '2026-05-07T13:40:00'
-  source: Supply Chain 24/7
-  title: Georgia’s Brunswick Retains Title as America’s Busiest Auto Port
 - category: circular
   description: Biffa and FCC Environment are among the 'first' waste management companies
     globally to use AI for compliance reporting. The waste management companies have
@@ -142,31 +169,4 @@ articles:
   pub_date: '2026-05-05T09:29:09'
   source: Circular Online
   title: European Commission holds Circular Economy Act talks
-- category: circular
-  description: A joint letter signed by 19 organisations, including CIWM, Green Alliance,
-    and SUEZ, is calling on the Prime Minister to release the government's Circular
-    Economy Growth Plan. The post Joint letter ca...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/joint-letter-calls-on-pm-to-release-circular-economy-growth-plan/
-  pub_date: '2026-04-30T07:30:00'
-  source: Circular Online
-  title: Joint letter calls on PM to release Circular Economy Growth Plan
-- category: circular
-  description: News updates written by CIWM's commercial partners. Greyparrot Greyparrot
-    to share interactive facility simulator at IFAT and PRSE Dennis Eagle Dennis Eagle's
-    five top tips to reduce your food waste C...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-ciwm-commercial-partner-updates-april-2/
-  pub_date: '2026-04-30T07:30:00'
-  source: Circular Online
-  title: News in brief | CIWM Commercial Partner Updates April
-- category: circular
-  description: '''World''s first'' pilot facility converting waste plastic to Sustainable
-    Aviation Fuel (SAF) opens in Kent. The post ''World''s first'' facility that converts
-    waste plastic to aviation fuel opens appeared ...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/worlds-first-facility-that-converts-waste-plastic-to-aviation-fuel-opens/
-  pub_date: '2026-04-29T06:58:59'
-  source: Circular Online
-  title: ‘World’s first’ facility that converts waste plastic to aviation fuel opens
-last_updated: '2026-05-12T08:40:18.931484'
+last_updated: '2026-05-13T08:44:38.370909'
