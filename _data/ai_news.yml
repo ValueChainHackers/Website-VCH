@@ -1,4 +1,39 @@
 articles:
+- category: ai-research
+  description: Dimitris Bertsimas and Megan Mitchell discuss the motivation behind
+    Universal Learning, and what sets the new MIT Open Learning educational initiative
+    apart.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512
+  pub_date: '2026-05-12T15:00:00'
+  source: MIT AI News
+  title: 'Q&A: Expanding MIT’s global reach through Universal Learning'
+- category: ai-research
+  description: New AI education program from MIT Open Learning debuts with AI-powered
+    personalization and a free introductory course for learners everywhere.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512
+  pub_date: '2026-05-12T15:00:00'
+  source: MIT AI News
+  title: Universal AI is “a pathway to AI fluency that’s accessible and approachable
+    to anyone, anywhere”
+- category: machine-learning
+  description: In this article, we explore three real data problems using real questions
+    where Polars outpaces Pandas on every metric.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/using-polars-instead-of-pandas-performance-deep-dive
+  pub_date: '2026-05-12T14:00:13'
+  source: KDnuggets
+  title: 'Using Polars Instead of Pandas: Performance Deep Dive'
+- category: machine-learning
+  description: Time series data is common across finance, operations, engineering,
+    and research. These five Python scripts cover the analysis tasks that come up
+    repeatedly.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-for-time-series-analysis
+  pub_date: '2026-05-12T12:00:42'
+  source: KDnuggets
+  title: 5 Useful Python Scripts for Time Series Analysis
 - category: machine-learning
   description: This article discusses how to implement an infrastructure for measuring
     and controlling overly verbose LLM responses.
@@ -97,22 +132,6 @@ articles:
   pub_date: '2026-05-06T16:00:00'
   source: Google AI Blog
   title: 5 gardening tips you can try right in Search
-- category: machine-learning
-  description: Learn how to connect Claude Code to Discord locally, pair your account,
-    control access, and keep the bot running reliably.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-set-up-claude-code-channels-locally
-  pub_date: '2026-05-06T14:00:00'
-  source: KDnuggets
-  title: How to Set Up Claude Code Channels Locally
-- category: machine-learning
-  description: Learn which seven OpenCode plugins add memory, search, Gemini, terminal
-    control, analytics, and reusable skills to make AI coding workflows stronger.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-opencode-plugins-that-make-ai-coding-more-powerful
-  pub_date: '2026-05-06T12:00:47'
-  source: KDnuggets
-  title: 7 OpenCode Plugins That Make AI Coding More Powerful
 - category: ai-research
   description: Assistant Professor Gabriele Farina mines the foundations of decision-making
     in complex multi-agent scenarios.
@@ -215,14 +234,6 @@ articles:
   source: Google AI Blog
   title: Join the new AI Agents Vibe Coding Course from Google and Kaggle
 - category: ai-research
-  description: The "EnergAIzer" method generates reliable results in seconds, enabling
-    data center operators to efficiently allocate resources and reduce wasted energy.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427
-  pub_date: '2026-04-27T04:00:00'
-  source: MIT AI News
-  title: A faster way to estimate AI power consumption
-- category: ai-research
   description: Black screen with illustrations including a laptop with document and
     email icons streaming out, a smiling person holding a phone and looking at a checklist,
     and a user activating Gemini Live
@@ -232,16 +243,6 @@ articles:
   source: Google AI Blog
   title: 8 Gemini tips for organizing your space (and life)
 - category: ai-research
-  description: New dataset of 30,000-plus competition math problems from 47 countries
-    gives AI researchers a harder test - and students worldwide a better training
-    ground.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424
-  pub_date: '2026-04-24T17:00:00'
-  source: MIT AI News
-  title: MIT scientists build the world’s largest collection of Olympiad-level math
-    problems, and open it to everyone
-- category: ai-research
   description: Learn how Google's TPUs power increasingly demanding AI workloads with
     this new video.
   icon: fa-google
@@ -249,4 +250,4 @@ articles:
   pub_date: '2026-04-23T12:00:00'
   source: Google AI Blog
   title: Here’s how our TPUs power increasingly demanding AI workloads.
-last_updated: '2026-05-12T08:40:19.796640'
+last_updated: '2026-05-13T08:44:39.228539'
