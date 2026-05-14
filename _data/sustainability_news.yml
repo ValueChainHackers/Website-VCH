@@ -1,4 +1,38 @@
 articles:
+- category: supply-chain
+  description: Kuehne + Nagel topped Armstrong & Associates' latest global air freight
+    forwarder ranking, finishing just ahead of DSV.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-global-air-freight-forwarders-2026
+  pub_date: '2026-05-13T16:33:00'
+  source: Supply Chain 24/7
+  title: Ranking the World’s 25 Largest Air Freight Forwarders
+- category: supply-chain
+  description: Michelle Korte, Chief Customer Officer at Tive, explains why many supply
+    chain visibility gaps still happen once freight reaches the facility.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/the-biggest-blind-spot-in-supply-chains-starts-at-the-warehouse
+  pub_date: '2026-05-13T13:23:00'
+  source: Supply Chain 24/7
+  title: The Biggest Blind Spot in Supply Chains Starts at the Warehouse
+- category: supply-chain
+  description: Emily Gallo of OptiFreight Logistics at Cardinal Health explains why
+    companies need to plan earlier, use better data, and treat peak season as a year-round
+    challenge.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/peak-season-is-starting-earlier-heres-how-companies-can-keep-up
+  pub_date: '2026-05-13T13:04:00'
+  source: Supply Chain 24/7
+  title: Peak Season Is Starting Earlier. Here’s How Companies Can Keep Up
+- category: supply-chain
+  description: A new Sphera study found supply chain disruptions continue to hurt
+    revenue because companies are often too slow to detect problems, understand the
+    impact, and respond effectively.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-disruption-delays-revenue-loss-study
+  pub_date: '2026-05-13T11:33:00'
+  source: Supply Chain 24/7
+  title: Supply Chain Disruptions Are Quietly Hurting Company Revenue
 - category: circular
   description: Two councils in Kent have jointly awarded a new 12-year household recycling,
     waste collection and street cleansing contract to FCC Environment. The post Kent
@@ -74,30 +108,6 @@ articles:
   pub_date: '2026-05-11T13:22:00'
   source: Supply Chain 24/7
   title: SEG Solar Investing $200 Million in Houston Expansion
-- category: supply-chain
-  description: FourKites has launched an AI-powered platform that automates ocean
-    freight booking, carrier selection, and shipping paperwork.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fourkites-ai-ocean-freight-booking-platform
-  pub_date: '2026-05-11T13:04:00'
-  source: Supply Chain 24/7
-  title: FourKites Unveils Autonomous Ocean Freight Booking System
-- category: supply-chain
-  description: Jeff Golfman of Send123 discusses how procurement teams can reduce
-    disruption risks as supply chain pressures continue to grow.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-teams-supply-chain-shortage-risks
-  pub_date: '2026-05-11T12:58:00'
-  source: Supply Chain 24/7
-  title: Basic Business Supplies Are Emerging as a Supply Chain Risk
-- category: supply-chain
-  description: A new Gartner survey found most supply chain organizations are still
-    taking incremental steps with AI rather than fully redesigning operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-ai-supply-chain-operating-models-survey
-  pub_date: '2026-05-11T12:57:00'
-  source: Supply Chain 24/7
-  title: Why So Few Supply Chains Have Fully Embraced AI
 - category: circular
   description: Waste management company SUEZ installs 'pioneering' UV tag reading
     and sorting system at its materials recycling centre in Avonmouth. The UV detection
@@ -116,14 +126,6 @@ articles:
   pub_date: '2026-05-11T08:07:10'
   source: Circular Online
   title: Fire brigades called to one lithium-ion battery fire every five hours
-- category: supply-chain
-  description: Nvidia and Corning are expanding U.S. manufacturing with new AI-focused
-    factories planned for Texas and North Carolina.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nvidia-corning-ai-manufacturing-factories-texas-north-carolina
-  pub_date: '2026-05-08T12:09:00'
-  source: Supply Chain 24/7
-  title: Nvidia and Corning Open New AI Factories in Texas and North Carolina
 - category: circular
   description: Biffa and FCC Environment are among the 'first' waste management companies
     globally to use AI for compliance reporting. The waste management companies have
@@ -169,4 +171,4 @@ articles:
   pub_date: '2026-05-05T09:29:09'
   source: Circular Online
   title: European Commission holds Circular Economy Act talks
-last_updated: '2026-05-13T08:44:38.370909'
+last_updated: '2026-05-14T08:37:50.953701'

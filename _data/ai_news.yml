@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: Discover how AI agents will revolutionize data science in 2026, and
+    learn why they won't replace you but will make you a faster, smarter analyst.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026
+  pub_date: '2026-05-13T14:00:38'
+  source: KDnuggets
+  title: How AI Agents Will Transform Data Science Work in 2026
+- category: machine-learning
+  description: 'Learn how modern infrastructure works through self-hosting: containers,
+    reverse proxies, monitoring, backups, networking, and systems operations.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting
+  pub_date: '2026-05-13T12:00:11'
+  source: KDnuggets
+  title: 10 GitHub Repositories to Master Self-Hosting
 - category: ai-research
   description: Dimitris Bertsimas and Megan Mitchell discuss the motivation behind
     Universal Learning, and what sets the new MIT Open Learning educational initiative
@@ -98,14 +114,6 @@ articles:
   pub_date: '2026-05-07T14:00:08'
   source: KDnuggets
   title: Building Modern EDA Pipelines with Pingouin
-- category: machine-learning
-  description: This article is a quick, everyday tour of seven distributions you'll
-    actually recognize once you know what to look for. No heavy math. No gatekeeping.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-everyday-distributions-explained-simply
-  pub_date: '2026-05-07T12:00:54'
-  source: KDnuggets
-  title: 7 Everyday Distributions Explained Simply
 - category: ai-research
   description: MIT economists found US companies tend to target employees earning
     a "wage premium," which increases inequality but not necessarily productivity.
@@ -114,15 +122,6 @@ articles:
   pub_date: '2026-05-07T04:00:00'
   source: MIT AI News
   title: 'Study: Firms often use automation to control certain workers’ wages'
-- category: machine-learning
-  description: A detailed Abacus AI review covering ChatLLM, Abacus AI Agent, Claw,
-    automation, app building, image and video generation, pricing, pros, cons, and
-    who should use it.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/05/abacus/abacus-ai-review
-  pub_date: '2026-05-06T17:00:36'
-  source: KDnuggets
-  title: 'Abacus AI Review: Features, AI Agents & Automation Explained (Honest Guide)'
 - category: ai-research
   description: An abstract background featuring soft, stippled illustrations of flowers
     and a butterfly in a bright palette of blue, green, and red. In the center of
@@ -250,4 +249,4 @@ articles:
   pub_date: '2026-04-23T12:00:00'
   source: Google AI Blog
   title: Here’s how our TPUs power increasingly demanding AI workloads.
-last_updated: '2026-05-13T08:44:39.228539'
+last_updated: '2026-05-14T08:37:52.103822'
