@@ -1,4 +1,27 @@
 articles:
+- category: ai-research
+  description: The prestigious fellowship funds graduate studies at Stanford University.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/knight-hennessy-scholars-0514
+  pub_date: '2026-05-14T20:55:00'
+  source: MIT AI News
+  title: Two from MIT named 2026 Knight-Hennessy Scholars
+- category: machine-learning
+  description: Learn how to use Python itertools to build efficient and scalable time
+    series features.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/time-series-feature-engineering-with-python-itertools
+  pub_date: '2026-05-14T14:00:07'
+  source: KDnuggets
+  title: Time-Series Feature Engineering with Python Itertools
+- category: machine-learning
+  description: 'Here are 5 small language models that hare one important trait: they
+    all support structured tool calling in a compact, open-weight package.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-small-language-models-for-agentic-tool-calling
+  pub_date: '2026-05-14T12:00:13'
+  source: KDnuggets
+  title: 5 Small Language Models for Agentic Tool Calling
 - category: machine-learning
   description: Discover how AI agents will revolutionize data science in 2026, and
     learn why they won't replace you but will make you a faster, smarter analyst.
@@ -98,22 +121,6 @@ articles:
   pub_date: '2026-05-08T14:00:30'
   source: KDnuggets
   title: 'Stop Wasting Tokens: A Smarter Alternative to JSON for LLM Pipelines'
-- category: machine-learning
-  description: Learn how to build a vector search engine from scratch in Python with
-    embeddings, similarity scoring, and basic retrieval logic.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-build-vector-search-from-scratch-in-python
-  pub_date: '2026-05-08T12:00:32'
-  source: KDnuggets
-  title: How to Build Vector Search From Scratch in Python
-- category: machine-learning
-  description: Learn how to build a holistic pipeline for rigorous, statistical EDA,
-    validating several important data properties.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-modern-eda-pipelines-with-pingouin
-  pub_date: '2026-05-07T14:00:08'
-  source: KDnuggets
-  title: Building Modern EDA Pipelines with Pingouin
 - category: ai-research
   description: MIT economists found US companies tend to target employees earning
     a "wage premium," which increases inequality but not necessarily productivity.
@@ -208,14 +215,6 @@ articles:
   title: The MIT-IBM Computing Research Lab launches to shape the future of AI and
     quantum computing
 - category: ai-research
-  description: A new method could bring more accurate and efficient AI models to high-stakes
-    applications like health care and finance, even in under-resourced settings.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429
-  pub_date: '2026-04-29T04:00:00'
-  source: MIT AI News
-  title: Enabling privacy-preserving AI training on everyday devices
-- category: ai-research
   description: The Google Translate logo sits in the middle of colorful illustrated
     scenes, including people translating live conversations and a birthday cake topped
     by candles with the numeral 20
@@ -249,4 +248,4 @@ articles:
   pub_date: '2026-04-23T12:00:00'
   source: Google AI Blog
   title: Here’s how our TPUs power increasingly demanding AI workloads.
-last_updated: '2026-05-14T08:37:52.103822'
+last_updated: '2026-05-15T08:49:08.046076'
