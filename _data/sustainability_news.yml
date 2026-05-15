@@ -1,5 +1,46 @@
 articles:
 - category: supply-chain
+  description: Retail sales continued to rise in April, driven by strong online shopping
+    and steady consumer spending despite inflation concerns.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/retail-sales-april-2026-inflation-ecommerce-growth
+  pub_date: '2026-05-14T15:54:00'
+  source: Supply Chain 24/7
+  title: April Retail Sales Continue to Climb Despite Inflation
+- category: supply-chain
+  description: A new Highway report says half of all cargo theft incidents in Q1 2026
+    involved carriers with clean records and legitimate operating authority.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/freight-fraud-trusted-carriers-cargo-theft
+  pub_date: '2026-05-14T13:37:00'
+  source: Supply Chain 24/7
+  title: Half of Cargo Theft Cases Now Linked to Trusted Carriers
+- category: supply-chain
+  description: Parcel carriers are focusing more on profits, pricing, and efficiency
+    as competition across the delivery market continues to grow.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/roundtable-looking-at-the-current-state-of-todays-parcel-marketplace
+  pub_date: '2026-05-14T13:19:00'
+  source: Supply Chain 24/7
+  title: 'Roundtable: The Current State of Today’s Parcel Marketplace'
+- category: supply-chain
+  description: Walmart is converting vacant retail spaces into small delivery hubs
+    to speed up grocery deliveries and compete more directly with Amazon.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-empty-retail-spaces-last-mile-delivery-hubs
+  pub_date: '2026-05-14T10:57:00'
+  source: Supply Chain 24/7
+  title: Walmart to Convert Vacant Retail Space Into Delivery Depots
+- category: circular
+  description: There are 'significant weaknesses' in the Environment Agency's inspections
+    of waste operations and installations, Office for Environmental Protection (OEP)
+    report finds. The post OEP finds 'significan...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/oep-finds-significant-weaknesses-in-regulation-of-waste-sites/
+  pub_date: '2026-05-14T09:15:25'
+  source: Circular Online
+  title: OEP finds ‘significant weaknesses’ in regulation of waste sites
+- category: supply-chain
   description: Kuehne + Nagel topped Armstrong & Associates' latest global air freight
     forwarder ranking, finishing just ahead of DSV.
   icon: fa-box
@@ -67,22 +108,6 @@ articles:
   pub_date: '2026-05-12T15:01:00'
   source: Supply Chain 24/7
   title: Inside Amazon’s Push to Open Its Logistics Network to Everyone
-- category: supply-chain
-  description: Diesel prices remain elevated across the U.S., with California approaching
-    $7.50 per gallon while several Southern states remain closer to $5.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-much-diesel-costs-in-every-state-right-now
-  pub_date: '2026-05-12T14:14:00'
-  source: Supply Chain 24/7
-  title: How Much Diesel Costs in Every State Across the U.S.
-- category: supply-chain
-  description: Maersk is adding a new seasonal shipping route between Asia and the
-    U.S. West Coast as importers prepare for peak season demand.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-adds-new-asia-u.s-shipping-route-ahead-of-peak-season
-  pub_date: '2026-05-12T14:04:00'
-  source: Supply Chain 24/7
-  title: Maersk Adds New Asia-U.S. Shipping Route Ahead of Peak Season
 - category: circular
   description: Germany was the largest exporter of plastic waste in 2025, closely
     followed by the UK, according to new research published in the Guardian. The post
@@ -92,22 +117,6 @@ articles:
   pub_date: '2026-05-12T09:59:58'
   source: Circular Online
   title: Germany was the ‘largest plastic waste exporter’ in 2025, research finds
-- category: supply-chain
-  description: Supply chain leaders at the Gartner conference said the next major
-    challenge is turning visibility data into faster operational decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chains-need-faster-decisions-not-more-visibility
-  pub_date: '2026-05-11T13:40:00'
-  source: Supply Chain 24/7
-  title: Supply Chains Don’t Need More Visibility. They Need Faster Decisions
-- category: supply-chain
-  description: SEG Solar is investing $200 million into a Houston manufacturing expansion
-    expected to create 800 jobs and increase U.S. solar production capacity.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/seg-solar-houston-manufacturing-expansion
-  pub_date: '2026-05-11T13:22:00'
-  source: Supply Chain 24/7
-  title: SEG Solar Investing $200 Million in Houston Expansion
 - category: circular
   description: Waste management company SUEZ installs 'pioneering' UV tag reading
     and sorting system at its materials recycling centre in Avonmouth. The UV detection
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-05-06T07:30:00'
   source: Circular Online
   title: Over 50 businesses urge government to publish Circular Economy Growth Plan
-- category: circular
-  description: The European Commission has held talks on the Circular Economy Act
-    ahead of a final stakeholder workshop involving 1000 participants. The post European
-    Commission holds Circular Economy Act talks appe...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/european-commission-holds-circular-economy-act-talks/
-  pub_date: '2026-05-05T09:29:09'
-  source: Circular Online
-  title: European Commission holds Circular Economy Act talks
-last_updated: '2026-05-14T08:37:50.953701'
+last_updated: '2026-05-15T08:49:07.200879'
