@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: How does it boost efficiency without losing accuracy? Is it really
+    worth the hype?
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/turboquant-is-the-compression-and-performance-worth-the-hype
+  pub_date: '2026-05-15T14:00:37'
+  source: KDnuggets
+  title: 'TurboQuant: Is the Compression and Performance Worth the Hype?'
+- category: machine-learning
+  description: In this article, we will explore five fundamental concepts that every
+    Python developer should have in their toolkit.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-must-know-python-concepts
+  pub_date: '2026-05-15T12:00:37'
+  source: KDnuggets
+  title: 5 Must-Know Python Concepts
 - category: ai-research
   description: The prestigious fellowship funds graduate studies at Stanford University.
   icon: fa-graduation-cap
@@ -90,14 +106,6 @@ articles:
   pub_date: '2026-05-11T14:00:43'
   source: KDnuggets
   title: Build an AI-Powered Learning Management System That Actually Trains People
-- category: machine-learning
-  description: Learn FastAPI through templates, examples, guides, auth tools, microservices,
-    full-stack starters, and machine learning projects.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-to-master-fastapi
-  pub_date: '2026-05-11T12:00:48'
-  source: KDnuggets
-  title: 10 GitHub Repositories to Master FastAPI
 - category: ai-research
   description: A screenshot of the AI-powered experience on Google Finance.
   icon: fa-google
@@ -113,14 +121,6 @@ articles:
   pub_date: '2026-05-08T15:00:00'
   source: Google AI Blog
   title: See what happens when creative legends use AI to make ads for small businesses.
-- category: machine-learning
-  description: If you are feeding structured data into an LLM, there is a good chance
-    you are paying a JSON tax.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/stop-wasting-tokens-a-smarter-alternative-to-json-for-llm-pipelines
-  pub_date: '2026-05-08T14:00:30'
-  source: KDnuggets
-  title: 'Stop Wasting Tokens: A Smarter Alternative to JSON for LLM Pipelines'
 - category: ai-research
   description: MIT economists found US companies tend to target employees earning
     a "wage premium," which increases inequality but not necessarily productivity.
@@ -248,4 +248,4 @@ articles:
   pub_date: '2026-04-23T12:00:00'
   source: Google AI Blog
   title: Here’s how our TPUs power increasingly demanding AI workloads.
-last_updated: '2026-05-15T08:49:08.046076'
+last_updated: '2026-05-16T08:04:48.714531'

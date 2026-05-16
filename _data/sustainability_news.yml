@@ -1,5 +1,65 @@
 articles:
 - category: supply-chain
+  description: New AI tools make building easier, but maintaining procurement systems
+    over the long term is often the bigger challenge.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurements-build-vs-buy-problem-has-a-simple-answer
+  pub_date: '2026-05-15T19:32:00'
+  source: Supply Chain 24/7
+  title: Procurement’s Build vs. Buy Problem Has a Simple Answer
+- category: supply-chain
+  description: New research reveals why supply chain execution still breaks-and how
+    AI, real-time visibility and connected execution help improve warehouse, transportation
+    and order operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/supply-chain-execution-readiness-report-how-ai-improves-warehouse-transportation-and-order-operations
+  pub_date: '2026-05-15T17:14:00'
+  source: Supply Chain 24/7
+  title: How AI Improves Warehouse, Transportation, and Order Operations
+- category: supply-chain
+  description: Discover the hidden causes of supply chain execution breakdowns, from
+    disconnected systems to data silos and workflow friction - and learn how connected
+    execution improves visibility, speed and resili...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-supply-chain-execution-breaks-down-hidden-causes-of-delays-errors-and-operational-blind-spots
+  pub_date: '2026-05-15T15:42:00'
+  source: Supply Chain 24/7
+  title: Why Supply Chain Execution Breaks Down Hidden Causes of Delays Errors And
+    Operational Blind Spots
+- category: supply-chain
+  description: A new KPMG survey found supply chain leaders are spending more on risk
+    management, resilience, and AI as labor shortages and disruptions continue.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kpmg-supply-chain-survey-risk-resilience-talent-shortage
+  pub_date: '2026-05-15T13:49:00'
+  source: Supply Chain 24/7
+  title: Supply Chain Leaders Spending More to Prepare for Disruptions
+- category: supply-chain
+  description: Brookfield Asset Management is acquiring air freight giant World Freight
+    Company in a deal valued at about $12 billion.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/brookfield-wfc-air-freight-deal
+  pub_date: '2026-05-15T13:15:00'
+  source: Supply Chain 24/7
+  title: Brookfield to Acquire WFC in $12 Billion Cargo Deal
+- category: supply-chain
+  description: The Supreme Court ruled that a lawsuit against C.H. Robinson can proceed,
+    which could have major effects on freight brokers across the supply chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/freight-brokers-could-face-more-lawsuits-after-scotus-ruling
+  pub_date: '2026-05-15T13:09:00'
+  source: Supply Chain 24/7
+  title: Freight Brokers Could Face More Lawsuits After SCOTUS Ruling
+- category: circular
+  description: A recent fire at a recycling centre in Wales that caused nearby roads
+    to close is being investigated as a 'deliberate ignition' by police. The post
+    Arson investigation launched after recycling centre ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/arson-investigation-launched-after-recycling-centre-fire-in-wales/
+  pub_date: '2026-05-15T10:01:23'
+  source: Circular Online
+  title: Arson investigation launched after recycling centre fire in Wales
+- category: supply-chain
   description: Retail sales continued to rise in April, driven by strong online shopping
     and steady consumer spending despite inflation concerns.
   icon: fa-box
@@ -40,40 +100,6 @@ articles:
   pub_date: '2026-05-14T09:15:25'
   source: Circular Online
   title: OEP finds ‘significant weaknesses’ in regulation of waste sites
-- category: supply-chain
-  description: Kuehne + Nagel topped Armstrong & Associates' latest global air freight
-    forwarder ranking, finishing just ahead of DSV.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-global-air-freight-forwarders-2026
-  pub_date: '2026-05-13T16:33:00'
-  source: Supply Chain 24/7
-  title: Ranking the World’s 25 Largest Air Freight Forwarders
-- category: supply-chain
-  description: Michelle Korte, Chief Customer Officer at Tive, explains why many supply
-    chain visibility gaps still happen once freight reaches the facility.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/the-biggest-blind-spot-in-supply-chains-starts-at-the-warehouse
-  pub_date: '2026-05-13T13:23:00'
-  source: Supply Chain 24/7
-  title: The Biggest Blind Spot in Supply Chains Starts at the Warehouse
-- category: supply-chain
-  description: Emily Gallo of OptiFreight Logistics at Cardinal Health explains why
-    companies need to plan earlier, use better data, and treat peak season as a year-round
-    challenge.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/peak-season-is-starting-earlier-heres-how-companies-can-keep-up
-  pub_date: '2026-05-13T13:04:00'
-  source: Supply Chain 24/7
-  title: Peak Season Is Starting Earlier. Here’s How Companies Can Keep Up
-- category: supply-chain
-  description: A new Sphera study found supply chain disruptions continue to hurt
-    revenue because companies are often too slow to detect problems, understand the
-    impact, and respond effectively.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-disruption-delays-revenue-loss-study
-  pub_date: '2026-05-13T11:33:00'
-  source: Supply Chain 24/7
-  title: Supply Chain Disruptions Are Quietly Hurting Company Revenue
 - category: circular
   description: Two councils in Kent have jointly awarded a new 12-year household recycling,
     waste collection and street cleansing contract to FCC Environment. The post Kent
@@ -92,22 +118,6 @@ articles:
   pub_date: '2026-05-13T07:30:00'
   source: Circular Online
   title: Waste company given six-figure fine for stockpiling skips
-- category: supply-chain
-  description: Amazon is rapidly expanding its Amazon Now service, bringing 30-minute
-    delivery of groceries and household essentials to more U.S. cities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-now-30-minute-delivery-expansion-us-cities
-  pub_date: '2026-05-12T17:59:00'
-  source: Supply Chain 24/7
-  title: Amazon Expands 30-Minute Delivery Service to More U.S. Cities
-- category: supply-chain
-  description: Amazon VP Peter Larsen discusses why Amazon opened its supply chain
-    network to outside businesses and how the company plans to scale the service.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/inside-amazons-push-to-open-its-logistics-network-to-everyone
-  pub_date: '2026-05-12T15:01:00'
-  source: Supply Chain 24/7
-  title: Inside Amazon’s Push to Open Its Logistics Network to Everyone
 - category: circular
   description: Germany was the largest exporter of plastic waste in 2025, closely
     followed by the UK, according to new research published in the Guardian. The post
@@ -162,13 +172,4 @@ articles:
   pub_date: '2026-05-06T07:30:00'
   source: Circular Online
   title: Investigation launched into ‘sickening’ 30,000-tonne waste dump
-- category: circular
-  description: Over 50 businesses and trade associations, including IKEA and Virgin
-    Media O2, are urging the UK Government to publish the long-delayed Circular Economy
-    Growth Plan. The post Over 50 businesses urge g...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/over-50-businesses-urge-government-to-publish-circular-economy-growth-plan/
-  pub_date: '2026-05-06T07:30:00'
-  source: Circular Online
-  title: Over 50 businesses urge government to publish Circular Economy Growth Plan
-last_updated: '2026-05-15T08:49:07.200879'
+last_updated: '2026-05-16T08:04:47.709983'
