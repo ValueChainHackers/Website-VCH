@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: New laws introduce identity and criminal records when applying for
+    a waste carrier licence. The post Defra strengthens waste carrier laws after cow
+    approved for licence appeared first on Circular Onli...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/defra-strengthens-waste-carrier-laws-after-cow-approved-for-licence/
+  pub_date: '2026-05-18T08:45:04'
+  source: Circular Online
+  title: Defra strengthens waste carrier laws after cow approved for licence
 - category: supply-chain
   description: New AI tools make building easier, but maintaining procurement systems
     over the long term is often the bigger challenge.
@@ -163,13 +172,4 @@ articles:
   pub_date: '2026-05-07T07:22:44'
   source: Circular Online
   title: 430 tonnes of food waste collected in Derby in rollout’s first month
-- category: circular
-  description: The Environment Agency has launched an investigation into a 'sickening'
-    30,000 illegal waste dump on a Site of Special Scientific Interest in Leicestershire.
-    The post Investigation launched into 'sick...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/investigation-launched-into-sickening-30000-tonne-waste-dump/
-  pub_date: '2026-05-06T07:30:00'
-  source: Circular Online
-  title: Investigation launched into ‘sickening’ 30,000-tonne waste dump
-last_updated: '2026-05-17T08:21:50.784520'
+last_updated: '2026-05-18T10:04:13.549604'
