@@ -1,5 +1,22 @@
 articles:
 - category: machine-learning
+  description: This article is about the gap between what candidates prepare for and
+    what companies actually need right now.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-hidden-skill-gap-why-knowing-sql-python-isnt-enough-anymore
+  pub_date: '2026-05-18T15:00:39'
+  source: KDnuggets
+  title: 'The Hidden Skill Gap: Why Knowing SQL + Python Isn’t Enough Anymore'
+- category: machine-learning
+  description: I have been running local models as part of my daily workflow for some
+    time, and what surprised me most is how often local turned out to be the better
+    choice, not a compromise.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-cool-things-i-did-with-local-language-models
+  pub_date: '2026-05-18T12:46:24'
+  source: KDnuggets
+  title: 5 Cool Things I Did with Local Language Models
+- category: machine-learning
   description: How does it boost efficiency without losing accuracy? Is it really
     worth the hype?
   icon: fa-chart-bar
@@ -89,23 +106,6 @@ articles:
   pub_date: '2026-05-12T12:00:42'
   source: KDnuggets
   title: 5 Useful Python Scripts for Time Series Analysis
-- category: machine-learning
-  description: This article discusses how to implement an infrastructure for measuring
-    and controlling overly verbose LLM responses.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/guardrails-for-llms-measuring-ai-hallucination-and-verbosity
-  pub_date: '2026-05-11T16:00:36'
-  source: KDnuggets
-  title: 'Guardrails for LLMs: Measuring AI ‘Hallucination’ and Verbosity'
-- category: machine-learning
-  description: Learn how to build an AI-powered Learning Management System from scratch
-    using Ollama, FastAPI, and React. A step-by-step guide for beginner and intermediate
-    developers.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/build-an-ai-powered-learning-management-system-that-actually-trains-people
-  pub_date: '2026-05-11T14:00:43'
-  source: KDnuggets
-  title: Build an AI-Powered Learning Management System That Actually Trains People
 - category: ai-research
   description: A screenshot of the AI-powered experience on Google Finance.
   icon: fa-google
@@ -248,4 +248,4 @@ articles:
   pub_date: '2026-04-23T12:00:00'
   source: Google AI Blog
   title: Here’s how our TPUs power increasingly demanding AI workloads.
-last_updated: '2026-05-18T10:04:14.568473'
+last_updated: '2026-05-19T09:42:54.090662'
