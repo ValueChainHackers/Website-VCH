@@ -1,5 +1,56 @@
 articles:
 - category: circular
+  description: 23.6 million vapes were littered or dumped in household bins across
+    Ireland in 2025, new data shows. The post 23m vapes were littered or dumped in
+    household bins last year in Ireland appeared first on...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/23m-vapes-were-littered-or-dumped-in-household-bins-last-year-in-ireland/
+  pub_date: '2026-05-19T09:03:34'
+  source: Circular Online
+  title: 23m vapes were littered or dumped in household bins last year in Ireland
+- category: circular
+  description: Fifteen community organisations across the Liverpool City Region have
+    been awarded a share of GBP165,000 to launch waste reduction, reuse, and recycling
+    initiatives. The post Community groups awarded ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/community-groups-awarded-165000-to-help-tackle-waste-in-liverpool/
+  pub_date: '2026-05-19T07:46:22'
+  source: Circular Online
+  title: Community groups awarded £165,000 to help tackle waste in Liverpool
+- category: supply-chain
+  description: Amazon is testing cargo e-bike deliveries in Washington, D.C., as it
+    looks for new ways to improve last-mile operations in dense urban areas.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-cargo-ebike-delivery-pilot-washington-dc
+  pub_date: '2026-05-18T14:27:00'
+  source: Supply Chain 24/7
+  title: Amazon Launches Cargo E-Bike Delivery Pilot in Washington, D.C.
+- category: supply-chain
+  description: Late payments are creating cash-flow pressure for small manufacturers,
+    raising concerns about how such disruptions could affect the supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/late-payments-small-manufacturers-supply-chain-risk
+  pub_date: '2026-05-18T14:27:00'
+  source: Supply Chain 24/7
+  title: Late Payments Are Becoming a Bigger Problem for Small Manufacturers
+- category: supply-chain
+  description: AI is helping logistics teams improve yard visibility, cut gate delays,
+    and replace outdated manual tracking with real-time data.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-yard-visibility-logistics-operations
+  pub_date: '2026-05-18T14:18:00'
+  source: Supply Chain 24/7
+  title: Why Yard Visibility Is Becoming a Bigger Priority for Logistics Teams
+- category: supply-chain
+  description: A new study found that 83% of organizations are deploying or piloting
+    AI for supply chain analytics as companies seek to reduce costs and modernize
+    operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-ai-adoption-study-analytics-planning-2026
+  pub_date: '2026-05-18T12:55:00'
+  source: Supply Chain 24/7
+  title: Study Finds 83% of Supply Chain Teams Are Deploying or Testing AI
+- category: circular
   description: New laws introduce identity and criminal records when applying for
     a waste carrier licence. The post Defra strengthens waste carrier laws after cow
     approved for licence appeared first on Circular Onli...
@@ -16,6 +67,15 @@ articles:
   pub_date: '2026-05-15T19:32:00'
   source: Supply Chain 24/7
   title: Procurement’s Build vs. Buy Problem Has a Simple Answer
+- category: supply-chain
+  description: Explore how optimized cart shelf layouts support warehouse productivity
+    by improving equipment access, reducing travel time, and streamlining picking
+    workflows.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/designing-smarter-cart-shelf-layouts-for-faster-warehouse-workflows
+  pub_date: '2026-05-15T18:17:00'
+  source: Supply Chain 24/7
+  title: Designing Smarter Cart Shelf Layouts for Faster Warehouse Workflows
 - category: supply-chain
   description: New research reveals why supply chain execution still breaks-and how
     AI, real-time visibility and connected execution help improve warehouse, transportation
@@ -51,14 +111,6 @@ articles:
   pub_date: '2026-05-15T13:15:00'
   source: Supply Chain 24/7
   title: Brookfield to Acquire WFC in $12 Billion Cargo Deal
-- category: supply-chain
-  description: The Supreme Court ruled that a lawsuit against C.H. Robinson can proceed,
-    which could have major effects on freight brokers across the supply chain.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/freight-brokers-could-face-more-lawsuits-after-scotus-ruling
-  pub_date: '2026-05-15T13:09:00'
-  source: Supply Chain 24/7
-  title: Freight Brokers Could Face More Lawsuits After SCOTUS Ruling
 - category: circular
   description: A recent fire at a recycling centre in Wales that caused nearby roads
     to close is being investigated as a 'deliberate ignition' by police. The post
@@ -68,38 +120,6 @@ articles:
   pub_date: '2026-05-15T10:01:23'
   source: Circular Online
   title: Arson investigation launched after recycling centre fire in Wales
-- category: supply-chain
-  description: Retail sales continued to rise in April, driven by strong online shopping
-    and steady consumer spending despite inflation concerns.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/retail-sales-april-2026-inflation-ecommerce-growth
-  pub_date: '2026-05-14T15:54:00'
-  source: Supply Chain 24/7
-  title: April Retail Sales Continue to Climb Despite Inflation
-- category: supply-chain
-  description: A new Highway report says half of all cargo theft incidents in Q1 2026
-    involved carriers with clean records and legitimate operating authority.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/freight-fraud-trusted-carriers-cargo-theft
-  pub_date: '2026-05-14T13:37:00'
-  source: Supply Chain 24/7
-  title: Half of Cargo Theft Cases Now Linked to Trusted Carriers
-- category: supply-chain
-  description: Parcel carriers are focusing more on profits, pricing, and efficiency
-    as competition across the delivery market continues to grow.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/roundtable-looking-at-the-current-state-of-todays-parcel-marketplace
-  pub_date: '2026-05-14T13:19:00'
-  source: Supply Chain 24/7
-  title: 'Roundtable: The Current State of Today’s Parcel Marketplace'
-- category: supply-chain
-  description: Walmart is converting vacant retail spaces into small delivery hubs
-    to speed up grocery deliveries and compete more directly with Amazon.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-empty-retail-spaces-last-mile-delivery-hubs
-  pub_date: '2026-05-14T10:57:00'
-  source: Supply Chain 24/7
-  title: Walmart to Convert Vacant Retail Space Into Delivery Depots
 - category: circular
   description: There are 'significant weaknesses' in the Environment Agency's inspections
     of waste operations and installations, Office for Environmental Protection (OEP)
@@ -154,22 +174,4 @@ articles:
   pub_date: '2026-05-11T08:07:10'
   source: Circular Online
   title: Fire brigades called to one lithium-ion battery fire every five hours
-- category: circular
-  description: Biffa and FCC Environment are among the 'first' waste management companies
-    globally to use AI for compliance reporting. The waste management companies have
-    begun using AI to submit waste composition d...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/biffa-and-fcc-environment-use-ai-for-environment-agency-compliance-reporting/
-  pub_date: '2026-05-07T08:16:39'
-  source: Circular Online
-  title: Biffa and FCC Environment use AI for Environment Agency compliance reporting
-- category: circular
-  description: More than 430 tonnes of food waste have been diverted from black bins
-    during the first month of household food waste collections in Derby. All local
-    authorities in Englandwere requiredtointroduceweekl...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/430-tonnes-of-food-waste-collected-in-derby-in-rollouts-first-month/
-  pub_date: '2026-05-07T07:22:44'
-  source: Circular Online
-  title: 430 tonnes of food waste collected in Derby in rollout’s first month
-last_updated: '2026-05-18T10:04:13.549604'
+last_updated: '2026-05-19T09:42:53.222234'
