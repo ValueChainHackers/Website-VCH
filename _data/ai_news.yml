@@ -1,4 +1,91 @@
 articles:
+- category: ai-research
+  description: Connor Coley works at the interface of chemistry and machine learning,
+    to discover and design new drug compounds.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
+  pub_date: '2026-05-20T04:00:00'
+  source: MIT AI News
+  title: Building AI models that understand chemical principles
+- category: ai-research
+  description: MIT faculty member in electrical engineering and computer science to
+    focus on innovation in engineering education and new pedagogical approaches.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519
+  pub_date: '2026-05-19T21:10:00'
+  source: MIT AI News
+  title: Justin Solomon appointed associate dean of engineering education
+- category: ai-research
+  description: At Google I/O 2026, we shared how we're making AI more helpful for
+    everyone. See everything we announced.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
+  pub_date: '2026-05-19T17:45:00'
+  source: Google AI Blog
+  title: I/O 2026
+- category: ai-research
+  description: A graphic features the text "How people are using AI Mode in the U.S."
+    surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift
+    box, cursor, gamepad, and lipstick on a light bl...
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/
+  pub_date: '2026-05-19T17:45:00'
+  source: Google AI Blog
+  title: How AI Mode is changing the way people search in the U.S.
+- category: ai-research
+  description: Google Workspace
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/workspace/workspace-updates/
+  pub_date: '2026-05-19T17:45:00'
+  source: Google AI Blog
+  title: New ways to create and get things done in Google Workspace
+- category: ai-research
+  description: a series of colorful icons representing Google I/O against a black
+    background
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
+  pub_date: '2026-05-19T17:45:00'
+  source: Google AI Blog
+  title: 'I/O 2026: Welcome to the agentic Gemini era'
+- category: ai-research
+  description: Gemini 3.5 text and multi-colored star icon on an abstract blue background.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
+  pub_date: '2026-05-19T17:45:00'
+  source: Google AI Blog
+  title: 'Gemini 3.5: frontier intelligence with action'
+- category: ai-research
+  description: Text that reads "The best of a search engine with the best of AI"
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/search-io-2026/
+  pub_date: '2026-05-19T17:45:00'
+  source: Google AI Blog
+  title: A new era for AI Search
+- category: ai-research
+  description: 'The image shows colorful icons. The copy reads: More magic in one
+    plan. More power, more perks, same price.'
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/
+  pub_date: '2026-05-19T17:45:00'
+  source: Google AI Blog
+  title: Everything new in our Google AI subscriptions, fresh from I/O 2026
+- category: machine-learning
+  description: Cowork is an autonomous agent that lives inside the Claude Desktop
+    app, which has direct access to a folder on your computer, and can plan, execute,
+    and deliver real work.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-get-the-most-out-of-claude-cowork
+  pub_date: '2026-05-19T14:00:43'
+  source: KDnuggets
+  title: How to Get the Most Out of Claude Cowork
+- category: machine-learning
+  description: Want to level up your data engineering toolkit? Here are some Python
+    libraries that'll make your pipelines faster, cleaner, and easier to maintain.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-10-python-libraries-for-data-engineering-in-2026
+  pub_date: '2026-05-19T12:00:04'
+  source: KDnuggets
+  title: Top 10 Python Libraries for Data Engineering in 2026
 - category: machine-learning
   description: This article is about the gap between what candidates prepare for and
     what companies actually need right now.
@@ -89,23 +176,6 @@ articles:
   source: MIT AI News
   title: Universal AI is “a pathway to AI fluency that’s accessible and approachable
     to anyone, anywhere”
-- category: machine-learning
-  description: In this article, we explore three real data problems using real questions
-    where Polars outpaces Pandas on every metric.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/using-polars-instead-of-pandas-performance-deep-dive
-  pub_date: '2026-05-12T14:00:13'
-  source: KDnuggets
-  title: 'Using Polars Instead of Pandas: Performance Deep Dive'
-- category: machine-learning
-  description: Time series data is common across finance, operations, engineering,
-    and research. These five Python scripts cover the analysis tasks that come up
-    repeatedly.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-scripts-for-time-series-analysis
-  pub_date: '2026-05-12T12:00:42'
-  source: KDnuggets
-  title: 5 Useful Python Scripts for Time Series Analysis
 - category: ai-research
   description: A screenshot of the AI-powered experience on Google Finance.
   icon: fa-google
@@ -148,30 +218,6 @@ articles:
   title: 'Games people — and machines — play: Untangling strategic reasoning to advance
     AI'
 - category: ai-research
-  description: Google is partnering with XPRIZE and Range Media Partners on the $3.5
-    million Future Vision film competition.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/
-  pub_date: '2026-05-05T16:00:00'
-  source: Google AI Blog
-  title: Google is partnering with XPRIZE and Range Media Partners on the $3.5 million
-    Future Vision film competition.
-- category: ai-research
-  description: mp4 featuring an underwater video and a mobile AI video mockup.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/
-  pub_date: '2026-05-04T17:00:00'
-  source: Google AI Blog
-  title: The latest AI news we announced in April 2026
-- category: ai-research
-  description: Gemini API
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/
-  pub_date: '2026-05-04T15:30:00'
-  source: Google AI Blog
-  title: Reduce friction and latency for long-running jobs with Webhooks in Gemini
-    API
-- category: ai-research
   description: Founded by Jake Donoghue PhD '19 and former MIT researcher Jarrett
     Revels, the company is creating an AI-driven platform to help diagnose and treat
     disease.
@@ -197,55 +243,4 @@ articles:
   pub_date: '2026-04-30T04:00:00'
   source: MIT AI News
   title: Making the case for curiosity-driven science
-- category: ai-research
-  description: A new debiasing technique called WRING avoids creating or amplifying
-    biases that can occur with existing debiasing approaches.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429
-  pub_date: '2026-04-29T21:40:00'
-  source: MIT AI News
-  title: 'Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models'
-- category: ai-research
-  description: Building on a long-standing MIT-IBM collaboration, the new lab will
-    chart the convergence of AI, algorithms, and quantum computing.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429
-  pub_date: '2026-04-29T10:00:00'
-  source: MIT AI News
-  title: The MIT-IBM Computing Research Lab launches to shape the future of AI and
-    quantum computing
-- category: ai-research
-  description: The Google Translate logo sits in the middle of colorful illustrated
-    scenes, including people translating live conversations and a birthday cake topped
-    by candles with the numeral 20
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/
-  pub_date: '2026-04-28T16:00:00'
-  source: Google AI Blog
-  title: 'Celebrating 20 years of Google Translate: Fun facts, tips and new features
-    to try'
-- category: ai-research
-  description: A web next to a laptop
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/
-  pub_date: '2026-04-27T13:00:00'
-  source: Google AI Blog
-  title: Join the new AI Agents Vibe Coding Course from Google and Kaggle
-- category: ai-research
-  description: Black screen with illustrations including a laptop with document and
-    email icons streaming out, a smiling person holding a phone and looking at a checklist,
-    and a user activating Gemini Live
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/
-  pub_date: '2026-04-24T19:00:00'
-  source: Google AI Blog
-  title: 8 Gemini tips for organizing your space (and life)
-- category: ai-research
-  description: Learn how Google's TPUs power increasingly demanding AI workloads with
-    this new video.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/
-  pub_date: '2026-04-23T12:00:00'
-  source: Google AI Blog
-  title: Here’s how our TPUs power increasingly demanding AI workloads.
-last_updated: '2026-05-19T09:42:54.090662'
+last_updated: '2026-05-20T09:34:19.996171'

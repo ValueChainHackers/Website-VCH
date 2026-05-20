@@ -1,5 +1,54 @@
 articles:
 - category: circular
+  description: The UK Government is pushing UK supermarkets to cap food prices in
+    exchange for easing packaging policies, according to multiple reports. The post
+    Supermarkets urged to cap food prices in return for e...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/supermarkets-urged-to-cap-food-prices-in-return-for-easing-packaging-policies/
+  pub_date: '2026-05-20T08:42:03'
+  source: Circular Online
+  title: Supermarkets urged to cap food prices in return for easing packaging policies
+- category: supply-chain
+  description: Locus Robotics acquired Nexera to help its robots handle a wider variety
+    of products in warehouse operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/locus-robotics-nexera-warehouse-picking-automation
+  pub_date: '2026-05-19T15:46:00'
+  source: Supply Chain 24/7
+  title: Locus Robotics Acquires Nexera for Smarter Warehouse Picking
+- category: supply-chain
+  description: DHL's Brian Gaunt says supply chain companies need to move beyond AI
+    hype and focus on practical tools that solve real business problems.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-brian-gaunt-ai-needs-to-solve-real-problems
+  pub_date: '2026-05-19T14:49:00'
+  source: Supply Chain 24/7
+  title: DHL’s Digitalization Chief Says AI Needs Less Hype, More Specificity
+- category: supply-chain
+  description: AI is taking on a larger role in procurement, but companies need trusted
+    data and clear guardrails to keep it from becoming a risk.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-procurement-governance-risks
+  pub_date: '2026-05-19T14:22:00'
+  source: Supply Chain 24/7
+  title: Why Procurement Teams Need Rules Before Giving AI More Power
+- category: supply-chain
+  description: The U.S. Department of Transportation released a new five-year freight
+    strategy aimed at improving supply chain efficiency, security and resilience.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dot-national-freight-strategic-plan-2026
+  pub_date: '2026-05-19T13:40:00'
+  source: Supply Chain 24/7
+  title: DOT Unveils New Freight Plan Targeting Supply Chain Bottlenecks
+- category: supply-chain
+  description: New data shows diesel prices are up more than $2 per gallon nationally
+    compared to a year ago, with several Midwest markets posting the largest increases.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/15-markets-seeing-biggest-year-over-year-diesel-price-increases
+  pub_date: '2026-05-19T13:29:00'
+  source: Supply Chain 24/7
+  title: 15 Markets Seeing the Biggest Year-Over-Year Diesel Price Increases
+- category: circular
   description: 23.6 million vapes were littered or dumped in household bins across
     Ireland in 2025, new data shows. The post 23m vapes were littered or dumped in
     household bins last year in Ireland appeared first on...
@@ -67,50 +116,6 @@ articles:
   pub_date: '2026-05-15T19:32:00'
   source: Supply Chain 24/7
   title: Procurement’s Build vs. Buy Problem Has a Simple Answer
-- category: supply-chain
-  description: Explore how optimized cart shelf layouts support warehouse productivity
-    by improving equipment access, reducing travel time, and streamlining picking
-    workflows.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/designing-smarter-cart-shelf-layouts-for-faster-warehouse-workflows
-  pub_date: '2026-05-15T18:17:00'
-  source: Supply Chain 24/7
-  title: Designing Smarter Cart Shelf Layouts for Faster Warehouse Workflows
-- category: supply-chain
-  description: New research reveals why supply chain execution still breaks-and how
-    AI, real-time visibility and connected execution help improve warehouse, transportation
-    and order operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/supply-chain-execution-readiness-report-how-ai-improves-warehouse-transportation-and-order-operations
-  pub_date: '2026-05-15T17:14:00'
-  source: Supply Chain 24/7
-  title: How AI Improves Warehouse, Transportation, and Order Operations
-- category: supply-chain
-  description: Discover the hidden causes of supply chain execution breakdowns, from
-    disconnected systems to data silos and workflow friction - and learn how connected
-    execution improves visibility, speed and resili...
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-supply-chain-execution-breaks-down-hidden-causes-of-delays-errors-and-operational-blind-spots
-  pub_date: '2026-05-15T15:42:00'
-  source: Supply Chain 24/7
-  title: Why Supply Chain Execution Breaks Down Hidden Causes of Delays Errors And
-    Operational Blind Spots
-- category: supply-chain
-  description: A new KPMG survey found supply chain leaders are spending more on risk
-    management, resilience, and AI as labor shortages and disruptions continue.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/kpmg-supply-chain-survey-risk-resilience-talent-shortage
-  pub_date: '2026-05-15T13:49:00'
-  source: Supply Chain 24/7
-  title: Supply Chain Leaders Spending More to Prepare for Disruptions
-- category: supply-chain
-  description: Brookfield Asset Management is acquiring air freight giant World Freight
-    Company in a deal valued at about $12 billion.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/brookfield-wfc-air-freight-deal
-  pub_date: '2026-05-15T13:15:00'
-  source: Supply Chain 24/7
-  title: Brookfield to Acquire WFC in $12 Billion Cargo Deal
 - category: circular
   description: A recent fire at a recycling centre in Wales that caused nearby roads
     to close is being investigated as a 'deliberate ignition' by police. The post
@@ -165,13 +170,4 @@ articles:
   pub_date: '2026-05-11T11:08:39'
   source: Circular Online
   title: SUEZ installs UV tag reading and sorting system at materials recycling centre
-- category: circular
-  description: UK fire brigades are tackling fires caused by a lithium-ion battery
-    at a rate of once every five hours, new figures show. The post Fire brigades called
-    to one lithium-ion battery fire every five hours...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/fire-brigades-called-to-one-lithium-ion-battery-fire-every-five-hours/
-  pub_date: '2026-05-11T08:07:10'
-  source: Circular Online
-  title: Fire brigades called to one lithium-ion battery fire every five hours
-last_updated: '2026-05-19T09:42:53.222234'
+last_updated: '2026-05-20T09:34:19.145727'
