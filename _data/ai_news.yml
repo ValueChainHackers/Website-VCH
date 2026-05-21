@@ -1,5 +1,61 @@
 articles:
 - category: ai-research
+  description: A new study of the postwar U.S. shows which kinds of workers historically
+    filled new tech-enabled jobs.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521
+  pub_date: '2026-05-21T04:00:00'
+  source: MIT AI News
+  title: Technology usually creates jobs for young, skilled workers. Will AI do the
+    same?
+- category: ai-research
+  description: We're helping build the state's next-generation workforce and investing
+    in energy programs.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/
+  pub_date: '2026-05-20T20:40:00'
+  source: Google AI Blog
+  title: We’re announcing new community investments in Missouri.
+- category: ai-research
+  description: Image with the words "Ready, Set, I/O" and a colorful Gemini logo
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+  pub_date: '2026-05-20T19:30:00'
+  source: Google AI Blog
+  title: 100 things we announced at I/O 2026
+- category: ai-research
+  description: A small group meeting featuring two in-room participants and three
+    participants on-screen.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/
+  pub_date: '2026-05-20T16:45:00'
+  source: Google AI Blog
+  title: A new experiment brings better group meetings to Google Beam
+- category: machine-learning
+  description: Learn how to utilize Python's Mimesis library for anonymizing sensitive
+    production data, based on a step-by-step example to try yourself.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/anonymizing-production-data-for-data-science-with-mimesis
+  pub_date: '2026-05-20T16:00:15'
+  source: KDnuggets
+  title: Anonymizing Production Data for Data Science with Mimesis
+- category: machine-learning
+  description: You know window functions, but do you know how to use them to solve
+    business problems? You will after you read this article.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/sql-window-functions-beyond-basics-solving-real-business-problems
+  pub_date: '2026-05-20T14:00:58'
+  source: KDnuggets
+  title: 'SQL Window Functions Beyond Basics: Solving Real Business Problems'
+- category: machine-learning
+  description: From your first backtest to a real trading system, here are GitHub
+    repos that can seriously level up your quant trading skills fast.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-github-repositories-to-master-quant-trading
+  pub_date: '2026-05-20T13:20:44'
+  source: KDnuggets
+  title: 10 GitHub Repositories to Master Quant Trading
+- category: ai-research
   description: Connor Coley works at the interface of chemistry and machine learning,
     to discover and design new drug compounds.
   icon: fa-graduation-cap
@@ -134,30 +190,6 @@ articles:
   pub_date: '2026-05-14T14:00:07'
   source: KDnuggets
   title: Time-Series Feature Engineering with Python Itertools
-- category: machine-learning
-  description: 'Here are 5 small language models that hare one important trait: they
-    all support structured tool calling in a compact, open-weight package.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-small-language-models-for-agentic-tool-calling
-  pub_date: '2026-05-14T12:00:13'
-  source: KDnuggets
-  title: 5 Small Language Models for Agentic Tool Calling
-- category: machine-learning
-  description: Discover how AI agents will revolutionize data science in 2026, and
-    learn why they won't replace you but will make you a faster, smarter analyst.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026
-  pub_date: '2026-05-13T14:00:38'
-  source: KDnuggets
-  title: How AI Agents Will Transform Data Science Work in 2026
-- category: machine-learning
-  description: 'Learn how modern infrastructure works through self-hosting: containers,
-    reverse proxies, monitoring, backups, networking, and systems operations.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting
-  pub_date: '2026-05-13T12:00:11'
-  source: KDnuggets
-  title: 10 GitHub Repositories to Master Self-Hosting
 - category: ai-research
   description: Dimitris Bertsimas and Megan Mitchell discuss the motivation behind
     Universal Learning, and what sets the new MIT Open Learning educational initiative
@@ -177,21 +209,6 @@ articles:
   title: Universal AI is “a pathway to AI fluency that’s accessible and approachable
     to anyone, anywhere”
 - category: ai-research
-  description: A screenshot of the AI-powered experience on Google Finance.
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/
-  pub_date: '2026-05-11T06:00:00'
-  source: Google AI Blog
-  title: The new AI-powered Google Finance is expanding to Europe.
-- category: ai-research
-  description: black and white card with headshots of susan credle, jayonta jenkins
-    and tiffany rolfe
-  icon: fa-google
-  link: https://blog.google/company-news/inside-google/company-announcements/the-small-brief/
-  pub_date: '2026-05-08T15:00:00'
-  source: Google AI Blog
-  title: See what happens when creative legends use AI to make ads for small businesses.
-- category: ai-research
   description: MIT economists found US companies tend to target employees earning
     a "wage premium," which increases inequality but not necessarily productivity.
   icon: fa-graduation-cap
@@ -199,15 +216,6 @@ articles:
   pub_date: '2026-05-07T04:00:00'
   source: MIT AI News
   title: 'Study: Firms often use automation to control certain workers’ wages'
-- category: ai-research
-  description: An abstract background featuring soft, stippled illustrations of flowers
-    and a butterfly in a bright palette of blue, green, and red. In the center of
-    the image is a white circle containing a magnifyi...
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/gardening-tips/
-  pub_date: '2026-05-06T16:00:00'
-  source: Google AI Blog
-  title: 5 gardening tips you can try right in Search
 - category: ai-research
   description: Assistant Professor Gabriele Farina mines the foundations of decision-making
     in complex multi-agent scenarios.
@@ -234,13 +242,4 @@ articles:
   pub_date: '2026-05-01T04:00:00'
   source: MIT AI News
   title: Improving understanding with language
-- category: ai-research
-  description: President Sally Kornbluth spoke in front of a packed crowd about growing
-    challenges to the U.S. research ecosystem as funding for America's top research
-    universities becomes increasingly strained.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/making-case-curiosity-driven-science
-  pub_date: '2026-04-30T04:00:00'
-  source: MIT AI News
-  title: Making the case for curiosity-driven science
-last_updated: '2026-05-20T09:34:19.996171'
+last_updated: '2026-05-21T09:40:55.786138'
