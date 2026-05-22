@@ -1,4 +1,22 @@
 articles:
+- category: machine-learning
+  description: Ace system design interviews with 10 GitHub repositories packed with
+    fundamentals, proven patterns, and real questions to help you design scalable
+    systems with confidence.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/system-design-interview-questions-a-handy-collection
+  pub_date: '2026-05-21T14:00:50'
+  source: KDnuggets
+  title: 'System Design Interview Questions: A Handy Collection'
+- category: machine-learning
+  description: Take a curated look at the best small language models currently available
+    on Hugging Face, what each one is actually good at, the benchmark numbers that
+    back those claims up, and the code to get start...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/best-small-language-models-on-hugging-face-right-now
+  pub_date: '2026-05-21T12:00:42'
+  source: KDnuggets
+  title: Best Small Language Models on Hugging Face Right Now!
 - category: ai-research
   description: A new study of the postwar U.S. shows which kinds of workers historically
     filled new tech-enabled jobs.
@@ -167,14 +185,6 @@ articles:
   pub_date: '2026-05-15T14:00:37'
   source: KDnuggets
   title: 'TurboQuant: Is the Compression and Performance Worth the Hype?'
-- category: machine-learning
-  description: In this article, we will explore five fundamental concepts that every
-    Python developer should have in their toolkit.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-must-know-python-concepts
-  pub_date: '2026-05-15T12:00:37'
-  source: KDnuggets
-  title: 5 Must-Know Python Concepts
 - category: ai-research
   description: The prestigious fellowship funds graduate studies at Stanford University.
   icon: fa-graduation-cap
@@ -182,14 +192,6 @@ articles:
   pub_date: '2026-05-14T20:55:00'
   source: MIT AI News
   title: Two from MIT named 2026 Knight-Hennessy Scholars
-- category: machine-learning
-  description: Learn how to use Python itertools to build efficient and scalable time
-    series features.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/time-series-feature-engineering-with-python-itertools
-  pub_date: '2026-05-14T14:00:07'
-  source: KDnuggets
-  title: Time-Series Feature Engineering with Python Itertools
 - category: ai-research
   description: Dimitris Bertsimas and Megan Mitchell discuss the motivation behind
     Universal Learning, and what sets the new MIT Open Learning educational initiative
@@ -242,4 +244,4 @@ articles:
   pub_date: '2026-05-01T04:00:00'
   source: MIT AI News
   title: Improving understanding with language
-last_updated: '2026-05-21T09:40:55.786138'
+last_updated: '2026-05-22T09:24:11.540170'

@@ -1,4 +1,29 @@
 articles:
+- category: supply-chain
+  description: New Gartner research found that only 36% of procurement leaders feel
+    confident redesigning jobs around AI, creating a gap between individual productivity
+    gains and broader business results.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-ai-productivity-gains-gartner-2026
+  pub_date: '2026-05-21T16:11:00'
+  source: Supply Chain 24/7
+  title: Only 36% of Procurement Leaders Feel Ready for AI Changes
+- category: supply-chain
+  description: 'Scope 3 reporting is creating new pressure on procurement teams, and
+    AI may help solve one of the biggest challenges: messy supplier data.'
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-ai-is-solving-scope-3-data-challenges
+  pub_date: '2026-05-21T16:10:00'
+  source: Supply Chain 24/7
+  title: Decoding Scope 3 Starts With Solving a Massive Data Problem
+- category: supply-chain
+  description: A new Rockwell Automation report found that 93% of manufacturers expect
+    smart manufacturing technology to reshape their workforce.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rockwell-smart-manufacturing-workforce-changes-report
+  pub_date: '2026-05-21T13:01:00'
+  source: Supply Chain 24/7
+  title: 93% of Manufacturers Expect Smart Technology to Reshape Jobs
 - category: circular
   description: A man from Birmingham has been arrested in connection with an illegal
     waste site on the land owned by the King's Estate. The post Man arrested in connection
@@ -82,30 +107,6 @@ articles:
   pub_date: '2026-05-19T15:46:00'
   source: Supply Chain 24/7
   title: Locus Robotics Acquires Nexera for Smarter Warehouse Picking
-- category: supply-chain
-  description: DHL's Brian Gaunt says supply chain companies need to move beyond AI
-    hype and focus on practical tools that solve real business problems.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-brian-gaunt-ai-needs-to-solve-real-problems
-  pub_date: '2026-05-19T14:49:00'
-  source: Supply Chain 24/7
-  title: DHL’s Digitalization Chief Says AI Needs Less Hype, More Specificity
-- category: supply-chain
-  description: AI is taking on a larger role in procurement, but companies need trusted
-    data and clear guardrails to keep it from becoming a risk.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-procurement-governance-risks
-  pub_date: '2026-05-19T14:22:00'
-  source: Supply Chain 24/7
-  title: Why Procurement Teams Need Rules Before Giving AI More Power
-- category: supply-chain
-  description: The U.S. Department of Transportation released a new five-year freight
-    strategy aimed at improving supply chain efficiency, security and resilience.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dot-national-freight-strategic-plan-2026
-  pub_date: '2026-05-19T13:40:00'
-  source: Supply Chain 24/7
-  title: DOT Unveils New Freight Plan Targeting Supply Chain Bottlenecks
 - category: circular
   description: 23.6 million vapes were littered or dumped in household bins across
     Ireland in 2025, new data shows. The post 23m vapes were littered or dumped in
@@ -169,4 +170,4 @@ articles:
   pub_date: '2026-05-13T07:30:00'
   source: Circular Online
   title: Waste company given six-figure fine for stockpiling skips
-last_updated: '2026-05-21T09:40:53.910763'
+last_updated: '2026-05-22T09:24:10.721744'
