@@ -1,4 +1,20 @@
 articles:
+- category: ai-research
+  description: Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues
+    stage
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/
+  pub_date: '2026-05-22T18:00:00'
+  source: Google AI Blog
+  title: Catch up on the Dialogues stage at Google I/O 2026.
+- category: machine-learning
+  description: In this tutorial, we will give Gemma 4 two new tools and watch the
+    model decide, on its own, when to look around and when to compute.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/easy-agentic-tool-calling-with-gemma-4
+  pub_date: '2026-05-22T12:00:22'
+  source: KDnuggets
+  title: Easy Agentic Tool Calling with Gemma 4
 - category: machine-learning
   description: Ace system design interviews with 10 GitHub repositories packed with
     fundamentals, proven patterns, and real questions to help you design scalable
@@ -135,14 +151,6 @@ articles:
   pub_date: '2026-05-19T17:45:00'
   source: Google AI Blog
   title: A new era for AI Search
-- category: ai-research
-  description: 'The image shows colorful icons. The copy reads: More magic in one
-    plan. More power, more perks, same price.'
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/
-  pub_date: '2026-05-19T17:45:00'
-  source: Google AI Blog
-  title: Everything new in our Google AI subscriptions, fresh from I/O 2026
 - category: machine-learning
   description: Cowork is an autonomous agent that lives inside the Claude Desktop
     app, which has direct access to a folder on your computer, and can plan, execute,
@@ -177,14 +185,6 @@ articles:
   pub_date: '2026-05-18T12:46:24'
   source: KDnuggets
   title: 5 Cool Things I Did with Local Language Models
-- category: machine-learning
-  description: How does it boost efficiency without losing accuracy? Is it really
-    worth the hype?
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/turboquant-is-the-compression-and-performance-worth-the-hype
-  pub_date: '2026-05-15T14:00:37'
-  source: KDnuggets
-  title: 'TurboQuant: Is the Compression and Performance Worth the Hype?'
 - category: ai-research
   description: The prestigious fellowship funds graduate studies at Stanford University.
   icon: fa-graduation-cap
@@ -244,4 +244,4 @@ articles:
   pub_date: '2026-05-01T04:00:00'
   source: MIT AI News
   title: Improving understanding with language
-last_updated: '2026-05-22T09:24:11.540170'
+last_updated: '2026-05-23T08:20:10.762482'

@@ -1,5 +1,47 @@
 articles:
 - category: supply-chain
+  description: The DOJ has charged four major Chinese shipping container manufacturers
+    with allegedly restricting production and fixing prices during the pandemic.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-indicts-chinese-container-makers-price-fixing-scheme
+  pub_date: '2026-05-22T12:30:00'
+  source: Supply Chain 24/7
+  title: U.S. Indicts Chinese Container Makers in Price-Fixing Case
+- category: supply-chain
+  description: Warehouse robotics is becoming easier to adopt as modular systems,
+    lower costs and growing labor pressures push more companies toward automation.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-robots-becoming-more-accessible
+  pub_date: '2026-05-22T12:02:00'
+  source: Supply Chain 24/7
+  title: 'Robots for the Rest of Us: Warehouse Automation Gets Easier'
+- category: supply-chain
+  description: Walmart's stores are playing a growing role as local fulfillment hubs,
+    helping drive 26% e-commerce growth in the first quarter.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-store-fulfillment-helps-drive-ecommerce-growth
+  pub_date: '2026-05-22T11:46:00'
+  source: Supply Chain 24/7
+  title: Store Fulfillment Helps Drive Walmart’s 26% E-Commerce Growth
+- category: supply-chain
+  description: As AI takes over more routine work, communication, relationships and
+    problem-solving will become important skills in supply chain operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-skills-ai-cant-replace
+  pub_date: '2026-05-22T11:42:00'
+  source: Supply Chain 24/7
+  title: These are the Supply Chain Skills AI Still Can’t Replace
+- category: circular
+  description: A new report from Zero Waste Europe warns the EU Circular Economy Act
+    risks entrenching the use of hazardous waste in construction projects. The post
+    EU Circular Economy Act risks promoting hazardous ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/eu-circular-economy-act-risks-promoting-hazardous-waste-in-construction-report-warns/
+  pub_date: '2026-05-22T09:34:02'
+  source: Circular Online
+  title: EU Circular Economy Act risks promoting hazardous waste in construction,
+    report warns
+- category: supply-chain
   description: New Gartner research found that only 36% of procurement leaders feel
     confident redesigning jobs around AI, creating a gap between individual productivity
     gains and broader business results.
@@ -66,30 +108,6 @@ articles:
   pub_date: '2026-05-20T14:25:00'
   source: Supply Chain 24/7
   title: Gartner Says Agentic AI Hype Could Lead to Costly Mistakes
-- category: supply-chain
-  description: A new wave of nonstop disruption is pushing procurement teams to rethink
-    how they use information, respond to risk, and make decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/real-time-intelligence-procurement-supply-chain-disruption
-  pub_date: '2026-05-20T13:44:00'
-  source: Supply Chain 24/7
-  title: How Real-Time Intelligence Is Reshaping Procurement Strategy
-- category: supply-chain
-  description: A new Infios Report finds companies are turning to air freight, trucking,
-    and bonded warehouses as tariffs reshape trade.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/air-freight-jumps-12-as-tariffs-reshape-supply-chains
-  pub_date: '2026-05-20T13:27:00'
-  source: Supply Chain 24/7
-  title: Air Freight Jumps 12% as Tariffs Reshape Supply Chains
-- category: supply-chain
-  description: Cargo airlines are seeking temporary federal tax relief as rising fuel
-    prices create new pressure across the air cargo industry.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cargo-airlines-seek-jet-fuel-tax-relief
-  pub_date: '2026-05-20T11:40:00'
-  source: Supply Chain 24/7
-  title: Cargo Airlines Push for Tax Relief as Fuel Costs Rise
 - category: circular
   description: The UK Government is pushing UK supermarkets to cap food prices in
     exchange for easing packaging policies, according to multiple reports. The post
@@ -99,14 +117,6 @@ articles:
   pub_date: '2026-05-20T08:42:03'
   source: Circular Online
   title: Supermarkets urged to cap food prices in return for packaging policy relief
-- category: supply-chain
-  description: Locus Robotics acquired Nexera to help its robots handle a wider variety
-    of products in warehouse operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/locus-robotics-nexera-warehouse-picking-automation
-  pub_date: '2026-05-19T15:46:00'
-  source: Supply Chain 24/7
-  title: Locus Robotics Acquires Nexera for Smarter Warehouse Picking
 - category: circular
   description: 23.6 million vapes were littered or dumped in household bins across
     Ireland in 2025, new data shows. The post 23m vapes were littered or dumped in
@@ -161,13 +171,4 @@ articles:
   pub_date: '2026-05-13T07:30:00'
   source: Circular Online
   title: Kent councils award joint 12-year contract to FCC Environment
-- category: circular
-  description: A waste and recycling company in South East London has been fined GBP167,000
-    for stockpiling skips with the risk described as 'potentially catastrophic'. The
-    post Waste company given six-figure fine f...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-company-given-six-figure-fine-for-stockpiling-skips/
-  pub_date: '2026-05-13T07:30:00'
-  source: Circular Online
-  title: Waste company given six-figure fine for stockpiling skips
-last_updated: '2026-05-22T09:24:10.721744'
+last_updated: '2026-05-23T08:20:09.569983'
