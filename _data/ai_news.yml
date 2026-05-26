@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: Learn how to use Mimesis library to generate a balanced, counterfactual
+    dataset that helps analyze potential bias in your models.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/auditing-model-bias-with-balanced-datasets-with-mimesis
+  pub_date: '2026-05-25T14:00:46'
+  source: KDnuggets
+  title: Auditing Model Bias with Balanced Datasets with Mimesis
+- category: machine-learning
+  description: Let's take a look at five more fundamental concepts that every Python
+    developer should have in their toolkit.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-more-must-know-python-concepts
+  pub_date: '2026-05-25T12:00:45'
+  source: KDnuggets
+  title: 5 More Must-Know Python Concepts
 - category: ai-research
   description: Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues
     stage
@@ -168,23 +184,6 @@ articles:
   pub_date: '2026-05-19T12:00:04'
   source: KDnuggets
   title: Top 10 Python Libraries for Data Engineering in 2026
-- category: machine-learning
-  description: This article is about the gap between what candidates prepare for and
-    what companies actually need right now.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-hidden-skill-gap-why-knowing-sql-python-isnt-enough-anymore
-  pub_date: '2026-05-18T15:00:39'
-  source: KDnuggets
-  title: 'The Hidden Skill Gap: Why Knowing SQL + Python Isn’t Enough Anymore'
-- category: machine-learning
-  description: I have been running local models as part of my daily workflow for some
-    time, and what surprised me most is how often local turned out to be the better
-    choice, not a compromise.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-cool-things-i-did-with-local-language-models
-  pub_date: '2026-05-18T12:46:24'
-  source: KDnuggets
-  title: 5 Cool Things I Did with Local Language Models
 - category: ai-research
   description: The prestigious fellowship funds graduate studies at Stanford University.
   icon: fa-graduation-cap
@@ -244,4 +243,4 @@ articles:
   pub_date: '2026-05-01T04:00:00'
   source: MIT AI News
   title: Improving understanding with language
-last_updated: '2026-05-25T10:06:18.821221'
+last_updated: '2026-05-26T09:56:51.078889'
