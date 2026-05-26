@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: The Environment Agency has released a watchlist of 117 high priority
+    waste sites it says are 'causing concerns within local communities'. The post
+    Environment Agency publishes list of 117 high priorit...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/environment-agency-publishes-list-of-117-high-priority-waste-sites/
+  pub_date: '2026-05-26T08:30:19'
+  source: Circular Online
+  title: Environment Agency publishes list of 117 high priority waste sites
 - category: supply-chain
   description: The DOJ has charged four major Chinese shipping container manufacturers
     with allegedly restricting production and fixing prices during the pandemic.
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-05-14T09:15:25'
   source: Circular Online
   title: OEP finds ‘significant weaknesses’ in regulation of waste sites
-- category: circular
-  description: Two councils in Kent have jointly awarded a new 12-year household recycling,
-    waste collection and street cleansing contract to FCC Environment. The post Kent
-    councils award joint 12-year contract to F...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/kent-councils-award-joint-12-year-contract-to-fcc-environment/
-  pub_date: '2026-05-13T07:30:00'
-  source: Circular Online
-  title: Kent councils award joint 12-year contract to FCC Environment
-last_updated: '2026-05-25T10:06:17.600642'
+last_updated: '2026-05-26T09:56:49.616938'
