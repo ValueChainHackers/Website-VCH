@@ -1,4 +1,37 @@
 articles:
+- category: supply-chain
+  description: Marissa Lawrence of DSJ Global on companies rethinking the skills and
+    experience they value most as supply chains become more technology-driven.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-supply-chain-hiring-is-changing-ai-automation
+  pub_date: '2026-05-26T13:35:00'
+  source: Supply Chain 24/7
+  title: The Supply Chain Skills Companies Want Most Right Now
+- category: supply-chain
+  description: New Interact Analysis research suggests humanoid robots could become
+    a major market, but cost, productivity and deployment challenges may slow warehouse
+    adoption.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/humanoid-robots-warehouse-adoption-hurdles
+  pub_date: '2026-05-26T12:55:00'
+  source: Supply Chain 24/7
+  title: Why Humanoid Robots Still Face Big Hurdles in Warehouses
+- category: supply-chain
+  description: A new Avetta report found that organizations using integrated risk
+    strategies reported significantly stronger safety outcomes.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/study-finds-better-safety-results-when-risk-efforts-work-together
+  pub_date: '2026-05-26T12:48:00'
+  source: Supply Chain 24/7
+  title: Study Finds Better Safety Results When Risk Efforts Work Together
+- category: supply-chain
+  description: Learn how apparel warehouses can reduce returns bottlenecks by managing
+    volume spikes, SKU complexity, and inventory flow more efficiently.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-should-apparel-warehouses-handle-high-volume-returns-more-efficiently
+  pub_date: '2026-05-26T12:45:00'
+  source: Supply Chain 24/7
+  title: How Should Apparel Warehouses Handle High-Volume Returns More Efficiently?
 - category: circular
   description: The Environment Agency has released a watchlist of 117 high priority
     waste sites it says are 'causing concerns within local communities'. The post
@@ -67,14 +100,6 @@ articles:
   pub_date: '2026-05-21T16:10:00'
   source: Supply Chain 24/7
   title: Decoding Scope 3 Starts With Solving a Massive Data Problem
-- category: supply-chain
-  description: A new Rockwell Automation report found that 93% of manufacturers expect
-    smart manufacturing technology to reshape their workforce.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/rockwell-smart-manufacturing-workforce-changes-report
-  pub_date: '2026-05-21T13:01:00'
-  source: Supply Chain 24/7
-  title: 93% of Manufacturers Expect Smart Technology to Reshape Jobs
 - category: circular
   description: A man from Birmingham has been arrested in connection with an illegal
     waste site on the land owned by the King's Estate. The post Man arrested in connection
@@ -93,30 +118,6 @@ articles:
   pub_date: '2026-05-21T07:13:18'
   source: Circular Online
   title: 53% of people say waste crime negatively impacts their life
-- category: supply-chain
-  description: ATRI found trucking liability insurance costs rose nearly 19% in recent
-    years, even as crash rates declined across the industry.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trucking-insurance-costs-rise-despite-fewer-crashes-atri
-  pub_date: '2026-05-20T17:13:00'
-  source: Supply Chain 24/7
-  title: Trucking Insurance Costs Increased 18.6% Despite Fewer Crashes
-- category: supply-chain
-  description: Target's same-day delivery business grew more than 27% during the first
-    quarter, helping drive digital sales growth and stronger overall results.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/target-same-day-delivery-growth-q1-2026
-  pub_date: '2026-05-20T16:12:00'
-  source: Supply Chain 24/7
-  title: Target Sees Same-Day Delivery Surge as Faster Fulfillment Pays Off
-- category: supply-chain
-  description: Gartner says supply chain leaders should focus on practical AI use
-    cases now and avoid getting caught up in agentic AI hype.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-agent-washing-supply-chain-ai-risks
-  pub_date: '2026-05-20T14:25:00'
-  source: Supply Chain 24/7
-  title: Gartner Says Agentic AI Hype Could Lead to Costly Mistakes
 - category: circular
   description: The UK Government is pushing UK supermarkets to cap food prices in
     exchange for easing packaging policies, according to multiple reports. The post
@@ -171,4 +172,4 @@ articles:
   pub_date: '2026-05-14T09:15:25'
   source: Circular Online
   title: OEP finds ‘significant weaknesses’ in regulation of waste sites
-last_updated: '2026-05-26T09:56:49.616938'
+last_updated: '2026-05-27T09:50:32.253597'
