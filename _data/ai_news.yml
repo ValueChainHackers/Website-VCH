@@ -1,5 +1,22 @@
 articles:
 - category: machine-learning
+  description: Learn how to use Pandas GroupBy to summarize, compare, and analyze
+    grouped data with simple, practical examples.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/pandas-groupby-explained-with-examples
+  pub_date: '2026-05-27T14:00:09'
+  source: KDnuggets
+  title: Pandas GroupBy Explained With Examples
+- category: machine-learning
+  description: In this article, we will take a look under the hood of scipy.stats,
+    exploring five essential tricks to design high-performance, rigorous simulations
+    using only NumPy and SciPy.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-scipy-stats-tricks-for-simulating-what-if-scenarios
+  pub_date: '2026-05-27T12:00:38'
+  source: KDnuggets
+  title: 5 Scipy.stats Tricks for Simulating ‘What If’ Scenarios
+- category: machine-learning
   description: 'In this article, we cover three topics: what to visualize during training,
     the tools that provide those visualizations, and the methods to capture model
     computations directly using hooks and breakpoin...'
@@ -106,22 +123,6 @@ articles:
   pub_date: '2026-05-20T16:00:15'
   source: KDnuggets
   title: Anonymizing Production Data for Data Science with Mimesis
-- category: machine-learning
-  description: You know window functions, but do you know how to use them to solve
-    business problems? You will after you read this article.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/sql-window-functions-beyond-basics-solving-real-business-problems
-  pub_date: '2026-05-20T14:00:58'
-  source: KDnuggets
-  title: 'SQL Window Functions Beyond Basics: Solving Real Business Problems'
-- category: machine-learning
-  description: From your first backtest to a real trading system, here are GitHub
-    repos that can seriously level up your quant trading skills fast.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-to-master-quant-trading
-  pub_date: '2026-05-20T13:20:44'
-  source: KDnuggets
-  title: 10 GitHub Repositories to Master Quant Trading
 - category: ai-research
   description: Connor Coley works at the interface of chemistry and machine learning,
     to discover and design new drug compounds.
@@ -243,4 +244,4 @@ articles:
   pub_date: '2026-05-01T04:00:00'
   source: MIT AI News
   title: Improving understanding with language
-last_updated: '2026-05-27T09:50:33.454956'
+last_updated: '2026-05-28T10:02:21.851337'

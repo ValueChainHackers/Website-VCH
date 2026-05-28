@@ -1,5 +1,37 @@
 articles:
 - category: supply-chain
+  description: See real-world automation in action across a multi-city event series.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/locus-robotics-automation-advantage-tour
+  pub_date: '2026-05-27T17:19:00'
+  source: Supply Chain 24/7
+  title: Locus Robotics Automation Advantage Tour
+- category: supply-chain
+  description: CMA CGM has launched the world's largest LNG-powered containership
+    as part of a larger fleet expansion effort.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cma-cgm-worlds-largest-lng-container-ship
+  pub_date: '2026-05-27T16:37:00'
+  source: Supply Chain 24/7
+  title: CMA CGM Launches World’s Largest LNG Container Ship
+- category: supply-chain
+  description: Maersk agreed to pay $1.9 million, issue refunds, and change its tariff
+    rules after an FMC settlement over container fee practices.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-fmc-settlement-container-fees-1-9-million
+  pub_date: '2026-05-27T12:56:00'
+  source: Supply Chain 24/7
+  title: Maersk Agrees to $1.9 Million Settlement Over Container Charges
+- category: supply-chain
+  description: Six state attorneys general are urging regulators to reject the proposed
+    UP-Norfolk Southern merger, adding pressure to a deal already facing criticism
+    from competitors.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/up-norfolk-southern-merger-state-opposition-stb
+  pub_date: '2026-05-27T12:24:00'
+  source: Supply Chain 24/7
+  title: Opposition Grows Around Proposed Union Pacific-Norfolk Southern Deal
+- category: supply-chain
   description: Marissa Lawrence of DSJ Global on companies rethinking the skills and
     experience they value most as supply chains become more technology-driven.
   icon: fa-box
@@ -57,22 +89,6 @@ articles:
   pub_date: '2026-05-22T12:02:00'
   source: Supply Chain 24/7
   title: 'Robots for the Rest of Us: Warehouse Automation Gets Easier'
-- category: supply-chain
-  description: Walmart's stores are playing a growing role as local fulfillment hubs,
-    helping drive 26% e-commerce growth in the first quarter.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-store-fulfillment-helps-drive-ecommerce-growth
-  pub_date: '2026-05-22T11:46:00'
-  source: Supply Chain 24/7
-  title: Store Fulfillment Helps Drive Walmart’s 26% E-Commerce Growth
-- category: supply-chain
-  description: As AI takes over more routine work, communication, relationships and
-    problem-solving will become important skills in supply chain operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-skills-ai-cant-replace
-  pub_date: '2026-05-22T11:42:00'
-  source: Supply Chain 24/7
-  title: These are the Supply Chain Skills AI Still Can’t Replace
 - category: circular
   description: A new report from Zero Waste Europe warns the EU Circular Economy Act
     risks entrenching the use of hazardous waste in construction projects. The post
@@ -83,23 +99,6 @@ articles:
   source: Circular Online
   title: EU Circular Economy Act risks promoting hazardous waste in construction,
     report warns
-- category: supply-chain
-  description: New Gartner research found that only 36% of procurement leaders feel
-    confident redesigning jobs around AI, creating a gap between individual productivity
-    gains and broader business results.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-ai-productivity-gains-gartner-2026
-  pub_date: '2026-05-21T16:11:00'
-  source: Supply Chain 24/7
-  title: Only 36% of Procurement Leaders Feel Ready for AI Changes
-- category: supply-chain
-  description: 'Scope 3 reporting is creating new pressure on procurement teams, and
-    AI may help solve one of the biggest challenges: messy supplier data.'
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-ai-is-solving-scope-3-data-challenges
-  pub_date: '2026-05-21T16:10:00'
-  source: Supply Chain 24/7
-  title: Decoding Scope 3 Starts With Solving a Massive Data Problem
 - category: circular
   description: A man from Birmingham has been arrested in connection with an illegal
     waste site on the land owned by the King's Estate. The post Man arrested in connection
@@ -172,4 +171,4 @@ articles:
   pub_date: '2026-05-14T09:15:25'
   source: Circular Online
   title: OEP finds ‘significant weaknesses’ in regulation of waste sites
-last_updated: '2026-05-27T09:50:32.253597'
+last_updated: '2026-05-28T10:02:20.494292'
