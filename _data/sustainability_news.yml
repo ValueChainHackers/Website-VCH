@@ -1,4 +1,78 @@
 articles:
+- category: circular
+  description: A waste and recycling company in Cumbria has been fined GBP60,000 after
+    a man hit and killed by a reversing telehandler on its site. The post Waste and
+    recycling company fined after employee death app...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-and-recycling-company-fined-after-employee-death/
+  pub_date: '2026-05-29T08:58:27'
+  source: Circular Online
+  title: Waste and recycling company fined after employee death
+- category: supply-chain
+  description: From Cape Cod to Gartner's keynote stage, Gartner's Lindsay Azim shares
+    the experiences that helped shape her career in supply chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-lindsay-azim-gartner
+  pub_date: '2026-05-28T23:08:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Lindsay Azim of Gartner'
+- category: supply-chain
+  description: DHL eCommerce and USPS signed a new delivery agreement worth more than
+    $10 billion as both companies push for bigger growth in the U.S. parcel market.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-usps-10-billion-exclusive-delivery-deal
+  pub_date: '2026-05-28T17:16:00'
+  source: Supply Chain 24/7
+  title: USPS Lands Massive DHL Shipping Deal Worth More Than $10B
+- category: supply-chain
+  description: New research from GS1 US found warehouses could save more than $500K
+    annually per facility by switching to 2D barcodes.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-2d-barcodes-could-cut-warehouse-costs
+  pub_date: '2026-05-28T16:17:00'
+  source: Supply Chain 24/7
+  title: Warehouses Could Save $500,000 by Switching to 2D Barcodes
+- category: supply-chain
+  description: Alaska Airlines and Hawaiian Airlines have unified cargo operations
+    onto one platform as merger integration efforts continue.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/alaska-hawaiian-cargo-operations-integration
+  pub_date: '2026-05-28T16:04:00'
+  source: Supply Chain 24/7
+  title: Alaska and Hawaiian Combine Cargo Operations on One Platform
+- category: supply-chain
+  description: Learn how WMS-led execution, Voice technology, and AMRs improve warehouse
+    throughput, accuracy, workforce productivity, and operational resilience.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-wms-led-execution-improves-warehouse-efficiency
+  pub_date: '2026-05-28T15:37:00'
+  source: Supply Chain 24/7
+  title: How WMS-Led Execution Improves Warehouse Efficiency
+- category: supply-chain
+  description: Deloitte says chemical plant closures are creating ripple effects that
+    could reshape global supply chains and sourcing strategies.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/chemical-plant-closures-reshaping-global-supply-chains
+  pub_date: '2026-05-28T13:50:00'
+  source: Supply Chain 24/7
+  title: Chemical Plant Closures Trigger New Supply Chain Challenges
+- category: supply-chain
+  description: ArmorPoint CEO David Trapp on why AI-driven cyber threats are creating
+    bigger risks for supply chains and what companies can do to respond faster.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-supply-chain-cybersecurity-risks-qa
+  pub_date: '2026-05-28T13:21:00'
+  source: Supply Chain 24/7
+  title: These are the Weak Spots Hackers Are Targeting Across Supply Chains
+- category: circular
+  description: MV Recycling (UK) Ltd must pay GBP30,400 after attempting to illegally
+    export plastics contaminated with household waste. The post Recycling company
+    fined for illegally exporting plastic waste appeare...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/recycling-company-fined-for-illegally-exporting-plastic-waste/
+  pub_date: '2026-05-28T11:06:35'
+  source: Circular Online
+  title: Recycling company fined for illegally exporting plastic waste
 - category: supply-chain
   description: See real-world automation in action across a multi-city event series.
   icon: fa-box
@@ -15,55 +89,13 @@ articles:
   source: Supply Chain 24/7
   title: CMA CGM Launches World’s Largest LNG Container Ship
 - category: supply-chain
-  description: Maersk agreed to pay $1.9 million, issue refunds, and change its tariff
-    rules after an FMC settlement over container fee practices.
+  description: Learn how fashion and footwear warehouses manage omnichannel fulfillment
+    with unified inventory, adaptive workflows, and flexible automation.
   icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-fmc-settlement-container-fees-1-9-million
-  pub_date: '2026-05-27T12:56:00'
+  link: https://www.supplychain247.com/article/improving-inventory-visibility-in-omnichannel-fulfillment
+  pub_date: '2026-05-27T13:54:00'
   source: Supply Chain 24/7
-  title: Maersk Agrees to $1.9 Million Settlement Over Container Charges
-- category: supply-chain
-  description: Six state attorneys general are urging regulators to reject the proposed
-    UP-Norfolk Southern merger, adding pressure to a deal already facing criticism
-    from competitors.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/up-norfolk-southern-merger-state-opposition-stb
-  pub_date: '2026-05-27T12:24:00'
-  source: Supply Chain 24/7
-  title: Opposition Grows Around Proposed Union Pacific-Norfolk Southern Deal
-- category: supply-chain
-  description: Marissa Lawrence of DSJ Global on companies rethinking the skills and
-    experience they value most as supply chains become more technology-driven.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-supply-chain-hiring-is-changing-ai-automation
-  pub_date: '2026-05-26T13:35:00'
-  source: Supply Chain 24/7
-  title: The Supply Chain Skills Companies Want Most Right Now
-- category: supply-chain
-  description: New Interact Analysis research suggests humanoid robots could become
-    a major market, but cost, productivity and deployment challenges may slow warehouse
-    adoption.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/humanoid-robots-warehouse-adoption-hurdles
-  pub_date: '2026-05-26T12:55:00'
-  source: Supply Chain 24/7
-  title: Why Humanoid Robots Still Face Big Hurdles in Warehouses
-- category: supply-chain
-  description: A new Avetta report found that organizations using integrated risk
-    strategies reported significantly stronger safety outcomes.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/study-finds-better-safety-results-when-risk-efforts-work-together
-  pub_date: '2026-05-26T12:48:00'
-  source: Supply Chain 24/7
-  title: Study Finds Better Safety Results When Risk Efforts Work Together
-- category: supply-chain
-  description: Learn how apparel warehouses can reduce returns bottlenecks by managing
-    volume spikes, SKU complexity, and inventory flow more efficiently.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-should-apparel-warehouses-handle-high-volume-returns-more-efficiently
-  pub_date: '2026-05-26T12:45:00'
-  source: Supply Chain 24/7
-  title: How Should Apparel Warehouses Handle High-Volume Returns More Efficiently?
+  title: Improving Inventory Visibility in Omnichannel Fulfillment
 - category: circular
   description: The Environment Agency has released a watchlist of 117 high priority
     waste sites it says are 'causing concerns within local communities'. The post
@@ -73,22 +105,6 @@ articles:
   pub_date: '2026-05-26T08:30:19'
   source: Circular Online
   title: Environment Agency publishes list of 117 high priority waste sites
-- category: supply-chain
-  description: The DOJ has charged four major Chinese shipping container manufacturers
-    with allegedly restricting production and fixing prices during the pandemic.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-indicts-chinese-container-makers-price-fixing-scheme
-  pub_date: '2026-05-22T12:30:00'
-  source: Supply Chain 24/7
-  title: U.S. Indicts Chinese Container Makers in Price-Fixing Case
-- category: supply-chain
-  description: Warehouse robotics is becoming easier to adopt as modular systems,
-    lower costs and growing labor pressures push more companies toward automation.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-robots-becoming-more-accessible
-  pub_date: '2026-05-22T12:02:00'
-  source: Supply Chain 24/7
-  title: 'Robots for the Rest of Us: Warehouse Automation Gets Easier'
 - category: circular
   description: A new report from Zero Waste Europe warns the EU Circular Economy Act
     risks entrenching the use of hazardous waste in construction projects. The post
@@ -153,22 +169,4 @@ articles:
   pub_date: '2026-05-18T08:45:04'
   source: Circular Online
   title: Defra strengthens waste carrier laws after cow approved for licence
-- category: circular
-  description: A recent fire at a recycling centre in Wales that caused nearby roads
-    to close is being investigated as a 'deliberate ignition' by police. The post
-    Arson investigation launched after recycling centre ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/arson-investigation-launched-after-recycling-centre-fire-in-wales/
-  pub_date: '2026-05-15T10:01:23'
-  source: Circular Online
-  title: Arson investigation launched after recycling centre fire in Wales
-- category: circular
-  description: There are 'significant weaknesses' in the Environment Agency's inspections
-    of waste operations and installations, Office for Environmental Protection (OEP)
-    report finds. The post OEP finds 'significan...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/oep-finds-significant-weaknesses-in-regulation-of-waste-sites/
-  pub_date: '2026-05-14T09:15:25'
-  source: Circular Online
-  title: OEP finds ‘significant weaknesses’ in regulation of waste sites
-last_updated: '2026-05-28T10:02:20.494292'
+last_updated: '2026-05-29T09:54:25.397579'
