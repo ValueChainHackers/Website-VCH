@@ -1,4 +1,45 @@
 articles:
+- category: supply-chain
+  description: Federal regulators accepted the Union Pacific-Norfolk Southern merger
+    application but paused the review process while seeking more information.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/union-pacific-norfolk-southern-merger-review-paused
+  pub_date: '2026-05-29T11:44:00'
+  source: Supply Chain 24/7
+  title: STB Accepts Revised UP-NS Filing, Delays Next Phase of Review
+- category: supply-chain
+  description: A Landmark Global survey found hidden fees, delivery uncertainty, and
+    difficult returns are causing many consumers to avoid international online purchases.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cross-border-ecommerce-hidden-fees-shopping-survey
+  pub_date: '2026-05-29T10:47:00'
+  source: Supply Chain 24/7
+  title: Hidden Fees Are Driving Shoppers Away From International Purchases
+- category: supply-chain
+  description: From Cape Cod to Gartner's keynote stage, Gartner's Lindsay Azim shares
+    the experiences that helped shape her career in supply chain.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-lindsay-azim-gartner
+  pub_date: '2026-05-29T10:41:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Lindsay Azim of Gartner'
+- category: circular
+  description: News updates written by CIWM's commercial partners. Greyparrot Kenvue
+    partners with Greyparrot to accelerate circular consumer health packaging design
+    Wood Recyclers' Association Segregate waste wood ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-may/
+  pub_date: '2026-05-29T09:58:41'
+  source: Circular Online
+  title: News in Brief | Commercial Partner News May
+- category: supply-chain
+  description: A new AlixPartners survey found that tariffs, geopolitical uncertainty,
+    and supply chain disruptions are becoming major challenges for life sciences companies.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tariffs-and-geopolitics-are-reshaping-pharma-supply-chains
+  pub_date: '2026-05-29T09:57:00'
+  source: Supply Chain 24/7
+  title: Tariffs and Geopolitics Are Reshaping Pharma Supply Chains
 - category: circular
   description: A waste and recycling company in Cumbria has been fined GBP60,000 after
     a man hit and killed by a reversing telehandler on its site. The post Waste and
@@ -9,13 +50,13 @@ articles:
   source: Circular Online
   title: Waste and recycling company fined after employee death
 - category: supply-chain
-  description: From Cape Cod to Gartner's keynote stage, Gartner's Lindsay Azim shares
-    the experiences that helped shape her career in supply chain.
+  description: Simon Harrsen of CHG-MERIDIAN discusses automation, equipment financing,
+    fleet management, and the trends influencing supply chain investments in 2026.
   icon: fa-box
-  link: https://www.supplychain247.com/article/leadership-lessons-lindsay-azim-gartner
-  pub_date: '2026-05-28T23:08:00'
+  link: https://www.supplychain247.com/article/equipment-financing-automation-supply-chain-2026
+  pub_date: '2026-05-29T01:26:00'
   source: Supply Chain 24/7
-  title: 'Leadership Lessons: Lindsay Azim of Gartner'
+  title: Why More Companies Are Leasing Equipment Instead of Buying It
 - category: supply-chain
   description: DHL eCommerce and USPS signed a new delivery agreement worth more than
     $10 billion as both companies push for bigger growth in the U.S. parcel market.
@@ -56,14 +97,6 @@ articles:
   pub_date: '2026-05-28T13:50:00'
   source: Supply Chain 24/7
   title: Chemical Plant Closures Trigger New Supply Chain Challenges
-- category: supply-chain
-  description: ArmorPoint CEO David Trapp on why AI-driven cyber threats are creating
-    bigger risks for supply chains and what companies can do to respond faster.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-supply-chain-cybersecurity-risks-qa
-  pub_date: '2026-05-28T13:21:00'
-  source: Supply Chain 24/7
-  title: These are the Weak Spots Hackers Are Targeting Across Supply Chains
 - category: circular
   description: MV Recycling (UK) Ltd must pay GBP30,400 after attempting to illegally
     export plastics contaminated with household waste. The post Recycling company
@@ -73,29 +106,6 @@ articles:
   pub_date: '2026-05-28T11:06:35'
   source: Circular Online
   title: Recycling company fined for illegally exporting plastic waste
-- category: supply-chain
-  description: See real-world automation in action across a multi-city event series.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/locus-robotics-automation-advantage-tour
-  pub_date: '2026-05-27T17:19:00'
-  source: Supply Chain 24/7
-  title: Locus Robotics Automation Advantage Tour
-- category: supply-chain
-  description: CMA CGM has launched the world's largest LNG-powered containership
-    as part of a larger fleet expansion effort.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cma-cgm-worlds-largest-lng-container-ship
-  pub_date: '2026-05-27T16:37:00'
-  source: Supply Chain 24/7
-  title: CMA CGM Launches World’s Largest LNG Container Ship
-- category: supply-chain
-  description: Learn how fashion and footwear warehouses manage omnichannel fulfillment
-    with unified inventory, adaptive workflows, and flexible automation.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/improving-inventory-visibility-in-omnichannel-fulfillment
-  pub_date: '2026-05-27T13:54:00'
-  source: Supply Chain 24/7
-  title: Improving Inventory Visibility in Omnichannel Fulfillment
 - category: circular
   description: The Environment Agency has released a watchlist of 117 high priority
     waste sites it says are 'causing concerns within local communities'. The post
@@ -160,13 +170,4 @@ articles:
   pub_date: '2026-05-19T07:46:22'
   source: Circular Online
   title: Community groups awarded £165,000 to help tackle waste in Liverpool
-- category: circular
-  description: New laws introduce identity and criminal records when applying for
-    a waste carrier licence. The post Defra strengthens waste carrier laws after cow
-    approved for licence appeared first on Circular Onli...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/defra-strengthens-waste-carrier-laws-after-cow-approved-for-licence/
-  pub_date: '2026-05-18T08:45:04'
-  source: Circular Online
-  title: Defra strengthens waste carrier laws after cow approved for licence
-last_updated: '2026-05-29T09:54:25.397579'
+last_updated: '2026-05-30T08:27:54.676816'

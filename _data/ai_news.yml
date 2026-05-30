@@ -1,5 +1,45 @@
 articles:
 - category: ai-research
+  description: We used Google AI Studio to vibe code a quiz about our top I/O 2026
+    announcements.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/
+  pub_date: '2026-05-29T19:00:00'
+  source: Google AI Blog
+  title: Take our I/O 2026 quiz, vibe coded in Google AI Studio.
+- category: ai-research
+  description: Gemini Omni & Gemini 3.5 hero
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/
+  pub_date: '2026-05-29T17:30:00'
+  source: Google AI Blog
+  title: 9 demos of Gemini Omni and Gemini 3.5 in action
+- category: machine-learning
+  description: 'This tutorial covers three NLP tasks: text classification, zero-shot
+    labelling, and question answering using Transformers.js''s pipeline() API.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/practical-nlp-in-the-browser-with-transformers-js
+  pub_date: '2026-05-29T14:00:02'
+  source: KDnuggets
+  title: Practical NLP in the Browser with Transformers.js
+- category: machine-learning
+  description: This article shows how to use free, open-source tools like Python and
+    its Textstat library to build a script that automates the process of capturing
+    "gatekeeping language" in job descriptions before p...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-entry-level-gatekeeper-auditing-job-descriptions-with-textstat
+  pub_date: '2026-05-29T12:00:19'
+  source: KDnuggets
+  title: 'The ‘Entry-Level’ Gatekeeper: Auditing Job Descriptions with Textstat'
+- category: ai-research
+  description: University of Waterloo students develop AI prototypes like sign language
+    tutors to reshape the future of education and work.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/
+  pub_date: '2026-05-29T12:00:00'
+  source: Google AI Blog
+  title: Check out real-life AI prototypes from the Futures Lab.
+- category: ai-research
   description: With $25 million investment from the Commonwealth of Massachusetts,
     MIT to build a new shared-use facility to serve as a statewide quantum toolbox.
   icon: fa-graduation-cap
@@ -90,23 +130,6 @@ articles:
   pub_date: '2026-05-22T18:00:00'
   source: Google AI Blog
   title: Catch up on the Dialogues stage at Google I/O 2026.
-- category: machine-learning
-  description: In this tutorial, we will give Gemma 4 two new tools and watch the
-    model decide, on its own, when to look around and when to compute.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/easy-agentic-tool-calling-with-gemma-4
-  pub_date: '2026-05-22T12:00:22'
-  source: KDnuggets
-  title: Easy Agentic Tool Calling with Gemma 4
-- category: machine-learning
-  description: Ace system design interviews with 10 GitHub repositories packed with
-    fundamentals, proven patterns, and real questions to help you design scalable
-    systems with confidence.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/system-design-interview-questions-a-handy-collection
-  pub_date: '2026-05-21T14:00:50'
-  source: KDnuggets
-  title: 'System Design Interview Questions: A Handy Collection'
 - category: ai-research
   description: A new study of the postwar U.S. shows which kinds of workers historically
     filled new tech-enabled jobs.
@@ -156,14 +179,6 @@ articles:
   source: MIT AI News
   title: Justin Solomon appointed associate dean of engineering education
 - category: ai-research
-  description: At Google I/O 2026, we shared how we're making AI more helpful for
-    everyone. See everything we announced.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/
-  pub_date: '2026-05-19T17:45:00'
-  source: Google AI Blog
-  title: I/O 2026
-- category: ai-research
   description: A graphic features the text "How people are using AI Mode in the U.S."
     surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift
     box, cursor, gamepad, and lipstick on a light bl...
@@ -179,21 +194,6 @@ articles:
   pub_date: '2026-05-19T17:45:00'
   source: Google AI Blog
   title: New ways to create and get things done in Google Workspace
-- category: ai-research
-  description: a series of colorful icons representing Google I/O against a black
-    background
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
-  pub_date: '2026-05-19T17:45:00'
-  source: Google AI Blog
-  title: 'I/O 2026: Welcome to the agentic Gemini era'
-- category: ai-research
-  description: Gemini 3.5 text and multi-colored star icon on an abstract blue background.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
-  pub_date: '2026-05-19T17:45:00'
-  source: Google AI Blog
-  title: 'Gemini 3.5: frontier intelligence with action'
 - category: ai-research
   description: The prestigious fellowship funds graduate studies at Stanford University.
   icon: fa-graduation-cap
@@ -245,4 +245,4 @@ articles:
   pub_date: '2026-05-01T04:00:00'
   source: MIT AI News
   title: Beacon Biosignals is mapping the brain during sleep
-last_updated: '2026-05-29T09:54:26.522700'
+last_updated: '2026-05-30T08:27:55.664935'
