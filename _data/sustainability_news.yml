@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: Waste companies have called for a GBP5 deposit to be charged on disposable
+    vapes as an incentive to dispose of them properly. The post Charge a GBP5 deposit
+    on disposable vapes, waste companies urge a...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/charge-a-5-deposit-on-disposable-vapes-waste-companies-urge/
+  pub_date: '2026-06-01T09:07:26'
+  source: Circular Online
+  title: Charge a £5 deposit on disposable vapes, waste companies urge
 - category: supply-chain
   description: Federal regulators accepted the Union Pacific-Norfolk Southern merger
     application but paused the review process while seeking more information.
@@ -161,13 +170,4 @@ articles:
   pub_date: '2026-05-19T09:03:34'
   source: Circular Online
   title: 23m vapes were littered or dumped in household bins last year in Ireland
-- category: circular
-  description: Fifteen community organisations across the Liverpool City Region have
-    been awarded a share of GBP165,000 to launch waste reduction, reuse, and recycling
-    initiatives. The post Community groups awarded ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/community-groups-awarded-165000-to-help-tackle-waste-in-liverpool/
-  pub_date: '2026-05-19T07:46:22'
-  source: Circular Online
-  title: Community groups awarded £165,000 to help tackle waste in Liverpool
-last_updated: '2026-05-31T08:45:40.589037'
+last_updated: '2026-06-01T11:34:39.692733'
