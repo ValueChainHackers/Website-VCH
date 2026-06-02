@@ -1,5 +1,32 @@
 articles:
 - category: ai-research
+  description: A collage of I/O-related images, including the Antigravity Coffee Co.
+    pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI
+    repeats three times on the left of the image, and t...
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/
+  pub_date: '2026-06-01T16:00:00'
+  source: Google AI Blog
+  title: How we used Gemini to build Google I/O 2026
+- category: machine-learning
+  description: In this guide, you will learn the process of generating a year's worth
+    of daily temperature readings, mimicking a seasonal curve that looks like real
+    - all together with device-level metadata, and rea...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/mocking-a-year-of-iot-sensor-time-series-data-with-mimesis
+  pub_date: '2026-06-01T14:00:42'
+  source: KDnuggets
+  title: Mocking a Year of IoT Sensor Time Series Data with Mimesis
+- category: machine-learning
+  description: In this article, we will dive deep into five must-know Python concepts
+    that will help you transition from writing clunky, slow spaghetti code to constructing
+    lightning-fast, production-grade, and beau...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-must-know-python-concepts-for-data-scientists
+  pub_date: '2026-06-01T12:00:24'
+  source: KDnuggets
+  title: 5 Must-Know Python Concepts for Data Scientists
+- category: ai-research
   description: We used Google AI Studio to vibe code a quiz about our top I/O 2026
     announcements.
   icon: fa-google
@@ -106,22 +133,6 @@ articles:
   pub_date: '2026-05-26T12:00:29'
   source: KDnuggets
   title: Top 7 Python Libraries for Large-Scale Data Processing
-- category: machine-learning
-  description: Learn how to use Mimesis library to generate a balanced, counterfactual
-    dataset that helps analyze potential bias in your models.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/auditing-model-bias-with-balanced-datasets-with-mimesis
-  pub_date: '2026-05-25T14:00:46'
-  source: KDnuggets
-  title: Auditing Model Bias with Balanced Datasets with Mimesis
-- category: machine-learning
-  description: Let's take a look at five more fundamental concepts that every Python
-    developer should have in their toolkit.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-more-must-know-python-concepts
-  pub_date: '2026-05-25T12:00:45'
-  source: KDnuggets
-  title: 5 More Must-Know Python Concepts
 - category: ai-research
   description: Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues
     stage
@@ -188,13 +199,6 @@ articles:
   source: Google AI Blog
   title: How AI Mode is changing the way people search in the U.S.
 - category: ai-research
-  description: Google Workspace
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/workspace/workspace-updates/
-  pub_date: '2026-05-19T17:45:00'
-  source: Google AI Blog
-  title: New ways to create and get things done in Google Workspace
-- category: ai-research
   description: The prestigious fellowship funds graduate studies at Stanford University.
   icon: fa-graduation-cap
   link: https://news.mit.edu/2026/knight-hennessy-scholars-0514
@@ -245,4 +249,4 @@ articles:
   pub_date: '2026-05-01T04:00:00'
   source: MIT AI News
   title: Beacon Biosignals is mapping the brain during sleep
-last_updated: '2026-06-01T11:34:40.913977'
+last_updated: '2026-06-02T10:23:33.404878'

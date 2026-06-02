@@ -1,5 +1,57 @@
 articles:
 - category: circular
+  description: The University of Edinburgh has licensed a gold and copper recovery
+    process that enables cleaner extraction of highvalue metals from ewaste. The post
+    University of Edinburgh licenses 'breakthrough' e-...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/university-of-edinburgh-licenses-breakthrough-e-waste-gold-and-copper-recovery-tech/
+  pub_date: '2026-06-02T08:30:31'
+  source: Circular Online
+  title: University of Edinburgh licenses ‘breakthrough’ e-waste gold and copper recovery
+    tech
+- category: circular
+  description: 'CIWM and URGE Collective have partnered with Biffa and Decathlon for
+    the next phases of the Design Skills for embedding circularity programme. The
+    post Design Skills for Embedding Circularity: CIWM & ...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/design-skills-for-embedding-circularity-ciwm-urge-collective-prepare-for-design-sprint/
+  pub_date: '2026-06-02T07:43:35'
+  source: Circular Online
+  title: 'Design Skills for Embedding Circularity: CIWM & URGE Collective prepare
+    for design sprint'
+- category: supply-chain
+  description: A new Sea-Intelligence study found that nearly one-third of global
+    container shipping activity now involves empty containers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nearly-one-third-of-global-container-shipments-now-travel-empty
+  pub_date: '2026-06-01T13:59:00'
+  source: Supply Chain 24/7
+  title: Nearly One-Third of Global Container Shipments Now Travel Empty
+- category: supply-chain
+  description: UPS is investing $50 million and launching new Mexico air freight service
+    to help manufacturers move critical shipments more quickly across North America.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-announces-50-million-investment-expands-mexico-air-freight
+  pub_date: '2026-06-01T13:38:00'
+  source: Supply Chain 24/7
+  title: UPS Announces $50 Million Investment, Expands Mexico Air Freight
+- category: supply-chain
+  description: The USPS is restricting hiring, travel, training, and software spending
+    as it works to conserve cash and avoid running out of money as early as 2027.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-cuts-spending-cash-expected-to-run-out-in-2027
+  pub_date: '2026-06-01T13:19:00'
+  source: Supply Chain 24/7
+  title: USPS Cuts Spending as Cash Expected to Run Out in 2027
+- category: supply-chain
+  description: Building a successful physical AI product takes more than smart software.
+    It requires a supply chain that can keep pace from prototype to production.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-physical-ai-success-depends-on-supply-chain-execution
+  pub_date: '2026-06-01T12:04:00'
+  source: Supply Chain 24/7
+  title: The Companies That Build Fast Will Win the Physical AI Race
+- category: circular
   description: Waste companies have called for a GBP5 deposit to be charged on disposable
     vapes as an incentive to dispose of them properly. The post Charge a GBP5 deposit
     on disposable vapes, waste companies urge a...
@@ -74,38 +126,6 @@ articles:
   pub_date: '2026-05-28T17:16:00'
   source: Supply Chain 24/7
   title: USPS Lands Massive DHL Shipping Deal Worth More Than $10B
-- category: supply-chain
-  description: New research from GS1 US found warehouses could save more than $500K
-    annually per facility by switching to 2D barcodes.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-2d-barcodes-could-cut-warehouse-costs
-  pub_date: '2026-05-28T16:17:00'
-  source: Supply Chain 24/7
-  title: Warehouses Could Save $500,000 by Switching to 2D Barcodes
-- category: supply-chain
-  description: Alaska Airlines and Hawaiian Airlines have unified cargo operations
-    onto one platform as merger integration efforts continue.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/alaska-hawaiian-cargo-operations-integration
-  pub_date: '2026-05-28T16:04:00'
-  source: Supply Chain 24/7
-  title: Alaska and Hawaiian Combine Cargo Operations on One Platform
-- category: supply-chain
-  description: Learn how WMS-led execution, Voice technology, and AMRs improve warehouse
-    throughput, accuracy, workforce productivity, and operational resilience.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-wms-led-execution-improves-warehouse-efficiency
-  pub_date: '2026-05-28T15:37:00'
-  source: Supply Chain 24/7
-  title: How WMS-Led Execution Improves Warehouse Efficiency
-- category: supply-chain
-  description: Deloitte says chemical plant closures are creating ripple effects that
-    could reshape global supply chains and sourcing strategies.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/chemical-plant-closures-reshaping-global-supply-chains
-  pub_date: '2026-05-28T13:50:00'
-  source: Supply Chain 24/7
-  title: Chemical Plant Closures Trigger New Supply Chain Challenges
 - category: circular
   description: MV Recycling (UK) Ltd must pay GBP30,400 after attempting to illegally
     export plastics contaminated with household waste. The post Recycling company
@@ -152,22 +172,4 @@ articles:
   pub_date: '2026-05-21T07:13:18'
   source: Circular Online
   title: 53% of people say waste crime negatively impacts their life
-- category: circular
-  description: The UK Government is pushing UK supermarkets to cap food prices in
-    exchange for easing packaging policies, according to multiple reports. The post
-    Supermarkets urged to cap food prices in return for p...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/supermarkets-urged-to-cap-food-prices-in-return-for-easing-packaging-policies/
-  pub_date: '2026-05-20T08:42:03'
-  source: Circular Online
-  title: Supermarkets urged to cap food prices in return for packaging policy relief
-- category: circular
-  description: 23.6 million vapes were littered or dumped in household bins across
-    Ireland in 2025, new data shows. The post 23m vapes were littered or dumped in
-    household bins last year in Ireland appeared first on...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/23m-vapes-were-littered-or-dumped-in-household-bins-last-year-in-ireland/
-  pub_date: '2026-05-19T09:03:34'
-  source: Circular Online
-  title: 23m vapes were littered or dumped in household bins last year in Ireland
-last_updated: '2026-06-01T11:34:39.692733'
+last_updated: '2026-06-02T10:23:32.496334'
