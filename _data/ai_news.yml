@@ -1,5 +1,30 @@
 articles:
 - category: ai-research
+  description: The new ChartNet training dataset could improve the accuracy of vision-language
+    models that help analyze business trends or interpret scientific figures.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603
+  pub_date: '2026-06-03T04:00:00'
+  source: MIT AI News
+  title: MIT researchers teach AI models to interpret charts
+- category: machine-learning
+  description: This article discusses LLM explainability and outlines the advances,
+    trends, and ongoing developments in this important field of study.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/a-gentle-primer-on-llm-explainability
+  pub_date: '2026-06-02T14:00:18'
+  source: KDnuggets
+  title: A Gentle Primer on LLM Explainability
+- category: machine-learning
+  description: Explore 10 top open-source GitHub repositories for modern databases,
+    analytics, SQL, caching, monitoring, replication, PostgreSQL, SQLite, and AI agent
+    memory.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-github-repositories-for-modern-database-systems-and-tools
+  pub_date: '2026-06-02T12:00:00'
+  source: KDnuggets
+  title: 10 GitHub Repositories for Modern Database Systems and Tools
+- category: ai-research
   description: A collage of I/O-related images, including the Antigravity Coffee Co.
     pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI
     repeats three times on the left of the image, and t...
@@ -116,23 +141,6 @@ articles:
   pub_date: '2026-05-27T12:00:38'
   source: KDnuggets
   title: 5 Scipy.stats Tricks for Simulating ‘What If’ Scenarios
-- category: machine-learning
-  description: 'In this article, we cover three topics: what to visualize during training,
-    the tools that provide those visualizations, and the methods to capture model
-    computations directly using hooks and breakpoin...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/visual-debugging-tools-for-machine-learning-workflows
-  pub_date: '2026-05-26T14:00:55'
-  source: KDnuggets
-  title: Visual Debugging Tools for Machine Learning Workflows
-- category: machine-learning
-  description: This article covers Python libraries that make large-scale data processing
-    faster, more scalable, and easier to manage across modern data workflows.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-python-libraries-for-large-scale-data-processing
-  pub_date: '2026-05-26T12:00:29'
-  source: KDnuggets
-  title: Top 7 Python Libraries for Large-Scale Data Processing
 - category: ai-research
   description: Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues
     stage
@@ -240,13 +248,4 @@ articles:
   source: MIT AI News
   title: 'Games people — and machines — play: Untangling strategic reasoning to advance
     AI'
-- category: ai-research
-  description: Founded by Jake Donoghue PhD '19 and former MIT researcher Jarrett
-    Revels, the company is creating an AI-driven platform to help diagnose and treat
-    disease.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501
-  pub_date: '2026-05-01T04:00:00'
-  source: MIT AI News
-  title: Beacon Biosignals is mapping the brain during sleep
-last_updated: '2026-06-02T10:23:33.404878'
+last_updated: '2026-06-03T10:59:49.931072'
