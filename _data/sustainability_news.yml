@@ -1,5 +1,56 @@
 articles:
 - category: circular
+  description: SUEZ has signed a GBP396 million, ten-year contract to operate and
+    manage the Milton Keynes Waste Recovery Park (MKWRP). The post SUEZ signs GBP396m
+    contract with Milton Keynes City Council appeared f...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/suez-signs-396m-contract-with-milton-keynes-city-council/
+  pub_date: '2026-06-03T07:42:08'
+  source: Circular Online
+  title: SUEZ signs £396m contract with Milton Keynes City Council
+- category: supply-chain
+  description: The smartest warehouses combine accurate data, real-time visibility,
+    and human oversight, with AI helping support better decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-intelligence-starts-long-before-ai-enters-the-picture
+  pub_date: '2026-06-02T19:34:00'
+  source: Supply Chain 24/7
+  title: Warehouse Intelligence Starts Long Before AI Enters the Picture
+- category: supply-chain
+  description: A Newmark report shows Texas handled $107.7B in data center-related
+    imports in 2025 as the AI boom drives growing demand for logistics and warehousing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/texas-ports-see-107-billion-in-data-center-related-imports
+  pub_date: '2026-06-02T19:11:00'
+  source: Supply Chain 24/7
+  title: Texas Ports See $107 Billion in Data Center-Related Imports
+- category: circular
+  description: Exchange For Change has confirmed the fees that will be paid to return
+    point operators when England, Scotland and Northern Ireland launch their Deposit
+    Return Scheme in October 2027. The post Exchange...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/exchange-for-change-announces-drs-return-handling-fee/
+  pub_date: '2026-06-02T12:19:18'
+  source: Circular Online
+  title: Exchange For Change announces DRS return handling fee
+- category: supply-chain
+  description: The USPS is restricting hiring, travel, training, and software spending
+    as it works to conserve cash and avoid running out of money as early as 2027.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-cuts-spending-cash-expected-to-run-out-in-2027
+  pub_date: '2026-06-02T11:23:00'
+  source: Supply Chain 24/7
+  title: USPS Cuts Spending as Cash Expected to Run Out in 2027
+- category: circular
+  description: 14 months since the Birmingham bin strikes began, new research shows
+    the disruption to recycling collections may have generated 10,000 tonnes in COe
+    emissions. The post Birmingham bin strikes could ha...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/birmingham-bin-strikes-could-have-generated-10000-tonnes-in-co%e2%82%82e-emissions/
+  pub_date: '2026-06-02T10:27:52'
+  source: Circular Online
+  title: Birmingham bin strikes could have generated 10,000 tonnes in CO₂e emissions
+- category: circular
   description: The University of Edinburgh has licensed a gold and copper recovery
     process that enables cleaner extraction of highvalue metals from ewaste. The post
     University of Edinburgh licenses 'breakthrough' e-...
@@ -35,14 +86,6 @@ articles:
   pub_date: '2026-06-01T13:38:00'
   source: Supply Chain 24/7
   title: UPS Announces $50 Million Investment, Expands Mexico Air Freight
-- category: supply-chain
-  description: The USPS is restricting hiring, travel, training, and software spending
-    as it works to conserve cash and avoid running out of money as early as 2027.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usps-cuts-spending-cash-expected-to-run-out-in-2027
-  pub_date: '2026-06-01T13:19:00'
-  source: Supply Chain 24/7
-  title: USPS Cuts Spending as Cash Expected to Run Out in 2027
 - category: supply-chain
   description: Building a successful physical AI product takes more than smart software.
     It requires a supply chain that can keep pace from prototype to production.
@@ -110,22 +153,6 @@ articles:
   pub_date: '2026-05-29T08:58:27'
   source: Circular Online
   title: Waste and recycling company fined after employee death
-- category: supply-chain
-  description: Simon Harrsen of CHG-MERIDIAN discusses automation, equipment financing,
-    fleet management, and the trends influencing supply chain investments in 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/equipment-financing-automation-supply-chain-2026
-  pub_date: '2026-05-29T01:26:00'
-  source: Supply Chain 24/7
-  title: Why More Companies Are Leasing Equipment Instead of Buying It
-- category: supply-chain
-  description: DHL eCommerce and USPS signed a new delivery agreement worth more than
-    $10 billion as both companies push for bigger growth in the U.S. parcel market.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-usps-10-billion-exclusive-delivery-deal
-  pub_date: '2026-05-28T17:16:00'
-  source: Supply Chain 24/7
-  title: USPS Lands Massive DHL Shipping Deal Worth More Than $10B
 - category: circular
   description: MV Recycling (UK) Ltd must pay GBP30,400 after attempting to illegally
     export plastics contaminated with household waste. The post Recycling company
@@ -144,32 +171,4 @@ articles:
   pub_date: '2026-05-26T08:30:19'
   source: Circular Online
   title: Environment Agency publishes list of 117 high priority waste sites
-- category: circular
-  description: A new report from Zero Waste Europe warns the EU Circular Economy Act
-    risks entrenching the use of hazardous waste in construction projects. The post
-    EU Circular Economy Act risks promoting hazardous ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/eu-circular-economy-act-risks-promoting-hazardous-waste-in-construction-report-warns/
-  pub_date: '2026-05-22T09:34:02'
-  source: Circular Online
-  title: EU Circular Economy Act risks promoting hazardous waste in construction,
-    report warns
-- category: circular
-  description: A man from Birmingham has been arrested in connection with an illegal
-    waste site on the land owned by the King's Estate. The post Man arrested in connection
-    with illegal waste site on King's Estate ap...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/man-arrested-in-connection-with-illegal-waste-site-on-kings-estate/
-  pub_date: '2026-05-21T08:42:52'
-  source: Circular Online
-  title: Man arrested in connection with illegal waste site on King’s Estate
-- category: circular
-  description: 53% of people in England say waste crime negatively impacts their quality
-    of life, new polling shows. The post 53% of people say waste crime negatively
-    impacts their life appeared first on Circular On...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/53-of-people-say-waste-crime-negatively-impacts-their-life/
-  pub_date: '2026-05-21T07:13:18'
-  source: Circular Online
-  title: 53% of people say waste crime negatively impacts their life
-last_updated: '2026-06-02T10:23:32.496334'
+last_updated: '2026-06-03T10:59:48.633833'
