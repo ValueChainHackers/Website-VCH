@@ -1,5 +1,47 @@
 articles:
 - category: ai-research
+  description: MIT researchers use the classic game as a test bed for AI agents, finding
+    a small AI model can outperform the biggest ones at 1 percent of the cost.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603
+  pub_date: '2026-06-03T21:00:00'
+  source: MIT AI News
+  title: Teaching AI agents to ask better questions by playing “Battleship”
+- category: ai-research
+  description: The George Peabody Medal is the highest honor bestowed by the Peabody
+    Institute of the Johns Hopkins University.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603
+  pub_date: '2026-06-03T20:50:00'
+  source: MIT AI News
+  title: Tod Machover receives George Peabody Medal for contributions to music and
+    technology
+- category: machine-learning
+  description: Learn how to write, append, and save text, CSV, and JSON files in Python
+    using native file handling tools that work out of the box.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-write-to-files-in-python-a-beginners-guide
+  pub_date: '2026-06-03T14:00:00'
+  source: KDnuggets
+  title: 'How to Write to Files in Python: A Beginner’s Guide'
+- category: ai-research
+  description: A colorful, grain-textured collage of various items scattered across
+    a light blue background. The items include a green bucket hat, a wooden clothes
+    hanger, a blue-and-red striped collar, blue sunglas...
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/thrifting-tips/
+  pub_date: '2026-06-03T13:00:00'
+  source: Google AI Blog
+  title: 5 ways Google Search can level up your thrift and vintage shopping
+- category: machine-learning
+  description: Want to understand LLMs better? Start with these five foundational
+    papers that explain how they work.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-fun-papers-that-explain-llms-clearly
+  pub_date: '2026-06-03T12:00:14'
+  source: KDnuggets
+  title: 5 Fun Papers That Explain LLMs Clearly
+- category: ai-research
   description: The new ChartNet training dataset could improve the accuracy of vision-language
     models that help analyze business trends or interpret scientific figures.
   icon: fa-graduation-cap
@@ -124,23 +166,6 @@ articles:
   pub_date: '2026-05-28T12:00:12'
   source: KDnuggets
   title: 7 Real World AI Projects to Build in 2026 (with Guides)
-- category: machine-learning
-  description: Learn how to use Pandas GroupBy to summarize, compare, and analyze
-    grouped data with simple, practical examples.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/pandas-groupby-explained-with-examples
-  pub_date: '2026-05-27T14:00:09'
-  source: KDnuggets
-  title: Pandas GroupBy Explained With Examples
-- category: machine-learning
-  description: In this article, we will take a look under the hood of scipy.stats,
-    exploring five essential tricks to design high-performance, rigorous simulations
-    using only NumPy and SciPy.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-scipy-stats-tricks-for-simulating-what-if-scenarios
-  pub_date: '2026-05-27T12:00:38'
-  source: KDnuggets
-  title: 5 Scipy.stats Tricks for Simulating ‘What If’ Scenarios
 - category: ai-research
   description: Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues
     stage
@@ -198,15 +223,6 @@ articles:
   source: MIT AI News
   title: Justin Solomon appointed associate dean of engineering education
 - category: ai-research
-  description: A graphic features the text "How people are using AI Mode in the U.S."
-    surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift
-    box, cursor, gamepad, and lipstick on a light bl...
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/
-  pub_date: '2026-05-19T17:45:00'
-  source: Google AI Blog
-  title: How AI Mode is changing the way people search in the U.S.
-- category: ai-research
   description: The prestigious fellowship funds graduate studies at Stanford University.
   icon: fa-graduation-cap
   link: https://news.mit.edu/2026/knight-hennessy-scholars-0514
@@ -231,21 +247,4 @@ articles:
   source: MIT AI News
   title: Universal AI is “a pathway to AI fluency that’s accessible and approachable
     to anyone, anywhere”
-- category: ai-research
-  description: MIT economists found US companies tend to target employees earning
-    a "wage premium," which increases inequality but not necessarily productivity.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507
-  pub_date: '2026-05-07T04:00:00'
-  source: MIT AI News
-  title: 'Study: Firms often use automation to control certain workers’ wages'
-- category: ai-research
-  description: Assistant Professor Gabriele Farina mines the foundations of decision-making
-    in complex multi-agent scenarios.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505
-  pub_date: '2026-05-05T21:00:00'
-  source: MIT AI News
-  title: 'Games people — and machines — play: Untangling strategic reasoning to advance
-    AI'
-last_updated: '2026-06-03T10:59:49.931072'
+last_updated: '2026-06-04T09:55:59.145929'
