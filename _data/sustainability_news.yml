@@ -1,5 +1,32 @@
 articles:
 - category: circular
+  description: A South London incinerator has been granted permission to process tens
+    of thousands of extra tonnes of waste each year despite breaching its environmental
+    permit 916 times between 2022 and 2024. The p...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/environment-agency-approves-controversial-london-incinerator-expansion/
+  pub_date: '2026-06-04T09:12:22'
+  source: Circular Online
+  title: Environment Agency approves controversial London incinerator expansion
+- category: supply-chain
+  description: Labeling mistakes are creating costly disruptions inside food plants
+    long before they become public recalls, leading to production slowdowns and rework.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hidden-cost-food-labeling-errors-plant-floor
+  pub_date: '2026-06-03T13:31:00'
+  source: Supply Chain 24/7
+  title: The Hidden Tax Food Manufacturers Pay for Labeling Mistakes
+- category: circular
+  description: A new global symbol designed to identify reusable packaging and reuse
+    systems worldwide has been unveiled today. The post New reuse symbol launched
+    by global alliance of businesses, governments, and N...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-reuse-symbol-launched-by-global-alliance-of-businesses-governments-and-ngos/
+  pub_date: '2026-06-03T12:00:00'
+  source: Circular Online
+  title: New reuse symbol launched by global alliance of businesses, governments,
+    and NGOs
+- category: circular
   description: SUEZ has signed a GBP396 million, ten-year contract to operate and
     manage the Milton Keynes Waste Recovery Park (MKWRP). The post SUEZ signs GBP396m
     contract with Milton Keynes City Council appeared f...
@@ -136,14 +163,6 @@ articles:
   pub_date: '2026-05-29T09:58:41'
   source: Circular Online
   title: News in Brief | Commercial Partner News May
-- category: supply-chain
-  description: A new AlixPartners survey found that tariffs, geopolitical uncertainty,
-    and supply chain disruptions are becoming major challenges for life sciences companies.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tariffs-and-geopolitics-are-reshaping-pharma-supply-chains
-  pub_date: '2026-05-29T09:57:00'
-  source: Supply Chain 24/7
-  title: Tariffs and Geopolitics Are Reshaping Pharma Supply Chains
 - category: circular
   description: A waste and recycling company in Cumbria has been fined GBP60,000 after
     a man hit and killed by a reversing telehandler on its site. The post Waste and
@@ -153,22 +172,4 @@ articles:
   pub_date: '2026-05-29T08:58:27'
   source: Circular Online
   title: Waste and recycling company fined after employee death
-- category: circular
-  description: MV Recycling (UK) Ltd must pay GBP30,400 after attempting to illegally
-    export plastics contaminated with household waste. The post Recycling company
-    fined for illegally exporting plastic waste appeare...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/recycling-company-fined-for-illegally-exporting-plastic-waste/
-  pub_date: '2026-05-28T11:06:35'
-  source: Circular Online
-  title: Recycling company fined for illegally exporting plastic waste
-- category: circular
-  description: The Environment Agency has released a watchlist of 117 high priority
-    waste sites it says are 'causing concerns within local communities'. The post
-    Environment Agency publishes list of 117 high priorit...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-agency-publishes-list-of-117-high-priority-waste-sites/
-  pub_date: '2026-05-26T08:30:19'
-  source: Circular Online
-  title: Environment Agency publishes list of 117 high priority waste sites
-last_updated: '2026-06-03T10:59:48.633833'
+last_updated: '2026-06-04T09:55:58.140658'
