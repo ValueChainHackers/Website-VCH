@@ -1,5 +1,46 @@
 articles:
 - category: circular
+  description: The UK's green economy is worth GBP105bn and generating 'high-wage
+    jobs' across every UK nation and region, research from the Confederation of British
+    Industry finds. The post UK's net zero economy wo...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uks-net-zero-economy-worth-more-an-100bn-per-year-cbi-finds/
+  pub_date: '2026-06-05T07:30:00'
+  source: Circular Online
+  title: UK’s net zero economy worth more an £100bn per year, CBI finds
+- category: supply-chain
+  description: Target has opened a $367 million food distribution center in Colorado
+    that will serve 129 stores across 11 states and speed up fresh food deliveries.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/target-colorado-food-distribution-center-opens
+  pub_date: '2026-06-04T15:30:00'
+  source: Supply Chain 24/7
+  title: Target Invests $367 Milion in New Colorado Food Distribution Hub
+- category: supply-chain
+  description: Amazon is investing billions in robotics, faster delivery, and workforce
+    training to expand fulfillment and delivery across Europe and other global markets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-europe-robotics-fast-delivery-investment
+  pub_date: '2026-06-04T13:16:00'
+  source: Supply Chain 24/7
+  title: Amazon Announces $11.6 Billion Robotics Push Across Europe
+- category: supply-chain
+  description: MISUMI Group is expanding in the U.S. and launching MISUMI Americas
+    as part of a $1 billion investment in AI and digital manufacturing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/misumi-expands-us-manufacturing-investment
+  pub_date: '2026-06-04T13:12:00'
+  source: Supply Chain 24/7
+  title: MISUMI Expands U.S. Manufacturing Push With $1 Billion Investment
+- category: supply-chain
+  description: New research from INFORMS suggests warehouse robots work more efficiently
+    when they coordinate tasks, as companies continue to ramp up automation investments.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/human-robot-warehouse-study-swarm-automation
+  pub_date: '2026-06-04T12:29:00'
+  source: Supply Chain 24/7
+  title: Why Warehouse Robots Need To Think More Like Ants
+- category: circular
   description: A South London incinerator has been granted permission to process tens
     of thousands of extra tonnes of waste each year despite breaching its environmental
     permit 916 times between 2022 and 2024. The p...
@@ -113,14 +154,6 @@ articles:
   pub_date: '2026-06-01T13:38:00'
   source: Supply Chain 24/7
   title: UPS Announces $50 Million Investment, Expands Mexico Air Freight
-- category: supply-chain
-  description: Building a successful physical AI product takes more than smart software.
-    It requires a supply chain that can keep pace from prototype to production.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-physical-ai-success-depends-on-supply-chain-execution
-  pub_date: '2026-06-01T12:04:00'
-  source: Supply Chain 24/7
-  title: The Companies That Build Fast Will Win the Physical AI Race
 - category: circular
   description: Waste companies have called for a GBP5 deposit to be charged on disposable
     vapes as an incentive to dispose of them properly. The post Charge a GBP5 deposit
@@ -130,30 +163,6 @@ articles:
   pub_date: '2026-06-01T09:07:26'
   source: Circular Online
   title: Charge a £5 deposit on disposable vapes, waste companies urge
-- category: supply-chain
-  description: Federal regulators accepted the Union Pacific-Norfolk Southern merger
-    application but paused the review process while seeking more information.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/union-pacific-norfolk-southern-merger-review-paused
-  pub_date: '2026-05-29T11:44:00'
-  source: Supply Chain 24/7
-  title: STB Accepts Revised UP-NS Filing, Delays Next Phase of Review
-- category: supply-chain
-  description: A Landmark Global survey found hidden fees, delivery uncertainty, and
-    difficult returns are causing many consumers to avoid international online purchases.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cross-border-ecommerce-hidden-fees-shopping-survey
-  pub_date: '2026-05-29T10:47:00'
-  source: Supply Chain 24/7
-  title: Hidden Fees Are Driving Shoppers Away From International Purchases
-- category: supply-chain
-  description: From Cape Cod to Gartner's keynote stage, Gartner's Lindsay Azim shares
-    the experiences that helped shape her career in supply chain.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/leadership-lessons-lindsay-azim-gartner
-  pub_date: '2026-05-29T10:41:00'
-  source: Supply Chain 24/7
-  title: 'Leadership Lessons: Lindsay Azim of Gartner'
 - category: circular
   description: News updates written by CIWM's commercial partners. Greyparrot Kenvue
     partners with Greyparrot to accelerate circular consumer health packaging design
@@ -163,13 +172,4 @@ articles:
   pub_date: '2026-05-29T09:58:41'
   source: Circular Online
   title: News in Brief | Commercial Partner News May
-- category: circular
-  description: A waste and recycling company in Cumbria has been fined GBP60,000 after
-    a man hit and killed by a reversing telehandler on its site. The post Waste and
-    recycling company fined after employee death app...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-and-recycling-company-fined-after-employee-death/
-  pub_date: '2026-05-29T08:58:27'
-  source: Circular Online
-  title: Waste and recycling company fined after employee death
-last_updated: '2026-06-04T09:55:58.140658'
+last_updated: '2026-06-05T09:51:05.374750'

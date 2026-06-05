@@ -1,5 +1,39 @@
 articles:
 - category: ai-research
+  description: MIT RAISE and Georgia State University announce an initiative to connect
+    universities, community colleges, industry, and government to expand industry-aligned
+    AI training and career pathways.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604
+  pub_date: '2026-06-04T19:50:00'
+  source: MIT AI News
+  title: PATH to boost AI training and career opportunities for industry-aligned jobs
+- category: ai-research
+  description: IAIFI enters its second phase with increased funding, broader ambitions,
+    and a growing community at the frontier of AI and fundamental physics.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604
+  pub_date: '2026-06-04T16:00:00'
+  source: MIT AI News
+  title: NSF renews support for MIT-led AI and physics institute, expanding a new
+    model for discovery
+- category: machine-learning
+  description: Learn how AI agents are reshaping data science workflows and which
+    skills practitioners need in 2026.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-the-agentic-era-means-for-data-science
+  pub_date: '2026-06-04T14:00:57'
+  source: KDnuggets
+  title: What the Agentic Era Means for Data Science
+- category: machine-learning
+  description: This article breaks down 7 key steps to help you analyze and forecast
+    time series data with Python.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-steps-to-mastering-time-series-analysis-with-python
+  pub_date: '2026-06-04T12:00:59'
+  source: KDnuggets
+  title: 7 Steps to Mastering Time Series Analysis with Python
+- category: ai-research
   description: MIT researchers use the classic game as a test bed for AI agents, finding
     a small AI model can outperform the biggest ones at 1 percent of the cost.
   icon: fa-graduation-cap
@@ -149,23 +183,6 @@ articles:
   pub_date: '2026-05-28T15:00:00'
   source: Google AI Blog
   title: Catch up on 12 major I/O 2026 moments
-- category: machine-learning
-  description: In this article, we will go deep under the hood of Ollama's configuration
-    engine, exploring how to fine-tune local language model parameters.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/tweaking-local-language-model-settings-with-ollama
-  pub_date: '2026-05-28T14:00:17'
-  source: KDnuggets
-  title: Tweaking Local Language Model Settings with Ollama
-- category: machine-learning
-  description: Explore seven practical AI projects that automate real workflows, including
-    job search, web research, investment research, market trend analysis, invoice
-    processing, chart digitization, and personaliz...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-real-world-ai-projects-to-build-in-2026-with-guides
-  pub_date: '2026-05-28T12:00:12'
-  source: KDnuggets
-  title: 7 Real World AI Projects to Build in 2026 (with Guides)
 - category: ai-research
   description: Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues
     stage
@@ -229,22 +246,4 @@ articles:
   pub_date: '2026-05-14T20:55:00'
   source: MIT AI News
   title: Two from MIT named 2026 Knight-Hennessy Scholars
-- category: ai-research
-  description: Dimitris Bertsimas and Megan Mitchell discuss the motivation behind
-    Universal Learning, and what sets the new MIT Open Learning educational initiative
-    apart.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512
-  pub_date: '2026-05-12T15:00:00'
-  source: MIT AI News
-  title: 'Q&A: Expanding MIT’s global reach through Universal Learning'
-- category: ai-research
-  description: New AI education program from MIT Open Learning debuts with AI-powered
-    personalization and a free introductory course for learners everywhere.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512
-  pub_date: '2026-05-12T15:00:00'
-  source: MIT AI News
-  title: Universal AI is “a pathway to AI fluency that’s accessible and approachable
-    to anyone, anywhere”
-last_updated: '2026-06-04T09:55:59.145929'
+last_updated: '2026-06-05T09:51:06.619530'
