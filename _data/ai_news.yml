@@ -1,5 +1,38 @@
 articles:
 - category: ai-research
+  description: The MIT Ethics of Computing Research Symposium brought together experts
+    and researchers working at the heart of ethical and social impact in technology.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605
+  pub_date: '2026-06-05T20:10:00'
+  source: MIT AI News
+  title: The crucial human component in computing and AI
+- category: ai-research
+  description: May AI recap
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/
+  pub_date: '2026-06-05T14:45:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in May 2026
+- category: machine-learning
+  description: Discover three post-hoc methods for closing the gap between confidence
+    and accuracy.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/a-deep-dive-into-calibration-of-language-models-platt-scaling-isotonic-regression-temperature-scaling
+  pub_date: '2026-06-05T14:00:11'
+  source: KDnuggets
+  title: 'A Deep Dive into Calibration of Language Models: Platt Scaling, Isotonic
+    Regression, Temperature Scaling'
+- category: machine-learning
+  description: In this article, we will explore three essential spaCy tricks that
+    every developer should have in their toolkit to maximize processing speed and
+    customize entity recognition.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-spacy-tricks-for-efficient-text-processing-entity-recognition
+  pub_date: '2026-06-05T12:00:45'
+  source: KDnuggets
+  title: 3 SpaCy Tricks for Efficient Text Processing & Entity Recognition
+- category: ai-research
   description: MIT RAISE and Georgia State University announce an initiative to connect
     universities, community colleges, industry, and government to expand industry-aligned
     AI training and career pathways.
@@ -142,23 +175,6 @@ articles:
   pub_date: '2026-05-29T17:30:00'
   source: Google AI Blog
   title: 9 demos of Gemini Omni and Gemini 3.5 in action
-- category: machine-learning
-  description: 'This tutorial covers three NLP tasks: text classification, zero-shot
-    labelling, and question answering using Transformers.js''s pipeline() API.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/practical-nlp-in-the-browser-with-transformers-js
-  pub_date: '2026-05-29T14:00:02'
-  source: KDnuggets
-  title: Practical NLP in the Browser with Transformers.js
-- category: machine-learning
-  description: This article shows how to use free, open-source tools like Python and
-    its Textstat library to build a script that automates the process of capturing
-    "gatekeeping language" in job descriptions before p...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-entry-level-gatekeeper-auditing-job-descriptions-with-textstat
-  pub_date: '2026-05-29T12:00:19'
-  source: KDnuggets
-  title: 'The ‘Entry-Level’ Gatekeeper: Auditing Job Descriptions with Textstat'
 - category: ai-research
   description: University of Waterloo students develop AI prototypes like sign language
     tutors to reshape the future of education and work.
@@ -216,14 +232,6 @@ articles:
   source: Google AI Blog
   title: 100 things we announced at I/O 2026
 - category: ai-research
-  description: A small group meeting featuring two in-room participants and three
-    participants on-screen.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/
-  pub_date: '2026-05-20T16:45:00'
-  source: Google AI Blog
-  title: A new experiment brings better group meetings to Google Beam
-- category: ai-research
   description: Connor Coley works at the interface of chemistry and machine learning,
     to discover and design new drug compounds.
   icon: fa-graduation-cap
@@ -239,11 +247,4 @@ articles:
   pub_date: '2026-05-19T21:10:00'
   source: MIT AI News
   title: Justin Solomon appointed associate dean of engineering education
-- category: ai-research
-  description: The prestigious fellowship funds graduate studies at Stanford University.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/knight-hennessy-scholars-0514
-  pub_date: '2026-05-14T20:55:00'
-  source: MIT AI News
-  title: Two from MIT named 2026 Knight-Hennessy Scholars
-last_updated: '2026-06-05T09:51:06.619530'
+last_updated: '2026-06-06T08:33:41.002283'
