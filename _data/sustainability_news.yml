@@ -1,4 +1,45 @@
 articles:
+- category: supply-chain
+  description: Only 7% of companies are modeling future disruptions even as procurement
+    teams face pressure from geopolitical risks, trade shifts, and supplier instability.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-risk-report-few-companies-predict-disruptions
+  pub_date: '2026-06-05T15:10:00'
+  source: Supply Chain 24/7
+  title: 'Report: Only 7% of Companies Model Future Supply Disruptions'
+- category: supply-chain
+  description: EPG CEO Peter Bollinger shares leadership lessons from a career that
+    took him from student programmer to global supply chain technology executive.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-peter-bollinger-epg
+  pub_date: '2026-06-05T14:11:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Peter Bollinger, CEO of EPG'
+- category: supply-chain
+  description: Coupa and MIT launched a new AI-powered Business Spend Index that uses
+    real procurement transaction data to forecast changes in business spending and
+    economic activity.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/coupa-mit-launch-ai-business-spend-index
+  pub_date: '2026-06-05T13:11:00'
+  source: Supply Chain 24/7
+  title: Coupa and MIT Launch AI-Powered Business Spend Index
+- category: supply-chain
+  description: NYC says its delivery microhub pilot has helped replace more than 3,000
+    truck trips with smaller last-mile delivery methods in just one year.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nyc-microhub-pilot-removes-3000-truck-trips
+  pub_date: '2026-06-05T11:48:00'
+  source: Supply Chain 24/7
+  title: NYC Microhubs Eliminated 3,000 Truck Trips in Just One Year
+- category: supply-chain
+  description: Walmart has launched Walmart+ in Canada, combining same-day delivery,
+    free shipping, and streaming benefits.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-plus-canada-launch-delivery-crave-membership
+  pub_date: '2026-06-05T11:42:00'
+  source: Supply Chain 24/7
+  title: Walmart+ Expands Beyond U.S. for First Time With Canada Launch
 - category: circular
   description: The UK's green economy is worth GBP105bn and generating 'high-wage
     jobs' across every UK nation and region, research from the Confederation of British
@@ -50,13 +91,13 @@ articles:
   source: Circular Online
   title: Environment Agency approves controversial London incinerator expansion
 - category: supply-chain
-  description: Labeling mistakes are creating costly disruptions inside food plants
-    long before they become public recalls, leading to production slowdowns and rework.
+  description: Learn how agentic AI can support autonomous logistics decisions through
+    data readiness, governance, network connectivity, and human oversight.
   icon: fa-box
-  link: https://www.supplychain247.com/article/hidden-cost-food-labeling-errors-plant-floor
-  pub_date: '2026-06-03T13:31:00'
+  link: https://www.supplychain247.com/article/how-should-logistics-leaders-prepare-for-agentic-ai
+  pub_date: '2026-06-03T18:16:00'
   source: Supply Chain 24/7
-  title: The Hidden Tax Food Manufacturers Pay for Labeling Mistakes
+  title: How Should Logistics Leaders Prepare for Agentic AI?
 - category: circular
   description: A new global symbol designed to identify reusable packaging and reuse
     systems worldwide has been unveiled today. The post New reuse symbol launched
@@ -76,22 +117,6 @@ articles:
   pub_date: '2026-06-03T07:42:08'
   source: Circular Online
   title: SUEZ signs £396m contract with Milton Keynes City Council
-- category: supply-chain
-  description: The smartest warehouses combine accurate data, real-time visibility,
-    and human oversight, with AI helping support better decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-intelligence-starts-long-before-ai-enters-the-picture
-  pub_date: '2026-06-02T19:34:00'
-  source: Supply Chain 24/7
-  title: Warehouse Intelligence Starts Long Before AI Enters the Picture
-- category: supply-chain
-  description: A Newmark report shows Texas handled $107.7B in data center-related
-    imports in 2025 as the AI boom drives growing demand for logistics and warehousing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/texas-ports-see-107-billion-in-data-center-related-imports
-  pub_date: '2026-06-02T19:11:00'
-  source: Supply Chain 24/7
-  title: Texas Ports See $107 Billion in Data Center-Related Imports
 - category: circular
   description: Exchange For Change has confirmed the fees that will be paid to return
     point operators when England, Scotland and Northern Ireland launch their Deposit
@@ -101,14 +126,6 @@ articles:
   pub_date: '2026-06-02T12:19:18'
   source: Circular Online
   title: Exchange For Change announces DRS return handling fee
-- category: supply-chain
-  description: The USPS is restricting hiring, travel, training, and software spending
-    as it works to conserve cash and avoid running out of money as early as 2027.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usps-cuts-spending-cash-expected-to-run-out-in-2027
-  pub_date: '2026-06-02T11:23:00'
-  source: Supply Chain 24/7
-  title: USPS Cuts Spending as Cash Expected to Run Out in 2027
 - category: circular
   description: 14 months since the Birmingham bin strikes began, new research shows
     the disruption to recycling collections may have generated 10,000 tonnes in COe
@@ -138,22 +155,6 @@ articles:
   source: Circular Online
   title: 'Design Skills for Embedding Circularity: CIWM & URGE Collective prepare
     for design sprint'
-- category: supply-chain
-  description: A new Sea-Intelligence study found that nearly one-third of global
-    container shipping activity now involves empty containers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nearly-one-third-of-global-container-shipments-now-travel-empty
-  pub_date: '2026-06-01T13:59:00'
-  source: Supply Chain 24/7
-  title: Nearly One-Third of Global Container Shipments Now Travel Empty
-- category: supply-chain
-  description: UPS is investing $50 million and launching new Mexico air freight service
-    to help manufacturers move critical shipments more quickly across North America.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-announces-50-million-investment-expands-mexico-air-freight
-  pub_date: '2026-06-01T13:38:00'
-  source: Supply Chain 24/7
-  title: UPS Announces $50 Million Investment, Expands Mexico Air Freight
 - category: circular
   description: Waste companies have called for a GBP5 deposit to be charged on disposable
     vapes as an incentive to dispose of them properly. The post Charge a GBP5 deposit
@@ -172,4 +173,4 @@ articles:
   pub_date: '2026-05-29T09:58:41'
   source: Circular Online
   title: News in Brief | Commercial Partner News May
-last_updated: '2026-06-05T09:51:05.374750'
+last_updated: '2026-06-06T08:33:39.837833'
