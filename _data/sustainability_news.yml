@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: Five people have been ordered to pay GBP6822 after they dumped the
+    remains of a cannabis farm in Neath Valley. The post Fly-tippers must pay GBP6822
+    after dumping cannabis farm in Neath appeared first...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/fly-tippers-must-pay-6822-after-dumping-cannabis-farm-in-neath/
+  pub_date: '2026-06-08T07:30:00'
+  source: Circular Online
+  title: Fly-tippers must pay £6822 after dumping cannabis farm in Neath
 - category: supply-chain
   description: Only 7% of companies are modeling future disruptions even as procurement
     teams face pressure from geopolitical risks, trade shifts, and supplier instability.
@@ -164,13 +173,4 @@ articles:
   pub_date: '2026-06-01T09:07:26'
   source: Circular Online
   title: Charge a £5 deposit on disposable vapes, waste companies urge
-- category: circular
-  description: News updates written by CIWM's commercial partners. Greyparrot Kenvue
-    partners with Greyparrot to accelerate circular consumer health packaging design
-    Wood Recyclers' Association Segregate waste wood ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-may/
-  pub_date: '2026-05-29T09:58:41'
-  source: Circular Online
-  title: News in Brief | Commercial Partner News May
-last_updated: '2026-06-07T08:55:56.202835'
+last_updated: '2026-06-08T10:56:25.627875'
