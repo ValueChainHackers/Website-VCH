@@ -1,5 +1,83 @@
 articles:
 - category: circular
+  description: Vape recycling across Worcestershire has almost doubled in a year following
+    the disposable vape ban, new figures from Worcestershire County Council show.
+    The post Vape recycling doubles across Worcest...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/vape-recycling-doubles-across-worcestershire-in-year-after-ban/
+  pub_date: '2026-06-09T09:18:30'
+  source: Circular Online
+  title: Vape recycling doubles across Worcestershire in year after ban
+- category: circular
+  description: A Bristol-based waste and recycling business has been fined GBP64,666
+    after one of its employees was drawn into machinery and suffered life-changing
+    injuries. The post Waste and recycling company fine...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-and-recycling-company-fined-after-employee-suffers-life-changing-injuries/
+  pub_date: '2026-06-09T08:30:45'
+  source: Circular Online
+  title: Waste and recycling company fined after employee suffers life-changing injuries
+- category: supply-chain
+  description: Learn how integrating OMS, WMS and TMS creates real-time visibility,
+    improves fulfillment performance, reduces costs and supports agile supply chain
+    execution.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-should-supply-chains-connect-oms-wms-and-tms-for-agility
+  pub_date: '2026-06-08T17:51:00'
+  source: Supply Chain 24/7
+  title: How Should Supply Chains Connect OMS, WMS and TMS for Agility?
+- category: supply-chain
+  description: Zebra Technologies outlined a future where AI-powered tools help frontline
+    workers navigate tasks, reduce app overload, and automate routine work.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/zebra-envisions-the-ai-powered-frontline-worker
+  pub_date: '2026-06-08T16:18:00'
+  source: Supply Chain 24/7
+  title: Zebra Says Frontline Workers Are Drowning in Apps
+- category: supply-chain
+  description: DHL's latest e-commerce report says AI shopping agents, flexible delivery,
+    and secondhand marketplaces are reshaping how consumers buy online.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-ecommerce-report-ai-shopping-delivery-trends-2026
+  pub_date: '2026-06-08T14:12:00'
+  source: Supply Chain 24/7
+  title: DHL Says AI Could Be Shopping for Consumers by 2031
+- category: supply-chain
+  description: Amazon says it now operates more than 50,000 electric delivery vans
+    globally as it expands EV trucks, cargo bikes, and rail shipping across its logistics
+    network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-hits-50000-electric-delivery-vans-worldwide
+  pub_date: '2026-06-08T13:43:00'
+  source: Supply Chain 24/7
+  title: Amazon Hits 50,000 Electric Delivery Vans Worldwide
+- category: supply-chain
+  description: B-Stock VP Kylee Hall discusses how return fraud is becoming more organized,
+    costly, and difficult for retailers to control.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-retail-return-fraud-keeps-growing
+  pub_date: '2026-06-08T13:03:00'
+  source: Supply Chain 24/7
+  title: Why Retailers Are Losing So Much Money on Returns
+- category: supply-chain
+  description: USA Rare Earth is building a $1.2 billion rare earth magnet and metals
+    facility in South Carolina that is expected to create about 490 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usa-rare-earth-picks-south-carolina-for-1.2b-magnet-plant
+  pub_date: '2026-06-08T12:25:00'
+  source: Supply Chain 24/7
+  title: USA Rare Earth Picks Blacksburg, South Carolina for $1.2B Magnet Plant
+- category: circular
+  description: Climate communicators risk overwhelming people or placing too much
+    guilt on individuals if they fail to acknowledge the emotional impact of climate
+    change, according to Linda Aspey from the Climate Ps...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/climate-messaging-must-avoid-guilt-and-hopelessness-says-climate-psychology-alliance/
+  pub_date: '2026-06-08T11:19:08'
+  source: Circular Online
+  title: Climate messaging must avoid guilt and hopelessness, says Climate Psychology
+    Alliance
+- category: circular
   description: Five people have been ordered to pay GBP6822 after they dumped the
     remains of a cannabis farm in Neath Valley. The post Fly-tippers must pay GBP6822
     after dumping cannabis farm in Neath appeared first...
@@ -8,6 +86,15 @@ articles:
   pub_date: '2026-06-08T07:30:00'
   source: Circular Online
   title: Fly-tippers must pay £6822 after dumping cannabis farm in Neath
+- category: supply-chain
+  description: Eli Lilly supply chain executive Mar Gimeno has joined the keynote
+    lineup for the 2026 NextGen Supply Chain Conference in Nashville.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nextgen-supply-chain-conference-adds-eli-lilly-speaker
+  pub_date: '2026-06-08T00:02:00'
+  source: Supply Chain 24/7
+  title: Eli Lilly’s Mar Gimeno Announced as Keynote Speaker at 2026 NextGen Supply
+    Chain Conference
 - category: supply-chain
   description: Only 7% of companies are modeling future disruptions even as procurement
     teams face pressure from geopolitical risks, trade shifts, and supplier instability.
@@ -33,22 +120,6 @@ articles:
   pub_date: '2026-06-05T13:11:00'
   source: Supply Chain 24/7
   title: Coupa and MIT Launch AI-Powered Business Spend Index
-- category: supply-chain
-  description: NYC says its delivery microhub pilot has helped replace more than 3,000
-    truck trips with smaller last-mile delivery methods in just one year.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nyc-microhub-pilot-removes-3000-truck-trips
-  pub_date: '2026-06-05T11:48:00'
-  source: Supply Chain 24/7
-  title: NYC Microhubs Eliminated 3,000 Truck Trips in Just One Year
-- category: supply-chain
-  description: Walmart has launched Walmart+ in Canada, combining same-day delivery,
-    free shipping, and streaming benefits.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-plus-canada-launch-delivery-crave-membership
-  pub_date: '2026-06-05T11:42:00'
-  source: Supply Chain 24/7
-  title: Walmart+ Expands Beyond U.S. for First Time With Canada Launch
 - category: circular
   description: The UK's green economy is worth GBP105bn and generating 'high-wage
     jobs' across every UK nation and region, research from the Confederation of British
@@ -58,38 +129,6 @@ articles:
   pub_date: '2026-06-05T07:30:00'
   source: Circular Online
   title: UK’s net zero economy worth more an £100bn per year, CBI finds
-- category: supply-chain
-  description: Target has opened a $367 million food distribution center in Colorado
-    that will serve 129 stores across 11 states and speed up fresh food deliveries.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/target-colorado-food-distribution-center-opens
-  pub_date: '2026-06-04T15:30:00'
-  source: Supply Chain 24/7
-  title: Target Invests $367 Milion in New Colorado Food Distribution Hub
-- category: supply-chain
-  description: Amazon is investing billions in robotics, faster delivery, and workforce
-    training to expand fulfillment and delivery across Europe and other global markets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-europe-robotics-fast-delivery-investment
-  pub_date: '2026-06-04T13:16:00'
-  source: Supply Chain 24/7
-  title: Amazon Announces $11.6 Billion Robotics Push Across Europe
-- category: supply-chain
-  description: MISUMI Group is expanding in the U.S. and launching MISUMI Americas
-    as part of a $1 billion investment in AI and digital manufacturing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/misumi-expands-us-manufacturing-investment
-  pub_date: '2026-06-04T13:12:00'
-  source: Supply Chain 24/7
-  title: MISUMI Expands U.S. Manufacturing Push With $1 Billion Investment
-- category: supply-chain
-  description: New research from INFORMS suggests warehouse robots work more efficiently
-    when they coordinate tasks, as companies continue to ramp up automation investments.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/human-robot-warehouse-study-swarm-automation
-  pub_date: '2026-06-04T12:29:00'
-  source: Supply Chain 24/7
-  title: Why Warehouse Robots Need To Think More Like Ants
 - category: circular
   description: A South London incinerator has been granted permission to process tens
     of thousands of extra tonnes of waste each year despite breaching its environmental
@@ -99,14 +138,6 @@ articles:
   pub_date: '2026-06-04T09:12:22'
   source: Circular Online
   title: Environment Agency approves controversial London incinerator expansion
-- category: supply-chain
-  description: Learn how agentic AI can support autonomous logistics decisions through
-    data readiness, governance, network connectivity, and human oversight.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-should-logistics-leaders-prepare-for-agentic-ai
-  pub_date: '2026-06-03T18:16:00'
-  source: Supply Chain 24/7
-  title: How Should Logistics Leaders Prepare for Agentic AI?
 - category: circular
   description: A new global symbol designed to identify reusable packaging and reuse
     systems worldwide has been unveiled today. The post New reuse symbol launched
@@ -144,33 +175,4 @@ articles:
   pub_date: '2026-06-02T10:27:52'
   source: Circular Online
   title: Birmingham bin strikes could have generated 10,000 tonnes in CO₂e emissions
-- category: circular
-  description: The University of Edinburgh has licensed a gold and copper recovery
-    process that enables cleaner extraction of highvalue metals from ewaste. The post
-    University of Edinburgh licenses 'breakthrough' e-...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/university-of-edinburgh-licenses-breakthrough-e-waste-gold-and-copper-recovery-tech/
-  pub_date: '2026-06-02T08:30:31'
-  source: Circular Online
-  title: University of Edinburgh licenses ‘breakthrough’ e-waste gold and copper recovery
-    tech
-- category: circular
-  description: 'CIWM and URGE Collective have partnered with Biffa and Decathlon for
-    the next phases of the Design Skills for embedding circularity programme. The
-    post Design Skills for Embedding Circularity: CIWM & ...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/design-skills-for-embedding-circularity-ciwm-urge-collective-prepare-for-design-sprint/
-  pub_date: '2026-06-02T07:43:35'
-  source: Circular Online
-  title: 'Design Skills for Embedding Circularity: CIWM & URGE Collective prepare
-    for design sprint'
-- category: circular
-  description: Waste companies have called for a GBP5 deposit to be charged on disposable
-    vapes as an incentive to dispose of them properly. The post Charge a GBP5 deposit
-    on disposable vapes, waste companies urge a...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/charge-a-5-deposit-on-disposable-vapes-waste-companies-urge/
-  pub_date: '2026-06-01T09:07:26'
-  source: Circular Online
-  title: Charge a £5 deposit on disposable vapes, waste companies urge
-last_updated: '2026-06-08T10:56:25.627875'
+last_updated: '2026-06-09T09:44:02.040550'
