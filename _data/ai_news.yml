@@ -1,4 +1,29 @@
 articles:
+- category: machine-learning
+  description: Analyzing several reasons why structural content decay may happen when
+    asking LLMs to perform complex document editing for us.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/why-do-llms-corrupt-your-documents-when-you-delegate
+  pub_date: '2026-06-08T16:00:00'
+  source: KDnuggets
+  title: Why Do LLMs Corrupt Your Documents When You Delegate?
+- category: machine-learning
+  description: 'This guide covers the complete picture: what skills are technically,
+    how to plan and design them, the exact file structure and naming rules, how to
+    write instructions that Claude follows reliably, a c...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/anthropics-complete-guide-to-claude-skills-building
+  pub_date: '2026-06-08T14:00:02'
+  source: KDnuggets
+  title: Anthropic’s Complete Guide to Claude Skills Building
+- category: machine-learning
+  description: In this article, we will explore five critical Python concepts that
+    every AI engineer must know to build scalable, secure, and robust systems.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-must-know-python-concepts-for-ai-engineers
+  pub_date: '2026-06-08T12:00:35'
+  source: KDnuggets
+  title: 5 Must-Know Python Concepts for AI Engineers
 - category: ai-research
   description: The MIT Ethics of Computing Research Symposium brought together experts
     and researchers working at the heart of ethical and social impact in technology.
@@ -124,15 +149,6 @@ articles:
   pub_date: '2026-06-02T14:00:18'
   source: KDnuggets
   title: A Gentle Primer on LLM Explainability
-- category: machine-learning
-  description: Explore 10 top open-source GitHub repositories for modern databases,
-    analytics, SQL, caching, monitoring, replication, PostgreSQL, SQLite, and AI agent
-    memory.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-for-modern-database-systems-and-tools
-  pub_date: '2026-06-02T12:00:00'
-  source: KDnuggets
-  title: 10 GitHub Repositories for Modern Database Systems and Tools
 - category: ai-research
   description: A collage of I/O-related images, including the Antigravity Coffee Co.
     pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI
@@ -142,24 +158,6 @@ articles:
   pub_date: '2026-06-01T16:00:00'
   source: Google AI Blog
   title: How we used Gemini to build Google I/O 2026
-- category: machine-learning
-  description: In this guide, you will learn the process of generating a year's worth
-    of daily temperature readings, mimicking a seasonal curve that looks like real
-    - all together with device-level metadata, and rea...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/mocking-a-year-of-iot-sensor-time-series-data-with-mimesis
-  pub_date: '2026-06-01T14:00:42'
-  source: KDnuggets
-  title: Mocking a Year of IoT Sensor Time Series Data with Mimesis
-- category: machine-learning
-  description: In this article, we will dive deep into five must-know Python concepts
-    that will help you transition from writing clunky, slow spaghetti code to constructing
-    lightning-fast, production-grade, and beau...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-must-know-python-concepts-for-data-scientists
-  pub_date: '2026-06-01T12:00:24'
-  source: KDnuggets
-  title: 5 Must-Know Python Concepts for Data Scientists
 - category: ai-research
   description: We used Google AI Studio to vibe code a quiz about our top I/O 2026
     announcements.
@@ -247,4 +245,4 @@ articles:
   pub_date: '2026-05-19T21:10:00'
   source: MIT AI News
   title: Justin Solomon appointed associate dean of engineering education
-last_updated: '2026-06-08T10:56:26.927460'
+last_updated: '2026-06-09T09:44:03.216506'
