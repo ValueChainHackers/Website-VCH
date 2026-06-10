@@ -1,4 +1,37 @@
 articles:
+- category: ai-research
+  description: Founded by two researchers from MIT, Ferveret reduces the amount of
+    energy and water required to cool the chips that power AI.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
+  pub_date: '2026-06-10T04:00:00'
+  source: MIT AI News
+  title: Startup’s nuclear-inspired cooling system could make data centers more sustainable
+- category: ai-research
+  description: Media Lab study shows that, much like how GPS has weakened our navigation
+    skills, AI can make us worse at detecting fake news.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609
+  pub_date: '2026-06-09T20:30:00'
+  source: MIT AI News
+  title: The consequences of relying on AI for accurate news
+- category: machine-learning
+  description: This article cuts through the 90,000 options to the seven models worth
+    your time in 2026.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/best-free-image-generators-on-hugging-face-right-now
+  pub_date: '2026-06-09T14:00:10'
+  source: KDnuggets
+  title: Best Free Image Generators on Hugging Face Right Now!
+- category: machine-learning
+  description: Explore the best Python web development repositories for building APIs,
+    full-stack web apps, dashboards, machine learning demos, internal tools, and interactive
+    Python-based user interfaces.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-github-repositories-for-web-development-in-python
+  pub_date: '2026-06-09T12:00:57'
+  source: KDnuggets
+  title: 10 GitHub Repositories for Web Development in Python
 - category: machine-learning
   description: Analyzing several reasons why structural content decay may happen when
     asking LLMs to perform complex document editing for us.
@@ -125,14 +158,6 @@ articles:
   pub_date: '2026-06-03T13:00:00'
   source: Google AI Blog
   title: 5 ways Google Search can level up your thrift and vintage shopping
-- category: machine-learning
-  description: Want to understand LLMs better? Start with these five foundational
-    papers that explain how they work.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-fun-papers-that-explain-llms-clearly
-  pub_date: '2026-06-03T12:00:14'
-  source: KDnuggets
-  title: 5 Fun Papers That Explain LLMs Clearly
 - category: ai-research
   description: The new ChartNet training dataset could improve the accuracy of vision-language
     models that help analyze business trends or interpret scientific figures.
@@ -141,14 +166,6 @@ articles:
   pub_date: '2026-06-03T04:00:00'
   source: MIT AI News
   title: MIT researchers teach AI models to interpret charts
-- category: machine-learning
-  description: This article discusses LLM explainability and outlines the advances,
-    trends, and ongoing developments in this important field of study.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/a-gentle-primer-on-llm-explainability
-  pub_date: '2026-06-02T14:00:18'
-  source: KDnuggets
-  title: A Gentle Primer on LLM Explainability
 - category: ai-research
   description: A collage of I/O-related images, including the Antigravity Coffee Co.
     pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI
@@ -229,20 +246,4 @@ articles:
   pub_date: '2026-05-20T19:30:00'
   source: Google AI Blog
   title: 100 things we announced at I/O 2026
-- category: ai-research
-  description: Connor Coley works at the interface of chemistry and machine learning,
-    to discover and design new drug compounds.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
-  pub_date: '2026-05-20T04:00:00'
-  source: MIT AI News
-  title: Building AI models that understand chemical principles
-- category: ai-research
-  description: MIT faculty member in electrical engineering and computer science to
-    focus on innovation in engineering education and new pedagogical approaches.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519
-  pub_date: '2026-05-19T21:10:00'
-  source: MIT AI News
-  title: Justin Solomon appointed associate dean of engineering education
-last_updated: '2026-06-09T09:44:03.216506'
+last_updated: '2026-06-10T10:00:49.796508'
