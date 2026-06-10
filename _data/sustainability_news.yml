@@ -1,5 +1,71 @@
 articles:
 - category: circular
+  description: Nitrous oxide cannisters caused over GBP4.7 million in damage to Energy-from-Waste
+    (EfW) facilities across Bedford since 2023, the Borough Council has said. The
+    post Nitrous oxide canisters cause GBP4...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/nitrous-oxide-cannisters-cause-4-7m-in-damage-to-efw-facilities-in-bedford/
+  pub_date: '2026-06-10T09:39:04'
+  source: Circular Online
+  title: Nitrous oxide canisters cause £4.7m in damage to EfW facilities in Bedford
+- category: circular
+  description: Britain risks collecting more plastic for recycling than it can process
+    domestically unless 'urgent action' is taken to rebuild UK recycling infrastructure,
+    new research finds. The post UK risks colle...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-risks-collecting-more-plastic-than-it-can-recycle-research-warns/
+  pub_date: '2026-06-10T07:52:17'
+  source: Circular Online
+  title: UK risks collecting more plastic than it can recycle, research warns
+- category: supply-chain
+  description: Why supplier risk management mirrors the five stages of grief and why
+    many companies still struggle with manual processes and limited supplier visibility.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supplier-risk-five-stages-of-grief-qa
+  pub_date: '2026-06-09T19:52:00'
+  source: Supply Chain 24/7
+  title: Why Supplier Risk Teams Are Stuck in the “Five Stages of Grief”
+- category: supply-chain
+  description: Learn how small manufacturers can improve quality control through ISO
+    standards, IQC, IPQC, OQC, SPC, TPM, and digital inspection processes.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-small-manufacturers-build-an-effective-quality-control-program
+  pub_date: '2026-06-09T19:00:00'
+  source: Supply Chain 24/7
+  title: How Should Small Manufacturers Build an Effective Quality Control Program?
+- category: supply-chain
+  description: Learn how warehouse operators can reduce walking, waiting, and process
+    waste to improve throughput, accuracy, and labor productivity.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-can-warehouse-leaders-eliminate-operational-waste-without-adding-labor
+  pub_date: '2026-06-09T17:23:00'
+  source: Supply Chain 24/7
+  title: How Can Warehouse Leaders Eliminate Operational Waste Without Adding Labor?
+- category: supply-chain
+  description: Internally caught food labeling mistakes are creating major hidden
+    costs through production delays, investigations, rework, and documentation recovery.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hidden-cost-label-errors-food-manufacturing
+  pub_date: '2026-06-09T16:11:00'
+  source: Supply Chain 24/7
+  title: The Hidden Cost of Label Errors in Food Manufacturing
+- category: supply-chain
+  description: Kuehne+Nagel launched a new weekly Chicago-to-Frankfurt cargo route
+    as part of an expansion of its Inspire Boeing 747-8 freighter network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kuehne-nagel-launches-chicago-frankfurt-cargo-route
+  pub_date: '2026-06-09T13:39:00'
+  source: Supply Chain 24/7
+  title: Kuehne+Nagel Launches Chicago-to-Frankfurt Cargo Route
+- category: supply-chain
+  description: Amazon and Corning announced a multibillion-dollar agreement that will
+    expand fiber optic manufacturing in North Carolina and create 1,000 new jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-corning-fiber-optics-manufacturing-north-carolina-jobs
+  pub_date: '2026-06-09T12:04:00'
+  source: Supply Chain 24/7
+  title: Amazon, Corning Bring Massive Fiber Expansion to North Carolina
+- category: circular
   description: Vape recycling across Worcestershire has almost doubled in a year following
     the disposable vape ban, new figures from Worcestershire County Council show.
     The post Vape recycling doubles across Worcest...
@@ -51,22 +117,6 @@ articles:
   pub_date: '2026-06-08T13:43:00'
   source: Supply Chain 24/7
   title: Amazon Hits 50,000 Electric Delivery Vans Worldwide
-- category: supply-chain
-  description: B-Stock VP Kylee Hall discusses how return fraud is becoming more organized,
-    costly, and difficult for retailers to control.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-retail-return-fraud-keeps-growing
-  pub_date: '2026-06-08T13:03:00'
-  source: Supply Chain 24/7
-  title: Why Retailers Are Losing So Much Money on Returns
-- category: supply-chain
-  description: USA Rare Earth is building a $1.2 billion rare earth magnet and metals
-    facility in South Carolina that is expected to create about 490 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usa-rare-earth-picks-south-carolina-for-1.2b-magnet-plant
-  pub_date: '2026-06-08T12:25:00'
-  source: Supply Chain 24/7
-  title: USA Rare Earth Picks Blacksburg, South Carolina for $1.2B Magnet Plant
 - category: circular
   description: Climate communicators risk overwhelming people or placing too much
     guilt on individuals if they fail to acknowledge the emotional impact of climate
@@ -86,40 +136,6 @@ articles:
   pub_date: '2026-06-08T07:30:00'
   source: Circular Online
   title: Fly-tippers must pay £6822 after dumping cannabis farm in Neath
-- category: supply-chain
-  description: Eli Lilly supply chain executive Mar Gimeno has joined the keynote
-    lineup for the 2026 NextGen Supply Chain Conference in Nashville.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nextgen-supply-chain-conference-adds-eli-lilly-speaker
-  pub_date: '2026-06-08T00:02:00'
-  source: Supply Chain 24/7
-  title: Eli Lilly’s Mar Gimeno Announced as Keynote Speaker at 2026 NextGen Supply
-    Chain Conference
-- category: supply-chain
-  description: Only 7% of companies are modeling future disruptions even as procurement
-    teams face pressure from geopolitical risks, trade shifts, and supplier instability.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-risk-report-few-companies-predict-disruptions
-  pub_date: '2026-06-05T15:10:00'
-  source: Supply Chain 24/7
-  title: 'Report: Only 7% of Companies Model Future Supply Disruptions'
-- category: supply-chain
-  description: EPG CEO Peter Bollinger shares leadership lessons from a career that
-    took him from student programmer to global supply chain technology executive.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/leadership-lessons-peter-bollinger-epg
-  pub_date: '2026-06-05T14:11:00'
-  source: Supply Chain 24/7
-  title: 'Leadership Lessons: Peter Bollinger, CEO of EPG'
-- category: supply-chain
-  description: Coupa and MIT launched a new AI-powered Business Spend Index that uses
-    real procurement transaction data to forecast changes in business spending and
-    economic activity.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/coupa-mit-launch-ai-business-spend-index
-  pub_date: '2026-06-05T13:11:00'
-  source: Supply Chain 24/7
-  title: Coupa and MIT Launch AI-Powered Business Spend Index
 - category: circular
   description: The UK's green economy is worth GBP105bn and generating 'high-wage
     jobs' across every UK nation and region, research from the Confederation of British
@@ -157,22 +173,4 @@ articles:
   pub_date: '2026-06-03T07:42:08'
   source: Circular Online
   title: SUEZ signs £396m contract with Milton Keynes City Council
-- category: circular
-  description: Exchange For Change has confirmed the fees that will be paid to return
-    point operators when England, Scotland and Northern Ireland launch their Deposit
-    Return Scheme in October 2027. The post Exchange...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/exchange-for-change-announces-drs-return-handling-fee/
-  pub_date: '2026-06-02T12:19:18'
-  source: Circular Online
-  title: Exchange For Change announces DRS return handling fee
-- category: circular
-  description: 14 months since the Birmingham bin strikes began, new research shows
-    the disruption to recycling collections may have generated 10,000 tonnes in COe
-    emissions. The post Birmingham bin strikes could ha...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/birmingham-bin-strikes-could-have-generated-10000-tonnes-in-co%e2%82%82e-emissions/
-  pub_date: '2026-06-02T10:27:52'
-  source: Circular Online
-  title: Birmingham bin strikes could have generated 10,000 tonnes in CO₂e emissions
-last_updated: '2026-06-09T09:44:02.040550'
+last_updated: '2026-06-10T10:00:48.845201'
