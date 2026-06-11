@@ -1,4 +1,53 @@
 articles:
+- category: supply-chain
+  description: Survey data reveals how freight organizations are approaching AI agent
+    adoption, key operational use cases, adoption barriers, and workforce implications.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-freight-leaders-evaluate-ai-agent-adoption
+  pub_date: '2026-06-10T17:05:00'
+  source: Supply Chain 24/7
+  title: How Should Freight Leaders Evaluate AI Agent Adoption?
+- category: supply-chain
+  description: CrimsonLogic's Siddharth Priyesh says inaccurate product data and labeling
+    inconsistencies are creating growing customs, audit, and compliance risks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/product-labeling-customs-compliance-ai-trade-data
+  pub_date: '2026-06-10T16:11:00'
+  source: Supply Chain 24/7
+  title: Why Product Labeling Mistakes Are Becoming a Bigger Trade Risk
+- category: supply-chain
+  description: ePost Global President Kelly Martinez reflects on building a logistics
+    company, leading through disruption, and navigating a still male-dominated industry.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/women-in-supply-chain-kelly-martinez
+  pub_date: '2026-06-10T14:06:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Kelly Martinez of ePost Global'
+- category: supply-chain
+  description: Amazon expanded its U.S. less-than-truckload freight service so businesses
+    can ship palletized freight to destinations beyond Amazon's own network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-expands-ltl-freight-service-beyond-network
+  pub_date: '2026-06-10T11:49:00'
+  source: Supply Chain 24/7
+  title: Amazon Opens LTL Freight Service to All U.S. Businesses
+- category: circular
+  description: Waste management company Grundon has scored a major new contract to
+    manage waste and recycling at the Tottenham Hotspur Stadium. The post Grundon
+    scores recycling contract at Tottenham Hotspur Stadium...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/grundon-scores-recycling-contract-at-tottenham-hotspur-stadium/
+  pub_date: '2026-06-10T11:22:39'
+  source: Circular Online
+  title: Grundon scores recycling contract at Tottenham Hotspur Stadium
+- category: supply-chain
+  description: Colliers says warehouse demand is rebounding across several major U.S
+    markets as construction activity slows and vacancy rates begin to stabilize.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/industrial-demand-tightens-major-us-logistics-hubs
+  pub_date: '2026-06-10T10:46:00'
+  source: Supply Chain 24/7
+  title: Dallas, Houston Continue to Lead U.S. Industrial Real Estate Growth
 - category: circular
   description: Nitrous oxide cannisters caused over GBP4.7 million in damage to Energy-from-Waste
     (EfW) facilities across Bedford since 2023, the Borough Council has said. The
@@ -57,14 +106,6 @@ articles:
   pub_date: '2026-06-09T13:39:00'
   source: Supply Chain 24/7
   title: Kuehne+Nagel Launches Chicago-to-Frankfurt Cargo Route
-- category: supply-chain
-  description: Amazon and Corning announced a multibillion-dollar agreement that will
-    expand fiber optic manufacturing in North Carolina and create 1,000 new jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-corning-fiber-optics-manufacturing-north-carolina-jobs
-  pub_date: '2026-06-09T12:04:00'
-  source: Supply Chain 24/7
-  title: Amazon, Corning Bring Massive Fiber Expansion to North Carolina
 - category: circular
   description: Vape recycling across Worcestershire has almost doubled in a year following
     the disposable vape ban, new figures from Worcestershire County Council show.
@@ -83,40 +124,6 @@ articles:
   pub_date: '2026-06-09T08:30:45'
   source: Circular Online
   title: Waste and recycling company fined after employee suffers life-changing injuries
-- category: supply-chain
-  description: Learn how integrating OMS, WMS and TMS creates real-time visibility,
-    improves fulfillment performance, reduces costs and supports agile supply chain
-    execution.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-should-supply-chains-connect-oms-wms-and-tms-for-agility
-  pub_date: '2026-06-08T17:51:00'
-  source: Supply Chain 24/7
-  title: How Should Supply Chains Connect OMS, WMS and TMS for Agility?
-- category: supply-chain
-  description: Zebra Technologies outlined a future where AI-powered tools help frontline
-    workers navigate tasks, reduce app overload, and automate routine work.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/zebra-envisions-the-ai-powered-frontline-worker
-  pub_date: '2026-06-08T16:18:00'
-  source: Supply Chain 24/7
-  title: Zebra Says Frontline Workers Are Drowning in Apps
-- category: supply-chain
-  description: DHL's latest e-commerce report says AI shopping agents, flexible delivery,
-    and secondhand marketplaces are reshaping how consumers buy online.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-ecommerce-report-ai-shopping-delivery-trends-2026
-  pub_date: '2026-06-08T14:12:00'
-  source: Supply Chain 24/7
-  title: DHL Says AI Could Be Shopping for Consumers by 2031
-- category: supply-chain
-  description: Amazon says it now operates more than 50,000 electric delivery vans
-    globally as it expands EV trucks, cargo bikes, and rail shipping across its logistics
-    network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-hits-50000-electric-delivery-vans-worldwide
-  pub_date: '2026-06-08T13:43:00'
-  source: Supply Chain 24/7
-  title: Amazon Hits 50,000 Electric Delivery Vans Worldwide
 - category: circular
   description: Climate communicators risk overwhelming people or placing too much
     guilt on individuals if they fail to acknowledge the emotional impact of climate
@@ -164,13 +171,4 @@ articles:
   source: Circular Online
   title: New reuse symbol launched by global alliance of businesses, governments,
     and NGOs
-- category: circular
-  description: SUEZ has signed a GBP396 million, ten-year contract to operate and
-    manage the Milton Keynes Waste Recovery Park (MKWRP). The post SUEZ signs GBP396m
-    contract with Milton Keynes City Council appeared f...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/suez-signs-396m-contract-with-milton-keynes-city-council/
-  pub_date: '2026-06-03T07:42:08'
-  source: Circular Online
-  title: SUEZ signs £396m contract with Milton Keynes City Council
-last_updated: '2026-06-10T10:00:48.845201'
+last_updated: '2026-06-11T10:24:47.502560'

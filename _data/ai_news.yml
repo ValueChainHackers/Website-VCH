@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: This article builds a full local agentic programming stack using Ollama,
+    Gemma 4, and Claude Code.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/local-agentic-programming-on-the-cheap-claude-code-ollama-gemma4
+  pub_date: '2026-06-10T14:00:17'
+  source: KDnuggets
+  title: 'Local Agentic Programming on the Cheap: Claude Code + Ollama + Gemma4'
+- category: machine-learning
+  description: PDFs are used everywhere, and these five Python scripts help you automate
+    the most common PDF tasks.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-pdf-tasks
+  pub_date: '2026-06-10T12:00:44'
+  source: KDnuggets
+  title: 5 Useful Python Scripts to Automate Boring PDF Tasks
 - category: ai-research
   description: Founded by two researchers from MIT, Ferveret reduces the amount of
     energy and water required to cool the chips that power AI.
@@ -116,14 +132,6 @@ articles:
   pub_date: '2026-06-04T14:00:57'
   source: KDnuggets
   title: What the Agentic Era Means for Data Science
-- category: machine-learning
-  description: This article breaks down 7 key steps to help you analyze and forecast
-    time series data with Python.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-steps-to-mastering-time-series-analysis-with-python
-  pub_date: '2026-06-04T12:00:59'
-  source: KDnuggets
-  title: 7 Steps to Mastering Time Series Analysis with Python
 - category: ai-research
   description: MIT researchers use the classic game as a test bed for AI agents, finding
     a small AI model can outperform the biggest ones at 1 percent of the cost.
@@ -141,14 +149,6 @@ articles:
   source: MIT AI News
   title: Tod Machover receives George Peabody Medal for contributions to music and
     technology
-- category: machine-learning
-  description: Learn how to write, append, and save text, CSV, and JSON files in Python
-    using native file handling tools that work out of the box.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-write-to-files-in-python-a-beginners-guide
-  pub_date: '2026-06-03T14:00:00'
-  source: KDnuggets
-  title: 'How to Write to Files in Python: A Beginner’s Guide'
 - category: ai-research
   description: A colorful, grain-textured collage of various items scattered across
     a light blue background. The items include a green bucket hat, a wooden clothes
@@ -246,4 +246,4 @@ articles:
   pub_date: '2026-05-20T19:30:00'
   source: Google AI Blog
   title: 100 things we announced at I/O 2026
-last_updated: '2026-06-10T10:00:49.796508'
+last_updated: '2026-06-11T10:24:48.735791'
