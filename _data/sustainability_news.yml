@@ -1,4 +1,55 @@
 articles:
+- category: circular
+  description: Refuse workers in Great Yarmouth are voting on whether to strike as
+    part of a pay dispute with the local council. The post Refuse workers vote on
+    strike action in Great Yarmouth appeared first on Circ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/refuse-workers-vote-on-strike-action-in-great-yarmouth/
+  pub_date: '2026-06-12T07:30:00'
+  source: Circular Online
+  title: Refuse workers vote on strike action in Great Yarmouth
+- category: supply-chain
+  description: Amazon again topped the annual U.S. and Global 3PL rankings as the
+    freight market showed signs of stabilizing in 2025.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-50-global-third-party-logistics-providers-ranking
+  pub_date: '2026-06-11T15:53:00'
+  source: Supply Chain 24/7
+  title: Ranking the Top 50 Global Third-Party Logistics Providers
+- category: supply-chain
+  description: A new survey found that businesses continue increasing AI spending
+    even as many IT leaders report costly mistakes, misuse, and growing employee dependence
+    on the technology.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-mistakes-business-impact-survey-it-leaders
+  pub_date: '2026-06-11T13:51:00'
+  source: Supply Chain 24/7
+  title: 1 in 4 IT Leaders Say AI Mistakes Have Hurt Their Business
+- category: supply-chain
+  description: Grocers and food suppliers are preparing for possible increases in
+    beef prices as concerns grow over the spread of New World screwworm.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/screwworm-threat-beef-supply-chain-grocers-protein-demand
+  pub_date: '2026-06-11T11:40:00'
+  source: Supply Chain 24/7
+  title: Screwworm Threat Raises New Concerns for Beef Supply Chain
+- category: circular
+  description: More retailers will now be exempt from hosting a DRS return point,
+    the scheme administrator Exchange for Change has announced. The post Exchange
+    For Change expands retailer DRS return point exemptions...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/exchange-for-change-expands-retailer-drs-return-point-exemptions/
+  pub_date: '2026-06-11T11:06:37'
+  source: Circular Online
+  title: Exchange For Change expands retailer DRS return point exemptions
+- category: supply-chain
+  description: Sunstice launched Helios, a new AI layer designed to help supply chain
+    planning teams make faster decisions during ongoing disruptions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/sunstice-launches-helios-ai-supply-chain-planning
+  pub_date: '2026-06-11T06:51:00'
+  source: Supply Chain 24/7
+  title: Sunstice Unveils Helios to Speed Up Supply Chain Decisions
 - category: supply-chain
   description: Survey data reveals how freight organizations are approaching AI agent
     adoption, key operational use cases, adoption barriers, and workforce implications.
@@ -49,14 +100,15 @@ articles:
   source: Supply Chain 24/7
   title: Dallas, Houston Continue to Lead U.S. Industrial Real Estate Growth
 - category: circular
-  description: Nitrous oxide cannisters caused over GBP4.7 million in damage to Energy-from-Waste
-    (EfW) facilities across Bedford since 2023, the Borough Council has said. The
-    post Nitrous oxide canisters cause GBP4...
+  description: Nitrous oxide cannisters caused over GBP4.7 million in damage to Veolia's
+    Energy-from-Waste (EfW) facilities across the UK since 2023. The post Nitrous
+    oxide canisters caused GBP4.7m in damage to Veol...
   icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/nitrous-oxide-cannisters-cause-4-7m-in-damage-to-efw-facilities-in-bedford/
+  link: https://www.circularonline.co.uk/news/nitrous-oxide-cannisters-cause-4-7m-in-damage-to-efw-facilities/
   pub_date: '2026-06-10T09:39:04'
   source: Circular Online
-  title: Nitrous oxide canisters cause £4.7m in damage to EfW facilities in Bedford
+  title: Nitrous oxide canisters caused £4.7m in damage to Veolia EfW facilities since
+    2023
 - category: circular
   description: Britain risks collecting more plastic for recycling than it can process
     domestically unless 'urgent action' is taken to rebuild UK recycling infrastructure,
@@ -74,38 +126,6 @@ articles:
   pub_date: '2026-06-09T19:52:00'
   source: Supply Chain 24/7
   title: Why Supplier Risk Teams Are Stuck in the “Five Stages of Grief”
-- category: supply-chain
-  description: Learn how small manufacturers can improve quality control through ISO
-    standards, IQC, IPQC, OQC, SPC, TPM, and digital inspection processes.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-small-manufacturers-build-an-effective-quality-control-program
-  pub_date: '2026-06-09T19:00:00'
-  source: Supply Chain 24/7
-  title: How Should Small Manufacturers Build an Effective Quality Control Program?
-- category: supply-chain
-  description: Learn how warehouse operators can reduce walking, waiting, and process
-    waste to improve throughput, accuracy, and labor productivity.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-can-warehouse-leaders-eliminate-operational-waste-without-adding-labor
-  pub_date: '2026-06-09T17:23:00'
-  source: Supply Chain 24/7
-  title: How Can Warehouse Leaders Eliminate Operational Waste Without Adding Labor?
-- category: supply-chain
-  description: Internally caught food labeling mistakes are creating major hidden
-    costs through production delays, investigations, rework, and documentation recovery.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hidden-cost-label-errors-food-manufacturing
-  pub_date: '2026-06-09T16:11:00'
-  source: Supply Chain 24/7
-  title: The Hidden Cost of Label Errors in Food Manufacturing
-- category: supply-chain
-  description: Kuehne+Nagel launched a new weekly Chicago-to-Frankfurt cargo route
-    as part of an expansion of its Inspire Boeing 747-8 freighter network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/kuehne-nagel-launches-chicago-frankfurt-cargo-route
-  pub_date: '2026-06-09T13:39:00'
-  source: Supply Chain 24/7
-  title: Kuehne+Nagel Launches Chicago-to-Frankfurt Cargo Route
 - category: circular
   description: Vape recycling across Worcestershire has almost doubled in a year following
     the disposable vape ban, new figures from Worcestershire County Council show.
@@ -152,23 +172,4 @@ articles:
   pub_date: '2026-06-05T07:30:00'
   source: Circular Online
   title: UK’s net zero economy worth more an £100bn per year, CBI finds
-- category: circular
-  description: A South London incinerator has been granted permission to process tens
-    of thousands of extra tonnes of waste each year despite breaching its environmental
-    permit 916 times between 2022 and 2024. The p...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-agency-approves-controversial-london-incinerator-expansion/
-  pub_date: '2026-06-04T09:12:22'
-  source: Circular Online
-  title: Environment Agency approves controversial London incinerator expansion
-- category: circular
-  description: A new global symbol designed to identify reusable packaging and reuse
-    systems worldwide has been unveiled today. The post New reuse symbol launched
-    by global alliance of businesses, governments, and N...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-reuse-symbol-launched-by-global-alliance-of-businesses-governments-and-ngos/
-  pub_date: '2026-06-03T12:00:00'
-  source: Circular Online
-  title: New reuse symbol launched by global alliance of businesses, governments,
-    and NGOs
-last_updated: '2026-06-11T10:24:47.502560'
+last_updated: '2026-06-12T10:13:24.060680'

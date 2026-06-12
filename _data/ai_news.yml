@@ -1,4 +1,56 @@
 articles:
+- category: ai-research
+  description: An expert in behavioral science and transportation, Zhao combines these
+    studies with AI and public policy to address some of the most urgent challenges
+    facing cities.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611
+  pub_date: '2026-06-11T20:20:00'
+  source: MIT AI News
+  title: Jinhua Zhao named head of the Department of Urban Studies and Planning
+- category: ai-research
+  description: We're helping build the state's next-generation workforce and investing
+    in energy programs.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/
+  pub_date: '2026-06-11T20:00:00'
+  source: Google AI Blog
+  title: Our new community investments in Virginia support local jobs and expand energy
+    affordability.
+- category: ai-research
+  description: MIT researchers provide a major upgrade to the nearly century-old idea
+    of random utility models.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611
+  pub_date: '2026-06-11T19:10:00'
+  source: MIT AI News
+  title: When it comes to predicting people’s preferences, it pays to consider “the
+    power of three”
+- category: ai-research
+  description: The fellowships in applied sciences, engineering, and mathematics recognize
+    doctoral students who are pursuing solutions to the most pressing challenges in
+    science and technology.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/hertz-foundation-fellowships-0611
+  pub_date: '2026-06-11T17:30:00'
+  source: MIT AI News
+  title: MIT affiliates win 2026 Hertz Foundation Fellowships
+- category: machine-learning
+  description: Build the five components every feature store needs, then see where
+    AI changes the design.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/feature-stores-from-scratch-a-minimal-working-implementation
+  pub_date: '2026-06-11T14:00:23'
+  source: KDnuggets
+  title: 'Feature Stores from Scratch: A Minimal Working Implementation'
+- category: machine-learning
+  description: Need money for your startup? These 7 funding options can help you get
+    started, grow faster, and avoid common fundraising mistakes.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-best-ways-to-get-funding-for-your-startup-idea
+  pub_date: '2026-06-11T12:00:22'
+  source: KDnuggets
+  title: 7 Best Ways to Get Funding for Your Startup Idea
 - category: machine-learning
   description: This article builds a full local agentic programming stack using Ollama,
     Gemma 4, and Claude Code.
@@ -24,7 +76,7 @@ articles:
   source: MIT AI News
   title: Startup’s nuclear-inspired cooling system could make data centers more sustainable
 - category: ai-research
-  description: Media Lab study shows that, much like how GPS has weakened our navigation
+  description: A Media Lab study shows that, much like how GPS has weakened our navigation
     skills, AI can make us worse at detecting fake news.
   icon: fa-graduation-cap
   link: https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609
@@ -97,15 +149,6 @@ articles:
   source: KDnuggets
   title: 'A Deep Dive into Calibration of Language Models: Platt Scaling, Isotonic
     Regression, Temperature Scaling'
-- category: machine-learning
-  description: In this article, we will explore three essential spaCy tricks that
-    every developer should have in their toolkit to maximize processing speed and
-    customize entity recognition.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-spacy-tricks-for-efficient-text-processing-entity-recognition
-  pub_date: '2026-06-05T12:00:45'
-  source: KDnuggets
-  title: 3 SpaCy Tricks for Efficient Text Processing & Entity Recognition
 - category: ai-research
   description: MIT RAISE and Georgia State University announce an initiative to connect
     universities, community colleges, industry, and government to expand industry-aligned
@@ -124,14 +167,6 @@ articles:
   source: MIT AI News
   title: NSF renews support for MIT-led AI and physics institute, expanding a new
     model for discovery
-- category: machine-learning
-  description: Learn how AI agents are reshaping data science workflows and which
-    skills practitioners need in 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-the-agentic-era-means-for-data-science
-  pub_date: '2026-06-04T14:00:57'
-  source: KDnuggets
-  title: What the Agentic Era Means for Data Science
 - category: ai-research
   description: MIT researchers use the classic game as a test bed for AI agents, finding
     a small AI model can outperform the biggest ones at 1 percent of the cost.
@@ -158,14 +193,6 @@ articles:
   pub_date: '2026-06-03T13:00:00'
   source: Google AI Blog
   title: 5 ways Google Search can level up your thrift and vintage shopping
-- category: ai-research
-  description: The new ChartNet training dataset could improve the accuracy of vision-language
-    models that help analyze business trends or interpret scientific figures.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603
-  pub_date: '2026-06-03T04:00:00'
-  source: MIT AI News
-  title: MIT researchers teach AI models to interpret charts
 - category: ai-research
   description: A collage of I/O-related images, including the Antigravity Coffee Co.
     pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI
@@ -199,14 +226,6 @@ articles:
   source: Google AI Blog
   title: Check out real-life AI prototypes from the Futures Lab.
 - category: ai-research
-  description: With $25 million investment from the Commonwealth of Massachusetts,
-    MIT to build a new shared-use facility to serve as a statewide quantum toolbox.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub
-  pub_date: '2026-05-28T16:00:00'
-  source: MIT AI News
-  title: 'Media Advisory: MIT to establish regional quantum hub'
-- category: ai-research
   description: The colorful I/O logo against a black background, surrounded by stills
     from the I/O keynote
   icon: fa-google
@@ -223,15 +242,6 @@ articles:
   source: Google AI Blog
   title: Catch up on the Dialogues stage at Google I/O 2026.
 - category: ai-research
-  description: A new study of the postwar U.S. shows which kinds of workers historically
-    filled new tech-enabled jobs.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521
-  pub_date: '2026-05-21T04:00:00'
-  source: MIT AI News
-  title: Technology usually creates jobs for young, skilled workers. Will AI do the
-    same?
-- category: ai-research
   description: We're helping build the state's next-generation workforce and investing
     in energy programs.
   icon: fa-google
@@ -239,11 +249,4 @@ articles:
   pub_date: '2026-05-20T20:40:00'
   source: Google AI Blog
   title: We’re announcing new community investments in Missouri.
-- category: ai-research
-  description: Image with the words "Ready, Set, I/O" and a colorful Gemini logo
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
-  pub_date: '2026-05-20T19:30:00'
-  source: Google AI Blog
-  title: 100 things we announced at I/O 2026
-last_updated: '2026-06-11T10:24:48.735791'
+last_updated: '2026-06-12T10:13:25.098512'
