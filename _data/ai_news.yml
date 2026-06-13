@@ -1,4 +1,22 @@
 articles:
+- category: machine-learning
+  description: 'Local models in 2026 are good enough. For the tasks Claude Code handles
+    daily: code completion, refactoring, debugging, codebase explanation; a well-chosen
+    quantized model running locally covers the v...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/pairing-claude-code-with-local-models
+  pub_date: '2026-06-12T14:00:59'
+  source: KDnuggets
+  title: Pairing Claude Code with Local Models
+- category: machine-learning
+  description: 'In this article, we will cover three essential NumPy tricks to optimize
+    your code: vectorization and broadcasting, in-place operations, and leveraging
+    memory views instead of copies.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-numpy-tricks-for-numerical-performance
+  pub_date: '2026-06-12T12:00:36'
+  source: KDnuggets
+  title: 3 NumPy Tricks for Numerical Performance
 - category: ai-research
   description: An expert in behavioral science and transportation, Zhao combines these
     studies with AI and public policy to address some of the most urgent challenges
@@ -117,14 +135,6 @@ articles:
   pub_date: '2026-06-08T14:00:02'
   source: KDnuggets
   title: Anthropic’s Complete Guide to Claude Skills Building
-- category: machine-learning
-  description: In this article, we will explore five critical Python concepts that
-    every AI engineer must know to build scalable, secure, and robust systems.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-must-know-python-concepts-for-ai-engineers
-  pub_date: '2026-06-08T12:00:35'
-  source: KDnuggets
-  title: 5 Must-Know Python Concepts for AI Engineers
 - category: ai-research
   description: The MIT Ethics of Computing Research Symposium brought together experts
     and researchers working at the heart of ethical and social impact in technology.
@@ -140,15 +150,6 @@ articles:
   pub_date: '2026-06-05T14:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in May 2026
-- category: machine-learning
-  description: Discover three post-hoc methods for closing the gap between confidence
-    and accuracy.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/a-deep-dive-into-calibration-of-language-models-platt-scaling-isotonic-regression-temperature-scaling
-  pub_date: '2026-06-05T14:00:11'
-  source: KDnuggets
-  title: 'A Deep Dive into Calibration of Language Models: Platt Scaling, Isotonic
-    Regression, Temperature Scaling'
 - category: ai-research
   description: MIT RAISE and Georgia State University announce an initiative to connect
     universities, community colleges, industry, and government to expand industry-aligned
@@ -249,4 +250,4 @@ articles:
   pub_date: '2026-05-20T20:40:00'
   source: Google AI Blog
   title: We’re announcing new community investments in Missouri.
-last_updated: '2026-06-12T10:13:25.098512'
+last_updated: '2026-06-13T09:16:53.620772'
