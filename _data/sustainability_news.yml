@@ -1,4 +1,28 @@
 articles:
+- category: supply-chain
+  description: As tariff policies continue to shift, suppliers are increasingly facing
+    customer requests for refunds and pricing adjustments tied to tariff-related savings.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tariff-refund-requests-what-suppliers-need-to-know
+  pub_date: '2026-06-12T15:06:00'
+  source: Supply Chain 24/7
+  title: 'Tariff Refund Requests: What Suppliers Need to Know'
+- category: supply-chain
+  description: A new Cleo survey found that companies continue to lose revenue from
+    supply chain problems despite growing investments in automation and AI.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/most-companies-say-their-supply-chains-work-the-data-says-otherwise
+  pub_date: '2026-06-12T13:17:00'
+  source: Supply Chain 24/7
+  title: Most Companies Say Their Supply Chains Work. The Data Says Otherwise
+- category: supply-chain
+  description: Philadelphia was the only U.S. port to rank among the world's top 50
+    container ports in the newly released 2025 Container Port Performance Index.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/only-one-u.s-port-makes-top-50-in-new-performance-index
+  pub_date: '2026-06-12T11:53:00'
+  source: Supply Chain 24/7
+  title: Only One U.S. Port Makes Top 50 in Global Performance Index
 - category: circular
   description: Refuse workers in Great Yarmouth are voting on whether to strike as
     part of a pay dispute with the local council. The post Refuse workers vote on
@@ -51,6 +75,15 @@ articles:
   source: Supply Chain 24/7
   title: Sunstice Unveils Helios to Speed Up Supply Chain Decisions
 - category: supply-chain
+  description: Learn how organizations can manage rising ecommerce return volumes,
+    reduce return-processing costs, improve inventory accuracy, and streamline reverse
+    logistics.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/what-is-the-best-way-to-manage-ecommerce-returns-at-scale
+  pub_date: '2026-06-10T18:44:00'
+  source: Supply Chain 24/7
+  title: What Is the Best Way to Manage Ecommerce Returns at Scale?
+- category: supply-chain
   description: Survey data reveals how freight organizations are approaching AI agent
     adoption, key operational use cases, adoption barriers, and workforce implications.
   icon: fa-box
@@ -66,22 +99,6 @@ articles:
   pub_date: '2026-06-10T16:11:00'
   source: Supply Chain 24/7
   title: Why Product Labeling Mistakes Are Becoming a Bigger Trade Risk
-- category: supply-chain
-  description: ePost Global President Kelly Martinez reflects on building a logistics
-    company, leading through disruption, and navigating a still male-dominated industry.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/women-in-supply-chain-kelly-martinez
-  pub_date: '2026-06-10T14:06:00'
-  source: Supply Chain 24/7
-  title: 'Women in Supply Chain: Kelly Martinez of ePost Global'
-- category: supply-chain
-  description: Amazon expanded its U.S. less-than-truckload freight service so businesses
-    can ship palletized freight to destinations beyond Amazon's own network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-expands-ltl-freight-service-beyond-network
-  pub_date: '2026-06-10T11:49:00'
-  source: Supply Chain 24/7
-  title: Amazon Opens LTL Freight Service to All U.S. Businesses
 - category: circular
   description: Waste management company Grundon has scored a major new contract to
     manage waste and recycling at the Tottenham Hotspur Stadium. The post Grundon
@@ -91,14 +108,6 @@ articles:
   pub_date: '2026-06-10T11:22:39'
   source: Circular Online
   title: Grundon scores recycling contract at Tottenham Hotspur Stadium
-- category: supply-chain
-  description: Colliers says warehouse demand is rebounding across several major U.S
-    markets as construction activity slows and vacancy rates begin to stabilize.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/industrial-demand-tightens-major-us-logistics-hubs
-  pub_date: '2026-06-10T10:46:00'
-  source: Supply Chain 24/7
-  title: Dallas, Houston Continue to Lead U.S. Industrial Real Estate Growth
 - category: circular
   description: Nitrous oxide cannisters caused over GBP4.7 million in damage to Veolia's
     Energy-from-Waste (EfW) facilities across the UK since 2023. The post Nitrous
@@ -118,14 +127,6 @@ articles:
   pub_date: '2026-06-10T07:52:17'
   source: Circular Online
   title: UK risks collecting more plastic than it can recycle, research warns
-- category: supply-chain
-  description: Why supplier risk management mirrors the five stages of grief and why
-    many companies still struggle with manual processes and limited supplier visibility.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supplier-risk-five-stages-of-grief-qa
-  pub_date: '2026-06-09T19:52:00'
-  source: Supply Chain 24/7
-  title: Why Supplier Risk Teams Are Stuck in the “Five Stages of Grief”
 - category: circular
   description: Vape recycling across Worcestershire has almost doubled in a year following
     the disposable vape ban, new figures from Worcestershire County Council show.
@@ -172,4 +173,4 @@ articles:
   pub_date: '2026-06-05T07:30:00'
   source: Circular Online
   title: UK’s net zero economy worth more an £100bn per year, CBI finds
-last_updated: '2026-06-12T10:13:24.060680'
+last_updated: '2026-06-13T09:16:52.698730'
