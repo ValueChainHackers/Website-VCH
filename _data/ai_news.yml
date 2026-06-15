@@ -1,5 +1,14 @@
 articles:
 - category: machine-learning
+  description: 'In this article, we will walk through three essential Pandas tricks
+    to clean and prepare your data efficiently: declarative method chaining, memory
+    and speed optimization via categoricals and vectoriz...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-pandas-tricks-for-data-cleaning-preparation
+  pub_date: '2026-06-15T12:00:35'
+  source: KDnuggets
+  title: 3 Pandas Tricks for Data Cleaning & Preparation
+- category: machine-learning
   description: 'Local models in 2026 are good enough. For the tasks Claude Code handles
     daily: code completion, refactoring, debugging, codebase explanation; a well-chosen
     quantized model running locally covers the v...'
@@ -126,15 +135,6 @@ articles:
   pub_date: '2026-06-08T16:00:00'
   source: KDnuggets
   title: Why Do LLMs Corrupt Your Documents When You Delegate?
-- category: machine-learning
-  description: 'This guide covers the complete picture: what skills are technically,
-    how to plan and design them, the exact file structure and naming rules, how to
-    write instructions that Claude follows reliably, a c...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/anthropics-complete-guide-to-claude-skills-building
-  pub_date: '2026-06-08T14:00:02'
-  source: KDnuggets
-  title: Anthropic’s Complete Guide to Claude Skills Building
 - category: ai-research
   description: The MIT Ethics of Computing Research Symposium brought together experts
     and researchers working at the heart of ethical and social impact in technology.
@@ -250,4 +250,4 @@ articles:
   pub_date: '2026-05-20T20:40:00'
   source: Google AI Blog
   title: We’re announcing new community investments in Missouri.
-last_updated: '2026-06-14T09:34:52.525652'
+last_updated: '2026-06-15T12:14:31.971237'
