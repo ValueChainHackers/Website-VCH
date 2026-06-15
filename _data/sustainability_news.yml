@@ -1,4 +1,14 @@
 articles:
+- category: circular
+  description: Irish consumers recycled a record 21.1 million electronic and electrical
+    waste items in 2025, but Ireland still fell short of the EU's e-waste collection
+    target, according to new data from WEEE Irelan...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ireland-records-highest-ever-e-waste-recycling-total-but-misses-eu-collection-target/
+  pub_date: '2026-06-15T11:52:03'
+  source: Circular Online
+  title: Ireland records highest ever e-waste recycling total but misses EU collection
+    target
 - category: supply-chain
   description: As tariff policies continue to shift, suppliers are increasingly facing
     customer requests for refunds and pricing adjustments tied to tariff-related savings.
@@ -164,13 +174,4 @@ articles:
   pub_date: '2026-06-08T07:30:00'
   source: Circular Online
   title: Fly-tippers must pay £6822 after dumping cannabis farm in Neath
-- category: circular
-  description: The UK's green economy is worth GBP105bn and generating 'high-wage
-    jobs' across every UK nation and region, research from the Confederation of British
-    Industry finds. The post UK's net zero economy wo...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uks-net-zero-economy-worth-more-an-100bn-per-year-cbi-finds/
-  pub_date: '2026-06-05T07:30:00'
-  source: Circular Online
-  title: UK’s net zero economy worth more an £100bn per year, CBI finds
-last_updated: '2026-06-14T09:34:51.067772'
+last_updated: '2026-06-15T12:14:30.757440'
