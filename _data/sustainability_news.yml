@@ -1,5 +1,82 @@
 articles:
 - category: circular
+  description: The UK government has said it intends to publish its delayed Circular
+    Economy Growth Plan "soon", but has not given a firm publication date. In a written
+    parliamentary answer published on 15 June, Def...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-government-gives-no-firm-date-for-delayed-circular-economy-growth-plan/
+  pub_date: '2026-06-16T08:24:33'
+  source: Circular Online
+  title: UK Government gives no firm date for delayed Circular Economy Growth Plan
+- category: circular
+  description: Circular economy policies are failing to make full use of bio-based
+    materials such as timber, cotton, rubber, leather and natural fibres, according
+    to a new report from the Ellen MacArthur Foundation....
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/bio-based-materials-risk-being-overlooked-in-circular-economy-policy-emf-warns/
+  pub_date: '2026-06-16T08:14:36'
+  source: Circular Online
+  title: Bio-based materials risk being overlooked in circular economy policy, EMF
+    warns
+- category: circular
+  description: The UK could face a shortage of recycled aluminium needed for key industries
+    unless it rapidly expands domestic collection, sorting and processing capacity,
+    Make UK has warned. The post UK risks losin...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-risks-losing-critical-aluminium-scrap-to-overseas-markets-make-uk-warns/
+  pub_date: '2026-06-16T08:04:42'
+  source: Circular Online
+  title: UK risks losing critical aluminium scrap to overseas markets, Make UK warns
+- category: supply-chain
+  description: A House committee advanced a $580 Billion transportation bill that
+    includes several trucking and freight provisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/congress-580b-highway-bill-truck-parking-freight
+  pub_date: '2026-06-15T17:33:00'
+  source: Supply Chain 24/7
+  title: New Transportation Bill Comes With a 5-Year, $580 Billion Price Tag
+- category: supply-chain
+  description: Learn how growing warehouses can overcome rigid workflows, IT bottlenecks,
+    manual processes, and compliance challenges with a flexible WMS approach.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-growing-warehouses-choose-a-wms-that-scales
+  pub_date: '2026-06-15T13:36:00'
+  source: Supply Chain 24/7
+  title: How Should Growing Warehouses Choose a WMS That Scales?
+- category: supply-chain
+  description: Trimble launched a new AI-powered transportation management system
+    designed to help shippers and logistics providers manage freight through a customizable
+    cloud-based platform.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/trimble-launches-ai-powered-shipper-tms
+  pub_date: '2026-06-15T13:27:00'
+  source: Supply Chain 24/7
+  title: Trimble Launches New AI-Powered TMS for North American Shippers
+- category: supply-chain
+  description: Gartner says demand for supply chain workers with AI skills has surged
+    387% since 2023, intensifying competition for experienced talent.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-ai-supply-chain-talent-demand-2026
+  pub_date: '2026-06-15T13:17:00'
+  source: Supply Chain 24/7
+  title: 'Gartner: AI Hiring in Supply Chain Jumped 387% Since 2023'
+- category: supply-chain
+  description: USDOT unveiled a new freight visibility initiative designed to improve
+    supply chain coordination and reduce cargo delays across the U.S.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/duffy-usdot-supply-chain-sovereignty-initiative
+  pub_date: '2026-06-15T13:11:00'
+  source: Supply Chain 24/7
+  title: USDOT Unveils American Supply Chain Sovereignty Initiative
+- category: supply-chain
+  description: The Strait of Hormuz disruption showed that many supply chains still
+    lack the connected data needed for AI-driven decision-making during a crisis.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-ai-data-strategy-strait-of-hormuz
+  pub_date: '2026-06-15T12:14:00'
+  source: Supply Chain 24/7
+  title: Why AI Still Struggles During Major Supply Chain Disruptions
+- category: circular
   description: Irish consumers recycled a record 21.1 million electronic and electrical
     waste items in 2025, but Ireland still fell short of the EU's e-waste collection
     target, according to new data from WEEE Irelan...
@@ -10,6 +87,15 @@ articles:
   title: Ireland records highest ever e-waste recycling total but misses EU collection
     target
 - category: supply-chain
+  description: Learn how serialization improves supply chain traceability, reduces
+    counterfeit risk, protects brands, and supports recalls through track-and-trace
+    visibility.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/the-business-case-for-serialization-beyond-pharmaceuticals
+  pub_date: '2026-06-12T16:11:00'
+  source: Supply Chain 24/7
+  title: The Business Case for Serialization Beyond Pharmaceuticals
+- category: supply-chain
   description: As tariff policies continue to shift, suppliers are increasingly facing
     customer requests for refunds and pricing adjustments tied to tariff-related savings.
   icon: fa-box
@@ -18,21 +104,22 @@ articles:
   source: Supply Chain 24/7
   title: 'Tariff Refund Requests: What Suppliers Need to Know'
 - category: supply-chain
-  description: A new Cleo survey found that companies continue to lose revenue from
-    supply chain problems despite growing investments in automation and AI.
+  description: Learn the top warehouse management challenges for 2026, including labor
+    shortages, automation planning, compliance, omnichannel fulfillment, and data
+    visibility.
   icon: fa-box
-  link: https://www.supplychain247.com/article/most-companies-say-their-supply-chains-work-the-data-says-otherwise
-  pub_date: '2026-06-12T13:17:00'
+  link: https://www.supplychain247.com/paper/how-should-warehouse-leaders-prepare-for-2026s-biggest-challenges
+  pub_date: '2026-06-12T14:32:00'
   source: Supply Chain 24/7
-  title: Most Companies Say Their Supply Chains Work. The Data Says Otherwise
+  title: How Should Warehouse Leaders Prepare for 2026’s Biggest Challenges?
 - category: supply-chain
-  description: Philadelphia was the only U.S. port to rank among the world's top 50
-    container ports in the newly released 2025 Container Port Performance Index.
+  description: Learn how 3PLs can improve inventory accuracy through process discipline,
+    visibility, automation, training, and communication to enhance customer satisfaction.
   icon: fa-box
-  link: https://www.supplychain247.com/article/only-one-u.s-port-makes-top-50-in-new-performance-index
-  pub_date: '2026-06-12T11:53:00'
+  link: https://www.supplychain247.com/article/how-can-3pls-improve-inventory-accuracy-and-customer-satisfaction
+  pub_date: '2026-06-12T13:22:00'
   source: Supply Chain 24/7
-  title: Only One U.S. Port Makes Top 50 in Global Performance Index
+  title: How Can 3PLs Improve Inventory Accuracy and Customer Satisfaction?
 - category: circular
   description: Refuse workers in Great Yarmouth are voting on whether to strike as
     part of a pay dispute with the local council. The post Refuse workers vote on
@@ -42,31 +129,6 @@ articles:
   pub_date: '2026-06-12T07:30:00'
   source: Circular Online
   title: Refuse workers vote on strike action in Great Yarmouth
-- category: supply-chain
-  description: Amazon again topped the annual U.S. and Global 3PL rankings as the
-    freight market showed signs of stabilizing in 2025.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-50-global-third-party-logistics-providers-ranking
-  pub_date: '2026-06-11T15:53:00'
-  source: Supply Chain 24/7
-  title: Ranking the Top 50 Global Third-Party Logistics Providers
-- category: supply-chain
-  description: A new survey found that businesses continue increasing AI spending
-    even as many IT leaders report costly mistakes, misuse, and growing employee dependence
-    on the technology.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-mistakes-business-impact-survey-it-leaders
-  pub_date: '2026-06-11T13:51:00'
-  source: Supply Chain 24/7
-  title: 1 in 4 IT Leaders Say AI Mistakes Have Hurt Their Business
-- category: supply-chain
-  description: Grocers and food suppliers are preparing for possible increases in
-    beef prices as concerns grow over the spread of New World screwworm.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/screwworm-threat-beef-supply-chain-grocers-protein-demand
-  pub_date: '2026-06-11T11:40:00'
-  source: Supply Chain 24/7
-  title: Screwworm Threat Raises New Concerns for Beef Supply Chain
 - category: circular
   description: More retailers will now be exempt from hosting a DRS return point,
     the scheme administrator Exchange for Change has announced. The post Exchange
@@ -76,39 +138,6 @@ articles:
   pub_date: '2026-06-11T11:06:37'
   source: Circular Online
   title: Exchange For Change expands retailer DRS return point exemptions
-- category: supply-chain
-  description: Sunstice launched Helios, a new AI layer designed to help supply chain
-    planning teams make faster decisions during ongoing disruptions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/sunstice-launches-helios-ai-supply-chain-planning
-  pub_date: '2026-06-11T06:51:00'
-  source: Supply Chain 24/7
-  title: Sunstice Unveils Helios to Speed Up Supply Chain Decisions
-- category: supply-chain
-  description: Learn how organizations can manage rising ecommerce return volumes,
-    reduce return-processing costs, improve inventory accuracy, and streamline reverse
-    logistics.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/what-is-the-best-way-to-manage-ecommerce-returns-at-scale
-  pub_date: '2026-06-10T18:44:00'
-  source: Supply Chain 24/7
-  title: What Is the Best Way to Manage Ecommerce Returns at Scale?
-- category: supply-chain
-  description: Survey data reveals how freight organizations are approaching AI agent
-    adoption, key operational use cases, adoption barriers, and workforce implications.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-freight-leaders-evaluate-ai-agent-adoption
-  pub_date: '2026-06-10T17:05:00'
-  source: Supply Chain 24/7
-  title: How Should Freight Leaders Evaluate AI Agent Adoption?
-- category: supply-chain
-  description: CrimsonLogic's Siddharth Priyesh says inaccurate product data and labeling
-    inconsistencies are creating growing customs, audit, and compliance risks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/product-labeling-customs-compliance-ai-trade-data
-  pub_date: '2026-06-10T16:11:00'
-  source: Supply Chain 24/7
-  title: Why Product Labeling Mistakes Are Becoming a Bigger Trade Risk
 - category: circular
   description: Waste management company Grundon has scored a major new contract to
     manage waste and recycling at the Tottenham Hotspur Stadium. The post Grundon
@@ -146,32 +175,4 @@ articles:
   pub_date: '2026-06-09T09:18:30'
   source: Circular Online
   title: Vape recycling doubles across Worcestershire in year after ban
-- category: circular
-  description: A Bristol-based waste and recycling business has been fined GBP64,666
-    after one of its employees was drawn into machinery and suffered life-changing
-    injuries. The post Waste and recycling company fine...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-and-recycling-company-fined-after-employee-suffers-life-changing-injuries/
-  pub_date: '2026-06-09T08:30:45'
-  source: Circular Online
-  title: Waste and recycling company fined after employee suffers life-changing injuries
-- category: circular
-  description: Climate communicators risk overwhelming people or placing too much
-    guilt on individuals if they fail to acknowledge the emotional impact of climate
-    change, according to Linda Aspey from the Climate Ps...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/climate-messaging-must-avoid-guilt-and-hopelessness-says-climate-psychology-alliance/
-  pub_date: '2026-06-08T11:19:08'
-  source: Circular Online
-  title: Climate messaging must avoid guilt and hopelessness, says Climate Psychology
-    Alliance
-- category: circular
-  description: Five people have been ordered to pay GBP6822 after they dumped the
-    remains of a cannabis farm in Neath Valley. The post Fly-tippers must pay GBP6822
-    after dumping cannabis farm in Neath appeared first...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/fly-tippers-must-pay-6822-after-dumping-cannabis-farm-in-neath/
-  pub_date: '2026-06-08T07:30:00'
-  source: Circular Online
-  title: Fly-tippers must pay £6822 after dumping cannabis farm in Neath
-last_updated: '2026-06-15T12:14:30.757440'
+last_updated: '2026-06-16T11:10:32.202790'

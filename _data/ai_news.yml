@@ -1,4 +1,22 @@
 articles:
+- category: ai-research
+  description: Google has announced a $1.5 billion investment for 2026 and 2027 to
+    expand its data center campus in Jackson County, Alabama. Operating since 2019
+    on a repurposed former...
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/
+  pub_date: '2026-06-15T15:00:00'
+  source: Google AI Blog
+  title: We’re strengthening our presence in Alabama through new investments and community
+    support.
+- category: machine-learning
+  description: In this article, we'll build time-series machine learning models in
+    Python using sktime and explore its core data structures for forecasting workflows.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-time-series-machine-learning-models-with-sktime-in-python
+  pub_date: '2026-06-15T14:00:02'
+  source: KDnuggets
+  title: Building Time-Series Machine Learning Models with sktime in Python
 - category: machine-learning
   description: 'In this article, we will walk through three essential Pandas tricks
     to clean and prepare your data efficiently: declarative method chaining, memory
@@ -127,14 +145,6 @@ articles:
   pub_date: '2026-06-09T12:00:57'
   source: KDnuggets
   title: 10 GitHub Repositories for Web Development in Python
-- category: machine-learning
-  description: Analyzing several reasons why structural content decay may happen when
-    asking LLMs to perform complex document editing for us.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/why-do-llms-corrupt-your-documents-when-you-delegate
-  pub_date: '2026-06-08T16:00:00'
-  source: KDnuggets
-  title: Why Do LLMs Corrupt Your Documents When You Delegate?
 - category: ai-research
   description: The MIT Ethics of Computing Research Symposium brought together experts
     and researchers working at the heart of ethical and social impact in technology.
@@ -242,12 +252,4 @@ articles:
   pub_date: '2026-05-22T18:00:00'
   source: Google AI Blog
   title: Catch up on the Dialogues stage at Google I/O 2026.
-- category: ai-research
-  description: We're helping build the state's next-generation workforce and investing
-    in energy programs.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/
-  pub_date: '2026-05-20T20:40:00'
-  source: Google AI Blog
-  title: We’re announcing new community investments in Missouri.
-last_updated: '2026-06-15T12:14:31.971237'
+last_updated: '2026-06-16T11:10:34.463096'
