@@ -1,5 +1,38 @@
 articles:
 - category: ai-research
+  description: A new spatial memory system for robots efficiently captures details
+    about the objects they see while exploring their environment.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617
+  pub_date: '2026-06-17T04:00:00'
+  source: MIT AI News
+  title: Could AI tell you where you left your keys?
+- category: ai-research
+  description: In its first year, INM has worked across research, workforce development,
+    and industry engagement to help accelerate new manufacturing technologies and
+    their real-world deployment.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616
+  pub_date: '2026-06-16T20:30:00'
+  source: MIT AI News
+  title: MIT’s Initiative for New Manufacturing builds momentum
+- category: machine-learning
+  description: A step-by-step path through the skills that turn a machine learning
+    practitioner into someone who ships large language model applications.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-roadmap-to-becoming-an-llm-engineer-in-2026
+  pub_date: '2026-06-16T14:00:11'
+  source: KDnuggets
+  title: The Roadmap to Becoming an LLM Engineer in 2026
+- category: machine-learning
+  description: In this article, you will learn how to replace pandas loops with 7
+    faster methods for optimized data processing.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/stop-writing-loops-in-pandas-7-faster-alternatives-to-try
+  pub_date: '2026-06-16T12:00:08'
+  source: KDnuggets
+  title: 'Stop Writing Loops in Pandas: 7 Faster Alternatives to Try'
+- category: ai-research
   description: Google has announced a $1.5 billion investment for 2026 and 2027 to
     expand its data center campus in Jackson County, Alabama. Operating since 2019
     on a repurposed former...
@@ -128,23 +161,6 @@ articles:
   pub_date: '2026-06-09T20:30:00'
   source: MIT AI News
   title: The consequences of relying on AI for accurate news
-- category: machine-learning
-  description: This article cuts through the 90,000 options to the seven models worth
-    your time in 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/best-free-image-generators-on-hugging-face-right-now
-  pub_date: '2026-06-09T14:00:10'
-  source: KDnuggets
-  title: Best Free Image Generators on Hugging Face Right Now!
-- category: machine-learning
-  description: Explore the best Python web development repositories for building APIs,
-    full-stack web apps, dashboards, machine learning demos, internal tools, and interactive
-    Python-based user interfaces.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-github-repositories-for-web-development-in-python
-  pub_date: '2026-06-09T12:00:57'
-  source: KDnuggets
-  title: 10 GitHub Repositories for Web Development in Python
 - category: ai-research
   description: The MIT Ethics of Computing Research Symposium brought together experts
     and researchers working at the heart of ethical and social impact in technology.
@@ -178,23 +194,6 @@ articles:
   source: MIT AI News
   title: NSF renews support for MIT-led AI and physics institute, expanding a new
     model for discovery
-- category: ai-research
-  description: MIT researchers use the classic game as a test bed for AI agents, finding
-    a small AI model can outperform the biggest ones at 1 percent of the cost.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603
-  pub_date: '2026-06-03T21:00:00'
-  source: MIT AI News
-  title: Teaching AI agents to ask better questions by playing “Battleship”
-- category: ai-research
-  description: The George Peabody Medal is the highest honor bestowed by the Peabody
-    Institute of the Johns Hopkins University.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603
-  pub_date: '2026-06-03T20:50:00'
-  source: MIT AI News
-  title: Tod Machover receives George Peabody Medal for contributions to music and
-    technology
 - category: ai-research
   description: A colorful, grain-textured collage of various items scattered across
     a light blue background. The items include a green bucket hat, a wooden clothes
@@ -252,4 +251,4 @@ articles:
   pub_date: '2026-05-22T18:00:00'
   source: Google AI Blog
   title: Catch up on the Dialogues stage at Google I/O 2026.
-last_updated: '2026-06-16T11:10:34.463096'
+last_updated: '2026-06-17T10:56:40.753963'
