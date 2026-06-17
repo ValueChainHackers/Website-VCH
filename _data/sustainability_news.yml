@@ -1,5 +1,47 @@
 articles:
 - category: circular
+  description: The UK will consume an estimated 2 billion canned drinks over the course
+    of the FIFA World Cup 2026, according to Recycle Now and Every Can Counts. The
+    post UK will consume 2 billion canned drinks ove...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-will-consume-2-billion-canned-drinks-over-the-fifa-world-cup/
+  pub_date: '2026-06-17T09:29:00'
+  source: Circular Online
+  title: UK will consume 2 billion canned drinks over the FIFA World Cup
+- category: supply-chain
+  description: A new L2L survey found many manufacturing supervisors still spend hours
+    each shift manually managing data despite rising investments in software and AI
+    tools.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturers-waste-hours-per-shift-on-manual-data-work
+  pub_date: '2026-06-16T15:28:00'
+  source: Supply Chain 24/7
+  title: Manufacturers Say Supervisors Waste 4 Hours Per Shift on Data
+- category: supply-chain
+  description: Southern Glazer's Karli Sage discusses sports, supply chain technology,
+    leadership and why AI conversations still need a reality check.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/women-in-supply-chain-karli-sage-southern-glazer
+  pub_date: '2026-06-16T14:30:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Karli Sage of Southern Glazer’s'
+- category: supply-chain
+  description: Two truck drivers have been charged for stealing $18,000 worth of Team
+    England World Cup gear while transporting the shipment to Kansas City.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/world-cup-shipment-theft-england-team-drivers-charged
+  pub_date: '2026-06-16T13:08:00'
+  source: Supply Chain 24/7
+  title: Two Drivers Charged After World Cup Merchandise Disappears
+- category: supply-chain
+  description: A new DHL survey shows SMEs remain confident about 2026, but tariffs
+    and rising costs are forcing companies to raise prices and rethink expansion plans.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-sme-survey-2026-tariffs-ai-expansion-costs
+  pub_date: '2026-06-16T12:56:00'
+  source: Supply Chain 24/7
+  title: Most Small Businesses Still Confident About 2026 Despite Tariffs
+- category: circular
   description: The UK government has said it intends to publish its delayed Circular
     Economy Growth Plan "soon", but has not given a firm publication date. In a written
     parliamentary answer published on 15 June, Def...
@@ -27,6 +69,14 @@ articles:
   pub_date: '2026-06-16T08:04:42'
   source: Circular Online
   title: UK risks losing critical aluminium scrap to overseas markets, Make UK warns
+- category: supply-chain
+  description: CMA CGM plans to acquire Crystal Aero Solutions to support the continued
+    growth of its air cargo business and expanding freighter fleet.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cma-cgm-crystal-aero-air-cargo-maintenance-deal
+  pub_date: '2026-06-16T01:15:00'
+  source: Supply Chain 24/7
+  title: CMA CGM Expands Air Cargo Push With Maintenance Deal
 - category: supply-chain
   description: A House committee advanced a $580 Billion transportation bill that
     includes several trucking and freight provisions.
@@ -68,14 +118,6 @@ articles:
   pub_date: '2026-06-15T13:11:00'
   source: Supply Chain 24/7
   title: USDOT Unveils American Supply Chain Sovereignty Initiative
-- category: supply-chain
-  description: The Strait of Hormuz disruption showed that many supply chains still
-    lack the connected data needed for AI-driven decision-making during a crisis.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-ai-data-strategy-strait-of-hormuz
-  pub_date: '2026-06-15T12:14:00'
-  source: Supply Chain 24/7
-  title: Why AI Still Struggles During Major Supply Chain Disruptions
 - category: circular
   description: Irish consumers recycled a record 21.1 million electronic and electrical
     waste items in 2025, but Ireland still fell short of the EU's e-waste collection
@@ -86,40 +128,6 @@ articles:
   source: Circular Online
   title: Ireland records highest ever e-waste recycling total but misses EU collection
     target
-- category: supply-chain
-  description: Learn how serialization improves supply chain traceability, reduces
-    counterfeit risk, protects brands, and supports recalls through track-and-trace
-    visibility.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/the-business-case-for-serialization-beyond-pharmaceuticals
-  pub_date: '2026-06-12T16:11:00'
-  source: Supply Chain 24/7
-  title: The Business Case for Serialization Beyond Pharmaceuticals
-- category: supply-chain
-  description: As tariff policies continue to shift, suppliers are increasingly facing
-    customer requests for refunds and pricing adjustments tied to tariff-related savings.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tariff-refund-requests-what-suppliers-need-to-know
-  pub_date: '2026-06-12T15:06:00'
-  source: Supply Chain 24/7
-  title: 'Tariff Refund Requests: What Suppliers Need to Know'
-- category: supply-chain
-  description: Learn the top warehouse management challenges for 2026, including labor
-    shortages, automation planning, compliance, omnichannel fulfillment, and data
-    visibility.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-warehouse-leaders-prepare-for-2026s-biggest-challenges
-  pub_date: '2026-06-12T14:32:00'
-  source: Supply Chain 24/7
-  title: How Should Warehouse Leaders Prepare for 2026’s Biggest Challenges?
-- category: supply-chain
-  description: Learn how 3PLs can improve inventory accuracy through process discipline,
-    visibility, automation, training, and communication to enhance customer satisfaction.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-can-3pls-improve-inventory-accuracy-and-customer-satisfaction
-  pub_date: '2026-06-12T13:22:00'
-  source: Supply Chain 24/7
-  title: How Can 3PLs Improve Inventory Accuracy and Customer Satisfaction?
 - category: circular
   description: Refuse workers in Great Yarmouth are voting on whether to strike as
     part of a pay dispute with the local council. The post Refuse workers vote on
@@ -166,13 +174,4 @@ articles:
   pub_date: '2026-06-10T07:52:17'
   source: Circular Online
   title: UK risks collecting more plastic than it can recycle, research warns
-- category: circular
-  description: Vape recycling across Worcestershire has almost doubled in a year following
-    the disposable vape ban, new figures from Worcestershire County Council show.
-    The post Vape recycling doubles across Worcest...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/vape-recycling-doubles-across-worcestershire-in-year-after-ban/
-  pub_date: '2026-06-09T09:18:30'
-  source: Circular Online
-  title: Vape recycling doubles across Worcestershire in year after ban
-last_updated: '2026-06-16T11:10:32.202790'
+last_updated: '2026-06-17T10:56:35.066914'
