@@ -1,4 +1,39 @@
 articles:
+- category: supply-chain
+  description: Schneider Electric held the No. 1 position in Gartner's 2026 Global
+    Supply Chain Top 25 ranking, while Walmart rose 10 spots to third place.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-2026-global-supply-chain-top-25-rankings
+  pub_date: '2026-06-17T16:39:00'
+  source: Supply Chain 24/7
+  title: Gartner Unveils 2026 Top 25 Supply Chain Rankings
+- category: supply-chain
+  description: Matt Cartwright, Magnus Technologies CEO, on how carriers can reduce
+    empty miles, improve fuel surcharge recovery and protect margins as diesel prices
+    rise.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fuel-costs-empty-miles-fuel-surcharges-matt-cartwright
+  pub_date: '2026-06-17T13:31:00'
+  source: Supply Chain 24/7
+  title: Why Rising Diesel Prices Expose a Cost Many Fleets Don’t Track
+- category: supply-chain
+  description: Mobile robots are becoming a bigger part of warehouse operations as
+    software, integration, lift truck automation, and AI change how they work on the
+    floor.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/6-mobile-robot-trends-changing-warehouse-operations
+  pub_date: '2026-06-17T13:28:00'
+  source: Supply Chain 24/7
+  title: Six Trends Changing How Mobile Robots Work in Warehouses
+- category: circular
+  description: Fibre-based composite (FBC) packaging producers may have been 'significantly
+    overcharged' as part of the packaging Extended Producer Responsibility (pEPR)
+    scheme, new analysis finds. The post Composit...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/composite-packaging-producers-potentially-overcharged-millions-under-pepr/
+  pub_date: '2026-06-17T11:53:47'
+  source: Circular Online
+  title: Composite packaging producers potentially overcharged millions under pEPR
 - category: circular
   description: The UK will consume an estimated 2 billion canned drinks over the course
     of the FIFA World Cup 2026, according to Recycle Now and Every Can Counts. The
@@ -93,31 +128,6 @@ articles:
   pub_date: '2026-06-15T13:36:00'
   source: Supply Chain 24/7
   title: How Should Growing Warehouses Choose a WMS That Scales?
-- category: supply-chain
-  description: Trimble launched a new AI-powered transportation management system
-    designed to help shippers and logistics providers manage freight through a customizable
-    cloud-based platform.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trimble-launches-ai-powered-shipper-tms
-  pub_date: '2026-06-15T13:27:00'
-  source: Supply Chain 24/7
-  title: Trimble Launches New AI-Powered TMS for North American Shippers
-- category: supply-chain
-  description: Gartner says demand for supply chain workers with AI skills has surged
-    387% since 2023, intensifying competition for experienced talent.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-ai-supply-chain-talent-demand-2026
-  pub_date: '2026-06-15T13:17:00'
-  source: Supply Chain 24/7
-  title: 'Gartner: AI Hiring in Supply Chain Jumped 387% Since 2023'
-- category: supply-chain
-  description: USDOT unveiled a new freight visibility initiative designed to improve
-    supply chain coordination and reduce cargo delays across the U.S.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/duffy-usdot-supply-chain-sovereignty-initiative
-  pub_date: '2026-06-15T13:11:00'
-  source: Supply Chain 24/7
-  title: USDOT Unveils American Supply Chain Sovereignty Initiative
 - category: circular
   description: Irish consumers recycled a record 21.1 million electronic and electrical
     waste items in 2025, but Ireland still fell short of the EU's e-waste collection
@@ -165,13 +175,4 @@ articles:
   source: Circular Online
   title: Nitrous oxide canisters caused £4.7m in damage to Veolia EfW facilities since
     2023
-- category: circular
-  description: Britain risks collecting more plastic for recycling than it can process
-    domestically unless 'urgent action' is taken to rebuild UK recycling infrastructure,
-    new research finds. The post UK risks colle...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-risks-collecting-more-plastic-than-it-can-recycle-research-warns/
-  pub_date: '2026-06-10T07:52:17'
-  source: Circular Online
-  title: UK risks collecting more plastic than it can recycle, research warns
-last_updated: '2026-06-17T10:56:35.066914'
+last_updated: '2026-06-18T10:20:33.676390'
