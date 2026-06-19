@@ -1,4 +1,23 @@
 articles:
+- category: machine-learning
+  description: LATERAL joins let a subquery in the FROM clause reference columns from
+    earlier in the same FROM clause. Semi joins return rows where a match exists in
+    another table, without duplicating those rows. An...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/advanced-join-techniques-lateral-joins-semi-joins-anti-joins
+  pub_date: '2026-06-18T14:00:18'
+  source: KDnuggets
+  title: 'Advanced Join Techniques: LATERAL Joins, Semi Joins, Anti Joins'
+- category: ai-research
+  description: Leaders, faculty across MIT discuss fostering innovation and talent
+    in Greater Boston in special series of articles published alongside the outlet's
+    annual list of 'Tech Power Players'
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead
+  pub_date: '2026-06-18T04:00:00'
+  source: MIT AI News
+  title: 'MIT in the media: For the future of tech, "Massachusetts can absolutely
+    lead"'
 - category: ai-research
   description: Researchers show that for certain kinds of games, an overlooked class
     of algorithms performs much better than expected.
@@ -153,14 +172,6 @@ articles:
   pub_date: '2026-06-11T14:00:23'
   source: KDnuggets
   title: 'Feature Stores from Scratch: A Minimal Working Implementation'
-- category: machine-learning
-  description: Need money for your startup? These 7 funding options can help you get
-    started, grow faster, and avoid common fundraising mistakes.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-best-ways-to-get-funding-for-your-startup-idea
-  pub_date: '2026-06-11T12:00:22'
-  source: KDnuggets
-  title: 7 Best Ways to Get Funding for Your Startup Idea
 - category: ai-research
   description: Founded by two researchers from MIT, Ferveret reduces the amount of
     energy and water required to cool the chips that power AI.
@@ -192,15 +203,6 @@ articles:
   pub_date: '2026-06-05T14:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in May 2026
-- category: ai-research
-  description: MIT RAISE and Georgia State University announce an initiative to connect
-    universities, community colleges, industry, and government to expand industry-aligned
-    AI training and career pathways.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604
-  pub_date: '2026-06-04T19:50:00'
-  source: MIT AI News
-  title: PATH to boost AI training and career opportunities for industry-aligned jobs
 - category: ai-research
   description: A colorful, grain-textured collage of various items scattered across
     a light blue background. The items include a green bucket hat, a wooden clothes
@@ -250,4 +252,4 @@ articles:
   pub_date: '2026-05-28T15:00:00'
   source: Google AI Blog
   title: Catch up on 12 major I/O 2026 moments
-last_updated: '2026-06-18T10:20:34.876087'
+last_updated: '2026-06-19T10:26:24.162398'

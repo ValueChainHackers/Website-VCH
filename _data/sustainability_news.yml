@@ -1,4 +1,47 @@
 articles:
+- category: circular
+  description: A clinical waste management company has been fined over GBP300,000
+    after an 18-year-old employee fractured his leg while loading a bin conveyor.
+    The post Waste company fined GBP300,000 after teenage e...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-company-fined-300000-after-teenage-employee-fractures-leg/
+  pub_date: '2026-06-19T07:30:00'
+  source: Circular Online
+  title: Waste company fined £300,000 after teenage employee fractures leg
+- category: supply-chain
+  description: UPS is expanding AI across customer service, shipment visibility and
+    international shipping as it modernizes its global logistics network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-unveils-new-ai-tools-for-tracking-returns-and-customs-services
+  pub_date: '2026-06-18T15:07:00'
+  source: Supply Chain 24/7
+  title: UPS Unveils New AI Tools for Tracking, Returns and Customer Service
+- category: supply-chain
+  description: The 2026 State of Logistics Report warns that repeated reactions to
+    tariffs and other disruptions are creating a new supply chain risk called "network
+    drift."
+  icon: fa-box
+  link: https://www.supplychain247.com/article/state-of-logistics-report-network-drift-supply-chain-risk
+  pub_date: '2026-06-18T14:37:00'
+  source: Supply Chain 24/7
+  title: State of Logistics Report Warns of Growing ‘Network Drift’ Risk
+- category: supply-chain
+  description: Descartes found U.S. imports departing from Hormuz-affected ports fell
+    93.2% in May, with fuel and fertilizer posting some of the biggest declines.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hormuz-closure-drives-93-percent-drop-in-us-bound-imports
+  pub_date: '2026-06-18T13:50:00'
+  source: Supply Chain 24/7
+  title: Hormuz Closure Drives 93% Drop in U.S.-Bound Imports
+- category: circular
+  description: New CIWM President Vicki Hughes is calling on organisations across
+    the resources and waste sector to sign the Think Again Pledge and commit to transforming
+    perceptions of the industry with job seekers...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-ciwm-president-calls-for-sector-to-think-again-on-recruitment/
+  pub_date: '2026-06-18T10:20:37'
+  source: Circular Online
+  title: New CIWM President calls for sector to ‘Think Again’ on recruitment
 - category: supply-chain
   description: Schneider Electric held the No. 1 position in Gartner's 2026 Global
     Supply Chain Top 25 ranking, while Walmart rose 10 spots to third place.
@@ -104,30 +147,6 @@ articles:
   pub_date: '2026-06-16T08:04:42'
   source: Circular Online
   title: UK risks losing critical aluminium scrap to overseas markets, Make UK warns
-- category: supply-chain
-  description: CMA CGM plans to acquire Crystal Aero Solutions to support the continued
-    growth of its air cargo business and expanding freighter fleet.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cma-cgm-crystal-aero-air-cargo-maintenance-deal
-  pub_date: '2026-06-16T01:15:00'
-  source: Supply Chain 24/7
-  title: CMA CGM Expands Air Cargo Push With Maintenance Deal
-- category: supply-chain
-  description: A House committee advanced a $580 Billion transportation bill that
-    includes several trucking and freight provisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/congress-580b-highway-bill-truck-parking-freight
-  pub_date: '2026-06-15T17:33:00'
-  source: Supply Chain 24/7
-  title: New Transportation Bill Comes With a 5-Year, $580 Billion Price Tag
-- category: supply-chain
-  description: Learn how growing warehouses can overcome rigid workflows, IT bottlenecks,
-    manual processes, and compliance challenges with a flexible WMS approach.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-growing-warehouses-choose-a-wms-that-scales
-  pub_date: '2026-06-15T13:36:00'
-  source: Supply Chain 24/7
-  title: How Should Growing Warehouses Choose a WMS That Scales?
 - category: circular
   description: Irish consumers recycled a record 21.1 million electronic and electrical
     waste items in 2025, but Ireland still fell short of the EU's e-waste collection
@@ -156,23 +175,4 @@ articles:
   pub_date: '2026-06-11T11:06:37'
   source: Circular Online
   title: Exchange For Change expands retailer DRS return point exemptions
-- category: circular
-  description: Waste management company Grundon has scored a major new contract to
-    manage waste and recycling at the Tottenham Hotspur Stadium. The post Grundon
-    scores recycling contract at Tottenham Hotspur Stadium...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/grundon-scores-recycling-contract-at-tottenham-hotspur-stadium/
-  pub_date: '2026-06-10T11:22:39'
-  source: Circular Online
-  title: Grundon scores recycling contract at Tottenham Hotspur Stadium
-- category: circular
-  description: Nitrous oxide cannisters caused over GBP4.7 million in damage to Veolia's
-    Energy-from-Waste (EfW) facilities across the UK since 2023. The post Nitrous
-    oxide canisters caused GBP4.7m in damage to Veol...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/nitrous-oxide-cannisters-cause-4-7m-in-damage-to-efw-facilities/
-  pub_date: '2026-06-10T09:39:04'
-  source: Circular Online
-  title: Nitrous oxide canisters caused £4.7m in damage to Veolia EfW facilities since
-    2023
-last_updated: '2026-06-18T10:20:33.676390'
+last_updated: '2026-06-19T10:26:23.138917'
