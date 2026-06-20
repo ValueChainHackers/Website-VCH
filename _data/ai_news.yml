@@ -1,4 +1,36 @@
 articles:
+- category: ai-research
+  description: MIT researchers' approach captures subtle atomic patterns, improving
+    predictions of material properties.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619
+  pub_date: '2026-06-19T18:00:00'
+  source: MIT AI News
+  title: A better way to model the behavior of metal alloys
+- category: machine-learning
+  description: This is a simple guide to understanding loss functions in machine learning
+    and how models learn from their mistakes.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/noob-series-loss-function-explained-how-models-know-they-are-wrong
+  pub_date: '2026-06-19T14:00:34'
+  source: KDnuggets
+  title: Loss Function Explained For Noobs (How Models Know They Are Wrong)
+- category: machine-learning
+  description: In this article, we'll cover essential SQL patterns and workflows that
+    make everyday data analysis cleaner, faster, and easier to scale.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/practical-sql-tricks-every-data-scientist-should-know
+  pub_date: '2026-06-19T12:00:46'
+  source: KDnuggets
+  title: Practical SQL Tricks Every Data Scientist Should Know
+- category: machine-learning
+  description: Master these tips, and your dictionary code will become shorter, safer,
+    and easier to read.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/python-dictionary-tips-and-tricks-you-should-always-remember
+  pub_date: '2026-06-19T12:00:12'
+  source: KDnuggets
+  title: Python Dictionary Tips and Tricks You Should Always Remember
 - category: machine-learning
   description: LATERAL joins let a subquery in the FROM clause reference columns from
     earlier in the same FROM clause. Semi joins return rows where a match exists in
@@ -110,24 +142,6 @@ articles:
   pub_date: '2026-06-15T12:00:35'
   source: KDnuggets
   title: 3 Pandas Tricks for Data Cleaning & Preparation
-- category: machine-learning
-  description: 'Local models in 2026 are good enough. For the tasks Claude Code handles
-    daily: code completion, refactoring, debugging, codebase explanation; a well-chosen
-    quantized model running locally covers the v...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/pairing-claude-code-with-local-models
-  pub_date: '2026-06-12T14:00:59'
-  source: KDnuggets
-  title: Pairing Claude Code with Local Models
-- category: machine-learning
-  description: 'In this article, we will cover three essential NumPy tricks to optimize
-    your code: vectorization and broadcasting, in-place operations, and leveraging
-    memory views instead of copies.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-numpy-tricks-for-numerical-performance
-  pub_date: '2026-06-12T12:00:36'
-  source: KDnuggets
-  title: 3 NumPy Tricks for Numerical Performance
 - category: ai-research
   description: An expert in behavioral science and transportation, Zhao combines these
     studies with AI and public policy to address some of the most urgent challenges
@@ -164,14 +178,6 @@ articles:
   pub_date: '2026-06-11T17:30:00'
   source: MIT AI News
   title: MIT affiliates win 2026 Hertz Foundation Fellowships
-- category: machine-learning
-  description: Build the five components every feature store needs, then see where
-    AI changes the design.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/feature-stores-from-scratch-a-minimal-working-implementation
-  pub_date: '2026-06-11T14:00:23'
-  source: KDnuggets
-  title: 'Feature Stores from Scratch: A Minimal Working Implementation'
 - category: ai-research
   description: Founded by two researchers from MIT, Ferveret reduces the amount of
     energy and water required to cool the chips that power AI.
@@ -188,14 +194,6 @@ articles:
   pub_date: '2026-06-09T20:30:00'
   source: MIT AI News
   title: The consequences of relying on AI for accurate news
-- category: ai-research
-  description: The MIT Ethics of Computing Research Symposium brought together experts
-    and researchers working at the heart of ethical and social impact in technology.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605
-  pub_date: '2026-06-05T20:10:00'
-  source: MIT AI News
-  title: The crucial human component in computing and AI
 - category: ai-research
   description: May AI recap
   icon: fa-google
@@ -252,4 +250,4 @@ articles:
   pub_date: '2026-05-28T15:00:00'
   source: Google AI Blog
   title: Catch up on 12 major I/O 2026 moments
-last_updated: '2026-06-19T10:26:24.162398'
+last_updated: '2026-06-20T08:56:52.463598'

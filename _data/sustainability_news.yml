@@ -1,4 +1,46 @@
 articles:
+- category: supply-chain
+  description: Learn how traceability, connected networks, and supply chain visibility
+    help organizations reduce risk, improve compliance, and protect brand integrity.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/what-is-the-best-way-to-improve-supply-chain-transparency-and-compliance
+  pub_date: '2026-06-19T16:01:00'
+  source: Supply Chain 24/7
+  title: What Is the Best Way to Improve Supply Chain Transparency and Compliance?
+- category: supply-chain
+  description: A new U.S.-Iran agreement could reopen the Strait of Hormuz, bringing
+    potential relief to fuel, freight and global supply chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/strait-of-hormuz-reopens-supply-chain-recovery
+  pub_date: '2026-06-19T14:37:00'
+  source: Supply Chain 24/7
+  title: Strait of Hormuz Reopens, But Supply Chain Recovery Could Take Months
+- category: supply-chain
+  description: Florida has begun construction on five projects that will add 917 truck
+    parking spaces along Interstate 4 as officials work to address a longstanding
+    shortage that affects driver safety and freight ef...
+  icon: fa-box
+  link: https://www.supplychain247.com/article/florida-launches-major-truck-parking-expansion
+  pub_date: '2026-06-19T14:13:00'
+  source: Supply Chain 24/7
+  title: Florida Adds Nearly 1,000 Truck Parking Spaces to Busy I-4 Corridor
+- category: supply-chain
+  description: Burlington is expanding its distribution network with a nearly 2-million-square-foot
+    facility in Georgia, near the Port of Savannah.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/burlington-georgia-distribution-center-store-growth
+  pub_date: '2026-06-19T13:11:00'
+  source: Supply Chain 24/7
+  title: Burlington Opens Georgia Distribution Center as Store Growth Continues
+- category: supply-chain
+  description: Futurist Jonathan Brill told Zebra Zone attendees that AI could shift
+    more decision-making to frontline workers, forcing companies to rethink traditional
+    management structures.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/octopus-organization-ai-frontline-decision-making-zebra-zone
+  pub_date: '2026-06-19T10:28:00'
+  source: Supply Chain 24/7
+  title: 'The ‘Octopus Organization’: How AI Could Change Who Makes Decisions'
 - category: circular
   description: A clinical waste management company has been fined over GBP300,000
     after an 18-year-old employee fractured his leg while loading a bin conveyor.
@@ -15,7 +57,7 @@ articles:
   link: https://www.supplychain247.com/article/ups-unveils-new-ai-tools-for-tracking-returns-and-customs-services
   pub_date: '2026-06-18T15:07:00'
   source: Supply Chain 24/7
-  title: UPS Unveils New AI Tools for Tracking, Returns and Customer Service
+  title: UPS Rolls Out New AI Tools for Tracking, Returns and Customer Service
 - category: supply-chain
   description: The 2026 State of Logistics Report warns that repeated reactions to
     tariffs and other disruptions are creating a new supply chain risk called "network
@@ -59,15 +101,6 @@ articles:
   pub_date: '2026-06-17T13:31:00'
   source: Supply Chain 24/7
   title: Why Rising Diesel Prices Expose a Cost Many Fleets Don’t Track
-- category: supply-chain
-  description: Mobile robots are becoming a bigger part of warehouse operations as
-    software, integration, lift truck automation, and AI change how they work on the
-    floor.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/6-mobile-robot-trends-changing-warehouse-operations
-  pub_date: '2026-06-17T13:28:00'
-  source: Supply Chain 24/7
-  title: Six Trends Changing How Mobile Robots Work in Warehouses
 - category: circular
   description: Fibre-based composite (FBC) packaging producers may have been 'significantly
     overcharged' as part of the packaging Extended Producer Responsibility (pEPR)
@@ -86,39 +119,6 @@ articles:
   pub_date: '2026-06-17T09:29:00'
   source: Circular Online
   title: UK will consume 2 billion canned drinks over the FIFA World Cup
-- category: supply-chain
-  description: A new L2L survey found many manufacturing supervisors still spend hours
-    each shift manually managing data despite rising investments in software and AI
-    tools.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturers-waste-hours-per-shift-on-manual-data-work
-  pub_date: '2026-06-16T15:28:00'
-  source: Supply Chain 24/7
-  title: Manufacturers Say Supervisors Waste 4 Hours Per Shift on Data
-- category: supply-chain
-  description: Southern Glazer's Karli Sage discusses sports, supply chain technology,
-    leadership and why AI conversations still need a reality check.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/women-in-supply-chain-karli-sage-southern-glazer
-  pub_date: '2026-06-16T14:30:00'
-  source: Supply Chain 24/7
-  title: 'Women in Supply Chain: Karli Sage of Southern Glazer’s'
-- category: supply-chain
-  description: Two truck drivers have been charged for stealing $18,000 worth of Team
-    England World Cup gear while transporting the shipment to Kansas City.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/world-cup-shipment-theft-england-team-drivers-charged
-  pub_date: '2026-06-16T13:08:00'
-  source: Supply Chain 24/7
-  title: Two Drivers Charged After World Cup Merchandise Disappears
-- category: supply-chain
-  description: A new DHL survey shows SMEs remain confident about 2026, but tariffs
-    and rising costs are forcing companies to raise prices and rethink expansion plans.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-sme-survey-2026-tariffs-ai-expansion-costs
-  pub_date: '2026-06-16T12:56:00'
-  source: Supply Chain 24/7
-  title: Most Small Businesses Still Confident About 2026 Despite Tariffs
 - category: circular
   description: The UK government has said it intends to publish its delayed Circular
     Economy Growth Plan "soon", but has not given a firm publication date. In a written
@@ -175,4 +175,4 @@ articles:
   pub_date: '2026-06-11T11:06:37'
   source: Circular Online
   title: Exchange For Change expands retailer DRS return point exemptions
-last_updated: '2026-06-19T10:26:23.138917'
+last_updated: '2026-06-20T08:56:51.208116'
