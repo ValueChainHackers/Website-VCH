@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: The Flexible Plastic Fund (FPF) has launched its FlexCircular initiative,
+    which aims to further accelerate the UK's transition to a circular economy for
+    flexible plastic packaging. The post Flexible P...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/flexible-plastic-fund-launches-flexcircular-initiative/
+  pub_date: '2026-06-22T10:14:12'
+  source: Circular Online
+  title: Flexible Plastic Fund launches ‘FlexCircular’ initiative
 - category: supply-chain
   description: Learn how traceability, connected networks, and supply chain visibility
     help organizations reduce risk, improve compliance, and protect brand integrity.
@@ -166,13 +175,4 @@ articles:
   pub_date: '2026-06-12T07:30:00'
   source: Circular Online
   title: Refuse workers vote on strike action in Great Yarmouth
-- category: circular
-  description: More retailers will now be exempt from hosting a DRS return point,
-    the scheme administrator Exchange for Change has announced. The post Exchange
-    For Change expands retailer DRS return point exemptions...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/exchange-for-change-expands-retailer-drs-return-point-exemptions/
-  pub_date: '2026-06-11T11:06:37'
-  source: Circular Online
-  title: Exchange For Change expands retailer DRS return point exemptions
-last_updated: '2026-06-21T09:50:19.928442'
+last_updated: '2026-06-22T11:54:44.223414'
