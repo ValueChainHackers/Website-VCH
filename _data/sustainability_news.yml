@@ -1,5 +1,57 @@
 articles:
 - category: circular
+  description: A team from recycling not-for-profit, Every Can Counts, is taking part
+    in Red Bull's famous Soapbox Race this weekend. The post Every Can Counts takes
+    on Red Bull Soapbox race to inspire recycling app...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/every-can-counts-takes-on-red-bull-soapbox-race-to-inspire-recycling/
+  pub_date: '2026-06-23T08:27:28'
+  source: Circular Online
+  title: Every Can Counts takes on Red Bull Soapbox race to inspire recycling
+- category: circular
+  description: With the FIFA World Cup set to generate an estimated 156 tonnes of
+    single-use plastic waste, 74% of people in the UK have said they want plastic-free
+    packaging at events this summer. The post FIFA Wor...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/fifa-world-cup-2026-74-of-brits-want-plastic-free-packaging-at-events/
+  pub_date: '2026-06-23T07:49:44'
+  source: Circular Online
+  title: 'FIFA World Cup 2026: 74% of Brits want plastic-free packaging at events'
+- category: supply-chain
+  description: JD.com founder Richard Liu says robots will eventually replace the
+    company's 700,000 delivery workers while retraining employees for robot maintenance
+    roles.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/robots-replace-delivery-workers-jd-com-founder
+  pub_date: '2026-06-22T14:51:00'
+  source: Supply Chain 24/7
+  title: Robots Will Replace 700,000 Delivery Workers, JD.com Founder Says
+- category: supply-chain
+  description: Growing reliance on AI, automation, and connected systems is making
+    semiconductor visibility a critical part of supply chain resilience.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-semiconductor-visibility-matters-more-than-ever-to-supply-chains
+  pub_date: '2026-06-22T13:44:00'
+  source: Supply Chain 24/7
+  title: Why Semiconductor Visibility Is Becoming a Supply Chain Priority
+- category: supply-chain
+  description: C.H. Robinson has expanded BidboardX to more than 83,000 contract carriers,
+    giving them direct access to search, bid, and book freight through Navisphere
+    Carrier.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ch-robinson-expands-bidboardx-to-83000-carriers
+  pub_date: '2026-06-22T13:03:00'
+  source: Supply Chain 24/7
+  title: C.H. Robinson Expands BidboardX to More Than 83,000 Carriers
+- category: supply-chain
+  description: Nestl USA opened a 700,000-square-foot distribution center in Arvin,
+    California, backed by more than $330 million in investment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nestle-opens-arvin-california-distribution-center
+  pub_date: '2026-06-22T12:59:00'
+  source: Supply Chain 24/7
+  title: Nestlé Opens $330 Million Distribution Center in California
+- category: circular
   description: The Flexible Plastic Fund (FPF) has launched its FlexCircular initiative,
     which aims to further accelerate the UK's transition to a circular economy for
     flexible plastic packaging. The post Flexible P...
@@ -67,23 +119,6 @@ articles:
   pub_date: '2026-06-18T15:07:00'
   source: Supply Chain 24/7
   title: UPS Rolls Out New AI Tools for Tracking, Returns and Customer Service
-- category: supply-chain
-  description: The 2026 State of Logistics Report warns that repeated reactions to
-    tariffs and other disruptions are creating a new supply chain risk called "network
-    drift."
-  icon: fa-box
-  link: https://www.supplychain247.com/article/state-of-logistics-report-network-drift-supply-chain-risk
-  pub_date: '2026-06-18T14:37:00'
-  source: Supply Chain 24/7
-  title: State of Logistics Report Warns of Growing ‘Network Drift’ Risk
-- category: supply-chain
-  description: Descartes found U.S. imports departing from Hormuz-affected ports fell
-    93.2% in May, with fuel and fertilizer posting some of the biggest declines.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hormuz-closure-drives-93-percent-drop-in-us-bound-imports
-  pub_date: '2026-06-18T13:50:00'
-  source: Supply Chain 24/7
-  title: Hormuz Closure Drives 93% Drop in U.S.-Bound Imports
 - category: circular
   description: New CIWM President Vicki Hughes is calling on organisations across
     the resources and waste sector to sign the Think Again Pledge and commit to transforming
@@ -93,23 +128,6 @@ articles:
   pub_date: '2026-06-18T10:20:37'
   source: Circular Online
   title: New CIWM President calls for sector to ‘Think Again’ on recruitment
-- category: supply-chain
-  description: Schneider Electric held the No. 1 position in Gartner's 2026 Global
-    Supply Chain Top 25 ranking, while Walmart rose 10 spots to third place.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-2026-global-supply-chain-top-25-rankings
-  pub_date: '2026-06-17T16:39:00'
-  source: Supply Chain 24/7
-  title: Gartner Unveils 2026 Top 25 Supply Chain Rankings
-- category: supply-chain
-  description: Matt Cartwright, Magnus Technologies CEO, on how carriers can reduce
-    empty miles, improve fuel surcharge recovery and protect margins as diesel prices
-    rise.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fuel-costs-empty-miles-fuel-surcharges-matt-cartwright
-  pub_date: '2026-06-17T13:31:00'
-  source: Supply Chain 24/7
-  title: Why Rising Diesel Prices Expose a Cost Many Fleets Don’t Track
 - category: circular
   description: Fibre-based composite (FBC) packaging producers may have been 'significantly
     overcharged' as part of the packaging Extended Producer Responsibility (pEPR)
@@ -156,23 +174,4 @@ articles:
   pub_date: '2026-06-16T08:04:42'
   source: Circular Online
   title: UK risks losing critical aluminium scrap to overseas markets, Make UK warns
-- category: circular
-  description: Irish consumers recycled a record 21.1 million electronic and electrical
-    waste items in 2025, but Ireland still fell short of the EU's e-waste collection
-    target, according to new data from WEEE Irelan...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ireland-records-highest-ever-e-waste-recycling-total-but-misses-eu-collection-target/
-  pub_date: '2026-06-15T11:52:03'
-  source: Circular Online
-  title: Ireland records highest ever e-waste recycling total but misses EU collection
-    target
-- category: circular
-  description: Refuse workers in Great Yarmouth are voting on whether to strike as
-    part of a pay dispute with the local council. The post Refuse workers vote on
-    strike action in Great Yarmouth appeared first on Circ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/refuse-workers-vote-on-strike-action-in-great-yarmouth/
-  pub_date: '2026-06-12T07:30:00'
-  source: Circular Online
-  title: Refuse workers vote on strike action in Great Yarmouth
-last_updated: '2026-06-22T11:54:44.223414'
+last_updated: '2026-06-23T09:39:14.951584'
