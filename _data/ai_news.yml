@@ -1,5 +1,41 @@
 articles:
 - category: ai-research
+  description: Researchers combined an efficient algorithm with dedicated hardware
+    to rapidly generate 3D maps for navigation using minimal memory and power.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
+  pub_date: '2026-06-23T04:00:00'
+  source: MIT AI News
+  title: New chip could help tiny robots traverse complex environments
+- category: machine-learning
+  description: An in-depth review of ChatLLM by Abacus AI, covering supported AI models,
+    AI agents, coding tools, integrations, pricing, usage limits, and how it compares
+    to ChatGPT.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/06/abacus/abacus-ai-chatllm-review
+  pub_date: '2026-06-22T17:00:54'
+  source: KDnuggets
+  title: 'ChatLLM by Abacus AI Review: A Multi-Model AI Workspace Built for Daily
+    Work'
+- category: machine-learning
+  description: Agentic AI is not failing because the technology is bad. It is failing
+    because of five specific misconceptions that teams carry into their first deployments
+    and each one is correctable.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/heres-what-everyone-gets-wrong-about-agentic-ai
+  pub_date: '2026-06-22T14:00:04'
+  source: KDnuggets
+  title: Here’s What Everyone Gets Wrong About Agentic AI
+- category: machine-learning
+  description: 'In this article, we will walk through three essential NLTK tricks
+    to elevate your text preprocessing: preserving phrase integrity with the MWETokenizer,
+    context-aware lemmatization with POS mapping, a...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-nltk-tricks-for-advanced-text-preprocessing-linguistic-analysis
+  pub_date: '2026-06-22T12:00:18'
+  source: KDnuggets
+  title: 3 NLTK Tricks for Advanced Text Preprocessing & Linguistic Analysis
+- category: ai-research
   description: MIT researchers' approach captures subtle atomic patterns, improving
     predictions of material properties.
   icon: fa-graduation-cap
@@ -107,14 +143,6 @@ articles:
   pub_date: '2026-06-16T14:00:11'
   source: KDnuggets
   title: The Roadmap to Becoming an LLM Engineer in 2026
-- category: machine-learning
-  description: In this article, you will learn how to replace pandas loops with 7
-    faster methods for optimized data processing.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/stop-writing-loops-in-pandas-7-faster-alternatives-to-try
-  pub_date: '2026-06-16T12:00:08'
-  source: KDnuggets
-  title: 'Stop Writing Loops in Pandas: 7 Faster Alternatives to Try'
 - category: ai-research
   description: Google has announced a $1.5 billion investment for 2026 and 2027 to
     expand its data center campus in Jackson County, Alabama. Operating since 2019
@@ -125,23 +153,6 @@ articles:
   source: Google AI Blog
   title: We’re strengthening our presence in Alabama through new investments and community
     support.
-- category: machine-learning
-  description: In this article, we'll build time-series machine learning models in
-    Python using sktime and explore its core data structures for forecasting workflows.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-time-series-machine-learning-models-with-sktime-in-python
-  pub_date: '2026-06-15T14:00:02'
-  source: KDnuggets
-  title: Building Time-Series Machine Learning Models with sktime in Python
-- category: machine-learning
-  description: 'In this article, we will walk through three essential Pandas tricks
-    to clean and prepare your data efficiently: declarative method chaining, memory
-    and speed optimization via categoricals and vectoriz...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-pandas-tricks-for-data-cleaning-preparation
-  pub_date: '2026-06-15T12:00:35'
-  source: KDnuggets
-  title: 3 Pandas Tricks for Data Cleaning & Preparation
 - category: ai-research
   description: An expert in behavioral science and transportation, Zhao combines these
     studies with AI and public policy to address some of the most urgent challenges
@@ -186,14 +197,6 @@ articles:
   pub_date: '2026-06-10T04:00:00'
   source: MIT AI News
   title: Startup’s nuclear-inspired cooling system could make data centers more sustainable
-- category: ai-research
-  description: A Media Lab study shows that, much like how GPS has weakened our navigation
-    skills, AI can make us worse at detecting fake news.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609
-  pub_date: '2026-06-09T20:30:00'
-  source: MIT AI News
-  title: The consequences of relying on AI for accurate news
 - category: ai-research
   description: May AI recap
   icon: fa-google
@@ -250,4 +253,4 @@ articles:
   pub_date: '2026-05-28T15:00:00'
   source: Google AI Blog
   title: Catch up on 12 major I/O 2026 moments
-last_updated: '2026-06-22T11:54:45.502596'
+last_updated: '2026-06-23T09:39:16.110242'
