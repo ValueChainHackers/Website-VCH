@@ -1,5 +1,39 @@
 articles:
 - category: ai-research
+  description: During the AI and Society Forum, leading MIT researchers examined critical
+    questions about AI's influence on employment and democracy.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623
+  pub_date: '2026-06-23T20:40:00'
+  source: MIT AI News
+  title: Exploring the societal impacts of AI
+- category: machine-learning
+  description: This article breaks down each essential math discipline, explains its
+    role in data science, and maps out an efficient learning path you can start today.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code
+  pub_date: '2026-06-23T17:00:14'
+  source: KDnuggets
+  title: The Math Skills Every Aspiring Data Scientist Needs to Master Before Writing
+    a Single Line of Code
+- category: machine-learning
+  description: WebMCP is an open web standard that lets websites expose structured,
+    callable tools directly to browser-based agents. Find out what makes it exciting.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/heres-why-webmcp-is-exciting
+  pub_date: '2026-06-23T14:00:21'
+  source: KDnuggets
+  title: Here’s Why WebMCP is Exciting
+- category: machine-learning
+  description: 'Outliers can easily ruin the performance of any predictive analysis
+    models you build: robustly detecting and handling them is crucial in any data
+    project. This article lists and compares five essentia...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection
+  pub_date: '2026-06-23T12:00:31'
+  source: KDnuggets
+  title: 5 Essential Approaches to Robust Outlier Detection
+- category: ai-research
   description: Researchers combined an efficient algorithm with dedicated hardware
     to rapidly generate 3D maps for navigation using minimal memory and power.
   icon: fa-graduation-cap
@@ -102,22 +136,6 @@ articles:
   pub_date: '2026-06-17T15:00:00'
   source: Google AI Blog
   title: New research shows how AMIE, our medical AI, could help manage health conditions.
-- category: machine-learning
-  description: This article is an honest account of the process on why I built a custom
-    AI assistant instead of just paying for one, what the architecture looks like,
-    the actual code, what broke, and what it does no...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-and-why-i-built-an-ai-assistant
-  pub_date: '2026-06-17T14:00:39'
-  source: KDnuggets
-  title: How (and Why) I Built an AI Assistant
-- category: machine-learning
-  description: Learn Codex by building small and practical projects step by step.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-fun-projects-using-openai-codex
-  pub_date: '2026-06-17T12:00:17'
-  source: KDnuggets
-  title: 5 Fun Projects Using OpenAI Codex
 - category: ai-research
   description: A new spatial memory system for robots efficiently captures details
     about the objects they see while exploring their environment.
@@ -135,14 +153,6 @@ articles:
   pub_date: '2026-06-16T20:30:00'
   source: MIT AI News
   title: MIT’s Initiative for New Manufacturing builds momentum
-- category: machine-learning
-  description: A step-by-step path through the skills that turn a machine learning
-    practitioner into someone who ships large language model applications.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-roadmap-to-becoming-an-llm-engineer-in-2026
-  pub_date: '2026-06-16T14:00:11'
-  source: KDnuggets
-  title: The Roadmap to Becoming an LLM Engineer in 2026
 - category: ai-research
   description: Google has announced a $1.5 billion investment for 2026 and 2027 to
     expand its data center campus in Jackson County, Alabama. Operating since 2019
@@ -189,14 +199,6 @@ articles:
   pub_date: '2026-06-11T17:30:00'
   source: MIT AI News
   title: MIT affiliates win 2026 Hertz Foundation Fellowships
-- category: ai-research
-  description: Founded by two researchers from MIT, Ferveret reduces the amount of
-    energy and water required to cool the chips that power AI.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
-  pub_date: '2026-06-10T04:00:00'
-  source: MIT AI News
-  title: Startup’s nuclear-inspired cooling system could make data centers more sustainable
 - category: ai-research
   description: May AI recap
   icon: fa-google
@@ -253,4 +255,4 @@ articles:
   pub_date: '2026-05-28T15:00:00'
   source: Google AI Blog
   title: Catch up on 12 major I/O 2026 moments
-last_updated: '2026-06-23T09:39:16.110242'
+last_updated: '2026-06-24T09:30:04.077841'
