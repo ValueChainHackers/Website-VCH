@@ -1,5 +1,23 @@
 articles:
 - category: circular
+  description: The Advertising Standards Authority (ASA) has banned adverts from Adidas,
+    Calvin Klein, and Uniqlo, over 'misleading' recycling claims. The post Adidas,
+    Calvin Klein, and Uniqlo ads banned over recycl...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/adidas-calvin-klein-and-uniqlo-ads-banned-over-recycling-claims/
+  pub_date: '2026-06-25T08:20:10'
+  source: Circular Online
+  title: Adidas, Calvin Klein, and Uniqlo ads banned over recycling claims
+- category: supply-chain
+  description: A new Magaya study found freight forwarders are investing in tech but
+    still face major opportunities to improve integration, decision-making, and AI
+    adoption.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/just-13-of-freight-firms-rate-their-decision-making-as-excellent
+  pub_date: '2026-06-24T13:02:00'
+  source: Supply Chain 24/7
+  title: Just 13% of Freight Firms Rate Their Decision-Making as Excellent
+- category: circular
   description: The UK and Dutch governments have signed an agreement to collaborate
     on circular economy financing. The post UK and Netherlands to collaborate on circular
     economy financing appeared first on Circular ...
@@ -128,14 +146,6 @@ articles:
   pub_date: '2026-06-19T16:01:00'
   source: Supply Chain 24/7
   title: What Is the Best Way to Improve Supply Chain Transparency and Compliance?
-- category: supply-chain
-  description: A new U.S.-Iran agreement could reopen the Strait of Hormuz, bringing
-    potential relief to fuel, freight and global supply chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/strait-of-hormuz-reopens-supply-chain-recovery
-  pub_date: '2026-06-19T14:37:00'
-  source: Supply Chain 24/7
-  title: Strait of Hormuz Reopens, But Supply Chain Recovery Could Take Months
 - category: circular
   description: A clinical waste management company has been fined over GBP300,000
     after an 18-year-old employee fractured his leg while loading a bin conveyor.
@@ -163,13 +173,4 @@ articles:
   pub_date: '2026-06-17T11:53:47'
   source: Circular Online
   title: Composite packaging producers potentially overcharged millions under pEPR
-- category: circular
-  description: The UK will consume an estimated 2 billion canned drinks over the course
-    of the FIFA World Cup 2026, according to Recycle Now and Every Can Counts. The
-    post UK will consume 2 billion canned drinks ove...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-will-consume-2-billion-canned-drinks-over-the-fifa-world-cup/
-  pub_date: '2026-06-17T09:29:00'
-  source: Circular Online
-  title: UK will consume 2 billion canned drinks over the FIFA World Cup
-last_updated: '2026-06-24T09:30:03.100250'
+last_updated: '2026-06-25T09:21:43.838360'
