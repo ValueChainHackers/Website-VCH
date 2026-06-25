@@ -1,5 +1,22 @@
 articles:
 - category: ai-research
+  description: A new system, known as Murakkab, optimizes the design and deployment
+    of multistep workflows that power AI applications.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625
+  pub_date: '2026-06-25T04:00:00'
+  source: MIT AI News
+  title: Improving the speed and energy-efficiency of AI agents
+- category: machine-learning
+  description: Explore the best local coding models for private AI coding, fast GGUF
+    inference, agentic workflows, multimodal development, and running powerful open
+    models on your own GPU.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026
+  pub_date: '2026-06-24T10:00:39'
+  source: KDnuggets
+  title: Top 7 Coding Models You Can Run Locally in 2026
+- category: ai-research
   description: During the AI and Society Forum, leading MIT researchers examined critical
     questions about AI's influence on employment and democracy.
   icon: fa-graduation-cap
@@ -101,15 +118,6 @@ articles:
   pub_date: '2026-06-19T12:00:12'
   source: KDnuggets
   title: Python Dictionary Tips and Tricks You Should Always Remember
-- category: machine-learning
-  description: LATERAL joins let a subquery in the FROM clause reference columns from
-    earlier in the same FROM clause. Semi joins return rows where a match exists in
-    another table, without duplicating those rows. An...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/advanced-join-techniques-lateral-joins-semi-joins-anti-joins
-  pub_date: '2026-06-18T14:00:18'
-  source: KDnuggets
-  title: 'Advanced Join Techniques: LATERAL Joins, Semi Joins, Anti Joins'
 - category: ai-research
   description: Leaders, faculty across MIT discuss fostering innovation and talent
     in Greater Boston in special series of articles published alongside the outlet's
@@ -191,15 +199,6 @@ articles:
   title: When it comes to predicting people’s preferences, it pays to consider “the
     power of three”
 - category: ai-research
-  description: The fellowships in applied sciences, engineering, and mathematics recognize
-    doctoral students who are pursuing solutions to the most pressing challenges in
-    science and technology.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/hertz-foundation-fellowships-0611
-  pub_date: '2026-06-11T17:30:00'
-  source: MIT AI News
-  title: MIT affiliates win 2026 Hertz Foundation Fellowships
-- category: ai-research
   description: May AI recap
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/
@@ -255,4 +254,4 @@ articles:
   pub_date: '2026-05-28T15:00:00'
   source: Google AI Blog
   title: Catch up on 12 major I/O 2026 moments
-last_updated: '2026-06-24T09:30:04.077841'
+last_updated: '2026-06-25T09:21:45.160415'
