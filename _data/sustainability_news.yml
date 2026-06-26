@@ -1,5 +1,54 @@
 articles:
 - category: circular
+  description: The government is investing GBP50 million in critical minerals projects
+    across the UK to increase domestic production and reduce reliance on imports.
+    The post UK invests GBP50m in domestic critical mi...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-invests-50m-in-domestic-critical-minerals-projects/
+  pub_date: '2026-06-26T09:00:06'
+  source: Circular Online
+  title: UK invests £50m in domestic critical minerals projects
+- category: supply-chain
+  description: General Motors will invest $275 million in its Tennessee manufacturing
+    complex for future Cadillac production and extend its 2.7-liter engine program.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gm-275-million-spring-hill-manufacturing-investment
+  pub_date: '2026-06-25T17:57:00'
+  source: Supply Chain 24/7
+  title: GM Invests $275 Million in Tennessee Plant to Expand Vehicle Production
+- category: supply-chain
+  description: USPS says it has delayed its projected cash shortfall until at least
+    2031, but leaders warn the agency still needs long-term financial reforms.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-delays-projected-cash-shortfall-until-2031
+  pub_date: '2026-06-25T15:37:00'
+  source: Supply Chain 24/7
+  title: USPS Delays Projected Cash Shortfall Until 2031
+- category: supply-chain
+  description: In this edition of Leadership Lessons, Todd Everett discusses growing
+    up in Iowa, leaving Intel, and the career decisions that led him to Pitney Bowes.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/todd-everett-pitney-bowes-leadership-lessons
+  pub_date: '2026-06-25T14:18:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Todd Everett of Pitney Bowes'
+- category: supply-chain
+  description: Experts say a potential Super El Nio could disrupt key food-producing
+    regions, putting added pressure on sourcing, transportation, and retail inventories.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/strong-el-nino-food-supply-chain-risks
+  pub_date: '2026-06-25T13:41:00'
+  source: Supply Chain 24/7
+  title: Super El Niño Could Send Shockwaves Through Food Supply Chains
+- category: supply-chain
+  description: HelloFresh expanded its partnership with Locus Robotics after a custom
+    cold-storage upgrade greatly increased refrigerated fulfillment capacity.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/locus-robotics-hellofresh-chilled-sku-capacity-expansion
+  pub_date: '2026-06-25T13:17:00'
+  source: Supply Chain 24/7
+  title: Locus Robotics Brings Autonomous Robots to HelloFresh Coolers
+- category: circular
   description: The Advertising Standards Authority (ASA) has banned adverts from Adidas,
     Calvin Klein, and Uniqlo, over 'misleading' recycling claims. The post Adidas,
     Calvin Klein, and Uniqlo ads banned over recycl...
@@ -95,40 +144,6 @@ articles:
   pub_date: '2026-06-23T06:29:00'
   source: Supply Chain 24/7
   title: UPS Invests $48 Million to Expand Healthcare Cold Chain Network
-- category: supply-chain
-  description: JD.com founder Richard Liu says robots will eventually replace the
-    company's 700,000 delivery workers while retraining employees for robot maintenance
-    roles.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/robots-replace-delivery-workers-jd-com-founder
-  pub_date: '2026-06-22T14:51:00'
-  source: Supply Chain 24/7
-  title: Robots Will Replace 700,000 Delivery Workers, JD.com Founder Says
-- category: supply-chain
-  description: Growing reliance on AI, automation, and connected systems is making
-    semiconductor visibility a critical part of supply chain resilience.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-semiconductor-visibility-matters-more-than-ever-to-supply-chains
-  pub_date: '2026-06-22T13:44:00'
-  source: Supply Chain 24/7
-  title: Why Semiconductor Visibility Is Becoming a Supply Chain Priority
-- category: supply-chain
-  description: C.H. Robinson has expanded BidboardX to more than 83,000 contract carriers,
-    giving them direct access to search, bid, and book freight through Navisphere
-    Carrier.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ch-robinson-expands-bidboardx-to-83000-carriers
-  pub_date: '2026-06-22T13:03:00'
-  source: Supply Chain 24/7
-  title: C.H. Robinson Expands BidboardX to More Than 83,000 Carriers
-- category: supply-chain
-  description: Nestl USA opened a 700,000-square-foot distribution center in Arvin,
-    California, backed by more than $330 million in investment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nestle-opens-arvin-california-distribution-center
-  pub_date: '2026-06-22T12:59:00'
-  source: Supply Chain 24/7
-  title: Nestlé Opens $330 Million Distribution Center in California
 - category: circular
   description: The Flexible Plastic Fund (FPF) has launched its FlexCircular initiative,
     which aims to further accelerate the UK's transition to a circular economy for
@@ -138,14 +153,6 @@ articles:
   pub_date: '2026-06-22T10:14:12'
   source: Circular Online
   title: Flexible Plastic Fund launches ‘FlexCircular’ initiative
-- category: supply-chain
-  description: Learn how traceability, connected networks, and supply chain visibility
-    help organizations reduce risk, improve compliance, and protect brand integrity.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/what-is-the-best-way-to-improve-supply-chain-transparency-and-compliance
-  pub_date: '2026-06-19T16:01:00'
-  source: Supply Chain 24/7
-  title: What Is the Best Way to Improve Supply Chain Transparency and Compliance?
 - category: circular
   description: A clinical waste management company has been fined over GBP300,000
     after an 18-year-old employee fractured his leg while loading a bin conveyor.
@@ -164,13 +171,4 @@ articles:
   pub_date: '2026-06-18T10:20:37'
   source: Circular Online
   title: New CIWM President calls for sector to ‘Think Again’ on recruitment
-- category: circular
-  description: Fibre-based composite (FBC) packaging producers may have been 'significantly
-    overcharged' as part of the packaging Extended Producer Responsibility (pEPR)
-    scheme, new analysis finds. The post Composit...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/composite-packaging-producers-potentially-overcharged-millions-under-pepr/
-  pub_date: '2026-06-17T11:53:47'
-  source: Circular Online
-  title: Composite packaging producers potentially overcharged millions under pEPR
-last_updated: '2026-06-25T09:21:43.838360'
+last_updated: '2026-06-26T09:27:28.597741'
