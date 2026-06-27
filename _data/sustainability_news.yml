@@ -1,4 +1,20 @@
 articles:
+- category: supply-chain
+  description: The World Shipping Council estimates 1,478 containers were lost at
+    sea in 2025, with one incident responsible for nearly half of the annual total.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/world-shipping-council-containers-lost-at-sea-2026-report
+  pub_date: '2026-06-26T13:11:00'
+  source: Supply Chain 24/7
+  title: Containers Lost at Sea More Than Doubled in 2025, WSC Reports
+- category: supply-chain
+  description: Charles Kriete, CEO of Zonar Systems, discusses how nuclear legal verdicts,
+    AI and telematics are reshaping fleet safety and risk management.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/zonar-ceo-nuclear-legal-verdicts-telematics-qa
+  pub_date: '2026-06-26T13:01:00'
+  source: Supply Chain 24/7
+  title: What Fleets Can Learn From Nuclear Legal Verdicts and Dash Cams
 - category: circular
   description: The government is investing GBP50 million in critical minerals projects
     across the UK to increase domestic production and reduce reliance on imports.
@@ -101,14 +117,6 @@ articles:
   pub_date: '2026-06-23T15:08:00'
   source: Supply Chain 24/7
   title: 'Broker Margins Rise Even as Spot Demand Slows: Tabi Index'
-- category: supply-chain
-  description: As warehouses add more automation, the focus is shifting from buying
-    equipment to making different systems work together.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-automation-needs-more-than-robots
-  pub_date: '2026-06-23T11:24:00'
-  source: Supply Chain 24/7
-  title: With Automation, the Hardware Isn’t the Whole Story
 - category: circular
   description: Cheshire Fire & Rescue Service declared a major incident after 20 fire
     engines were deployed to a recycling centre fire in Widnes. The post 20 fire engines
@@ -136,14 +144,6 @@ articles:
   pub_date: '2026-06-23T07:49:44'
   source: Circular Online
   title: 'FIFA World Cup 2026: 74% of Brits want plastic-free packaging at events'
-- category: supply-chain
-  description: UPS is investing $48 million in 27 temperature-controlled cross-dock
-    facilities to expand its healthcare cold chain network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-48m-healthcare-cold-chain-network
-  pub_date: '2026-06-23T06:29:00'
-  source: Supply Chain 24/7
-  title: UPS Invests $48 Million to Expand Healthcare Cold Chain Network
 - category: circular
   description: The Flexible Plastic Fund (FPF) has launched its FlexCircular initiative,
     which aims to further accelerate the UK's transition to a circular economy for
@@ -171,4 +171,4 @@ articles:
   pub_date: '2026-06-18T10:20:37'
   source: Circular Online
   title: New CIWM President calls for sector to ‘Think Again’ on recruitment
-last_updated: '2026-06-26T09:27:28.597741'
+last_updated: '2026-06-27T08:35:59.331393'
