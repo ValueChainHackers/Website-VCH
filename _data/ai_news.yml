@@ -1,4 +1,37 @@
 articles:
+- category: ai-research
+  description: A faculty member since 1999, Autor is a leading researcher in artificial
+    intelligence and the work of the future.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/david-autor-named-head-department-economics-0626
+  pub_date: '2026-06-26T16:00:00'
+  source: MIT AI News
+  title: David Autor named head of the Department of Economics
+- category: machine-learning
+  description: Fine-tune open language models locally on your Mac using MLX. No cloud
+    GPUs or costs required.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/fine-tuning-language-models-on-apple-silicon-with-mlx
+  pub_date: '2026-06-26T15:00:17'
+  source: KDnuggets
+  title: Fine-tuning Language Models on Apple Silicon with MLX
+- category: machine-learning
+  description: This article covers five concrete agentic workflows, one for each major
+    stage of a data science pipeline.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-agentic-workflows-to-automate-your-data-science-pipeline
+  pub_date: '2026-06-26T13:34:35'
+  source: KDnuggets
+  title: 5 Agentic Workflows to Automate Your Data Science Pipeline
+- category: ai-research
+  description: To help robots do chores in places like homes and factories, a new
+    approach from MIT uses one language model to clarify users' instructions, then
+    another to ignore irrelevant info.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
+  pub_date: '2026-06-26T13:00:00'
+  source: MIT AI News
+  title: LLMs help robots understand vague instructions and focus on key details
 - category: machine-learning
   description: In this tutorial, we will show you how to use Gemini to create Google
     Sheets, build a useful table, generate formulas, analyze data, and improve the
@@ -111,24 +144,6 @@ articles:
   source: KDnuggets
   title: 'ChatLLM by Abacus AI Review: A Multi-Model AI Workspace Built for Daily
     Work'
-- category: machine-learning
-  description: Agentic AI is not failing because the technology is bad. It is failing
-    because of five specific misconceptions that teams carry into their first deployments
-    and each one is correctable.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/heres-what-everyone-gets-wrong-about-agentic-ai
-  pub_date: '2026-06-22T14:00:04'
-  source: KDnuggets
-  title: Here’s What Everyone Gets Wrong About Agentic AI
-- category: machine-learning
-  description: 'In this article, we will walk through three essential NLTK tricks
-    to elevate your text preprocessing: preserving phrase integrity with the MWETokenizer,
-    context-aware lemmatization with POS mapping, a...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-nltk-tricks-for-advanced-text-preprocessing-linguistic-analysis
-  pub_date: '2026-06-22T12:00:18'
-  source: KDnuggets
-  title: 3 NLTK Tricks for Advanced Text Preprocessing & Linguistic Analysis
 - category: ai-research
   description: MIT researchers' approach captures subtle atomic patterns, improving
     predictions of material properties.
@@ -172,15 +187,6 @@ articles:
   source: MIT AI News
   title: Could AI tell you where you left your keys?
 - category: ai-research
-  description: In its first year, INM has worked across research, workforce development,
-    and industry engagement to help accelerate new manufacturing technologies and
-    their real-world deployment.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616
-  pub_date: '2026-06-16T20:30:00'
-  source: MIT AI News
-  title: MIT’s Initiative for New Manufacturing builds momentum
-- category: ai-research
   description: Google has announced a $1.5 billion investment for 2026 and 2027 to
     expand its data center campus in Jackson County, Alabama. Operating since 2019
     on a repurposed former...
@@ -190,15 +196,6 @@ articles:
   source: Google AI Blog
   title: We’re strengthening our presence in Alabama through new investments and community
     support.
-- category: ai-research
-  description: An expert in behavioral science and transportation, Zhao combines these
-    studies with AI and public policy to address some of the most urgent challenges
-    facing cities.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611
-  pub_date: '2026-06-11T20:20:00'
-  source: MIT AI News
-  title: Jinhua Zhao named head of the Department of Urban Studies and Planning
 - category: ai-research
   description: We're helping build the state's next-generation workforce and investing
     in energy programs.
@@ -256,4 +253,4 @@ articles:
   pub_date: '2026-05-29T12:00:00'
   source: Google AI Blog
   title: Check out real-life AI prototypes from the Futures Lab.
-last_updated: '2026-06-26T09:27:29.544403'
+last_updated: '2026-06-27T08:36:01.075524'
