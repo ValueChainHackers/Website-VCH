@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: A man in Belfast has been sentenced to nine months in prison for dumping
+    367 tonnes of unauthorised waste, including timber, plastics, and metal. The post
+    Prison sentence for man who dumped 367 tonnes...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/prison-sentence-for-man-who-dumped-367-tonnes-of-waste/
+  pub_date: '2026-06-29T10:06:35'
+  source: Circular Online
+  title: Prison sentence for man who dumped 367 tonnes of waste
 - category: supply-chain
   description: The World Shipping Council estimates 1,478 containers were lost at
     sea in 2025, with one incident responsible for nearly half of the annual total.
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-06-19T07:30:00'
   source: Circular Online
   title: Waste company fined £300,000 after teenage employee fractures leg
-- category: circular
-  description: New CIWM President Vicki Hughes is calling on organisations across
-    the resources and waste sector to sign the Think Again Pledge and commit to transforming
-    perceptions of the industry with job seekers...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-ciwm-president-calls-for-sector-to-think-again-on-recruitment/
-  pub_date: '2026-06-18T10:20:37'
-  source: Circular Online
-  title: New CIWM President calls for sector to ‘Think Again’ on recruitment
-last_updated: '2026-06-28T08:51:38.405626'
+last_updated: '2026-06-29T11:00:01.309073'
