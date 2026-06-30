@@ -1,5 +1,56 @@
 articles:
 - category: ai-research
+  description: Four illustrated characters representing different professional roles,
+    including a scientist, technician, explorer, and observer.
+  icon: fa-google
+  link: https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/
+  pub_date: '2026-06-30T06:00:00'
+  source: Google AI Blog
+  title: 'Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers'
+- category: ai-research
+  description: Associate Professor Anna Huang delivers the keynote address, "In Search
+    of Human-AI Resonance," to a capacity crowd.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629
+  pub_date: '2026-06-29T19:00:00'
+  source: MIT AI News
+  title: Inaugural Music Technology Research Showcase celebrates work of new graduate
+    program’s initial students
+- category: ai-research
+  description: In a new Keller Gallery exhibition, Alexandros Haridis SM '17, PhD
+    '22 traces centuries of ideas about aesthetic judgment and explores how design
+    can make complex computational systems visible.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629
+  pub_date: '2026-06-29T18:00:00'
+  source: MIT AI News
+  title: '3 Questions: Beyond data-driven aesthetics'
+- category: ai-research
+  description: An illustration depicting a full-stack AI infrastructure against a
+    dark background
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
+  pub_date: '2026-06-29T16:00:00'
+  source: Google AI Blog
+  title: 'Ask an AI expert: What exactly is the full stack?'
+- category: machine-learning
+  description: Learn what to reach for when retrieval-augmented generation fails in
+    production.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/your-rag-pipeline-is-probably-useless-heres-a-better-alternative
+  pub_date: '2026-06-29T14:00:50'
+  source: KDnuggets
+  title: Your RAG Pipeline Is Probably Useless. Here’s a Better Alternative
+- category: machine-learning
+  description: This is an opinion-based look at the AI coding subscription plans that
+    I think give developers the best value for their money, from token and usage-based
+    plans to full coding-agent ecosystems.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-ai-coding-subscription-plans-that-give-developers-the-best-value
+  pub_date: '2026-06-29T12:00:38'
+  source: KDnuggets
+  title: 5 AI Coding Subscription Plans That Give Developers the Best Value
+- category: ai-research
   description: A faculty member since 1999, Autor is a leading researcher in artificial
     intelligence and the work of the future.
   icon: fa-graduation-cap
@@ -117,15 +168,6 @@ articles:
   pub_date: '2026-06-23T14:00:21'
   source: KDnuggets
   title: Here’s Why WebMCP is Exciting
-- category: machine-learning
-  description: 'Outliers can easily ruin the performance of any predictive analysis
-    models you build: robustly detecting and handling them is crucial in any data
-    project. This article lists and compares five essentia...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection
-  pub_date: '2026-06-23T12:00:31'
-  source: KDnuggets
-  title: 5 Essential Approaches to Robust Outlier Detection
 - category: ai-research
   description: Researchers combined an efficient algorithm with dedicated hardware
     to rapidly generate 3D maps for navigation using minimal memory and power.
@@ -134,16 +176,6 @@ articles:
   pub_date: '2026-06-23T04:00:00'
   source: MIT AI News
   title: New chip could help tiny robots traverse complex environments
-- category: machine-learning
-  description: An in-depth review of ChatLLM by Abacus AI, covering supported AI models,
-    AI agents, coding tools, integrations, pricing, usage limits, and how it compares
-    to ChatGPT.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/06/abacus/abacus-ai-chatllm-review
-  pub_date: '2026-06-22T17:00:54'
-  source: KDnuggets
-  title: 'ChatLLM by Abacus AI Review: A Multi-Model AI Workspace Built for Daily
-    Work'
 - category: ai-research
   description: MIT researchers' approach captures subtle atomic patterns, improving
     predictions of material properties.
@@ -163,14 +195,6 @@ articles:
   title: 'MIT in the media: For the future of tech, "Massachusetts can absolutely
     lead"'
 - category: ai-research
-  description: Researchers show that for certain kinds of games, an overlooked class
-    of algorithms performs much better than expected.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617
-  pub_date: '2026-06-17T19:20:00'
-  source: MIT AI News
-  title: In game theory, generalists sometimes win out over specialists
-- category: ai-research
   description: Research in "Nature" shows our conversational AI system matches primary
     care physicians in complex disease management.
   icon: fa-google
@@ -178,14 +202,6 @@ articles:
   pub_date: '2026-06-17T15:00:00'
   source: Google AI Blog
   title: New research shows how AMIE, our medical AI, could help manage health conditions.
-- category: ai-research
-  description: A new spatial memory system for robots efficiently captures details
-    about the objects they see while exploring their environment.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617
-  pub_date: '2026-06-17T04:00:00'
-  source: MIT AI News
-  title: Could AI tell you where you left your keys?
 - category: ai-research
   description: Google has announced a $1.5 billion investment for 2026 and 2027 to
     expand its data center campus in Jackson County, Alabama. Operating since 2019
@@ -238,19 +254,4 @@ articles:
   pub_date: '2026-05-29T19:00:00'
   source: Google AI Blog
   title: Take our I/O 2026 quiz, vibe coded in Google AI Studio.
-- category: ai-research
-  description: Gemini Omni & Gemini 3.5 hero
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/
-  pub_date: '2026-05-29T17:30:00'
-  source: Google AI Blog
-  title: 9 demos of Gemini Omni and Gemini 3.5 in action
-- category: ai-research
-  description: University of Waterloo students develop AI prototypes like sign language
-    tutors to reshape the future of education and work.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/
-  pub_date: '2026-05-29T12:00:00'
-  source: Google AI Blog
-  title: Check out real-life AI prototypes from the Futures Lab.
-last_updated: '2026-06-29T11:00:02.096626'
+last_updated: '2026-06-30T09:35:56.677695'

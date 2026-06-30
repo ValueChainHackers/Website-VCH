@@ -1,5 +1,55 @@
 articles:
 - category: circular
+  description: Waste crews in Bristol rescued a man from being crushed by the machinery
+    inside a bin lorry yesterday morning. The post Bristol Waste crew saves person
+    from inside bin lorry appeared first on Circular...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/bristol-waste-crew-saves-person-from-inside-bin-lorry/
+  pub_date: '2026-06-30T09:30:03'
+  source: Circular Online
+  title: Bristol Waste crew saves person from inside bin lorry
+- category: circular
+  description: An investigation into a fire at a recycling centre in Widnes that saw
+    20 fire engines deployed was 'most likely' caused by a disposable vape. The post
+    Major recycling centre fire caused by disposable ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/major-recycling-centre-fire-caused-by-disposable-vape-fire-service-says/
+  pub_date: '2026-06-30T08:16:11'
+  source: Circular Online
+  title: Major recycling centre fire caused by disposable vape, fire service says
+- category: supply-chain
+  description: USPS has proposed several parcel pricing and measurement changes that
+    could increase costs for some shippers when they take effect July 12.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-parcel-pricing-measurement-changes-july-2026
+  pub_date: '2026-06-29T14:44:00'
+  source: Supply Chain 24/7
+  title: Five USPS Parcel Changes Shippers Should Know Before July 12
+- category: supply-chain
+  description: Oracle has launched four new AI-powered agentic applications and new
+    inventory optimization tools for Oracle Fusion Cloud SCM.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/oracle-ai-agent-applications-supply-chain-scm
+  pub_date: '2026-06-29T14:09:00'
+  source: Supply Chain 24/7
+  title: Oracle Adds AI Agent Workspaces for Inventory and Suppliers
+- category: supply-chain
+  description: U.S. Steel is investing $475 million to expand steel pipe production
+    at its Fairfield, Alabama, facility, with production scheduled to begin in 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-steel-475-million-fairfield-alabama-expansion
+  pub_date: '2026-06-29T13:27:00'
+  source: Supply Chain 24/7
+  title: U.S. Steel Invests $475M to Expand Alabama Pipe Production
+- category: supply-chain
+  description: The Port of Virginia officially unveiled the East Coast's deepest shipping
+    channel as it continues its expansion program to increase container capacity.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/port-of-virginia-debuts-east-coasts-deepest-shipping-channel
+  pub_date: '2026-06-29T13:11:00'
+  source: Supply Chain 24/7
+  title: Port of Virginia Debuts East Coast’s Deepest Shipping Channel
+- category: circular
   description: A man in Belfast has been sentenced to nine months in prison for dumping
     367 tonnes of unauthorised waste, including timber, plastics, and metal. The post
     Prison sentence for man who dumped 367 tonnes...
@@ -65,14 +115,6 @@ articles:
   pub_date: '2026-06-25T13:41:00'
   source: Supply Chain 24/7
   title: Super El Niño Could Send Shockwaves Through Food Supply Chains
-- category: supply-chain
-  description: HelloFresh expanded its partnership with Locus Robotics after a custom
-    cold-storage upgrade greatly increased refrigerated fulfillment capacity.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/locus-robotics-hellofresh-chilled-sku-capacity-expansion
-  pub_date: '2026-06-25T13:17:00'
-  source: Supply Chain 24/7
-  title: Locus Robotics Brings Autonomous Robots to HelloFresh Coolers
 - category: circular
   description: The Advertising Standards Authority (ASA) has banned adverts from Adidas,
     Calvin Klein, and Uniqlo, over 'misleading' recycling claims. The post Adidas,
@@ -82,15 +124,6 @@ articles:
   pub_date: '2026-06-25T08:20:10'
   source: Circular Online
   title: Adidas, Calvin Klein, and Uniqlo ads banned over recycling claims
-- category: supply-chain
-  description: A new Magaya study found freight forwarders are investing in tech but
-    still face major opportunities to improve integration, decision-making, and AI
-    adoption.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/just-13-of-freight-firms-rate-their-decision-making-as-excellent
-  pub_date: '2026-06-24T13:02:00'
-  source: Supply Chain 24/7
-  title: Just 13% of Freight Firms Rate Their Decision-Making as Excellent
 - category: circular
   description: The UK and Dutch governments have signed an agreement to collaborate
     on circular economy financing. The post UK and Netherlands to collaborate on circular
@@ -109,23 +142,6 @@ articles:
   pub_date: '2026-06-24T08:05:57'
   source: Circular Online
   title: Deposit Return Scheme trialled at Wimbledon qualifying
-- category: supply-chain
-  description: JetZero has started construction on its first aircraft factory in Greensboro,
-    N.C., where it plans to build its Z4 aircraft and create 14,500 jobs over the
-    next decade.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/jetzero-breaks-ground-on-first-aircraft-factory-in-north-carolina
-  pub_date: '2026-06-23T15:49:00'
-  source: Supply Chain 24/7
-  title: JetZero Breaks Ground on First Aircraft Factory in Greensboro, N.C.
-- category: supply-chain
-  description: Tabi Connect's May pricing index found brokers widening margins and
-    gaining pricing power even as spot freight demand continued to soften.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tabi-index-broker-margins-rise-even-as-spot-demand-slows
-  pub_date: '2026-06-23T15:08:00'
-  source: Supply Chain 24/7
-  title: 'Broker Margins Rise Even as Spot Demand Slows: Tabi Index'
 - category: circular
   description: Cheshire Fire & Rescue Service declared a major incident after 20 fire
     engines were deployed to a recycling centre fire in Widnes. The post 20 fire engines
@@ -153,22 +169,4 @@ articles:
   pub_date: '2026-06-23T07:49:44'
   source: Circular Online
   title: 'FIFA World Cup 2026: 74% of Brits want plastic-free packaging at events'
-- category: circular
-  description: The Flexible Plastic Fund (FPF) has launched its FlexCircular initiative,
-    which aims to further accelerate the UK's transition to a circular economy for
-    flexible plastic packaging. The post Flexible P...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/flexible-plastic-fund-launches-flexcircular-initiative/
-  pub_date: '2026-06-22T10:14:12'
-  source: Circular Online
-  title: Flexible Plastic Fund launches ‘FlexCircular’ initiative
-- category: circular
-  description: A clinical waste management company has been fined over GBP300,000
-    after an 18-year-old employee fractured his leg while loading a bin conveyor.
-    The post Waste company fined GBP300,000 after teenage e...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-company-fined-300000-after-teenage-employee-fractures-leg/
-  pub_date: '2026-06-19T07:30:00'
-  source: Circular Online
-  title: Waste company fined £300,000 after teenage employee fractures leg
-last_updated: '2026-06-29T11:00:01.309073'
+last_updated: '2026-06-30T09:35:55.443712'
