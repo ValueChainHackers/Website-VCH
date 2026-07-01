@@ -1,5 +1,64 @@
 articles:
 - category: circular
+  description: The EU's new Extended Producer Responsibility scheme requires the automotive
+    sector to 'design for circularity' and ensure the free take-back and proper treatment
+    of all end-of-life vehicles. The post...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/eu-council-greenlights-epr-scheme-for-automotive-sector/
+  pub_date: '2026-07-01T08:32:10'
+  source: Circular Online
+  title: EU Council greenlights EPR scheme for automotive sector
+- category: supply-chain
+  description: The FDA selected seven companies for a pilot program aimed at reducing
+    delays in opening new U.S. pharmaceutical manufacturing facilities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fda-pilot-us-drug-manufacturing-plants
+  pub_date: '2026-06-30T18:15:00'
+  source: Supply Chain 24/7
+  title: FDA Pilot Aims to Speed Up New U.S. Drug Manufacturing Plants
+- category: circular
+  description: Veolia has won the inaugural British Safety Council Innovation in Health
+    Award for its Injury Prevention Programme supporting municipal waste collection
+    teams. The post Veolia wins inaugural British S...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/veolia-wins-inaugural-british-safety-council-innovation-in-health-award/
+  pub_date: '2026-06-30T14:04:18'
+  source: Circular Online
+  title: Veolia wins inaugural British Safety Council Innovation in Health Award
+- category: supply-chain
+  description: The Port of Baltimore has opened double-stack rail service through
+    the rebuilt Howard Street Tunnel, expanding the port's rail capacity.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/port-of-baltimore-howard-street-tunnel-double-stack-rail-service
+  pub_date: '2026-06-30T13:46:00'
+  source: Supply Chain 24/7
+  title: Port of Baltimore Opens Double-Stack Rail Corridor After Upgrade
+- category: supply-chain
+  description: Gartner's annual report identifies eight supply chain technology trends
+    for 2026, with agentic AI and physical AI leading this year's list.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-top-supply-chain-technology-trends-2026
+  pub_date: '2026-06-30T13:24:00'
+  source: Supply Chain 24/7
+  title: Top Supply Chain Technology Trends for 2026
+- category: supply-chain
+  description: Aviro360 CEO Ilhan Kolko explains how AI-powered yard visibility is
+    helping companies reduce delays and make smarter logistics decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ilhan-kolko-ai-yard-visibility-supply-chain-qa
+  pub_date: '2026-06-30T12:29:00'
+  source: Supply Chain 24/7
+  title: How AI Is Helping Companies Rethink Yard Management
+- category: circular
+  description: Multiple tonnes of waste have now been removed from a site in Yorkshire
+    after a prosecution brought by the Environment Agency. Earlier this year, Andrew
+    Leadbeater, 57, pleaded guilty to two charges r...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/west-yorkshire-illegal-waste-dump-cleared-after-prosecution/
+  pub_date: '2026-06-30T10:10:03'
+  source: Circular Online
+  title: West Yorkshire illegal waste dump cleared after prosecution
+- category: circular
   description: Waste crews in Bristol rescued a man from being crushed by the machinery
     inside a bin lorry yesterday morning. The post Bristol Waste crew saves person
     from inside bin lorry appeared first on Circular...
@@ -83,38 +142,6 @@ articles:
   pub_date: '2026-06-26T09:00:06'
   source: Circular Online
   title: UK invests £50m in domestic critical minerals projects
-- category: supply-chain
-  description: General Motors will invest $275 million in its Tennessee manufacturing
-    complex for future Cadillac production and extend its 2.7-liter engine program.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gm-275-million-spring-hill-manufacturing-investment
-  pub_date: '2026-06-25T17:57:00'
-  source: Supply Chain 24/7
-  title: GM Invests $275 Million in Tennessee Plant to Expand Vehicle Production
-- category: supply-chain
-  description: USPS says it has delayed its projected cash shortfall until at least
-    2031, but leaders warn the agency still needs long-term financial reforms.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usps-delays-projected-cash-shortfall-until-2031
-  pub_date: '2026-06-25T15:37:00'
-  source: Supply Chain 24/7
-  title: USPS Delays Projected Cash Shortfall Until 2031
-- category: supply-chain
-  description: In this edition of Leadership Lessons, Todd Everett discusses growing
-    up in Iowa, leaving Intel, and the career decisions that led him to Pitney Bowes.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/todd-everett-pitney-bowes-leadership-lessons
-  pub_date: '2026-06-25T14:18:00'
-  source: Supply Chain 24/7
-  title: 'Leadership Lessons: Todd Everett of Pitney Bowes'
-- category: supply-chain
-  description: Experts say a potential Super El Nio could disrupt key food-producing
-    regions, putting added pressure on sourcing, transportation, and retail inventories.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/strong-el-nino-food-supply-chain-risks
-  pub_date: '2026-06-25T13:41:00'
-  source: Supply Chain 24/7
-  title: Super El Niño Could Send Shockwaves Through Food Supply Chains
 - category: circular
   description: The Advertising Standards Authority (ASA) has banned adverts from Adidas,
     Calvin Klein, and Uniqlo, over 'misleading' recycling claims. The post Adidas,
@@ -142,31 +169,4 @@ articles:
   pub_date: '2026-06-24T08:05:57'
   source: Circular Online
   title: Deposit Return Scheme trialled at Wimbledon qualifying
-- category: circular
-  description: Cheshire Fire & Rescue Service declared a major incident after 20 fire
-    engines were deployed to a recycling centre fire in Widnes. The post 20 fire engines
-    deployed to recycling centre fire in Cheshir...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/20-fire-engines-deployed-to-recycling-centre-fire-in-cheshire/
-  pub_date: '2026-06-23T09:52:56'
-  source: Circular Online
-  title: 20 fire engines deployed to recycling centre fire in Cheshire
-- category: circular
-  description: A team from recycling not-for-profit, Every Can Counts, is taking part
-    in Red Bull's famous Soapbox Race this weekend. The post Every Can Counts takes
-    on Red Bull Soapbox race to inspire recycling app...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/every-can-counts-takes-on-red-bull-soapbox-race-to-inspire-recycling/
-  pub_date: '2026-06-23T08:27:28'
-  source: Circular Online
-  title: Every Can Counts takes on Red Bull Soapbox race to inspire recycling
-- category: circular
-  description: With the FIFA World Cup set to generate an estimated 156 tonnes of
-    single-use plastic waste, 74% of people in the UK have said they want plastic-free
-    packaging at events this summer. The post FIFA Wor...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/fifa-world-cup-2026-74-of-brits-want-plastic-free-packaging-at-events/
-  pub_date: '2026-06-23T07:49:44'
-  source: Circular Online
-  title: 'FIFA World Cup 2026: 74% of Brits want plastic-free packaging at events'
-last_updated: '2026-06-30T09:35:55.443712'
+last_updated: '2026-07-01T09:47:16.923975'

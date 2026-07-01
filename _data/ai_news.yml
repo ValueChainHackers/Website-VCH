@@ -1,5 +1,31 @@
 articles:
 - category: ai-research
+  description: Computer scientist Phillip Isola cuts through the hype to explain how
+    AI agents work and what the future might hold for this rapidly advancing technology.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630
+  pub_date: '2026-06-30T15:30:00'
+  source: MIT AI News
+  title: 'Q&A: What is agentic AI today, and what do we want it to be?'
+- category: machine-learning
+  description: Define a tool once as an MCP server and any MCP-compatible client,
+    any model, any framework, can discover and call it with zero custom integration
+    code per model.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-local-ai-systems-qwen3-6-mcps
+  pub_date: '2026-06-30T14:00:14'
+  source: KDnuggets
+  title: 'Building Local AI Systems: Qwen3.6 + MCPs'
+- category: machine-learning
+  description: Check out this practical list of Python projects covering AI automation,
+    machine learning, APIs, dashboards, data analysis, and portfolio-ready apps, with
+    guides, demos, repositories, and datasets.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-real-world-python-projects-you-can-build-in-2026-with-guides
+  pub_date: '2026-06-30T12:00:54'
+  source: KDnuggets
+  title: 7 Real-World Python Projects You Can Build in 2026 (With Guides)
+- category: ai-research
   description: Four illustrated characters representing different professional roles,
     including a scientist, technician, explorer, and observer.
   icon: fa-google
@@ -151,23 +177,6 @@ articles:
   pub_date: '2026-06-23T20:40:00'
   source: MIT AI News
   title: Exploring the societal impacts of AI
-- category: machine-learning
-  description: This article breaks down each essential math discipline, explains its
-    role in data science, and maps out an efficient learning path you can start today.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code
-  pub_date: '2026-06-23T17:00:14'
-  source: KDnuggets
-  title: The Math Skills Every Aspiring Data Scientist Needs to Master Before Writing
-    a Single Line of Code
-- category: machine-learning
-  description: WebMCP is an open web standard that lets websites expose structured,
-    callable tools directly to browser-based agents. Find out what makes it exciting.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/heres-why-webmcp-is-exciting
-  pub_date: '2026-06-23T14:00:21'
-  source: KDnuggets
-  title: Here’s Why WebMCP is Exciting
 - category: ai-research
   description: Researchers combined an efficient algorithm with dedicated hardware
     to rapidly generate 3D maps for navigation using minimal memory and power.
@@ -184,16 +193,6 @@ articles:
   pub_date: '2026-06-19T18:00:00'
   source: MIT AI News
   title: A better way to model the behavior of metal alloys
-- category: ai-research
-  description: Leaders, faculty across MIT discuss fostering innovation and talent
-    in Greater Boston in special series of articles published alongside the outlet's
-    annual list of 'Tech Power Players'
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead
-  pub_date: '2026-06-18T04:00:00'
-  source: MIT AI News
-  title: 'MIT in the media: For the future of tech, "Massachusetts can absolutely
-    lead"'
 - category: ai-research
   description: Research in "Nature" shows our conversational AI system matches primary
     care physicians in complex disease management.
@@ -254,4 +253,4 @@ articles:
   pub_date: '2026-05-29T19:00:00'
   source: Google AI Blog
   title: Take our I/O 2026 quiz, vibe coded in Google AI Studio.
-last_updated: '2026-06-30T09:35:56.677695'
+last_updated: '2026-07-01T09:47:17.854969'
