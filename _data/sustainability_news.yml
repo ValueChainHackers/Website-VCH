@@ -1,5 +1,56 @@
 articles:
 - category: circular
+  description: Wales's Deposit Return Scheme (DRS) could increase the price of glass-bottled
+    drinks in Wales by 50p, Welsh drink producers claim. The post Drinks producers
+    claim Welsh DRS could raise prices by 50p a...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/drinks-producers-claim-welsh-drs-could-raise-prices-by-50p/
+  pub_date: '2026-07-02T08:13:26'
+  source: Circular Online
+  title: Drinks producers claim Welsh DRS could raise prices by 50p
+- category: supply-chain
+  description: Agentic AI is transforming procurement, but organizations still bear
+    full responsibility for the decisions autonomous systems make.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/agentic-ai-is-changing-procurement-governance-must-keep-up
+  pub_date: '2026-07-01T16:46:00'
+  source: Supply Chain 24/7
+  title: Agentic AI Is Changing Procurement. Governance Must Keep Up
+- category: supply-chain
+  description: Steve Liou explains how achieving his Wall Street dream led him to
+    build a company focused on improving healthcare supply chains instead.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/steve-liou-clarium-leadership-lessons
+  pub_date: '2026-07-01T15:19:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Steve Liou, CEO of Clarium'
+- category: supply-chain
+  description: CMA CGM is reportedly nearing a $1.4 billion acquisition of FedEx Supply
+    Chain, a move that would expand its U.S. logistics business.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cma-cgm-nears-fedex-supply-chain-acquisition
+  pub_date: '2026-07-01T14:30:00'
+  source: Supply Chain 24/7
+  title: CMA CGM Reportedly Nears $1.4 Billion Deal for FedEx Supply Chain
+- category: supply-chain
+  description: BMW has completed its $1.7 billion South Carolina investment as it
+    prepares to build its first fully electric vehicle in the United States.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bmw-completes-1.7b-south-carolina-ev-manufacturing-project
+  pub_date: '2026-07-01T12:03:00'
+  source: Supply Chain 24/7
+  title: BMW Completes $1.7B South Carolina EV Manufacturing Project
+- category: circular
+  description: Waste and recycling had one of the highest fatal injury rates of any
+    industry in 2025/26, Health and Safety Executive (HSE) statistics show. The latest
+    statistics released by HSE show six people died ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-and-recycling-still-among-most-dangerous-sectors-hse-statistics-show/
+  pub_date: '2026-07-01T10:57:24'
+  source: Circular Online
+  title: Waste and recycling still among most dangerous sectors to work in, statistics
+    show
+- category: circular
   description: The EU's new Extended Producer Responsibility scheme requires the automotive
     sector to 'design for circularity' and ensure the free take-back and proper treatment
     of all end-of-life vehicles. The post...
@@ -92,22 +143,6 @@ articles:
   pub_date: '2026-06-29T14:09:00'
   source: Supply Chain 24/7
   title: Oracle Adds AI Agent Workspaces for Inventory and Suppliers
-- category: supply-chain
-  description: U.S. Steel is investing $475 million to expand steel pipe production
-    at its Fairfield, Alabama, facility, with production scheduled to begin in 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-steel-475-million-fairfield-alabama-expansion
-  pub_date: '2026-06-29T13:27:00'
-  source: Supply Chain 24/7
-  title: U.S. Steel Invests $475M to Expand Alabama Pipe Production
-- category: supply-chain
-  description: The Port of Virginia officially unveiled the East Coast's deepest shipping
-    channel as it continues its expansion program to increase container capacity.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/port-of-virginia-debuts-east-coasts-deepest-shipping-channel
-  pub_date: '2026-06-29T13:11:00'
-  source: Supply Chain 24/7
-  title: Port of Virginia Debuts East Coast’s Deepest Shipping Channel
 - category: circular
   description: A man in Belfast has been sentenced to nine months in prison for dumping
     367 tonnes of unauthorised waste, including timber, plastics, and metal. The post
@@ -117,22 +152,6 @@ articles:
   pub_date: '2026-06-29T10:06:35'
   source: Circular Online
   title: Prison sentence for man who dumped 367 tonnes of waste
-- category: supply-chain
-  description: The World Shipping Council estimates 1,478 containers were lost at
-    sea in 2025, with one incident responsible for nearly half of the annual total.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/world-shipping-council-containers-lost-at-sea-2026-report
-  pub_date: '2026-06-26T13:11:00'
-  source: Supply Chain 24/7
-  title: Containers Lost at Sea More Than Doubled in 2025, WSC Reports
-- category: supply-chain
-  description: Charles Kriete, CEO of Zonar Systems, discusses how nuclear legal verdicts,
-    AI and telematics are reshaping fleet safety and risk management.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/zonar-ceo-nuclear-legal-verdicts-telematics-qa
-  pub_date: '2026-06-26T13:01:00'
-  source: Supply Chain 24/7
-  title: What Fleets Can Learn From Nuclear Legal Verdicts and Dash Cams
 - category: circular
   description: The government is investing GBP50 million in critical minerals projects
     across the UK to increase domestic production and reduce reliance on imports.
@@ -151,22 +170,4 @@ articles:
   pub_date: '2026-06-25T08:20:10'
   source: Circular Online
   title: Adidas, Calvin Klein, and Uniqlo ads banned over recycling claims
-- category: circular
-  description: The UK and Dutch governments have signed an agreement to collaborate
-    on circular economy financing. The post UK and Netherlands to collaborate on circular
-    economy financing appeared first on Circular ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-and-netherlands-to-collaborate-on-circular-economy-financing/
-  pub_date: '2026-06-24T09:13:36'
-  source: Circular Online
-  title: UK and Netherlands to collaborate on circular economy financing
-- category: circular
-  description: Exchange for Change pilots Deposit Return Scheme (DRS) at this week's
-    Wimbledon qualifying competition. The post Deposit Return Scheme trialled at Wimbledon
-    qualifying appeared first on Circular Onlin...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/deposit-return-scheme-trialled-at-wimbledon-qualifying/
-  pub_date: '2026-06-24T08:05:57'
-  source: Circular Online
-  title: Deposit Return Scheme trialled at Wimbledon qualifying
-last_updated: '2026-07-01T09:47:16.923975'
+last_updated: '2026-07-02T08:56:28.118652'
