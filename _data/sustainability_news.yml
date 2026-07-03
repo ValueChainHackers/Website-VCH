@@ -1,5 +1,14 @@
 articles:
 - category: circular
+  description: News updates written by CIWM's commercial partners. Advetec Advetec
+    strengthens board with industry leader to accelerate growth in evolving waste
+    market Bucher Municipal Backing engineering with actio...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-july/
+  pub_date: '2026-07-03T07:30:00'
+  source: Circular Online
+  title: News in Brief | Commercial Partner News July
+- category: circular
   description: Wales's Deposit Return Scheme (DRS) could increase the price of glass-bottled
     drinks in Wales by 50p, Welsh drink producers claim. The post Drinks producers
     claim Welsh DRS could raise prices by 50p a...
@@ -161,13 +170,4 @@ articles:
   pub_date: '2026-06-26T09:00:06'
   source: Circular Online
   title: UK invests £50m in domestic critical minerals projects
-- category: circular
-  description: The Advertising Standards Authority (ASA) has banned adverts from Adidas,
-    Calvin Klein, and Uniqlo, over 'misleading' recycling claims. The post Adidas,
-    Calvin Klein, and Uniqlo ads banned over recycl...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/adidas-calvin-klein-and-uniqlo-ads-banned-over-recycling-claims/
-  pub_date: '2026-06-25T08:20:10'
-  source: Circular Online
-  title: Adidas, Calvin Klein, and Uniqlo ads banned over recycling claims
-last_updated: '2026-07-02T08:56:28.118652'
+last_updated: '2026-07-03T09:17:54.878214'

@@ -1,4 +1,22 @@
 articles:
+- category: machine-learning
+  description: LangGraph, CrewAI, OpenAI Agents SDK, Google ADK, Mastra, and more.
+    If you're building AI agents in 2026, these are the frameworks worth paying attention
+    to before starting your next project.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026
+  pub_date: '2026-07-02T14:00:42'
+  source: KDnuggets
+  title: 10 Agentic AI Frameworks You Should Know in 2026
+- category: machine-learning
+  description: This article takes a gentle dive into the ultimate AI systems evaluation
+    benchmark, outlining why it was created, curating diverse opinions from groups
+    of experts in the field about it, and wrapping u...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/humanitys-last-exam-is-a-distraction
+  pub_date: '2026-07-02T12:00:59'
+  source: KDnuggets
+  title: Humanity’s Last Exam is a Distraction
 - category: ai-research
   description: During a "Washington Post Live" panel discussion with ASU President
     Michael Crow, President Sally Kornbluth explored how universities are preparing
@@ -169,23 +187,6 @@ articles:
   source: MIT AI News
   title: 'MIT in the media: Exploring how curiosity-driven science is an essential
     ingredient in America’s success'
-- category: machine-learning
-  description: Take a practical look at multimodal, any-to-any systems for vision-language
-    reasoning, speech interaction, document intelligence, real-time assistants, local
-    deployment.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video
-  pub_date: '2026-06-25T14:00:07'
-  source: KDnuggets
-  title: 5 Open Source Omni AI Models That Handle Text, Images, Audio, and Video
-- category: machine-learning
-  description: Follow this step-by-step path through the design, decision-making,
-    and leadership skills that move an engineer into the architect's seat.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-architect-in-2026
-  pub_date: '2026-06-25T12:00:54'
-  source: KDnuggets
-  title: The Roadmap to Becoming an AI Architect in 2026
 - category: ai-research
   description: A new system, known as Murakkab, optimizes the design and deployment
     of multistep workflows that power AI applications.
@@ -253,4 +254,4 @@ articles:
   pub_date: '2026-06-03T13:00:00'
   source: Google AI Blog
   title: 5 ways Google Search can level up your thrift and vintage shopping
-last_updated: '2026-07-02T08:56:29.257187'
+last_updated: '2026-07-03T09:17:55.769220'
