@@ -1,5 +1,13 @@
 articles:
 - category: machine-learning
+  description: In this article, you'll learn how to use the Claude API in Python,
+    make your first request, and handle responses with the official SDK.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-the-claude-api-in-python
+  pub_date: '2026-07-03T12:00:25'
+  source: KDnuggets
+  title: Getting Started with the Claude API in Python
+- category: machine-learning
   description: LangGraph, CrewAI, OpenAI Agents SDK, Google ADK, Mastra, and more.
     If you're building AI agents in 2026, these are the frameworks worth paying attention
     to before starting your next project.
@@ -161,15 +169,6 @@ articles:
   pub_date: '2026-06-26T13:00:00'
   source: MIT AI News
   title: LLMs help robots understand vague instructions and focus on key details
-- category: machine-learning
-  description: In this tutorial, we will show you how to use Gemini to create Google
-    Sheets, build a useful table, generate formulas, analyze data, and improve the
-    spreadsheet with follow-up prompts.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/using-gemini-to-create-google-sheets
-  pub_date: '2026-06-25T16:00:08'
-  source: KDnuggets
-  title: Using Gemini to Create Google Sheets
 - category: ai-research
   description: The Google Finance logo, surrounded by elements of the user interface
   icon: fa-google
@@ -254,4 +253,4 @@ articles:
   pub_date: '2026-06-03T13:00:00'
   source: Google AI Blog
   title: 5 ways Google Search can level up your thrift and vintage shopping
-last_updated: '2026-07-03T09:17:55.769220'
+last_updated: '2026-07-04T08:36:54.422900'
