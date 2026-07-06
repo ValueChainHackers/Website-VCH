@@ -1,5 +1,14 @@
 articles:
 - category: circular
+  description: Too much activity is focused on recycling and waste management rather
+    than preventing waste, a new report commissioned by Defra finds. The post New
+    report for Defra urges UK to build a more circular e...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-report-for-defra-urges-uk-to-build-a-more-circular-economy/
+  pub_date: '2026-07-06T08:58:34'
+  source: Circular Online
+  title: New report for Defra urges UK to build a more circular economy
+- category: circular
   description: News updates written by CIWM's commercial partners. Advetec Advetec
     strengthens board with industry leader to accelerate growth in evolving waste
     market Bucher Municipal Backing engineering with actio...
@@ -161,13 +170,4 @@ articles:
   pub_date: '2026-06-29T10:06:35'
   source: Circular Online
   title: Prison sentence for man who dumped 367 tonnes of waste
-- category: circular
-  description: The government is investing GBP50 million in critical minerals projects
-    across the UK to increase domestic production and reduce reliance on imports.
-    The post UK invests GBP50m in domestic critical mi...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-invests-50m-in-domestic-critical-minerals-projects/
-  pub_date: '2026-06-26T09:00:06'
-  source: Circular Online
-  title: UK invests £50m in domestic critical minerals projects
-last_updated: '2026-07-05T08:52:20.638844'
+last_updated: '2026-07-06T10:21:59.747102'
