@@ -1,5 +1,133 @@
 articles:
 - category: circular
+  description: CIWM is to develop and deliver an individual competence route for waste
+    operators under proposed reforms to England's waste carrier, broker and dealer
+    regime. The reforms would replace the existing re...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-to-develop-competence-route-for-new-waste-permitting-regime/
+  pub_date: '2026-07-07T09:26:07'
+  source: Circular Online
+  title: CIWM to develop competence route for new waste permitting regime
+- category: circular
+  description: Median gate fees for materials recycling facilities have risen, while
+    the cost of treating separately collected food waste through anaerobic digestion
+    has fallen, according to WRAP's latest annual sur...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/mrf-gate-fees-rise-as-food-waste-ad-costs-fall-wrap-finds/
+  pub_date: '2026-07-07T08:27:40'
+  source: Circular Online
+  title: MRF gate fees rise as food waste AD costs fall, WRAP finds
+- category: circular
+  description: PackUK has introduced a 1 September 2026 deadline for producers to
+    correct and resubmit 2025 packaging data that will affect their extended producer
+    responsibility for packaging (pEPR) fees. The post ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/packuk-sets-1-september-deadline-for-2025-packaging-data-corrections/
+  pub_date: '2026-07-07T08:22:37'
+  source: Circular Online
+  title: PackUK sets 1 September deadline for 2025 packaging data corrections
+- category: circular
+  description: Bin and street cleaning workers have voted to strike in Great Yarmouth
+    as part of a pay dispute with the council. The post Refuse workers vote to strike
+    in Great Yarmouth appeared first on Circular On...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/refuse-workers-vote-to-strike-in-great-yarmouth/
+  pub_date: '2026-07-07T07:30:00'
+  source: Circular Online
+  title: Refuse workers vote to strike in Great Yarmouth
+- category: supply-chain
+  description: Learn how dynamic picking robots use AI, 3D vision, and adaptive gripping
+    to improve warehouse picking, sorting, induction, and throughput while reducing
+    manual intervention.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-should-logistics-leaders-automate-complex-picking-and-sorting
+  pub_date: '2026-07-06T17:11:00'
+  source: Supply Chain 24/7
+  title: How Should Logistics Leaders Automate Complex Picking and Sorting?
+- category: supply-chain
+  description: Learn how Targeted Cost to Serve measures warehouse costs against actual
+    workload, helping Finance and Operations evaluate performance more accurately.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-should-warehouses-measure-cost-when-workloads-constantly-change
+  pub_date: '2026-07-06T15:37:00'
+  source: Supply Chain 24/7
+  title: How Should Warehouses Measure Cost When Workloads Constantly Change?
+- category: supply-chain
+  description: Learn why robotic grasping remains a major challenge in warehouse automation
+    and how mobile manipulation helps robots handle variable inventory more reliably.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/robotic-grasping-challenges-in-warehouse-automation
+  pub_date: '2026-07-06T15:16:00'
+  source: Supply Chain 24/7
+  title: Robotic Grasping Challenges in Warehouse Automation
+- category: supply-chain
+  description: Learn why most cloud labeling security incidents stem from operational
+    mistakes-not hackers-and how cloud management helps reduce risk and simplify security.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-most-cloud-labeling-security-risks-come-from-simple-mistakes
+  pub_date: '2026-07-06T15:08:00'
+  source: Supply Chain 24/7
+  title: Why Most Cloud Labeling Security Risks Come From Simple Mistakes
+- category: supply-chain
+  description: Learn when mobile cart batteries should be replaced, why 75-80% battery
+    health matters, and how diagnostics help reduce warehouse downtime and productivity
+    losses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/battery-state-of-health-when-to-replace-warehouse-cart-batteries
+  pub_date: '2026-07-06T15:03:00'
+  source: Supply Chain 24/7
+  title: 'Battery State of Health: When to Replace Warehouse Cart Batteries'
+- category: supply-chain
+  description: Maersk and Hapag-Lloyd have resumed Suez Canal transit for one container
+    service, signaling a cautious first step back after years of Red Sea disruptions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-hapag-lloyd-resume-one-suez-canal-service
+  pub_date: '2026-07-06T15:00:00'
+  source: Supply Chain 24/7
+  title: Maersk, Hapag-Lloyd Resume One Suez Canal Service
+- category: supply-chain
+  description: As AI takes on more supply chain decisions, companies need stronger
+    governance, human oversight, and documentation to reduce legal and operational
+    risk.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-governance-global-supply-chain-risk
+  pub_date: '2026-07-06T14:27:00'
+  source: Supply Chain 24/7
+  title: Supply Chain AI Needs More Than Automation. It Needs Guardrails
+- category: supply-chain
+  description: A new Interact Analysis report says many robot suppliers still have
+    work to do before updated industrial robot safety standards take effect in Europe.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/robot-suppliers-arent-ready-for-europes-new-safety-rules
+  pub_date: '2026-07-06T14:14:00'
+  source: Supply Chain 24/7
+  title: Many Robot Suppliers Aren’t Ready for Europe’s New Safety Rules
+- category: supply-chain
+  description: A new global cargo theft report finds organized criminals are increasingly
+    using fraud and fake carrier identities instead of traditional cargo theft.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cargo-theft-report-finds-fraud-driving-supply-chain-crime
+  pub_date: '2026-07-06T13:43:00'
+  source: Supply Chain 24/7
+  title: Cargo Theft Report Finds Fraud Replacing Force in Supply Chains
+- category: supply-chain
+  description: H-E-B is moving forward with new bakery and refrigerated warehouse
+    projects as part of its $700 million San Antonio supply chain expansion.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/heb-san-antonio-supply-chain-expansion-bakery-refrigerated-warehouse
+  pub_date: '2026-07-06T13:29:00'
+  source: Supply Chain 24/7
+  title: H-E-B Files Plans for Bakery, Refrigerated Warehouse in San Antonio
+- category: circular
+  description: The Environment Agency has launched investigation into the illegal
+    dumping of thousand tonnes of mixed household and commercial waste in Bradford.
+    The post Environment Agency opens investigation into ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/environment-agency-opens-investigation-into-bradford-waste-dump/
+  pub_date: '2026-07-06T11:53:07'
+  source: Circular Online
+  title: Environment Agency opens investigation into Bradford waste dump
+- category: circular
   description: Too much activity is focused on recycling and waste management rather
     than preventing waste, a new report commissioned by Defra finds. The post New
     report for Defra urges UK to build a more circular e...
@@ -26,38 +154,6 @@ articles:
   pub_date: '2026-07-02T08:13:26'
   source: Circular Online
   title: Drinks producers claim Welsh DRS could raise prices by 50p
-- category: supply-chain
-  description: Agentic AI is transforming procurement, but organizations still bear
-    full responsibility for the decisions autonomous systems make.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/agentic-ai-is-changing-procurement-governance-must-keep-up
-  pub_date: '2026-07-01T16:46:00'
-  source: Supply Chain 24/7
-  title: Agentic AI Is Changing Procurement. Governance Must Keep Up
-- category: supply-chain
-  description: Steve Liou explains how achieving his Wall Street dream led him to
-    build a company focused on improving healthcare supply chains instead.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/steve-liou-clarium-leadership-lessons
-  pub_date: '2026-07-01T15:19:00'
-  source: Supply Chain 24/7
-  title: 'Leadership Lessons: Steve Liou, CEO of Clarium'
-- category: supply-chain
-  description: CMA CGM is reportedly nearing a $1.4 billion acquisition of FedEx Supply
-    Chain, a move that would expand its U.S. logistics business.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cma-cgm-nears-fedex-supply-chain-acquisition
-  pub_date: '2026-07-01T14:30:00'
-  source: Supply Chain 24/7
-  title: CMA CGM Reportedly Nears $1.4 Billion Deal for FedEx Supply Chain
-- category: supply-chain
-  description: BMW has completed its $1.7 billion South Carolina investment as it
-    prepares to build its first fully electric vehicle in the United States.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/bmw-completes-1.7b-south-carolina-ev-manufacturing-project
-  pub_date: '2026-07-01T12:03:00'
-  source: Supply Chain 24/7
-  title: BMW Completes $1.7B South Carolina EV Manufacturing Project
 - category: circular
   description: Waste and recycling had one of the highest fatal injury rates of any
     industry in 2025/26, Health and Safety Executive (HSE) statistics show. The latest
@@ -77,97 +173,4 @@ articles:
   pub_date: '2026-07-01T08:32:10'
   source: Circular Online
   title: EU Council greenlights EPR scheme for automotive sector
-- category: supply-chain
-  description: The FDA selected seven companies for a pilot program aimed at reducing
-    delays in opening new U.S. pharmaceutical manufacturing facilities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fda-pilot-us-drug-manufacturing-plants
-  pub_date: '2026-06-30T18:15:00'
-  source: Supply Chain 24/7
-  title: FDA Pilot Aims to Speed Up New U.S. Drug Manufacturing Plants
-- category: circular
-  description: Veolia has won the inaugural British Safety Council Innovation in Health
-    Award for its Injury Prevention Programme supporting municipal waste collection
-    teams. The post Veolia wins inaugural British S...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/veolia-wins-inaugural-british-safety-council-innovation-in-health-award/
-  pub_date: '2026-06-30T14:04:18'
-  source: Circular Online
-  title: Veolia wins inaugural British Safety Council Innovation in Health Award
-- category: supply-chain
-  description: The Port of Baltimore has opened double-stack rail service through
-    the rebuilt Howard Street Tunnel, expanding the port's rail capacity.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/port-of-baltimore-howard-street-tunnel-double-stack-rail-service
-  pub_date: '2026-06-30T13:46:00'
-  source: Supply Chain 24/7
-  title: Port of Baltimore Opens Double-Stack Rail Corridor After Upgrade
-- category: supply-chain
-  description: Gartner's annual report identifies eight supply chain technology trends
-    for 2026, with agentic AI and physical AI leading this year's list.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-top-supply-chain-technology-trends-2026
-  pub_date: '2026-06-30T13:24:00'
-  source: Supply Chain 24/7
-  title: Top Supply Chain Technology Trends for 2026
-- category: supply-chain
-  description: Aviro360 CEO Ilhan Kolko explains how AI-powered yard visibility is
-    helping companies reduce delays and make smarter logistics decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ilhan-kolko-ai-yard-visibility-supply-chain-qa
-  pub_date: '2026-06-30T12:29:00'
-  source: Supply Chain 24/7
-  title: How AI Is Helping Companies Rethink Yard Management
-- category: circular
-  description: Multiple tonnes of waste have now been removed from a site in Yorkshire
-    after a prosecution brought by the Environment Agency. Earlier this year, Andrew
-    Leadbeater, 57, pleaded guilty to two charges r...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/west-yorkshire-illegal-waste-dump-cleared-after-prosecution/
-  pub_date: '2026-06-30T10:10:03'
-  source: Circular Online
-  title: West Yorkshire illegal waste dump cleared after prosecution
-- category: circular
-  description: Waste crews in Bristol rescued a man from being crushed by the machinery
-    inside a bin lorry yesterday morning. The post Bristol Waste crew saves person
-    from inside bin lorry appeared first on Circular...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/bristol-waste-crew-saves-person-from-inside-bin-lorry/
-  pub_date: '2026-06-30T09:30:03'
-  source: Circular Online
-  title: Bristol Waste crew saves person from inside bin lorry
-- category: circular
-  description: An investigation into a fire at a recycling centre in Widnes that saw
-    20 fire engines deployed was 'most likely' caused by a disposable vape. The post
-    Major recycling centre fire caused by disposable ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/major-recycling-centre-fire-caused-by-disposable-vape-fire-service-says/
-  pub_date: '2026-06-30T08:16:11'
-  source: Circular Online
-  title: Major recycling centre fire caused by disposable vape, fire service says
-- category: supply-chain
-  description: USPS has proposed several parcel pricing and measurement changes that
-    could increase costs for some shippers when they take effect July 12.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usps-parcel-pricing-measurement-changes-july-2026
-  pub_date: '2026-06-29T14:44:00'
-  source: Supply Chain 24/7
-  title: Five USPS Parcel Changes Shippers Should Know Before July 12
-- category: supply-chain
-  description: Oracle has launched four new AI-powered agentic applications and new
-    inventory optimization tools for Oracle Fusion Cloud SCM.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/oracle-ai-agent-applications-supply-chain-scm
-  pub_date: '2026-06-29T14:09:00'
-  source: Supply Chain 24/7
-  title: Oracle Adds AI Agent Workspaces for Inventory and Suppliers
-- category: circular
-  description: A man in Belfast has been sentenced to nine months in prison for dumping
-    367 tonnes of unauthorised waste, including timber, plastics, and metal. The post
-    Prison sentence for man who dumped 367 tonnes...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/prison-sentence-for-man-who-dumped-367-tonnes-of-waste/
-  pub_date: '2026-06-29T10:06:35'
-  source: Circular Online
-  title: Prison sentence for man who dumped 367 tonnes of waste
-last_updated: '2026-07-06T10:21:59.747102'
+last_updated: '2026-07-07T09:40:57.866535'

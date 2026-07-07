@@ -1,4 +1,36 @@
 articles:
+- category: ai-research
+  description: PhD student Rachel Sava, winner of the Envisioning the Future of Computing
+    Prize, explores transformative improvements and dystopian risks of neural technology.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706
+  pub_date: '2026-07-06T19:50:00'
+  source: MIT AI News
+  title: Toward a future that preserves benefits of neurotechnology for all
+- category: machine-learning
+  description: The role is shifting from building models to managing them.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders
+  pub_date: '2026-07-06T16:00:09'
+  source: KDnuggets
+  title: Data Scientists Are Becoming AI Managers, Not Model Builders
+- category: machine-learning
+  description: You describe the model. It writes the code, runs the training, and
+    ships the checkpoint. Welcome to ML Intern.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-hugging-face-ml-intern-your-first-ml-agent
+  pub_date: '2026-07-06T14:00:31'
+  source: KDnuggets
+  title: 'Getting Started with Hugging Face ML Intern: Your First ML Agent'
+- category: machine-learning
+  description: This article looks at five concrete ways SLMs are showing up inside
+    next-generation agents right now, from the research backing them to the tools
+    and numbers worth knowing if you're deciding whether y...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-ways-small-language-models-are-powering-next-gen-agents
+  pub_date: '2026-07-06T12:00:53'
+  source: KDnuggets
+  title: 5 Ways Small Language Models Are Powering Next-Gen Agents
 - category: machine-learning
   description: In this article, you'll learn how to use the Claude API in Python,
     make your first request, and handle responses with the official SDK.
@@ -127,15 +159,6 @@ articles:
   pub_date: '2026-06-29T14:00:50'
   source: KDnuggets
   title: Your RAG Pipeline Is Probably Useless. Here’s a Better Alternative
-- category: machine-learning
-  description: This is an opinion-based look at the AI coding subscription plans that
-    I think give developers the best value for their money, from token and usage-based
-    plans to full coding-agent ecosystems.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-ai-coding-subscription-plans-that-give-developers-the-best-value
-  pub_date: '2026-06-29T12:00:38'
-  source: KDnuggets
-  title: 5 AI Coding Subscription Plans That Give Developers the Best Value
 - category: ai-research
   description: A faculty member since 1999, Autor is a leading researcher in artificial
     intelligence and the work of the future.
@@ -144,22 +167,6 @@ articles:
   pub_date: '2026-06-26T16:00:00'
   source: MIT AI News
   title: David Autor named head of the Department of Economics
-- category: machine-learning
-  description: Fine-tune open language models locally on your Mac using MLX. No cloud
-    GPUs or costs required.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/fine-tuning-language-models-on-apple-silicon-with-mlx
-  pub_date: '2026-06-26T15:00:17'
-  source: KDnuggets
-  title: Fine-tuning Language Models on Apple Silicon with MLX
-- category: machine-learning
-  description: This article covers five concrete agentic workflows, one for each major
-    stage of a data science pipeline.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-agentic-workflows-to-automate-your-data-science-pipeline
-  pub_date: '2026-06-26T13:34:35'
-  source: KDnuggets
-  title: 5 Agentic Workflows to Automate Your Data Science Pipeline
 - category: ai-research
   description: To help robots do chores in places like homes and factories, a new
     approach from MIT uses one language model to clarify users' instructions, then
@@ -203,14 +210,6 @@ articles:
   source: MIT AI News
   title: Exploring the societal impacts of AI
 - category: ai-research
-  description: Researchers combined an efficient algorithm with dedicated hardware
-    to rapidly generate 3D maps for navigation using minimal memory and power.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
-  pub_date: '2026-06-23T04:00:00'
-  source: MIT AI News
-  title: New chip could help tiny robots traverse complex environments
-- category: ai-research
   description: Research in "Nature" shows our conversational AI system matches primary
     care physicians in complex disease management.
   icon: fa-google
@@ -253,4 +252,4 @@ articles:
   pub_date: '2026-06-03T13:00:00'
   source: Google AI Blog
   title: 5 ways Google Search can level up your thrift and vintage shopping
-last_updated: '2026-07-06T10:22:00.688924'
+last_updated: '2026-07-07T09:40:58.592130'
