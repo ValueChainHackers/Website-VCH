@@ -1,4 +1,54 @@
 articles:
+- category: supply-chain
+  description: Toyota is investing $3.6 billion to expand its San Antonio plant, move
+    Tacoma production to Texas and create 2,000 new jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/toyota-expands-texas-plant-for-tacoma-production
+  pub_date: '2026-07-08T01:29:00'
+  source: Supply Chain 24/7
+  title: Toyota Brings Tacoma Production to Texas in $3.6 Billion Expansion
+- category: supply-chain
+  description: A Supreme Court ruling is prompting freight brokers to take a closer
+    look at how they select, document and defend carrier decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supreme-court-montgomery-ruling-freight-brokers-qa
+  pub_date: '2026-07-07T18:08:00'
+  source: Supply Chain 24/7
+  title: What the Supreme Court’s Montgomery Ruling Means For Freight Brokers
+- category: supply-chain
+  description: A new Radial survey found consumers embrace brands that expand across
+    marketplaces, but delivery problems and poor fulfillment quickly drive shoppers
+    away.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/radial-survey-marketplace-delivery-problems-brand-loyalty-2026
+  pub_date: '2026-07-07T13:47:00'
+  source: Supply Chain 24/7
+  title: TikTok Shop Leads Survey for Delivery Problems as Brands Expand Online
+- category: supply-chain
+  description: Descartes has acquired Chile-based Drivin for about $30 million to
+    expand its last mile delivery business across Latin America.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/descartes-acquires-drivin-latin-america-last-mile-delivery
+  pub_date: '2026-07-07T13:27:00'
+  source: Supply Chain 24/7
+  title: Descartes Acquires Drivin to Expand Last Mile Reach in Latin America
+- category: supply-chain
+  description: Ford has signed a long-term agreement with Micron for automotive memory,
+    as today's vehicles rely more on software and onboard computing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ford-micron-long-term-memory-supply-agreement
+  pub_date: '2026-07-07T13:13:00'
+  source: Supply Chain 24/7
+  title: Ford Signs Long-Term Memory Chip Supply Deal With Micron
+- category: supply-chain
+  description: Inspector83x is a powerful 2D vision sensor designed to simplify and
+    enhance quality control tasks, including anomaly detection. Utilizing advanced
+    AI algorithms it is capable of performing high-preci...
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/anomaly-detection-in-tire-inspection-with-inspector83x
+  pub_date: '2026-07-07T13:00:00'
+  source: Supply Chain 24/7
+  title: Anomaly Detection in Tire Inspection with Inspector83x
 - category: circular
   description: CIWM is to develop and deliver an individual competence route for waste
     operators under proposed reforms to England's waste carrier, broker and dealer
@@ -68,56 +118,6 @@ articles:
   pub_date: '2026-07-06T15:08:00'
   source: Supply Chain 24/7
   title: Why Most Cloud Labeling Security Risks Come From Simple Mistakes
-- category: supply-chain
-  description: Learn when mobile cart batteries should be replaced, why 75-80% battery
-    health matters, and how diagnostics help reduce warehouse downtime and productivity
-    losses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/battery-state-of-health-when-to-replace-warehouse-cart-batteries
-  pub_date: '2026-07-06T15:03:00'
-  source: Supply Chain 24/7
-  title: 'Battery State of Health: When to Replace Warehouse Cart Batteries'
-- category: supply-chain
-  description: Maersk and Hapag-Lloyd have resumed Suez Canal transit for one container
-    service, signaling a cautious first step back after years of Red Sea disruptions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-hapag-lloyd-resume-one-suez-canal-service
-  pub_date: '2026-07-06T15:00:00'
-  source: Supply Chain 24/7
-  title: Maersk, Hapag-Lloyd Resume One Suez Canal Service
-- category: supply-chain
-  description: As AI takes on more supply chain decisions, companies need stronger
-    governance, human oversight, and documentation to reduce legal and operational
-    risk.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-governance-global-supply-chain-risk
-  pub_date: '2026-07-06T14:27:00'
-  source: Supply Chain 24/7
-  title: Supply Chain AI Needs More Than Automation. It Needs Guardrails
-- category: supply-chain
-  description: A new Interact Analysis report says many robot suppliers still have
-    work to do before updated industrial robot safety standards take effect in Europe.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/robot-suppliers-arent-ready-for-europes-new-safety-rules
-  pub_date: '2026-07-06T14:14:00'
-  source: Supply Chain 24/7
-  title: Many Robot Suppliers Aren’t Ready for Europe’s New Safety Rules
-- category: supply-chain
-  description: A new global cargo theft report finds organized criminals are increasingly
-    using fraud and fake carrier identities instead of traditional cargo theft.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cargo-theft-report-finds-fraud-driving-supply-chain-crime
-  pub_date: '2026-07-06T13:43:00'
-  source: Supply Chain 24/7
-  title: Cargo Theft Report Finds Fraud Replacing Force in Supply Chains
-- category: supply-chain
-  description: H-E-B is moving forward with new bakery and refrigerated warehouse
-    projects as part of its $700 million San Antonio supply chain expansion.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/heb-san-antonio-supply-chain-expansion-bakery-refrigerated-warehouse
-  pub_date: '2026-07-06T13:29:00'
-  source: Supply Chain 24/7
-  title: H-E-B Files Plans for Bakery, Refrigerated Warehouse in San Antonio
 - category: circular
   description: The Environment Agency has launched investigation into the illegal
     dumping of thousand tonnes of mixed household and commercial waste in Bradford.
@@ -173,4 +173,4 @@ articles:
   pub_date: '2026-07-01T08:32:10'
   source: Circular Online
   title: EU Council greenlights EPR scheme for automotive sector
-last_updated: '2026-07-07T09:40:57.866535'
+last_updated: '2026-07-08T08:28:27.972182'
