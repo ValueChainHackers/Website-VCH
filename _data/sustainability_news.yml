@@ -1,12 +1,55 @@
 articles:
+- category: circular
+  description: A man who fatally injured a work colleague by driving over him twice
+    with a telehandler at a biomass facility has been jailed for over three years
+    after pleading guilty to manslaughter. The post Man j...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/man-jailed-after-killing-colleague-by-driving-over-him-twice-at-biomass-facility/
+  pub_date: '2026-07-09T09:12:06'
+  source: Circular Online
+  title: Man jailed after killing colleague by driving over him twice at biomass facility
+- category: supply-chain
+  description: Warehouse supervisors shape retention, productivity and automation
+    success. Learn how leadership capacity influences warehouse technology ROI.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-frontline-supervisors-determine-warehouse-technology-roi
+  pub_date: '2026-07-08T14:53:00'
+  source: Supply Chain 24/7
+  title: Why Frontline Supervisors Determine Warehouse Technology ROI
+- category: supply-chain
+  description: FedEx Freight says its post-spin-off strategy centers on technology,
+    new sales hires and expanding into higher-growth freight markets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-freight-growth-strategy-post-spin-off
+  pub_date: '2026-07-08T14:32:00'
+  source: Supply Chain 24/7
+  title: FedEx Freight CEO John Smith Maps Out Growth Plan After Spin-Off
 - category: supply-chain
   description: Toyota is investing $3.6 billion to expand its San Antonio plant, move
     Tacoma production to Texas and create 2,000 new jobs.
   icon: fa-box
   link: https://www.supplychain247.com/article/toyota-expands-texas-plant-for-tacoma-production
-  pub_date: '2026-07-08T01:29:00'
+  pub_date: '2026-07-08T13:02:00'
   source: Supply Chain 24/7
   title: Toyota Brings Tacoma Production to Texas in $3.6 Billion Expansion
+- category: circular
+  description: CIWM President Vicki Hughes has warned that small and medium-sized
+    businesses in the waste and resources sector risk being overwhelmed by the pace
+    and complexity of regulatory change. The post Waste S...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-smes-risk-being-overwhelmed-by-regulatory-change-ciwm-president-warns/
+  pub_date: '2026-07-08T11:28:22'
+  source: Circular Online
+  title: Waste SMEs risk being overwhelmed by regulatory change, CIWM President warns
+- category: circular
+  description: 89.2% of local authorities in England now collect cartons from households
+    for recycling, three months on from Simpler Recycling reforms coming into force.
+    The post Almost 9 in 10 local authorities col...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/almost-9-in-10-local-authorities-collect-cartons-at-the-kerbside/
+  pub_date: '2026-07-08T08:37:02'
+  source: Circular Online
+  title: Almost 9 in 10 local authorities collect cartons at the kerbside
 - category: supply-chain
   description: A Supreme Court ruling is prompting freight brokers to take a closer
     look at how they select, document and defend carrier decisions.
@@ -102,22 +145,6 @@ articles:
   pub_date: '2026-07-06T15:37:00'
   source: Supply Chain 24/7
   title: How Should Warehouses Measure Cost When Workloads Constantly Change?
-- category: supply-chain
-  description: Learn why robotic grasping remains a major challenge in warehouse automation
-    and how mobile manipulation helps robots handle variable inventory more reliably.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/robotic-grasping-challenges-in-warehouse-automation
-  pub_date: '2026-07-06T15:16:00'
-  source: Supply Chain 24/7
-  title: Robotic Grasping Challenges in Warehouse Automation
-- category: supply-chain
-  description: Learn why most cloud labeling security incidents stem from operational
-    mistakes-not hackers-and how cloud management helps reduce risk and simplify security.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-most-cloud-labeling-security-risks-come-from-simple-mistakes
-  pub_date: '2026-07-06T15:08:00'
-  source: Supply Chain 24/7
-  title: Why Most Cloud Labeling Security Risks Come From Simple Mistakes
 - category: circular
   description: The Environment Agency has launched investigation into the illegal
     dumping of thousand tonnes of mixed household and commercial waste in Bradford.
@@ -145,32 +172,4 @@ articles:
   pub_date: '2026-07-03T07:30:00'
   source: Circular Online
   title: News in Brief | Commercial Partner News July
-- category: circular
-  description: Wales's Deposit Return Scheme (DRS) could increase the price of glass-bottled
-    drinks in Wales by 50p, Welsh drink producers claim. The post Drinks producers
-    claim Welsh DRS could raise prices by 50p a...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/drinks-producers-claim-welsh-drs-could-raise-prices-by-50p/
-  pub_date: '2026-07-02T08:13:26'
-  source: Circular Online
-  title: Drinks producers claim Welsh DRS could raise prices by 50p
-- category: circular
-  description: Waste and recycling had one of the highest fatal injury rates of any
-    industry in 2025/26, Health and Safety Executive (HSE) statistics show. The latest
-    statistics released by HSE show six people died ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-and-recycling-still-among-most-dangerous-sectors-hse-statistics-show/
-  pub_date: '2026-07-01T10:57:24'
-  source: Circular Online
-  title: Waste and recycling still among most dangerous sectors to work in, statistics
-    show
-- category: circular
-  description: The EU's new Extended Producer Responsibility scheme requires the automotive
-    sector to 'design for circularity' and ensure the free take-back and proper treatment
-    of all end-of-life vehicles. The post...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/eu-council-greenlights-epr-scheme-for-automotive-sector/
-  pub_date: '2026-07-01T08:32:10'
-  source: Circular Online
-  title: EU Council greenlights EPR scheme for automotive sector
-last_updated: '2026-07-08T08:28:27.972182'
+last_updated: '2026-07-09T09:39:13.999106'

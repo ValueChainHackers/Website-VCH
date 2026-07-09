@@ -1,4 +1,13 @@
 articles:
+- category: machine-learning
+  description: Learn how to clean CSV files with pandas by handling missing values,
+    duplicate rows, messy text, wrong data types, mixed date formats, invalid emails,
+    and currency values.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-clean-messy-csv-files-with-python-a-beginners-guide
+  pub_date: '2026-07-08T15:10:39'
+  source: KDnuggets
+  title: 'How to Clean Messy CSV Files with Python: A Beginner’s Guide'
 - category: ai-research
   description: A USAF cadet and a Lincoln Laboratory researcher found AI chatbots
     can help nontechnical service members produce viable software applications for
@@ -133,15 +142,6 @@ articles:
   source: Google AI Blog
   title: New York City educators and industry leaders gathered at Google’s offices
     to shape the future of AI in classrooms.
-- category: machine-learning
-  description: Explore the best AI coding platforms, no-code app builders, and vibe
-    coding tools that help beginners and developers build, test, and deploy full-stack
-    apps using simple prompts.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache
-  pub_date: '2026-07-01T12:00:56'
-  source: KDnuggets
-  title: 5 AI Coding Platforms to Build Apps Without the Headache
 - category: ai-research
   description: Computer scientist Phillip Isola cuts through the hype to explain how
     AI agents work and what the future might hold for this rapidly advancing technology.
@@ -252,4 +252,4 @@ articles:
   pub_date: '2026-06-05T14:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in May 2026
-last_updated: '2026-07-08T08:28:29.118117'
+last_updated: '2026-07-09T09:39:15.199569'
