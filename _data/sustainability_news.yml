@@ -1,4 +1,22 @@
 articles:
+- category: supply-chain
+  description: A new Verisk Maplecroft report says about one-third of the world's
+    busiest ports and airports face elevated disruption risks from conflict, weather,
+    and more.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/report-one-third-of-worlds-busiest-ports-face-elevated-disruption-risk
+  pub_date: '2026-07-09T13:53:00'
+  source: Supply Chain 24/7
+  title: 'Report: One-Third of World’s Busiest Ports Face High Disruption Risk'
+- category: supply-chain
+  description: A bipartisan group of senators introduced a bill to restore funding
+    for the Manufacturing Extension Partnership, which supports small and mid-sized
+    manufacturers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/senate-bill-restore-mep-manufacturing-funding
+  pub_date: '2026-07-09T12:46:00'
+  source: Supply Chain 24/7
+  title: Senators Move to Force Restoration of Cut Manufacturing Program
 - category: circular
   description: A man who fatally injured a work colleague by driving over him twice
     with a telehandler at a biomass facility has been jailed for over three years
@@ -128,23 +146,6 @@ articles:
   pub_date: '2026-07-07T07:30:00'
   source: Circular Online
   title: Refuse workers vote to strike in Great Yarmouth
-- category: supply-chain
-  description: Learn how dynamic picking robots use AI, 3D vision, and adaptive gripping
-    to improve warehouse picking, sorting, induction, and throughput while reducing
-    manual intervention.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-should-logistics-leaders-automate-complex-picking-and-sorting
-  pub_date: '2026-07-06T17:11:00'
-  source: Supply Chain 24/7
-  title: How Should Logistics Leaders Automate Complex Picking and Sorting?
-- category: supply-chain
-  description: Learn how Targeted Cost to Serve measures warehouse costs against actual
-    workload, helping Finance and Operations evaluate performance more accurately.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-should-warehouses-measure-cost-when-workloads-constantly-change
-  pub_date: '2026-07-06T15:37:00'
-  source: Supply Chain 24/7
-  title: How Should Warehouses Measure Cost When Workloads Constantly Change?
 - category: circular
   description: The Environment Agency has launched investigation into the illegal
     dumping of thousand tonnes of mixed household and commercial waste in Bradford.
@@ -172,4 +173,4 @@ articles:
   pub_date: '2026-07-03T07:30:00'
   source: Circular Online
   title: News in Brief | Commercial Partner News July
-last_updated: '2026-07-09T09:39:13.999106'
+last_updated: '2026-07-10T09:34:56.191908'

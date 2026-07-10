@@ -1,4 +1,31 @@
 articles:
+- category: ai-research
+  description: MIT researchers developed FloatForm, a swarm of small aquatic robots
+    that snap together like ants forming a raft, assembling into reconfigurable structures
+    on the water.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709
+  pub_date: '2026-07-09T15:50:00'
+  source: MIT AI News
+  title: Tiny robot boats build floating structures
+- category: machine-learning
+  description: This article covers the full path from zero to a running private research
+    assistant on Telegram, including configuring the context length correctly, connecting
+    the channel, enabling web search, and de...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/running-openclaw-with-ollama
+  pub_date: '2026-07-09T14:00:15'
+  source: KDnuggets
+  title: Running OpenClaw with Ollama
+- category: machine-learning
+  description: Stop writing mean() and std() for every column. Learn how to automate
+    descriptive statistics in Python and generate publication-ready summary tables
+    in just a few steps.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-steps-to-automating-descriptive-statistics-with-python
+  pub_date: '2026-07-09T12:00:39'
+  source: KDnuggets
+  title: 7 Steps to Automating Descriptive Statistics with Python
 - category: machine-learning
   description: Learn how to clean CSV files with pandas by handling missing values,
     duplicate rows, messy text, wrong data types, mixed date formats, invalid emails,
@@ -99,24 +126,6 @@ articles:
   pub_date: '2026-07-03T12:00:25'
   source: KDnuggets
   title: Getting Started with the Claude API in Python
-- category: machine-learning
-  description: LangGraph, CrewAI, OpenAI Agents SDK, Google ADK, Mastra, and more.
-    If you're building AI agents in 2026, these are the frameworks worth paying attention
-    to before starting your next project.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026
-  pub_date: '2026-07-02T14:00:42'
-  source: KDnuggets
-  title: 10 Agentic AI Frameworks You Should Know in 2026
-- category: machine-learning
-  description: This article takes a gentle dive into the ultimate AI systems evaluation
-    benchmark, outlining why it was created, curating diverse opinions from groups
-    of experts in the field about it, and wrapping u...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/humanitys-last-exam-is-a-distraction
-  pub_date: '2026-07-02T12:00:59'
-  source: KDnuggets
-  title: Humanity’s Last Exam is a Distraction
 - category: ai-research
   description: During a "Washington Post Live" panel discussion with ASU President
     Michael Crow, President Sally Kornbluth explored how universities are preparing
@@ -209,16 +218,6 @@ articles:
   source: Google AI Blog
   title: Our latest Google Finance upgrades, including a new app
 - category: ai-research
-  description: '"Scientific American" showcases the history and future of America''s
-    scientific engine, highlighting promising young scientists and icons at MIT and
-    beyond.'
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success
-  pub_date: '2026-06-25T16:00:00'
-  source: MIT AI News
-  title: 'MIT in the media: Exploring how curiosity-driven science is an essential
-    ingredient in America’s success'
-- category: ai-research
   description: Research in "Nature" shows our conversational AI system matches primary
     care physicians in complex disease management.
   icon: fa-google
@@ -252,4 +251,4 @@ articles:
   pub_date: '2026-06-05T14:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in May 2026
-last_updated: '2026-07-09T09:39:15.199569'
+last_updated: '2026-07-10T09:34:57.047199'
