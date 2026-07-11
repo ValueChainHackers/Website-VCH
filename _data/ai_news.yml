@@ -1,4 +1,21 @@
 articles:
+- category: machine-learning
+  description: You don't need a PhD to understand fine-tuning. This article explains
+    how pretrained models learn new skills through fine-tuning.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/fine-tuning-explained-for-noobs-how-pretrained-models-learn-new-skills
+  pub_date: '2026-07-10T14:00:32'
+  source: KDnuggets
+  title: Fine-Tuning Explained for Noobs (How Pretrained Models Learn New Skills)
+- category: machine-learning
+  description: SmolVLM2-2.2B sits at a genuinely useful point on the capability-size
+    trade-off curve; small enough to run on a single consumer GPU, capable enough
+    to produce video summaries that are actually useful ...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/local-video-summarization-pipeline-processing-frames-with-smolvlm2-2-2b
+  pub_date: '2026-07-10T12:00:51'
+  source: KDnuggets
+  title: 'Local Video Summarization Pipeline: Processing Frames with SmolVLM2-2.2B'
 - category: ai-research
   description: MIT researchers developed FloatForm, a swarm of small aquatic robots
     that snap together like ants forming a raft, assembling into reconfigurable structures
@@ -109,23 +126,6 @@ articles:
   pub_date: '2026-07-06T14:00:31'
   source: KDnuggets
   title: 'Getting Started with Hugging Face ML Intern: Your First ML Agent'
-- category: machine-learning
-  description: This article looks at five concrete ways SLMs are showing up inside
-    next-generation agents right now, from the research backing them to the tools
-    and numbers worth knowing if you're deciding whether y...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-ways-small-language-models-are-powering-next-gen-agents
-  pub_date: '2026-07-06T12:00:53'
-  source: KDnuggets
-  title: 5 Ways Small Language Models Are Powering Next-Gen Agents
-- category: machine-learning
-  description: In this article, you'll learn how to use the Claude API in Python,
-    make your first request, and handle responses with the official SDK.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/getting-started-with-the-claude-api-in-python
-  pub_date: '2026-07-03T12:00:25'
-  source: KDnuggets
-  title: Getting Started with the Claude API in Python
 - category: ai-research
   description: During a "Washington Post Live" panel discussion with ASU President
     Michael Crow, President Sally Kornbluth explored how universities are preparing
@@ -251,4 +251,4 @@ articles:
   pub_date: '2026-06-05T14:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in May 2026
-last_updated: '2026-07-10T09:34:57.047199'
+last_updated: '2026-07-11T07:55:36.342624'
