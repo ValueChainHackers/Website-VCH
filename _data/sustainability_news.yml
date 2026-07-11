@@ -1,5 +1,39 @@
 articles:
 - category: supply-chain
+  description: A new Proxima survey found that 72% of CEOs would pay more to better
+    protect their supply chains from disruptions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ceos-would-pay-17-percent-more-for-supply-chain-resilience
+  pub_date: '2026-07-10T14:14:00'
+  source: Supply Chain 24/7
+  title: 'Report: 72% of CEOs Would Pay More for Supply Chain Resilience'
+- category: supply-chain
+  description: The Department of Transportation is investing $1.73 billion through
+    its BUILD grant program to fund 127 transportation projects across the United
+    States.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dot-build-grants-roads-ports-truck-parking
+  pub_date: '2026-07-10T13:50:00'
+  source: Supply Chain 24/7
+  title: DOT Awards $1.73B in Infrastructure Grants. Here’s Where It’s Going
+- category: supply-chain
+  description: The June Logistics Managers' Index reached its highest level in more
+    than four years as demand for warehousing and transportation continues to grow.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/june-2026-logistics-managers-index-highest-reading-since-2022
+  pub_date: '2026-07-10T13:15:00'
+  source: Supply Chain 24/7
+  title: 'Signs of Life: Logistics Index Hits Highest Level Since 2022'
+- category: circular
+  description: The UK's biggest drinks producers and grocery retailers have urged
+    the Welsh Government to appoint Exchange for Change as its Deposit Return Scheme
+    administrator. The post Coca-Cola, Tesco, and Carlsb...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/coca-cola-tesco-and-carlsberg-call-for-action-on-welsh-drs/
+  pub_date: '2026-07-10T11:06:33'
+  source: Circular Online
+  title: Coca-Cola, Tesco, and Carlsberg call for action on Welsh DRS
+- category: supply-chain
   description: A new Verisk Maplecroft report says about one-third of the world's
     busiest ports and airports face elevated disruption risks from conflict, weather,
     and more.
@@ -85,31 +119,6 @@ articles:
   pub_date: '2026-07-07T13:47:00'
   source: Supply Chain 24/7
   title: TikTok Shop Leads Survey for Delivery Problems as Brands Expand Online
-- category: supply-chain
-  description: Descartes has acquired Chile-based Drivin for about $30 million to
-    expand its last mile delivery business across Latin America.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/descartes-acquires-drivin-latin-america-last-mile-delivery
-  pub_date: '2026-07-07T13:27:00'
-  source: Supply Chain 24/7
-  title: Descartes Acquires Drivin to Expand Last Mile Reach in Latin America
-- category: supply-chain
-  description: Ford has signed a long-term agreement with Micron for automotive memory,
-    as today's vehicles rely more on software and onboard computing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ford-micron-long-term-memory-supply-agreement
-  pub_date: '2026-07-07T13:13:00'
-  source: Supply Chain 24/7
-  title: Ford Signs Long-Term Memory Chip Supply Deal With Micron
-- category: supply-chain
-  description: Inspector83x is a powerful 2D vision sensor designed to simplify and
-    enhance quality control tasks, including anomaly detection. Utilizing advanced
-    AI algorithms it is capable of performing high-preci...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/anomaly-detection-in-tire-inspection-with-inspector83x
-  pub_date: '2026-07-07T13:00:00'
-  source: Supply Chain 24/7
-  title: Anomaly Detection in Tire Inspection with Inspector83x
 - category: circular
   description: CIWM is to develop and deliver an individual competence route for waste
     operators under proposed reforms to England's waste carrier, broker and dealer
@@ -164,13 +173,4 @@ articles:
   pub_date: '2026-07-06T08:58:34'
   source: Circular Online
   title: New report for Defra urges UK to build a more circular economy
-- category: circular
-  description: News updates written by CIWM's commercial partners. Advetec Advetec
-    strengthens board with industry leader to accelerate growth in evolving waste
-    market Bucher Municipal Backing engineering with actio...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-july/
-  pub_date: '2026-07-03T07:30:00'
-  source: Circular Online
-  title: News in Brief | Commercial Partner News July
-last_updated: '2026-07-10T09:34:56.191908'
+last_updated: '2026-07-11T07:55:35.454168'
