@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: A North Wales waste and recycling company has been fined GBP36,000
+    for repeatedly failing to provide appropriate welfare facilities and asbestos
+    awareness training for employees. The post Waste & recy...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-recycling-company-fined-36000-for-repeated-site-failures/
+  pub_date: '2026-07-13T07:55:04'
+  source: Circular Online
+  title: Waste & recycling company fined £36,000 for ‘repeated’ site failures
 - category: supply-chain
   description: A new Proxima survey found that 72% of CEOs would pay more to better
     protect their supply chains from disruptions.
@@ -164,13 +173,4 @@ articles:
   pub_date: '2026-07-06T11:53:07'
   source: Circular Online
   title: Environment Agency opens investigation into Bradford waste dump
-- category: circular
-  description: Too much activity is focused on recycling and waste management rather
-    than preventing waste, a new report commissioned by Defra finds. The post New
-    report for Defra urges UK to build a more circular e...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-report-for-defra-urges-uk-to-build-a-more-circular-economy/
-  pub_date: '2026-07-06T08:58:34'
-  source: Circular Online
-  title: New report for Defra urges UK to build a more circular economy
-last_updated: '2026-07-12T08:17:47.993769'
+last_updated: '2026-07-13T09:26:55.190596'

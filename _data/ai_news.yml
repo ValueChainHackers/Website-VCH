@@ -1,4 +1,12 @@
 articles:
+- category: ai-research
+  description: Researchers developed an auditing technique to test generative AI models
+    for malicious capabilities, without prompting them for illegal outputs.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
+  pub_date: '2026-07-13T04:00:00'
+  source: MIT AI News
+  title: New method aims to keep kids safe from illegal AI-generated content
 - category: machine-learning
   description: You don't need a PhD to understand fine-tuning. This article explains
     how pretrained models learn new skills through fine-tuning.
@@ -202,15 +210,6 @@ articles:
   source: MIT AI News
   title: David Autor named head of the Department of Economics
 - category: ai-research
-  description: To help robots do chores in places like homes and factories, a new
-    approach from MIT uses one language model to clarify users' instructions, then
-    another to ignore irrelevant info.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
-  pub_date: '2026-06-26T13:00:00'
-  source: MIT AI News
-  title: LLMs help robots understand vague instructions and focus on key details
-- category: ai-research
   description: The Google Finance logo, surrounded by elements of the user interface
   icon: fa-google
   link: https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/
@@ -251,4 +250,4 @@ articles:
   pub_date: '2026-06-05T14:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in May 2026
-last_updated: '2026-07-12T08:17:49.306464'
+last_updated: '2026-07-13T09:26:55.998826'
