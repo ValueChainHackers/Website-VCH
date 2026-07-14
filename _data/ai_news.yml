@@ -1,5 +1,41 @@
 articles:
 - category: ai-research
+  description: Students from the MIT Cybersecurity Clinic help local governments and
+    other vulnerable organizations defend against digital threats.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713
+  pub_date: '2026-07-13T19:10:00'
+  source: MIT AI News
+  title: How MIT students are helping to prevent cyberattacks
+- category: ai-research
+  description: '"SceneSmith" system uses collaborative AI agents to create realistic
+    3D environments of places like kitchens, hotels, and living rooms, where robots
+    can simulate everyday chores.'
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
+  pub_date: '2026-07-13T18:50:00'
+  source: MIT AI News
+  title: AI agents create virtual playgrounds to help robots get crucial training
+    data
+- category: machine-learning
+  description: Outlines is an open-source library that introduces deterministic certainty
+    into LLMs' output generation process for better, more reliable generation of structured
+    outputs.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/structured-language-model-generation-with-outlines
+  pub_date: '2026-07-13T14:00:03'
+  source: KDnuggets
+  title: Structured Language Model Generation with Outlines
+- category: machine-learning
+  description: Build a stronger data portfolio with these practical SQL projects covering
+    customer churn, data warehousing, sales analysis, banking segmentation, and healthcare
+    analytics.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-real-world-sql-projects-to-build-your-data-portfolio
+  pub_date: '2026-07-13T12:00:38'
+  source: KDnuggets
+  title: 5 Real-World SQL Projects to Build Your Data Portfolio
+- category: ai-research
   description: Researchers developed an auditing technique to test generative AI models
     for malicious capabilities, without prompting them for illegal outputs.
   icon: fa-graduation-cap
@@ -119,21 +155,6 @@ articles:
   pub_date: '2026-07-06T19:50:00'
   source: MIT AI News
   title: Toward a future that preserves benefits of neurotechnology for all
-- category: machine-learning
-  description: The role is shifting from building models to managing them.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders
-  pub_date: '2026-07-06T16:00:09'
-  source: KDnuggets
-  title: Data Scientists Are Becoming AI Managers, Not Model Builders
-- category: machine-learning
-  description: You describe the model. It writes the code, runs the training, and
-    ships the checkpoint. Welcome to ML Intern.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/getting-started-with-hugging-face-ml-intern-your-first-ml-agent
-  pub_date: '2026-07-06T14:00:31'
-  source: KDnuggets
-  title: 'Getting Started with Hugging Face ML Intern: Your First ML Agent'
 - category: ai-research
   description: During a "Washington Post Live" panel discussion with ASU President
     Michael Crow, President Sally Kornbluth explored how universities are preparing
@@ -185,15 +206,6 @@ articles:
   title: Inaugural Music Technology Research Showcase celebrates work of new graduate
     program’s initial students
 - category: ai-research
-  description: In a new Keller Gallery exhibition, Alexandros Haridis SM '17, PhD
-    '22 traces centuries of ideas about aesthetic judgment and explores how design
-    can make complex computational systems visible.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629
-  pub_date: '2026-06-29T18:00:00'
-  source: MIT AI News
-  title: '3 Questions: Beyond data-driven aesthetics'
-- category: ai-research
   description: An illustration depicting a full-stack AI infrastructure against a
     dark background
   icon: fa-google
@@ -201,14 +213,6 @@ articles:
   pub_date: '2026-06-29T16:00:00'
   source: Google AI Blog
   title: 'Ask an AI expert: What exactly is the full stack?'
-- category: ai-research
-  description: A faculty member since 1999, Autor is a leading researcher in artificial
-    intelligence and the work of the future.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/david-autor-named-head-department-economics-0626
-  pub_date: '2026-06-26T16:00:00'
-  source: MIT AI News
-  title: David Autor named head of the Department of Economics
 - category: ai-research
   description: The Google Finance logo, surrounded by elements of the user interface
   icon: fa-google
@@ -250,4 +254,4 @@ articles:
   pub_date: '2026-06-05T14:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in May 2026
-last_updated: '2026-07-13T09:26:55.998826'
+last_updated: '2026-07-14T08:04:34.936681'
