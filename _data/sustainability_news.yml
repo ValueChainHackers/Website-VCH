@@ -1,5 +1,63 @@
 articles:
 - category: circular
+  description: The resource and waste management sector is largely ignored and undervalued
+    by government strategic planning, Dan Cooke says. The post Resource & waste infrastructure
+    ignored and undervalued, CIWM dir...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/resource-waste-infrastructure-ignored-and-undervalued-ciwm-director-says/
+  pub_date: '2026-07-14T07:30:00'
+  source: Circular Online
+  title: Resource & waste infrastructure ignored and undervalued, CIWM director says
+- category: supply-chain
+  description: Intel's $5.7 billion expansion in Ireland adds new manufacturing equipment,
+    upgrades existing fabs, and increases production of AI-focused processors.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/intel-five-billion-ireland-chip-manufacturing-expansion
+  pub_date: '2026-07-13T18:54:00'
+  source: Supply Chain 24/7
+  title: Intel invests $5.7 Billion to expand manufacturing in Ireland
+- category: supply-chain
+  description: DP World is reportedly planning a new UAE port on the Gulf of Oman
+    that would allow cargo to bypass the Strait of Hormuz.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dp-world-uae-port-bypass-strait-of-hormuz
+  pub_date: '2026-07-13T14:51:00'
+  source: Supply Chain 24/7
+  title: DP World Plans UAE Port to Bypass Strait of Hormuz
+- category: supply-chain
+  description: Fishbowl Inventory's Kendrick Hair shares five strategies for helping
+    supply chain teams adapt to unpredictable demand and respond faster to disruptions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/demand-whiplash-5-steps-to-stay-ahead-of-disruptions
+  pub_date: '2026-07-13T14:02:00'
+  source: Supply Chain 24/7
+  title: Five Steps to Stay Ahead of Supply Chain Demand Whiplash
+- category: supply-chain
+  description: Infios has launched Archer, an AI platform that automates supply chain
+    decisions across transportation, warehousing and order management.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/infios-launches-archer-ai-platform-for-supply-chain-execution
+  pub_date: '2026-07-13T13:59:00'
+  source: Supply Chain 24/7
+  title: Infios Launches Archer AI Platform for Supply Chain Execution
+- category: supply-chain
+  description: Ports of Indiana secured a record $25 million federal grant to fund
+    a $32 million expansion of its Jeffersonville port by 2028.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ports-of-indiana-jeffersonville-25-million-build-grant-expansion
+  pub_date: '2026-07-13T13:52:00'
+  source: Supply Chain 24/7
+  title: Ports of Indiana Wins Largest Federal Grant in Company History
+- category: circular
+  description: The UK Government have announced plans for restrictions on colourful
+    vape packaging and flavour descriptions. The post Gov announces plans for restrictions
+    on vape packaging and flavours appeared firs...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/gov-announces-plans-for-restrictions-on-vape-packaging-and-flavours/
+  pub_date: '2026-07-13T10:34:31'
+  source: Circular Online
+  title: Gov announces plans for restrictions on vape packaging and flavours
+- category: circular
   description: A North Wales waste and recycling company has been fined GBP36,000
     for repeatedly failing to provide appropriate welfare facilities and asbestos
     awareness training for employees. The post Waste & recy...
@@ -8,6 +66,24 @@ articles:
   pub_date: '2026-07-13T07:55:04'
   source: Circular Online
   title: Waste & recycling company fined £36,000 for ‘repeated’ site failures
+- category: supply-chain
+  description: Download this research-based report examining the current adoption
+    of artificial intelligence in warehouse operations, its primary applications,
+    and the opportunities companies see for future implemen...
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/the-state-of-ai-in-warehousing
+  pub_date: '2026-07-11T14:01:00'
+  source: Supply Chain 24/7
+  title: The State of AI in Warehousing
+- category: supply-chain
+  description: 'Download this guide and get started on your material handling optimization
+    journey. Your goal should be simple: make it easier for people and equipment to
+    move safely and consistently through your war...'
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/22-material-handling-tips
+  pub_date: '2026-07-10T18:00:00'
+  source: Supply Chain 24/7
+  title: 22 Material Handling Tips
 - category: supply-chain
   description: A new Proxima survey found that 72% of CEOs would pay more to better
     protect their supply chains from disruptions.
@@ -42,24 +118,6 @@ articles:
   pub_date: '2026-07-10T11:06:33'
   source: Circular Online
   title: Coca-Cola, Tesco, and Carlsberg call for action on Welsh DRS
-- category: supply-chain
-  description: A new Verisk Maplecroft report says about one-third of the world's
-    busiest ports and airports face elevated disruption risks from conflict, weather,
-    and more.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/report-one-third-of-worlds-busiest-ports-face-elevated-disruption-risk
-  pub_date: '2026-07-09T13:53:00'
-  source: Supply Chain 24/7
-  title: 'Report: One-Third of World’s Busiest Ports Face High Disruption Risk'
-- category: supply-chain
-  description: A bipartisan group of senators introduced a bill to restore funding
-    for the Manufacturing Extension Partnership, which supports small and mid-sized
-    manufacturers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/senate-bill-restore-mep-manufacturing-funding
-  pub_date: '2026-07-09T12:46:00'
-  source: Supply Chain 24/7
-  title: Senators Move to Force Restoration of Cut Manufacturing Program
 - category: circular
   description: A man who fatally injured a work colleague by driving over him twice
     with a telehandler at a biomass facility has been jailed for over three years
@@ -69,30 +127,6 @@ articles:
   pub_date: '2026-07-09T09:12:06'
   source: Circular Online
   title: Man jailed after killing colleague by driving over him twice at biomass facility
-- category: supply-chain
-  description: Warehouse supervisors shape retention, productivity and automation
-    success. Learn how leadership capacity influences warehouse technology ROI.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-frontline-supervisors-determine-warehouse-technology-roi
-  pub_date: '2026-07-08T14:53:00'
-  source: Supply Chain 24/7
-  title: Why Frontline Supervisors Determine Warehouse Technology ROI
-- category: supply-chain
-  description: FedEx Freight says its post-spin-off strategy centers on technology,
-    new sales hires and expanding into higher-growth freight markets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-freight-growth-strategy-post-spin-off
-  pub_date: '2026-07-08T14:32:00'
-  source: Supply Chain 24/7
-  title: FedEx Freight CEO John Smith Maps Out Growth Plan After Spin-Off
-- category: supply-chain
-  description: Toyota is investing $3.6 billion to expand its San Antonio plant, move
-    Tacoma production to Texas and create 2,000 new jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/toyota-expands-texas-plant-for-tacoma-production
-  pub_date: '2026-07-08T13:02:00'
-  source: Supply Chain 24/7
-  title: Toyota Brings Tacoma Production to Texas in $3.6 Billion Expansion
 - category: circular
   description: CIWM President Vicki Hughes has warned that small and medium-sized
     businesses in the waste and resources sector risk being overwhelmed by the pace
@@ -111,23 +145,6 @@ articles:
   pub_date: '2026-07-08T08:37:02'
   source: Circular Online
   title: Almost 9 in 10 local authorities collect cartons at the kerbside
-- category: supply-chain
-  description: A Supreme Court ruling is prompting freight brokers to take a closer
-    look at how they select, document and defend carrier decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supreme-court-montgomery-ruling-freight-brokers-qa
-  pub_date: '2026-07-07T18:08:00'
-  source: Supply Chain 24/7
-  title: What the Supreme Court’s Montgomery Ruling Means For Freight Brokers
-- category: supply-chain
-  description: A new Radial survey found consumers embrace brands that expand across
-    marketplaces, but delivery problems and poor fulfillment quickly drive shoppers
-    away.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/radial-survey-marketplace-delivery-problems-brand-loyalty-2026
-  pub_date: '2026-07-07T13:47:00'
-  source: Supply Chain 24/7
-  title: TikTok Shop Leads Survey for Delivery Problems as Brands Expand Online
 - category: circular
   description: CIWM is to develop and deliver an individual competence route for waste
     operators under proposed reforms to England's waste carrier, broker and dealer
@@ -155,22 +172,4 @@ articles:
   pub_date: '2026-07-07T08:22:37'
   source: Circular Online
   title: PackUK sets 1 September deadline for 2025 packaging data corrections
-- category: circular
-  description: Bin and street cleaning workers have voted to strike in Great Yarmouth
-    as part of a pay dispute with the council. The post Refuse workers vote to strike
-    in Great Yarmouth appeared first on Circular On...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/refuse-workers-vote-to-strike-in-great-yarmouth/
-  pub_date: '2026-07-07T07:30:00'
-  source: Circular Online
-  title: Refuse workers vote to strike in Great Yarmouth
-- category: circular
-  description: The Environment Agency has launched investigation into the illegal
-    dumping of thousand tonnes of mixed household and commercial waste in Bradford.
-    The post Environment Agency opens investigation into ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-agency-opens-investigation-into-bradford-waste-dump/
-  pub_date: '2026-07-06T11:53:07'
-  source: Circular Online
-  title: Environment Agency opens investigation into Bradford waste dump
-last_updated: '2026-07-13T09:26:55.190596'
+last_updated: '2026-07-14T08:04:33.709917'
