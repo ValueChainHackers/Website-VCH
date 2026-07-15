@@ -1,5 +1,64 @@
 articles:
 - category: circular
+  description: The Environment Agency has expanded its watchlist of high-priority
+    waste sites it says are 'causing concerns within local communities' to 139. The
+    post Environment Agency expands list of high-priority...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/environment-agency-expands-list-of-high-priority-waste-sites/
+  pub_date: '2026-07-15T08:08:59'
+  source: Circular Online
+  title: Environment Agency expands list of high-priority waste sites
+- category: supply-chain
+  description: A new Gartner survey found that 72% of supply chain leaders revisit
+    final network investment decisions, highlighting the need for more flexible planning.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-supply-chain-network-decisions-survey-72-percent
+  pub_date: '2026-07-14T16:05:00'
+  source: Supply Chain 24/7
+  title: 'Gartner: 72% of Supply Chain Leaders Revisit Network Decisions'
+- category: supply-chain
+  description: Bosch has begun producing sample chips at its first U.S. semiconductor
+    plant in Rosewood, California, as it moves toward full production later this year.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bosch-california-semiconductor-plant-begins-sample-chip-production
+  pub_date: '2026-07-14T15:38:00'
+  source: Supply Chain 24/7
+  title: Bosch Begins Sample Chip Production at $2 Billion California Plant
+- category: supply-chain
+  description: Contractor compliance and safety data can provide early warning signs
+    that help supply chain leaders reduce risk before disruptions affect operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/contractor-risk-supply-chain
+  pub_date: '2026-07-14T13:46:00'
+  source: Supply Chain 24/7
+  title: The Supply Chain Risk Most Companies Aren’t Tracking
+- category: supply-chain
+  description: The NextGen Supply Chain Conference has unveiled its 2026 agenda, featuring
+    keynote speakers, executive panels, and more than 30 sessions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nextgen-supply-chain-conference-2026-agenda
+  pub_date: '2026-07-14T13:29:00'
+  source: Supply Chain 24/7
+  title: NextGen Supply Chain Conference Unveils Full 2026 Agenda
+- category: supply-chain
+  description: The Gordie Howe Bridge will open July 27, creating a new freight crossing
+    between Detroit and Windsor after U.S. and Canada finalized an agreement.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gordie-howe-international-bridge-set-to-open-july-27
+  pub_date: '2026-07-14T12:24:00'
+  source: Supply Chain 24/7
+  title: Gordie Howe International Bridge Set to Open July 27
+- category: circular
+  description: Global municipal waste generation is projected to rise from 2.1 billion
+    tonnes in 2023 to 3.8 billion tonnes by 2050, as international policymakers and
+    industry leaders prepare to meet in London. The ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/global-waste-set-to-almost-double-by-2050-as-world-leaders-prepare-for-london-summit/
+  pub_date: '2026-07-14T09:24:43'
+  source: Circular Online
+  title: Global waste set to almost double by 2050 as world leaders prepare for London
+    summit
+- category: circular
   description: The resource and waste management sector is largely ignored and undervalued
     by government strategic planning, Dan Cooke says. The post Resource & waste infrastructure
     ignored and undervalued, CIWM dir...
@@ -66,49 +125,6 @@ articles:
   pub_date: '2026-07-13T07:55:04'
   source: Circular Online
   title: Waste & recycling company fined £36,000 for ‘repeated’ site failures
-- category: supply-chain
-  description: Download this research-based report examining the current adoption
-    of artificial intelligence in warehouse operations, its primary applications,
-    and the opportunities companies see for future implemen...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/the-state-of-ai-in-warehousing
-  pub_date: '2026-07-11T14:01:00'
-  source: Supply Chain 24/7
-  title: The State of AI in Warehousing
-- category: supply-chain
-  description: 'Download this guide and get started on your material handling optimization
-    journey. Your goal should be simple: make it easier for people and equipment to
-    move safely and consistently through your war...'
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/22-material-handling-tips
-  pub_date: '2026-07-10T18:00:00'
-  source: Supply Chain 24/7
-  title: 22 Material Handling Tips
-- category: supply-chain
-  description: A new Proxima survey found that 72% of CEOs would pay more to better
-    protect their supply chains from disruptions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ceos-would-pay-17-percent-more-for-supply-chain-resilience
-  pub_date: '2026-07-10T14:14:00'
-  source: Supply Chain 24/7
-  title: 'Report: 72% of CEOs Would Pay More for Supply Chain Resilience'
-- category: supply-chain
-  description: The Department of Transportation is investing $1.73 billion through
-    its BUILD grant program to fund 127 transportation projects across the United
-    States.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dot-build-grants-roads-ports-truck-parking
-  pub_date: '2026-07-10T13:50:00'
-  source: Supply Chain 24/7
-  title: DOT Awards $1.73B in Infrastructure Grants. Here’s Where It’s Going
-- category: supply-chain
-  description: The June Logistics Managers' Index reached its highest level in more
-    than four years as demand for warehousing and transportation continues to grow.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/june-2026-logistics-managers-index-highest-reading-since-2022
-  pub_date: '2026-07-10T13:15:00'
-  source: Supply Chain 24/7
-  title: 'Signs of Life: Logistics Index Hits Highest Level Since 2022'
 - category: circular
   description: The UK's biggest drinks producers and grocery retailers have urged
     the Welsh Government to appoint Exchange for Change as its Deposit Return Scheme
@@ -154,22 +170,4 @@ articles:
   pub_date: '2026-07-07T09:26:07'
   source: Circular Online
   title: CIWM to develop competence route for new waste permitting regime
-- category: circular
-  description: Median gate fees for materials recycling facilities have risen, while
-    the cost of treating separately collected food waste through anaerobic digestion
-    has fallen, according to WRAP's latest annual sur...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/mrf-gate-fees-rise-as-food-waste-ad-costs-fall-wrap-finds/
-  pub_date: '2026-07-07T08:27:40'
-  source: Circular Online
-  title: MRF gate fees rise as food waste AD costs fall, WRAP finds
-- category: circular
-  description: PackUK has introduced a 1 September 2026 deadline for producers to
-    correct and resubmit 2025 packaging data that will affect their extended producer
-    responsibility for packaging (pEPR) fees. The post ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/packuk-sets-1-september-deadline-for-2025-packaging-data-corrections/
-  pub_date: '2026-07-07T08:22:37'
-  source: Circular Online
-  title: PackUK sets 1 September deadline for 2025 packaging data corrections
-last_updated: '2026-07-14T08:04:33.709917'
+last_updated: '2026-07-15T08:09:46.456411'

@@ -1,5 +1,47 @@
 articles:
 - category: ai-research
+  description: Through research and entrepreneurship, Professor Devavrat Shah is helping
+    to design methods that can handle constant decision-making using limited computational
+    resources.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714
+  pub_date: '2026-07-14T20:25:00'
+  source: MIT AI News
+  title: Helping AI models to meet the real world
+- category: ai-research
+  description: MIT students designed, built, and tested a jet engine with AI copilots,
+    assessing AI's usefulness in developing high-performance aerospace systems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714
+  pub_date: '2026-07-14T18:00:00'
+  source: MIT AI News
+  title: Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in
+    tough-tech engineering
+- category: ai-research
+  description: Google Images logo surrounded by illustrations of people searching
+    for different images
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/
+  pub_date: '2026-07-14T16:00:00'
+  source: Google AI Blog
+  title: Celebrating 25 years of visual search innovation
+- category: machine-learning
+  description: Conductor is a Gemini CLI extension built to fix your context problems.
+    Learn all about it here.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-conductor-for-gemini-cli
+  pub_date: '2026-07-14T14:00:24'
+  source: KDnuggets
+  title: Getting Started with Conductor for Gemini CLI
+- category: machine-learning
+  description: Scaling LLMs isn't about adding GPUs. It's about removing wasted work
+    from every request.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/12-ways-to-reduce-llm-latency-and-inference-costs-in-production
+  pub_date: '2026-07-14T12:00:33'
+  source: KDnuggets
+  title: 12 Ways to Reduce LLM Latency and Inference Costs in Production
+- category: ai-research
   description: Students from the MIT Cybersecurity Clinic help local governments and
     other vulnerable organizations defend against digital threats.
   icon: fa-graduation-cap
@@ -122,23 +164,6 @@ articles:
   pub_date: '2026-07-07T14:45:00'
   source: MIT AI News
   title: Jesse Thaler named director of the Laboratory for Nuclear Science
-- category: machine-learning
-  description: Treating PDFs as images and feeding those images to Gemma 4 dissolves
-    the scanned-versus-digital distinction that makes every text-extraction pipeline
-    fragile. Fix that.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/zero-shot-local-document-parsing-with-gemma-4-treating-pdfs-as-images
-  pub_date: '2026-07-07T14:00:04'
-  source: KDnuggets
-  title: 'Zero-Shot Local Document Parsing with Gemma 4: Treating PDFs as Images'
-- category: machine-learning
-  description: A model is almost never 100% sure of anything. These 10 probability
-    concepts explain how it makes decisions anyway.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-probability-concepts-for-machine-learning-explained-simply
-  pub_date: '2026-07-07T12:00:36'
-  source: KDnuggets
-  title: 10 Probability Concepts for Machine Learning Explained Simply
 - category: ai-research
   description: Managed agents feature bundle launch
   icon: fa-google
@@ -181,14 +206,6 @@ articles:
   title: New York City educators and industry leaders gathered at Google’s offices
     to shape the future of AI in classrooms.
 - category: ai-research
-  description: Computer scientist Phillip Isola cuts through the hype to explain how
-    AI agents work and what the future might hold for this rapidly advancing technology.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630
-  pub_date: '2026-06-30T15:30:00'
-  source: MIT AI News
-  title: 'Q&A: What is agentic AI today, and what do we want it to be?'
-- category: ai-research
   description: Four illustrated characters representing different professional roles,
     including a scientist, technician, explorer, and observer.
   icon: fa-google
@@ -196,15 +213,6 @@ articles:
   pub_date: '2026-06-30T06:00:00'
   source: Google AI Blog
   title: 'Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers'
-- category: ai-research
-  description: Associate Professor Anna Huang delivers the keynote address, "In Search
-    of Human-AI Resonance," to a capacity crowd.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629
-  pub_date: '2026-06-29T19:00:00'
-  source: MIT AI News
-  title: Inaugural Music Technology Research Showcase celebrates work of new graduate
-    program’s initial students
 - category: ai-research
   description: An illustration depicting a full-stack AI infrastructure against a
     dark background
@@ -247,11 +255,4 @@ articles:
   source: Google AI Blog
   title: Our new community investments in Virginia support local jobs and expand energy
     affordability.
-- category: ai-research
-  description: May AI recap
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/
-  pub_date: '2026-06-05T14:45:00'
-  source: Google AI Blog
-  title: The latest AI news we announced in May 2026
-last_updated: '2026-07-14T08:04:34.936681'
+last_updated: '2026-07-15T08:09:47.667443'
