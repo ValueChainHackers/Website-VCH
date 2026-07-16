@@ -1,5 +1,37 @@
 articles:
 - category: ai-research
+  description: Researchers developed an automated framework that helps AI models generate
+    CAD programs more accurately and efficiently.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716
+  pub_date: '2026-07-16T04:00:00'
+  source: MIT AI News
+  title: A better way to turn 2D designs into 3D models for rapid prototyping
+- category: ai-research
+  description: Assistant Professor Pat Pataranutaporn describes a new interface that
+    lets everyday users glimpse inside an AI's neural network before their chatbot
+    ever says a word.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715
+  pub_date: '2026-07-15T20:25:00'
+  source: MIT AI News
+  title: '3 Questions: Neural transparency and the future of AI design'
+- category: machine-learning
+  description: Learn a cleaner, more extensible way to dispatch logic in Python.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/stop-using-if-else-chains-use-the-registry-pattern-in-python-instead
+  pub_date: '2026-07-15T14:00:06'
+  source: KDnuggets
+  title: 'Stop Using If-Else Chains: Use the Registry Pattern in Python Instead'
+- category: machine-learning
+  description: This article contains seven Python tools that engineers are actually
+    using in 2026 to build, coordinate, and run agents on local infrastructure.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents
+  pub_date: '2026-07-15T12:00:56'
+  source: KDnuggets
+  title: 7 Python Frameworks for Orchestrating Local AI Agents
+- category: ai-research
   description: Through research and entrepreneurship, Professor Devavrat Shah is helping
     to design methods that can handle constant decision-making using limited computational
     resources.
@@ -129,15 +161,6 @@ articles:
   pub_date: '2026-07-09T12:00:39'
   source: KDnuggets
   title: 7 Steps to Automating Descriptive Statistics with Python
-- category: machine-learning
-  description: Learn how to clean CSV files with pandas by handling missing values,
-    duplicate rows, messy text, wrong data types, mixed date formats, invalid emails,
-    and currency values.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-clean-messy-csv-files-with-python-a-beginners-guide
-  pub_date: '2026-07-08T15:10:39'
-  source: KDnuggets
-  title: 'How to Clean Messy CSV Files with Python: A Beginner’s Guide'
 - category: ai-research
   description: A USAF cadet and a Lincoln Laboratory researcher found AI chatbots
     can help nontechnical service members produce viable software applications for
@@ -147,14 +170,6 @@ articles:
   pub_date: '2026-07-07T17:25:00'
   source: MIT AI News
   title: How novice coders can develop AI programs for military applications
-- category: machine-learning
-  description: Same three analytics problems, three tools, eight dimensions, measured
-    with real execution times and real agent prompts.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/sql-vs-pandas-vs-ai-agents-which-solves-analytics-problems-best
-  pub_date: '2026-07-07T16:00:29'
-  source: KDnuggets
-  title: 'SQL vs Pandas vs AI Agents: Which Solves Analytics Problems Best?'
 - category: ai-research
   description: The professor of physics and inaugural director of the NSF AI Institute
     for Artificial Intelligence and Fundamental Interactions will lead LNS and continue
@@ -172,23 +187,6 @@ articles:
   source: Google AI Blog
   title: 'Expanding Managed Agents in Gemini API:  background tasks, remote MCP and
     more'
-- category: ai-research
-  description: PhD student Rachel Sava, winner of the Envisioning the Future of Computing
-    Prize, explores transformative improvements and dystopian risks of neural technology.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706
-  pub_date: '2026-07-06T19:50:00'
-  source: MIT AI News
-  title: Toward a future that preserves benefits of neurotechnology for all
-- category: ai-research
-  description: During a "Washington Post Live" panel discussion with ASU President
-    Michael Crow, President Sally Kornbluth explored how universities are preparing
-    the next generation of scientists to lead in America...
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america
-  pub_date: '2026-07-01T20:30:00'
-  source: MIT AI News
-  title: 'MIT in the media: Innovating and educating for the next 250 years of America'
 - category: ai-research
   description: June Pixel Drop hero
   icon: fa-google
@@ -255,4 +253,4 @@ articles:
   source: Google AI Blog
   title: Our new community investments in Virginia support local jobs and expand energy
     affordability.
-last_updated: '2026-07-15T08:09:47.667443'
+last_updated: '2026-07-16T08:12:53.492611'
