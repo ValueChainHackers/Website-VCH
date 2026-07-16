@@ -1,5 +1,64 @@
 articles:
 - category: circular
+  description: The maximum fine for fly-tipping in England is set to rise by 400%
+    to GBP5,000 as part of a government crackdown on waste crime. The post Defra increases
+    maximum fine for fly-tipping to GBP5,0000 appe...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/defra-increases-maximum-fine-for-fly-tipping-to-50000/
+  pub_date: '2026-07-16T08:11:11'
+  source: Circular Online
+  title: Defra increases maximum fine for fly-tipping to £5,0000
+- category: supply-chain
+  description: Highline Warren will invest $170 million in a new McDonough, Ga., logistics
+    center, creating 160 jobs and expanding its distribution network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/highline-warren-picks-georgia-for-170-million-distribution-hub
+  pub_date: '2026-07-15T17:52:00'
+  source: Supply Chain 24/7
+  title: Highline Warren Picks Georgia for $170 Million Distribution Hub
+- category: supply-chain
+  description: Amazon opened a new warehouse near Shanghai to help Chinese sellers
+    move inventory to U.S. fulfillment centers faster and at lower cost.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-opens-shanghai-warehouse-china-sellers-us-shipping
+  pub_date: '2026-07-15T17:21:00'
+  source: Supply Chain 24/7
+  title: Amazon Opens Shanghai Warehouse for China Sellers Shipping to U.S.
+- category: supply-chain
+  description: The latest TD Cowen/AFS Freight Index projects truckload, LTL and parcel
+    shipping costs will stay elevated through Q3 as fuel prices remain high.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/td-cowen-afs-freight-index-q3-2026-fuel-prices-rates
+  pub_date: '2026-07-15T14:33:00'
+  source: Supply Chain 24/7
+  title: Truckload, LTL Rates Stay Elevated in New TD Cowen/AFS Freight Index
+- category: supply-chain
+  description: A new ZeroFox report found manufacturing remained a top ransomware
+    target in the second quarter of 2026, highlighting the cyber risks facing supply
+    chains.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-top-ransomware-target-zerofox
+  pub_date: '2026-07-15T13:52:00'
+  source: Supply Chain 24/7
+  title: Manufacturing Remains Top Ransomware Target, ZeroFox Says
+- category: supply-chain
+  description: Project44 has split into two businesses, launching LSP44 to serve logistics
+    providers while project44 remains focused on enterprise shippers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/project44-launches-lsp44-separates-shipper-and-3pl-businesses
+  pub_date: '2026-07-15T13:30:00'
+  source: Supply Chain 24/7
+  title: Project44 Creates Standalone Business for Logistics Providers
+- category: circular
+  description: Fires caused by a binned battery or vape have been publicly reported
+    in the UK every nine days this year, a new tracker shows. The post Battery and
+    vape fires in the UK hit record high appeared first ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/battery-and-vape-fires-in-the-uk-hit-record-high/
+  pub_date: '2026-07-15T09:45:34'
+  source: Circular Online
+  title: Battery and vape fires in the UK hit record high
+- category: circular
   description: The Environment Agency has expanded its watchlist of high-priority
     waste sites it says are 'causing concerns within local communities' to 139. The
     post Environment Agency expands list of high-priority...
@@ -67,46 +126,6 @@ articles:
   pub_date: '2026-07-14T07:30:00'
   source: Circular Online
   title: Resource & waste infrastructure ignored and undervalued, CIWM director says
-- category: supply-chain
-  description: Intel's $5.7 billion expansion in Ireland adds new manufacturing equipment,
-    upgrades existing fabs, and increases production of AI-focused processors.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/intel-five-billion-ireland-chip-manufacturing-expansion
-  pub_date: '2026-07-13T18:54:00'
-  source: Supply Chain 24/7
-  title: Intel invests $5.7 Billion to expand manufacturing in Ireland
-- category: supply-chain
-  description: DP World is reportedly planning a new UAE port on the Gulf of Oman
-    that would allow cargo to bypass the Strait of Hormuz.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dp-world-uae-port-bypass-strait-of-hormuz
-  pub_date: '2026-07-13T14:51:00'
-  source: Supply Chain 24/7
-  title: DP World Plans UAE Port to Bypass Strait of Hormuz
-- category: supply-chain
-  description: Fishbowl Inventory's Kendrick Hair shares five strategies for helping
-    supply chain teams adapt to unpredictable demand and respond faster to disruptions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/demand-whiplash-5-steps-to-stay-ahead-of-disruptions
-  pub_date: '2026-07-13T14:02:00'
-  source: Supply Chain 24/7
-  title: Five Steps to Stay Ahead of Supply Chain Demand Whiplash
-- category: supply-chain
-  description: Infios has launched Archer, an AI platform that automates supply chain
-    decisions across transportation, warehousing and order management.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/infios-launches-archer-ai-platform-for-supply-chain-execution
-  pub_date: '2026-07-13T13:59:00'
-  source: Supply Chain 24/7
-  title: Infios Launches Archer AI Platform for Supply Chain Execution
-- category: supply-chain
-  description: Ports of Indiana secured a record $25 million federal grant to fund
-    a $32 million expansion of its Jeffersonville port by 2028.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ports-of-indiana-jeffersonville-25-million-build-grant-expansion
-  pub_date: '2026-07-13T13:52:00'
-  source: Supply Chain 24/7
-  title: Ports of Indiana Wins Largest Federal Grant in Company History
 - category: circular
   description: The UK Government have announced plans for restrictions on colourful
     vape packaging and flavour descriptions. The post Gov announces plans for restrictions
@@ -152,22 +171,4 @@ articles:
   pub_date: '2026-07-08T11:28:22'
   source: Circular Online
   title: Waste SMEs risk being overwhelmed by regulatory change, CIWM President warns
-- category: circular
-  description: 89.2% of local authorities in England now collect cartons from households
-    for recycling, three months on from Simpler Recycling reforms coming into force.
-    The post Almost 9 in 10 local authorities col...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/almost-9-in-10-local-authorities-collect-cartons-at-the-kerbside/
-  pub_date: '2026-07-08T08:37:02'
-  source: Circular Online
-  title: Almost 9 in 10 local authorities collect cartons at the kerbside
-- category: circular
-  description: CIWM is to develop and deliver an individual competence route for waste
-    operators under proposed reforms to England's waste carrier, broker and dealer
-    regime. The reforms would replace the existing re...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-to-develop-competence-route-for-new-waste-permitting-regime/
-  pub_date: '2026-07-07T09:26:07'
-  source: Circular Online
-  title: CIWM to develop competence route for new waste permitting regime
-last_updated: '2026-07-15T08:09:46.456411'
+last_updated: '2026-07-16T08:12:52.657386'
