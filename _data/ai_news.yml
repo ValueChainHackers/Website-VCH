@@ -1,5 +1,37 @@
 articles:
 - category: ai-research
+  description: Connected apps rendering
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/connected-apps/
+  pub_date: '2026-07-16T16:00:00'
+  source: Google AI Blog
+  title: Connect more of your apps to Search
+- category: ai-research
+  description: Text "Gemini Omni and Personal Avatars in Google Vids" surrounded by
+    various images
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/
+  pub_date: '2026-07-16T16:00:00'
+  source: Google AI Blog
+  title: Create, edit and star in videos with two Google Vids updates
+- category: machine-learning
+  description: The most interesting thing about Pi isn't any single feature; it's
+    that the project treats "what we didn't build" as documentation worth writing,
+    which is rare enough on its own to take seriously.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/working-with-pi-coding-agents
+  pub_date: '2026-07-16T14:00:16'
+  source: KDnuggets
+  title: Working with Pi Coding Agents
+- category: machine-learning
+  description: Explore 10 YouTube channels for AI engineers covering paper breakdowns,
+    coding tutorials, and industry analysis.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-youtube-channels-keeping-you-ahead-in-ai
+  pub_date: '2026-07-16T12:11:23'
+  source: KDnuggets
+  title: 10 YouTube Channels Keeping You Ahead in AI
+- category: ai-research
   description: Researchers developed an automated framework that helps AI models generate
     CAD programs more accurately and efficiently.
   icon: fa-graduation-cap
@@ -143,24 +175,6 @@ articles:
   pub_date: '2026-07-09T15:50:00'
   source: MIT AI News
   title: Tiny robot boats build floating structures
-- category: machine-learning
-  description: This article covers the full path from zero to a running private research
-    assistant on Telegram, including configuring the context length correctly, connecting
-    the channel, enabling web search, and de...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/running-openclaw-with-ollama
-  pub_date: '2026-07-09T14:00:15'
-  source: KDnuggets
-  title: Running OpenClaw with Ollama
-- category: machine-learning
-  description: Stop writing mean() and std() for every column. Learn how to automate
-    descriptive statistics in Python and generate publication-ready summary tables
-    in just a few steps.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-steps-to-automating-descriptive-statistics-with-python
-  pub_date: '2026-07-09T12:00:39'
-  source: KDnuggets
-  title: 7 Steps to Automating Descriptive Statistics with Python
 - category: ai-research
   description: A USAF cadet and a Lincoln Laboratory researcher found AI chatbots
     can help nontechnical service members produce viable software applications for
@@ -234,23 +248,4 @@ articles:
   pub_date: '2026-06-17T15:00:00'
   source: Google AI Blog
   title: New research shows how AMIE, our medical AI, could help manage health conditions.
-- category: ai-research
-  description: Google has announced a $1.5 billion investment for 2026 and 2027 to
-    expand its data center campus in Jackson County, Alabama. Operating since 2019
-    on a repurposed former...
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/
-  pub_date: '2026-06-15T15:00:00'
-  source: Google AI Blog
-  title: We’re strengthening our presence in Alabama through new investments and community
-    support.
-- category: ai-research
-  description: We're helping build the state's next-generation workforce and investing
-    in energy programs.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/
-  pub_date: '2026-06-11T20:00:00'
-  source: Google AI Blog
-  title: Our new community investments in Virginia support local jobs and expand energy
-    affordability.
-last_updated: '2026-07-16T08:12:53.492611'
+last_updated: '2026-07-17T08:09:27.699702'
