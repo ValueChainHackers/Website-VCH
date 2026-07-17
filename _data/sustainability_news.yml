@@ -1,13 +1,45 @@
 articles:
+- category: supply-chain
+  description: TSMC will invest another $100 billion in Arizona, bringing its total
+    U.S. commitment to $265 billion and adding four new chip fabs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tsmc-100-billion-arizona-chip-manufacturing-expansion
+  pub_date: '2026-07-16T18:07:00'
+  source: Supply Chain 24/7
+  title: TSMC to Invest Another $100 Billion in Arizona Chip Expansion
+- category: supply-chain
+  description: A new Verisk Maplecroft report identifies Thailand, the Philippines,
+    Argentina, Uruguay and Chile as five countries ripe for future supply chain expansion.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/new-report-five-countries-supply-chain-expansion
+  pub_date: '2026-07-16T14:26:00'
+  source: Supply Chain 24/7
+  title: Five Countries to Watch for Supply Chain Expansion
+- category: supply-chain
+  description: Boston Dynamics is pitching its Spot robot dog as a last-mile delivery
+    assistant and is seeking logistics partners for pilot programs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/boston-dynamics-spot-robot-dog-last-mile-delivery
+  pub_date: '2026-07-16T13:41:00'
+  source: Supply Chain 24/7
+  title: Boston Dynamics Wants Spot Robot Dog to Help Deliver Packages
+- category: supply-chain
+  description: Maersk is opening a $100 million fulfillment center in Hopedale, Massachusetts,
+    creating about 1,000 jobs and expanding its Northeast logistics network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-hopedale-massachusetts-fulfillment-center
+  pub_date: '2026-07-16T11:43:00'
+  source: Supply Chain 24/7
+  title: Maersk Invests $100 Million in Massachusetts Fulfillment Hub
 - category: circular
   description: The maximum fine for fly-tipping in England is set to rise by 400%
     to GBP5,000 as part of a government crackdown on waste crime. The post Defra increases
-    maximum fine for fly-tipping to GBP5,0000 appe...
+    maximum fine for fly-tipping to GBP5,000 appea...
   icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/defra-increases-maximum-fine-for-fly-tipping-to-50000/
+  link: https://www.circularonline.co.uk/news/defra-increases-maximum-fine-for-fly-tipping-to-5000/
   pub_date: '2026-07-16T08:11:11'
   source: Circular Online
-  title: Defra increases maximum fine for fly-tipping to £5,0000
+  title: Defra increases maximum fine for fly-tipping to £5,000
 - category: supply-chain
   description: Highline Warren will invest $170 million in a new McDonough, Ga., logistics
     center, creating 160 jobs and expanding its distribution network.
@@ -75,38 +107,6 @@ articles:
   pub_date: '2026-07-14T16:05:00'
   source: Supply Chain 24/7
   title: 'Gartner: 72% of Supply Chain Leaders Revisit Network Decisions'
-- category: supply-chain
-  description: Bosch has begun producing sample chips at its first U.S. semiconductor
-    plant in Rosewood, California, as it moves toward full production later this year.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/bosch-california-semiconductor-plant-begins-sample-chip-production
-  pub_date: '2026-07-14T15:38:00'
-  source: Supply Chain 24/7
-  title: Bosch Begins Sample Chip Production at $2 Billion California Plant
-- category: supply-chain
-  description: Contractor compliance and safety data can provide early warning signs
-    that help supply chain leaders reduce risk before disruptions affect operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/contractor-risk-supply-chain
-  pub_date: '2026-07-14T13:46:00'
-  source: Supply Chain 24/7
-  title: The Supply Chain Risk Most Companies Aren’t Tracking
-- category: supply-chain
-  description: The NextGen Supply Chain Conference has unveiled its 2026 agenda, featuring
-    keynote speakers, executive panels, and more than 30 sessions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nextgen-supply-chain-conference-2026-agenda
-  pub_date: '2026-07-14T13:29:00'
-  source: Supply Chain 24/7
-  title: NextGen Supply Chain Conference Unveils Full 2026 Agenda
-- category: supply-chain
-  description: The Gordie Howe Bridge will open July 27, creating a new freight crossing
-    between Detroit and Windsor after U.S. and Canada finalized an agreement.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gordie-howe-international-bridge-set-to-open-july-27
-  pub_date: '2026-07-14T12:24:00'
-  source: Supply Chain 24/7
-  title: Gordie Howe International Bridge Set to Open July 27
 - category: circular
   description: Global municipal waste generation is projected to rise from 2.1 billion
     tonnes in 2023 to 3.8 billion tonnes by 2050, as international policymakers and
@@ -171,4 +171,4 @@ articles:
   pub_date: '2026-07-08T11:28:22'
   source: Circular Online
   title: Waste SMEs risk being overwhelmed by regulatory change, CIWM President warns
-last_updated: '2026-07-16T08:12:52.657386'
+last_updated: '2026-07-17T08:09:26.518780'
