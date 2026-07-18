@@ -1,5 +1,30 @@
 articles:
 - category: ai-research
+  description: Assistant Professor Bailey Flanigan has arrived at complex computational
+    methods for helping democracy thrive.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717
+  pub_date: '2026-07-17T17:25:00'
+  source: MIT AI News
+  title: Following the questions where they lead
+- category: machine-learning
+  description: A Git worktree is a separate directory checked out from the same repository.
+    You can have as many as you need, each on its own branch, all coexisting simultaneously
+    on your filesystem.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/git-worktrees-for-ai-development
+  pub_date: '2026-07-17T14:00:33'
+  source: KDnuggets
+  title: Git Worktrees for AI Development
+- category: machine-learning
+  description: Here are 5 curated resources to help you progress your agentic AI learning
+    for FREE.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-resources-on-agentic-ai
+  pub_date: '2026-07-17T12:00:22'
+  source: KDnuggets
+  title: 5 FREE Resources on Agentic AI
+- category: ai-research
   description: Connected apps rendering
   icon: fa-google
   link: https://blog.google/products-and-platforms/products/search/connected-apps/
@@ -149,23 +174,6 @@ articles:
   pub_date: '2026-07-13T04:00:00'
   source: MIT AI News
   title: New method aims to keep kids safe from illegal AI-generated content
-- category: machine-learning
-  description: You don't need a PhD to understand fine-tuning. This article explains
-    how pretrained models learn new skills through fine-tuning.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/fine-tuning-explained-for-noobs-how-pretrained-models-learn-new-skills
-  pub_date: '2026-07-10T14:00:32'
-  source: KDnuggets
-  title: Fine-Tuning Explained for Noobs (How Pretrained Models Learn New Skills)
-- category: machine-learning
-  description: SmolVLM2-2.2B sits at a genuinely useful point on the capability-size
-    trade-off curve; small enough to run on a single consumer GPU, capable enough
-    to produce video summaries that are actually useful ...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/local-video-summarization-pipeline-processing-frames-with-smolvlm2-2-2b
-  pub_date: '2026-07-10T12:00:51'
-  source: KDnuggets
-  title: 'Local Video Summarization Pipeline: Processing Frames with SmolVLM2-2.2B'
 - category: ai-research
   description: MIT researchers developed FloatForm, a swarm of small aquatic robots
     that snap together like ants forming a raft, assembling into reconfigurable structures
@@ -184,15 +192,6 @@ articles:
   pub_date: '2026-07-07T17:25:00'
   source: MIT AI News
   title: How novice coders can develop AI programs for military applications
-- category: ai-research
-  description: The professor of physics and inaugural director of the NSF AI Institute
-    for Artificial Intelligence and Fundamental Interactions will lead LNS and continue
-    his research in particle physics.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707
-  pub_date: '2026-07-07T14:45:00'
-  source: MIT AI News
-  title: Jesse Thaler named director of the Laboratory for Nuclear Science
 - category: ai-research
   description: Managed agents feature bundle launch
   icon: fa-google
@@ -248,4 +247,4 @@ articles:
   pub_date: '2026-06-17T15:00:00'
   source: Google AI Blog
   title: New research shows how AMIE, our medical AI, could help manage health conditions.
-last_updated: '2026-07-17T08:09:27.699702'
+last_updated: '2026-07-18T07:49:36.096111'
