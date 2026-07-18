@@ -1,5 +1,38 @@
 articles:
 - category: supply-chain
+  description: The DOJ surpassed $1 billion in trade-fraud recoveries and launched
+    a new enforcement unit targeting customs fraud and tariff evasion.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/trade-fraud-task-force-tops-1-billion-expands-customs-enforcement
+  pub_date: '2026-07-17T15:38:00'
+  source: Supply Chain 24/7
+  title: Trade Fraud Task Force Tops $1 Billion, Expands Customs Enforcement
+- category: supply-chain
+  description: Swisslog has launched FastMove, a monorail pallet transport system
+    that moves more than 600 pallets per hour and supports warehouse retrofit projects.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/swisslog-fastmove-monorail-pallet-transport
+  pub_date: '2026-07-17T15:01:00'
+  source: Supply Chain 24/7
+  title: Swisslog Launches FastMove Monorail System for Pallet Transport
+- category: supply-chain
+  description: Warehouse automation is shifting from hype to execution as companies
+    prioritize software integration, practical robotics and better planning.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-automation-moving-from-hype-to-execution
+  pub_date: '2026-07-17T13:41:00'
+  source: Supply Chain 24/7
+  title: The Next Wave of Warehouse Automation Will Be Smarter, Not Flashier
+- category: circular
+  description: The Department for Environment, Food, and Rural Affairs (Defra) confirms
+    it has delayed the mandatory collection of plastic films and flexible packaging
+    until April 2030. The post Defra confirms delay...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/defra-confirms-delay-to-mandatory-collections-of-flexible-plastics/
+  pub_date: '2026-07-17T10:27:41'
+  source: Circular Online
+  title: Defra confirms delay to mandatory collections of flexible plastics
+- category: supply-chain
   description: TSMC will invest another $100 billion in Arizona, bringing its total
     U.S. commitment to $265 billion and adding four new chip fabs.
   icon: fa-box
@@ -64,23 +97,6 @@ articles:
   pub_date: '2026-07-15T14:33:00'
   source: Supply Chain 24/7
   title: Truckload, LTL Rates Stay Elevated in New TD Cowen/AFS Freight Index
-- category: supply-chain
-  description: A new ZeroFox report found manufacturing remained a top ransomware
-    target in the second quarter of 2026, highlighting the cyber risks facing supply
-    chains.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturing-top-ransomware-target-zerofox
-  pub_date: '2026-07-15T13:52:00'
-  source: Supply Chain 24/7
-  title: Manufacturing Remains Top Ransomware Target, ZeroFox Says
-- category: supply-chain
-  description: Project44 has split into two businesses, launching LSP44 to serve logistics
-    providers while project44 remains focused on enterprise shippers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/project44-launches-lsp44-separates-shipper-and-3pl-businesses
-  pub_date: '2026-07-15T13:30:00'
-  source: Supply Chain 24/7
-  title: Project44 Creates Standalone Business for Logistics Providers
 - category: circular
   description: Fires caused by a binned battery or vape have been publicly reported
     in the UK every nine days this year, a new tracker shows. The post Battery and
@@ -99,14 +115,6 @@ articles:
   pub_date: '2026-07-15T08:08:59'
   source: Circular Online
   title: Environment Agency expands list of high-priority waste sites
-- category: supply-chain
-  description: A new Gartner survey found that 72% of supply chain leaders revisit
-    final network investment decisions, highlighting the need for more flexible planning.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-supply-chain-network-decisions-survey-72-percent
-  pub_date: '2026-07-14T16:05:00'
-  source: Supply Chain 24/7
-  title: 'Gartner: 72% of Supply Chain Leaders Revisit Network Decisions'
 - category: circular
   description: Global municipal waste generation is projected to rise from 2.1 billion
     tonnes in 2023 to 3.8 billion tonnes by 2050, as international policymakers and
@@ -162,13 +170,4 @@ articles:
   pub_date: '2026-07-09T09:12:06'
   source: Circular Online
   title: Man jailed after killing colleague by driving over him twice at biomass facility
-- category: circular
-  description: CIWM President Vicki Hughes has warned that small and medium-sized
-    businesses in the waste and resources sector risk being overwhelmed by the pace
-    and complexity of regulatory change. The post Waste S...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-smes-risk-being-overwhelmed-by-regulatory-change-ciwm-president-warns/
-  pub_date: '2026-07-08T11:28:22'
-  source: Circular Online
-  title: Waste SMEs risk being overwhelmed by regulatory change, CIWM President warns
-last_updated: '2026-07-17T08:09:26.518780'
+last_updated: '2026-07-18T07:49:34.962055'
