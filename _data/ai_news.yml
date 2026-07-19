@@ -1,4 +1,13 @@
 articles:
+- category: machine-learning
+  description: 'Stop Using If-Else Chains: Use the Registry Pattern in Python Instead
+    5 Real-World SQL Projects to Build Your Data Portfolio 10 YouTube Channels Keeping
+    You Ahead in AI Structured Language Model Gener...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-13
+  pub_date: '2026-07-18T13:00:05'
+  source: KDnuggets
+  title: 'KDnuggets Weekly Roundup: Week of July 13, 2026'
 - category: ai-research
   description: Assistant Professor Bailey Flanigan has arrived at complex computational
     methods for helping democracy thrive.
@@ -157,15 +166,6 @@ articles:
   pub_date: '2026-07-13T14:00:03'
   source: KDnuggets
   title: Structured Language Model Generation with Outlines
-- category: machine-learning
-  description: Build a stronger data portfolio with these practical SQL projects covering
-    customer churn, data warehousing, sales analysis, banking segmentation, and healthcare
-    analytics.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-real-world-sql-projects-to-build-your-data-portfolio
-  pub_date: '2026-07-13T12:00:38'
-  source: KDnuggets
-  title: 5 Real-World SQL Projects to Build Your Data Portfolio
 - category: ai-research
   description: Researchers developed an auditing technique to test generative AI models
     for malicious capabilities, without prompting them for illegal outputs.
@@ -247,4 +247,4 @@ articles:
   pub_date: '2026-06-17T15:00:00'
   source: Google AI Blog
   title: New research shows how AMIE, our medical AI, could help manage health conditions.
-last_updated: '2026-07-18T07:49:36.096111'
+last_updated: '2026-07-19T08:18:34.444606'
