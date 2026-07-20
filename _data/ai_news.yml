@@ -1,5 +1,13 @@
 articles:
 - category: machine-learning
+  description: Access the on-demand webinar to understand what the latest guidance
+    means for your AI governance program and what your organization should do next.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act
+  pub_date: '2026-07-19T09:50:14'
+  source: KDnuggets
+  title: Could Your AI Systems Already Be High-Risk Under the EU AI Act?
+- category: machine-learning
   description: 'Stop Using If-Else Chains: Use the Registry Pattern in Python Instead
     5 Real-World SQL Projects to Build Your Data Portfolio 10 YouTube Channels Keeping
     You Ahead in AI Structured Language Model Gener...'
@@ -157,15 +165,6 @@ articles:
   source: MIT AI News
   title: AI agents create virtual playgrounds to help robots get crucial training
     data
-- category: machine-learning
-  description: Outlines is an open-source library that introduces deterministic certainty
-    into LLMs' output generation process for better, more reliable generation of structured
-    outputs.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/structured-language-model-generation-with-outlines
-  pub_date: '2026-07-13T14:00:03'
-  source: KDnuggets
-  title: Structured Language Model Generation with Outlines
 - category: ai-research
   description: Researchers developed an auditing technique to test generative AI models
     for malicious capabilities, without prompting them for illegal outputs.
@@ -247,4 +246,4 @@ articles:
   pub_date: '2026-06-17T15:00:00'
   source: Google AI Blog
   title: New research shows how AMIE, our medical AI, could help manage health conditions.
-last_updated: '2026-07-19T08:18:34.444606'
+last_updated: '2026-07-20T08:57:45.370522'
