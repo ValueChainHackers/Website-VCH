@@ -1,5 +1,24 @@
 articles:
 - category: machine-learning
+  description: This article walks through the actual configuration, permissions, hooks,
+    and command habits that separate a fresh install from a setup that holds up under
+    real, sustained agentic work.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming
+  pub_date: '2026-07-20T14:00:23'
+  source: KDnuggets
+  title: A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic
+    Programming
+- category: machine-learning
+  description: Here are five that are genuinely worth wiring into a high-performance
+    agent development setup, chosen for what they do to an agent's actual capability
+    rather than their star count.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-mcp-servers-for-high-performance-agentic-development
+  pub_date: '2026-07-20T12:00:25'
+  source: KDnuggets
+  title: Top 5 MCP Servers for High-Performance Agentic Development
+- category: machine-learning
   description: Access the on-demand webinar to understand what the latest guidance
     means for your AI governance program and what your organization should do next.
   icon: fa-chart-bar
@@ -131,22 +150,6 @@ articles:
   pub_date: '2026-07-14T16:00:00'
   source: Google AI Blog
   title: Celebrating 25 years of visual search innovation
-- category: machine-learning
-  description: Conductor is a Gemini CLI extension built to fix your context problems.
-    Learn all about it here.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/getting-started-with-conductor-for-gemini-cli
-  pub_date: '2026-07-14T14:00:24'
-  source: KDnuggets
-  title: Getting Started with Conductor for Gemini CLI
-- category: machine-learning
-  description: Scaling LLMs isn't about adding GPUs. It's about removing wasted work
-    from every request.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/12-ways-to-reduce-llm-latency-and-inference-costs-in-production
-  pub_date: '2026-07-14T12:00:33'
-  source: KDnuggets
-  title: 12 Ways to Reduce LLM Latency and Inference Costs in Production
 - category: ai-research
   description: Students from the MIT Cybersecurity Clinic help local governments and
     other vulnerable organizations defend against digital threats.
@@ -246,4 +249,4 @@ articles:
   pub_date: '2026-06-17T15:00:00'
   source: Google AI Blog
   title: New research shows how AMIE, our medical AI, could help manage health conditions.
-last_updated: '2026-07-20T08:57:45.370522'
+last_updated: '2026-07-21T08:28:19.455511'

@@ -1,4 +1,82 @@
 articles:
+- category: circular
+  description: Dame Angela Eagle has been appointed Secretary of State for Environment,
+    Food and Rural Affairs as part of Prime Minister Andy Burnham's first Cabinet
+    reshuffle, taking responsibility for the governme...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/angela-eagle-appointed-defra-secretary-in-cabinet-reshuffle/
+  pub_date: '2026-07-21T08:04:25'
+  source: Circular Online
+  title: Angela Eagle appointed Defra Secretary in Cabinet reshuffle
+- category: supply-chain
+  description: Walmart and Amazon each topped 10% of U.S. retail sales in 2025, reaching
+    a milestone that highlights their growing dominance.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-amazon-top-10-percent-retail-sales-2025
+  pub_date: '2026-07-20T16:21:00'
+  source: Supply Chain 24/7
+  title: Walmart, Amazon Each Top 10% of U.S. Retail Sales for First Time
+- category: supply-chain
+  description: Learn how automated pallet storage, deep lane systems, and warehouse
+    automation improve storage density, fulfillment accuracy, safety, and operational
+    efficiency.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-distribution-centers-automate-pallet-storage-and-retrieval
+  pub_date: '2026-07-20T16:05:00'
+  source: Supply Chain 24/7
+  title: How Should Distribution Centers Automate Pallet Storage and Retrieval?
+- category: supply-chain
+  description: Learn how warehouse racking, dense storage systems, safety equipment,
+    and facility design improve storage capacity, operational efficiency, and inventory
+    flow.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/what-is-the-best-way-to-maximize-warehouse-storage-capacity
+  pub_date: '2026-07-20T15:18:00'
+  source: Supply Chain 24/7
+  title: What Is the Best Way to Maximize Warehouse Storage Capacity?
+- category: circular
+  description: Defra modelling says Simpler Recycling, packaging extended producer
+    responsibility and the Deposit Return Scheme will deliver less than a third of
+    the reduction needed to halve residual waste per pers...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/flagship-reforms-to-deliver-just-31-of-englands-required-waste-cuts/
+  pub_date: '2026-07-20T14:56:21'
+  source: Circular Online
+  title: Flagship reforms to deliver just 31% of England’s required waste cuts
+- category: supply-chain
+  description: Learn how turnkey warehouse solutions simplify design, permitting,
+    installation, logistics, and long-term support to improve project execution and
+    operational efficiency.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/what-is-included-in-a-turnkey-warehouse-solution
+  pub_date: '2026-07-20T14:50:00'
+  source: Supply Chain 24/7
+  title: What Is Included in a Turnkey Warehouse Solution?
+- category: supply-chain
+  description: Amazon has proposed a $1 billion fulfillment center in Holbrook, NY,
+    featuring advanced robotics, a sub-same-day fulfillment operation and 1,000 new
+    jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-1-billion-holbrook-long-island-fulfillment-center
+  pub_date: '2026-07-20T14:40:00'
+  source: Supply Chain 24/7
+  title: Amazon Plans $1 Billion Robotics Fulfillment Center on Long Island
+- category: supply-chain
+  description: Truck driver trainer Dusty Cushard discusses recruiting young drivers,
+    new technology and why retention matters more than hiring.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/qa-dusty-cushard-next-generation-truck-drivers
+  pub_date: '2026-07-20T13:47:00'
+  source: Supply Chain 24/7
+  title: Why Trucking Needs Better Training, Not Just More Drivers
+- category: supply-chain
+  description: EASE Logistics' latest freight index shows transportation costs climbing
+    as automakers shift production away from aggressive EV expansion.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/automotive-freight-costs-rise-hybrid-production-shift
+  pub_date: '2026-07-20T13:21:00'
+  source: Supply Chain 24/7
+  title: As Automakers Pivot to Hybrids, Freight Networks Must Adapt
 - category: supply-chain
   description: The DOJ surpassed $1 billion in trade-fraud recoveries and launched
     a new enforcement unit targeting customs fraud and tariff evasion.
@@ -32,38 +110,6 @@ articles:
   pub_date: '2026-07-17T10:27:41'
   source: Circular Online
   title: Defra confirms delay to mandatory collections of flexible plastics
-- category: supply-chain
-  description: TSMC will invest another $100 billion in Arizona, bringing its total
-    U.S. commitment to $265 billion and adding four new chip fabs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tsmc-100-billion-arizona-chip-manufacturing-expansion
-  pub_date: '2026-07-16T18:07:00'
-  source: Supply Chain 24/7
-  title: TSMC to Invest Another $100 Billion in Arizona Chip Expansion
-- category: supply-chain
-  description: A new Verisk Maplecroft report identifies Thailand, the Philippines,
-    Argentina, Uruguay and Chile as five countries ripe for future supply chain expansion.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/new-report-five-countries-supply-chain-expansion
-  pub_date: '2026-07-16T14:26:00'
-  source: Supply Chain 24/7
-  title: Five Countries to Watch for Supply Chain Expansion
-- category: supply-chain
-  description: Boston Dynamics is pitching its Spot robot dog as a last-mile delivery
-    assistant and is seeking logistics partners for pilot programs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/boston-dynamics-spot-robot-dog-last-mile-delivery
-  pub_date: '2026-07-16T13:41:00'
-  source: Supply Chain 24/7
-  title: Boston Dynamics Wants Spot Robot Dog to Help Deliver Packages
-- category: supply-chain
-  description: Maersk is opening a $100 million fulfillment center in Hopedale, Massachusetts,
-    creating about 1,000 jobs and expanding its Northeast logistics network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-hopedale-massachusetts-fulfillment-center
-  pub_date: '2026-07-16T11:43:00'
-  source: Supply Chain 24/7
-  title: Maersk Invests $100 Million in Massachusetts Fulfillment Hub
 - category: circular
   description: The maximum fine for fly-tipping in England is set to rise by 400%
     to GBP5,000 as part of a government crackdown on waste crime. The post Defra increases
@@ -73,30 +119,6 @@ articles:
   pub_date: '2026-07-16T08:11:11'
   source: Circular Online
   title: Defra increases maximum fine for fly-tipping to £5,000
-- category: supply-chain
-  description: Highline Warren will invest $170 million in a new McDonough, Ga., logistics
-    center, creating 160 jobs and expanding its distribution network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/highline-warren-picks-georgia-for-170-million-distribution-hub
-  pub_date: '2026-07-15T17:52:00'
-  source: Supply Chain 24/7
-  title: Highline Warren Picks Georgia for $170 Million Distribution Hub
-- category: supply-chain
-  description: Amazon opened a new warehouse near Shanghai to help Chinese sellers
-    move inventory to U.S. fulfillment centers faster and at lower cost.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-opens-shanghai-warehouse-china-sellers-us-shipping
-  pub_date: '2026-07-15T17:21:00'
-  source: Supply Chain 24/7
-  title: Amazon Opens Shanghai Warehouse for China Sellers Shipping to U.S.
-- category: supply-chain
-  description: The latest TD Cowen/AFS Freight Index projects truckload, LTL and parcel
-    shipping costs will stay elevated through Q3 as fuel prices remain high.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/td-cowen-afs-freight-index-q3-2026-fuel-prices-rates
-  pub_date: '2026-07-15T14:33:00'
-  source: Supply Chain 24/7
-  title: Truckload, LTL Rates Stay Elevated in New TD Cowen/AFS Freight Index
 - category: circular
   description: Fires caused by a binned battery or vape have been publicly reported
     in the UK every nine days this year, a new tracker shows. The post Battery and
@@ -152,22 +174,4 @@ articles:
   pub_date: '2026-07-13T07:55:04'
   source: Circular Online
   title: Waste & recycling company fined £36,000 for ‘repeated’ site failures
-- category: circular
-  description: The UK's biggest drinks producers and grocery retailers have urged
-    the Welsh Government to appoint Exchange for Change as its Deposit Return Scheme
-    administrator. The post Coca-Cola, Tesco, and Carlsb...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/coca-cola-tesco-and-carlsberg-call-for-action-on-welsh-drs/
-  pub_date: '2026-07-10T11:06:33'
-  source: Circular Online
-  title: Coca-Cola, Tesco, and Carlsberg call for action on Welsh DRS
-- category: circular
-  description: A man who fatally injured a work colleague by driving over him twice
-    with a telehandler at a biomass facility has been jailed for over three years
-    after pleading guilty to manslaughter. The post Man j...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/man-jailed-after-killing-colleague-by-driving-over-him-twice-at-biomass-facility/
-  pub_date: '2026-07-09T09:12:06'
-  source: Circular Online
-  title: Man jailed after killing colleague by driving over him twice at biomass facility
-last_updated: '2026-07-20T08:57:44.506874'
+last_updated: '2026-07-21T08:28:18.267394'
