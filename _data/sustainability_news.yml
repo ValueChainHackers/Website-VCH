@@ -1,8 +1,49 @@
 articles:
+- category: supply-chain
+  description: Learn how intelligent warehouse execution uses embedded AI to reduce
+    execution latency, improve labor productivity, strengthen fulfillment performance,
+    and modernize warehouse operations incrementally...
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-warehouse-leaders-reduce-execution-latency
+  pub_date: '2026-07-21T19:45:00'
+  source: Supply Chain 24/7
+  title: How Should Warehouse Leaders Reduce Execution Latency?
+- category: supply-chain
+  description: A new Logistics Management survey finds 52% expect a busier Peak Season
+    in 2026 as companies move freight early ahead of possible tariff increases.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/peak-season-2026-survey-tariffs-front-loading-freight
+  pub_date: '2026-07-21T19:38:00'
+  source: Supply Chain 24/7
+  title: Peak Season Outlook Brightens as 52% Expect More Freight Activity
+- category: supply-chain
+  description: A Blue Yonder survey found that 55% of Americans are buying less beef
+    as higher prices and supply chain concerns reshape grocery spending.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/study-consumers-cut-beef-purchases-as-supply-pressures-grow
+  pub_date: '2026-07-21T16:49:00'
+  source: Supply Chain 24/7
+  title: 'Study: Consumers Cut Beef Purchases as Supply Pressures Grow'
+- category: supply-chain
+  description: MISUMI says U.S. manufacturing hit a record $2.91 trillion, but a shortage
+    of skilled workers threatens future factory growth.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/misumi-us-manufacturing-report-workforce-shortage-2026
+  pub_date: '2026-07-21T13:34:00'
+  source: Supply Chain 24/7
+  title: U.S. Manufacturing Hits Record $2.91 Trillion as Worker Gap Grows
+- category: supply-chain
+  description: Donald Trump's new 50% Canada tariffs cover machinery, electrical equipment
+    and other goods, while energy and critical minerals are exempt.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/trump-canada-tariffs-products-affected
+  pub_date: '2026-07-21T13:29:00'
+  source: Supply Chain 24/7
+  title: 'Trump’s New Canada Tariffs: What’s Covered and What’s Exempt?'
 - category: circular
   description: Dame Angela Eagle has been appointed Secretary of State for Environment,
-    Food and Rural Affairs as part of Prime Minister Andy Burnham's first Cabinet
-    reshuffle, taking responsibility for the governme...
+    Food and Rural Affairs as part of Prime Minister Andy Burnham's first Cabinet,
+    taking responsibility for the government's envir...
   icon: fa-recycle
   link: https://www.circularonline.co.uk/news/angela-eagle-appointed-defra-secretary-in-cabinet-reshuffle/
   pub_date: '2026-07-21T08:04:25'
@@ -35,9 +76,9 @@ articles:
   source: Supply Chain 24/7
   title: What Is the Best Way to Maximize Warehouse Storage Capacity?
 - category: circular
-  description: Defra modelling says Simpler Recycling, packaging extended producer
-    responsibility and the Deposit Return Scheme will deliver less than a third of
-    the reduction needed to halve residual waste per pers...
+  description: Defra modelling shows Simpler Recycling, packaging Extended Producer
+    Responsibility, and the Deposit Return Scheme will deliver less than a third of
+    the reduction needed to halve residual waste per pe...
   icon: fa-recycle
   link: https://www.circularonline.co.uk/news/flagship-reforms-to-deliver-just-31-of-englands-required-waste-cuts/
   pub_date: '2026-07-20T14:56:21'
@@ -61,46 +102,6 @@ articles:
   pub_date: '2026-07-20T14:40:00'
   source: Supply Chain 24/7
   title: Amazon Plans $1 Billion Robotics Fulfillment Center on Long Island
-- category: supply-chain
-  description: Truck driver trainer Dusty Cushard discusses recruiting young drivers,
-    new technology and why retention matters more than hiring.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/qa-dusty-cushard-next-generation-truck-drivers
-  pub_date: '2026-07-20T13:47:00'
-  source: Supply Chain 24/7
-  title: Why Trucking Needs Better Training, Not Just More Drivers
-- category: supply-chain
-  description: EASE Logistics' latest freight index shows transportation costs climbing
-    as automakers shift production away from aggressive EV expansion.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/automotive-freight-costs-rise-hybrid-production-shift
-  pub_date: '2026-07-20T13:21:00'
-  source: Supply Chain 24/7
-  title: As Automakers Pivot to Hybrids, Freight Networks Must Adapt
-- category: supply-chain
-  description: The DOJ surpassed $1 billion in trade-fraud recoveries and launched
-    a new enforcement unit targeting customs fraud and tariff evasion.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trade-fraud-task-force-tops-1-billion-expands-customs-enforcement
-  pub_date: '2026-07-17T15:38:00'
-  source: Supply Chain 24/7
-  title: Trade Fraud Task Force Tops $1 Billion, Expands Customs Enforcement
-- category: supply-chain
-  description: Swisslog has launched FastMove, a monorail pallet transport system
-    that moves more than 600 pallets per hour and supports warehouse retrofit projects.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/swisslog-fastmove-monorail-pallet-transport
-  pub_date: '2026-07-17T15:01:00'
-  source: Supply Chain 24/7
-  title: Swisslog Launches FastMove Monorail System for Pallet Transport
-- category: supply-chain
-  description: Warehouse automation is shifting from hype to execution as companies
-    prioritize software integration, practical robotics and better planning.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-automation-moving-from-hype-to-execution
-  pub_date: '2026-07-17T13:41:00'
-  source: Supply Chain 24/7
-  title: The Next Wave of Warehouse Automation Will Be Smarter, Not Flashier
 - category: circular
   description: The Department for Environment, Food, and Rural Affairs (Defra) confirms
     it has delayed the mandatory collection of plastic films and flexible packaging
@@ -174,4 +175,4 @@ articles:
   pub_date: '2026-07-13T07:55:04'
   source: Circular Online
   title: Waste & recycling company fined £36,000 for ‘repeated’ site failures
-last_updated: '2026-07-21T08:28:18.267394'
+last_updated: '2026-07-22T08:28:54.682707'
