@@ -1,5 +1,22 @@
 articles:
 - category: machine-learning
+  description: Run Qwythos-9B-Claude-Mythos-5-1M locally with llama.cpp, connect it
+    to Pi coding agent, and build fast local coding workflows using MTP speculative
+    decoding and an OpenAI-compatible API.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi
+  pub_date: '2026-07-21T14:00:42'
+  source: KDnuggets
+  title: Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi
+- category: machine-learning
+  description: Follow this free five-course roadmap to build real AI skills, from
+    classical algorithms to training LLMs from scratch.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner
+  pub_date: '2026-07-21T12:00:10'
+  source: KDnuggets
+  title: 5 Free Courses to Go From AI Beginner to Practitioner
+- category: machine-learning
   description: This article walks through the actual configuration, permissions, hooks,
     and command habits that separate a fresh install from a setup that holds up under
     real, sustained agentic work.
@@ -109,21 +126,6 @@ articles:
   pub_date: '2026-07-15T20:25:00'
   source: MIT AI News
   title: '3 Questions: Neural transparency and the future of AI design'
-- category: machine-learning
-  description: Learn a cleaner, more extensible way to dispatch logic in Python.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/stop-using-if-else-chains-use-the-registry-pattern-in-python-instead
-  pub_date: '2026-07-15T14:00:06'
-  source: KDnuggets
-  title: 'Stop Using If-Else Chains: Use the Registry Pattern in Python Instead'
-- category: machine-learning
-  description: This article contains seven Python tools that engineers are actually
-    using in 2026 to build, coordinate, and run agents on local infrastructure.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents
-  pub_date: '2026-07-15T12:00:56'
-  source: KDnuggets
-  title: 7 Python Frameworks for Orchestrating Local AI Agents
 - category: ai-research
   description: Through research and entrepreneurship, Professor Devavrat Shah is helping
     to design methods that can handle constant decision-making using limited computational
@@ -249,4 +251,4 @@ articles:
   pub_date: '2026-06-17T15:00:00'
   source: Google AI Blog
   title: New research shows how AMIE, our medical AI, could help manage health conditions.
-last_updated: '2026-07-21T08:28:19.455511'
+last_updated: '2026-07-22T08:28:55.799465'
