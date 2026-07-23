@@ -1,4 +1,54 @@
 articles:
+- category: circular
+  description: The Environment Agency has secured a court order preventing access
+    to an illegal waste site on an area of outstanding natural beauty in County Durham.
+    The post Illegal waste site on protected land in ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/illegal-waste-site-on-protected-land-in-county-durham-shut-down/
+  pub_date: '2026-07-23T08:17:55'
+  source: Circular Online
+  title: Illegal waste site on protected land in County Durham shut down
+- category: supply-chain
+  description: Alaska Airlines announced plans to add four Boeing 737-800 converted
+    freighters, doubling cargo capacity and expanding service in Alaska and Hawaii.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/alaska-airlines-double-cargo-capacity-four-freighters
+  pub_date: '2026-07-22T17:24:00'
+  source: Supply Chain 24/7
+  title: Alaska Airlines to Double Cargo Capacity With Four Freighters
+- category: supply-chain
+  description: LinkedIn's annual list of fastest-growing job markets include 12 cities
+    with ties to freight, manufacturing, ports, and logistics.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fast-growing-us-job-markets-supply-chain
+  pub_date: '2026-07-22T16:59:00'
+  source: Supply Chain 24/7
+  title: 12 Fast-Growing U.S. Job Markets for Logistics and Manufacturing
+- category: supply-chain
+  description: Eight ways AS/RS is helping warehouses reduce worker travel, manage
+    shifting SKU demand, and take on more daily tasks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eight-ways-asrs-changing-warehouse-work
+  pub_date: '2026-07-22T14:52:00'
+  source: Supply Chain 24/7
+  title: Eight Ways AS/RS Is Reshaping Warehouse Operations
+- category: supply-chain
+  description: J.B. Hunt says its new AI freight platform is already operating across
+    all business units and helping manage millions of freight loads.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/jb-hunt-overroute-ai-freight-platform-launch
+  pub_date: '2026-07-22T14:33:00'
+  source: Supply Chain 24/7
+  title: J.B. Hunt Launches Overroute After Year of Internal Development
+- category: circular
+  description: Mandatory collection of plastic films and flexible packaging delay
+    reflects a 'lack of clarity' on policy and strategy, CIWM's Dan Cooke says. The
+    post CIWM says flexible collections delay reflects 'l...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-says-flexible-collections-delay-reflects-lack-of-clarity-over-policy/
+  pub_date: '2026-07-22T10:07:01'
+  source: Circular Online
+  title: CIWM says flexible collections delay reflects ‘lack of clarity’ over policy
 - category: supply-chain
   description: Learn how intelligent warehouse execution uses embedded AI to reduce
     execution latency, improve labor productivity, strengthen fulfillment performance,
@@ -57,24 +107,6 @@ articles:
   pub_date: '2026-07-20T16:21:00'
   source: Supply Chain 24/7
   title: Walmart, Amazon Each Top 10% of U.S. Retail Sales for First Time
-- category: supply-chain
-  description: Learn how automated pallet storage, deep lane systems, and warehouse
-    automation improve storage density, fulfillment accuracy, safety, and operational
-    efficiency.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-distribution-centers-automate-pallet-storage-and-retrieval
-  pub_date: '2026-07-20T16:05:00'
-  source: Supply Chain 24/7
-  title: How Should Distribution Centers Automate Pallet Storage and Retrieval?
-- category: supply-chain
-  description: Learn how warehouse racking, dense storage systems, safety equipment,
-    and facility design improve storage capacity, operational efficiency, and inventory
-    flow.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/what-is-the-best-way-to-maximize-warehouse-storage-capacity
-  pub_date: '2026-07-20T15:18:00'
-  source: Supply Chain 24/7
-  title: What Is the Best Way to Maximize Warehouse Storage Capacity?
 - category: circular
   description: Defra modelling shows Simpler Recycling, packaging Extended Producer
     Responsibility, and the Deposit Return Scheme will deliver less than a third of
@@ -84,24 +116,6 @@ articles:
   pub_date: '2026-07-20T14:56:21'
   source: Circular Online
   title: Flagship reforms to deliver just 31% of England’s required waste cuts
-- category: supply-chain
-  description: Learn how turnkey warehouse solutions simplify design, permitting,
-    installation, logistics, and long-term support to improve project execution and
-    operational efficiency.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/what-is-included-in-a-turnkey-warehouse-solution
-  pub_date: '2026-07-20T14:50:00'
-  source: Supply Chain 24/7
-  title: What Is Included in a Turnkey Warehouse Solution?
-- category: supply-chain
-  description: Amazon has proposed a $1 billion fulfillment center in Holbrook, NY,
-    featuring advanced robotics, a sub-same-day fulfillment operation and 1,000 new
-    jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-1-billion-holbrook-long-island-fulfillment-center
-  pub_date: '2026-07-20T14:40:00'
-  source: Supply Chain 24/7
-  title: Amazon Plans $1 Billion Robotics Fulfillment Center on Long Island
 - category: circular
   description: The Department for Environment, Food, and Rural Affairs (Defra) confirms
     it has delayed the mandatory collection of plastic films and flexible packaging
@@ -157,22 +171,4 @@ articles:
   pub_date: '2026-07-14T07:30:00'
   source: Circular Online
   title: Resource & waste infrastructure ignored and undervalued, CIWM director says
-- category: circular
-  description: The UK Government have announced plans for restrictions on colourful
-    vape packaging and flavour descriptions. The post Gov announces plans for restrictions
-    on vape packaging and flavours appeared firs...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/gov-announces-plans-for-restrictions-on-vape-packaging-and-flavours/
-  pub_date: '2026-07-13T10:34:31'
-  source: Circular Online
-  title: Gov announces plans for restrictions on vape packaging and flavours
-- category: circular
-  description: A North Wales waste and recycling company has been fined GBP36,000
-    for repeatedly failing to provide appropriate welfare facilities and asbestos
-    awareness training for employees. The post Waste & recy...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-recycling-company-fined-36000-for-repeated-site-failures/
-  pub_date: '2026-07-13T07:55:04'
-  source: Circular Online
-  title: Waste & recycling company fined £36,000 for ‘repeated’ site failures
-last_updated: '2026-07-22T08:28:54.682707'
+last_updated: '2026-07-23T08:29:45.402754'

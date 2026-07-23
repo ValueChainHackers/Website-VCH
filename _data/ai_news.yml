@@ -1,4 +1,38 @@
 articles:
+- category: ai-research
+  description: Known for his clear and elegant writing style, Bertsekas shaped fields
+    from control and optimization to large-scale computation and artificial intelligence.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722
+  pub_date: '2026-07-22T17:00:00'
+  source: MIT AI News
+  title: Professor Emeritus Dimitri Bertsekas, influential computer scientist and
+    prolific author, dies at 83
+- category: machine-learning
+  description: Google and Kaggle's 5-Day AI agents course is now freely available
+    to everyone.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/kaggle-googles-free-5-day-agentic-ai-course
+  pub_date: '2026-07-22T14:00:33'
+  source: KDnuggets
+  title: Kaggle + Google’s Free 5-Day Agentic AI Course
+- category: ai-research
+  description: Gentle Monster glasses, Warby Parker glasses, a prompt asking for the
+    history behind a pictured building, and a prompt asking to book a table at a pictured
+    restaurant
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
+  pub_date: '2026-07-22T13:00:00'
+  source: Google AI Blog
+  title: 3 Google updates from Galaxy Unpacked 2026
+- category: machine-learning
+  description: Cut through AI noise with 10 curated newsletters covering daily news,
+    technical research, policy, and builder tools.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-newsletters-keeping-you-ahead-in-ai
+  pub_date: '2026-07-22T12:00:51'
+  source: KDnuggets
+  title: 10 Newsletters Keeping You Ahead in AI
 - category: machine-learning
   description: Run Qwythos-9B-Claude-Mythos-5-1M locally with llama.cpp, connect it
     to Pi coding agent, and build fast local coding workflows using MTP speculative
@@ -92,23 +126,6 @@ articles:
   pub_date: '2026-07-16T16:00:00'
   source: Google AI Blog
   title: Create, edit and star in videos with two Google Vids updates
-- category: machine-learning
-  description: The most interesting thing about Pi isn't any single feature; it's
-    that the project treats "what we didn't build" as documentation worth writing,
-    which is rare enough on its own to take seriously.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/working-with-pi-coding-agents
-  pub_date: '2026-07-16T14:00:16'
-  source: KDnuggets
-  title: Working with Pi Coding Agents
-- category: machine-learning
-  description: Explore 10 YouTube channels for AI engineers covering paper breakdowns,
-    coding tutorials, and industry analysis.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-youtube-channels-keeping-you-ahead-in-ai
-  pub_date: '2026-07-16T12:11:23'
-  source: KDnuggets
-  title: 10 YouTube Channels Keeping You Ahead in AI
 - category: ai-research
   description: Researchers developed an automated framework that helps AI models generate
     CAD programs more accurately and efficiently.
@@ -188,15 +205,6 @@ articles:
   source: MIT AI News
   title: Tiny robot boats build floating structures
 - category: ai-research
-  description: A USAF cadet and a Lincoln Laboratory researcher found AI chatbots
-    can help nontechnical service members produce viable software applications for
-    their unique problems.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707
-  pub_date: '2026-07-07T17:25:00'
-  source: MIT AI News
-  title: How novice coders can develop AI programs for military applications
-- category: ai-research
   description: Managed agents feature bundle launch
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
@@ -243,12 +251,4 @@ articles:
   pub_date: '2026-06-25T16:00:00'
   source: Google AI Blog
   title: Our latest Google Finance upgrades, including a new app
-- category: ai-research
-  description: Research in "Nature" shows our conversational AI system matches primary
-    care physicians in complex disease management.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/
-  pub_date: '2026-06-17T15:00:00'
-  source: Google AI Blog
-  title: New research shows how AMIE, our medical AI, could help manage health conditions.
-last_updated: '2026-07-22T08:28:55.799465'
+last_updated: '2026-07-23T08:29:46.598909'
