@@ -125,21 +125,10 @@
             <!-- Desktop Navigation -->
             <div class="hidden md:flex items-center space-x-6">
                 <a href="/" class="text-gray-900 font-semibold hover:text-vch-green transition-all duration-300 ease-in-out px-3 py-2">Home</a>
+                <a href="/about/" class="text-gray-700 font-semibold hover:text-vch-green transition-all duration-300 ease-in-out px-3 py-2">About</a>
+                <a href="/collaborate/" class="text-gray-700 font-semibold hover:text-vch-green transition-all duration-300 ease-in-out px-3 py-2">Our Program</a>
                 <a href="/projects/" class="text-gray-700 font-semibold hover:text-vch-green transition-all duration-300 ease-in-out px-3 py-2">Projects</a>
-                <div class="relative group">
-                    <button class="text-gray-700 font-semibold hover:text-vch-green transition-all duration-300 ease-in-out flex items-center px-3 py-2">
-                        News <i class="fas fa-chevron-down ml-1 text-xs"></i>
-                    </button>
-                    <div class="absolute top-full left-0 mt-0 w-56 bg-white rounded-lg shadow-xl border border-gray-200 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 pointer-events-none group-hover:pointer-events-auto">
-                        <a href="/sustainability-news" class="block px-4 py-3 hover:bg-gray-50 text-gray-700 hover:text-vch-green transition-all duration-200 rounded-t-lg">
-                            <i class="fas fa-leaf mr-2 text-vch-green"></i>Sustainability News
-                        </a>
-                        <a href="/ai-news" class="block px-4 py-3 hover:bg-gray-50 text-gray-700 hover:text-vch-green transition-all duration-200 rounded-b-lg">
-                            <i class="fas fa-robot mr-2 text-vch-green"></i>AI News
-                        </a>
-                    </div>
-                </div>
-                <a href="/onboarding" class="bg-vch-green text-white px-8 py-3 rounded-lg font-semibold hover:bg-vch-green-dark transition-all duration-300 transform hover:scale-105 ml-4">Join Us</a>
+                <a href="/contact/" class="text-gray-700 font-semibold hover:text-vch-green transition-all duration-300 ease-in-out px-3 py-2">Contacts</a>
             </div>
 
             <!-- Mobile Menu Button -->
@@ -154,19 +143,10 @@
         <div class="md:hidden hidden bg-white border-t border-gray-200" id="mobile-menu">
             <div class="px-4 py-2 space-y-2">
                 <a href="/" class="block py-2 text-gray-900 font-semibold hover:text-vch-green transition-colors">Home</a>
+                <a href="/about/" class="block py-2 text-gray-700 font-semibold hover:text-vch-green transition-colors">About</a>
+                <a href="/collaborate/" class="block py-2 text-gray-700 font-semibold hover:text-vch-green transition-colors">Our Program</a>
                 <a href="/projects/" class="block py-2 text-gray-700 font-semibold hover:text-vch-green transition-colors">Projects</a>
-                <div class="py-2">
-                    <div class="text-gray-700 font-semibold mb-2">News</div>
-                    <div class="pl-4 space-y-2">
-                        <a href="/sustainability-news" class="block py-1 text-gray-700 text-sm hover:text-vch-green transition-colors">
-                            <i class="fas fa-leaf mr-2 text-vch-green"></i>Sustainability News
-                        </a>
-                        <a href="/ai-news" class="block py-1 text-gray-700 text-sm hover:text-vch-green transition-colors">
-                            <i class="fas fa-robot mr-2 text-vch-green"></i>AI News
-                        </a>
-                    </div>
-                </div>
-                <a href="/onboarding" class="block py-2 bg-vch-green text-white px-4 rounded-lg font-semibold text-center hover:bg-vch-green-dark transition-colors">Join Us</a>
+                <a href="/contact/" class="block py-2 text-gray-700 font-semibold hover:text-vch-green transition-colors">Contacts</a>
             </div>
         </div>
     </nav>
@@ -293,10 +273,16 @@
                 <div class="text-gray-600 text-sm">
                     © {{ 'now' | date: "%Y" }} Value Chain Hackers. All rights reserved.
                 </div>
-                <div class="flex space-x-6 mt-4 md:mt-0">
-                    <a href="/privacy" class="text-gray-600 text-sm hover:text-vch-green transition-all duration-300">Privacy Policy</a>
-                    <a href="/terms" class="text-gray-600 text-sm hover:text-ch-green transition-all duration-300">Terms of Service</a>
-                    <a href="/newsletter" class="text-gray-600 text-sm hover:text-vch-green transition-all duration-300">Newsletter</a>
+                <div class="flex space-x-6 mt-4 md:mt-0 items-center">
+                    <a href="{{ site.linkedin_url }}" target="_blank" rel="noopener noreferrer" class="text-gray-600 hover:text-vch-green transition-all duration-300" aria-label="LinkedIn">
+                        <i class="fab fa-linkedin text-xl"></i>
+                    </a>
+                    <a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer" class="text-gray-600 hover:text-vch-green transition-all duration-300" aria-label="GitHub">
+                        <i class="fab fa-github text-xl"></i>
+                    </a>
+                    <a href="{{ site.discord_url }}" target="_blank" rel="noopener noreferrer" class="text-gray-600 hover:text-vch-green transition-all duration-300" aria-label="Discord">
+                        <i class="fab fa-discord text-xl"></i>
+                    </a>
                 </div>
             </div>
         </div>
