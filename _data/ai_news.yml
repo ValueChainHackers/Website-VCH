@@ -1,5 +1,41 @@
 articles:
 - category: ai-research
+  description: PhD student Lauren Fortier is building on the experience she gained
+    operating a nuclear plant for the Navy to solve a critical hurdle in the wider
+    adoption of the energy source.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724
+  pub_date: '2026-07-24T04:00:00'
+  source: MIT AI News
+  title: Working to automate nuclear plant operations
+- category: machine-learning
+  description: OmniVoice Studio is built on a premise that everything runs on your
+    hardware. Voice cloning, video dubbing, real-time dictation, voice design, all
+    of it local, all of it free for personal use, no API ...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-omnivoice-studio
+  pub_date: '2026-07-23T14:00:47'
+  source: KDnuggets
+  title: Getting Started with OmniVoice-Studio
+- category: machine-learning
+  description: Discover seven cheaper, faster Claude Code alternatives for CLI agentic
+    coding, with open-source tools, local models, MCP support, and better context
+    control.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding
+  pub_date: '2026-07-23T12:00:42'
+  source: KDnuggets
+  title: 7 Best Claude Code Alternatives for CLI Agentic Coding
+- category: ai-research
+  description: Initial research projects advance national priorities across natural
+    resources, manufacturing, nuclear physics, and more.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723
+  pub_date: '2026-07-23T12:00:00'
+  source: MIT AI News
+  title: MIT projects selected for funding under US Department of Energy’s Genesis
+    Mission
+- category: ai-research
   description: Known for his clear and elegant writing style, Bertsekas shaped fields
     from control and optimization to large-scale computation and artificial intelligence.
   icon: fa-graduation-cap
@@ -94,23 +130,6 @@ articles:
   pub_date: '2026-07-17T17:25:00'
   source: MIT AI News
   title: Following the questions where they lead
-- category: machine-learning
-  description: A Git worktree is a separate directory checked out from the same repository.
-    You can have as many as you need, each on its own branch, all coexisting simultaneously
-    on your filesystem.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/git-worktrees-for-ai-development
-  pub_date: '2026-07-17T14:00:33'
-  source: KDnuggets
-  title: Git Worktrees for AI Development
-- category: machine-learning
-  description: Here are 5 curated resources to help you progress your agentic AI learning
-    for FREE.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-resources-on-agentic-ai
-  pub_date: '2026-07-17T12:00:22'
-  source: KDnuggets
-  title: 5 FREE Resources on Agentic AI
 - category: ai-research
   description: Connected apps rendering
   icon: fa-google
@@ -188,23 +207,6 @@ articles:
   title: AI agents create virtual playgrounds to help robots get crucial training
     data
 - category: ai-research
-  description: Researchers developed an auditing technique to test generative AI models
-    for malicious capabilities, without prompting them for illegal outputs.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
-  pub_date: '2026-07-13T04:00:00'
-  source: MIT AI News
-  title: New method aims to keep kids safe from illegal AI-generated content
-- category: ai-research
-  description: MIT researchers developed FloatForm, a swarm of small aquatic robots
-    that snap together like ants forming a raft, assembling into reconfigurable structures
-    on the water.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709
-  pub_date: '2026-07-09T15:50:00'
-  source: MIT AI News
-  title: Tiny robot boats build floating structures
-- category: ai-research
   description: Managed agents feature bundle launch
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
@@ -251,4 +253,4 @@ articles:
   pub_date: '2026-06-25T16:00:00'
   source: Google AI Blog
   title: Our latest Google Finance upgrades, including a new app
-last_updated: '2026-07-23T08:29:46.598909'
+last_updated: '2026-07-24T08:27:04.379878'

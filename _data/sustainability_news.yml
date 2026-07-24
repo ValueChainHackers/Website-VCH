@@ -1,4 +1,45 @@
 articles:
+- category: supply-chain
+  description: CN will no longer oppose Union Pacific's proposed $85B merger with
+    Norfolk Southern under an agreement that would expand CN's access across the Midwest.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cn-union-pacific-norfolk-southern-merger-access-deal
+  pub_date: '2026-07-23T15:46:00'
+  source: Supply Chain 24/7
+  title: Union Pacific, CN Reach Deal Tied to Norfolk Southern Merger
+- category: supply-chain
+  description: A new Warehouse on Wheels index shows U.S. supply chain activity remained
+    in contraction during June, barely changing from the previous month.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-activity-remains-in-contraction
+  pub_date: '2026-07-23T15:00:00'
+  source: Supply Chain 24/7
+  title: Supply Chain Recovery Stalls as Recovery Loses Steam
+- category: supply-chain
+  description: Electra plans to invest $850 million in a Springfield, Ohio, plant
+    that will create 1,975 jobs and produce up to 800 aircraft annually.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/electra-850-million-ohio-aircraft-plant
+  pub_date: '2026-07-23T14:17:00'
+  source: Supply Chain 24/7
+  title: Electra Chooses Ohio for $850 Million Hybrid Aircraft Plant
+- category: supply-chain
+  description: The ATRI found that the average cost of operating a truck rose 3.4%
+    to a record $2.336 per mile in 2025, with every major expense category increasing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/truck-operating-costs-record-2025-atri
+  pub_date: '2026-07-23T13:44:00'
+  source: Supply Chain 24/7
+  title: Truck Operating Costs Hit Record $2.34 Per Mile
+- category: circular
+  description: Mary Creagh has confirmed that she is being replaced as the Minister
+    responsible for Waste and the Circular Economy. The post Creagh to be replaced
+    as Minister for waste and circular economy appeared ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/creagh-to-be-replaced-as-minister-for-waste-and-circular-economy/
+  pub_date: '2026-07-23T09:49:00'
+  source: Circular Online
+  title: Creagh to be replaced as Minister for waste and circular economy
 - category: circular
   description: The Environment Agency has secured a court order preventing access
     to an illegal waste site on an area of outstanding natural beauty in County Durham.
@@ -66,30 +107,6 @@ articles:
   pub_date: '2026-07-21T19:38:00'
   source: Supply Chain 24/7
   title: Peak Season Outlook Brightens as 52% Expect More Freight Activity
-- category: supply-chain
-  description: A Blue Yonder survey found that 55% of Americans are buying less beef
-    as higher prices and supply chain concerns reshape grocery spending.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/study-consumers-cut-beef-purchases-as-supply-pressures-grow
-  pub_date: '2026-07-21T16:49:00'
-  source: Supply Chain 24/7
-  title: 'Study: Consumers Cut Beef Purchases as Supply Pressures Grow'
-- category: supply-chain
-  description: MISUMI says U.S. manufacturing hit a record $2.91 trillion, but a shortage
-    of skilled workers threatens future factory growth.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/misumi-us-manufacturing-report-workforce-shortage-2026
-  pub_date: '2026-07-21T13:34:00'
-  source: Supply Chain 24/7
-  title: U.S. Manufacturing Hits Record $2.91 Trillion as Worker Gap Grows
-- category: supply-chain
-  description: Donald Trump's new 50% Canada tariffs cover machinery, electrical equipment
-    and other goods, while energy and critical minerals are exempt.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trump-canada-tariffs-products-affected
-  pub_date: '2026-07-21T13:29:00'
-  source: Supply Chain 24/7
-  title: 'Trump’s New Canada Tariffs: What’s Covered and What’s Exempt?'
 - category: circular
   description: Dame Angela Eagle has been appointed Secretary of State for Environment,
     Food and Rural Affairs as part of Prime Minister Andy Burnham's first Cabinet,
@@ -98,15 +115,7 @@ articles:
   link: https://www.circularonline.co.uk/news/angela-eagle-appointed-defra-secretary-in-cabinet-reshuffle/
   pub_date: '2026-07-21T08:04:25'
   source: Circular Online
-  title: Angela Eagle appointed Defra Secretary in Cabinet reshuffle
-- category: supply-chain
-  description: Walmart and Amazon each topped 10% of U.S. retail sales in 2025, reaching
-    a milestone that highlights their growing dominance.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-amazon-top-10-percent-retail-sales-2025
-  pub_date: '2026-07-20T16:21:00'
-  source: Supply Chain 24/7
-  title: Walmart, Amazon Each Top 10% of U.S. Retail Sales for First Time
+  title: Angela Eagle appointed Defra Secretary in Burnham’s first Cabinet
 - category: circular
   description: Defra modelling shows Simpler Recycling, packaging Extended Producer
     Responsibility, and the Deposit Return Scheme will deliver less than a third of
@@ -162,13 +171,4 @@ articles:
   source: Circular Online
   title: Global waste set to almost double by 2050 as world leaders prepare for London
     summit
-- category: circular
-  description: The resource and waste management sector is largely ignored and undervalued
-    by government strategic planning, Dan Cooke says. The post Resource & waste infrastructure
-    ignored and undervalued, CIWM dir...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/resource-waste-infrastructure-ignored-and-undervalued-ciwm-director-says/
-  pub_date: '2026-07-14T07:30:00'
-  source: Circular Online
-  title: Resource & waste infrastructure ignored and undervalued, CIWM director says
-last_updated: '2026-07-23T08:29:45.402754'
+last_updated: '2026-07-24T08:27:02.970786'
