@@ -1,4 +1,21 @@
 articles:
+- category: machine-learning
+  description: Turning the key principles and methodological stages of GraphEval into
+    a simulated practical scenario to better understand its usefulness and key implications
+    in understanding and combating LLM halluc...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval
+  pub_date: '2026-07-24T13:02:40'
+  source: KDnuggets
+  title: Language Model Hallucination Evaluation with GraphEval
+- category: machine-learning
+  description: This article walks through and explains the five ideas that actually
+    hold agentic systems together.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-key-concepts-behind-agentic-ai-every-engineer-must-understand
+  pub_date: '2026-07-24T12:25:01'
+  source: KDnuggets
+  title: 5 Key Concepts Behind Agentic AI Every Engineer Must Understand
 - category: ai-research
   description: PhD student Lauren Fortier is building on the experience she gained
     operating a nuclear plant for the Navy to solve a critical hurdle in the wider
@@ -105,23 +122,6 @@ articles:
   pub_date: '2026-07-20T12:00:25'
   source: KDnuggets
   title: Top 5 MCP Servers for High-Performance Agentic Development
-- category: machine-learning
-  description: Access the on-demand webinar to understand what the latest guidance
-    means for your AI governance program and what your organization should do next.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act
-  pub_date: '2026-07-19T09:50:14'
-  source: KDnuggets
-  title: Could Your AI Systems Already Be High-Risk Under the EU AI Act?
-- category: machine-learning
-  description: 'Stop Using If-Else Chains: Use the Registry Pattern in Python Instead
-    5 Real-World SQL Projects to Build Your Data Portfolio 10 YouTube Channels Keeping
-    You Ahead in AI Structured Language Model Gener...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-13
-  pub_date: '2026-07-18T13:00:05'
-  source: KDnuggets
-  title: 'KDnuggets Weekly Roundup: Week of July 13, 2026'
 - category: ai-research
   description: Assistant Professor Bailey Flanigan has arrived at complex computational
     methods for helping democracy thrive.
@@ -253,4 +253,4 @@ articles:
   pub_date: '2026-06-25T16:00:00'
   source: Google AI Blog
   title: Our latest Google Finance upgrades, including a new app
-last_updated: '2026-07-24T08:27:04.379878'
+last_updated: '2026-07-25T08:05:43.742268'
