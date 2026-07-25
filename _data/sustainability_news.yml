@@ -1,5 +1,29 @@
 articles:
 - category: supply-chain
+  description: FedEx is raising holiday delivery fees across its U.S. package network,
+    with the highest surcharges running from Nov. 23 through Dec. 27.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-sets-higher-holiday-fees-for-ground-and-home-delivery
+  pub_date: '2026-07-24T14:51:00'
+  source: Supply Chain 24/7
+  title: FedEx Sets Higher Holiday Fees for Ground and Home Delivery
+- category: supply-chain
+  description: A Dallas County jury issued a $604 million advisory verdict against
+    C.H. Robinson and two other defendants over a 2021 crash that killed three people.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ch-robinson-604-million-truck-crash-verdict
+  pub_date: '2026-07-24T14:05:00'
+  source: Supply Chain 24/7
+  title: C.H. Robinson Faces $604 Million Advisory Verdict Over Fatal Crash
+- category: supply-chain
+  description: Maersk has opened a Chile-to-Wilmington cold chain for grapes and other
+    regulated produce moving into U.S. markets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-launches-chile-to-u.s-cold-chain-through-wilmington
+  pub_date: '2026-07-24T13:53:00'
+  source: Supply Chain 24/7
+  title: Maersk Launches Chile-to-U.S. Cold Chain Through Wilmington
+- category: supply-chain
   description: CN will no longer oppose Union Pacific's proposed $85B merger with
     Norfolk Southern under an agreement that would expand CN's access across the Midwest.
   icon: fa-box
@@ -73,14 +97,6 @@ articles:
   pub_date: '2026-07-22T14:52:00'
   source: Supply Chain 24/7
   title: Eight Ways AS/RS Is Reshaping Warehouse Operations
-- category: supply-chain
-  description: J.B. Hunt says its new AI freight platform is already operating across
-    all business units and helping manage millions of freight loads.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/jb-hunt-overroute-ai-freight-platform-launch
-  pub_date: '2026-07-22T14:33:00'
-  source: Supply Chain 24/7
-  title: J.B. Hunt Launches Overroute After Year of Internal Development
 - category: circular
   description: Mandatory collection of plastic films and flexible packaging delay
     reflects a 'lack of clarity' on policy and strategy, CIWM's Dan Cooke says. The
@@ -90,23 +106,6 @@ articles:
   pub_date: '2026-07-22T10:07:01'
   source: Circular Online
   title: CIWM says flexible collections delay reflects ‘lack of clarity’ over policy
-- category: supply-chain
-  description: Learn how intelligent warehouse execution uses embedded AI to reduce
-    execution latency, improve labor productivity, strengthen fulfillment performance,
-    and modernize warehouse operations incrementally...
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-warehouse-leaders-reduce-execution-latency
-  pub_date: '2026-07-21T19:45:00'
-  source: Supply Chain 24/7
-  title: How Should Warehouse Leaders Reduce Execution Latency?
-- category: supply-chain
-  description: A new Logistics Management survey finds 52% expect a busier Peak Season
-    in 2026 as companies move freight early ahead of possible tariff increases.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/peak-season-2026-survey-tariffs-front-loading-freight
-  pub_date: '2026-07-21T19:38:00'
-  source: Supply Chain 24/7
-  title: Peak Season Outlook Brightens as 52% Expect More Freight Activity
 - category: circular
   description: Dame Angela Eagle has been appointed Secretary of State for Environment,
     Food and Rural Affairs as part of Prime Minister Andy Burnham's first Cabinet,
@@ -171,4 +170,4 @@ articles:
   source: Circular Online
   title: Global waste set to almost double by 2050 as world leaders prepare for London
     summit
-last_updated: '2026-07-24T08:27:02.970786'
+last_updated: '2026-07-25T08:05:42.727381'
