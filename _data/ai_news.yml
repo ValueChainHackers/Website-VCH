@@ -1,5 +1,14 @@
 articles:
 - category: machine-learning
+  description: Top 5 MCP Servers for High Performance Agentic Development 10 Newsletters
+    Keeping You Ahead in AI Kaggle + Google's Free 5-Day Agentic AI Course Language
+    Model Hallucination Evaluation with GraphEval
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-20
+  pub_date: '2026-07-25T13:00:37'
+  source: KDnuggets
+  title: 'KDnuggets Weekly Roundup: Week of July 20, 2026'
+- category: machine-learning
   description: Turning the key principles and methodological stages of GraphEval into
     a simulated practical scenario to better understand its usefulness and key implications
     in understanding and combating LLM halluc...
@@ -113,15 +122,6 @@ articles:
   source: KDnuggets
   title: A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic
     Programming
-- category: machine-learning
-  description: Here are five that are genuinely worth wiring into a high-performance
-    agent development setup, chosen for what they do to an agent's actual capability
-    rather than their star count.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-5-mcp-servers-for-high-performance-agentic-development
-  pub_date: '2026-07-20T12:00:25'
-  source: KDnuggets
-  title: Top 5 MCP Servers for High-Performance Agentic Development
 - category: ai-research
   description: Assistant Professor Bailey Flanigan has arrived at complex computational
     methods for helping democracy thrive.
@@ -253,4 +253,4 @@ articles:
   pub_date: '2026-06-25T16:00:00'
   source: Google AI Blog
   title: Our latest Google Finance upgrades, including a new app
-last_updated: '2026-07-25T08:05:43.742268'
+last_updated: '2026-07-26T08:25:48.485903'
