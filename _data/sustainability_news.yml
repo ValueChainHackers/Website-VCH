@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: The Environment Agency (EA) has said it is 'carefully considering'
+    claims that toxic chemicals have been found at illegal waste dumps across the
+    UK. The post EA will 'carefully consider' claims of tox...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ea-will-carefully-consider-claims-of-toxic-chemicals-at-illegal-waste-sites/
+  pub_date: '2026-07-27T08:41:42'
+  source: Circular Online
+  title: EA will ‘carefully consider’ claims of toxic chemicals at illegal waste sites
 - category: supply-chain
   description: FedEx is raising holiday delivery fees across its U.S. package network,
     with the highest surcharges running from Nov. 23 through Dec. 27.
@@ -160,14 +169,4 @@ articles:
   pub_date: '2026-07-15T08:08:59'
   source: Circular Online
   title: Environment Agency expands list of high-priority waste sites
-- category: circular
-  description: Global municipal waste generation is projected to rise from 2.1 billion
-    tonnes in 2023 to 3.8 billion tonnes by 2050, as international policymakers and
-    industry leaders prepare to meet in London. The ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/global-waste-set-to-almost-double-by-2050-as-world-leaders-prepare-for-london-summit/
-  pub_date: '2026-07-14T09:24:43'
-  source: Circular Online
-  title: Global waste set to almost double by 2050 as world leaders prepare for London
-    summit
-last_updated: '2026-07-26T08:25:47.331238'
+last_updated: '2026-07-27T09:51:35.616525'
