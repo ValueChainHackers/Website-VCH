@@ -1,5 +1,21 @@
 articles:
 - category: machine-learning
+  description: Compare KimiClaw's cloud-hosted AI agent platform against self-hosted
+    OpenClaw across setup, privacy, and automation capabilities.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/is-kimiclaw-a-useful-tool
+  pub_date: '2026-07-27T14:00:03'
+  source: KDnuggets
+  title: Is KimiClaw a Useful Tool?
+- category: machine-learning
+  description: This article shows you up all the steps in building and deploying your
+    first autonomous AI agents from start to finish.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-steps-to-building-and-deploying-your-first-autonomous-agent
+  pub_date: '2026-07-27T12:00:06'
+  source: KDnuggets
+  title: 7 Steps to Building and Deploying Your First Autonomous Agent
+- category: machine-learning
   description: Top 5 MCP Servers for High Performance Agentic Development 10 Newsletters
     Keeping You Ahead in AI Kaggle + Google's Free 5-Day Agentic AI Course Language
     Model Hallucination Evaluation with GraphEval
@@ -104,24 +120,6 @@ articles:
   pub_date: '2026-07-21T14:00:42'
   source: KDnuggets
   title: Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi
-- category: machine-learning
-  description: Follow this free five-course roadmap to build real AI skills, from
-    classical algorithms to training LLMs from scratch.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner
-  pub_date: '2026-07-21T12:00:10'
-  source: KDnuggets
-  title: 5 Free Courses to Go From AI Beginner to Practitioner
-- category: machine-learning
-  description: This article walks through the actual configuration, permissions, hooks,
-    and command habits that separate a fresh install from a setup that holds up under
-    real, sustained agentic work.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming
-  pub_date: '2026-07-20T14:00:23'
-  source: KDnuggets
-  title: A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic
-    Programming
 - category: ai-research
   description: Assistant Professor Bailey Flanigan has arrived at complex computational
     methods for helping democracy thrive.
@@ -253,4 +251,4 @@ articles:
   pub_date: '2026-06-25T16:00:00'
   source: Google AI Blog
   title: Our latest Google Finance upgrades, including a new app
-last_updated: '2026-07-27T09:51:36.688602'
+last_updated: '2026-07-28T08:33:27.890276'

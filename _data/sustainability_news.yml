@@ -1,5 +1,74 @@
 articles:
 - category: circular
+  description: Environment Agency investigations into waste offences across Lincolnshire
+    have secured GBP168,000 for a local charity. The money, which was donated as part
+    of Enforcement Undertakings, will be used by...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/lincolnshire-waste-offenders-to-pay-168000-to-charity/
+  pub_date: '2026-07-28T07:35:47'
+  source: Circular Online
+  title: Lincolnshire waste offenders to pay £168,000 to charity
+- category: circular
+  description: West Mercia Police have revealed that GBP275,532.58 has been forfeited
+    so far as part of an ongoing investigation into illegal waste activity in Worcestershire.
+    The post Over GBP275,000 forfeited as p...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/over-275000-forfeited-as-part-ongoing-waste-crime-investigation/
+  pub_date: '2026-07-28T06:30:00'
+  source: Circular Online
+  title: Over £275,000 forfeited as part ongoing waste crime investigation
+- category: supply-chain
+  description: Learn how Goods-to-Person automation helps aftermarket parts distributors
+    improve fulfillment accuracy, warehouse productivity, scalability, and operational
+    resilience.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-aftermarket-parts-distributors-improve-fulfillment-with-g2p-automation
+  pub_date: '2026-07-27T15:52:00'
+  source: Supply Chain 24/7
+  title: How Aftermarket Parts Distributors Improve Fulfillment with G2P Automation
+- category: supply-chain
+  description: Fairlife restarted most production at four U.S. plants after a cyberattack
+    disrupted systems used to manufacture its dairy products.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/coca-cola-fairlife-production-cyberattack
+  pub_date: '2026-07-27T14:41:00'
+  source: Supply Chain 24/7
+  title: Cyberattack Shuts Down Coca-Cola Production at Four U.S. Plants
+- category: supply-chain
+  description: The United States has imposed tariffs of 10% or 12.5% on imports from
+    60 trading partners over their handling of goods made with forced labor.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-forced-labor-tariffs-60-trading-partners
+  pub_date: '2026-07-27T14:09:00'
+  source: Supply Chain 24/7
+  title: U.S. Sets New Tariffs on Imports From 60 Trading Partners
+- category: supply-chain
+  description: Argan and WDP plan to merge, creating a $14.8 billion logistics property
+    company with nearly 140 million square feet across Europe.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/argan-wdp-logistics-real-estate-merger
+  pub_date: '2026-07-27T13:39:00'
+  source: Supply Chain 24/7
+  title: Argan, WDP Plan $14.8B Logistics Real Estate Merger
+- category: supply-chain
+  description: Kenco's Rebecca Wilson explains how better onboarding, training, and
+    career paths can help warehouses reduce employee turnover.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kenco-warehouse-worker-retention-training-onboarding
+  pub_date: '2026-07-27T13:32:00'
+  source: Supply Chain 24/7
+  title: Why Developing Warehouse Workers Can Pay Off for Employers
+- category: circular
+  description: The Flexible Plastic Fund (FPF) warns the delay to the mandatory kerbside
+    collections of flexible plastic packaging risks future investment and growth across
+    the UK. The post Flexible Plastic Fund cal...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/flexible-plastic-fund-calls-for-urgent-transition-plan-following-collections-delay/
+  pub_date: '2026-07-27T10:24:07'
+  source: Circular Online
+  title: Flexible Plastic Fund calls for urgent transition plan following collections
+    delay
+- category: circular
   description: The Environment Agency (EA) has said it is 'carefully considering'
     claims that toxic chemicals have been found at illegal waste dumps across the
     UK. The post EA will 'carefully consider' claims of tox...
@@ -48,22 +117,6 @@ articles:
   pub_date: '2026-07-23T15:00:00'
   source: Supply Chain 24/7
   title: Supply Chain Recovery Stalls as Recovery Loses Steam
-- category: supply-chain
-  description: Electra plans to invest $850 million in a Springfield, Ohio, plant
-    that will create 1,975 jobs and produce up to 800 aircraft annually.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/electra-850-million-ohio-aircraft-plant
-  pub_date: '2026-07-23T14:17:00'
-  source: Supply Chain 24/7
-  title: Electra Chooses Ohio for $850 Million Hybrid Aircraft Plant
-- category: supply-chain
-  description: The ATRI found that the average cost of operating a truck rose 3.4%
-    to a record $2.336 per mile in 2025, with every major expense category increasing.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/truck-operating-costs-record-2025-atri
-  pub_date: '2026-07-23T13:44:00'
-  source: Supply Chain 24/7
-  title: Truck Operating Costs Hit Record $2.34 Per Mile
 - category: circular
   description: Mary Creagh has confirmed that she is being replaced as the Minister
     responsible for Waste and the Circular Economy. The post Creagh to be replaced
@@ -82,30 +135,6 @@ articles:
   pub_date: '2026-07-23T08:17:55'
   source: Circular Online
   title: Illegal waste site on protected land in County Durham shut down
-- category: supply-chain
-  description: Alaska Airlines announced plans to add four Boeing 737-800 converted
-    freighters, doubling cargo capacity and expanding service in Alaska and Hawaii.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/alaska-airlines-double-cargo-capacity-four-freighters
-  pub_date: '2026-07-22T17:24:00'
-  source: Supply Chain 24/7
-  title: Alaska Airlines to Double Cargo Capacity With Four Freighters
-- category: supply-chain
-  description: LinkedIn's annual list of fastest-growing job markets include 12 cities
-    with ties to freight, manufacturing, ports, and logistics.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fast-growing-us-job-markets-supply-chain
-  pub_date: '2026-07-22T16:59:00'
-  source: Supply Chain 24/7
-  title: 12 Fast-Growing U.S. Job Markets for Logistics and Manufacturing
-- category: supply-chain
-  description: Eight ways AS/RS is helping warehouses reduce worker travel, manage
-    shifting SKU demand, and take on more daily tasks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/eight-ways-asrs-changing-warehouse-work
-  pub_date: '2026-07-22T14:52:00'
-  source: Supply Chain 24/7
-  title: Eight Ways AS/RS Is Reshaping Warehouse Operations
 - category: circular
   description: Mandatory collection of plastic films and flexible packaging delay
     reflects a 'lack of clarity' on policy and strategy, CIWM's Dan Cooke says. The
@@ -142,31 +171,4 @@ articles:
   pub_date: '2026-07-17T10:27:41'
   source: Circular Online
   title: Defra confirms delay to mandatory collections of flexible plastics
-- category: circular
-  description: The maximum fine for fly-tipping in England is set to rise by 400%
-    to GBP5,000 as part of a government crackdown on waste crime. The post Defra increases
-    maximum fine for fly-tipping to GBP5,000 appea...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/defra-increases-maximum-fine-for-fly-tipping-to-5000/
-  pub_date: '2026-07-16T08:11:11'
-  source: Circular Online
-  title: Defra increases maximum fine for fly-tipping to £5,000
-- category: circular
-  description: Fires caused by a binned battery or vape have been publicly reported
-    in the UK every nine days this year, a new tracker shows. The post Battery and
-    vape fires in the UK hit record high appeared first ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/battery-and-vape-fires-in-the-uk-hit-record-high/
-  pub_date: '2026-07-15T09:45:34'
-  source: Circular Online
-  title: Battery and vape fires in the UK hit record high
-- category: circular
-  description: The Environment Agency has expanded its watchlist of high-priority
-    waste sites it says are 'causing concerns within local communities' to 139. The
-    post Environment Agency expands list of high-priority...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-agency-expands-list-of-high-priority-waste-sites/
-  pub_date: '2026-07-15T08:08:59'
-  source: Circular Online
-  title: Environment Agency expands list of high-priority waste sites
-last_updated: '2026-07-27T09:51:35.616525'
+last_updated: '2026-07-28T08:33:26.723531'
