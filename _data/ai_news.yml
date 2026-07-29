@@ -1,4 +1,43 @@
 articles:
+- category: ai-research
+  description: Managed Agents Gemini 3.6 Flash, Hooks and Triggers
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
+  pub_date: '2026-07-28T16:00:00'
+  source: Google AI Blog
+  title: 'Gemini API Managed Agents: 3.6 Flash, hooks, and more'
+- category: machine-learning
+  description: With this introductory guide to practical constraint decoding, you'll
+    no longer need to beg your model to "output valid JSON without including any markdown."
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/an-introductory-guide-to-practical-constraint-decoding
+  pub_date: '2026-07-28T14:00:30'
+  source: KDnuggets
+  title: An Introductory Guide to Practical Constraint Decoding
+- category: ai-research
+  description: Illustration of a black magnifying glass in a white circle on green
+    grass surrounded by items related to fun activities like tennis and games
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/
+  pub_date: '2026-07-28T13:00:00'
+  source: Google AI Blog
+  title: 5 ways AI Mode in Search helps you enjoy the real world
+- category: ai-research
+  description: An illustrated black magnifying glass with a sparkle in a white circle
+    surrounded by a dinner party tablescape
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/
+  pub_date: '2026-07-28T13:00:00'
+  source: Google AI Blog
+  title: 5 ways to host the ultimate dinner party with Google Search
+- category: machine-learning
+  description: Discover five of the best AI tools for data analysis that can clean
+    data, write code, create visualizations, and generate insights faster.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026
+  pub_date: '2026-07-28T12:00:08'
+  source: KDnuggets
+  title: 5 Best AI Tools for Data Analysis You Should Try in 2026
 - category: machine-learning
   description: Compare KimiClaw's cloud-hosted AI agent platform against self-hosted
     OpenClaw across setup, privacy, and automation capabilities.
@@ -103,23 +142,6 @@ articles:
   pub_date: '2026-07-22T13:00:00'
   source: Google AI Blog
   title: 3 Google updates from Galaxy Unpacked 2026
-- category: machine-learning
-  description: Cut through AI noise with 10 curated newsletters covering daily news,
-    technical research, policy, and builder tools.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-newsletters-keeping-you-ahead-in-ai
-  pub_date: '2026-07-22T12:00:51'
-  source: KDnuggets
-  title: 10 Newsletters Keeping You Ahead in AI
-- category: machine-learning
-  description: Run Qwythos-9B-Claude-Mythos-5-1M locally with llama.cpp, connect it
-    to Pi coding agent, and build fast local coding workflows using MTP speculative
-    decoding and an OpenAI-compatible API.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi
-  pub_date: '2026-07-21T14:00:42'
-  source: KDnuggets
-  title: Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi
 - category: ai-research
   description: Assistant Professor Bailey Flanigan has arrived at complex computational
     methods for helping democracy thrive.
@@ -228,27 +250,4 @@ articles:
   source: Google AI Blog
   title: New York City educators and industry leaders gathered at Google’s offices
     to shape the future of AI in classrooms.
-- category: ai-research
-  description: Four illustrated characters representing different professional roles,
-    including a scientist, technician, explorer, and observer.
-  icon: fa-google
-  link: https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/
-  pub_date: '2026-06-30T06:00:00'
-  source: Google AI Blog
-  title: 'Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers'
-- category: ai-research
-  description: An illustration depicting a full-stack AI infrastructure against a
-    dark background
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
-  pub_date: '2026-06-29T16:00:00'
-  source: Google AI Blog
-  title: 'Ask an AI expert: What exactly is the full stack?'
-- category: ai-research
-  description: The Google Finance logo, surrounded by elements of the user interface
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/
-  pub_date: '2026-06-25T16:00:00'
-  source: Google AI Blog
-  title: Our latest Google Finance upgrades, including a new app
-last_updated: '2026-07-28T08:33:27.890276'
+last_updated: '2026-07-29T08:40:02.108155'

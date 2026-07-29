@@ -1,5 +1,63 @@
 articles:
 - category: circular
+  description: New $27 million funding will be used to scale Greyparrot's AI waste
+    intelligence platform. The post Greyparrot secures $27M in funding to scale AI
+    recycling system appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/greyparrot-secures-27m-in-funding-to-scale-ai-recycling-system/
+  pub_date: '2026-07-29T07:43:10'
+  source: Circular Online
+  title: Greyparrot secures $27M in funding to scale AI recycling system
+- category: circular
+  description: Construction has begun on a new GBP35 million anaerobic digestion (AD)
+    facility at SUEZ's Ellington site in Northumberland. The post Construction begins
+    on GBP35m SUEZ Anaerobic Digestion facility app...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/construction-begins-on-35m-suez-anerobic-digestion-facility/
+  pub_date: '2026-07-29T07:00:00'
+  source: Circular Online
+  title: Construction begins on £35m SUEZ Anaerobic Digestion facility
+- category: supply-chain
+  description: A new Deposco report shows retail inventories are near an 18-month
+    low as parcel inflation rises three times faster than consumer prices.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/retailers-lean-inventory-rising-parcel-costs
+  pub_date: '2026-07-28T17:31:00'
+  source: Supply Chain 24/7
+  title: Retailers Head Into Peak Season With Leaner Inventories
+- category: supply-chain
+  description: A new twice-monthly service links Mexico, Port Canaveral, and Philadelphia,
+    carrying up to 120 import containers per call.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/port-canaveral-mexico-container-service
+  pub_date: '2026-07-28T14:36:00'
+  source: Supply Chain 24/7
+  title: Port Canaveral Adds Mexico-Philadelphia Container Service
+- category: supply-chain
+  description: Modern Material Handling's annual software survey finds companies delaying
+    purchases while continuing to evaluate WMS, WES, cloud applications, and AI.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-software-spending-ai-cloud-wms-2026
+  pub_date: '2026-07-28T13:29:00'
+  source: Supply Chain 24/7
+  title: AI Use Grows as Companies Rethink Warehouse Software Spending
+- category: supply-chain
+  description: A new White House program ties aluminum tariff relief to domestic investment,
+    with import allowances based on each plant's expected output.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-aluminum-tariff-breaks-domestic-production
+  pub_date: '2026-07-28T13:20:00'
+  source: Supply Chain 24/7
+  title: U.S. Offers Tariff Breaks to Boost Domestic Aluminum Production
+- category: supply-chain
+  description: Port Houston awarded an $84.6 million contract to rebuild two Barbours
+    Cut wharves and approved planning work for other terminal projects.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/port-houston-barbours-cut-wharf-channel-expansion
+  pub_date: '2026-07-28T12:17:00'
+  source: Supply Chain 24/7
+  title: Port Houston Moves Ahead With $85 Million Terminal Upgrade
+- category: circular
   description: Environment Agency investigations into waste offences across Lincolnshire
     have secured GBP168,000 for a local charity. The money, which was donated as part
     of Enforcement Undertakings, will be used by...
@@ -77,46 +135,6 @@ articles:
   pub_date: '2026-07-27T08:41:42'
   source: Circular Online
   title: EA will ‘carefully consider’ claims of toxic chemicals at illegal waste sites
-- category: supply-chain
-  description: FedEx is raising holiday delivery fees across its U.S. package network,
-    with the highest surcharges running from Nov. 23 through Dec. 27.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-sets-higher-holiday-fees-for-ground-and-home-delivery
-  pub_date: '2026-07-24T14:51:00'
-  source: Supply Chain 24/7
-  title: FedEx Sets Higher Holiday Fees for Ground and Home Delivery
-- category: supply-chain
-  description: A Dallas County jury issued a $604 million advisory verdict against
-    C.H. Robinson and two other defendants over a 2021 crash that killed three people.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ch-robinson-604-million-truck-crash-verdict
-  pub_date: '2026-07-24T14:05:00'
-  source: Supply Chain 24/7
-  title: C.H. Robinson Faces $604 Million Advisory Verdict Over Fatal Crash
-- category: supply-chain
-  description: Maersk has opened a Chile-to-Wilmington cold chain for grapes and other
-    regulated produce moving into U.S. markets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-launches-chile-to-u.s-cold-chain-through-wilmington
-  pub_date: '2026-07-24T13:53:00'
-  source: Supply Chain 24/7
-  title: Maersk Launches Chile-to-U.S. Cold Chain Through Wilmington
-- category: supply-chain
-  description: CN will no longer oppose Union Pacific's proposed $85B merger with
-    Norfolk Southern under an agreement that would expand CN's access across the Midwest.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cn-union-pacific-norfolk-southern-merger-access-deal
-  pub_date: '2026-07-23T15:46:00'
-  source: Supply Chain 24/7
-  title: Union Pacific, CN Reach Deal Tied to Norfolk Southern Merger
-- category: supply-chain
-  description: A new Warehouse on Wheels index shows U.S. supply chain activity remained
-    in contraction during June, barely changing from the previous month.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-activity-remains-in-contraction
-  pub_date: '2026-07-23T15:00:00'
-  source: Supply Chain 24/7
-  title: Supply Chain Recovery Stalls as Recovery Loses Steam
 - category: circular
   description: Mary Creagh has confirmed that she is being replaced as the Minister
     responsible for Waste and the Circular Economy. The post Creagh to be replaced
@@ -153,22 +171,4 @@ articles:
   pub_date: '2026-07-21T08:04:25'
   source: Circular Online
   title: Angela Eagle appointed Defra Secretary in Burnham’s first Cabinet
-- category: circular
-  description: Defra modelling shows Simpler Recycling, packaging Extended Producer
-    Responsibility, and the Deposit Return Scheme will deliver less than a third of
-    the reduction needed to halve residual waste per pe...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/flagship-reforms-to-deliver-just-31-of-englands-required-waste-cuts/
-  pub_date: '2026-07-20T14:56:21'
-  source: Circular Online
-  title: Flagship reforms to deliver just 31% of England’s required waste cuts
-- category: circular
-  description: The Department for Environment, Food, and Rural Affairs (Defra) confirms
-    it has delayed the mandatory collection of plastic films and flexible packaging
-    until April 2030. The post Defra confirms delay...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/defra-confirms-delay-to-mandatory-collections-of-flexible-plastics/
-  pub_date: '2026-07-17T10:27:41'
-  source: Circular Online
-  title: Defra confirms delay to mandatory collections of flexible plastics
-last_updated: '2026-07-28T08:33:26.723531'
+last_updated: '2026-07-29T08:40:00.801655'
