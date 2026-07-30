@@ -1,4 +1,32 @@
 articles:
+- category: machine-learning
+  description: Learn why clear business goals, data quality, simple models, careful
+    validation, realistic costs, and human judgment matter more than chasing the latest
+    technology.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online
+  pub_date: '2026-07-29T14:00:25'
+  source: KDnuggets
+  title: What Professionals Should Know About Data Science and AI, According to Harvard
+    Business School Online
+- category: ai-research
+  description: The visionary PhysioNet platform launched 25 years ago, based on a
+    system developed at MIT in the 1970s. It has become one of the most comprehensive
+    biomedical and clinical data repositories in existe...
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729
+  pub_date: '2026-07-29T14:00:00'
+  source: MIT AI News
+  title: How a medical database developed at MIT evolved into a global standard of
+    data-sharing
+- category: machine-learning
+  description: Five resources covering SLM architecture, fine-tuning, agentic workflows,
+    and local deployment for data professionals.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-must-read-resources-for-mastering-small-language-models
+  pub_date: '2026-07-29T12:00:22'
+  source: KDnuggets
+  title: 5 Must-Read Resources for Mastering Small Language Models
 - category: ai-research
   description: Managed Agents Gemini 3.6 Flash, Hooks and Triggers
   icon: fa-google
@@ -98,15 +126,6 @@ articles:
   pub_date: '2026-07-23T14:00:47'
   source: KDnuggets
   title: Getting Started with OmniVoice-Studio
-- category: machine-learning
-  description: Discover seven cheaper, faster Claude Code alternatives for CLI agentic
-    coding, with open-source tools, local models, MCP support, and better context
-    control.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding
-  pub_date: '2026-07-23T12:00:42'
-  source: KDnuggets
-  title: 7 Best Claude Code Alternatives for CLI Agentic Coding
 - category: ai-research
   description: Initial research projects advance national priorities across natural
     resources, manufacturing, nuclear physics, and more.
@@ -125,14 +144,6 @@ articles:
   source: MIT AI News
   title: Professor Emeritus Dimitri Bertsekas, influential computer scientist and
     prolific author, dies at 83
-- category: machine-learning
-  description: Google and Kaggle's 5-Day AI agents course is now freely available
-    to everyone.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/kaggle-googles-free-5-day-agentic-ai-course
-  pub_date: '2026-07-22T14:00:33'
-  source: KDnuggets
-  title: Kaggle + Google’s Free 5-Day Agentic AI Course
 - category: ai-research
   description: Gentle Monster glasses, Warby Parker glasses, a prompt asking for the
     history behind a pictured building, and a prompt asking to book a table at a pictured
@@ -217,16 +228,6 @@ articles:
   source: MIT AI News
   title: How MIT students are helping to prevent cyberattacks
 - category: ai-research
-  description: '"SceneSmith" system uses collaborative AI agents to create realistic
-    3D environments of places like kitchens, hotels, and living rooms, where robots
-    can simulate everyday chores.'
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
-  pub_date: '2026-07-13T18:50:00'
-  source: MIT AI News
-  title: AI agents create virtual playgrounds to help robots get crucial training
-    data
-- category: ai-research
   description: Managed agents feature bundle launch
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
@@ -250,4 +251,4 @@ articles:
   source: Google AI Blog
   title: New York City educators and industry leaders gathered at Google’s offices
     to shape the future of AI in classrooms.
-last_updated: '2026-07-29T08:40:02.108155'
+last_updated: '2026-07-30T08:26:01.895025'
