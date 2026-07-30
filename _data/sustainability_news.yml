@@ -1,5 +1,56 @@
 articles:
 - category: circular
+  description: A 'complex' clean-up of dumped potentially hazardous waste, oil and
+    tyres by the side of the A14 cost GBP500,000. The post 'Complex' hazardous waste
+    clean-up on A14 costs GBP500,000 appeared first on ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/complex-hazardous-waste-clean-up-on-a14-costs-500000/
+  pub_date: '2026-07-30T07:28:23'
+  source: Circular Online
+  title: ‘Complex’ hazardous waste clean-up on A14 costs £500,000
+- category: supply-chain
+  description: GS1 US Vice President Michelle Covey explains why produce outbreaks
+    are difficult to trace and what shoppers should know about recalls and food safety.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/why-cyclosporiasis-outbreak-is-hard-to-trace
+  pub_date: '2026-07-29T15:37:00'
+  source: Supply Chain 24/7
+  title: Can You Trust Your Lettuce? Why Outbreaks Are So Hard to Trace
+- category: supply-chain
+  description: A look at how foldable containers are helping Outokumpu move steel
+    scrap from Mexico to Alabama with fewer truck trips and cheaper shipping costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/foldable-containers-cut-steel-scrap-shipping-costs
+  pub_date: '2026-07-29T15:29:00'
+  source: Supply Chain 24/7
+  title: How Foldable Containers Cut the Cost of Shipping Steel Scrap
+- category: supply-chain
+  description: Friendshoring is the practice of moving manufacturing and sourcing
+    to trusted trading partners to reduce supply chain risk while maintaining global
+    operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-101-what-is-friendshoring
+  pub_date: '2026-07-29T15:05:00'
+  source: Supply Chain 24/7
+  title: 'Supply Chain 101: What Is Friendshoring and Why Are Companies Using It?'
+- category: supply-chain
+  description: Maine Pointe's management team has bought the supply chain consulting
+    firm from SGS and plans to increase its investment in AI.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maine-pointe-management-buyout-sgs
+  pub_date: '2026-07-29T13:26:00'
+  source: Supply Chain 24/7
+  title: Maine Pointe Management Buys Supply Chain Firm From SGS
+- category: circular
+  description: Emmersons Transport LTD in Portsmouth has been ordered to stop crushing
+    waste because of dangerous dust pollution. The post Waste site ordered to stop
+    work over dangerous dust pollution appeared first...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-site-ordered-to-stop-work-over-dangerous-dust-pollution/
+  pub_date: '2026-07-29T10:13:48'
+  source: Circular Online
+  title: Waste site ordered to stop work over dangerous dust pollution
+- category: circular
   description: New $27 million funding will be used to scale Greyparrot's AI waste
     intelligence platform. The post Greyparrot secures $27M in funding to scale AI
     recycling system appeared first on Circular Online.
@@ -26,6 +77,23 @@ articles:
   source: Supply Chain 24/7
   title: Retailers Head Into Peak Season With Leaner Inventories
 - category: supply-chain
+  description: Learn how governed product identity helps brands manage connected packaging,
+    product data, compliance, localization, and Digital Product Passports.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/what-is-a-governed-product-identity-and-why-does-it-matter
+  pub_date: '2026-07-28T16:29:00'
+  source: Supply Chain 24/7
+  title: What Is a Governed Product Identity and Why Does It Matter?
+- category: supply-chain
+  description: Learn why product-level sustainability data, connected packaging and
+    live digital records are becoming essential for regulatory compliance and trust
+    today.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-should-brands-prove-product-level-sustainability-claims
+  pub_date: '2026-07-28T16:17:00'
+  source: Supply Chain 24/7
+  title: How Should Brands Prove Product-Level Sustainability Claims?
+- category: supply-chain
   description: A new twice-monthly service links Mexico, Port Canaveral, and Philadelphia,
     carrying up to 120 import containers per call.
   icon: fa-box
@@ -49,14 +117,6 @@ articles:
   pub_date: '2026-07-28T13:20:00'
   source: Supply Chain 24/7
   title: U.S. Offers Tariff Breaks to Boost Domestic Aluminum Production
-- category: supply-chain
-  description: Port Houston awarded an $84.6 million contract to rebuild two Barbours
-    Cut wharves and approved planning work for other terminal projects.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/port-houston-barbours-cut-wharf-channel-expansion
-  pub_date: '2026-07-28T12:17:00'
-  source: Supply Chain 24/7
-  title: Port Houston Moves Ahead With $85 Million Terminal Upgrade
 - category: circular
   description: Environment Agency investigations into waste offences across Lincolnshire
     have secured GBP168,000 for a local charity. The money, which was donated as part
@@ -65,7 +125,7 @@ articles:
   link: https://www.circularonline.co.uk/news/lincolnshire-waste-offenders-to-pay-168000-to-charity/
   pub_date: '2026-07-28T07:35:47'
   source: Circular Online
-  title: Lincolnshire waste offenders to pay £168,000 to charity
+  title: Lincolnshire waste offenders pay £168,000 to charity
 - category: circular
   description: West Mercia Police have revealed that GBP275,532.58 has been forfeited
     so far as part of an ongoing investigation into illegal waste activity in Worcestershire.
@@ -75,47 +135,6 @@ articles:
   pub_date: '2026-07-28T06:30:00'
   source: Circular Online
   title: Over £275,000 forfeited as part ongoing waste crime investigation
-- category: supply-chain
-  description: Learn how Goods-to-Person automation helps aftermarket parts distributors
-    improve fulfillment accuracy, warehouse productivity, scalability, and operational
-    resilience.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-aftermarket-parts-distributors-improve-fulfillment-with-g2p-automation
-  pub_date: '2026-07-27T15:52:00'
-  source: Supply Chain 24/7
-  title: How Aftermarket Parts Distributors Improve Fulfillment with G2P Automation
-- category: supply-chain
-  description: Fairlife restarted most production at four U.S. plants after a cyberattack
-    disrupted systems used to manufacture its dairy products.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/coca-cola-fairlife-production-cyberattack
-  pub_date: '2026-07-27T14:41:00'
-  source: Supply Chain 24/7
-  title: Cyberattack Shuts Down Coca-Cola Production at Four U.S. Plants
-- category: supply-chain
-  description: The United States has imposed tariffs of 10% or 12.5% on imports from
-    60 trading partners over their handling of goods made with forced labor.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-forced-labor-tariffs-60-trading-partners
-  pub_date: '2026-07-27T14:09:00'
-  source: Supply Chain 24/7
-  title: U.S. Sets New Tariffs on Imports From 60 Trading Partners
-- category: supply-chain
-  description: Argan and WDP plan to merge, creating a $14.8 billion logistics property
-    company with nearly 140 million square feet across Europe.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/argan-wdp-logistics-real-estate-merger
-  pub_date: '2026-07-27T13:39:00'
-  source: Supply Chain 24/7
-  title: Argan, WDP Plan $14.8B Logistics Real Estate Merger
-- category: supply-chain
-  description: Kenco's Rebecca Wilson explains how better onboarding, training, and
-    career paths can help warehouses reduce employee turnover.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/kenco-warehouse-worker-retention-training-onboarding
-  pub_date: '2026-07-27T13:32:00'
-  source: Supply Chain 24/7
-  title: Why Developing Warehouse Workers Can Pay Off for Employers
 - category: circular
   description: The Flexible Plastic Fund (FPF) warns the delay to the mandatory kerbside
     collections of flexible plastic packaging risks future investment and growth across
@@ -153,22 +172,4 @@ articles:
   pub_date: '2026-07-23T08:17:55'
   source: Circular Online
   title: Illegal waste site on protected land in County Durham shut down
-- category: circular
-  description: Mandatory collection of plastic films and flexible packaging delay
-    reflects a 'lack of clarity' on policy and strategy, CIWM's Dan Cooke says. The
-    post CIWM says flexible collections delay reflects 'l...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-says-flexible-collections-delay-reflects-lack-of-clarity-over-policy/
-  pub_date: '2026-07-22T10:07:01'
-  source: Circular Online
-  title: CIWM says flexible collections delay reflects ‘lack of clarity’ over policy
-- category: circular
-  description: Dame Angela Eagle has been appointed Secretary of State for Environment,
-    Food and Rural Affairs as part of Prime Minister Andy Burnham's first Cabinet,
-    taking responsibility for the government's envir...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/angela-eagle-appointed-defra-secretary-in-cabinet-reshuffle/
-  pub_date: '2026-07-21T08:04:25'
-  source: Circular Online
-  title: Angela Eagle appointed Defra Secretary in Burnham’s first Cabinet
-last_updated: '2026-07-29T08:40:00.801655'
+last_updated: '2026-07-30T08:26:00.975508'
