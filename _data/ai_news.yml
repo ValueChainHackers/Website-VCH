@@ -1,4 +1,39 @@
 articles:
+- category: ai-research
+  description: Director of CSAIL and MIT professor honored for her contributions to
+    robotics, artificial intelligence, and autonomous systems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730
+  pub_date: '2026-07-30T21:00:00'
+  source: MIT AI News
+  title: Daniela Rus receives Bavarian Minister-President's High-Tech Prize
+- category: ai-research
+  description: MIT students and postdocs discussed science funding and research with
+    policymakers in Washington during the MIT Science Policy Initiative's annual Congressional
+    Visit Days.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730
+  pub_date: '2026-07-30T20:35:00'
+  source: MIT AI News
+  title: Connecting research to policy on Capitol Hill
+- category: machine-learning
+  description: Claude Design is a research preview under Anthropic Labs, powered by
+    Claude Opus' vision capability, generating interactive prototypes with working
+    navigation, embedded video, voice input, and 3D elem...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design
+  pub_date: '2026-07-30T14:06:48'
+  source: KDnuggets
+  title: A Beginner’s Guide to Working with Claude Design
+- category: machine-learning
+  description: Discover 7 essential machine learning algorithms that every data scientist
+    should know before reaching for LLMs and generative AI, with simple explanations
+    and practical Python code.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter
+  pub_date: '2026-07-30T12:00:46'
+  source: KDnuggets
+  title: 7 Machine Learning Algorithms That Still Matter
 - category: machine-learning
   description: Learn why clear business goals, data quality, simple models, careful
     validation, realistic costs, and human judgment matter more than chasing the latest
@@ -100,14 +135,6 @@ articles:
   pub_date: '2026-07-24T13:02:40'
   source: KDnuggets
   title: Language Model Hallucination Evaluation with GraphEval
-- category: machine-learning
-  description: This article walks through and explains the five ideas that actually
-    hold agentic systems together.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-key-concepts-behind-agentic-ai-every-engineer-must-understand
-  pub_date: '2026-07-24T12:25:01'
-  source: KDnuggets
-  title: 5 Key Concepts Behind Agentic AI Every Engineer Must Understand
 - category: ai-research
   description: PhD student Lauren Fortier is building on the experience she gained
     operating a nuclear plant for the Navy to solve a critical hurdle in the wider
@@ -117,15 +144,6 @@ articles:
   pub_date: '2026-07-24T04:00:00'
   source: MIT AI News
   title: Working to automate nuclear plant operations
-- category: machine-learning
-  description: OmniVoice Studio is built on a premise that everything runs on your
-    hardware. Voice cloning, video dubbing, real-time dictation, voice design, all
-    of it local, all of it free for personal use, no API ...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/getting-started-with-omnivoice-studio
-  pub_date: '2026-07-23T14:00:47'
-  source: KDnuggets
-  title: Getting Started with OmniVoice-Studio
 - category: ai-research
   description: Initial research projects advance national priorities across natural
     resources, manufacturing, nuclear physics, and more.
@@ -203,15 +221,6 @@ articles:
   source: MIT AI News
   title: Helping AI models to meet the real world
 - category: ai-research
-  description: MIT students designed, built, and tested a jet engine with AI copilots,
-    assessing AI's usefulness in developing high-performance aerospace systems.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714
-  pub_date: '2026-07-14T18:00:00'
-  source: MIT AI News
-  title: Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in
-    tough-tech engineering
-- category: ai-research
   description: Google Images logo surrounded by illustrations of people searching
     for different images
   icon: fa-google
@@ -219,14 +228,6 @@ articles:
   pub_date: '2026-07-14T16:00:00'
   source: Google AI Blog
   title: Celebrating 25 years of visual search innovation
-- category: ai-research
-  description: Students from the MIT Cybersecurity Clinic help local governments and
-    other vulnerable organizations defend against digital threats.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713
-  pub_date: '2026-07-13T19:10:00'
-  source: MIT AI News
-  title: How MIT students are helping to prevent cyberattacks
 - category: ai-research
   description: Managed agents feature bundle launch
   icon: fa-google
@@ -251,4 +252,4 @@ articles:
   source: Google AI Blog
   title: New York City educators and industry leaders gathered at Google’s offices
     to shape the future of AI in classrooms.
-last_updated: '2026-07-30T08:26:01.895025'
+last_updated: '2026-07-31T08:49:06.043512'
