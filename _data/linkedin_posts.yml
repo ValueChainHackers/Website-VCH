@@ -1,0 +1,26 @@
+# LinkedIn Posts - Manual Update Required
+# Update this file monthly with real posts from:
+# https://www.linkedin.com/company/valuechainhackers/posts/
+#
+# Fields:
+#   date: Post date (YYYY-MM-DD)
+#   text: Post text (first 2-3 sentences max)
+#   url: Full URL to the LinkedIn post
+#   image: (optional) path to saved image, e.g. /assets/images/linkedin/post-2025-10.jpg
+#   tag: Short label shown on card (e.g. "New Project", "Event", "Update")
+
+posts:
+  - date: "2025-10-23"
+    text: "Our Fall 2025 cohort is officially underway! 12 teams, 43 students, and 9 business partners tackling real supply chain challenges. Follow along as we share their journey."
+    url: "https://www.linkedin.com/company/valuechainhackers/"
+    tag: "Cohort Update"
+
+  - date: "2025-10-01"
+    text: "Kickoff session complete! Students and business partners met for the first time to define project scopes. The energy in the room was incredible."
+    url: "https://www.linkedin.com/company/valuechainhackers/"
+    tag: "Event"
+
+  - date: "2025-09-15"
+    text: "Value Chain Hackers is back for another semester. We're partnering with businesses across the Netherlands to tackle sustainability and supply chain challenges."
+    url: "https://www.linkedin.com/company/valuechainhackers/"
+    tag: "Announcement"
