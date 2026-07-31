@@ -37,6 +37,30 @@
 
 ## 🔴 CURRENT CRITICAL ISSUES (Do First)
 
+### Issue #0: Route valuechainhackers.xyz to WordPress 🔀
+**Priority:** 🔴 CRITICAL
+**Status:** Not Started
+**Context:** WordPress site running at `testwebsite2.valuechainhackers.xyz` — need to make it the primary site at `valuechainhackers.xyz`
+
+**Requirements:**
+- Connect via OpenVPN to IXWorx infra (`dc1.ixworx.nl:1194`)
+- Locate WordPress container on `10.0.1.x` (Proxmox)
+- Update Traefik routing rules: `valuechainhackers.xyz` → WordPress container
+- Verify `testwebsite2.valuechainhackers.xyz` still works (or redirect it)
+
+**VPN config:** `~/Nextcloud/Talk/fw1dc1-UDP4-1194-chris-config(3).ovpn`
+**Traefik config:** `~/Nextcloud/Github/K-Libary/Areas/VCH/TraeficFiles/docker-compose.yaml`
+
+**Definition of Done:**
+- [ ] VPN connected, WordPress container identified
+- [ ] Traefik label updated: `Host(\`valuechainhackers.xyz\`)`
+- [ ] `https://valuechainhackers.xyz` loads WordPress
+- [ ] SSL cert valid
+
+---
+
+
+
 ### Issue #1: Largest Contentful Paint (LCP) Too Slow ⚡
 **Priority:** 🔴 CRITICAL
 **Current:** 5,220ms | **Target:** <2,500ms
