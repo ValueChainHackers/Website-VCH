@@ -1,5 +1,15 @@
 articles:
 - category: machine-learning
+  description: A Beginner's Guide to Working with Claude Design 5 Best AI Tools for
+    Data Analysis You Should Try in 2026 5 Books That Will Deepen Your Understanding
+    of Large Language Models Is KimiClaw a Useful Tool...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27
+  pub_date: '2026-08-01T13:00:43'
+  source: KDnuggets
+  title: 'KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent •
+    7 Machine Learning Algorithms That Still Matter'
+- category: machine-learning
   description: 'Building a voice-controlled AI agents isn''t hard, this article breaks
     the pipeline into its real components: streaming speech recognition, turn detection,
     streaming generation, interruption handling, ...'
@@ -126,14 +136,6 @@ articles:
   pub_date: '2026-07-27T14:00:03'
   source: KDnuggets
   title: Is KimiClaw a Useful Tool?
-- category: machine-learning
-  description: This article shows you up all the steps in building and deploying your
-    first autonomous AI agents from start to finish.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-steps-to-building-and-deploying-your-first-autonomous-agent
-  pub_date: '2026-07-27T12:00:06'
-  source: KDnuggets
-  title: 7 Steps to Building and Deploying Your First Autonomous Agent
 - category: ai-research
   description: PhD student Lauren Fortier is building on the experience she gained
     operating a nuclear plant for the Navy to solve a critical hurdle in the wider
@@ -251,4 +253,4 @@ articles:
   source: Google AI Blog
   title: New York City educators and industry leaders gathered at Google’s offices
     to shape the future of AI in classrooms.
-last_updated: '2026-08-01T08:20:25.595674'
+last_updated: '2026-08-02T08:23:40.905462'
