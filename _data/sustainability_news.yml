@@ -60,6 +60,15 @@ articles:
   pub_date: '2026-07-30T07:28:23'
   source: Circular Online
   title: ‘Complex’ hazardous waste clean-up on A14 costs £500,000
+- category: circular
+  description: News updates written by CIWM's commercial partners. Washed Aggregates
+    Trade Association (WATA) Biggest ever washed aggregates meeting hears about potential
+    resource framework Bucher Municipal Bucher M...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-03-august/
+  pub_date: '2026-07-30T01:18:00'
+  source: Circular Online
+  title: News in Brief | Commercial Partner News 03 August
 - category: supply-chain
   description: GS1 US Vice President Michelle Covey explains why produce outbreaks
     are difficult to trace and what shoppers should know about recalls and food safety.
@@ -164,13 +173,4 @@ articles:
   source: Circular Online
   title: Flexible Plastic Fund calls for urgent transition plan following collections
     delay
-- category: circular
-  description: The Environment Agency (EA) has said it is 'carefully considering'
-    claims that toxic chemicals have been found at illegal waste dumps across the
-    UK. The post EA 'carefully considering' claims of toxic...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ea-will-carefully-consider-claims-of-toxic-chemicals-at-illegal-waste-sites/
-  pub_date: '2026-07-27T08:41:42'
-  source: Circular Online
-  title: EA ‘carefully considering’ claims of toxic chemicals at illegal waste sites
-last_updated: '2026-08-02T08:23:39.687789'
+last_updated: '2026-08-03T09:44:29.943184'
