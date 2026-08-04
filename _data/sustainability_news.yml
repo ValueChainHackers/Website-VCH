@@ -1,5 +1,54 @@
 articles:
 - category: supply-chain
+  description: JD.com's new AI helmet helps food couriers manage orders, follow routes,
+    and contact customers without reaching for a phone.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/jd-com-ai-helmet-food-delivery-couriers
+  pub_date: '2026-08-03T13:54:00'
+  source: Supply Chain 24/7
+  title: JD.com Launches AI Helmet That Manages Food Deliveries
+- category: supply-chain
+  description: Returns, trade compliance, excess inventory, supplier blind spots and
+    duplicate systems can quietly add to supply chain costs and cut into company margins.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hidden-supply-chain-costs-hurting-profit-margins
+  pub_date: '2026-08-03T13:29:00'
+  source: Supply Chain 24/7
+  title: Five Hidden Costs That May Be Lurking in Your Supply Chain
+- category: supply-chain
+  description: Amazon now operates more than 40,000 Rivian vans, giving Rivian an
+    estimated 80% share of its global electric delivery fleet.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-rivian-electric-delivery-van-fleet-40000
+  pub_date: '2026-08-03T12:27:00'
+  source: Supply Chain 24/7
+  title: Amazon’s Rivian Electric Delivery Van Fleet Tops 40,000
+- category: supply-chain
+  description: Sixty-seven percent of procurement teams have AI plans that are moving
+    faster than their data, processes, and oversight, according to Ardent Partners.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-has-big-ai-plans-its-data-isnt-ready
+  pub_date: '2026-08-03T11:44:00'
+  source: Supply Chain 24/7
+  title: Procurement Has Big AI Plans. Its Data Isn’t Ready.
+- category: supply-chain
+  description: FedEx is expanding Dexterity's autonomous trailer-loading robots beyond
+    a pilot and into larger-scale use at its Maryland hub.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-dexterity-trailer-loading-robots-hagerstown
+  pub_date: '2026-08-03T11:30:00'
+  source: Supply Chain 24/7
+  title: FedEx, Dexterity Expand Autonomous Trailer Loading at Maryland Hub
+- category: circular
+  description: Resource management company Veolia and Sheffield City Council announce
+    successful trial of 'first of its kind' carbon capture technology. The post Veolia
+    trials 'first of its kind' carbon capture tech...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/veolia-trials-first-of-its-kind-carbon-capture-technology-in-the-uk/
+  pub_date: '2026-08-03T10:02:25'
+  source: Circular Online
+  title: Veolia trials ‘first of its kind’ carbon capture technology in the UK
+- category: supply-chain
   description: Amazon and Walmart shopping assistants can identify false "Made in
     USA" claims, but a report says retailers are not using the tech to flag those
     listings.
@@ -77,31 +126,6 @@ articles:
   pub_date: '2026-07-29T15:37:00'
   source: Supply Chain 24/7
   title: Can You Trust Your Lettuce? Why Outbreaks Are So Hard to Trace
-- category: supply-chain
-  description: A look at how foldable containers are helping Outokumpu move steel
-    scrap from Mexico to Alabama with fewer truck trips and cheaper shipping costs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/foldable-containers-cut-steel-scrap-shipping-costs
-  pub_date: '2026-07-29T15:29:00'
-  source: Supply Chain 24/7
-  title: How Foldable Containers Cut the Cost of Shipping Steel Scrap
-- category: supply-chain
-  description: Friendshoring is the practice of moving manufacturing and sourcing
-    to trusted trading partners to reduce supply chain risk while maintaining global
-    operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-101-what-is-friendshoring
-  pub_date: '2026-07-29T15:05:00'
-  source: Supply Chain 24/7
-  title: 'Supply Chain 101: What Is Friendshoring and Why Are Companies Using It?'
-- category: supply-chain
-  description: Maine Pointe's management team has bought the supply chain consulting
-    firm from SGS and plans to increase its investment in AI.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maine-pointe-management-buyout-sgs
-  pub_date: '2026-07-29T13:26:00'
-  source: Supply Chain 24/7
-  title: Maine Pointe Management Buys Supply Chain Firm From SGS
 - category: circular
   description: Emmersons Transport LTD in Portsmouth has been ordered to stop crushing
     waste because of dangerous dust pollution. The post Waste site ordered to stop
@@ -129,22 +153,6 @@ articles:
   pub_date: '2026-07-29T07:00:00'
   source: Circular Online
   title: Construction begins on £35m SUEZ Anaerobic Digestion facility
-- category: supply-chain
-  description: A new Deposco report shows retail inventories are near an 18-month
-    low as parcel inflation rises three times faster than consumer prices.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/retailers-lean-inventory-rising-parcel-costs
-  pub_date: '2026-07-28T17:31:00'
-  source: Supply Chain 24/7
-  title: Retailers Head Into Peak Season With Leaner Inventories
-- category: supply-chain
-  description: Learn how governed product identity helps brands manage connected packaging,
-    product data, compliance, localization, and Digital Product Passports.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/what-is-a-governed-product-identity-and-why-does-it-matter
-  pub_date: '2026-07-28T16:29:00'
-  source: Supply Chain 24/7
-  title: What Is a Governed Product Identity and Why Does It Matter?
 - category: circular
   description: Environment Agency investigations into waste offences across Lincolnshire
     have secured GBP168,000 for a local charity. The money, which was donated as part
@@ -163,14 +171,4 @@ articles:
   pub_date: '2026-07-28T06:30:00'
   source: Circular Online
   title: Over £275,000 forfeited as part ongoing waste crime investigation
-- category: circular
-  description: The Flexible Plastic Fund (FPF) warns the delay to the mandatory kerbside
-    collections of flexible plastic packaging risks future investment and growth across
-    the UK. The post Flexible Plastic Fund cal...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/flexible-plastic-fund-calls-for-urgent-transition-plan-following-collections-delay/
-  pub_date: '2026-07-27T10:24:07'
-  source: Circular Online
-  title: Flexible Plastic Fund calls for urgent transition plan following collections
-    delay
-last_updated: '2026-08-03T09:44:29.943184'
+last_updated: '2026-08-04T08:35:55.118609'
