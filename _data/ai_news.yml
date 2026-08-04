@@ -1,4 +1,31 @@
 articles:
+- category: ai-research
+  description: An expert in machine learning, statistics, and computation, Rakhlin
+    succeeds Professor Ankur Moitra.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803
+  pub_date: '2026-08-03T19:50:00'
+  source: MIT AI News
+  title: Alexander Rakhlin named director of  the MIT Statistics and Data Science
+    Center
+- category: machine-learning
+  description: Read about MiniMax's own architecture, and see how it runs a real task
+    against the actual API. Learn the pieces of the MiniMax story that weren't covered
+    in the launch post.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier
+  pub_date: '2026-08-03T16:00:59'
+  source: KDnuggets
+  title: Does MiniMax Agent Actually Make Work Easier?
+- category: machine-learning
+  description: Scaling up and streamlining a multi-agent architecture doesn't necessarily
+    entail escalated costs if you know how to properly implement these four strategies
+    for saving token usage.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/a-guide-to-saving-token-usage-with-multi-agent-ai
+  pub_date: '2026-08-03T14:00:25'
+  source: KDnuggets
+  title: A Guide to Saving Token Usage with Multi-Agent AI
 - category: machine-learning
   description: A Beginner's Guide to Working with Claude Design 5 Best AI Tools for
     Data Analysis You Should Try in 2026 5 Books That Will Deepen Your Understanding
@@ -120,22 +147,6 @@ articles:
   pub_date: '2026-07-28T13:00:00'
   source: Google AI Blog
   title: 5 ways to host the ultimate dinner party with Google Search
-- category: machine-learning
-  description: Discover five of the best AI tools for data analysis that can clean
-    data, write code, create visualizations, and generate insights faster.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026
-  pub_date: '2026-07-28T12:00:08'
-  source: KDnuggets
-  title: 5 Best AI Tools for Data Analysis You Should Try in 2026
-- category: machine-learning
-  description: Compare KimiClaw's cloud-hosted AI agent platform against self-hosted
-    OpenClaw across setup, privacy, and automation capabilities.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/is-kimiclaw-a-useful-tool
-  pub_date: '2026-07-27T14:00:03'
-  source: KDnuggets
-  title: Is KimiClaw a Useful Tool?
 - category: ai-research
   description: PhD student Lauren Fortier is building on the experience she gained
     operating a nuclear plant for the Navy to solve a critical hurdle in the wider
@@ -213,15 +224,6 @@ articles:
   source: MIT AI News
   title: '3 Questions: Neural transparency and the future of AI design'
 - category: ai-research
-  description: Through research and entrepreneurship, Professor Devavrat Shah is helping
-    to design methods that can handle constant decision-making using limited computational
-    resources.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714
-  pub_date: '2026-07-14T20:25:00'
-  source: MIT AI News
-  title: Helping AI models to meet the real world
-- category: ai-research
   description: Google Images logo surrounded by illustrations of people searching
     for different images
   icon: fa-google
@@ -253,4 +255,4 @@ articles:
   source: Google AI Blog
   title: New York City educators and industry leaders gathered at Google’s offices
     to shape the future of AI in classrooms.
-last_updated: '2026-08-03T09:44:30.858812'
+last_updated: '2026-08-04T08:35:56.248755'
