@@ -1,4 +1,39 @@
 articles:
+- category: circular
+  description: The multi-agency unit led or supported 61 operations and recorded 13
+    partner arrests, as Defra establishes a new board to oversee delivery of England's
+    Waste Crime Action Plan. The post Joint waste cr...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/joint-waste-crime-unit-reports-111-disruptions-during-2025-26/
+  pub_date: '2026-08-05T07:58:30'
+  source: Circular Online
+  title: Joint waste crime unit reports 111 disruptions during 2025–26
+- category: circular
+  description: New FAQs address the EU packaging regulation shortly before documentation
+    and substance requirements begin applying to packaging placed on EU and Northern
+    Ireland markets. The European Commission has ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/european-commission-issues-ppwr-guidance-ahead-of-12-august-start-date/
+  pub_date: '2026-08-04T14:15:56'
+  source: Circular Online
+  title: European Commission issues PPWR guidance ahead of 12 August start date
+- category: circular
+  description: Skills England is considering closing the Level 2 Metal Recycling General
+    Operative apprenticeship to new starters because of low enrolment, but says no
+    final decision has been made. The post Metal re...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/metal-recycling-apprenticeship-could-be-retired-over-low-take-up/
+  pub_date: '2026-08-04T13:30:53'
+  source: Circular Online
+  title: Metal recycling apprenticeship could be retired over low take-up
+- category: supply-chain
+  description: Made4net's Jeff Jones identifies five warehouse problems that companies
+    should address before investing in AI, automation, or robotics.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-problems-to-fix-before-investing-in-ai
+  pub_date: '2026-08-04T11:58:00'
+  source: Supply Chain 24/7
+  title: Five Things Warehouses Should Fix Before Investing in AI
 - category: supply-chain
   description: JD.com's new AI helmet helps food couriers manage orders, follow routes,
     and contact customers without reaching for a phone.
@@ -118,14 +153,6 @@ articles:
   pub_date: '2026-07-30T01:18:00'
   source: Circular Online
   title: News in Brief | Commercial Partner News 03 August
-- category: supply-chain
-  description: GS1 US Vice President Michelle Covey explains why produce outbreaks
-    are difficult to trace and what shoppers should know about recalls and food safety.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/why-cyclosporiasis-outbreak-is-hard-to-trace
-  pub_date: '2026-07-29T15:37:00'
-  source: Supply Chain 24/7
-  title: Can You Trust Your Lettuce? Why Outbreaks Are So Hard to Trace
 - category: circular
   description: Emmersons Transport LTD in Portsmouth has been ordered to stop crushing
     waste because of dangerous dust pollution. The post Waste site ordered to stop
@@ -144,31 +171,4 @@ articles:
   pub_date: '2026-07-29T07:43:10'
   source: Circular Online
   title: Greyparrot secures $27M in funding to scale AI recycling system
-- category: circular
-  description: Construction has begun on a new GBP35 million anaerobic digestion (AD)
-    facility at SUEZ's Ellington site in Northumberland. The post Construction begins
-    on GBP35m SUEZ Anaerobic Digestion facility app...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/construction-begins-on-35m-suez-anerobic-digestion-facility/
-  pub_date: '2026-07-29T07:00:00'
-  source: Circular Online
-  title: Construction begins on £35m SUEZ Anaerobic Digestion facility
-- category: circular
-  description: Environment Agency investigations into waste offences across Lincolnshire
-    have secured GBP168,000 for a local charity. The money, which was donated as part
-    of Enforcement Undertakings, will be used by...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/lincolnshire-waste-offenders-to-pay-168000-to-charity/
-  pub_date: '2026-07-28T07:35:47'
-  source: Circular Online
-  title: Lincolnshire waste offenders pay £168,000 to charity
-- category: circular
-  description: West Mercia Police have revealed that GBP275,532.58 has been forfeited
-    so far as part of an ongoing investigation into illegal waste activity in Worcestershire.
-    The post Over GBP275,000 forfeited as p...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/over-275000-forfeited-as-part-ongoing-waste-crime-investigation/
-  pub_date: '2026-07-28T06:30:00'
-  source: Circular Online
-  title: Over £275,000 forfeited as part ongoing waste crime investigation
-last_updated: '2026-08-04T08:35:55.118609'
+last_updated: '2026-08-05T08:34:53.216744'
