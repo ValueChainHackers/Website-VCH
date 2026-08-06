@@ -1,4 +1,63 @@
 articles:
+- category: supply-chain
+  description: Learn how distribution centers can reduce waste, improve key warehouse
+    performance metrics, and benchmark against 2026 WERC DC Measures to support cost
+    reduction initiatives.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-can-distribution-centers-reduce-costs-without-adding-headcount
+  pub_date: '2026-08-05T18:26:00'
+  source: Supply Chain 24/7
+  title: How Can Distribution Centers Reduce Costs Without Adding Headcount?
+- category: supply-chain
+  description: Braen Stone has acquired six barges to move aggregates around New York
+    and New Jersey, with each vessel carrying as much as 80 truckloads.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/braen-stone-barges-new-york-new-jersey-freight
+  pub_date: '2026-08-05T14:59:00'
+  source: Supply Chain 24/7
+  title: Braen Stone Turns to Barges for New York, New Jersey Freight
+- category: supply-chain
+  description: BeyondTrucks and VLC are bringing driver and vehicle compliance data
+    directly into fleet dispatch and load-assignment decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/beyondtrucks-vlc-driver-safety-compliance-dispatch
+  pub_date: '2026-08-05T13:53:00'
+  source: Supply Chain 24/7
+  title: BeyondTrucks, VLC Add Driver, Truck Safety Data to Dispatch Decisions
+- category: supply-chain
+  description: The U.S. big-and-bulky last-mile delivery market is expected to grow
+    from $10.6 billion in 2025 to $12.3 billion in 2027, according to Armstrong &
+    Associates.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/big-and-bulky-last-mile-market-to-reach-12.34b-in-2027
+  pub_date: '2026-08-05T13:42:00'
+  source: Supply Chain 24/7
+  title: Big and Bulky Last-Mile Market to Reach $12.34 Billion in 2027
+- category: supply-chain
+  description: Prologis agreed to acquire SEGRO for $18.8 billion in a deal that would
+    expand its European logistics property portfolio by 47%.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/prologis-reaches-18.8-billion-deal-to-acquire-segro
+  pub_date: '2026-08-05T13:32:00'
+  source: Supply Chain 24/7
+  title: Prologis Reaches $18.8 Billion Deal to Acquire SEGRO
+- category: supply-chain
+  description: Most supply chain chiefs remain unclear about AI returns, even as the
+    technology receives 67% of their organizations' digital investment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-supply-chain-chiefs-unclear-ai-investment-returns
+  pub_date: '2026-08-05T13:23:00'
+  source: Supply Chain 24/7
+  title: 'Gartner: 55% of Supply Chain Leaders Unclear on AI Returns'
+- category: circular
+  description: The Prime Minister has promised that 'the days of making easy money
+    from waste are over' as four men are arrested over an illegal waste site on land
+    owned by the King. The post Burnham promises action...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/burnham-promises-action-on-waste-crime-as-4-arrested-over-wigan-site/
+  pub_date: '2026-08-05T09:11:58'
+  source: Circular Online
+  title: Burnham promises action on waste crime as 4 arrested over Wigan site
 - category: circular
   description: The multi-agency unit led or supported 61 operations and recorded 13
     partner arrests, as Defra establishes a new board to oversee delivery of England's
@@ -58,22 +117,6 @@ articles:
   pub_date: '2026-08-03T12:27:00'
   source: Supply Chain 24/7
   title: Amazon’s Rivian Electric Delivery Van Fleet Tops 40,000
-- category: supply-chain
-  description: Sixty-seven percent of procurement teams have AI plans that are moving
-    faster than their data, processes, and oversight, according to Ardent Partners.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-has-big-ai-plans-its-data-isnt-ready
-  pub_date: '2026-08-03T11:44:00'
-  source: Supply Chain 24/7
-  title: Procurement Has Big AI Plans. Its Data Isn’t Ready.
-- category: supply-chain
-  description: FedEx is expanding Dexterity's autonomous trailer-loading robots beyond
-    a pilot and into larger-scale use at its Maryland hub.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-dexterity-trailer-loading-robots-hagerstown
-  pub_date: '2026-08-03T11:30:00'
-  source: Supply Chain 24/7
-  title: FedEx, Dexterity Expand Autonomous Trailer Loading at Maryland Hub
 - category: circular
   description: Resource management company Veolia and Sheffield City Council announce
     successful trial of 'first of its kind' carbon capture technology. The post Veolia
@@ -83,24 +126,6 @@ articles:
   pub_date: '2026-08-03T10:02:25'
   source: Circular Online
   title: Veolia trials ‘first of its kind’ carbon capture technology in the UK
-- category: supply-chain
-  description: Amazon and Walmart shopping assistants can identify false "Made in
-    USA" claims, but a report says retailers are not using the tech to flag those
-    listings.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-walmart-ai-spots-false-made-in-usa-claims
-  pub_date: '2026-07-30T16:15:00'
-  source: Supply Chain 24/7
-  title: Amazon, Walmart AI Spots False ‘Made in USA’ Claims
-- category: supply-chain
-  description: Hormuz vessel traffic fell from 82 transits to 39 in one week as high
-    insurance costs and security fears kept shipowners away, according to Lloyd's
-    List.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hormuz-ship-traffic-falls-by-half-as-owners-stay-away
-  pub_date: '2026-07-30T14:32:00'
-  source: Supply Chain 24/7
-  title: Hormuz Ship Traffic Falls by Half as Owners Stay Away
 - category: circular
   description: Emma Hardy MP has been confirmed as the new Minister for the Circular
     Economy and Waste Crime. The post Emma Hardy confirmed as Minister for Circular
@@ -110,22 +135,6 @@ articles:
   pub_date: '2026-07-30T14:15:16'
   source: Circular Online
   title: Emma Hardy confirmed as Minister for Circular Economy & Waste Crime
-- category: supply-chain
-  description: UPS has added pickup controls, faster label creation, and mobile tools
-    aimed at making shipping easier for small businesses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-new-shipping-tools-small-businesses
-  pub_date: '2026-07-30T13:44:00'
-  source: Supply Chain 24/7
-  title: UPS Adds New Shipping Tools for Small Businesses
-- category: supply-chain
-  description: DoorDash earned FAA approval to launch DoorDash Air, an in-house drone
-    delivery program designed for local orders.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/doordash-air-faa-drone-delivery-program
-  pub_date: '2026-07-30T11:11:00'
-  source: Supply Chain 24/7
-  title: DoorDash Wins FAA Approval to Launch Its Own Drone Delivery Service
 - category: circular
   description: Textile manufacturing generates 92,000 tonnes of microfibre pollution
     every year, with 63%, over 58,000 tonnes, leaking into the environment, new research
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-07-29T10:13:48'
   source: Circular Online
   title: Waste site ordered to stop work over dangerous dust pollution
-- category: circular
-  description: New $27 million funding will be used to scale Greyparrot's AI waste
-    intelligence platform. The post Greyparrot secures $27M in funding to scale AI
-    recycling system appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/greyparrot-secures-27m-in-funding-to-scale-ai-recycling-system/
-  pub_date: '2026-07-29T07:43:10'
-  source: Circular Online
-  title: Greyparrot secures $27M in funding to scale AI recycling system
-last_updated: '2026-08-05T08:34:53.216744'
+last_updated: '2026-08-06T08:35:17.389227'

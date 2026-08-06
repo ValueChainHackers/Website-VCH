@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: GitHub Agentic Workflows are in public preview. Find out all about
+    them here.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-github-agentic-workflows
+  pub_date: '2026-08-05T14:00:25'
+  source: KDnuggets
+  title: Getting Started with GitHub Agentic Workflows
+- category: machine-learning
+  description: Learn to implement a repeatable pipeline that cleans a CSV, finds the
+    story, and writes it up.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/turn-any-csv-into-an-executive-report-with-python-and-ai
+  pub_date: '2026-08-05T12:00:18'
+  source: KDnuggets
+  title: Turn Any CSV into an Executive Report with Python and AI
 - category: ai-research
   description: By focusing on electrolytes, MIT scientists are making sodium-metal
     batteries a more practical energy storage option.
@@ -126,24 +142,6 @@ articles:
   pub_date: '2026-07-30T20:35:00'
   source: MIT AI News
   title: Connecting research to policy on Capitol Hill
-- category: machine-learning
-  description: Claude Design is a research preview under Anthropic Labs, powered by
-    Claude Opus' vision capability, generating interactive prototypes with working
-    navigation, embedded video, voice input, and 3D elem...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design
-  pub_date: '2026-07-30T14:06:48'
-  source: KDnuggets
-  title: A Beginner’s Guide to Working with Claude Design
-- category: machine-learning
-  description: Discover 7 essential machine learning algorithms that every data scientist
-    should know before reaching for LLMs and generative AI, with simple explanations
-    and practical Python code.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter
-  pub_date: '2026-07-30T12:00:46'
-  source: KDnuggets
-  title: 7 Machine Learning Algorithms That Still Matter
 - category: ai-research
   description: The visionary PhysioNet platform launched 25 years ago, based on a
     system developed at MIT in the 1970s. It has become one of the most comprehensive
@@ -252,4 +250,4 @@ articles:
   source: Google AI Blog
   title: 'Expanding Managed Agents in Gemini API:  background tasks, remote MCP and
     more'
-last_updated: '2026-08-05T08:34:54.517214'
+last_updated: '2026-08-06T08:35:18.883850'
