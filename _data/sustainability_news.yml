@@ -1,5 +1,37 @@
 articles:
 - category: supply-chain
+  description: SpaceX and Tesla will initially invest $16.8 billion in a Texas semiconductor
+    complex designed to produce more of the chips the companies need themselves.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/spacex-tesla-16-billion-texas-chip-plant-terafab
+  pub_date: '2026-08-06T14:53:00'
+  source: Supply Chain 24/7
+  title: SpaceX, Tesla Commit $16.8 Billion to Massive Texas Chip Plant
+- category: supply-chain
+  description: The U.S. has refunded about $100 billion of the $166 billion in Trump
+    tariffs struck down by the Supreme Court.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/trump-tariff-refunds-100-billion-supreme-court
+  pub_date: '2026-08-06T14:32:00'
+  source: Supply Chain 24/7
+  title: U.S. Has Refunded $100 Billion in Struck-Down Trump Tariffs
+- category: supply-chain
+  description: The U.S. services economy expanded for the 25th consecutive month in
+    July, with transportation and warehousing among 13 industries reporting growth.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ism-services-economy-growth-july-2026
+  pub_date: '2026-08-06T14:12:00'
+  source: Supply Chain 24/7
+  title: 'ISM Report: Services Economy Extends Growth Streak in July'
+- category: supply-chain
+  description: UPS Capital's Ashley Hillman explains why lost packages, fraud, and
+    delivery problems should be viewed as one connected post-purchase risk problem.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/retailers-post-purchase-risk-fraud-shipping
+  pub_date: '2026-08-06T13:57:00'
+  source: Supply Chain 24/7
+  title: Why Post-Purchase Risk Is Becoming a Bigger Retail Problem
+- category: supply-chain
   description: Learn how distribution centers can reduce waste, improve key warehouse
     performance metrics, and benchmark against 2026 WERC DC Measures to support cost
     reduction initiatives.
@@ -85,38 +117,6 @@ articles:
   pub_date: '2026-08-04T13:30:53'
   source: Circular Online
   title: Metal recycling apprenticeship could be retired over low take-up
-- category: supply-chain
-  description: Made4net's Jeff Jones identifies five warehouse problems that companies
-    should address before investing in AI, automation, or robotics.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-problems-to-fix-before-investing-in-ai
-  pub_date: '2026-08-04T11:58:00'
-  source: Supply Chain 24/7
-  title: Five Things Warehouses Should Fix Before Investing in AI
-- category: supply-chain
-  description: JD.com's new AI helmet helps food couriers manage orders, follow routes,
-    and contact customers without reaching for a phone.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/jd-com-ai-helmet-food-delivery-couriers
-  pub_date: '2026-08-03T13:54:00'
-  source: Supply Chain 24/7
-  title: JD.com Launches AI Helmet That Manages Food Deliveries
-- category: supply-chain
-  description: Returns, trade compliance, excess inventory, supplier blind spots and
-    duplicate systems can quietly add to supply chain costs and cut into company margins.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hidden-supply-chain-costs-hurting-profit-margins
-  pub_date: '2026-08-03T13:29:00'
-  source: Supply Chain 24/7
-  title: Five Hidden Costs That May Be Lurking in Your Supply Chain
-- category: supply-chain
-  description: Amazon now operates more than 40,000 Rivian vans, giving Rivian an
-    estimated 80% share of its global electric delivery fleet.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-rivian-electric-delivery-van-fleet-40000
-  pub_date: '2026-08-03T12:27:00'
-  source: Supply Chain 24/7
-  title: Amazon’s Rivian Electric Delivery Van Fleet Tops 40,000
 - category: circular
   description: Resource management company Veolia and Sheffield City Council announce
     successful trial of 'first of its kind' carbon capture technology. The post Veolia
@@ -171,4 +171,4 @@ articles:
   pub_date: '2026-07-29T10:13:48'
   source: Circular Online
   title: Waste site ordered to stop work over dangerous dust pollution
-last_updated: '2026-08-06T08:35:17.389227'
+last_updated: '2026-08-07T07:14:33.025252'
