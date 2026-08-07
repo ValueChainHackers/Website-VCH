@@ -1,5 +1,29 @@
 articles:
 - category: machine-learning
+  description: Learn how blending RAG and fine-tuning creates more effective AI support
+    experiences.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture
+  pub_date: '2026-08-06T16:00:53'
+  source: KDnuggets
+  title: 'Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture'
+- category: machine-learning
+  description: Discover the six essential tools AI engineers need in 2026 to build
+    and deploy production-grade autonomous systems.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-minimal-ai-engineer-toolkit-for-2026
+  pub_date: '2026-08-06T14:00:49'
+  source: KDnuggets
+  title: The Minimal AI Engineer Toolkit for 2026
+- category: machine-learning
+  description: Learn about the best web crawling tools for collecting website content,
+    crawling subpages, generating clean web data, and powering AI agents.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026
+  pub_date: '2026-08-06T12:00:33'
+  source: KDnuggets
+  title: 7 Best Web Crawling Tools and APIs in 2026
+- category: machine-learning
   description: GitHub Agentic Workflows are in public preview. Find out all about
     them here.
   icon: fa-chart-bar
@@ -98,33 +122,6 @@ articles:
   pub_date: '2026-08-03T14:00:25'
   source: KDnuggets
   title: A Guide to Saving Token Usage with Multi-Agent AI
-- category: machine-learning
-  description: A Beginner's Guide to Working with Claude Design 5 Best AI Tools for
-    Data Analysis You Should Try in 2026 5 Books That Will Deepen Your Understanding
-    of Large Language Models Is KimiClaw a Useful Tool...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27
-  pub_date: '2026-08-01T13:00:43'
-  source: KDnuggets
-  title: 'KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent •
-    7 Machine Learning Algorithms That Still Matter'
-- category: machine-learning
-  description: 'Building a voice-controlled AI agents isn''t hard, this article breaks
-    the pipeline into its real components: streaming speech recognition, turn detection,
-    streaming generation, interruption handling, ...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-voice-controlled-ai-agents
-  pub_date: '2026-07-31T14:00:06'
-  source: KDnuggets
-  title: Building Voice-Controlled AI Agents
-- category: machine-learning
-  description: Check out these five books on building, fine-tuning, and deploying
-    large language models.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models
-  pub_date: '2026-07-31T12:00:44'
-  source: KDnuggets
-  title: 5 Books That Will Deepen Your Understanding of Large Language Models
 - category: ai-research
   description: Director of CSAIL and MIT professor honored for her contributions to
     robotics, artificial intelligence, and autonomous systems.
@@ -250,4 +247,4 @@ articles:
   source: Google AI Blog
   title: 'Expanding Managed Agents in Gemini API:  background tasks, remote MCP and
     more'
-last_updated: '2026-08-06T08:35:18.883850'
+last_updated: '2026-08-07T07:14:34.295671'
