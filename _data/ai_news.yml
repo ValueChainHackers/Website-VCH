@@ -1,5 +1,23 @@
 articles:
 - category: machine-learning
+  description: Running a 70B model in production is expensive, and for many tasks,
+    unnecessary. If you're building a focused pipeline, a well-trained 3B model will
+    match or beat the 70B on your specific task at a fr...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3
+  pub_date: '2026-08-07T14:00:25'
+  source: KDnuggets
+  title: Small Language Models with Hugging Face transformers Library + smolLM3
+- category: machine-learning
+  description: Learn how to use generative AI at work, build RAG and agentic apps,
+    fine-tune models, work with the Hugging Face ecosystem, and prototype AI products
+    with hands-on resources.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms
+  pub_date: '2026-08-07T12:00:30'
+  source: KDnuggets
+  title: 5 Free Courses to Learn Modern AI and LLMs
+- category: machine-learning
   description: Learn how blending RAG and fine-tuning creates more effective AI support
     experiences.
   icon: fa-chart-bar
@@ -97,15 +115,6 @@ articles:
   source: MIT AI News
   title: Alexander Rakhlin named director of  the MIT Statistics and Data Science
     Center
-- category: machine-learning
-  description: Read about MiniMax's own architecture, and see how it runs a real task
-    against the actual API. Learn the pieces of the MiniMax story that weren't covered
-    in the launch post.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier
-  pub_date: '2026-08-03T16:00:59'
-  source: KDnuggets
-  title: Does MiniMax Agent Actually Make Work Easier?
 - category: ai-research
   description: Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube
   icon: fa-google
@@ -113,15 +122,6 @@ articles:
   pub_date: '2026-08-03T15:00:00'
   source: Google AI Blog
   title: Inside our 353,000-person vibe coding course
-- category: machine-learning
-  description: Scaling up and streamlining a multi-agent architecture doesn't necessarily
-    entail escalated costs if you know how to properly implement these four strategies
-    for saving token usage.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/a-guide-to-saving-token-usage-with-multi-agent-ai
-  pub_date: '2026-08-03T14:00:25'
-  source: KDnuggets
-  title: A Guide to Saving Token Usage with Multi-Agent AI
 - category: ai-research
   description: Director of CSAIL and MIT professor honored for her contributions to
     robotics, artificial intelligence, and autonomous systems.
@@ -247,4 +247,4 @@ articles:
   source: Google AI Blog
   title: 'Expanding Managed Agents in Gemini API:  background tasks, remote MCP and
     more'
-last_updated: '2026-08-07T07:14:34.295671'
+last_updated: '2026-08-08T06:52:21.137814'

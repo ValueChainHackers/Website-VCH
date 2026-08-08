@@ -1,5 +1,47 @@
 articles:
 - category: supply-chain
+  description: AI is moving beyond supply chain pilots, with practical uses emerging
+    in forecasting, freight, warehousing, inventory, and routine tasks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/six-supply-chain-ai-developments-worth-watching
+  pub_date: '2026-08-07T14:46:00'
+  source: Supply Chain 24/7
+  title: Six Supply Chain AI Developments Worth Watching
+- category: supply-chain
+  description: Christine Wheeler looks back on building Newcastle Systems from a basement
+    startup and why she still wants time on the warehouse floor.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/women-supply-chain-christine-wheeler-newcastle-systems
+  pub_date: '2026-08-07T14:23:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Christine Wheeler of Newcastle Systems'
+- category: supply-chain
+  description: GXO says companies that outsource logistics typically save 10% to 15%
+    while reducing the need for major warehouse investments.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/is-it-cheaper-to-outsource-your-warehouse
+  pub_date: '2026-08-07T13:29:00'
+  source: Supply Chain 24/7
+  title: Is It Actually Cheaper to Outsource Your Warehouse?
+- category: supply-chain
+  description: Learn how Ward Transport modernized its cost intelligence to improve
+    pricing decisions, network analysis, scalability, and organizational decision-making.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-can-ltl-carriers-modernize-cost-intelligence-without-replacing-proven-processes
+  pub_date: '2026-08-07T12:49:00'
+  source: Supply Chain 24/7
+  title: How Can LTL Carriers Modernize Cost Intelligence Without Replacing Proven
+    Processes?
+- category: circular
+  description: More waste has been discovered buried under a thick layer of soil during
+    the clean-up of the infamous 21,000-tonne waste dump in Kidlington. The post More
+    buried waste discovered during Kidlington cle...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/more-buried-waste-discovered-during-kidlington-clean-up/
+  pub_date: '2026-08-07T09:32:25'
+  source: Circular Online
+  title: More buried waste discovered during Kidlington clean-up
+- category: supply-chain
   description: SpaceX and Tesla will initially invest $16.8 billion in a Texas semiconductor
     complex designed to produce more of the chips the companies need themselves.
   icon: fa-box
@@ -48,39 +90,6 @@ articles:
   pub_date: '2026-08-05T14:59:00'
   source: Supply Chain 24/7
   title: Braen Stone Turns to Barges for New York, New Jersey Freight
-- category: supply-chain
-  description: BeyondTrucks and VLC are bringing driver and vehicle compliance data
-    directly into fleet dispatch and load-assignment decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/beyondtrucks-vlc-driver-safety-compliance-dispatch
-  pub_date: '2026-08-05T13:53:00'
-  source: Supply Chain 24/7
-  title: BeyondTrucks, VLC Add Driver, Truck Safety Data to Dispatch Decisions
-- category: supply-chain
-  description: The U.S. big-and-bulky last-mile delivery market is expected to grow
-    from $10.6 billion in 2025 to $12.3 billion in 2027, according to Armstrong &
-    Associates.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/big-and-bulky-last-mile-market-to-reach-12.34b-in-2027
-  pub_date: '2026-08-05T13:42:00'
-  source: Supply Chain 24/7
-  title: Big and Bulky Last-Mile Market to Reach $12.34 Billion in 2027
-- category: supply-chain
-  description: Prologis agreed to acquire SEGRO for $18.8 billion in a deal that would
-    expand its European logistics property portfolio by 47%.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/prologis-reaches-18.8-billion-deal-to-acquire-segro
-  pub_date: '2026-08-05T13:32:00'
-  source: Supply Chain 24/7
-  title: Prologis Reaches $18.8 Billion Deal to Acquire SEGRO
-- category: supply-chain
-  description: Most supply chain chiefs remain unclear about AI returns, even as the
-    technology receives 67% of their organizations' digital investment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-supply-chain-chiefs-unclear-ai-investment-returns
-  pub_date: '2026-08-05T13:23:00'
-  source: Supply Chain 24/7
-  title: 'Gartner: 55% of Supply Chain Leaders Unclear on AI Returns'
 - category: circular
   description: The Prime Minister has promised that 'the days of making easy money
     from waste are over' as four men are arrested over an illegal waste site on land
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-07-30T01:18:00'
   source: Circular Online
   title: News in Brief | Commercial Partner News 03 August
-- category: circular
-  description: Emmersons Transport LTD in Portsmouth has been ordered to stop crushing
-    waste because of dangerous dust pollution. The post Waste site ordered to stop
-    work over dangerous dust pollution appeared first...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-site-ordered-to-stop-work-over-dangerous-dust-pollution/
-  pub_date: '2026-07-29T10:13:48'
-  source: Circular Online
-  title: Waste site ordered to stop work over dangerous dust pollution
-last_updated: '2026-08-07T07:14:33.025252'
+last_updated: '2026-08-08T06:52:20.238525'
