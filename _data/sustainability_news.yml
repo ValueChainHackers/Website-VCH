@@ -1,5 +1,56 @@
 articles:
 - category: supply-chain
+  description: Amazon has launched Prime Air in the UK, offering one-hour drone deliveries
+    within 7.5 miles of its Darlington fulfillment center.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-prime-air-drone-delivery-uk-darlington
+  pub_date: '2026-08-10T16:02:00'
+  source: Supply Chain 24/7
+  title: Amazon Launches Prime Air Drone Deliveries in the UK
+- category: supply-chain
+  description: Automation is blurring the lines among WMS, WES, and WCS as warehouses
+    look for software that can connect workers and equipment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/wms-wes-or-wcs-how-warehouse-software-roles-are-changing
+  pub_date: '2026-08-10T15:22:00'
+  source: Supply Chain 24/7
+  title: WMS, WES or WCS? Which Warehouse Software Is Right for You?
+- category: supply-chain
+  description: DTNA is scouting locations for a new U.S. factory expected to create
+    thousands of jobs and begin producing trucks in 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dtna-eyes-multiple-locations-for-major-new-u.s-truck-plant
+  pub_date: '2026-08-10T15:04:00'
+  source: Supply Chain 24/7
+  title: DTNA Eyes Multiple Locations for Major New U.S. Truck Plant
+- category: supply-chain
+  description: Toyota Material Handling North America opened a $100 million Indiana
+    factory to build electric forklifts for its Toyota and Raymond brands.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/toyota-electric-forklift-factory-indiana
+  pub_date: '2026-08-10T14:51:00'
+  source: Supply Chain 24/7
+  title: Toyota Material Handling Opens $100M Forklift Factory in Indiana
+- category: circular
+  description: Around 40 firefighters were called to a recycling centre fire in Essex
+    involving an estimated 4,000 tonnes of scrap metal. Firefighters were called to
+    a fire at a recycling centre in Station Road, Eas...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/40-firefighters-called-to-recycling-centre-blaze-in-essex/
+  pub_date: '2026-08-10T10:46:45'
+  source: Circular Online
+  title: 40 firefighters called to recycling centre blaze in Essex
+- category: circular
+  description: The National Association of Waste Disposal Officers says 'broken' system
+    is placing significant pressure on the UK's fridge and freezer recycling infrastructure.
+    The post NAWDO warns of significant pr...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/nawdo-warns-of-significant-pressure-on-uks-fridge-and-freezer-recycling-infrastructure/
+  pub_date: '2026-08-10T09:15:54'
+  source: Circular Online
+  title: NAWDO warns of significant pressure on UK’s fridge and freezer recycling
+    infrastructure
+- category: supply-chain
   description: AI is moving beyond supply chain pilots, with practical uses emerging
     in forecasting, freight, warehousing, inventory, and routine tasks.
   icon: fa-box
@@ -57,39 +108,6 @@ articles:
   pub_date: '2026-08-06T14:32:00'
   source: Supply Chain 24/7
   title: U.S. Has Refunded $100 Billion in Struck-Down Trump Tariffs
-- category: supply-chain
-  description: The U.S. services economy expanded for the 25th consecutive month in
-    July, with transportation and warehousing among 13 industries reporting growth.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ism-services-economy-growth-july-2026
-  pub_date: '2026-08-06T14:12:00'
-  source: Supply Chain 24/7
-  title: 'ISM Report: Services Economy Extends Growth Streak in July'
-- category: supply-chain
-  description: UPS Capital's Ashley Hillman explains why lost packages, fraud, and
-    delivery problems should be viewed as one connected post-purchase risk problem.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/retailers-post-purchase-risk-fraud-shipping
-  pub_date: '2026-08-06T13:57:00'
-  source: Supply Chain 24/7
-  title: Why Post-Purchase Risk Is Becoming a Bigger Retail Problem
-- category: supply-chain
-  description: Learn how distribution centers can reduce waste, improve key warehouse
-    performance metrics, and benchmark against 2026 WERC DC Measures to support cost
-    reduction initiatives.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-can-distribution-centers-reduce-costs-without-adding-headcount
-  pub_date: '2026-08-05T18:26:00'
-  source: Supply Chain 24/7
-  title: How Can Distribution Centers Reduce Costs Without Adding Headcount?
-- category: supply-chain
-  description: Braen Stone has acquired six barges to move aggregates around New York
-    and New Jersey, with each vessel carrying as much as 80 truckloads.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/braen-stone-barges-new-york-new-jersey-freight
-  pub_date: '2026-08-05T14:59:00'
-  source: Supply Chain 24/7
-  title: Braen Stone Turns to Barges for New York, New Jersey Freight
 - category: circular
   description: The Prime Minister has promised that 'the days of making easy money
     from waste are over' as four men are arrested over an illegal waste site on land
@@ -153,22 +171,4 @@ articles:
   pub_date: '2026-07-30T09:18:22'
   source: Circular Online
   title: Textile production generates 92,000 tonnes of microfibre pollution each year
-- category: circular
-  description: A 'complex' clean-up of dumped potentially hazardous waste, oil and
-    tyres by the side of the A14 cost GBP500,000. The post 'Complex' hazardous waste
-    clean-up on A14 costs GBP500,000 appeared first on ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/complex-hazardous-waste-clean-up-on-a14-costs-500000/
-  pub_date: '2026-07-30T07:28:23'
-  source: Circular Online
-  title: ‘Complex’ hazardous waste clean-up on A14 costs £500,000
-- category: circular
-  description: News updates written by CIWM's commercial partners. Washed Aggregates
-    Trade Association (WATA) Biggest ever washed aggregates meeting hears about potential
-    resource framework Bucher Municipal Bucher M...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-03-august/
-  pub_date: '2026-07-30T01:18:00'
-  source: Circular Online
-  title: News in Brief | Commercial Partner News 03 August
-last_updated: '2026-08-10T07:40:29.745876'
+last_updated: '2026-08-11T07:06:48.149629'

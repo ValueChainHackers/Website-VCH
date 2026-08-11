@@ -1,4 +1,45 @@
 articles:
+- category: ai-research
+  description: '"GeoPT" helps AI models understand the basics of physics so they can
+    simulate how objects respond to things like wind and water more efficiently and
+    accurately.'
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810
+  pub_date: '2026-08-10T19:25:00'
+  source: MIT AI News
+  title: With a feel for physics, AI models simulate a wider range of real-world scenarios
+- category: machine-learning
+  description: 'Written for CEOs, CTOs, CIOs, and technology executives, our new free
+    ebook "Understanding Agentic AI: An Executive Briefing" walks through the components
+    every real agentic system is built from.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing
+  pub_date: '2026-08-10T16:00:13'
+  source: KDnuggets
+  title: 'New Free eBook: Understanding Agentic AI, an Executive Briefing'
+- category: ai-research
+  description: Advisor UI in Google Ads and Google Analytics
+  icon: fa-google
+  link: https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/
+  pub_date: '2026-08-10T14:30:00'
+  source: Google AI Blog
+  title: Evolve your marketing with new AI tools
+- category: machine-learning
+  description: Prompt engineering taught us how to ask better questions. Specification
+    engineering teaches us how to define better work.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering
+  pub_date: '2026-08-10T14:00:00'
+  source: KDnuggets
+  title: 'Specification Engineering: The New Skill After Prompt Engineering'
+- category: machine-learning
+  description: Ten AI influencers who are actually shaping 2026, from safe superintelligence
+    to AI-native search. Here is who to follow and why.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-10-ai-influencers-of-2026
+  pub_date: '2026-08-10T12:00:58'
+  source: KDnuggets
+  title: Top 10 AI Influencers of 2026
 - category: machine-learning
   description: Running a 70B model in production is expensive, and for many tasks,
     unnecessary. If you're building a focused pipeline, a well-trained 3B model will
@@ -65,24 +106,6 @@ articles:
   pub_date: '2026-08-04T18:50:00'
   source: MIT AI News
   title: Solving the solvent problem
-- category: machine-learning
-  description: 'The All-In-One AI Powerhouse: A Comprehensive Review of Abacus AI''s
-    Full Ecosystem An in-depth look at how the platform integrates 100+ AI models,
-    autonomous agents, and a complete developer suite int...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/08/abacus/honest-abacus-ai-review
-  pub_date: '2026-08-04T17:00:59'
-  source: KDnuggets
-  title: 'Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More'
-- category: machine-learning
-  description: uv is making my life easier by giving me one fast tool for package
-    installation, virtual environments, lock files, Python versions, and running project
-    commands.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/i-replaced-pip-virtualenv-and-poetry-with-uv-heres-why
-  pub_date: '2026-08-04T14:00:56'
-  source: KDnuggets
-  title: 'I Replaced Pip, Virtualenv, and Poetry With uv: Here’s Why'
 - category: ai-research
   description: July AI recap header
   icon: fa-google
@@ -90,14 +113,6 @@ articles:
   pub_date: '2026-08-04T13:00:00'
   source: Google AI Blog
   title: The latest AI news we announced in July 2026
-- category: machine-learning
-  description: From quantization to speculative decoding, here are seven engineering
-    strategies to ship faster, more responsive generative AI applications in production.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-approaches-to-reduce-inference-latency-in-your-llm-workflows
-  pub_date: '2026-08-04T12:00:59'
-  source: KDnuggets
-  title: 7 Approaches to Reduce Inference Latency in Your LLM Workflows
 - category: ai-research
   description: Study finds non-experts deferred to LLM-based diagnostic assistance,
     even when it was wrong, while clinicians caught AI errors.
@@ -209,14 +224,6 @@ articles:
   source: Google AI Blog
   title: 3 Google updates from Galaxy Unpacked 2026
 - category: ai-research
-  description: Assistant Professor Bailey Flanigan has arrived at complex computational
-    methods for helping democracy thrive.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717
-  pub_date: '2026-07-17T17:25:00'
-  source: MIT AI News
-  title: Following the questions where they lead
-- category: ai-research
   description: Connected apps rendering
   icon: fa-google
   link: https://blog.google/products-and-platforms/products/search/connected-apps/
@@ -239,12 +246,4 @@ articles:
   pub_date: '2026-07-14T16:00:00'
   source: Google AI Blog
   title: Celebrating 25 years of visual search innovation
-- category: ai-research
-  description: Managed agents feature bundle launch
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
-  pub_date: '2026-07-07T08:54:00'
-  source: Google AI Blog
-  title: 'Expanding Managed Agents in Gemini API:  background tasks, remote MCP and
-    more'
-last_updated: '2026-08-10T07:40:30.649815'
+last_updated: '2026-08-11T07:06:49.681786'
