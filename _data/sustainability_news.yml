@@ -1,5 +1,64 @@
 articles:
 - category: supply-chain
+  description: Montana leads the Lower 48 for truck parking availability, while Massachusetts
+    ranks last, according to Trucker Path user reports.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/truck-parking-availability-rankings-by-state
+  pub_date: '2026-08-11T13:56:00'
+  source: Supply Chain 24/7
+  title: Ranking the Lower 48 States by Truck Parking Availability
+- category: supply-chain
+  description: Magdalina Stavreva of Siemens Digital Logistics shares how an unexpected
+    path took her from Bulgaria to a supply chain career at Siemens.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/magdalina-stavreva-siemens-women-supply-chain
+  pub_date: '2026-08-11T13:37:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Magdalina Stavreva of Siemens'
+- category: supply-chain
+  description: New Jersey says Amazon used its control over delivery contractors to
+    hold down driver pay, restrict hiring, and discourage union organizing.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/new-jersey-says-amazon-delivery-model-suppresses-driver-pay
+  pub_date: '2026-08-11T13:13:00'
+  source: Supply Chain 24/7
+  title: Amazon Hit With New Jersey Antitrust Suit Over Driver Pay
+- category: supply-chain
+  description: Bristol Myers Squibb plans a $2.3 billion Houston manufacturing campus
+    that will create nearly 500 permanent jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bristol-myers-squibb-houston-manufacturing-campus
+  pub_date: '2026-08-11T12:51:00'
+  source: Supply Chain 24/7
+  title: Bristol Myers Squibb Picks Houston for $2.3B Manufacturing Campus
+- category: circular
+  description: A skip-hire boss has been given a 6-month suspended prison sentence
+    for failing to clear overflowing waste from skips at a site in Essex. The post
+    Essex skip-hire boss given suspended sentence for was...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/essex-skip-hire-boss-given-suspended-sentence-for-waste-offences/
+  pub_date: '2026-08-11T11:14:20'
+  source: Circular Online
+  title: Essex skip-hire boss given suspended sentence for waste offences
+- category: circular
+  description: The Marine Minister has visited Port of Tyne after criticism of the
+    government and Environment Agency's response to the plastic pollution clean-up
+    operation. The post Minister visits Port of Tyne plas...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/minister-visits-port-of-tyne-plastic-clean-up-after-government-criticism/
+  pub_date: '2026-08-11T09:49:01'
+  source: Circular Online
+  title: Minister visits Port of Tyne plastic clean-up after government criticism
+- category: circular
+  description: A 37-year-old man from Swansea has been sentenced to 22 weeks' imprisonment,
+    suspended for 18 months, after pleading guilty to depositing controlled waste
+    on land without an environmental permit. The ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/swansea-man-given-suspended-sentence-for-waste-offences/
+  pub_date: '2026-08-11T07:30:00'
+  source: Circular Online
+  title: Swansea man given suspended sentence for waste offences
+- category: supply-chain
   description: Amazon has launched Prime Air in the UK, offering one-hour drone deliveries
     within 7.5 miles of its Darlington fulfillment center.
   icon: fa-box
@@ -66,23 +125,6 @@ articles:
   pub_date: '2026-08-07T14:23:00'
   source: Supply Chain 24/7
   title: 'Women in Supply Chain: Christine Wheeler of Newcastle Systems'
-- category: supply-chain
-  description: GXO says companies that outsource logistics typically save 10% to 15%
-    while reducing the need for major warehouse investments.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/is-it-cheaper-to-outsource-your-warehouse
-  pub_date: '2026-08-07T13:29:00'
-  source: Supply Chain 24/7
-  title: Is It Actually Cheaper to Outsource Your Warehouse?
-- category: supply-chain
-  description: Learn how Ward Transport modernized its cost intelligence to improve
-    pricing decisions, network analysis, scalability, and organizational decision-making.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-can-ltl-carriers-modernize-cost-intelligence-without-replacing-proven-processes
-  pub_date: '2026-08-07T12:49:00'
-  source: Supply Chain 24/7
-  title: How Can LTL Carriers Modernize Cost Intelligence Without Replacing Proven
-    Processes?
 - category: circular
   description: More waste has been discovered buried under a thick layer of soil during
     the clean-up of the infamous 21,000-tonne waste dump in Kidlington. The post More
@@ -92,22 +134,6 @@ articles:
   pub_date: '2026-08-07T09:32:25'
   source: Circular Online
   title: More buried waste discovered during Kidlington clean-up
-- category: supply-chain
-  description: SpaceX and Tesla will initially invest $16.8 billion in a Texas semiconductor
-    complex designed to produce more of the chips the companies need themselves.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/spacex-tesla-16-billion-texas-chip-plant-terafab
-  pub_date: '2026-08-06T14:53:00'
-  source: Supply Chain 24/7
-  title: SpaceX, Tesla Commit $16.8 Billion to Massive Texas Chip Plant
-- category: supply-chain
-  description: The U.S. has refunded about $100 billion of the $166 billion in Trump
-    tariffs struck down by the Supreme Court.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trump-tariff-refunds-100-billion-supreme-court
-  pub_date: '2026-08-06T14:32:00'
-  source: Supply Chain 24/7
-  title: U.S. Has Refunded $100 Billion in Struck-Down Trump Tariffs
 - category: circular
   description: The Prime Minister has promised that 'the days of making easy money
     from waste are over' as four men are arrested over an illegal waste site on land
@@ -144,31 +170,4 @@ articles:
   pub_date: '2026-08-04T13:30:53'
   source: Circular Online
   title: Metal recycling apprenticeship could be retired over low take-up
-- category: circular
-  description: Resource management company Veolia and Sheffield City Council announce
-    successful trial of 'first of its kind' carbon capture technology. The post Veolia
-    trials 'first of its kind' carbon capture tech...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/veolia-trials-first-of-its-kind-carbon-capture-technology-in-the-uk/
-  pub_date: '2026-08-03T10:02:25'
-  source: Circular Online
-  title: Veolia trials ‘first of its kind’ carbon capture technology in the UK
-- category: circular
-  description: Emma Hardy MP has been confirmed as the new Minister for the Circular
-    Economy and Waste Crime. The post Emma Hardy confirmed as Minister for Circular
-    Economy & Waste Crime appeared first on Circular O...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/emma-hardy-confirmed-as-minister-for-circular-economy-waste-crime/
-  pub_date: '2026-07-30T14:15:16'
-  source: Circular Online
-  title: Emma Hardy confirmed as Minister for Circular Economy & Waste Crime
-- category: circular
-  description: Textile manufacturing generates 92,000 tonnes of microfibre pollution
-    every year, with 63%, over 58,000 tonnes, leaking into the environment, new research
-    finds. The report, 'From Shedding to Solution...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/textile-production-generates-92000-tonnes-of-microfibre-pollution-each-year/
-  pub_date: '2026-07-30T09:18:22'
-  source: Circular Online
-  title: Textile production generates 92,000 tonnes of microfibre pollution each year
-last_updated: '2026-08-11T07:06:48.149629'
+last_updated: '2026-08-12T07:23:39.977519'
