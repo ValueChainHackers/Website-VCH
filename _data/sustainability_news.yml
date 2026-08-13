@@ -1,5 +1,65 @@
 articles:
 - category: supply-chain
+  description: General Motors has created a $4.5 billion financing program that will
+    help suppliers buy and hold critical parts for use during supply chain disruptions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gm-4-billion-critical-parts-supply-fund
+  pub_date: '2026-08-12T15:35:00'
+  source: Supply Chain 24/7
+  title: General Motors Sets Aside $4.5 Billion to Protect Its Supply Chain
+- category: supply-chain
+  description: EY's Raman Ram explains why labor, parts, and supplier bottlenecks
+    are keeping aircraft deliveries from matching record demand.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/aerospace-supply-chain-bottlenecks-aircraft-deliveries
+  pub_date: '2026-08-12T14:54:00'
+  source: Supply Chain 24/7
+  title: Aerospace Demand Is Booming. So Why Are Deliveries Still Lagging?
+- category: supply-chain
+  description: Walmart is considering a 1.5 million-square-foot New York distribution
+    center with 1,050 truck spaces and about 1,500 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-new-york-distribution-center-wallkill
+  pub_date: '2026-08-12T14:45:00'
+  source: Supply Chain 24/7
+  title: Walmart Eyes 1.5 Million-Square-Foot New York Warehouse
+- category: supply-chain
+  description: Uber Freight is investigating a breach after hackers claimed they stole
+    nearly 1 million files, though the company says business was not disrupted.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/uber-freight-hackers-nearly-1-million-files
+  pub_date: '2026-08-12T14:39:00'
+  source: Supply Chain 24/7
+  title: Hackers Claim They Stole Nearly 1 Million Uber Freight Files
+- category: circular
+  description: 93% of British businesses have been affected or expect to be affected
+    by the EU's Packaging and Packaging Waste Regulation (PPWR), new research shows.
+    The post 93% of British businesses impacted by ne...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/93-of-british-businesses-impacted-by-new-eu-packaging-regulation/
+  pub_date: '2026-08-12T09:59:00'
+  source: Circular Online
+  title: 93% of British businesses impacted by new EU packaging regulation
+- category: circular
+  description: Around 40 firefighters were called to a recycling centre fire in Essex
+    involving an estimated 4,000 tonnes of scrap metal. Firefighters were called to
+    a fire at a recycling centre in Station Road, Eas...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/40-firefighters-called-to-recycling-centre-blaze-in-essex/
+  pub_date: '2026-08-12T08:06:48'
+  source: Circular Online
+  title: 40 firefighters called to recycling centre blaze in Essex
+- category: circular
+  description: New regulations start a 12-month countdown to competence-backed environmental
+    permits for waste controllers and transporters in England. The post CIWM competence
+    scheme moves into delivery as waste pe...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-competence-scheme-moves-into-delivery-as-waste-permitting-reforms-become-law/
+  pub_date: '2026-08-12T08:05:54'
+  source: Circular Online
+  title: CIWM competence scheme moves into delivery as waste permitting reforms become
+    law
+- category: supply-chain
   description: Montana leads the Lower 48 for truck parking availability, while Massachusetts
     ranks last, according to Trucker Path user reports.
   icon: fa-box
@@ -74,31 +134,6 @@ articles:
   pub_date: '2026-08-10T15:22:00'
   source: Supply Chain 24/7
   title: WMS, WES or WCS? Which Warehouse Software Is Right for You?
-- category: supply-chain
-  description: DTNA is scouting locations for a new U.S. factory expected to create
-    thousands of jobs and begin producing trucks in 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dtna-eyes-multiple-locations-for-major-new-u.s-truck-plant
-  pub_date: '2026-08-10T15:04:00'
-  source: Supply Chain 24/7
-  title: DTNA Eyes Multiple Locations for Major New U.S. Truck Plant
-- category: supply-chain
-  description: Toyota Material Handling North America opened a $100 million Indiana
-    factory to build electric forklifts for its Toyota and Raymond brands.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/toyota-electric-forklift-factory-indiana
-  pub_date: '2026-08-10T14:51:00'
-  source: Supply Chain 24/7
-  title: Toyota Material Handling Opens $100M Forklift Factory in Indiana
-- category: circular
-  description: Around 40 firefighters were called to a recycling centre fire in Essex
-    involving an estimated 4,000 tonnes of scrap metal. Firefighters were called to
-    a fire at a recycling centre in Station Road, Eas...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/40-firefighters-called-to-recycling-centre-blaze-in-essex/
-  pub_date: '2026-08-10T10:46:45'
-  source: Circular Online
-  title: 40 firefighters called to recycling centre blaze in Essex
 - category: circular
   description: The National Association of Waste Disposal Officers says 'broken' system
     is placing significant pressure on the UK's fridge and freezer recycling infrastructure.
@@ -109,22 +144,6 @@ articles:
   source: Circular Online
   title: NAWDO warns of significant pressure on UK’s fridge and freezer recycling
     infrastructure
-- category: supply-chain
-  description: AI is moving beyond supply chain pilots, with practical uses emerging
-    in forecasting, freight, warehousing, inventory, and routine tasks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/six-supply-chain-ai-developments-worth-watching
-  pub_date: '2026-08-07T14:46:00'
-  source: Supply Chain 24/7
-  title: Six Supply Chain AI Developments Worth Watching
-- category: supply-chain
-  description: Christine Wheeler looks back on building Newcastle Systems from a basement
-    startup and why she still wants time on the warehouse floor.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/women-supply-chain-christine-wheeler-newcastle-systems
-  pub_date: '2026-08-07T14:23:00'
-  source: Supply Chain 24/7
-  title: 'Women in Supply Chain: Christine Wheeler of Newcastle Systems'
 - category: circular
   description: More waste has been discovered buried under a thick layer of soil during
     the clean-up of the infamous 21,000-tonne waste dump in Kidlington. The post More
@@ -152,22 +171,4 @@ articles:
   pub_date: '2026-08-05T07:58:30'
   source: Circular Online
   title: Joint waste crime unit reports 111 disruptions during 2025–26
-- category: circular
-  description: New FAQs address the EU packaging regulation shortly before documentation
-    and substance requirements begin applying to packaging placed on EU and Northern
-    Ireland markets. The European Commission has ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/european-commission-issues-ppwr-guidance-ahead-of-12-august-start-date/
-  pub_date: '2026-08-04T14:15:56'
-  source: Circular Online
-  title: European Commission issues PPWR guidance ahead of 12 August start date
-- category: circular
-  description: Skills England is considering closing the Level 2 Metal Recycling General
-    Operative apprenticeship to new starters because of low enrolment, but says no
-    final decision has been made. The post Metal re...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/metal-recycling-apprenticeship-could-be-retired-over-low-take-up/
-  pub_date: '2026-08-04T13:30:53'
-  source: Circular Online
-  title: Metal recycling apprenticeship could be retired over low take-up
-last_updated: '2026-08-12T07:23:39.977519'
+last_updated: '2026-08-13T07:26:04.878549'
