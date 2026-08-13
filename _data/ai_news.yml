@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: Most portfolios stop at a notebook. Take yours all the way.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project
+  pub_date: '2026-08-12T14:00:50'
+  source: KDnuggets
+  title: Building an End-to-End Data Science Portfolio Project
+- category: machine-learning
+  description: Learn how to install Python on Windows using the Python Install Manager,
+    WinGet, uv, Miniconda, or the official Python installer, and choose the best setup
+    for beginners and Python development.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows
+  pub_date: '2026-08-12T12:00:25'
+  source: KDnuggets
+  title: 5 Easy Ways to Install Python on Windows
 - category: ai-research
   description: AMIE promotional video
   icon: fa-google
@@ -91,22 +107,6 @@ articles:
   pub_date: '2026-08-06T16:00:53'
   source: KDnuggets
   title: 'Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture'
-- category: machine-learning
-  description: Discover the six essential tools AI engineers need in 2026 to build
-    and deploy production-grade autonomous systems.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-minimal-ai-engineer-toolkit-for-2026
-  pub_date: '2026-08-06T14:00:49'
-  source: KDnuggets
-  title: The Minimal AI Engineer Toolkit for 2026
-- category: machine-learning
-  description: Learn about the best web crawling tools for collecting website content,
-    crawling subpages, generating clean web data, and powering AI agents.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026
-  pub_date: '2026-08-06T12:00:33'
-  source: KDnuggets
-  title: 7 Best Web Crawling Tools and APIs in 2026
 - category: ai-research
   description: By focusing on electrolytes, MIT scientists are making sodium-metal
     batteries a more practical energy storage option.
@@ -247,4 +247,4 @@ articles:
   pub_date: '2026-07-16T16:00:00'
   source: Google AI Blog
   title: Create, edit and star in videos with two Google Vids updates
-last_updated: '2026-08-12T07:23:40.856087'
+last_updated: '2026-08-13T07:26:05.858303'
