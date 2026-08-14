@@ -1,5 +1,38 @@
 articles:
 - category: supply-chain
+  description: IANA economist Andrew Sibold expects a strong intermodal peak season
+    as tight trucking capacity and steady demand send more long-haul freight to rail.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/intermodal-market-six-things-shippers-should-watch
+  pub_date: '2026-08-13T14:42:00'
+  source: Supply Chain 24/7
+  title: 'Intermodal’s Uneven Recovery: Six Things Shippers Should Watch'
+- category: supply-chain
+  description: Landen Strapping Corporation CEO Joshua Carden explains what manufacturers
+    should consider before bringing sustainable packaging onto the production line.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/what-manufacturers-get-wrong-about-sustainable-packaging
+  pub_date: '2026-08-13T14:05:00'
+  source: Supply Chain 24/7
+  title: What Manufacturers Get Wrong About Sustainable Packaging
+- category: supply-chain
+  description: DHL has completed a $204 million expansion of its Shenzhen gateway,
+    tripling the site's daily processing volume to about 900 tons.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-expands-shenzhen-china-express-gateway
+  pub_date: '2026-08-13T13:42:00'
+  source: Supply Chain 24/7
+  title: DHL Puts $204 Million Into Bigger China Express Gateway
+- category: circular
+  description: A plastic packaging manufacturer has been fined for the second time
+    in less than a year after an employee's hand was crushed by the rollers of a laminating
+    machine. The post Packaging manufacturer fin...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/packaging-manufacturer-fined-after-employees-hand-crushed-by-machine/
+  pub_date: '2026-08-13T08:27:35'
+  source: Circular Online
+  title: Packaging manufacturer fined after employee’s hand crushed by machine
+- category: supply-chain
   description: General Motors has created a $4.5 billion financing program that will
     help suppliers buy and hold critical parts for use during supply chain disruptions.
   icon: fa-box
@@ -83,14 +116,6 @@ articles:
   pub_date: '2026-08-11T13:13:00'
   source: Supply Chain 24/7
   title: Amazon Hit With New Jersey Antitrust Suit Over Driver Pay
-- category: supply-chain
-  description: Bristol Myers Squibb plans a $2.3 billion Houston manufacturing campus
-    that will create nearly 500 permanent jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/bristol-myers-squibb-houston-manufacturing-campus
-  pub_date: '2026-08-11T12:51:00'
-  source: Supply Chain 24/7
-  title: Bristol Myers Squibb Picks Houston for $2.3B Manufacturing Campus
 - category: circular
   description: A skip-hire boss has been given a 6-month suspended prison sentence
     for failing to clear overflowing waste from skips at a site in Essex. The post
@@ -118,22 +143,6 @@ articles:
   pub_date: '2026-08-11T07:30:00'
   source: Circular Online
   title: Swansea man given suspended sentence for waste offences
-- category: supply-chain
-  description: Amazon has launched Prime Air in the UK, offering one-hour drone deliveries
-    within 7.5 miles of its Darlington fulfillment center.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-prime-air-drone-delivery-uk-darlington
-  pub_date: '2026-08-10T16:02:00'
-  source: Supply Chain 24/7
-  title: Amazon Launches Prime Air Drone Deliveries in the UK
-- category: supply-chain
-  description: Automation is blurring the lines among WMS, WES, and WCS as warehouses
-    look for software that can connect workers and equipment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/wms-wes-or-wcs-how-warehouse-software-roles-are-changing
-  pub_date: '2026-08-10T15:22:00'
-  source: Supply Chain 24/7
-  title: WMS, WES or WCS? Which Warehouse Software Is Right for You?
 - category: circular
   description: The National Association of Waste Disposal Officers says 'broken' system
     is placing significant pressure on the UK's fridge and freezer recycling infrastructure.
@@ -162,13 +171,4 @@ articles:
   pub_date: '2026-08-05T09:11:58'
   source: Circular Online
   title: Burnham promises action on waste crime as 4 arrested over Wigan site
-- category: circular
-  description: The multi-agency unit led or supported 61 operations and recorded 13
-    partner arrests, as Defra establishes a new board to oversee delivery of England's
-    Waste Crime Action Plan. The post Joint waste cr...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/joint-waste-crime-unit-reports-111-disruptions-during-2025-26/
-  pub_date: '2026-08-05T07:58:30'
-  source: Circular Online
-  title: Joint waste crime unit reports 111 disruptions during 2025–26
-last_updated: '2026-08-13T07:26:04.878549'
+last_updated: '2026-08-14T07:23:31.828229'
