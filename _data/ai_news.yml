@@ -1,4 +1,36 @@
 articles:
+- category: ai-research
+  description: In his latest book, Professor Eugene Fitzgerald examines the forces
+    that turn breakthroughs into value - and why innovation resists simple formulas.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818
+  pub_date: '2026-08-17T19:50:00'
+  source: MIT AI News
+  title: 'Q&A: Rethinking how innovation happens'
+- category: machine-learning
+  description: But by keeping these limits in mind, and planning for them, we can
+    effectively use these small, local models for the following broad operations scenarios.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model
+  pub_date: '2026-08-17T14:00:36'
+  source: KDnuggets
+  title: What Can I Actually Do with a Small Language Model?
+- category: machine-learning
+  description: This article covers five Python libraries that turn tedious data cleaning
+    into something expressive and genuinely enjoyable.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable
+  pub_date: '2026-08-17T12:00:53'
+  source: KDnuggets
+  title: 5 Python Libraries That Make Data Cleaning More Enjoyable
+- category: ai-research
+  description: Low-angle view of a soccer player kicking a ball mid-air against a
+    bright blue sky, with grass flying from their cleats.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/
+  pub_date: '2026-08-17T08:00:00'
+  source: Google AI Blog
+  title: Get closer to the game with Gemini and Pixel
 - category: machine-learning
   description: Turn any webpage into a lightweight LLM-powered QA engine by cleaning
     HTML, converting content to Markdown, and returning focused answers while reducing
@@ -89,15 +121,6 @@ articles:
   pub_date: '2026-08-10T19:25:00'
   source: MIT AI News
   title: With a feel for physics, AI models simulate a wider range of real-world scenarios
-- category: machine-learning
-  description: 'Written for CEOs, CTOs, CIOs, and technology executives, our new free
-    ebook "Understanding Agentic AI: An Executive Briefing" walks through the components
-    every real agentic system is built from.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing
-  pub_date: '2026-08-10T16:00:13'
-  source: KDnuggets
-  title: 'New Free eBook: Understanding Agentic AI, an Executive Briefing'
 - category: ai-research
   description: Advisor UI in Google Ads and Google Analytics
   icon: fa-google
@@ -105,14 +128,6 @@ articles:
   pub_date: '2026-08-10T14:30:00'
   source: Google AI Blog
   title: Evolve your marketing with new AI tools
-- category: machine-learning
-  description: Prompt engineering taught us how to ask better questions. Specification
-    engineering teaches us how to define better work.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering
-  pub_date: '2026-08-10T14:00:00'
-  source: KDnuggets
-  title: 'Specification Engineering: The New Skill After Prompt Engineering'
 - category: ai-research
   description: By focusing on electrolytes, MIT scientists are making sodium-metal
     batteries a more practical energy storage option.
@@ -221,15 +236,6 @@ articles:
   title: MIT projects selected for funding under US Department of Energy’s Genesis
     Mission
 - category: ai-research
-  description: Known for his clear and elegant writing style, Bertsekas shaped fields
-    from control and optimization to large-scale computation and artificial intelligence.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722
-  pub_date: '2026-07-22T17:00:00'
-  source: MIT AI News
-  title: Professor Emeritus Dimitri Bertsekas, influential computer scientist and
-    prolific author, dies at 83
-- category: ai-research
   description: Gentle Monster glasses, Warby Parker glasses, a prompt asking for the
     history behind a pictured building, and a prompt asking to book a table at a pictured
     restaurant
@@ -238,11 +244,4 @@ articles:
   pub_date: '2026-07-22T13:00:00'
   source: Google AI Blog
   title: 3 Google updates from Galaxy Unpacked 2026
-- category: ai-research
-  description: Connected apps rendering
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/connected-apps/
-  pub_date: '2026-07-16T16:00:00'
-  source: Google AI Blog
-  title: Connect more of your apps to Search
-last_updated: '2026-08-17T06:54:05.566310'
+last_updated: '2026-08-18T06:41:31.152910'
