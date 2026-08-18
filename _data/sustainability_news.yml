@@ -1,5 +1,54 @@
 articles:
 - category: supply-chain
+  description: Amazon is considering a nearly 1.1 million-square-foot Connecticut
+    fulfillment center with about 500 jobs and space for 420-plus trailers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-1-million-square-foot-connecticut-warehouse
+  pub_date: '2026-08-17T17:02:00'
+  source: Supply Chain 24/7
+  title: Amazon Eyes Second Massive Warehouse in Eastern Connecticut
+- category: supply-chain
+  description: Target is using its Proxima digital twin to test inventory changes
+    and catch supply chain problems before they affect stores.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/target-expands-proxima-supply-chain-digital-twin
+  pub_date: '2026-08-17T16:58:00'
+  source: Supply Chain 24/7
+  title: How Target Uses Digital Twins to Spot Supply Chain Problems Early
+- category: circular
+  description: PackUK has launched a new digital service that allows local authorities
+    to access information about their Extended Producer Responsibility for packaging
+    grants. The post Digital service launched for l...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/digital-service-launched-for-local-authority-epr-packaging-grants/
+  pub_date: '2026-08-17T10:12:44'
+  source: Circular Online
+  title: Digital service launched for local authority EPR packaging grants
+- category: supply-chain
+  description: Ford will shift production of U.S.-market Lincoln vehicles from China
+    to American plants beginning in 2030 as tariffs raise import costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ford-lincoln-production-china-us-2030
+  pub_date: '2026-08-17T05:05:00'
+  source: Supply Chain 24/7
+  title: Ford to Move Lincoln Production From China to the U.S.
+- category: supply-chain
+  description: Moog opened a $150 million New York factory that will use automation
+    and robotics to make parts for military aircraft, including the F-35.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/moog-150-million-new-york-manufacturing-plant
+  pub_date: '2026-08-17T05:03:00'
+  source: Supply Chain 24/7
+  title: Moog Opens $150 Million Manufacturing Plant in Western New York
+- category: supply-chain
+  description: Learn how Robots-to-Goods automation addresses labor variability, changing
+    demand, SKU complexity, storage density, and warehouse fulfillment resilience.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-warehouses-automate-for-an-age-of-uncertainty
+  pub_date: '2026-08-14T14:53:00'
+  source: Supply Chain 24/7
+  title: How Should Warehouses Automate for an Age of Uncertainty?
+- category: supply-chain
   description: Seven state attorneys general say the proposed $85 billion UP-NS merger
     would reduce competition and raise costs for shippers.
   icon: fa-box
@@ -48,14 +97,6 @@ articles:
   pub_date: '2026-08-13T14:05:00'
   source: Supply Chain 24/7
   title: What Manufacturers Get Wrong About Sustainable Packaging
-- category: supply-chain
-  description: DHL has completed a $204 million expansion of its Shenzhen gateway,
-    tripling the site's daily processing volume to about 900 tons.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-expands-shenzhen-china-express-gateway
-  pub_date: '2026-08-13T13:42:00'
-  source: Supply Chain 24/7
-  title: DHL Puts $204 Million Into Bigger China Express Gateway
 - category: circular
   description: A plastic packaging manufacturer has been fined for the second time
     in less than a year after an employee's hand was crushed by the rollers of a laminating
@@ -65,38 +106,6 @@ articles:
   pub_date: '2026-08-13T08:27:35'
   source: Circular Online
   title: Packaging manufacturer fined after employee’s hand crushed by machine
-- category: supply-chain
-  description: General Motors has created a $4.5 billion financing program that will
-    help suppliers buy and hold critical parts for use during supply chain disruptions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gm-4-billion-critical-parts-supply-fund
-  pub_date: '2026-08-12T15:35:00'
-  source: Supply Chain 24/7
-  title: General Motors Sets Aside $4.5 Billion to Protect Its Supply Chain
-- category: supply-chain
-  description: EY's Raman Ram explains why labor, parts, and supplier bottlenecks
-    are keeping aircraft deliveries from matching record demand.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/aerospace-supply-chain-bottlenecks-aircraft-deliveries
-  pub_date: '2026-08-12T14:54:00'
-  source: Supply Chain 24/7
-  title: Aerospace Demand Is Booming. So Why Are Deliveries Still Lagging?
-- category: supply-chain
-  description: Walmart is considering a 1.5 million-square-foot New York distribution
-    center with 1,050 truck spaces and about 1,500 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-new-york-distribution-center-wallkill
-  pub_date: '2026-08-12T14:45:00'
-  source: Supply Chain 24/7
-  title: Walmart Eyes 1.5 Million-Square-Foot New York Warehouse
-- category: supply-chain
-  description: Uber Freight is investigating a breach after hackers claimed they stole
-    nearly 1 million files, though the company says business was not disrupted.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/uber-freight-hackers-nearly-1-million-files
-  pub_date: '2026-08-12T14:39:00'
-  source: Supply Chain 24/7
-  title: Hackers Claim They Stole Nearly 1 Million Uber Freight Files
 - category: circular
   description: 93% of British businesses have been affected or expect to be affected
     by the EU's Packaging and Packaging Waste Regulation (PPWR), new research shows.
@@ -162,13 +171,4 @@ articles:
   source: Circular Online
   title: NAWDO warns of significant pressure on UK’s fridge and freezer recycling
     infrastructure
-- category: circular
-  description: More waste has been discovered buried under a thick layer of soil during
-    the clean-up of the infamous 21,000-tonne waste dump in Kidlington. The post More
-    buried waste discovered during Kidlington cle...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/more-buried-waste-discovered-during-kidlington-clean-up/
-  pub_date: '2026-08-07T09:32:25'
-  source: Circular Online
-  title: More buried waste discovered during Kidlington clean-up
-last_updated: '2026-08-17T06:54:04.332805'
+last_updated: '2026-08-18T06:41:29.802251'
