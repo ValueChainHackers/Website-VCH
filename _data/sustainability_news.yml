@@ -1,5 +1,40 @@
 articles:
 - category: supply-chain
+  description: Gartner says procurement leaders need a companywide approach to tracking
+    AI spending, suppliers, data rights, risks, and results.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-leaders-urged-to-manage-ai-as-its-own-category
+  pub_date: '2026-08-18T13:00:00'
+  source: Supply Chain 24/7
+  title: Procurement Leaders Urged to Manage AI as Its Own Category
+- category: circular
+  description: 200 tonnes of asbestos waste have been dumped at locations on the A10
+    and A120 in Hertfordshire. The post 200 tonnes of asbestos waste dumped in Hertfordshire
+    appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/200-tonnes-of-asbestos-waste-dumped-in-hertfordshire/
+  pub_date: '2026-08-18T10:12:42'
+  source: Circular Online
+  title: 200 tonnes of asbestos waste dumped in Hertfordshire
+- category: circular
+  description: 68% of people would be likely to return drinks containers during shopping
+    trips once the UK's Deposit Return Scheme launches, new research finds. The post
+    68% of people will return drinks containers d...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/68-of-people-will-return-drinks-containers-during-shopping-trips-new-research-finds/
+  pub_date: '2026-08-18T08:57:46'
+  source: Circular Online
+  title: 68% of people will return drinks containers during shopping trips, new research
+    finds
+- category: supply-chain
+  description: Uber and Zipline plan to launch Uber Eats drone deliveries this year
+    and reach 1 million autonomous deliveries a day by 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/uber-zipline-one-million-drone-deliveries-a-day
+  pub_date: '2026-08-18T04:09:00'
+  source: Supply Chain 24/7
+  title: Uber and Zipline Team Up for Drone Delivery Across Dozens of Cities
+- category: supply-chain
   description: Amazon is considering a nearly 1.1 million-square-foot Connecticut
     fulfillment center with about 500 jobs and space for 420-plus trailers.
   icon: fa-box
@@ -15,6 +50,14 @@ articles:
   pub_date: '2026-08-17T16:58:00'
   source: Supply Chain 24/7
   title: How Target Uses Digital Twins to Spot Supply Chain Problems Early
+- category: supply-chain
+  description: Compare single-agent and multi-agent AI in logistics and learn how
+    governance, auditability and human oversight affect safe, scalable AI deployment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-should-logistics-leaders-choose-an-ai-agent-strategy
+  pub_date: '2026-08-17T12:50:00'
+  source: Supply Chain 24/7
+  title: How Should Logistics Leaders Choose an AI Agent Strategy?
 - category: circular
   description: PackUK has launched a new digital service that allows local authorities
     to access information about their Extended Producer Responsibility for packaging
@@ -64,14 +107,6 @@ articles:
   pub_date: '2026-08-14T13:28:00'
   source: Supply Chain 24/7
   title: Amazon Teams Up With AutoStore on Warehouse Automation
-- category: supply-chain
-  description: Amazon now has more than 750 Locker locations across 500-plus U.S.
-    college campuses, giving students more places to collect packages.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-expands-locker-network-us-college-campuses
-  pub_date: '2026-08-14T13:24:00'
-  source: Supply Chain 24/7
-  title: Amazon Expands Locker Network Across 500 U.S. College Campuses
 - category: circular
   description: The Chartered Institution of Wastes Management (CIWM) has called for
     a 'swift and outright ban' on single-use barbeques. The post CIWM calls for outright
@@ -81,22 +116,6 @@ articles:
   pub_date: '2026-08-14T09:30:08'
   source: Circular Online
   title: CIWM calls for outright ban on all single-use barbeques
-- category: supply-chain
-  description: IANA economist Andrew Sibold expects a strong intermodal peak season
-    as tight trucking capacity and steady demand send more long-haul freight to rail.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/intermodal-market-six-things-shippers-should-watch
-  pub_date: '2026-08-13T14:42:00'
-  source: Supply Chain 24/7
-  title: 'Intermodal’s Uneven Recovery: Six Things Shippers Should Watch'
-- category: supply-chain
-  description: Landen Strapping Corporation CEO Joshua Carden explains what manufacturers
-    should consider before bringing sustainable packaging onto the production line.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/what-manufacturers-get-wrong-about-sustainable-packaging
-  pub_date: '2026-08-13T14:05:00'
-  source: Supply Chain 24/7
-  title: What Manufacturers Get Wrong About Sustainable Packaging
 - category: circular
   description: A plastic packaging manufacturer has been fined for the second time
     in less than a year after an employee's hand was crushed by the rollers of a laminating
@@ -152,23 +171,4 @@ articles:
   pub_date: '2026-08-11T09:49:01'
   source: Circular Online
   title: Minister visits Port of Tyne plastic clean-up after government criticism
-- category: circular
-  description: A 37-year-old man from Swansea has been sentenced to 22 weeks' imprisonment,
-    suspended for 18 months, after pleading guilty to depositing controlled waste
-    on land without an environmental permit. The ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/swansea-man-given-suspended-sentence-for-waste-offences/
-  pub_date: '2026-08-11T07:30:00'
-  source: Circular Online
-  title: Swansea man given suspended sentence for waste offences
-- category: circular
-  description: The National Association of Waste Disposal Officers says 'broken' system
-    is placing significant pressure on the UK's fridge and freezer recycling infrastructure.
-    The post NAWDO warns of significant pr...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/nawdo-warns-of-significant-pressure-on-uks-fridge-and-freezer-recycling-infrastructure/
-  pub_date: '2026-08-10T09:15:54'
-  source: Circular Online
-  title: NAWDO warns of significant pressure on UK’s fridge and freezer recycling
-    infrastructure
-last_updated: '2026-08-18T06:41:29.802251'
+last_updated: '2026-08-19T06:41:56.584345'

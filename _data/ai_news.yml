@@ -1,9 +1,35 @@
 articles:
 - category: ai-research
+  description: A new method for surgically removing training examples from a model
+    reveals that as datasets grow, the link between what a model learns and what it
+    produces dissolves.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818
+  pub_date: '2026-08-18T16:35:00'
+  source: MIT AI News
+  title: 'When AI art has no author: Study finds generated images often can’t be traced
+    to training data'
+- category: machine-learning
+  description: Download Ollama, pull and serve Qwen3.8-27B, and launch it with OpenCode
+    using just three command lines.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands
+  pub_date: '2026-08-18T14:00:29'
+  source: KDnuggets
+  title: Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands
+- category: machine-learning
+  description: Is vibe coding the future of programming or a shortcut to bad code?
+    Let's look at what it gets right and wrong.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong
+  pub_date: '2026-08-18T12:00:12'
+  source: KDnuggets
+  title: 5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong
+- category: ai-research
   description: In his latest book, Professor Eugene Fitzgerald examines the forces
     that turn breakthroughs into value - and why innovation resists simple formulas.
   icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818
+  link: https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817
   pub_date: '2026-08-17T19:50:00'
   source: MIT AI News
   title: 'Q&A: Rethinking how innovation happens'
@@ -95,23 +121,6 @@ articles:
   source: Google AI Blog
   title: AMIE, our research medical AI system, demonstrates real-time clinical video
     consultation capabilities in a first-of-its-kind study.
-- category: machine-learning
-  description: This guide walks through what contributing to open source projects
-    actually covers, how to pick a project that will actually respond to you, the
-    exact git mechanics, and more.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-ultimate-guide-to-contributing-to-open-source-projects
-  pub_date: '2026-08-11T14:00:17'
-  source: KDnuggets
-  title: The Ultimate Guide to Contributing to Open Source Projects
-- category: machine-learning
-  description: To build your intuition, this article shows three visual proofs that
-    the classic bell curve appears in myriad situations.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-visual-proofs-of-the-central-limit-theorem-to-build-your-intuition
-  pub_date: '2026-08-11T12:00:45'
-  source: KDnuggets
-  title: 3 Visual Proofs of the Central Limit Theorem to Build Your Intuition
 - category: ai-research
   description: '"GeoPT" helps AI models understand the basics of physics so they can
     simulate how objects respond to things like wind and water more efficiently and
@@ -227,15 +236,6 @@ articles:
   source: MIT AI News
   title: Working to automate nuclear plant operations
 - category: ai-research
-  description: Initial research projects advance national priorities across natural
-    resources, manufacturing, nuclear physics, and more.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723
-  pub_date: '2026-07-23T12:00:00'
-  source: MIT AI News
-  title: MIT projects selected for funding under US Department of Energy’s Genesis
-    Mission
-- category: ai-research
   description: Gentle Monster glasses, Warby Parker glasses, a prompt asking for the
     history behind a pictured building, and a prompt asking to book a table at a pictured
     restaurant
@@ -244,4 +244,4 @@ articles:
   pub_date: '2026-07-22T13:00:00'
   source: Google AI Blog
   title: 3 Google updates from Galaxy Unpacked 2026
-last_updated: '2026-08-18T06:41:31.152910'
+last_updated: '2026-08-19T06:41:57.412507'
