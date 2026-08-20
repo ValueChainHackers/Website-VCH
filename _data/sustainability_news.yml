@@ -1,4 +1,22 @@
 articles:
+- category: circular
+  description: A waste and recycling company has been fined GBP400,000 after an employee
+    was seriously injured after being struck by a moving vehicle at its site in Basildon.
+    The post Waste and recycling company fin...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-and-recycling-company-fined-400000-after-employee-struck-by-vehicle/
+  pub_date: '2026-08-19T08:48:54'
+  source: Circular Online
+  title: Waste and recycling company fined £400,000 after employee struck by vehicle
+- category: circular
+  description: 15 fire engines and around 100 firefighters were called to a fire at
+    a waste facility in Deptford last night. The post 100 firefighters called to fire
+    at waste facility in London appeared first on Cir...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/100-firefighters-called-to-fire-at-waste-facility-in-london/
+  pub_date: '2026-08-19T08:07:54'
+  source: Circular Online
+  title: 100 firefighters called to fire at waste facility in London
 - category: supply-chain
   description: Gartner says procurement leaders need a companywide approach to tracking
     AI spending, suppliers, data rights, risks, and results.
@@ -153,22 +171,4 @@ articles:
   source: Circular Online
   title: CIWM competence scheme moves into delivery as waste permitting reforms become
     law
-- category: circular
-  description: A skip-hire boss has been given a 6-month suspended prison sentence
-    for failing to clear overflowing waste from skips at a site in Essex. The post
-    Essex skip-hire boss given suspended sentence for was...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/essex-skip-hire-boss-given-suspended-sentence-for-waste-offences/
-  pub_date: '2026-08-11T11:14:20'
-  source: Circular Online
-  title: Essex skip-hire boss given suspended sentence for waste offences
-- category: circular
-  description: The Marine Minister has visited Port of Tyne after criticism of the
-    government and Environment Agency's response to the plastic pollution clean-up
-    operation. The post Minister visits Port of Tyne plas...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/minister-visits-port-of-tyne-plastic-clean-up-after-government-criticism/
-  pub_date: '2026-08-11T09:49:01'
-  source: Circular Online
-  title: Minister visits Port of Tyne plastic clean-up after government criticism
-last_updated: '2026-08-19T06:41:56.584345'
+last_updated: '2026-08-20T06:44:12.241126'
