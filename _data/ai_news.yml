@@ -1,5 +1,29 @@
 articles:
 - category: ai-research
+  description: an illustrated image with icons and phrasing like "Add Notebook" and
+    "Ask Google"
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/
+  pub_date: '2026-08-19T19:00:00'
+  source: Google AI Blog
+  title: 5 new ways to level up your learning with Search
+- category: machine-learning
+  description: The interview moved from Design YouTube to Design ChatGPT. Here's the
+    framework.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions
+  pub_date: '2026-08-19T14:00:55'
+  source: KDnuggets
+  title: How to Answer AI System Design Interview Questions
+- category: machine-learning
+  description: This article walks through five tools, one for each layer of the stack
+    from building the agent's logic to running all of it at scale.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production
+  pub_date: '2026-08-19T12:00:15'
+  source: KDnuggets
+  title: 5 Tools for Building and Deploying AI Agents in Production
+- category: ai-research
   description: A new method for surgically removing training examples from a model
     reveals that as datasets grow, the link between what a model learns and what it
     produces dissolves.
@@ -97,22 +121,6 @@ articles:
   pub_date: '2026-08-13T12:00:17'
   source: KDnuggets
   title: Constraining Output Space for SLM Narrow Automation Optimization
-- category: machine-learning
-  description: Most portfolios stop at a notebook. Take yours all the way.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project
-  pub_date: '2026-08-12T14:00:50'
-  source: KDnuggets
-  title: Building an End-to-End Data Science Portfolio Project
-- category: machine-learning
-  description: Learn how to install Python on Windows using the Python Install Manager,
-    WinGet, uv, Miniconda, or the official Python installer, and choose the best setup
-    for beginners and Python development.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows
-  pub_date: '2026-08-12T12:00:25'
-  source: KDnuggets
-  title: 5 Easy Ways to Install Python on Windows
 - category: ai-research
   description: AMIE promotional video
   icon: fa-google
@@ -235,13 +243,4 @@ articles:
   pub_date: '2026-07-24T04:00:00'
   source: MIT AI News
   title: Working to automate nuclear plant operations
-- category: ai-research
-  description: Gentle Monster glasses, Warby Parker glasses, a prompt asking for the
-    history behind a pictured building, and a prompt asking to book a table at a pictured
-    restaurant
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
-  pub_date: '2026-07-22T13:00:00'
-  source: Google AI Blog
-  title: 3 Google updates from Galaxy Unpacked 2026
-last_updated: '2026-08-19T06:41:57.412507'
+last_updated: '2026-08-20T06:44:13.373453'
