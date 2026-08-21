@@ -1,5 +1,64 @@
 articles:
 - category: circular
+  description: The Welsh Government has announced the appointment of Exchange for
+    Change as the Deposit Management Organisation for its Deposit Return Scheme (DRS).
+    The post Welsh Government appoints Exchange for Ch...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/breaking-welsh-government-appoint-exchange-for-change-as-drs-administrator/
+  pub_date: '2026-08-20T13:14:50'
+  source: Circular Online
+  title: Welsh Government appoints Exchange for Change as DRS administrator
+- category: supply-chain
+  description: Amazon plans to expand Prime Air drone delivery sixfold, reaching nearly
+    500 U.S. cities and towns by the end of 2026.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-prime-air-expands-drone-delivery-to-nearly-500-cities
+  pub_date: '2026-08-20T12:43:00'
+  source: Supply Chain 24/7
+  title: Amazon Prime Air Expands Drone Delivery to Nearly 500 Cities
+- category: supply-chain
+  description: Home Depot is rolling out three-hour delivery nationwide, using more
+    than 2,000 U.S. stores to fill orders for contractors and homeowners.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/home-depot-three-hour-delivery-nationwide
+  pub_date: '2026-08-20T12:34:00'
+  source: Supply Chain 24/7
+  title: Home Depot Rolls Out Three-Hour Delivery Across the U.S.
+- category: supply-chain
+  description: INNIO plans a $300 million expansion of its Wisconsin engine plant,
+    adding testing and assembly work and creating more than 500 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/innio-wisconsin-engine-plant-expansion
+  pub_date: '2026-08-20T10:35:00'
+  source: Supply Chain 24/7
+  title: INNIO Announces Plans to Invest $300M in Wisconsin Engine Plant
+- category: circular
+  description: A clinical waste disposal company has been fined GBP300,000 after one
+    of its workers severed his arm from the elbow down while unblocking machinery.
+    The man, 42, had been working a night shift at Trad...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/clinical-waste-disposal-company-fined-300000-after-employee-severs-arms/
+  pub_date: '2026-08-20T09:39:53'
+  source: Circular Online
+  title: Clinical waste disposal company fined £300,000 after employee severs arms
+- category: circular
+  description: The Prime Minister has announced that mayors, council leaders, and
+    the Environment Agency will be given new powers to tackle waste crime. The post
+    PM announces new powers to tackle waste crime appeare...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/pm-announces-new-powers-to-tackle-waste-crime/
+  pub_date: '2026-08-20T08:25:53'
+  source: Circular Online
+  title: PM announces new powers to tackle waste crime
+- category: supply-chain
+  description: Hyve Solutions plans two manufacturing plants in Nevada and approximately
+    3,000 jobs as it increases U.S. production of AI and data center hardware.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hyve-solutions-nevada-manufacturing-plants-3000-jobs
+  pub_date: '2026-08-20T07:50:00'
+  source: Supply Chain 24/7
+  title: Hyve Solutions Picks Nevada for Two New Manufacturing Plants
+- category: circular
   description: A waste and recycling company has been fined GBP400,000 after an employee
     was seriously injured after being struck by a moving vehicle at its site in Basildon.
     The post Waste and recycling company fin...
@@ -93,38 +152,6 @@ articles:
   pub_date: '2026-08-17T05:05:00'
   source: Supply Chain 24/7
   title: Ford to Move Lincoln Production From China to the U.S.
-- category: supply-chain
-  description: Moog opened a $150 million New York factory that will use automation
-    and robotics to make parts for military aircraft, including the F-35.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/moog-150-million-new-york-manufacturing-plant
-  pub_date: '2026-08-17T05:03:00'
-  source: Supply Chain 24/7
-  title: Moog Opens $150 Million Manufacturing Plant in Western New York
-- category: supply-chain
-  description: Learn how Robots-to-Goods automation addresses labor variability, changing
-    demand, SKU complexity, storage density, and warehouse fulfillment resilience.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-warehouses-automate-for-an-age-of-uncertainty
-  pub_date: '2026-08-14T14:53:00'
-  source: Supply Chain 24/7
-  title: How Should Warehouses Automate for an Age of Uncertainty?
-- category: supply-chain
-  description: Seven state attorneys general say the proposed $85 billion UP-NS merger
-    would reduce competition and raise costs for shippers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/seven-state-ags-urge-stb-to-reject-85-billion-up-ns-rail-deal
-  pub_date: '2026-08-14T13:39:00'
-  source: Supply Chain 24/7
-  title: Seven State AGs Demand Rejection of $85 Billion UP-NS Rail Deal
-- category: supply-chain
-  description: Amazon signed a global agreement covering potential AutoStore warehouse
-    system orders, but it has not committed to making any purchases.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-autostore-global-warehouse-automation-agreement
-  pub_date: '2026-08-14T13:28:00'
-  source: Supply Chain 24/7
-  title: Amazon Teams Up With AutoStore on Warehouse Automation
 - category: circular
   description: The Chartered Institution of Wastes Management (CIWM) has called for
     a 'swift and outright ban' on single-use barbeques. The post CIWM calls for outright
@@ -143,32 +170,4 @@ articles:
   pub_date: '2026-08-13T08:27:35'
   source: Circular Online
   title: Packaging manufacturer fined after employee’s hand crushed by machine
-- category: circular
-  description: 93% of British businesses have been affected or expect to be affected
-    by the EU's Packaging and Packaging Waste Regulation (PPWR), new research shows.
-    The post 93% of British businesses impacted by ne...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/93-of-british-businesses-impacted-by-new-eu-packaging-regulation/
-  pub_date: '2026-08-12T09:59:00'
-  source: Circular Online
-  title: 93% of British businesses impacted by new EU packaging regulation
-- category: circular
-  description: Around 40 firefighters were called to a recycling centre fire in Essex
-    involving an estimated 4,000 tonnes of scrap metal. Firefighters were called to
-    a fire at a recycling centre in Station Road, Eas...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/40-firefighters-called-to-recycling-centre-blaze-in-essex/
-  pub_date: '2026-08-12T08:06:48'
-  source: Circular Online
-  title: 40 firefighters called to recycling centre blaze in Essex
-- category: circular
-  description: New regulations start a 12-month countdown to competence-backed environmental
-    permits for waste controllers and transporters in England. The post CIWM competence
-    scheme moves into delivery as waste pe...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-competence-scheme-moves-into-delivery-as-waste-permitting-reforms-become-law/
-  pub_date: '2026-08-12T08:05:54'
-  source: Circular Online
-  title: CIWM competence scheme moves into delivery as waste permitting reforms become
-    law
-last_updated: '2026-08-20T06:44:12.241126'
+last_updated: '2026-08-21T06:45:16.663651'
