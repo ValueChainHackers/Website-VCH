@@ -1,5 +1,29 @@
 articles:
 - category: ai-research
+  description: New MIT research could lead to better materials for a fossil-fuel-free
+    process for making the chemical that's essential to fertilizer and other products.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820
+  pub_date: '2026-08-20T18:45:00'
+  source: MIT AI News
+  title: Paving the way for greener ammonia production
+- category: machine-learning
+  description: Three orientations, three different skill maps, and how to find the
+    one that fits where you actually stand.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways
+  pub_date: '2026-08-20T14:00:59'
+  source: KDnuggets
+  title: 'How to Build a Career in AI: 3 Distinct Pathways'
+- category: machine-learning
+  description: SWE-bench, Terminal-Bench, SlopCodeBench, ProgramBench, and more. Explore
+    the top 10 open-source benchmarks for evaluating AI coding agents.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026
+  pub_date: '2026-08-20T12:00:38'
+  source: KDnuggets
+  title: Top 10 Open-Source Benchmarks for AI Coding Agents in 2026
+- category: ai-research
   description: an illustrated image with icons and phrasing like "Add Notebook" and
     "Ask Google"
   icon: fa-google
@@ -104,23 +128,6 @@ articles:
   pub_date: '2026-08-13T16:45:00'
   source: Google AI Blog
   title: Bring your spreadsheet data to life with Sheets canvas
-- category: machine-learning
-  description: Streaming gets used in two different ways when people talk about AI
-    agents. Straighten out your understanding here.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-a-streaming-local-ai-agent
-  pub_date: '2026-08-13T14:00:15'
-  source: KDnuggets
-  title: Building a Streaming Local AI Agent
-- category: machine-learning
-  description: 'This article will kick off a series on narrow automation optimization
-    for SLMs, and as the first entry will cover one of the more most useful techniques
-    for doing so: constraining the output space ins...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization
-  pub_date: '2026-08-13T12:00:17'
-  source: KDnuggets
-  title: Constraining Output Space for SLM Narrow Automation Optimization
 - category: ai-research
   description: AMIE promotional video
   icon: fa-google
@@ -234,13 +241,4 @@ articles:
   pub_date: '2026-07-28T13:00:00'
   source: Google AI Blog
   title: 5 ways to host the ultimate dinner party with Google Search
-- category: ai-research
-  description: PhD student Lauren Fortier is building on the experience she gained
-    operating a nuclear plant for the Navy to solve a critical hurdle in the wider
-    adoption of the energy source.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724
-  pub_date: '2026-07-24T04:00:00'
-  source: MIT AI News
-  title: Working to automate nuclear plant operations
-last_updated: '2026-08-20T06:44:13.373453'
+last_updated: '2026-08-21T06:45:18.094747'
