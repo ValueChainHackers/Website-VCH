@@ -1,4 +1,47 @@
 articles:
+- category: supply-chain
+  description: Eight steps to help companies prepare their data, processes, and people
+    to use AI for faster, more informed supply chain decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eight-steps-ai-supply-chain-resilience
+  pub_date: '2026-08-21T15:08:00'
+  source: Supply Chain 24/7
+  title: Eight Ways to Build a More Resilient Supply Chain With AI
+- category: supply-chain
+  description: Amazon will build a multibillion-dollar robotics plant in Austin that
+    is expected to create between 300 and 500 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-austin-texas-robotics-manufacturing-plant
+  pub_date: '2026-08-21T14:02:00'
+  source: Supply Chain 24/7
+  title: Amazon Plans Multibillion-Dollar Robotics Plant in Austin
+- category: supply-chain
+  description: Learn how integrated food labeling connects live production data to
+    governed templates to improve accuracy, reduce manual work, and lower compliance
+    risk.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-food-manufacturers-automate-labeling-workflows
+  pub_date: '2026-08-21T13:58:00'
+  source: Supply Chain 24/7
+  title: How Should Food Manufacturers Automate Labeling Workflows?
+- category: supply-chain
+  description: Crowley will launch weekly container service connecting Houston with
+    Guatemala and Honduras, beginning with a Sept. 10 Houston arrival.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/crowley-houston-central-america-weekly-container-service
+  pub_date: '2026-08-21T13:47:00'
+  source: Supply Chain 24/7
+  title: Crowley Adds Weekly Service Between Houston and Central America
+- category: circular
+  description: The government has announced it will fund the clean-up of three of
+    the 'most serious illegal waste sites' in the country. The post Taxpayers to fund
+    clearance of illegal dumps in West Yorkshire, Surre...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/taxpayers-to-fund-clearance-of-illegal-dumps-in-west-yorkshire-surrey-and-kent/
+  pub_date: '2026-08-21T09:48:22'
+  source: Circular Online
+  title: Taxpayers to fund clearance of illegal dumps in West Yorkshire, Surrey and
+    Kent
 - category: circular
   description: The Welsh Government has announced the appointment of Exchange for
     Change as the Deposit Management Organisation for its Deposit Return Scheme (DRS).
@@ -111,30 +154,6 @@ articles:
   pub_date: '2026-08-18T04:09:00'
   source: Supply Chain 24/7
   title: Uber and Zipline Team Up for Drone Delivery Across Dozens of Cities
-- category: supply-chain
-  description: Amazon is considering a nearly 1.1 million-square-foot Connecticut
-    fulfillment center with about 500 jobs and space for 420-plus trailers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-1-million-square-foot-connecticut-warehouse
-  pub_date: '2026-08-17T17:02:00'
-  source: Supply Chain 24/7
-  title: Amazon Eyes Second Massive Warehouse in Eastern Connecticut
-- category: supply-chain
-  description: Target is using its Proxima digital twin to test inventory changes
-    and catch supply chain problems before they affect stores.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/target-expands-proxima-supply-chain-digital-twin
-  pub_date: '2026-08-17T16:58:00'
-  source: Supply Chain 24/7
-  title: How Target Uses Digital Twins to Spot Supply Chain Problems Early
-- category: supply-chain
-  description: Compare single-agent and multi-agent AI in logistics and learn how
-    governance, auditability and human oversight affect safe, scalable AI deployment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-should-logistics-leaders-choose-an-ai-agent-strategy
-  pub_date: '2026-08-17T12:50:00'
-  source: Supply Chain 24/7
-  title: How Should Logistics Leaders Choose an AI Agent Strategy?
 - category: circular
   description: PackUK has launched a new digital service that allows local authorities
     to access information about their Extended Producer Responsibility for packaging
@@ -144,14 +163,6 @@ articles:
   pub_date: '2026-08-17T10:12:44'
   source: Circular Online
   title: Digital service launched for local authority EPR packaging grants
-- category: supply-chain
-  description: Ford will shift production of U.S.-market Lincoln vehicles from China
-    to American plants beginning in 2030 as tariffs raise import costs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ford-lincoln-production-china-us-2030
-  pub_date: '2026-08-17T05:05:00'
-  source: Supply Chain 24/7
-  title: Ford to Move Lincoln Production From China to the U.S.
 - category: circular
   description: The Chartered Institution of Wastes Management (CIWM) has called for
     a 'swift and outright ban' on single-use barbeques. The post CIWM calls for outright
@@ -161,13 +172,4 @@ articles:
   pub_date: '2026-08-14T09:30:08'
   source: Circular Online
   title: CIWM calls for outright ban on all single-use barbeques
-- category: circular
-  description: A plastic packaging manufacturer has been fined for the second time
-    in less than a year after an employee's hand was crushed by the rollers of a laminating
-    machine. The post Packaging manufacturer fin...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/packaging-manufacturer-fined-after-employees-hand-crushed-by-machine/
-  pub_date: '2026-08-13T08:27:35'
-  source: Circular Online
-  title: Packaging manufacturer fined after employee’s hand crushed by machine
-last_updated: '2026-08-21T06:45:16.663651'
+last_updated: '2026-08-22T06:38:44.569265'

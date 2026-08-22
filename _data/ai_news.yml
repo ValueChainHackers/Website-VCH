@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash
+    speculative decoding, and Pi for fast, private, agentic AI coding.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi
+  pub_date: '2026-08-21T14:00:58'
+  source: KDnuggets
+  title: Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi
+- category: machine-learning
+  description: See how AI agents are autonomously handling support, coding, supply
+    chains, healthcare, and fraud detection today.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries
+  pub_date: '2026-08-21T12:00:41'
+  source: KDnuggets
+  title: 5 Real-World Use Cases for AI Agents Transforming Industries
 - category: ai-research
   description: New MIT research could lead to better materials for a fossil-fuel-free
     process for making the chemical that's essential to fertilizer and other products.
@@ -105,22 +121,6 @@ articles:
   pub_date: '2026-08-17T08:00:00'
   source: Google AI Blog
   title: Get closer to the game with Gemini and Pixel
-- category: machine-learning
-  description: Turn any webpage into a lightweight LLM-powered QA engine by cleaning
-    HTML, converting content to Markdown, and returning focused answers while reducing
-    token usage.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python
-  pub_date: '2026-08-14T14:00:29'
-  source: KDnuggets
-  title: How to Build a Simple AI Web Scraper with Python
-- category: machine-learning
-  description: If you read only five papers on AI agents, make them these.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read
-  pub_date: '2026-08-14T12:00:13'
-  source: KDnuggets
-  title: 5 Fun Agentic AI Papers to Read
 - category: ai-research
   description: The video shows Sheets canvas in action.
   icon: fa-google
@@ -241,4 +241,4 @@ articles:
   pub_date: '2026-07-28T13:00:00'
   source: Google AI Blog
   title: 5 ways to host the ultimate dinner party with Google Search
-last_updated: '2026-08-21T06:45:18.094747'
+last_updated: '2026-08-22T06:38:45.366757'
