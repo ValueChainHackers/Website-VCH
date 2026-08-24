@@ -1,5 +1,13 @@
 articles:
 - category: supply-chain
+  description: Donald Trump's new 50% Canada tariffs cover machinery, electrical equipment
+    and other goods, while energy and critical minerals are exempt.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/trump-canada-tariffs-products-affected
+  pub_date: '2026-08-24T01:07:00'
+  source: Supply Chain 24/7
+  title: 'U.S.-Canada Tariffs: Which Products Are Affected on Both Sides'
+- category: supply-chain
   description: Eight steps to help companies prepare their data, processes, and people
     to use AI for faster, more informed supply chain decisions.
   icon: fa-box
@@ -146,14 +154,6 @@ articles:
   source: Circular Online
   title: 68% of people will return drinks containers during shopping trips, new research
     finds
-- category: supply-chain
-  description: Uber and Zipline plan to launch Uber Eats drone deliveries this year
-    and reach 1 million autonomous deliveries a day by 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/uber-zipline-one-million-drone-deliveries-a-day
-  pub_date: '2026-08-18T04:09:00'
-  source: Supply Chain 24/7
-  title: Uber and Zipline Team Up for Drone Delivery Across Dozens of Cities
 - category: circular
   description: PackUK has launched a new digital service that allows local authorities
     to access information about their Extended Producer Responsibility for packaging
@@ -172,4 +172,4 @@ articles:
   pub_date: '2026-08-14T09:30:08'
   source: Circular Online
   title: CIWM calls for outright ban on all single-use barbeques
-last_updated: '2026-08-23T06:39:33.484224'
+last_updated: '2026-08-24T06:57:06.842438'
