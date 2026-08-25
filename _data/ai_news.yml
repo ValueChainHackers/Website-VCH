@@ -1,4 +1,28 @@
 articles:
+- category: ai-research
+  description: A new algorithm learns to anticipate the unprecedented scenarios that
+    critical infrastructure and global supply chains are least prepared for.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
+  pub_date: '2026-08-24T18:00:00'
+  source: MIT AI News
+  title: Generating scenarios for extreme events, without extreme data
+- category: machine-learning
+  description: A practical guide to running compact, privacy-preserving language models
+    on your own hardware for faster, cheaper, and more controllable AI-powered applications.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects
+  pub_date: '2026-08-24T14:00:13'
+  source: KDnuggets
+  title: How to Leverage Local Small Language Models for Your Projects
+- category: machine-learning
+  description: Use Grok Build to create a production-ready data science workflow with
+    EDA, scikit-learn, model training, FastAPI, API testing, and cloud deployment.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6
+  pub_date: '2026-08-24T12:00:06'
+  source: KDnuggets
+  title: Build an End-to-End Data Science Project with Grok Build and Grok 4.6
 - category: machine-learning
   description: Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash
     speculative decoding, and Pi for fast, private, agentic AI coding.
@@ -97,22 +121,6 @@ articles:
   pub_date: '2026-08-17T19:50:00'
   source: MIT AI News
   title: 'Q&A: Rethinking how innovation happens'
-- category: machine-learning
-  description: But by keeping these limits in mind, and planning for them, we can
-    effectively use these small, local models for the following broad operations scenarios.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model
-  pub_date: '2026-08-17T14:00:36'
-  source: KDnuggets
-  title: What Can I Actually Do with a Small Language Model?
-- category: machine-learning
-  description: This article covers five Python libraries that turn tedious data cleaning
-    into something expressive and genuinely enjoyable.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable
-  pub_date: '2026-08-17T12:00:53'
-  source: KDnuggets
-  title: 5 Python Libraries That Make Data Cleaning More Enjoyable
 - category: ai-research
   description: Low-angle view of a soccer player kicking a ball mid-air against a
     bright blue sky, with grass flying from their cleats.
@@ -209,16 +217,6 @@ articles:
   source: MIT AI News
   title: Connecting research to policy on Capitol Hill
 - category: ai-research
-  description: The visionary PhysioNet platform launched 25 years ago, based on a
-    system developed at MIT in the 1970s. It has become one of the most comprehensive
-    biomedical and clinical data repositories in existe...
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729
-  pub_date: '2026-07-29T14:00:00'
-  source: MIT AI News
-  title: How a medical database developed at MIT evolved into a global standard of
-    data-sharing
-- category: ai-research
   description: Managed Agents Gemini 3.6 Flash, Hooks and Triggers
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
@@ -241,4 +239,4 @@ articles:
   pub_date: '2026-07-28T13:00:00'
   source: Google AI Blog
   title: 5 ways to host the ultimate dinner party with Google Search
-last_updated: '2026-08-24T06:57:08.044505'
+last_updated: '2026-08-25T06:46:08.054854'
