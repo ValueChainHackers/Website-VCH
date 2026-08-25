@@ -1,12 +1,70 @@
 articles:
 - category: supply-chain
+  description: ATA CEO Chris Spear stepped down immediately, three years before his
+    contract expired, leaving the trucking group searching for a new leader.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ata-ceo-chris-spear-steps-down-contract-2029
+  pub_date: '2026-08-24T15:27:00'
+  source: Supply Chain 24/7
+  title: ATA CEO Chris Spear Steps Down Three Years Before Contract Ends
+- category: supply-chain
+  description: AI and real-time data are pushing shippers to rethink transportation
+    outsourcing, private fleets, carrier partnerships, and hidden freight costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-ai-is-changing-transportation-outsourcing-decisions
+  pub_date: '2026-08-24T13:52:00'
+  source: Supply Chain 24/7
+  title: How AI Is Changing the Transportation Outsourcing Decision
+- category: supply-chain
   description: Donald Trump's new 50% Canada tariffs cover machinery, electrical equipment
     and other goods, while energy and critical minerals are exempt.
   icon: fa-box
   link: https://www.supplychain247.com/article/trump-canada-tariffs-products-affected
-  pub_date: '2026-08-24T01:07:00'
+  pub_date: '2026-08-24T13:19:00'
   source: Supply Chain 24/7
   title: 'U.S.-Canada Tariffs: Which Products Are Affected on Both Sides'
+- category: supply-chain
+  description: The Port of New Orleans received federal approval to build a $1.8 billion
+    container terminal for larger cargo ships in Violet, Louisiana.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/new-orleans-port-louisiana-container-terminal-federal-permit
+  pub_date: '2026-08-24T12:43:00'
+  source: Supply Chain 24/7
+  title: New Orleans Port Gets Federal Approval for $1.8 Billion Terminal
+- category: supply-chain
+  description: Learn how cost-to-serve and labor management can help warehouses improve
+    profitability, fulfillment reliability, data use, and operational alignment.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-warehouses-use-cost-to-serve-to-improve-profitability
+  pub_date: '2026-08-24T12:25:00'
+  source: Supply Chain 24/7
+  title: How Should Warehouses Use Cost-to-Serve to Improve Profitability?
+- category: supply-chain
+  description: Diesel prices climbed 31% year over year in July, adding about $177
+    to a 150-gallon fill-up, according to new data from Magnus Technologies.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/diesel-prices-july-2026-year-over-year-trucking-fuel-costs
+  pub_date: '2026-08-24T11:31:00'
+  source: Supply Chain 24/7
+  title: U.S. Diesel Prices Climb 31% Year Over Year to $4.96 a Gallon
+- category: circular
+  description: A Scottish businessman who stripped almost GBP3 million in assets from
+    his clinical waste firm has been banned as a company director for nine years.
+    The post Former waste firm boss banned as company d...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/former-waste-firm-boss-banned-as-company-director-for-9-years/
+  pub_date: '2026-08-24T11:11:06'
+  source: Circular Online
+  title: Former waste firm boss banned as company director for 9 years
+- category: circular
+  description: Recycle Now, the citizen campaign managed by global environmental action
+    NGO WRAP, has published the 2026 Recycle Week Toolkit. The post WRAP publishes
+    Recycle Week toolkit appeared first on Circular ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wrap-publishes-recycle-week-toolkit/
+  pub_date: '2026-08-24T08:44:28'
+  source: Circular Online
+  title: WRAP publishes Recycle Week toolkit
 - category: supply-chain
   description: Eight steps to help companies prepare their data, processes, and people
     to use AI for faster, more informed supply chain decisions.
@@ -59,30 +117,6 @@ articles:
   pub_date: '2026-08-20T13:14:50'
   source: Circular Online
   title: Welsh Government appoints Exchange for Change as DRS administrator
-- category: supply-chain
-  description: Amazon plans to expand Prime Air drone delivery sixfold, reaching nearly
-    500 U.S. cities and towns by the end of 2026.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-prime-air-expands-drone-delivery-to-nearly-500-cities
-  pub_date: '2026-08-20T12:43:00'
-  source: Supply Chain 24/7
-  title: Amazon Prime Air Expands Drone Delivery to Nearly 500 Cities
-- category: supply-chain
-  description: Home Depot is rolling out three-hour delivery nationwide, using more
-    than 2,000 U.S. stores to fill orders for contractors and homeowners.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/home-depot-three-hour-delivery-nationwide
-  pub_date: '2026-08-20T12:34:00'
-  source: Supply Chain 24/7
-  title: Home Depot Rolls Out Three-Hour Delivery Across the U.S.
-- category: supply-chain
-  description: INNIO plans a $300 million expansion of its Wisconsin engine plant,
-    adding testing and assembly work and creating more than 500 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/innio-wisconsin-engine-plant-expansion
-  pub_date: '2026-08-20T10:35:00'
-  source: Supply Chain 24/7
-  title: INNIO Announces Plans to Invest $300M in Wisconsin Engine Plant
 - category: circular
   description: A clinical waste disposal company has been fined GBP300,000 after one
     of its workers severed his arm from the elbow down while unblocking machinery.
@@ -101,14 +135,6 @@ articles:
   pub_date: '2026-08-20T08:25:53'
   source: Circular Online
   title: PM announces new powers to tackle waste crime
-- category: supply-chain
-  description: Hyve Solutions plans two manufacturing plants in Nevada and approximately
-    3,000 jobs as it increases U.S. production of AI and data center hardware.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hyve-solutions-nevada-manufacturing-plants-3000-jobs
-  pub_date: '2026-08-20T07:50:00'
-  source: Supply Chain 24/7
-  title: Hyve Solutions Picks Nevada for Two New Manufacturing Plants
 - category: circular
   description: A waste and recycling company has been fined GBP400,000 after an employee
     was seriously injured after being struck by a moving vehicle at its site in Basildon.
@@ -127,14 +153,6 @@ articles:
   pub_date: '2026-08-19T08:07:54'
   source: Circular Online
   title: 100 firefighters called to fire at waste facility in London
-- category: supply-chain
-  description: Gartner says procurement leaders need a companywide approach to tracking
-    AI spending, suppliers, data rights, risks, and results.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procurement-leaders-urged-to-manage-ai-as-its-own-category
-  pub_date: '2026-08-18T13:00:00'
-  source: Supply Chain 24/7
-  title: Procurement Leaders Urged to Manage AI as Its Own Category
 - category: circular
   description: 200 tonnes of asbestos waste have been dumped at locations on the A10
     and A120 in Hertfordshire. The post 200 tonnes of asbestos waste dumped in Hertfordshire
@@ -154,22 +172,4 @@ articles:
   source: Circular Online
   title: 68% of people will return drinks containers during shopping trips, new research
     finds
-- category: circular
-  description: PackUK has launched a new digital service that allows local authorities
-    to access information about their Extended Producer Responsibility for packaging
-    grants. The post Digital service launched for l...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/digital-service-launched-for-local-authority-epr-packaging-grants/
-  pub_date: '2026-08-17T10:12:44'
-  source: Circular Online
-  title: Digital service launched for local authority EPR packaging grants
-- category: circular
-  description: The Chartered Institution of Wastes Management (CIWM) has called for
-    a 'swift and outright ban' on single-use barbeques. The post CIWM calls for outright
-    ban on all single-use barbeques appeared first...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-calls-for-outright-ban-on-all-difficult-to-dispose-of-barbeques/
-  pub_date: '2026-08-14T09:30:08'
-  source: Circular Online
-  title: CIWM calls for outright ban on all single-use barbeques
-last_updated: '2026-08-24T06:57:06.842438'
+last_updated: '2026-08-25T06:46:07.046939'
