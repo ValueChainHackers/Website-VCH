@@ -1,5 +1,71 @@
 articles:
 - category: supply-chain
+  description: Old Dominion plans a $10 million, 40-door freight facility on a 19-acre
+    Baton Rouge property near several shipping and distribution operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/old-dominion-baton-rouge-louisiana-freight-facility
+  pub_date: '2026-08-25T13:50:00'
+  source: Supply Chain 24/7
+  title: Old Dominion Plans $10 Million Freight Facility in Baton Rouge
+- category: supply-chain
+  description: Learn how AI in warehousing supports cost reduction, productivity,
+    labor optimization and faster decisions, plus a practical framework for implementation.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-should-warehouse-leaders-use-ai-to-improve-performance
+  pub_date: '2026-08-25T13:44:00'
+  source: Supply Chain 24/7
+  title: How Should Warehouse Leaders Use AI to Improve Performance?
+- category: supply-chain
+  description: School supply chains face strict safety rules, unpredictable demand,
+    and tight deadlines when delivering hands-on math materials to classrooms.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/classroom-math-materials-school-supply-chain-challenges
+  pub_date: '2026-08-25T13:32:00'
+  source: Supply Chain 24/7
+  title: How Classroom Math Kits Became a Serious Supply Chain Challenge
+- category: supply-chain
+  description: LG Energy Solution has begun production at a $2 billion battery plant
+    in Lansing, Michigan, to supply Toyota electric vehicles and energy storage projects.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/lg-energy-solution-michigan-battery-plant-toyota-ev-production
+  pub_date: '2026-08-25T13:16:00'
+  source: Supply Chain 24/7
+  title: LG Energy Starts Production at $2 Billion Michigan Battery Plant
+- category: supply-chain
+  description: Descartes acquired Tai Software for approximately $100 million, adding
+    AI-powered freight brokerage tools and shipment data to its logistics network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/descartes-acquires-tai-freight-brokerage-software-100-million
+  pub_date: '2026-08-25T13:09:00'
+  source: Supply Chain 24/7
+  title: Descartes Buys Freight Brokerage Software Provider Tai for $100 Million
+- category: supply-chain
+  description: Explore five supply chain trends of 2026, including connected networks,
+    tariff compliance, smart packaging, traceability, AI, automation, and resilience.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-supply-chains-prepare-for-disruption-in-2026
+  pub_date: '2026-08-25T12:11:00'
+  source: Supply Chain 24/7
+  title: How Should Supply Chains Prepare for Disruption in 2026?
+- category: circular
+  description: The Ellen MacArthur Foundation is working to co-design and deliver
+    a national textiles circularity policy framework for the United Arab Emirates
+    (UAE). The post Ellen MacArthur Foundation to co-design...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ellen-macarthur-foundation-to-co-design-uae-textiles-circularity-policy/
+  pub_date: '2026-08-25T09:43:43'
+  source: Circular Online
+  title: Ellen MacArthur Foundation to co-design UAE textiles circularity policy
+- category: circular
+  description: An illegal waste site in Sheffield, South Yorkshire, has been cleared
+    following a successful court case brought by the Environment Agency. The post
+    Sheffield waste site cleared after illegal dumping i...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/sheffield-waste-site-cleared-after-illegal-dumping-investigation/
+  pub_date: '2026-08-25T09:11:05'
+  source: Circular Online
+  title: Sheffield waste site cleared after illegal dumping investigation
+- category: supply-chain
   description: ATA CEO Chris Spear stepped down immediately, three years before his
     contract expired, leaving the trucking group searching for a new leader.
   icon: fa-box
@@ -31,22 +97,6 @@ articles:
   pub_date: '2026-08-24T12:43:00'
   source: Supply Chain 24/7
   title: New Orleans Port Gets Federal Approval for $1.8 Billion Terminal
-- category: supply-chain
-  description: Learn how cost-to-serve and labor management can help warehouses improve
-    profitability, fulfillment reliability, data use, and operational alignment.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-warehouses-use-cost-to-serve-to-improve-profitability
-  pub_date: '2026-08-24T12:25:00'
-  source: Supply Chain 24/7
-  title: How Should Warehouses Use Cost-to-Serve to Improve Profitability?
-- category: supply-chain
-  description: Diesel prices climbed 31% year over year in July, adding about $177
-    to a 150-gallon fill-up, according to new data from Magnus Technologies.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/diesel-prices-july-2026-year-over-year-trucking-fuel-costs
-  pub_date: '2026-08-24T11:31:00'
-  source: Supply Chain 24/7
-  title: U.S. Diesel Prices Climb 31% Year Over Year to $4.96 a Gallon
 - category: circular
   description: A Scottish businessman who stripped almost GBP3 million in assets from
     his clinical waste firm has been banned as a company director for nine years.
@@ -65,39 +115,6 @@ articles:
   pub_date: '2026-08-24T08:44:28'
   source: Circular Online
   title: WRAP publishes Recycle Week toolkit
-- category: supply-chain
-  description: Eight steps to help companies prepare their data, processes, and people
-    to use AI for faster, more informed supply chain decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/eight-steps-ai-supply-chain-resilience
-  pub_date: '2026-08-21T15:08:00'
-  source: Supply Chain 24/7
-  title: Eight Ways to Build a More Resilient Supply Chain With AI
-- category: supply-chain
-  description: Amazon will build a multibillion-dollar robotics plant in Austin that
-    is expected to create between 300 and 500 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-austin-texas-robotics-manufacturing-plant
-  pub_date: '2026-08-21T14:02:00'
-  source: Supply Chain 24/7
-  title: Amazon Plans Multibillion-Dollar Robotics Plant in Austin
-- category: supply-chain
-  description: Learn how integrated food labeling connects live production data to
-    governed templates to improve accuracy, reduce manual work, and lower compliance
-    risk.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-food-manufacturers-automate-labeling-workflows
-  pub_date: '2026-08-21T13:58:00'
-  source: Supply Chain 24/7
-  title: How Should Food Manufacturers Automate Labeling Workflows?
-- category: supply-chain
-  description: Crowley will launch weekly container service connecting Houston with
-    Guatemala and Honduras, beginning with a Sept. 10 Houston arrival.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/crowley-houston-central-america-weekly-container-service
-  pub_date: '2026-08-21T13:47:00'
-  source: Supply Chain 24/7
-  title: Crowley Adds Weekly Service Between Houston and Central America
 - category: circular
   description: The government has announced it will fund the clean-up of three of
     the 'most serious illegal waste sites' in the country. The post Taxpayers to fund
@@ -153,23 +170,4 @@ articles:
   pub_date: '2026-08-19T08:07:54'
   source: Circular Online
   title: 100 firefighters called to fire at waste facility in London
-- category: circular
-  description: 200 tonnes of asbestos waste have been dumped at locations on the A10
-    and A120 in Hertfordshire. The post 200 tonnes of asbestos waste dumped in Hertfordshire
-    appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/200-tonnes-of-asbestos-waste-dumped-in-hertfordshire/
-  pub_date: '2026-08-18T10:12:42'
-  source: Circular Online
-  title: 200 tonnes of asbestos waste dumped in Hertfordshire
-- category: circular
-  description: 68% of people would be likely to return drinks containers during shopping
-    trips once the UK's Deposit Return Scheme launches, new research finds. The post
-    68% of people will return drinks containers d...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/68-of-people-will-return-drinks-containers-during-shopping-trips-new-research-finds/
-  pub_date: '2026-08-18T08:57:46'
-  source: Circular Online
-  title: 68% of people will return drinks containers during shopping trips, new research
-    finds
-last_updated: '2026-08-25T06:46:07.046939'
+last_updated: '2026-08-26T06:48:50.884813'
