@@ -1,4 +1,38 @@
 articles:
+- category: machine-learning
+  description: If you're responsible for turning data and AI strategy into enterprise
+    reality, this is a conversation worth being part of.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/08/corinium/the-data-ai-leadership-questions-that-will-define-the-next-stage-of-enterprise-ai
+  pub_date: '2026-08-25T17:00:34'
+  source: KDnuggets
+  title: The Data & AI Leadership Questions That Will Define the Next Stage of Enterprise
+    AI
+- category: ai-research
+  description: Illustration of ombre rainbow furniture items like a sofa, lamp, and
+    chair against a purple background
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/home-decor-tips/
+  pub_date: '2026-08-25T16:00:00'
+  source: Google AI Blog
+  title: 5 ways to upgrade your home decor with Google Search
+- category: machine-learning
+  description: Learn how Python dataclasses go beyond reducing boilerplate with custom
+    fields, validation, computed attributes, immutability, and memory optimization
+    techniques.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/python-dataclasses-beyond-the-boilerplate
+  pub_date: '2026-08-25T14:00:08'
+  source: KDnuggets
+  title: Python Data Classes Beyond the Boilerplate
+- category: machine-learning
+  description: Kimi Agent is a name that's come to cover a sprawling family, and untangling
+    it matters before judging any piece of it.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found
+  pub_date: '2026-08-25T12:00:47'
+  source: KDnuggets
+  title: I Tried Kimi Agent and Here’s What I Found
 - category: ai-research
   description: A new algorithm learns to anticipate the unprecedented scenarios that
     critical infrastructure and global supply chains are least prepared for.
@@ -79,14 +113,6 @@ articles:
   pub_date: '2026-08-19T14:00:55'
   source: KDnuggets
   title: How to Answer AI System Design Interview Questions
-- category: machine-learning
-  description: This article walks through five tools, one for each layer of the stack
-    from building the agent's logic to running all of it at scale.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production
-  pub_date: '2026-08-19T12:00:15'
-  source: KDnuggets
-  title: 5 Tools for Building and Deploying AI Agents in Production
 - category: ai-research
   description: A new method for surgically removing training examples from a model
     reveals that as datasets grow, the link between what a model learns and what it
@@ -97,22 +123,6 @@ articles:
   source: MIT AI News
   title: 'When AI art has no author: Study finds generated images often can’t be traced
     to training data'
-- category: machine-learning
-  description: Download Ollama, pull and serve Qwen3.8-27B, and launch it with OpenCode
-    using just three command lines.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands
-  pub_date: '2026-08-18T14:00:29'
-  source: KDnuggets
-  title: Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands
-- category: machine-learning
-  description: Is vibe coding the future of programming or a shortcut to bad code?
-    Let's look at what it gets right and wrong.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong
-  pub_date: '2026-08-18T12:00:12'
-  source: KDnuggets
-  title: 5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong
 - category: ai-research
   description: In his latest book, Professor Eugene Fitzgerald examines the forces
     that turn breakthroughs into value - and why innovation resists simple formulas.
@@ -231,12 +241,4 @@ articles:
   pub_date: '2026-07-28T13:00:00'
   source: Google AI Blog
   title: 5 ways AI Mode in Search helps you enjoy the real world
-- category: ai-research
-  description: An illustrated black magnifying glass with a sparkle in a white circle
-    surrounded by a dinner party tablescape
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/
-  pub_date: '2026-07-28T13:00:00'
-  source: Google AI Blog
-  title: 5 ways to host the ultimate dinner party with Google Search
-last_updated: '2026-08-25T06:46:08.054854'
+last_updated: '2026-08-26T06:48:51.731786'
