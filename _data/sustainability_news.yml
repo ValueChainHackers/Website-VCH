@@ -1,4 +1,30 @@
 articles:
+- category: circular
+  description: The UK Government has delayed its plan to expand the Emissions Trading
+    Scheme to include Energy-from-Waste and waste incineration. The post UK delays
+    ETS expansion to include waste incineration appear...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-delays-ets-expansion-to-include-waste-incineration/
+  pub_date: '2026-08-27T09:29:40'
+  source: Circular Online
+  title: UK delays ETS expansion to include waste incineration
+- category: supply-chain
+  description: A new Gartner report says AI and computer vision could replace manual
+    hospital inventory counts and trigger replenishment with little employee involvement.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-hospital-supply-room-inventory-counting
+  pub_date: '2026-08-26T13:37:00'
+  source: Supply Chain 24/7
+  title: Hospitals Could Soon Let AI Count and Reorder Their Supplies
+- category: circular
+  description: The Circular Economy Institute (CEI) has launched the CEI Business
+    Excellence Partner programme to verify organisational circular progress. The post
+    Circular Economy Institute launches 'Business Excel...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/circular-economy-institute-launches-business-excellence-partner-programme/
+  pub_date: '2026-08-26T07:54:22'
+  source: Circular Online
+  title: Circular Economy Institute launches ‘Business Excellence Partner’ programme
 - category: supply-chain
   description: Old Dominion plans a $10 million, 40-door freight facility on a 19-acre
     Baton Rouge property near several shipping and distribution operations.
@@ -89,14 +115,6 @@ articles:
   pub_date: '2026-08-24T13:19:00'
   source: Supply Chain 24/7
   title: 'U.S.-Canada Tariffs: Which Products Are Affected on Both Sides'
-- category: supply-chain
-  description: The Port of New Orleans received federal approval to build a $1.8 billion
-    container terminal for larger cargo ships in Violet, Louisiana.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/new-orleans-port-louisiana-container-terminal-federal-permit
-  pub_date: '2026-08-24T12:43:00'
-  source: Supply Chain 24/7
-  title: New Orleans Port Gets Federal Approval for $1.8 Billion Terminal
 - category: circular
   description: A Scottish businessman who stripped almost GBP3 million in assets from
     his clinical waste firm has been banned as a company director for nine years.
@@ -152,22 +170,4 @@ articles:
   pub_date: '2026-08-20T08:25:53'
   source: Circular Online
   title: PM announces new powers to tackle waste crime
-- category: circular
-  description: A waste and recycling company has been fined GBP400,000 after an employee
-    was seriously injured after being struck by a moving vehicle at its site in Basildon.
-    The post Waste and recycling company fin...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-and-recycling-company-fined-400000-after-employee-struck-by-vehicle/
-  pub_date: '2026-08-19T08:48:54'
-  source: Circular Online
-  title: Waste and recycling company fined £400,000 after employee struck by vehicle
-- category: circular
-  description: 15 fire engines and around 100 firefighters were called to a fire at
-    a waste facility in Deptford last night. The post 100 firefighters called to fire
-    at waste facility in London appeared first on Cir...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/100-firefighters-called-to-fire-at-waste-facility-in-london/
-  pub_date: '2026-08-19T08:07:54'
-  source: Circular Online
-  title: 100 firefighters called to fire at waste facility in London
-last_updated: '2026-08-26T06:48:50.884813'
+last_updated: '2026-08-27T17:22:49.062221'
