@@ -1,4 +1,43 @@
 articles:
+- category: ai-research
+  description: Graphic depicting new travel features for AI Mode in Search
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/
+  pub_date: '2026-08-27T16:00:00'
+  source: Google AI Blog
+  title: 3 new ways to plan and book travel in Search
+- category: machine-learning
+  description: 'Hey, Google Engineers: What prompt do you personally refuse to work
+    without, and why?'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts
+  pub_date: '2026-08-27T14:00:24'
+  source: KDnuggets
+  title: What We Can Learn From Google Engineers’ Indispensible Prompts
+- category: machine-learning
+  description: Explore five distinct ways AI is reshaping jobs, from automating routine
+    tasks to thinning entry-level hiring.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets
+  pub_date: '2026-08-26T14:00:53'
+  source: KDnuggets
+  title: Understanding the Impact of AI on Job Markets
+- category: machine-learning
+  description: Everyone's using AI coding agents. Here's how to make yours actually
+    useful.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents
+  pub_date: '2026-08-26T12:00:50'
+  source: KDnuggets
+  title: 10 Rules for Getting Better Results from AI Coding Agents
+- category: ai-research
+  description: The "CrysVCD" tool developed at MIT could cut the huge amounts of time
+    and money spent on screening out chemically unstable designs.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
+  pub_date: '2026-08-26T09:00:00'
+  source: MIT AI News
+  title: AI helps design new materials that work in the real world
 - category: machine-learning
   description: If you're responsible for turning data and AI strategy into enterprise
     reality, this is a conversation worth being part of.
@@ -81,22 +120,6 @@ articles:
   pub_date: '2026-08-20T18:45:00'
   source: MIT AI News
   title: Paving the way for greener ammonia production
-- category: machine-learning
-  description: Three orientations, three different skill maps, and how to find the
-    one that fits where you actually stand.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways
-  pub_date: '2026-08-20T14:00:59'
-  source: KDnuggets
-  title: 'How to Build a Career in AI: 3 Distinct Pathways'
-- category: machine-learning
-  description: SWE-bench, Terminal-Bench, SlopCodeBench, ProgramBench, and more. Explore
-    the top 10 open-source benchmarks for evaluating AI coding agents.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026
-  pub_date: '2026-08-20T12:00:38'
-  source: KDnuggets
-  title: Top 10 Open-Source Benchmarks for AI Coding Agents in 2026
 - category: ai-research
   description: an illustrated image with icons and phrasing like "Add Notebook" and
     "Ask Google"
@@ -105,14 +128,6 @@ articles:
   pub_date: '2026-08-19T19:00:00'
   source: Google AI Blog
   title: 5 new ways to level up your learning with Search
-- category: machine-learning
-  description: The interview moved from Design YouTube to Design ChatGPT. Here's the
-    framework.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions
-  pub_date: '2026-08-19T14:00:55'
-  source: KDnuggets
-  title: How to Answer AI System Design Interview Questions
 - category: ai-research
   description: A new method for surgically removing training examples from a model
     reveals that as datasets grow, the link between what a model learns and what it
@@ -218,27 +233,10 @@ articles:
   source: MIT AI News
   title: Daniela Rus receives Bavarian Minister-President's High-Tech Prize
 - category: ai-research
-  description: MIT students and postdocs discussed science funding and research with
-    policymakers in Washington during the MIT Science Policy Initiative's annual Congressional
-    Visit Days.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730
-  pub_date: '2026-07-30T20:35:00'
-  source: MIT AI News
-  title: Connecting research to policy on Capitol Hill
-- category: ai-research
   description: Managed Agents Gemini 3.6 Flash, Hooks and Triggers
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
   pub_date: '2026-07-28T16:00:00'
   source: Google AI Blog
   title: 'Gemini API Managed Agents: 3.6 Flash, hooks, and more'
-- category: ai-research
-  description: Illustration of a black magnifying glass in a white circle on green
-    grass surrounded by items related to fun activities like tennis and games
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/
-  pub_date: '2026-07-28T13:00:00'
-  source: Google AI Blog
-  title: 5 ways AI Mode in Search helps you enjoy the real world
-last_updated: '2026-08-26T06:48:51.731786'
+last_updated: '2026-08-27T17:22:49.814403'
