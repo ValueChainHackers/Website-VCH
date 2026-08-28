@@ -1,4 +1,30 @@
 articles:
+- category: machine-learning
+  description: A practical framework for choosing the right tools at each layer of
+    your local AI setup, from model serving to context retrieval.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms
+  pub_date: '2026-08-28T14:00:54'
+  source: KDnuggets
+  title: The Local AI Stack for Productive SLMs
+- category: machine-learning
+  description: This article walks through what each technique actually does, why skipping
+    them costs real money and real latency, and then gets hands-on with five specific
+    methods people are running in production ri...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/quantization-and-pruning-methods-to-make-your-llm-leaner
+  pub_date: '2026-08-28T12:00:55'
+  source: KDnuggets
+  title: Quantization and Pruning Methods to Make Your LLM Leaner
+- category: ai-research
+  description: A new machine-learning framework aims to improve the success rate of
+    computational protein design while moving away from results that reproduce sequences
+    found in nature.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
+  pub_date: '2026-08-27T19:20:00'
+  source: MIT AI News
+  title: Looking beyond natural sequences
 - category: ai-research
   description: Graphic depicting new travel features for AI Mode in Search
   icon: fa-google
@@ -96,22 +122,6 @@ articles:
   pub_date: '2026-08-24T12:00:06'
   source: KDnuggets
   title: Build an End-to-End Data Science Project with Grok Build and Grok 4.6
-- category: machine-learning
-  description: Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash
-    speculative decoding, and Pi for fast, private, agentic AI coding.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi
-  pub_date: '2026-08-21T14:00:58'
-  source: KDnuggets
-  title: Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi
-- category: machine-learning
-  description: See how AI agents are autonomously handling support, coding, supply
-    chains, healthcare, and fraud detection today.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries
-  pub_date: '2026-08-21T12:00:41'
-  source: KDnuggets
-  title: 5 Real-World Use Cases for AI Agents Transforming Industries
 - category: ai-research
   description: New MIT research could lead to better materials for a fossil-fuel-free
     process for making the chemical that's essential to fertilizer and other products.
@@ -225,18 +235,10 @@ articles:
   source: Google AI Blog
   title: Inside our 353,000-person vibe coding course
 - category: ai-research
-  description: Director of CSAIL and MIT professor honored for her contributions to
-    robotics, artificial intelligence, and autonomous systems.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730
-  pub_date: '2026-07-30T21:00:00'
-  source: MIT AI News
-  title: Daniela Rus receives Bavarian Minister-President's High-Tech Prize
-- category: ai-research
   description: Managed Agents Gemini 3.6 Flash, Hooks and Triggers
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
   pub_date: '2026-07-28T16:00:00'
   source: Google AI Blog
   title: 'Gemini API Managed Agents: 3.6 Flash, hooks, and more'
-last_updated: '2026-08-27T17:22:49.814403'
+last_updated: '2026-08-28T18:15:47.771483'

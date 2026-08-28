@@ -1,5 +1,55 @@
 articles:
 - category: circular
+  description: News updates written by CIWM's commercial partners. Plan B Supporting
+    Food Banks, Supporting Our Communities FCC Environment Greatmoor Energy from Waste
+    Facility marks 10 years of operation with Bucki...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-28-august/
+  pub_date: '2026-08-28T11:06:00'
+  source: Circular Online
+  title: News in Brief | Commercial Partner News 28 August
+- category: circular
+  description: More than 22,000 tonnes of illegally dumped waste have now been removed
+    from the Oxfordshire site, costing the taxpayer GBP6 million. The post Clean-up
+    of 22,000-tonne illegal waste site in Kidlington...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/clean-up-of-22000-tonne-illegal-waste-site-in-kidlington-costs-6m/
+  pub_date: '2026-08-28T09:36:05'
+  source: Circular Online
+  title: Clean-up of 22,000-tonne illegal waste site in Kidlington costs £6m
+- category: supply-chain
+  description: Aptean CEO TVN Reddy shares how books, career risks, a failed startup,
+    and years of preparation shaped his approach to leadership.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-tvn-reddy-aptean
+  pub_date: '2026-08-27T15:16:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: TVN Reddy, CEO of Aptean'
+- category: supply-chain
+  description: USPS wants to raise peak season package rates by as much as $20.80,
+    with heavy and long-distance shipments facing the biggest increases.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-2026-peak-season-package-rate-increases
+  pub_date: '2026-08-27T15:15:00'
+  source: Supply Chain 24/7
+  title: USPS Plans Peak Rate Hikes for Heavy, Long-Distance Packages
+- category: supply-chain
+  description: Mubadala Capital is acquiring a majority stake in Arrive Logistics,
+    giving the freight broker new backing for hiring, growth, and technology.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/mubadala-capital-takes-majority-stake-in-arrive-logistics
+  pub_date: '2026-08-27T15:10:00'
+  source: Supply Chain 24/7
+  title: Mubadala Capital Takes Majority Stake in Arrive Logistics
+- category: supply-chain
+  description: DHL explains how sensors, real-time data, and 24/7 monitoring help
+    protect sensitive medical shipments throughout their journey.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/inside-dhls-system-for-protecting-medical-shipments
+  pub_date: '2026-08-27T14:05:00'
+  source: Supply Chain 24/7
+  title: Inside DHL’s System for Protecting Medical Shipments
+- category: circular
   description: The UK Government has delayed its plan to expand the Emissions Trading
     Scheme to include Energy-from-Waste and waste incineration. The post UK delays
     ETS expansion to include waste incineration appear...
@@ -65,14 +115,6 @@ articles:
   pub_date: '2026-08-25T13:09:00'
   source: Supply Chain 24/7
   title: Descartes Buys Freight Brokerage Software Provider Tai for $100 Million
-- category: supply-chain
-  description: Explore five supply chain trends of 2026, including connected networks,
-    tariff compliance, smart packaging, traceability, AI, automation, and resilience.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-supply-chains-prepare-for-disruption-in-2026
-  pub_date: '2026-08-25T12:11:00'
-  source: Supply Chain 24/7
-  title: How Should Supply Chains Prepare for Disruption in 2026?
 - category: circular
   description: The Ellen MacArthur Foundation is working to co-design and deliver
     a national textiles circularity policy framework for the United Arab Emirates
@@ -91,30 +133,6 @@ articles:
   pub_date: '2026-08-25T09:11:05'
   source: Circular Online
   title: Sheffield waste site cleared after illegal dumping investigation
-- category: supply-chain
-  description: ATA CEO Chris Spear stepped down immediately, three years before his
-    contract expired, leaving the trucking group searching for a new leader.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ata-ceo-chris-spear-steps-down-contract-2029
-  pub_date: '2026-08-24T15:27:00'
-  source: Supply Chain 24/7
-  title: ATA CEO Chris Spear Steps Down Three Years Before Contract Ends
-- category: supply-chain
-  description: AI and real-time data are pushing shippers to rethink transportation
-    outsourcing, private fleets, carrier partnerships, and hidden freight costs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-ai-is-changing-transportation-outsourcing-decisions
-  pub_date: '2026-08-24T13:52:00'
-  source: Supply Chain 24/7
-  title: How AI Is Changing the Transportation Outsourcing Decision
-- category: supply-chain
-  description: Donald Trump's new 50% Canada tariffs cover machinery, electrical equipment
-    and other goods, while energy and critical minerals are exempt.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trump-canada-tariffs-products-affected
-  pub_date: '2026-08-24T13:19:00'
-  source: Supply Chain 24/7
-  title: 'U.S.-Canada Tariffs: Which Products Are Affected on Both Sides'
 - category: circular
   description: A Scottish businessman who stripped almost GBP3 million in assets from
     his clinical waste firm has been banned as a company director for nine years.
@@ -152,22 +170,4 @@ articles:
   pub_date: '2026-08-20T13:14:50'
   source: Circular Online
   title: Welsh Government appoints Exchange for Change as DRS administrator
-- category: circular
-  description: A clinical waste disposal company has been fined GBP300,000 after one
-    of its workers severed his arm from the elbow down while unblocking machinery.
-    The man, 42, had been working a night shift at Trad...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/clinical-waste-disposal-company-fined-300000-after-employee-severs-arms/
-  pub_date: '2026-08-20T09:39:53'
-  source: Circular Online
-  title: Clinical waste disposal company fined £300,000 after employee severs arms
-- category: circular
-  description: The Prime Minister has announced that mayors, council leaders, and
-    the Environment Agency will be given new powers to tackle waste crime. The post
-    PM announces new powers to tackle waste crime appeare...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/pm-announces-new-powers-to-tackle-waste-crime/
-  pub_date: '2026-08-20T08:25:53'
-  source: Circular Online
-  title: PM announces new powers to tackle waste crime
-last_updated: '2026-08-27T17:22:49.062221'
+last_updated: '2026-08-28T18:15:46.614855'
