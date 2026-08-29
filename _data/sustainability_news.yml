@@ -1,4 +1,28 @@
 articles:
+- category: supply-chain
+  description: Solstice and Element canceled their $14.5 billion merger after investors
+    pushed for the materials companies to remain independent.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/solstice-element-cancel-14-billion-materials-merger
+  pub_date: '2026-08-28T14:44:00'
+  source: Supply Chain 24/7
+  title: Solstice and Element Scrap $14.5 Billion Manufacturing Deal
+- category: supply-chain
+  description: Fuel surcharges are rising faster than carrier costs, adding millions
+    to profits while retailers and manufacturers face higher shipping bills.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/carrier-fuel-surcharges-profits-union-pacific-ups-fedex
+  pub_date: '2026-08-28T14:31:00'
+  source: Supply Chain 24/7
+  title: Higher Fuel Surcharges Are Putting More Money in Carrier Pockets
+- category: supply-chain
+  description: Wiliot's Amir Khoshniyati explains how item-level tracking could help
+    shippers detect cargo theft before products disappear.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/cargo-theft-item-level-tracking-supply-chain-visibility
+  pub_date: '2026-08-28T14:11:00'
+  source: Supply Chain 24/7
+  title: What a $2 Million Nike Theft Reveals About Cargo Security
 - category: circular
   description: News updates written by CIWM's commercial partners. Plan B Supporting
     Food Banks, Supporting Our Communities FCC Environment Greatmoor Energy from Waste
@@ -91,30 +115,6 @@ articles:
   pub_date: '2026-08-25T13:44:00'
   source: Supply Chain 24/7
   title: How Should Warehouse Leaders Use AI to Improve Performance?
-- category: supply-chain
-  description: School supply chains face strict safety rules, unpredictable demand,
-    and tight deadlines when delivering hands-on math materials to classrooms.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/classroom-math-materials-school-supply-chain-challenges
-  pub_date: '2026-08-25T13:32:00'
-  source: Supply Chain 24/7
-  title: How Classroom Math Kits Became a Serious Supply Chain Challenge
-- category: supply-chain
-  description: LG Energy Solution has begun production at a $2 billion battery plant
-    in Lansing, Michigan, to supply Toyota electric vehicles and energy storage projects.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lg-energy-solution-michigan-battery-plant-toyota-ev-production
-  pub_date: '2026-08-25T13:16:00'
-  source: Supply Chain 24/7
-  title: LG Energy Starts Production at $2 Billion Michigan Battery Plant
-- category: supply-chain
-  description: Descartes acquired Tai Software for approximately $100 million, adding
-    AI-powered freight brokerage tools and shipment data to its logistics network.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/descartes-acquires-tai-freight-brokerage-software-100-million
-  pub_date: '2026-08-25T13:09:00'
-  source: Supply Chain 24/7
-  title: Descartes Buys Freight Brokerage Software Provider Tai for $100 Million
 - category: circular
   description: The Ellen MacArthur Foundation is working to co-design and deliver
     a national textiles circularity policy framework for the United Arab Emirates
@@ -170,4 +170,4 @@ articles:
   pub_date: '2026-08-20T13:14:50'
   source: Circular Online
   title: Welsh Government appoints Exchange for Change as DRS administrator
-last_updated: '2026-08-28T18:15:46.614855'
+last_updated: '2026-08-29T12:24:16.374195'
