@@ -1,5 +1,22 @@
 articles:
 - category: machine-learning
+  description: It's about the mistakes that make a running program wrong. Below are
+    seven of them. For each one you get the hidden cause, plus the first thing worth
+    checking.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead
+  pub_date: '2026-08-31T12:00:34'
+  source: KDnuggets
+  title: 7 Python Mistakes Beginners Make (And What to Do Instead)
+- category: ai-research
+  description: With millions of users across the world, Julia has been used to conduct
+    cutting-edge research and to design new drugs, jet engines, heat pumps, and more.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831
+  pub_date: '2026-08-31T04:00:00'
+  source: MIT AI News
+  title: How an MIT research project became a global programming language
+- category: machine-learning
   description: A practical framework for choosing the right tools at each layer of
     your local AI setup, from model serving to context retrieval.
   icon: fa-chart-bar
@@ -114,14 +131,6 @@ articles:
   pub_date: '2026-08-24T14:00:13'
   source: KDnuggets
   title: How to Leverage Local Small Language Models for Your Projects
-- category: machine-learning
-  description: Use Grok Build to create a production-ready data science workflow with
-    EDA, scikit-learn, model training, FastAPI, API testing, and cloud deployment.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6
-  pub_date: '2026-08-24T12:00:06'
-  source: KDnuggets
-  title: Build an End-to-End Data Science Project with Grok Build and Grok 4.6
 - category: ai-research
   description: New MIT research could lead to better materials for a fossil-fuel-free
     process for making the chemical that's essential to fertilizer and other products.
@@ -219,15 +228,6 @@ articles:
   source: MIT AI News
   title: The benefits of medical AI assistance vary based on user expertise
 - category: ai-research
-  description: An expert in machine learning, statistics, and computation, Rakhlin
-    succeeds Professor Ankur Moitra.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803
-  pub_date: '2026-08-03T19:50:00'
-  source: MIT AI News
-  title: Alexander Rakhlin named director of  the MIT Statistics and Data Science
-    Center
-- category: ai-research
   description: Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/
@@ -241,4 +241,4 @@ articles:
   pub_date: '2026-07-28T16:00:00'
   source: Google AI Blog
   title: 'Gemini API Managed Agents: 3.6 Flash, hooks, and more'
-last_updated: '2026-08-30T11:22:54.443235'
+last_updated: '2026-08-31T12:52:37.093658'
