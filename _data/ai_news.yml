@@ -1,4 +1,28 @@
 articles:
+- category: ai-research
+  description: The PhD student works to give young people an active role in shaping
+    digital technologies that can support their own well-being.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901
+  pub_date: '2026-09-01T04:00:00'
+  source: MIT AI News
+  title: 'Ila Kumar: Innovating with communities'
+- category: ai-research
+  description: The Institute welcomes its first cohort of QMIT Fellows this fall to
+    advance interdisciplinary quantum research.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831
+  pub_date: '2026-08-31T19:30:00'
+  source: MIT AI News
+  title: MIT Quantum Initiative launches postdoctoral fellowship program
+- category: machine-learning
+  description: Learn how DSpark speculative decoding can improve local LLM generation
+    speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding
+  pub_date: '2026-08-31T14:00:00'
+  source: KDnuggets
+  title: Speed Up LLM Inference with DSpark Speculative Decoding
 - category: machine-learning
   description: It's about the mistakes that make a running program wrong. Below are
     seven of them. For each one you get the hidden cause, plus the first thing worth
@@ -123,14 +147,6 @@ articles:
   pub_date: '2026-08-24T18:00:00'
   source: MIT AI News
   title: Generating scenarios for extreme events, without extreme data
-- category: machine-learning
-  description: A practical guide to running compact, privacy-preserving language models
-    on your own hardware for faster, cheaper, and more controllable AI-powered applications.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects
-  pub_date: '2026-08-24T14:00:13'
-  source: KDnuggets
-  title: How to Leverage Local Small Language Models for Your Projects
 - category: ai-research
   description: New MIT research could lead to better materials for a fossil-fuel-free
     process for making the chemical that's essential to fertilizer and other products.
@@ -205,28 +221,12 @@ articles:
   source: Google AI Blog
   title: Evolve your marketing with new AI tools
 - category: ai-research
-  description: By focusing on electrolytes, MIT scientists are making sodium-metal
-    batteries a more practical energy storage option.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804
-  pub_date: '2026-08-04T18:50:00'
-  source: MIT AI News
-  title: Solving the solvent problem
-- category: ai-research
   description: July AI recap header
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
   pub_date: '2026-08-04T13:00:00'
   source: Google AI Blog
   title: The latest AI news we announced in July 2026
-- category: ai-research
-  description: Study finds non-experts deferred to LLM-based diagnostic assistance,
-    even when it was wrong, while clinicians caught AI errors.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804
-  pub_date: '2026-08-04T09:00:00'
-  source: MIT AI News
-  title: The benefits of medical AI assistance vary based on user expertise
 - category: ai-research
   description: Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube
   icon: fa-google
@@ -241,4 +241,4 @@ articles:
   pub_date: '2026-07-28T16:00:00'
   source: Google AI Blog
   title: 'Gemini API Managed Agents: 3.6 Flash, hooks, and more'
-last_updated: '2026-08-31T12:52:37.093658'
+last_updated: '2026-09-01T11:11:55.136688'
