@@ -1,5 +1,89 @@
 articles:
 - category: supply-chain
+  description: Box trucks can fill the gap between LTL and truckload for mid-sized,
+    oversized, high-value, or hard-to-deliver freight.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/box-truck-freight-shipping
+  pub_date: '2026-09-01T15:12:00'
+  source: Supply Chain 24/7
+  title: When is a Box Truck the Right Fit for Your Freight?
+- category: supply-chain
+  description: Locus Robotics has raised $41.6 million from existing investors, with
+    its Series G round remaining open to additional funding.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/locus-robotics-41-million-series-g-funding
+  pub_date: '2026-09-01T14:56:00'
+  source: Supply Chain 24/7
+  title: Locus Robotics Raises $41.6 Million in Series G Funding
+- category: supply-chain
+  description: Ports America will handle Jacksonville cargo operations and install
+    new technology for Trailer Bridge under a 10-year agreement.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ports-america-trailer-bridge-jacksonville-puerto-rico-deal
+  pub_date: '2026-09-01T14:12:00'
+  source: Supply Chain 24/7
+  title: Ports America, Trailer Bridge Sign 10-Year Jacksonville Deal
+- category: supply-chain
+  description: Descartes acquired Extensiv for $120 million, its second logistics
+    software purchase in eight days and its latest move into the 3PL market.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/descartes-acquires-extensiv-warehouse-software
+  pub_date: '2026-09-01T13:49:00'
+  source: Supply Chain 24/7
+  title: Descartes Buys Warehouse Software Firm Extensiv for $120 Million
+- category: supply-chain
+  description: Explore 2026 supply chain trends including labor challenges, rising
+    costs, AI, automation, inventory optimization, visibility, resilience and sustainability.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/what-should-supply-chain-leaders-prioritize-in-2026
+  pub_date: '2026-09-01T13:30:00'
+  source: Supply Chain 24/7
+  title: What Should Supply Chain Leaders Prioritize in 2026?
+- category: supply-chain
+  description: Rolls-Royce completed a $1 billion Indiana expansion to increase manufacturing
+    and testing of U.S. military aircraft engines.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rolls-royce-billion-dollar-indiana-manufacturing-expansion
+  pub_date: '2026-09-01T13:20:00'
+  source: Supply Chain 24/7
+  title: Rolls-Royce Completes $1 Billion Indiana Manufacturing Upgrade
+- category: supply-chain
+  description: Purina opened a $550 million automated factory in Ohio that can produce
+    enough food for approximately 8 million pets each year.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/purina-opens-550-million-automated-pet-food-plant-in-ohio
+  pub_date: '2026-09-01T13:15:00'
+  source: Supply Chain 24/7
+  title: Purina Opens $550 Million Automated Pet Food Plant in Ohio
+- category: circular
+  description: ScottishPower has reported a 99.9% combined reuse and recycling rate
+    for materials from the decommissioning of the original Hagshaw Hill wind farm
+    in South Lanarkshire. According to the company, a rep...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/scottishpower-reports-99-9-reuse-and-recycling-at-hagshaw-hill/
+  pub_date: '2026-09-01T12:41:59'
+  source: Circular Online
+  title: ScottishPower reports 99.9% reuse and recycling at Hagshaw Hill wind farm
+    decommissioning
+- category: circular
+  description: From April 2027, chemically recycled plastic may count towards the
+    Plastic Packaging Tax's 30% threshold only when attributed through a qualifying
+    certified mass-balance supply chain. HM Revenue & Cus...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/hmrc-sets-mass-balance-requirements-for-chemically-recycled-plastic/
+  pub_date: '2026-09-01T12:38:12'
+  source: Circular Online
+  title: HMRC sets mass-balance requirements for chemically recycled plastic
+- category: circular
+  description: The Local Government Association has called for producers and compliance
+    schemes to meet additional council costs as treatment constraints disrupt fridge
+    and freezer collections. The post Councils see...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/councils-seek-producer-funding-amid-fridge-treatment-capacity-shortage/
+  pub_date: '2026-09-01T12:32:31'
+  source: Circular Online
+  title: Councils seek producer funding amid fridge treatment capacity shortage
+- category: supply-chain
   description: Fraudulent pickup documents were allegedly used to steal 40,000 pounds
     of Pabst beer from a California distribution center.
   icon: fa-box
@@ -23,62 +107,6 @@ articles:
   pub_date: '2026-08-31T14:10:00'
   source: Supply Chain 24/7
   title: $750 Million CANXPORT Facility Opens in British Columbia
-- category: supply-chain
-  description: Zebra's Andre Luecht explains why back-to-school planning starts months
-    ahead and how the season tests warehouse operations before the holidays.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/back-to-school-warehouse-retail-inventory-planning
-  pub_date: '2026-08-31T13:41:00'
-  source: Supply Chain 24/7
-  title: How Warehouses Prepare Months Ahead for Back-to-School
-- category: supply-chain
-  description: An Atradius study found that just 15 countries account for up to 90%
-    of AI supply chain exports, leaving chip and equipment trade with few backup sources.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-supply-chain-exports-concentrated-15-countries
-  pub_date: '2026-08-31T13:25:00'
-  source: Supply Chain 24/7
-  title: A Small Group of Countries Dominates AI Supply Chain Trade
-- category: supply-chain
-  description: Trucker Path and Corgi Insurance have launched what they call the first
-    trucking insurance plan to use route data when assessing fleet risk.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trucker-path-corgi-launch-first-insurance-plan-using-route-data
-  pub_date: '2026-08-31T13:23:00'
-  source: Supply Chain 24/7
-  title: Trucker Path, Corgi Launch First Insurance Plan Using Route Data
-- category: supply-chain
-  description: Deposco's Shopify POS extension lets store workers check inventory,
-    route orders, receive goods, and manage pickup and shipping in one place.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/deposco-adds-inventory-management-tools-to-shopify-pos
-  pub_date: '2026-08-31T13:19:00'
-  source: Supply Chain 24/7
-  title: Deposco Adds Inventory Management Tools to Shopify POS
-- category: supply-chain
-  description: Solstice and Element canceled their $14.5 billion merger after investors
-    pushed for the materials companies to remain independent.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/solstice-element-cancel-14-billion-materials-merger
-  pub_date: '2026-08-28T14:44:00'
-  source: Supply Chain 24/7
-  title: Solstice and Element Scrap $14.5 Billion Manufacturing Deal
-- category: supply-chain
-  description: Fuel surcharges are rising faster than carrier costs, adding millions
-    to profits while retailers and manufacturers face higher shipping bills.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/carrier-fuel-surcharges-profits-union-pacific-ups-fedex
-  pub_date: '2026-08-28T14:31:00'
-  source: Supply Chain 24/7
-  title: Higher Fuel Surcharges Are Putting More Money in Carrier Pockets
-- category: supply-chain
-  description: Wiliot's Amir Khoshniyati explains how item-level tracking could help
-    shippers detect cargo theft before products disappear.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cargo-theft-item-level-tracking-supply-chain-visibility
-  pub_date: '2026-08-28T14:11:00'
-  source: Supply Chain 24/7
-  title: What a $2 Million Nike Theft Reveals About Cargo Security
 - category: circular
   description: News updates written by CIWM's commercial partners. Plan B Supporting
     Food Banks, Supporting Our Communities FCC Environment Greatmoor Energy from Waste
@@ -142,32 +170,4 @@ articles:
   pub_date: '2026-08-24T11:11:06'
   source: Circular Online
   title: Former waste firm boss banned as company director for 9 years
-- category: circular
-  description: Recycle Now, the citizen campaign managed by global environmental action
-    NGO WRAP, has published the 2026 Recycle Week Toolkit. The post WRAP publishes
-    Recycle Week toolkit appeared first on Circular ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wrap-publishes-recycle-week-toolkit/
-  pub_date: '2026-08-24T08:44:28'
-  source: Circular Online
-  title: WRAP publishes Recycle Week toolkit
-- category: circular
-  description: The government has announced it will fund the clean-up of three of
-    the 'most serious illegal waste sites' in the country. The post Taxpayers to fund
-    clearance of illegal dumps in West Yorkshire, Surre...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/taxpayers-to-fund-clearance-of-illegal-dumps-in-west-yorkshire-surrey-and-kent/
-  pub_date: '2026-08-21T09:48:22'
-  source: Circular Online
-  title: Taxpayers to fund clearance of illegal dumps in West Yorkshire, Surrey and
-    Kent
-- category: circular
-  description: The Welsh Government has announced the appointment of Exchange for
-    Change as the Deposit Management Organisation for its Deposit Return Scheme (DRS).
-    The post Welsh Government appoints Exchange for Ch...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/breaking-welsh-government-appoint-exchange-for-change-as-drs-administrator/
-  pub_date: '2026-08-20T13:14:50'
-  source: Circular Online
-  title: Welsh Government appoints Exchange for Change as DRS administrator
-last_updated: '2026-09-01T11:11:54.289060'
+last_updated: '2026-09-02T10:45:27.534103'

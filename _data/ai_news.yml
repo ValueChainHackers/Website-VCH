@@ -1,5 +1,47 @@
 articles:
 - category: ai-research
+  description: The senior lecturer, already director of the degree program, will now
+    oversee all aspects of the center's activities and operations.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901
+  pub_date: '2026-09-01T21:25:00'
+  source: MIT AI News
+  title: Walter Torous named executive director of MIT Center for Real Estate
+- category: ai-research
+  description: 'Transitioning cards: 1. Text "Gemini 3.7 Flash" next to the Gemini
+    logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text "Claim
+    your student plan for 1 year at no cost"'
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/
+  pub_date: '2026-09-01T20:45:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in August 2026
+- category: ai-research
+  description: Collage of images created by Google Pics, with the text "Say hello
+    to Google Pics" on top
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/workspace/google-pics/
+  pub_date: '2026-09-01T16:00:00'
+  source: Google AI Blog
+  title: 'Try Google Pics: Easy image creation and editing in Google Workspace'
+- category: machine-learning
+  description: How to set up, use, and get the most out of a private, self-hosted
+    transcription platform with full control over where your audio goes
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/free-transcription-with-speakr
+  pub_date: '2026-09-01T14:00:47'
+  source: KDnuggets
+  title: Free Transcription with Speakr
+- category: machine-learning
+  description: A clean run proves the process executed. It says nothing about what
+    the pipeline learned, from which rows, in what state, or whether the saved result
+    can be trusted anywhere else.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-common-python-mistakes-to-avoid-in-ai-workflows
+  pub_date: '2026-09-01T12:00:21'
+  source: KDnuggets
+  title: 7 Common Python Mistakes to Avoid in AI Workflows
+- category: ai-research
   description: The PhD student works to give young people an active role in shaping
     digital technologies that can support their own well-being.
   icon: fa-graduation-cap
@@ -122,23 +164,6 @@ articles:
   pub_date: '2026-08-25T16:00:00'
   source: Google AI Blog
   title: 5 ways to upgrade your home decor with Google Search
-- category: machine-learning
-  description: Learn how Python dataclasses go beyond reducing boilerplate with custom
-    fields, validation, computed attributes, immutability, and memory optimization
-    techniques.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/python-dataclasses-beyond-the-boilerplate
-  pub_date: '2026-08-25T14:00:08'
-  source: KDnuggets
-  title: Python Data Classes Beyond the Boilerplate
-- category: machine-learning
-  description: Kimi Agent is a name that's come to cover a sprawling family, and untangling
-    it matters before judging any piece of it.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found
-  pub_date: '2026-08-25T12:00:47'
-  source: KDnuggets
-  title: I Tried Kimi Agent and Here’s What I Found
 - category: ai-research
   description: A new algorithm learns to anticipate the unprecedented scenarios that
     critical infrastructure and global supply chains are least prepared for.
@@ -205,15 +230,6 @@ articles:
   title: AMIE, our research medical AI system, demonstrates real-time clinical video
     consultation capabilities in a first-of-its-kind study.
 - category: ai-research
-  description: '"GeoPT" helps AI models understand the basics of physics so they can
-    simulate how objects respond to things like wind and water more efficiently and
-    accurately.'
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810
-  pub_date: '2026-08-10T19:25:00'
-  source: MIT AI News
-  title: With a feel for physics, AI models simulate a wider range of real-world scenarios
-- category: ai-research
   description: Advisor UI in Google Ads and Google Analytics
   icon: fa-google
   link: https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/
@@ -227,18 +243,4 @@ articles:
   pub_date: '2026-08-04T13:00:00'
   source: Google AI Blog
   title: The latest AI news we announced in July 2026
-- category: ai-research
-  description: Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/
-  pub_date: '2026-08-03T15:00:00'
-  source: Google AI Blog
-  title: Inside our 353,000-person vibe coding course
-- category: ai-research
-  description: Managed Agents Gemini 3.6 Flash, Hooks and Triggers
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
-  pub_date: '2026-07-28T16:00:00'
-  source: Google AI Blog
-  title: 'Gemini API Managed Agents: 3.6 Flash, hooks, and more'
-last_updated: '2026-09-01T11:11:55.136688'
+last_updated: '2026-09-02T10:45:28.299170'
