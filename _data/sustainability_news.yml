@@ -1,4 +1,81 @@
 articles:
+- category: circular
+  description: Drinks producers would pay no per-container producer fees for the first
+    15 months of the deposit return scheme under plans announced by Exchange for Change.
+    The proposed structure would set fees at 0p...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/zero-producer-fees-planned-for-deposit-return-schemes-first-15-months/
+  pub_date: '2026-09-03T08:11:49'
+  source: Circular Online
+  title: Zero producer fees planned for deposit return scheme’s first 15 months
+- category: circular
+  description: Fifteen designers have developed concepts to tackle vape fires, improve
+    battery recovery and reduce product waste through a pilot programme funded by
+    CIWM. The post Designers tackle vape fires and bat...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/designers-tackle-vape-fires-and-battery-recovery-in-circular-economy-pilot/
+  pub_date: '2026-09-03T08:06:31'
+  source: Circular Online
+  title: Designers tackle vape fires and battery recovery in circular economy pilot
+- category: supply-chain
+  description: Women hold 31% of trucking executive roles, but their share of driver
+    and diesel technician jobs remains low, a new report from Women In Trucking finds.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/women-trucking-workforce-leadership-driver-jobs
+  pub_date: '2026-09-02T16:54:00'
+  source: Supply Chain 24/7
+  title: Women Make Up as Little as 7% of Drivers at Large Trucking Firms
+- category: supply-chain
+  description: More than half of manufacturing CEOs say a major supply chain disruption
+    would begin affecting their operations within three weeks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/three-weeks-is-the-breaking-point-for-many-manufacturers
+  pub_date: '2026-09-02T14:07:00'
+  source: Supply Chain 24/7
+  title: Three Weeks Is the Breaking Point for Many Manufacturers
+- category: supply-chain
+  description: Novelis VP Edgar Acosta Chaparro explains how global experts and local
+    colleges are helping train workers at the company's Alabama plant.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/new-factories-need-workers-where-will-they-come-from
+  pub_date: '2026-09-02T13:27:00'
+  source: Supply Chain 24/7
+  title: New Factories Need Workers. Where Will They Come From?
+- category: supply-chain
+  description: Chobani plans to invest $1.2 billion in a Pennsylvania dairy plant
+    that will create more than 900 jobs and begin production in 2027.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/chobani-pennsylvania-dairy-plant-investment
+  pub_date: '2026-09-02T13:07:00'
+  source: Supply Chain 24/7
+  title: Chobani Plans $1.2 Billion Dairy Plant by Allentown, Pennsylvania
+- category: circular
+  description: Northern Ireland departments - and UK ministers making policy relating
+    to the region - must now have due regard to a statement explaining prevention,
+    precaution and polluter-pays principles, but the d...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-duty-requires-northern-ireland-departments-to-consider-polluter-pays/
+  pub_date: '2026-09-02T11:47:04'
+  source: Circular Online
+  title: New duty requires Northern Ireland departments to consider ‘polluter pays’
+- category: circular
+  description: Zero Waste Scotland is set to join NatureScot and the Scottish Environment
+    Protection Agency (SEPA) in a new national environment body under plans announced
+    in the Scottish Government's Programme for ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/zero-waste-scotland-to-join-new-national-environment-body/
+  pub_date: '2026-09-02T11:28:45'
+  source: Circular Online
+  title: Zero Waste Scotland to join new national environment body
+- category: circular
+  description: The West Midlands and Yorkshire had the highest report totals in 2025,
+    but the heatmaps include duplicate calls and do not record confirmed offences.
+    The post Environment Agency maps over 10,000 suspe...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/environment-agency-maps-10238-suspected-waste-crime-reports/
+  pub_date: '2026-09-02T11:04:30'
+  source: Circular Online
+  title: Environment Agency maps over 10,000 suspected waste-crime reports
 - category: supply-chain
   description: Box trucks can fill the gap between LTL and truckload for mid-sized,
     oversized, high-value, or hard-to-deliver freight.
@@ -47,14 +124,6 @@ articles:
   pub_date: '2026-09-01T13:20:00'
   source: Supply Chain 24/7
   title: Rolls-Royce Completes $1 Billion Indiana Manufacturing Upgrade
-- category: supply-chain
-  description: Purina opened a $550 million automated factory in Ohio that can produce
-    enough food for approximately 8 million pets each year.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/purina-opens-550-million-automated-pet-food-plant-in-ohio
-  pub_date: '2026-09-01T13:15:00'
-  source: Supply Chain 24/7
-  title: Purina Opens $550 Million Automated Pet Food Plant in Ohio
 - category: circular
   description: ScottishPower has reported a 99.9% combined reuse and recycling rate
     for materials from the decommissioning of the original Hagshaw Hill wind farm
@@ -83,30 +152,6 @@ articles:
   pub_date: '2026-09-01T12:32:31'
   source: Circular Online
   title: Councils seek producer funding amid fridge treatment capacity shortage
-- category: supply-chain
-  description: Fraudulent pickup documents were allegedly used to steal 40,000 pounds
-    of Pabst beer from a California distribution center.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/40000-pounds-of-pabst-beer-stolen-in-cargo-fraud-scheme
-  pub_date: '2026-08-31T15:06:00'
-  source: Supply Chain 24/7
-  title: 40,000 Pounds of Pabst Beer Stolen in Cargo Fraud Scheme
-- category: supply-chain
-  description: Walmart plans a $1.3 billion automated fulfillment center in Georgia
-    that will create 1,000 jobs and expand faster shipping.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-georgia-automated-fulfillment-center
-  pub_date: '2026-08-31T14:36:00'
-  source: Supply Chain 24/7
-  title: Walmart Plans $1.3 Billion Fulfillment Center in Carnesville, Georgia
-- category: supply-chain
-  description: The $750 million CANXPORT facility adds capacity to move up to 400,000
-    containers a year from railcars to ships at Prince Rupert.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/prince-rupert-canxport-export-facility-opens
-  pub_date: '2026-08-31T14:10:00'
-  source: Supply Chain 24/7
-  title: $750 Million CANXPORT Facility Opens in British Columbia
 - category: circular
   description: News updates written by CIWM's commercial partners. Plan B Supporting
     Food Banks, Supporting Our Communities FCC Environment Greatmoor Energy from Waste
@@ -125,49 +170,4 @@ articles:
   pub_date: '2026-08-28T09:36:05'
   source: Circular Online
   title: Clean-up of 22,000-tonne illegal waste site in Kidlington costs £6m
-- category: circular
-  description: The UK Government has delayed its plan to expand the Emissions Trading
-    Scheme to include Energy-from-Waste and waste incineration. The post UK delays
-    ETS expansion to include waste incineration appear...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-delays-ets-expansion-to-include-waste-incineration/
-  pub_date: '2026-08-27T09:29:40'
-  source: Circular Online
-  title: UK delays ETS expansion to include waste incineration
-- category: circular
-  description: The Circular Economy Institute (CEI) has launched the CEI Business
-    Excellence Partner programme to verify organisational circular progress. The post
-    Circular Economy Institute launches 'Business Excel...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/circular-economy-institute-launches-business-excellence-partner-programme/
-  pub_date: '2026-08-26T07:54:22'
-  source: Circular Online
-  title: Circular Economy Institute launches ‘Business Excellence Partner’ programme
-- category: circular
-  description: The Ellen MacArthur Foundation is working to co-design and deliver
-    a national textiles circularity policy framework for the United Arab Emirates
-    (UAE). The post Ellen MacArthur Foundation to co-design...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ellen-macarthur-foundation-to-co-design-uae-textiles-circularity-policy/
-  pub_date: '2026-08-25T09:43:43'
-  source: Circular Online
-  title: Ellen MacArthur Foundation to co-design UAE textiles circularity policy
-- category: circular
-  description: An illegal waste site in Sheffield, South Yorkshire, has been cleared
-    following a successful court case brought by the Environment Agency. The post
-    Sheffield waste site cleared after illegal dumping i...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/sheffield-waste-site-cleared-after-illegal-dumping-investigation/
-  pub_date: '2026-08-25T09:11:05'
-  source: Circular Online
-  title: Sheffield waste site cleared after illegal dumping investigation
-- category: circular
-  description: A Scottish businessman who stripped almost GBP3 million in assets from
-    his clinical waste firm has been banned as a company director for nine years.
-    The post Former waste firm boss banned as company d...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/former-waste-firm-boss-banned-as-company-director-for-9-years/
-  pub_date: '2026-08-24T11:11:06'
-  source: Circular Online
-  title: Former waste firm boss banned as company director for 9 years
-last_updated: '2026-09-02T10:45:27.534103'
+last_updated: '2026-09-03T10:46:04.927117'
