@@ -1,5 +1,53 @@
 articles:
 - category: ai-research
+  description: MIT affiliates engage with the MIT-IBM Computing Research Lab to bring
+    rigorous theory to production systems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902
+  pub_date: '2026-09-02T20:25:00'
+  source: MIT AI News
+  title: From MIT to IBM, expediting AI and quantum deployment
+- category: machine-learning
+  description: Simply knowing that a 35-year-old male in Seattle clicked 12 times
+    last month tells you almost nothing about his intent.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/quantifying-user-behavior-patterns-to-build-better-predictive-features
+  pub_date: '2026-09-02T16:00:27'
+  source: KDnuggets
+  title: Quantifying User Behavior Patterns to Build Better Predictive Features
+- category: ai-research
+  description: Introducing Fairwind Program
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/
+  pub_date: '2026-09-02T15:40:00'
+  source: Google AI Blog
+  title: Proactive cyber defense for governments and enterprises
+- category: ai-research
+  description: A new method, called CW-Net, translates the reasoning process of an
+    autonomous vehicle's AI system into understandable concepts that explain its behavior.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902
+  pub_date: '2026-09-02T15:00:00'
+  source: MIT AI News
+  title: System helps humans predict when self-driving cars will make mistakes
+- category: machine-learning
+  description: Discover how FireDucks can speed up pandas workloads with lazy execution,
+    compiler optimization, and multithreaded processing, delivering up to 20x faster
+    DataFrame performance in our benchmark.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/this-python-library-can-run-pandas-workloads-up-to-20x-faster
+  pub_date: '2026-09-02T14:00:11'
+  source: KDnuggets
+  title: This Python Library Can Run Pandas Workloads Up to 20x Faster
+- category: machine-learning
+  description: Deploy agentic AI across SRE, finance, legal, migration, and security
+    with deterministic safety constraints.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation
+  pub_date: '2026-09-02T12:00:39'
+  source: KDnuggets
+  title: 5 Real-World Applications of Agentic AI in Enterprise Automation
+- category: ai-research
   description: The senior lecturer, already director of the degree program, will now
     oversee all aspects of the center's activities and operations.
   icon: fa-graduation-cap
@@ -123,22 +171,6 @@ articles:
   pub_date: '2026-08-27T14:00:24'
   source: KDnuggets
   title: What We Can Learn From Google Engineers’ Indispensible Prompts
-- category: machine-learning
-  description: Explore five distinct ways AI is reshaping jobs, from automating routine
-    tasks to thinning entry-level hiring.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets
-  pub_date: '2026-08-26T14:00:53'
-  source: KDnuggets
-  title: Understanding the Impact of AI on Job Markets
-- category: machine-learning
-  description: Everyone's using AI coding agents. Here's how to make yours actually
-    useful.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents
-  pub_date: '2026-08-26T12:00:50'
-  source: KDnuggets
-  title: 10 Rules for Getting Better Results from AI Coding Agents
 - category: ai-research
   description: The "CrysVCD" tool developed at MIT could cut the huge amounts of time
     and money spent on screening out chemically unstable designs.
@@ -147,15 +179,6 @@ articles:
   pub_date: '2026-08-26T09:00:00'
   source: MIT AI News
   title: AI helps design new materials that work in the real world
-- category: machine-learning
-  description: If you're responsible for turning data and AI strategy into enterprise
-    reality, this is a conversation worth being part of.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/08/corinium/the-data-ai-leadership-questions-that-will-define-the-next-stage-of-enterprise-ai
-  pub_date: '2026-08-25T17:00:34'
-  source: KDnuggets
-  title: The Data & AI Leadership Questions That Will Define the Next Stage of Enterprise
-    AI
 - category: ai-research
   description: Illustration of ombre rainbow furniture items like a sofa, lamp, and
     chair against a purple background
@@ -189,24 +212,6 @@ articles:
   source: Google AI Blog
   title: 5 new ways to level up your learning with Search
 - category: ai-research
-  description: A new method for surgically removing training examples from a model
-    reveals that as datasets grow, the link between what a model learns and what it
-    produces dissolves.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818
-  pub_date: '2026-08-18T16:35:00'
-  source: MIT AI News
-  title: 'When AI art has no author: Study finds generated images often can’t be traced
-    to training data'
-- category: ai-research
-  description: In his latest book, Professor Eugene Fitzgerald examines the forces
-    that turn breakthroughs into value - and why innovation resists simple formulas.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817
-  pub_date: '2026-08-17T19:50:00'
-  source: MIT AI News
-  title: 'Q&A: Rethinking how innovation happens'
-- category: ai-research
   description: Low-angle view of a soccer player kicking a ball mid-air against a
     bright blue sky, with grass flying from their cleats.
   icon: fa-google
@@ -236,11 +241,4 @@ articles:
   pub_date: '2026-08-10T14:30:00'
   source: Google AI Blog
   title: Evolve your marketing with new AI tools
-- category: ai-research
-  description: July AI recap header
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
-  pub_date: '2026-08-04T13:00:00'
-  source: Google AI Blog
-  title: The latest AI news we announced in July 2026
-last_updated: '2026-09-02T10:45:28.299170'
+last_updated: '2026-09-03T10:46:06.017504'
