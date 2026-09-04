@@ -1,4 +1,44 @@
 articles:
+- category: supply-chain
+  description: Walmart plans to deliver orders from most Dunkin' locations as it expands
+    its last-mile network beyond restaurants inside its stores.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-dunkin-restaurant-delivery-expansion
+  pub_date: '2026-09-03T13:43:00'
+  source: Supply Chain 24/7
+  title: Walmart to Deliver Dunkin’ From Thousands of U.S. Locations
+- category: supply-chain
+  description: The FMCSA removed 110-plus CDL schools and put 160 more on notice after
+    finding links to English violations and poor training.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fmcsa-removes-110-cdl-training-schools
+  pub_date: '2026-09-03T13:21:00'
+  source: Supply Chain 24/7
+  title: Federal Regulators Remove 110 Truck-Driver Training Schools
+- category: supply-chain
+  description: Eaton plans a $242 million Arkansas factory that will create 1,200
+    jobs and make electrical equipment for data centers and utilities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eaton-242-million-arkansas-manufacturing-factory
+  pub_date: '2026-09-03T13:06:00'
+  source: Supply Chain 24/7
+  title: Eaton Picks Arkansas for $242 Million Manufacturing Plant
+- category: supply-chain
+  description: GE Appliances will invest $1 billion in its Louisville factory complex,
+    bringing dryer production from Mexico and securing 4,700 production jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ge-appliances-1-billion-louisville-manufacturing-investment
+  pub_date: '2026-09-03T13:01:00'
+  source: Supply Chain 24/7
+  title: GE Appliances Plans $1 Billion Upgrade at Louisville Factory
+- category: supply-chain
+  description: Supply chain resilience depends on warehouses that can adjust quickly
+    to changing volume, customer demand, and sales channels.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-flexibility-supply-chain-resilience
+  pub_date: '2026-09-03T12:48:00'
+  source: Supply Chain 24/7
+  title: Why Resilience Falls Apart Without Warehouse Flexibility
 - category: circular
   description: Drinks producers would pay no per-container producer fees for the first
     15 months of the deposit return scheme under plans announced by Exchange for Change.
@@ -84,46 +124,6 @@ articles:
   pub_date: '2026-09-01T15:12:00'
   source: Supply Chain 24/7
   title: When is a Box Truck the Right Fit for Your Freight?
-- category: supply-chain
-  description: Locus Robotics has raised $41.6 million from existing investors, with
-    its Series G round remaining open to additional funding.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/locus-robotics-41-million-series-g-funding
-  pub_date: '2026-09-01T14:56:00'
-  source: Supply Chain 24/7
-  title: Locus Robotics Raises $41.6 Million in Series G Funding
-- category: supply-chain
-  description: Ports America will handle Jacksonville cargo operations and install
-    new technology for Trailer Bridge under a 10-year agreement.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ports-america-trailer-bridge-jacksonville-puerto-rico-deal
-  pub_date: '2026-09-01T14:12:00'
-  source: Supply Chain 24/7
-  title: Ports America, Trailer Bridge Sign 10-Year Jacksonville Deal
-- category: supply-chain
-  description: Descartes acquired Extensiv for $120 million, its second logistics
-    software purchase in eight days and its latest move into the 3PL market.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/descartes-acquires-extensiv-warehouse-software
-  pub_date: '2026-09-01T13:49:00'
-  source: Supply Chain 24/7
-  title: Descartes Buys Warehouse Software Firm Extensiv for $120 Million
-- category: supply-chain
-  description: Explore 2026 supply chain trends including labor challenges, rising
-    costs, AI, automation, inventory optimization, visibility, resilience and sustainability.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/what-should-supply-chain-leaders-prioritize-in-2026
-  pub_date: '2026-09-01T13:30:00'
-  source: Supply Chain 24/7
-  title: What Should Supply Chain Leaders Prioritize in 2026?
-- category: supply-chain
-  description: Rolls-Royce completed a $1 billion Indiana expansion to increase manufacturing
-    and testing of U.S. military aircraft engines.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/rolls-royce-billion-dollar-indiana-manufacturing-expansion
-  pub_date: '2026-09-01T13:20:00'
-  source: Supply Chain 24/7
-  title: Rolls-Royce Completes $1 Billion Indiana Manufacturing Upgrade
 - category: circular
   description: ScottishPower has reported a 99.9% combined reuse and recycling rate
     for materials from the decommissioning of the original Hagshaw Hill wind farm
@@ -170,4 +170,4 @@ articles:
   pub_date: '2026-08-28T09:36:05'
   source: Circular Online
   title: Clean-up of 22,000-tonne illegal waste site in Kidlington costs £6m
-last_updated: '2026-09-03T10:46:04.927117'
+last_updated: '2026-09-04T10:44:08.701394'

@@ -1,4 +1,19 @@
 articles:
+- category: machine-learning
+  description: The review pass fixed a row count and approved two wrong conclusions.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/i-asked-chatgpt-to-analyze-3-datasets-it-made-the-same-mistakes-every-time
+  pub_date: '2026-09-03T14:00:05'
+  source: KDnuggets
+  title: I Asked ChatGPT to Analyze 3 Datasets. It Made the Same Mistakes Every Time
+- category: machine-learning
+  description: A curated, linear pipeline of high-signal free resources that takes
+    you from backpropagation basics to deploying production-grade LLM applications.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-courses-to-go-from-llm-beginner-to-practitioner
+  pub_date: '2026-09-03T12:00:27'
+  source: KDnuggets
+  title: 5 Free Courses to Go From LLM Beginner to Practitioner
 - category: ai-research
   description: MIT affiliates engage with the MIT-IBM Computing Research Lab to bring
     rigorous theory to production systems.
@@ -138,15 +153,6 @@ articles:
   pub_date: '2026-08-28T14:00:54'
   source: KDnuggets
   title: The Local AI Stack for Productive SLMs
-- category: machine-learning
-  description: This article walks through what each technique actually does, why skipping
-    them costs real money and real latency, and then gets hands-on with five specific
-    methods people are running in production ri...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/quantization-and-pruning-methods-to-make-your-llm-leaner
-  pub_date: '2026-08-28T12:00:55'
-  source: KDnuggets
-  title: Quantization and Pruning Methods to Make Your LLM Leaner
 - category: ai-research
   description: A new machine-learning framework aims to improve the success rate of
     computational protein design while moving away from results that reproduce sequences
@@ -163,14 +169,6 @@ articles:
   pub_date: '2026-08-27T16:00:00'
   source: Google AI Blog
   title: 3 new ways to plan and book travel in Search
-- category: machine-learning
-  description: 'Hey, Google Engineers: What prompt do you personally refuse to work
-    without, and why?'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts
-  pub_date: '2026-08-27T14:00:24'
-  source: KDnuggets
-  title: What We Can Learn From Google Engineers’ Indispensible Prompts
 - category: ai-research
   description: The "CrysVCD" tool developed at MIT could cut the huge amounts of time
     and money spent on screening out chemically unstable designs.
@@ -241,4 +239,4 @@ articles:
   pub_date: '2026-08-10T14:30:00'
   source: Google AI Blog
   title: Evolve your marketing with new AI tools
-last_updated: '2026-09-03T10:46:06.017504'
+last_updated: '2026-09-04T10:44:09.870509'
