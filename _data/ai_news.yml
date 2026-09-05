@@ -1,5 +1,22 @@
 articles:
 - category: machine-learning
+  description: Stop sending every AI request to your most expensive model. See how
+    intelligent routing can cut cost and latency without sacrificing much quality.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library
+  pub_date: '2026-09-04T14:00:07'
+  source: KDnuggets
+  title: 'Switchyard: NVIDIA’s Open Source Routing Library'
+- category: machine-learning
+  description: Explore five free AI API providers for accessing large language models,
+    fast inference, multimodal AI, and agentic applications without paying for API
+    usage.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-llm-api-providers-you-can-use-in-2026
+  pub_date: '2026-09-04T12:00:38'
+  source: KDnuggets
+  title: 5 Free LLM API Providers You Can Use in 2026
+- category: machine-learning
   description: The review pass fixed a row count and approved two wrong conclusions.
   icon: fa-chart-bar
   link: https://www.kdnuggets.com/i-asked-chatgpt-to-analyze-3-datasets-it-made-the-same-mistakes-every-time
@@ -128,15 +145,6 @@ articles:
   pub_date: '2026-08-31T14:00:00'
   source: KDnuggets
   title: Speed Up LLM Inference with DSpark Speculative Decoding
-- category: machine-learning
-  description: It's about the mistakes that make a running program wrong. Below are
-    seven of them. For each one you get the hidden cause, plus the first thing worth
-    checking.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead
-  pub_date: '2026-08-31T12:00:34'
-  source: KDnuggets
-  title: 7 Python Mistakes Beginners Make (And What to Do Instead)
 - category: ai-research
   description: With millions of users across the world, Julia has been used to conduct
     cutting-edge research and to design new drugs, jet engines, heat pumps, and more.
@@ -145,14 +153,6 @@ articles:
   pub_date: '2026-08-31T04:00:00'
   source: MIT AI News
   title: How an MIT research project became a global programming language
-- category: machine-learning
-  description: A practical framework for choosing the right tools at each layer of
-    your local AI setup, from model serving to context retrieval.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms
-  pub_date: '2026-08-28T14:00:54'
-  source: KDnuggets
-  title: The Local AI Stack for Productive SLMs
 - category: ai-research
   description: A new machine-learning framework aims to improve the success rate of
     computational protein design while moving away from results that reproduce sequences
@@ -239,4 +239,4 @@ articles:
   pub_date: '2026-08-10T14:30:00'
   source: Google AI Blog
   title: Evolve your marketing with new AI tools
-last_updated: '2026-09-04T10:44:09.870509'
+last_updated: '2026-09-05T10:02:26.264819'

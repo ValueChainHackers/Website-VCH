@@ -1,5 +1,37 @@
 articles:
 - category: supply-chain
+  description: U.S. diesel reached a record $5.820 per gallon as refinery disruptions
+    and tight inventories pushed fuel costs higher for carriers and shippers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-diesel-price-record-5820-gallon
+  pub_date: '2026-09-04T14:25:00'
+  source: Supply Chain 24/7
+  title: U.S. Diesel Hits Record High $5.820 as Global Supplies Shrink
+- category: supply-chain
+  description: WiseTech's Michael Toolan explains why port AI needs shared data and
+    networkwide measures to cut congestion rather than move it elsewhere.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/port-ai-data-congestion-cargo-network
+  pub_date: '2026-09-04T13:52:00'
+  source: Supply Chain 24/7
+  title: Why Port AI Projects Keep Running Into the Same Old Data Problem
+- category: supply-chain
+  description: ShipStation now lets customers compare rates, book, track, and invoice
+    LTL freight alongside parcel shipments without using a separate system.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/shipstation-adds-ltl-freight-shipping
+  pub_date: '2026-09-04T13:30:00'
+  source: Supply Chain 24/7
+  title: ShipStation Adds LTL Freight Shipping to Its Parcel Platform
+- category: supply-chain
+  description: Walmart plans a $1.3 billion automated fulfillment center in Carnesville,
+    Georgia, that is expected to create 1,000 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-1-3-billion-georgia-fulfillment-center
+  pub_date: '2026-09-04T13:22:00'
+  source: Supply Chain 24/7
+  title: Walmart Plans $1.3 Billion Fulfillment Center in Northeast Georgia
+- category: supply-chain
   description: Walmart plans to deliver orders from most Dunkin' locations as it expands
     its last-mile network beyond restaurants inside its stores.
   icon: fa-box
@@ -65,30 +97,6 @@ articles:
   pub_date: '2026-09-02T16:54:00'
   source: Supply Chain 24/7
   title: Women Make Up as Little as 7% of Drivers at Large Trucking Firms
-- category: supply-chain
-  description: More than half of manufacturing CEOs say a major supply chain disruption
-    would begin affecting their operations within three weeks.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/three-weeks-is-the-breaking-point-for-many-manufacturers
-  pub_date: '2026-09-02T14:07:00'
-  source: Supply Chain 24/7
-  title: Three Weeks Is the Breaking Point for Many Manufacturers
-- category: supply-chain
-  description: Novelis VP Edgar Acosta Chaparro explains how global experts and local
-    colleges are helping train workers at the company's Alabama plant.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/new-factories-need-workers-where-will-they-come-from
-  pub_date: '2026-09-02T13:27:00'
-  source: Supply Chain 24/7
-  title: New Factories Need Workers. Where Will They Come From?
-- category: supply-chain
-  description: Chobani plans to invest $1.2 billion in a Pennsylvania dairy plant
-    that will create more than 900 jobs and begin production in 2027.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/chobani-pennsylvania-dairy-plant-investment
-  pub_date: '2026-09-02T13:07:00'
-  source: Supply Chain 24/7
-  title: Chobani Plans $1.2 Billion Dairy Plant by Allentown, Pennsylvania
 - category: circular
   description: Northern Ireland departments - and UK ministers making policy relating
     to the region - must now have due regard to a statement explaining prevention,
@@ -116,14 +124,6 @@ articles:
   pub_date: '2026-09-02T11:04:30'
   source: Circular Online
   title: Environment Agency maps over 10,000 suspected waste-crime reports
-- category: supply-chain
-  description: Box trucks can fill the gap between LTL and truckload for mid-sized,
-    oversized, high-value, or hard-to-deliver freight.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/box-truck-freight-shipping
-  pub_date: '2026-09-01T15:12:00'
-  source: Supply Chain 24/7
-  title: When is a Box Truck the Right Fit for Your Freight?
 - category: circular
   description: ScottishPower has reported a 99.9% combined reuse and recycling rate
     for materials from the decommissioning of the original Hagshaw Hill wind farm
@@ -170,4 +170,4 @@ articles:
   pub_date: '2026-08-28T09:36:05'
   source: Circular Online
   title: Clean-up of 22,000-tonne illegal waste site in Kidlington costs £6m
-last_updated: '2026-09-04T10:44:08.701394'
+last_updated: '2026-09-05T10:02:25.310288'
