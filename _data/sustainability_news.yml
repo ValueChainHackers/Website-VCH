@@ -1,4 +1,22 @@
 articles:
+- category: circular
+  description: Plastic Overshoot Day, the point at which global plastic waste exceeds
+    the world's capacity to manage it properly, arrived on 6 September, which means
+    almost 72 million tonnes of plastic will leak int...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/72-million-tonnes-of-plastic-waste-will-be-polluted-this-year-research-finds/
+  pub_date: '2026-09-07T10:27:37'
+  source: Circular Online
+  title: 72 million tonnes of plastic waste will be polluted this year, research finds
+- category: circular
+  description: The Environment Agency is investigating three illegal waste sites in
+    the North East, which amount to almost 3,500 tonnes of shredded household waste.
+    The post Investigation opens after three illegal w...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/investigation-opens-after-three-illegal-waste-sites-found-in-the-north-east/
+  pub_date: '2026-09-07T07:45:17'
+  source: Circular Online
+  title: Investigation opens after three illegal waste sites found in the North East
 - category: supply-chain
   description: U.S. diesel reached a record $5.820 per gallon as refinery disruptions
     and tight inventories pushed fuel costs higher for carriers and shippers.
@@ -152,22 +170,4 @@ articles:
   pub_date: '2026-09-01T12:32:31'
   source: Circular Online
   title: Councils seek producer funding amid fridge treatment capacity shortage
-- category: circular
-  description: News updates written by CIWM's commercial partners. Plan B Supporting
-    Food Banks, Supporting Our Communities FCC Environment Greatmoor Energy from Waste
-    Facility marks 10 years of operation with Bucki...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-28-august/
-  pub_date: '2026-08-28T11:06:00'
-  source: Circular Online
-  title: News in Brief | Commercial Partner News 28 August
-- category: circular
-  description: More than 22,000 tonnes of illegally dumped waste have now been removed
-    from the Oxfordshire site, costing the taxpayer GBP6 million. The post Clean-up
-    of 22,000-tonne illegal waste site in Kidlington...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/clean-up-of-22000-tonne-illegal-waste-site-in-kidlington-costs-6m/
-  pub_date: '2026-08-28T09:36:05'
-  source: Circular Online
-  title: Clean-up of 22,000-tonne illegal waste site in Kidlington costs £6m
-last_updated: '2026-09-06T10:22:38.626861'
+last_updated: '2026-09-07T11:44:05.066932'
