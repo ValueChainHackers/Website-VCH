@@ -1,5 +1,32 @@
 articles:
 - category: circular
+  description: A court order now prevents access to a former quarry in West Yorkshire
+    where waste has been dumped illegally. The restriction order bans waste from being
+    imported onto the site and access to the land ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/illegal-waste-site-at-former-yorkshire-quarry-shut-down/
+  pub_date: '2026-09-08T10:04:26'
+  source: Circular Online
+  title: Illegal waste site at former Yorkshire quarry shut down
+- category: circular
+  description: Virgin Media O2 is investing GBP3 million to help councils and community
+    organisations scale local networks to recover, refurbish and redistribute unwanted
+    devices. The post Virgin Media O2 commits to...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/virgin-media-o2-commits-to-investing-3m-in-tech-reuse-services/
+  pub_date: '2026-09-08T09:07:48'
+  source: Circular Online
+  title: Virgin Media O2 commits to investing £3m in tech reuse services
+- category: circular
+  description: A new video shows the shocking moment a lithium battery caught fire
+    at a Waste Transfer Station in North Tyneside. The post New video shows moment
+    battery caught fire at Waste Transfer Station appeare...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-video-shows-moment-battery-caught-fire-at-waste-transfer-station/
+  pub_date: '2026-09-08T07:32:43'
+  source: Circular Online
+  title: New video shows moment battery caught fire at Waste Transfer Station
+- category: circular
   description: Plastic Overshoot Day, the point at which global plastic waste exceeds
     the world's capacity to manage it properly, arrived on 6 September, which means
     almost 72 million tonnes of plastic will leak int...
@@ -142,32 +169,4 @@ articles:
   pub_date: '2026-09-02T11:04:30'
   source: Circular Online
   title: Environment Agency maps over 10,000 suspected waste-crime reports
-- category: circular
-  description: ScottishPower has reported a 99.9% combined reuse and recycling rate
-    for materials from the decommissioning of the original Hagshaw Hill wind farm
-    in South Lanarkshire. According to the company, a rep...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/scottishpower-reports-99-9-reuse-and-recycling-at-hagshaw-hill/
-  pub_date: '2026-09-01T12:41:59'
-  source: Circular Online
-  title: ScottishPower reports 99.9% reuse and recycling at Hagshaw Hill wind farm
-    decommissioning
-- category: circular
-  description: From April 2027, chemically recycled plastic may count towards the
-    Plastic Packaging Tax's 30% threshold only when attributed through a qualifying
-    certified mass-balance supply chain. HM Revenue & Cus...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/hmrc-sets-mass-balance-requirements-for-chemically-recycled-plastic/
-  pub_date: '2026-09-01T12:38:12'
-  source: Circular Online
-  title: HMRC sets mass-balance requirements for chemically recycled plastic
-- category: circular
-  description: The Local Government Association has called for producers and compliance
-    schemes to meet additional council costs as treatment constraints disrupt fridge
-    and freezer collections. The post Councils see...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/councils-seek-producer-funding-amid-fridge-treatment-capacity-shortage/
-  pub_date: '2026-09-01T12:32:31'
-  source: Circular Online
-  title: Councils seek producer funding amid fridge treatment capacity shortage
-last_updated: '2026-09-07T11:44:05.066932'
+last_updated: '2026-09-08T10:42:36.211956'
