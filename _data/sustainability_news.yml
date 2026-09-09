@@ -1,5 +1,63 @@
 articles:
 - category: circular
+  description: The Local Government Association has said there is 'no excuse for the
+    government's mishandling' of the plan to reorganise local authorities. The post
+    Councils criticise decision to 'pause' plans to re...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/councils-criticise-decision-to-pause-plans-to-reorganise-local-authorities/
+  pub_date: '2026-09-09T08:05:44'
+  source: Circular Online
+  title: Councils criticise decision to ‘pause’ plans to reorganise local authorities
+- category: circular
+  description: Two men have been arrested in connection with the infamous illegal
+    waste site in Kidlington where more than 22,000 tonnes of waste was illegally
+    dumped. The post Two men arrested in connection with Ki...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/two-men-arrested-in-connection-with-kidlington-illegal-waste-site/
+  pub_date: '2026-09-09T07:30:00'
+  source: Circular Online
+  title: Two men arrested in connection with Kidlington illegal waste site
+- category: supply-chain
+  description: DHL Express has launched a service for U.S. businesses shipping large
+    items, with a limit of 2,200 pounds per piece and 6,600 per shipment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-heavy-weight-express-air-freight
+  pub_date: '2026-09-08T13:56:00'
+  source: Supply Chain 24/7
+  title: DHL Adds Express Delivery for Shipments Up to 6,600 Pounds
+- category: supply-chain
+  description: 'MHI has confirmed the dates and venues for two MODEX trade shows in
+    2028: Atlanta on April 3-5 and Las Vegas on Oct. 18-20.'
+  icon: fa-box
+  link: https://www.supplychain247.com/article/modex-2028-dates-set-for-atlanta-and-las-vegas-shows
+  pub_date: '2026-09-08T13:50:00'
+  source: Supply Chain 24/7
+  title: MODEX 2028 Dates Set for Atlanta and Las Vegas Shows
+- category: supply-chain
+  description: Manufacturers are seeing more quote requests but fewer firm orders,
+    forcing difficult decisions about workers, costs, cash, and investments.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturers-more-quotes-fewer-orders-wipfli
+  pub_date: '2026-09-08T13:39:00'
+  source: Supply Chain 24/7
+  title: Manufacturers Are Getting More Quotes, but Not More Orders
+- category: supply-chain
+  description: In this roundtable, shipping experts look at how tariffs are reshaping
+    peak season and whether ocean carriers can keep freight rates high.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ocean-shipping-peak-season-rates-tariffs
+  pub_date: '2026-09-08T13:05:00'
+  source: Supply Chain 24/7
+  title: Ocean Shipping’s Peak Season Has Become a Moving Target
+- category: supply-chain
+  description: SK hynix broke ground on a $4 billion Indiana plant that will package
+    advanced AI memory chips, with production set to begin in 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/sk-hynix-indiana-ai-memory-chip-plant
+  pub_date: '2026-09-08T10:38:00'
+  source: Supply Chain 24/7
+  title: SK hynix Breaks Ground on $4 Billion Plant in West Lafayette, Indiana
+- category: circular
   description: A court order now prevents access to a former quarry in West Yorkshire
     where waste has been dumped illegally. The restriction order bans waste from being
     imported onto the site and access to the land ...
@@ -84,38 +142,6 @@ articles:
   pub_date: '2026-09-03T13:43:00'
   source: Supply Chain 24/7
   title: Walmart to Deliver Dunkin’ From Thousands of U.S. Locations
-- category: supply-chain
-  description: The FMCSA removed 110-plus CDL schools and put 160 more on notice after
-    finding links to English violations and poor training.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fmcsa-removes-110-cdl-training-schools
-  pub_date: '2026-09-03T13:21:00'
-  source: Supply Chain 24/7
-  title: Federal Regulators Remove 110 Truck-Driver Training Schools
-- category: supply-chain
-  description: Eaton plans a $242 million Arkansas factory that will create 1,200
-    jobs and make electrical equipment for data centers and utilities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/eaton-242-million-arkansas-manufacturing-factory
-  pub_date: '2026-09-03T13:06:00'
-  source: Supply Chain 24/7
-  title: Eaton Picks Arkansas for $242 Million Manufacturing Plant
-- category: supply-chain
-  description: GE Appliances will invest $1 billion in its Louisville factory complex,
-    bringing dryer production from Mexico and securing 4,700 production jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ge-appliances-1-billion-louisville-manufacturing-investment
-  pub_date: '2026-09-03T13:01:00'
-  source: Supply Chain 24/7
-  title: GE Appliances Plans $1 Billion Upgrade at Louisville Factory
-- category: supply-chain
-  description: Supply chain resilience depends on warehouses that can adjust quickly
-    to changing volume, customer demand, and sales channels.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-flexibility-supply-chain-resilience
-  pub_date: '2026-09-03T12:48:00'
-  source: Supply Chain 24/7
-  title: Why Resilience Falls Apart Without Warehouse Flexibility
 - category: circular
   description: Drinks producers would pay no per-container producer fees for the first
     15 months of the deposit return scheme under plans announced by Exchange for Change.
@@ -134,14 +160,6 @@ articles:
   pub_date: '2026-09-03T08:06:31'
   source: Circular Online
   title: Designers tackle vape fires and battery recovery in circular economy pilot
-- category: supply-chain
-  description: Women hold 31% of trucking executive roles, but their share of driver
-    and diesel technician jobs remains low, a new report from Women In Trucking finds.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/women-trucking-workforce-leadership-driver-jobs
-  pub_date: '2026-09-02T16:54:00'
-  source: Supply Chain 24/7
-  title: Women Make Up as Little as 7% of Drivers at Large Trucking Firms
 - category: circular
   description: Northern Ireland departments - and UK ministers making policy relating
     to the region - must now have due regard to a statement explaining prevention,
@@ -151,22 +169,4 @@ articles:
   pub_date: '2026-09-02T11:47:04'
   source: Circular Online
   title: New duty requires Northern Ireland departments to consider ‘polluter pays’
-- category: circular
-  description: Zero Waste Scotland is set to join NatureScot and the Scottish Environment
-    Protection Agency (SEPA) in a new national environment body under plans announced
-    in the Scottish Government's Programme for ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/zero-waste-scotland-to-join-new-national-environment-body/
-  pub_date: '2026-09-02T11:28:45'
-  source: Circular Online
-  title: Zero Waste Scotland to join new national environment body
-- category: circular
-  description: The West Midlands and Yorkshire had the highest report totals in 2025,
-    but the heatmaps include duplicate calls and do not record confirmed offences.
-    The post Environment Agency maps over 10,000 suspe...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-agency-maps-10238-suspected-waste-crime-reports/
-  pub_date: '2026-09-02T11:04:30'
-  source: Circular Online
-  title: Environment Agency maps over 10,000 suspected waste-crime reports
-last_updated: '2026-09-08T10:42:36.211956'
+last_updated: '2026-09-09T10:51:10.760332'

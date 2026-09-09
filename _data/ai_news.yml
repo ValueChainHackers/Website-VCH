@@ -1,5 +1,31 @@
 articles:
 - category: machine-learning
+  description: Over the past several years, I have worked through three successive
+    generations of intelligent retrieval systems, each solving problems the previous
+    generation could not. Here is what I have learned.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems
+  pub_date: '2026-09-08T16:00:12'
+  source: KDnuggets
+  title: 'From RAG to Agentic AI: Building the Next Generation of Intelligent Enterprise
+    Systems'
+- category: machine-learning
+  description: The way we build interfaces is changing. As AI agents write more of
+    our code, the tools we use to render that code may need to change too.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/is-arrowjs-really-the-ui-for-the-agentic-era
+  pub_date: '2026-09-08T15:00:37'
+  source: KDnuggets
+  title: Is ArrowJS Really the UI for the Agentic Era? Here’s What I Found
+- category: machine-learning
+  description: Explore five free ways to access AI coding agents, proprietary coding
+    models, and open-weight models without paying for expensive subscriptions or GPUs.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-ways-i-access-coding-models-for-free
+  pub_date: '2026-09-08T14:02:37'
+  source: KDnuggets
+  title: 5 Ways I Access Coding Models for Free
+- category: machine-learning
   description: Stop sending every AI request to your most expensive model. See how
     intelligent routing can cut cost and latency without sacrificing much quality.
   icon: fa-chart-bar
@@ -104,23 +130,6 @@ articles:
   pub_date: '2026-09-01T16:00:00'
   source: Google AI Blog
   title: 'Try Google Pics: Easy image creation and editing in Google Workspace'
-- category: machine-learning
-  description: How to set up, use, and get the most out of a private, self-hosted
-    transcription platform with full control over where your audio goes
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/free-transcription-with-speakr
-  pub_date: '2026-09-01T14:00:47'
-  source: KDnuggets
-  title: Free Transcription with Speakr
-- category: machine-learning
-  description: A clean run proves the process executed. It says nothing about what
-    the pipeline learned, from which rows, in what state, or whether the saved result
-    can be trusted anywhere else.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-common-python-mistakes-to-avoid-in-ai-workflows
-  pub_date: '2026-09-01T12:00:21'
-  source: KDnuggets
-  title: 7 Common Python Mistakes to Avoid in AI Workflows
 - category: ai-research
   description: The PhD student works to give young people an active role in shaping
     digital technologies that can support their own well-being.
@@ -137,14 +146,6 @@ articles:
   pub_date: '2026-08-31T19:30:00'
   source: MIT AI News
   title: MIT Quantum Initiative launches postdoctoral fellowship program
-- category: machine-learning
-  description: Learn how DSpark speculative decoding can improve local LLM generation
-    speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding
-  pub_date: '2026-08-31T14:00:00'
-  source: KDnuggets
-  title: Speed Up LLM Inference with DSpark Speculative Decoding
 - category: ai-research
   description: With millions of users across the world, Julia has been used to conduct
     cutting-edge research and to design new drugs, jet engines, heat pumps, and more.
@@ -239,4 +240,4 @@ articles:
   pub_date: '2026-08-10T14:30:00'
   source: Google AI Blog
   title: Evolve your marketing with new AI tools
-last_updated: '2026-09-08T10:42:37.438486'
+last_updated: '2026-09-09T10:51:11.917951'
