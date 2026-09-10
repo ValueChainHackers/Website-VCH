@@ -1,5 +1,54 @@
 articles:
 - category: circular
+  description: North Somerset Council has approved proposals to develop a new waste
+    depot and household waste recycling centre. The post Proposals agreed for new
+    GBP56m waste depot and recycling centre appeared firs...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/proposals-agreed-for-new-56m-waste-depot-and-recycling-centre/
+  pub_date: '2026-09-10T08:44:35'
+  source: Circular Online
+  title: Proposals agreed for new £56m waste depot and recycling centre
+- category: supply-chain
+  description: Kardex is bringing its AutoStore warehouse business to Canada with
+    support from its North American staff and local partner network.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kardex-expands-autostore-warehouse-business-canada
+  pub_date: '2026-09-09T17:32:00'
+  source: Supply Chain 24/7
+  title: Kardex Brings Its AutoStore Warehouse Business to Canada
+- category: supply-chain
+  description: Warehouses can cut dock delays and speed deliveries by sequencing picking,
+    staging, and trailer loading around each route's stops.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/plan-trailer-loading-before-warehouse-picking
+  pub_date: '2026-09-09T17:07:00'
+  source: Supply Chain 24/7
+  title: How Smarter Picking Can Prevent Costly Trailer Misloads
+- category: supply-chain
+  description: Five governments are planning a truck charging and hydrogen fueling
+    route along the West Coast from British Columbia to Baja California.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/west-coast-electric-truck-charging-corridor
+  pub_date: '2026-09-09T15:49:00'
+  source: Supply Chain 24/7
+  title: West Coast Truck Charging Plan Crosses Three Countries
+- category: supply-chain
+  description: DCL's Brian Tu explains how shippers can lower costs, test new carriers,
+    review packaging, and catch delivery problems during peak season.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-shippers-can-cut-peak-season-costs
+  pub_date: '2026-09-09T14:57:00'
+  source: Supply Chain 24/7
+  title: Peak Season Is Closing In. Shippers Still Have Time to Cut Costs
+- category: supply-chain
+  description: Trimble acquired Terasat Japan, expanding its high-precision positioning
+    service through a network of more than 1,300 reference stations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/trimble-acquires-terasat-japan-positioning-network
+  pub_date: '2026-09-09T12:53:00'
+  source: Supply Chain 24/7
+  title: Trimble Expands Positioning Network With Terasat Japan Deal
+- category: circular
   description: The Local Government Association has said there is 'no excuse for the
     government's mishandling' of the plan to reorganise local authorities. The post
     Councils criticise decision to 'pause' plans to re...
@@ -78,12 +127,12 @@ articles:
 - category: circular
   description: A new video shows the shocking moment a lithium battery caught fire
     at a Waste Transfer Station in North Tyneside. The post New video shows moment
-    battery caught fire at Waste Transfer Station appeare...
+    battery catches fire at Waste Transfer Station appear...
   icon: fa-recycle
   link: https://www.circularonline.co.uk/news/new-video-shows-moment-battery-caught-fire-at-waste-transfer-station/
   pub_date: '2026-09-08T07:32:43'
   source: Circular Online
-  title: New video shows moment battery caught fire at Waste Transfer Station
+  title: New video shows moment battery catches fire at Waste Transfer Station
 - category: circular
   description: Plastic Overshoot Day, the point at which global plastic waste exceeds
     the world's capacity to manage it properly, arrived on 6 September, which means
@@ -102,46 +151,6 @@ articles:
   pub_date: '2026-09-07T07:45:17'
   source: Circular Online
   title: Investigation opens after three illegal waste sites found in the North East
-- category: supply-chain
-  description: U.S. diesel reached a record $5.820 per gallon as refinery disruptions
-    and tight inventories pushed fuel costs higher for carriers and shippers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-diesel-price-record-5820-gallon
-  pub_date: '2026-09-04T14:25:00'
-  source: Supply Chain 24/7
-  title: U.S. Diesel Hits Record High $5.820 as Global Supplies Shrink
-- category: supply-chain
-  description: WiseTech's Michael Toolan explains why port AI needs shared data and
-    networkwide measures to cut congestion rather than move it elsewhere.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/port-ai-data-congestion-cargo-network
-  pub_date: '2026-09-04T13:52:00'
-  source: Supply Chain 24/7
-  title: Why Port AI Projects Keep Running Into the Same Old Data Problem
-- category: supply-chain
-  description: ShipStation now lets customers compare rates, book, track, and invoice
-    LTL freight alongside parcel shipments without using a separate system.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/shipstation-adds-ltl-freight-shipping
-  pub_date: '2026-09-04T13:30:00'
-  source: Supply Chain 24/7
-  title: ShipStation Adds LTL Freight Shipping to Its Parcel Platform
-- category: supply-chain
-  description: Walmart plans a $1.3 billion automated fulfillment center in Carnesville,
-    Georgia, that is expected to create 1,000 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-1-3-billion-georgia-fulfillment-center
-  pub_date: '2026-09-04T13:22:00'
-  source: Supply Chain 24/7
-  title: Walmart Plans $1.3 Billion Fulfillment Center in Northeast Georgia
-- category: supply-chain
-  description: Walmart plans to deliver orders from most Dunkin' locations as it expands
-    its last-mile network beyond restaurants inside its stores.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-dunkin-restaurant-delivery-expansion
-  pub_date: '2026-09-03T13:43:00'
-  source: Supply Chain 24/7
-  title: Walmart to Deliver Dunkin’ From Thousands of U.S. Locations
 - category: circular
   description: Drinks producers would pay no per-container producer fees for the first
     15 months of the deposit return scheme under plans announced by Exchange for Change.
@@ -160,13 +169,4 @@ articles:
   pub_date: '2026-09-03T08:06:31'
   source: Circular Online
   title: Designers tackle vape fires and battery recovery in circular economy pilot
-- category: circular
-  description: Northern Ireland departments - and UK ministers making policy relating
-    to the region - must now have due regard to a statement explaining prevention,
-    precaution and polluter-pays principles, but the d...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-duty-requires-northern-ireland-departments-to-consider-polluter-pays/
-  pub_date: '2026-09-02T11:47:04'
-  source: Circular Online
-  title: New duty requires Northern Ireland departments to consider ‘polluter pays’
-last_updated: '2026-09-09T10:51:10.760332'
+last_updated: '2026-09-10T10:45:23.854598'
