@@ -1,4 +1,46 @@
 articles:
+- category: ai-research
+  description: A weeklong summer workshop brought higher education faculty to campus
+    to explore how AI and machine learning materials can be adapted for their classrooms.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909
+  pub_date: '2026-09-09T20:40:00'
+  source: MIT AI News
+  title: MIT Schwarzman College of Computing launches pilot to help educators teach
+    AI across disciplines
+- category: ai-research
+  description: An illustrated graphic set against a vibrant green background featuring
+    American football elements, including a gold trophy, a blue helmet, a silver whistle,
+    a football, a mini scoreboard, and play di...
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/football-features-google-search/
+  pub_date: '2026-09-09T16:00:00'
+  source: Google AI Blog
+  title: Get ready for the game with new football features in Search
+- category: ai-research
+  description: An elderly couple sitting in a movie theater. Overlayed are "Teulluride
+    Film Festival" and "Love, Rendered"
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/
+  pub_date: '2026-09-09T16:00:00'
+  source: Google AI Blog
+  title: Recreating a 70-year love story frame by frame
+- category: machine-learning
+  description: A six-stage pipeline that checks its numbers before calling anything
+    an answer.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/build-an-ai-data-analyst-that-thinks-like-a-senior-analyst
+  pub_date: '2026-09-09T14:00:50'
+  source: KDnuggets
+  title: Build an AI Data Analyst That Thinks Like a Senior Analyst
+- category: machine-learning
+  description: Learn seven engineering techniques to train large language models on
+    consumer GPUs without running out of memory.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-approaches-to-efficient-llm-training-on-limited-hardware
+  pub_date: '2026-09-09T12:00:50'
+  source: KDnuggets
+  title: 7 Approaches to Efficient LLM Training on Limited Hardware
 - category: machine-learning
   description: Over the past several years, I have worked through three successive
     generations of intelligent retrieval systems, each solving problems the previous
@@ -88,23 +130,6 @@ articles:
   pub_date: '2026-09-02T15:00:00'
   source: MIT AI News
   title: System helps humans predict when self-driving cars will make mistakes
-- category: machine-learning
-  description: Discover how FireDucks can speed up pandas workloads with lazy execution,
-    compiler optimization, and multithreaded processing, delivering up to 20x faster
-    DataFrame performance in our benchmark.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/this-python-library-can-run-pandas-workloads-up-to-20x-faster
-  pub_date: '2026-09-02T14:00:11'
-  source: KDnuggets
-  title: This Python Library Can Run Pandas Workloads Up to 20x Faster
-- category: machine-learning
-  description: Deploy agentic AI across SRE, finance, legal, migration, and security
-    with deterministic safety constraints.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation
-  pub_date: '2026-09-02T12:00:39'
-  source: KDnuggets
-  title: 5 Real-World Applications of Agentic AI in Enterprise Automation
 - category: ai-research
   description: The senior lecturer, already director of the degree program, will now
     oversee all aspects of the center's activities and operations.
@@ -195,14 +220,6 @@ articles:
   source: MIT AI News
   title: Generating scenarios for extreme events, without extreme data
 - category: ai-research
-  description: New MIT research could lead to better materials for a fossil-fuel-free
-    process for making the chemical that's essential to fertilizer and other products.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820
-  pub_date: '2026-08-20T18:45:00'
-  source: MIT AI News
-  title: Paving the way for greener ammonia production
-- category: ai-research
   description: an illustrated image with icons and phrasing like "Add Notebook" and
     "Ask Google"
   icon: fa-google
@@ -225,19 +242,4 @@ articles:
   pub_date: '2026-08-13T16:45:00'
   source: Google AI Blog
   title: Bring your spreadsheet data to life with Sheets canvas
-- category: ai-research
-  description: AMIE promotional video
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/
-  pub_date: '2026-08-11T17:00:00'
-  source: Google AI Blog
-  title: AMIE, our research medical AI system, demonstrates real-time clinical video
-    consultation capabilities in a first-of-its-kind study.
-- category: ai-research
-  description: Advisor UI in Google Ads and Google Analytics
-  icon: fa-google
-  link: https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/
-  pub_date: '2026-08-10T14:30:00'
-  source: Google AI Blog
-  title: Evolve your marketing with new AI tools
-last_updated: '2026-09-09T10:51:11.917951'
+last_updated: '2026-09-10T10:45:24.584919'
