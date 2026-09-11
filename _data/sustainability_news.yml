@@ -1,4 +1,44 @@
 articles:
+- category: supply-chain
+  description: Swisslog installed the first AutoStore AutoCase at a Nowaste warehouse
+    to reduce the manual handling of incoming apparel cartons.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nowaste-first-autostore-autocase-installation
+  pub_date: '2026-09-10T15:05:00'
+  source: Supply Chain 24/7
+  title: Swisslog Installs First AutoStore AutoCase for Nowaste Logistics
+- category: supply-chain
+  description: U.S. container imports rose to 2.6 million TEUs in August, the third-highest
+    monthly total on record, as port delays increased.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-container-imports-third-highest-august-2026
+  pub_date: '2026-09-10T14:04:00'
+  source: Supply Chain 24/7
+  title: U.S. Container Imports Hit Third-Highest Level on Record
+- category: supply-chain
+  description: Kuehne+Nagel and DSV share the top spot in Armstrong & Associates'
+    latest freight forwarder ranking as acquisitions reshape the market.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ranking-the-top-25-freight-forwarders
+  pub_date: '2026-09-10T13:28:00'
+  source: Supply Chain 24/7
+  title: 'Ranking the Top 25 Freight Forwarders: Kuehne+Nagel, DSV Top the List'
+- category: supply-chain
+  description: Covenant unveiled Anthem, opened a Dallas factory, and laid out plans
+    to produce as many as 12,000 missiles a year at three sites.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/covenant-anthem-missile-mass-production
+  pub_date: '2026-09-10T13:25:00'
+  source: Supply Chain 24/7
+  title: Covenant Opens Dallas Factory to Build 5,000 Missiles a Year
+- category: supply-chain
+  description: Wiwynn will invest more than $1.6 billion in a Texas plant that builds
+    server systems and racks for Amazon data centers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-wiwynn-texas-server-plant-jobs
+  pub_date: '2026-09-10T12:34:00'
+  source: Supply Chain 24/7
+  title: Amazon, Wiwynn Expand Texas Plant With $1.6 Billion Investment
 - category: circular
   description: North Somerset Council has approved proposals to develop a new waste
     depot and household waste recycling centre. The post Proposals agreed for new
@@ -66,46 +106,6 @@ articles:
   pub_date: '2026-09-09T07:30:00'
   source: Circular Online
   title: Two men arrested in connection with Kidlington illegal waste site
-- category: supply-chain
-  description: DHL Express has launched a service for U.S. businesses shipping large
-    items, with a limit of 2,200 pounds per piece and 6,600 per shipment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-heavy-weight-express-air-freight
-  pub_date: '2026-09-08T13:56:00'
-  source: Supply Chain 24/7
-  title: DHL Adds Express Delivery for Shipments Up to 6,600 Pounds
-- category: supply-chain
-  description: 'MHI has confirmed the dates and venues for two MODEX trade shows in
-    2028: Atlanta on April 3-5 and Las Vegas on Oct. 18-20.'
-  icon: fa-box
-  link: https://www.supplychain247.com/article/modex-2028-dates-set-for-atlanta-and-las-vegas-shows
-  pub_date: '2026-09-08T13:50:00'
-  source: Supply Chain 24/7
-  title: MODEX 2028 Dates Set for Atlanta and Las Vegas Shows
-- category: supply-chain
-  description: Manufacturers are seeing more quote requests but fewer firm orders,
-    forcing difficult decisions about workers, costs, cash, and investments.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturers-more-quotes-fewer-orders-wipfli
-  pub_date: '2026-09-08T13:39:00'
-  source: Supply Chain 24/7
-  title: Manufacturers Are Getting More Quotes, but Not More Orders
-- category: supply-chain
-  description: In this roundtable, shipping experts look at how tariffs are reshaping
-    peak season and whether ocean carriers can keep freight rates high.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ocean-shipping-peak-season-rates-tariffs
-  pub_date: '2026-09-08T13:05:00'
-  source: Supply Chain 24/7
-  title: Ocean Shipping’s Peak Season Has Become a Moving Target
-- category: supply-chain
-  description: SK hynix broke ground on a $4 billion Indiana plant that will package
-    advanced AI memory chips, with production set to begin in 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/sk-hynix-indiana-ai-memory-chip-plant
-  pub_date: '2026-09-08T10:38:00'
-  source: Supply Chain 24/7
-  title: SK hynix Breaks Ground on $4 Billion Plant in West Lafayette, Indiana
 - category: circular
   description: A court order now prevents access to a former quarry in West Yorkshire
     where waste has been dumped illegally. The restriction order bans waste from being
@@ -169,4 +169,4 @@ articles:
   pub_date: '2026-09-03T08:06:31'
   source: Circular Online
   title: Designers tackle vape fires and battery recovery in circular economy pilot
-last_updated: '2026-09-10T10:45:23.854598'
+last_updated: '2026-09-11T10:42:50.203990'
