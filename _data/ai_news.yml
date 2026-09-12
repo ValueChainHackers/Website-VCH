@@ -1,5 +1,31 @@
 articles:
 - category: machine-learning
+  description: Learn how to refactor messy Python code into clean, maintainable functions.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide
+  pub_date: '2026-09-11T14:00:10'
+  source: KDnuggets
+  title: 'From Spaghetti Code to Clean Python: A Beginner’s Guide'
+- category: ai-research
+  description: The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory
+    and Massachusetts General Hospital, promises improved health outcomes for injured
+    service members and civilians.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911
+  pub_date: '2026-09-11T13:45:00'
+  source: MIT AI News
+  title: Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer
+    Award
+- category: machine-learning
+  description: This article explains 5 Python techniques for efficient resource orchestration
+    and sticks to what's stable today, 3.11 and later for the core techniques, with
+    one 3.14-specific tool called out explici...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration
+  pub_date: '2026-09-11T12:00:27'
+  source: KDnuggets
+  title: 5 Python Techniques for Efficient Resource Orchestration
+- category: machine-learning
   description: If you're paying for ChatGPT, Claude, and another AI tool simultaneously,
     this review is for you. It covers what an AI platform like Abacus AI actually
     includes, how the credit system works in practic...
@@ -102,22 +128,6 @@ articles:
   pub_date: '2026-09-08T15:00:37'
   source: KDnuggets
   title: Is ArrowJS Really the UI for the Agentic Era? Here’s What I Found
-- category: machine-learning
-  description: Explore five free ways to access AI coding agents, proprietary coding
-    models, and open-weight models without paying for expensive subscriptions or GPUs.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-ways-i-access-coding-models-for-free
-  pub_date: '2026-09-08T14:02:37'
-  source: KDnuggets
-  title: 5 Ways I Access Coding Models for Free
-- category: machine-learning
-  description: Stop sending every AI request to your most expensive model. See how
-    intelligent routing can cut cost and latency without sacrificing much quality.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library
-  pub_date: '2026-09-04T14:00:07'
-  source: KDnuggets
-  title: 'Switchyard: NVIDIA’s Open Source Routing Library'
 - category: ai-research
   description: MIT affiliates engage with the MIT-IBM Computing Research Lab to bring
     rigorous theory to production systems.
@@ -223,14 +233,6 @@ articles:
   source: Google AI Blog
   title: 5 ways to upgrade your home decor with Google Search
 - category: ai-research
-  description: A new algorithm learns to anticipate the unprecedented scenarios that
-    critical infrastructure and global supply chains are least prepared for.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
-  pub_date: '2026-08-24T18:00:00'
-  source: MIT AI News
-  title: Generating scenarios for extreme events, without extreme data
-- category: ai-research
   description: an illustrated image with icons and phrasing like "Add Notebook" and
     "Ask Google"
   icon: fa-google
@@ -246,4 +248,4 @@ articles:
   pub_date: '2026-08-17T08:00:00'
   source: Google AI Blog
   title: Get closer to the game with Gemini and Pixel
-last_updated: '2026-09-11T10:42:51.140437'
+last_updated: '2026-09-12T10:12:01.967091'

@@ -1,5 +1,37 @@
 articles:
 - category: supply-chain
+  description: DHL and Alibaba.com will explore adding real-time freight quotes and
+    shipment booking to Accio for small and midsize businesses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-alibaba-ai-freight-booking-small-businesses
+  pub_date: '2026-09-11T13:45:00'
+  source: Supply Chain 24/7
+  title: DHL, Alibaba Plan AI Freight Tools for Small Businesses
+- category: supply-chain
+  description: Hardis launched an online calculator that estimates five-year WMS returns
+    using warehouse data and benchmarks from more than 550 customers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hardis-launches-wms-roi-calculator
+  pub_date: '2026-09-11T13:44:00'
+  source: Supply Chain 24/7
+  title: Hardis Launches Calculator to Estimate the Payback From a WMS
+- category: supply-chain
+  description: New York City has redesigned its truck routes for the first time since
+    the 1970s to move more trucks away from residential streets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nyc-redesigns-truck-routes-residential-streets
+  pub_date: '2026-09-11T13:37:00'
+  source: Supply Chain 24/7
+  title: NYC Redesigns Truck Routes for First Time Since the 1970s
+- category: supply-chain
+  description: Prologis plans to build a 1 million-square-foot warehouse on 69 acres
+    in Minooka, Illinois, with construction set to begin soon.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/prologis-1-million-square-foot-warehouse-minooka-illinois
+  pub_date: '2026-09-11T13:20:00'
+  source: Supply Chain 24/7
+  title: Prologis Plans 1 Million-Square-Foot Warehouse Near Chicago
+- category: supply-chain
   description: Swisslog installed the first AutoStore AutoCase at a Nowaste warehouse
     to reduce the manual handling of incoming apparel cartons.
   icon: fa-box
@@ -56,38 +88,6 @@ articles:
   pub_date: '2026-09-09T17:32:00'
   source: Supply Chain 24/7
   title: Kardex Brings Its AutoStore Warehouse Business to Canada
-- category: supply-chain
-  description: Warehouses can cut dock delays and speed deliveries by sequencing picking,
-    staging, and trailer loading around each route's stops.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/plan-trailer-loading-before-warehouse-picking
-  pub_date: '2026-09-09T17:07:00'
-  source: Supply Chain 24/7
-  title: How Smarter Picking Can Prevent Costly Trailer Misloads
-- category: supply-chain
-  description: Five governments are planning a truck charging and hydrogen fueling
-    route along the West Coast from British Columbia to Baja California.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/west-coast-electric-truck-charging-corridor
-  pub_date: '2026-09-09T15:49:00'
-  source: Supply Chain 24/7
-  title: West Coast Truck Charging Plan Crosses Three Countries
-- category: supply-chain
-  description: DCL's Brian Tu explains how shippers can lower costs, test new carriers,
-    review packaging, and catch delivery problems during peak season.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-shippers-can-cut-peak-season-costs
-  pub_date: '2026-09-09T14:57:00'
-  source: Supply Chain 24/7
-  title: Peak Season Is Closing In. Shippers Still Have Time to Cut Costs
-- category: supply-chain
-  description: Trimble acquired Terasat Japan, expanding its high-precision positioning
-    service through a network of more than 1,300 reference stations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trimble-acquires-terasat-japan-positioning-network
-  pub_date: '2026-09-09T12:53:00'
-  source: Supply Chain 24/7
-  title: Trimble Expands Positioning Network With Terasat Japan Deal
 - category: circular
   description: The Local Government Association has said there is 'no excuse for the
     government's mishandling' of the plan to reorganise local authorities. The post
@@ -169,4 +169,4 @@ articles:
   pub_date: '2026-09-03T08:06:31'
   source: Circular Online
   title: Designers tackle vape fires and battery recovery in circular economy pilot
-last_updated: '2026-09-11T10:42:50.203990'
+last_updated: '2026-09-12T10:12:00.598412'
