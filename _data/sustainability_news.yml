@@ -1,4 +1,22 @@
 articles:
+- category: circular
+  description: CIWM is calling on the government to set a clear new strategic direction
+    for England's resources and waste sector through the 2030s. The post CIWM calls
+    for new resources and waste strategy for 2030s ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-calls-for-new-resources-and-waste-strategy-for-2030s/
+  pub_date: '2026-09-14T10:27:41'
+  source: Circular Online
+  title: CIWM calls for new resources and waste strategy for 2030s
+- category: circular
+  description: A House of Lords Committee has questioned if the new maximum fixed
+    penalty level of GBP5,000 for fly-tipping will act as a 'sufficient deterrent'.
+    The post Lords Committee doubts if GBP5,000 fines for...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/lords-committee-doubts-if-5000-fines-for-fly-tipping-will-deter-waste-criminals/
+  pub_date: '2026-09-14T09:17:31'
+  source: Circular Online
+  title: Lords Committee doubts if £5,000 fines for fly-tipping will deter waste criminals
 - category: supply-chain
   description: DHL and Alibaba.com will explore adding real-time freight quotes and
     shipment booking to Accio for small and midsize businesses.
@@ -151,22 +169,4 @@ articles:
   pub_date: '2026-09-07T07:45:17'
   source: Circular Online
   title: Investigation opens after three illegal waste sites found in the North East
-- category: circular
-  description: Drinks producers would pay no per-container producer fees for the first
-    15 months of the deposit return scheme under plans announced by Exchange for Change.
-    The proposed structure would set fees at 0p...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/zero-producer-fees-planned-for-deposit-return-schemes-first-15-months/
-  pub_date: '2026-09-03T08:11:49'
-  source: Circular Online
-  title: Zero producer fees planned for deposit return scheme’s first 15 months
-- category: circular
-  description: Fifteen designers have developed concepts to tackle vape fires, improve
-    battery recovery and reduce product waste through a pilot programme funded by
-    CIWM. The post Designers tackle vape fires and bat...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/designers-tackle-vape-fires-and-battery-recovery-in-circular-economy-pilot/
-  pub_date: '2026-09-03T08:06:31'
-  source: Circular Online
-  title: Designers tackle vape fires and battery recovery in circular economy pilot
-last_updated: '2026-09-13T11:11:47.838797'
+last_updated: '2026-09-14T11:58:14.367920'

@@ -1,4 +1,20 @@
 articles:
+- category: ai-research
+  description: The "HardFlow" algorithm could help generative AI models produce high-quality
+    outputs that obey strict requirements when "pretty close" doesn't cut it.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914
+  pub_date: '2026-09-14T04:00:00'
+  source: MIT AI News
+  title: New method enables AI for safety-critical situations
+- category: ai-research
+  description: Atlas Building Composites is commercializing MIT research to turn plastic
+    waste into parts for buildings and other infrastructure.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914
+  pub_date: '2026-09-14T04:00:00'
+  source: MIT AI News
+  title: MIT spinout turns plastic waste into resilient building materials
 - category: machine-learning
   description: Learn how to refactor messy Python code into clean, maintainable functions.
   icon: fa-chart-bar
@@ -201,29 +217,12 @@ articles:
   source: MIT AI News
   title: How an MIT research project became a global programming language
 - category: ai-research
-  description: A new machine-learning framework aims to improve the success rate of
-    computational protein design while moving away from results that reproduce sequences
-    found in nature.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
-  pub_date: '2026-08-27T19:20:00'
-  source: MIT AI News
-  title: Looking beyond natural sequences
-- category: ai-research
   description: Graphic depicting new travel features for AI Mode in Search
   icon: fa-google
   link: https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/
   pub_date: '2026-08-27T16:00:00'
   source: Google AI Blog
   title: 3 new ways to plan and book travel in Search
-- category: ai-research
-  description: The "CrysVCD" tool developed at MIT could cut the huge amounts of time
-    and money spent on screening out chemically unstable designs.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
-  pub_date: '2026-08-26T09:00:00'
-  source: MIT AI News
-  title: AI helps design new materials that work in the real world
 - category: ai-research
   description: Illustration of ombre rainbow furniture items like a sofa, lamp, and
     chair against a purple background
@@ -248,4 +247,4 @@ articles:
   pub_date: '2026-08-17T08:00:00'
   source: Google AI Blog
   title: Get closer to the game with Gemini and Pixel
-last_updated: '2026-09-13T11:11:48.964859'
+last_updated: '2026-09-14T11:58:15.267893'
