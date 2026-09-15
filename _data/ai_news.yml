@@ -1,5 +1,39 @@
 articles:
 - category: ai-research
+  description: Christina Koch sits down with James Manyika, Google's Senior Vice President
+    of Research, Labs, Technology & Society.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/
+  pub_date: '2026-09-14T19:00:00'
+  source: Google AI Blog
+  title: Watch astronaut Christina Koch and Google’s James Manyika discuss space,
+    technology, and discovery.
+- category: ai-research
+  description: Animation of the text "{DevFest} 2026 Join us! Google Developer Groups"
+    with a globe icon, asterisk icon, icon
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/
+  pub_date: '2026-09-14T16:00:00'
+  source: Google AI Blog
+  title: DevFest is back
+- category: machine-learning
+  description: Senior Python practice, watched up close, is mostly surprise reduction.
+    These seven habits surface the surprises before production does.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-python-best-practices-senior-developers-follow-that-beginners-often-miss
+  pub_date: '2026-09-14T14:00:09'
+  source: KDnuggets
+  title: 7 Python Best Practices Senior Developers Follow (That Beginners Often Miss)
+- category: machine-learning
+  description: DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture,
+    MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make
+    powerful open-source AI models far more efficient t...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release
+  pub_date: '2026-09-14T12:00:09'
+  source: KDnuggets
+  title: Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release
+- category: ai-research
   description: The "HardFlow" algorithm could help generative AI models produce high-quality
     outputs that obey strict requirements when "pretty close" doesn't cut it.
   icon: fa-graduation-cap
@@ -126,24 +160,6 @@ articles:
   pub_date: '2026-09-09T12:00:50'
   source: KDnuggets
   title: 7 Approaches to Efficient LLM Training on Limited Hardware
-- category: machine-learning
-  description: Over the past several years, I have worked through three successive
-    generations of intelligent retrieval systems, each solving problems the previous
-    generation could not. Here is what I have learned.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems
-  pub_date: '2026-09-08T16:00:12'
-  source: KDnuggets
-  title: 'From RAG to Agentic AI: Building the Next Generation of Intelligent Enterprise
-    Systems'
-- category: machine-learning
-  description: The way we build interfaces is changing. As AI agents write more of
-    our code, the tools we use to render that code may need to change too.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/is-arrowjs-really-the-ui-for-the-agentic-era
-  pub_date: '2026-09-08T15:00:37'
-  source: KDnuggets
-  title: Is ArrowJS Really the UI for the Agentic Era? Here’s What I Found
 - category: ai-research
   description: MIT affiliates engage with the MIT-IBM Computing Research Lab to bring
     rigorous theory to production systems.
@@ -231,20 +247,4 @@ articles:
   pub_date: '2026-08-25T16:00:00'
   source: Google AI Blog
   title: 5 ways to upgrade your home decor with Google Search
-- category: ai-research
-  description: an illustrated image with icons and phrasing like "Add Notebook" and
-    "Ask Google"
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/
-  pub_date: '2026-08-19T19:00:00'
-  source: Google AI Blog
-  title: 5 new ways to level up your learning with Search
-- category: ai-research
-  description: Low-angle view of a soccer player kicking a ball mid-air against a
-    bright blue sky, with grass flying from their cleats.
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/
-  pub_date: '2026-08-17T08:00:00'
-  source: Google AI Blog
-  title: Get closer to the game with Gemini and Pixel
-last_updated: '2026-09-14T11:58:15.267893'
+last_updated: '2026-09-15T11:13:29.692688'

@@ -1,5 +1,23 @@
 articles:
 - category: circular
+  description: LARAC is calling for an urgent review into the impact of the UK's Deposit
+    Return Schemes (DRS) on councils. The post LARAC calls for 'urgent review' into
+    impact of DRS on councils appeared first on Ci...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/larac-calls-for-urgent-review-into-impact-of-drs-on-councils/
+  pub_date: '2026-09-15T08:30:43'
+  source: Circular Online
+  title: LARAC calls for ‘urgent review’ into impact of DRS on councils
+- category: circular
+  description: The operator of three illegal waste sites near Harleston, Norfolk,
+    has been fined GBP20,000 and handed a 12-month suspended prison sentence. The
+    post Company director handed 12-month suspended sentenc...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/company-director-handed-12-month-suspended-sentence-for-waste-offences/
+  pub_date: '2026-09-15T07:30:00'
+  source: Circular Online
+  title: Company director handed 12-month suspended sentence for waste offences
+- category: circular
   description: CIWM is calling on the government to set a clear new strategic direction
     for England's resources and waste sector through the 2030s. The post CIWM calls
     for new resources and waste strategy for 2030s ...
@@ -151,22 +169,4 @@ articles:
   pub_date: '2026-09-08T07:32:43'
   source: Circular Online
   title: New video shows moment battery catches fire at Waste Transfer Station
-- category: circular
-  description: Plastic Overshoot Day, the point at which global plastic waste exceeds
-    the world's capacity to manage it properly, arrived on 6 September, which means
-    almost 72 million tonnes of plastic will leak int...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/72-million-tonnes-of-plastic-waste-will-be-polluted-this-year-research-finds/
-  pub_date: '2026-09-07T10:27:37'
-  source: Circular Online
-  title: 72 million tonnes of plastic waste will be polluted this year, research finds
-- category: circular
-  description: The Environment Agency is investigating three illegal waste sites in
-    the North East, which amount to almost 3,500 tonnes of shredded household waste.
-    The post Investigation opens after three illegal w...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/investigation-opens-after-three-illegal-waste-sites-found-in-the-north-east/
-  pub_date: '2026-09-07T07:45:17'
-  source: Circular Online
-  title: Investigation opens after three illegal waste sites found in the North East
-last_updated: '2026-09-14T11:58:14.367920'
+last_updated: '2026-09-15T11:13:28.868102'
