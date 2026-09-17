@@ -1,4 +1,44 @@
 articles:
+- category: supply-chain
+  description: Agility's Digit 5 humanoid can lift 50 pounds, charge in nine minutes,
+    and handle more jobs alongside warehouse and factory workers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/agility-robotics-digit-5-humanoid-warehouse-work
+  pub_date: '2026-09-16T14:10:00'
+  source: Supply Chain 24/7
+  title: Agility Robotics Unveils Digit 5 With Heavier Lift, Faster Charge
+- category: supply-chain
+  description: RAC 26 begins at noon ET today with six free virtual sessions focused
+    on warehouse automation, manufacturing, and real-world robotics deployments.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/rac-26-robotics-conference-register-now
+  pub_date: '2026-09-16T13:50:00'
+  source: Supply Chain 24/7
+  title: 'REGISTER NOW: RAC 26 Virtual Conference Starts at Noon'
+- category: supply-chain
+  description: Gartner identifies four forms of warehouse AI that range from forecasting
+    and labor planning tools to semiautonomous agents and robots.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-four-ai-trends-warehouse-operations
+  pub_date: '2026-09-16T13:32:00'
+  source: Supply Chain 24/7
+  title: Gartner Names Four AI Trends Reshaping Warehouse Work
+- category: supply-chain
+  description: Employers may need to fill 2.3 million technician openings by 2030,
+    and Deloitte says AI could help manufacturers train workers faster.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-technician-openings-ai-workforce-deloitte
+  pub_date: '2026-09-16T13:24:00'
+  source: Supply Chain 24/7
+  title: 'Deloitte: 2.3 Million Technician Openings Raise Stakes for Manufacturers'
+- category: supply-chain
+  description: Hitachi Energy plans a $528 million Mississippi transformer plant that
+    will create more than 650 jobs and begin production in 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hitachi-energy-mississippi-transformer-factory
+  pub_date: '2026-09-16T13:13:00'
+  source: Supply Chain 24/7
+  title: Hitachi Energy Plans $528 Million Mississippi Transformer Plant
 - category: circular
   description: 'Circular Online brings you the latest developments from the RWM Expo
     2026, check back throughout the next two days for insights from the conference.
@@ -84,46 +124,6 @@ articles:
   pub_date: '2026-09-14T09:17:31'
   source: Circular Online
   title: Lords Committee doubts if £5,000 fines for fly-tipping will deter waste criminals
-- category: supply-chain
-  description: DHL and Alibaba.com will explore adding real-time freight quotes and
-    shipment booking to Accio for small and midsize businesses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-alibaba-ai-freight-booking-small-businesses
-  pub_date: '2026-09-11T13:45:00'
-  source: Supply Chain 24/7
-  title: DHL, Alibaba Plan AI Freight Tools for Small Businesses
-- category: supply-chain
-  description: Hardis launched an online calculator that estimates five-year WMS returns
-    using warehouse data and benchmarks from more than 550 customers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hardis-launches-wms-roi-calculator
-  pub_date: '2026-09-11T13:44:00'
-  source: Supply Chain 24/7
-  title: Hardis Launches Calculator to Estimate the Payback From a WMS
-- category: supply-chain
-  description: New York City has redesigned its truck routes for the first time since
-    the 1970s to move more trucks away from residential streets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nyc-redesigns-truck-routes-residential-streets
-  pub_date: '2026-09-11T13:37:00'
-  source: Supply Chain 24/7
-  title: NYC Redesigns Truck Routes for First Time Since the 1970s
-- category: supply-chain
-  description: Prologis plans to build a 1 million-square-foot warehouse on 69 acres
-    in Minooka, Illinois, with construction set to begin soon.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/prologis-1-million-square-foot-warehouse-minooka-illinois
-  pub_date: '2026-09-11T13:20:00'
-  source: Supply Chain 24/7
-  title: Prologis Plans 1 Million-Square-Foot Warehouse Near Chicago
-- category: supply-chain
-  description: Swisslog installed the first AutoStore AutoCase at a Nowaste warehouse
-    to reduce the manual handling of incoming apparel cartons.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nowaste-first-autostore-autocase-installation
-  pub_date: '2026-09-10T15:05:00'
-  source: Supply Chain 24/7
-  title: Swisslog Installs First AutoStore AutoCase for Nowaste Logistics
 - category: circular
   description: North Somerset Council has approved proposals to develop a new waste
     depot and household waste recycling centre. The post Proposals agreed for new
@@ -169,4 +169,4 @@ articles:
   pub_date: '2026-09-08T09:07:48'
   source: Circular Online
   title: Virgin Media O2 commits to investing £3m in tech reuse services
-last_updated: '2026-09-16T10:56:38.602344'
+last_updated: '2026-09-17T11:05:31.903078'
