@@ -1,5 +1,13 @@
 articles:
 - category: ai-research
+  description: This patient-specific method, called xvr, helps doctors use X-rays
+    for surgical navigation in fields such as orthopedics and neurosurgery.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916
+  pub_date: '2026-09-16T15:00:00'
+  source: MIT AI News
+  title: New AI technique could make minimally invasive surgeries safer and more precise
+- category: ai-research
   description: Naoki Egami has become a standout in political methodology, helping
     refine tools that give scholars durable results.
   icon: fa-graduation-cap
@@ -7,15 +15,6 @@ articles:
   pub_date: '2026-09-16T04:00:00'
   source: MIT AI News
   title: Measure by measure, studying society accurately
-- category: machine-learning
-  description: Explore how JONI approaches AI agent orchestration with persistent
-    runtimes, multi-model routing, execution capabilities, and reliability beyond
-    simple content generation.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer
-  pub_date: '2026-09-15T17:00:24'
-  source: KDnuggets
-  title: 'Orchestration and Execution: How JONI Approaches the Agent Layer'
 - category: ai-research
   description: Explore this collection to see how experts and local leaders are using
     AI breakthroughs to ensure everyone can share the opportunity of AI.
@@ -39,15 +38,6 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: AI for everyone in every language
-- category: machine-learning
-  description: Opal is Google Labs' no-code tool for turning natural language into
-    working AI mini-apps, built on top of an internal framework called Breadboard.
-    Here's how I learned to use it best.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations
-  pub_date: '2026-09-15T14:00:30'
-  source: KDnuggets
-  title: How I’m Using Google Opal for Even More AI Automations
 - category: ai-research
   description: Text "AI & Economy Atlas v1.0 2026" with the Google G and a spinning
     globe illustration
@@ -56,15 +46,6 @@ articles:
   pub_date: '2026-09-15T13:00:00'
   source: Google AI Blog
   title: New insights from Google’s AI & Economy ATLAS
-- category: machine-learning
-  description: Explore five free Microsoft GitHub courses covering data science, machine
-    learning, artificial intelligence, generative AI, LLMs, RAG, fine-tuning, and
-    AI agents.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence
-  pub_date: '2026-09-15T12:00:29'
-  source: KDnuggets
-  title: 5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence
 - category: ai-research
   description: Christina Koch sits down with James Manyika, Google's Senior Vice President
     of Research, Labs, Technology & Society.
@@ -82,23 +63,6 @@ articles:
   pub_date: '2026-09-14T16:00:00'
   source: Google AI Blog
   title: DevFest is back
-- category: machine-learning
-  description: Senior Python practice, watched up close, is mostly surprise reduction.
-    These seven habits surface the surprises before production does.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-python-best-practices-senior-developers-follow-that-beginners-often-miss
-  pub_date: '2026-09-14T14:00:09'
-  source: KDnuggets
-  title: 7 Python Best Practices Senior Developers Follow (That Beginners Often Miss)
-- category: machine-learning
-  description: DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture,
-    MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make
-    powerful open-source AI models far more efficient t...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release
-  pub_date: '2026-09-14T12:00:09'
-  source: KDnuggets
-  title: Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release
 - category: ai-research
   description: The "HardFlow" algorithm could help generative AI models produce high-quality
     outputs that obey strict requirements when "pretty close" doesn't cut it.
@@ -115,13 +79,6 @@ articles:
   pub_date: '2026-09-14T04:00:00'
   source: MIT AI News
   title: MIT spinout turns plastic waste into resilient building materials
-- category: machine-learning
-  description: Learn how to refactor messy Python code into clean, maintainable functions.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide
-  pub_date: '2026-09-11T14:00:10'
-  source: KDnuggets
-  title: 'From Spaghetti Code to Clean Python: A Beginner’s Guide'
 - category: ai-research
   description: The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory
     and Massachusetts General Hospital, promises improved health outcomes for injured
@@ -132,34 +89,6 @@ articles:
   source: MIT AI News
   title: Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer
     Award
-- category: machine-learning
-  description: This article explains 5 Python techniques for efficient resource orchestration
-    and sticks to what's stable today, 3.11 and later for the core techniques, with
-    one 3.14-specific tool called out explici...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration
-  pub_date: '2026-09-11T12:00:27'
-  source: KDnuggets
-  title: 5 Python Techniques for Efficient Resource Orchestration
-- category: machine-learning
-  description: If you're paying for ChatGPT, Claude, and another AI tool simultaneously,
-    this review is for you. It covers what an AI platform like Abacus AI actually
-    includes, how the credit system works in practic...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/09/abacus/abacus-ai-candid-review/
-  pub_date: '2026-09-10T17:00:30'
-  source: KDnuggets
-  title: 'A Candid Abacus AI Review: The All-in-One AI Platform for Professionals
-    & Enterprises'
-- category: machine-learning
-  description: Once feature engineering lives inside a Pipeline, each step is fitted
-    on training data only, and the model is scored what it actually earned. And that
-    is the idea behind this new cheat sheet.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/feature-engineering-in-scikit-learn-a-kdnuggets-cheat-sheet
-  pub_date: '2026-09-10T16:14:33'
-  source: KDnuggets
-  title: 'Feature Engineering in Scikit-Learn: A KDnuggets Cheat Sheet'
 - category: ai-research
   description: Illustration on a blue background of technicolor runners with a magnifying
     glass and Gemini spark overlaid
@@ -168,14 +97,6 @@ articles:
   pub_date: '2026-09-10T16:00:00'
   source: Google AI Blog
   title: 3 ways to prep for your next big race with Search
-- category: machine-learning
-  description: FDEs are becoming some of the most in-demand engineers in AI. Here's
-    the 7-step roadmap to becoming one in 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-steps-to-become-a-forward-deployed-engineer-in-2026
-  pub_date: '2026-09-10T14:00:10'
-  source: KDnuggets
-  title: 7 Steps to Become a Forward Deployed Engineer in 2026
 - category: ai-research
   description: A weeklong summer workshop brought higher education faculty to campus
     to explore how AI and machine learning materials can be adapted for their classrooms.
@@ -241,12 +162,4 @@ articles:
   pub_date: '2026-09-01T04:00:00'
   source: MIT AI News
   title: 'Ila Kumar: Innovating with communities'
-- category: ai-research
-  description: The Institute welcomes its first cohort of QMIT Fellows this fall to
-    advance interdisciplinary quantum research.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831
-  pub_date: '2026-08-31T19:30:00'
-  source: MIT AI News
-  title: MIT Quantum Initiative launches postdoctoral fellowship program
-last_updated: '2026-09-16T10:56:39.556166'
+last_updated: '2026-09-17T11:05:33.104352'
