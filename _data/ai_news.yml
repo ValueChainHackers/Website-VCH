@@ -1,5 +1,30 @@
 articles:
 - category: ai-research
+  description: UN System Data Commons Data webpage
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/
+  pub_date: '2026-09-17T20:00:00'
+  source: Google AI Blog
+  title: Making global data easier to explore
+- category: machine-learning
+  description: This article walks through how ChatGPT Work specifically earns its
+    reputation, where the underlying models genuinely hold up against the competition,
+    and where the honest limits are.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/whats-so-good-about-chatgpt-work-heres-what-i-found
+  pub_date: '2026-09-17T14:00:32'
+  source: KDnuggets
+  title: What’s So Good About ChatGPT Work? Here’s What I Found
+- category: machine-learning
+  description: Explore five free hands-on workshops covering data engineering, machine
+    learning, MLOps, LLMs, AI agents, and AI development through practical lessons,
+    homework, projects, and community-based learning...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-zoomcamps-from-data-pipelines-to-ai-agents
+  pub_date: '2026-09-17T12:00:14'
+  source: KDnuggets
+  title: 5 Free Zoomcamps From Data Pipelines to AI Agents
+- category: ai-research
   description: This patient-specific method, called xvr, helps doctors use X-rays
     for surgical navigation in fields such as orthopedics and neurosurgery.
   icon: fa-graduation-cap
@@ -7,6 +32,23 @@ articles:
   pub_date: '2026-09-16T15:00:00'
   source: MIT AI News
   title: New AI technique could make minimally invasive surgeries safer and more precise
+- category: machine-learning
+  description: Scikit-LLM wraps language models in the scikit-learn estimator API,
+    so it drops into a Pipeline or a cross-validation loop natively.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/estimators-in-scikit-llm-a-kdnuggets-cheat-sheet
+  pub_date: '2026-09-16T13:58:19'
+  source: KDnuggets
+  title: 'Estimators in Scikit-LLM: A KDnuggets Cheat Sheet'
+- category: machine-learning
+  description: Learn how to build effective evals for AI agents, from designing clear
+    tasks and choosing the right graders to building reliable eval harnesses and tracking
+    changes over time.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents
+  pub_date: '2026-09-16T12:00:50'
+  source: KDnuggets
+  title: How to Build Effective Evals for AI Agents
 - category: ai-research
   description: Naoki Egami has become a standout in political methodology, helping
     refine tools that give scholars durable results.
@@ -15,6 +57,15 @@ articles:
   pub_date: '2026-09-16T04:00:00'
   source: MIT AI News
   title: Measure by measure, studying society accurately
+- category: machine-learning
+  description: Explore how JONI approaches AI agent orchestration with persistent
+    runtimes, multi-model routing, execution capabilities, and reliability beyond
+    simple content generation.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer
+  pub_date: '2026-09-15T17:00:24'
+  source: KDnuggets
+  title: 'Orchestration and Execution: How JONI Approaches the Agent Layer'
 - category: ai-research
   description: Explore this collection to see how experts and local leaders are using
     AI breakthroughs to ensure everyone can share the opportunity of AI.
@@ -38,6 +89,15 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: AI for everyone in every language
+- category: machine-learning
+  description: Opal is Google Labs' no-code tool for turning natural language into
+    working AI mini-apps, built on top of an internal framework called Breadboard.
+    Here's how I learned to use it best.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations
+  pub_date: '2026-09-15T14:00:30'
+  source: KDnuggets
+  title: How I’m Using Google Opal for Even More AI Automations
 - category: ai-research
   description: Text "AI & Economy Atlas v1.0 2026" with the Google G and a spinning
     globe illustration
@@ -46,6 +106,15 @@ articles:
   pub_date: '2026-09-15T13:00:00'
   source: Google AI Blog
   title: New insights from Google’s AI & Economy ATLAS
+- category: machine-learning
+  description: Explore five free Microsoft GitHub courses covering data science, machine
+    learning, artificial intelligence, generative AI, LLMs, RAG, fine-tuning, and
+    AI agents.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence
+  pub_date: '2026-09-15T12:00:29'
+  source: KDnuggets
+  title: 5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence
 - category: ai-research
   description: Christina Koch sits down with James Manyika, Google's Senior Vice President
     of Research, Labs, Technology & Society.
@@ -63,6 +132,23 @@ articles:
   pub_date: '2026-09-14T16:00:00'
   source: Google AI Blog
   title: DevFest is back
+- category: machine-learning
+  description: Senior Python practice, watched up close, is mostly surprise reduction.
+    These seven habits surface the surprises before production does.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-python-best-practices-senior-developers-follow-that-beginners-often-miss
+  pub_date: '2026-09-14T14:00:09'
+  source: KDnuggets
+  title: 7 Python Best Practices Senior Developers Follow (That Beginners Often Miss)
+- category: machine-learning
+  description: DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture,
+    MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make
+    powerful open-source AI models far more efficient t...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release
+  pub_date: '2026-09-14T12:00:09'
+  source: KDnuggets
+  title: Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release
 - category: ai-research
   description: The "HardFlow" algorithm could help generative AI models produce high-quality
     outputs that obey strict requirements when "pretty close" doesn't cut it.
@@ -79,6 +165,13 @@ articles:
   pub_date: '2026-09-14T04:00:00'
   source: MIT AI News
   title: MIT spinout turns plastic waste into resilient building materials
+- category: machine-learning
+  description: Learn how to refactor messy Python code into clean, maintainable functions.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide
+  pub_date: '2026-09-11T14:00:10'
+  source: KDnuggets
+  title: 'From Spaghetti Code to Clean Python: A Beginner’s Guide'
 - category: ai-research
   description: The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory
     and Massachusetts General Hospital, promises improved health outcomes for injured
@@ -132,13 +225,6 @@ articles:
   source: MIT AI News
   title: From MIT to IBM, expediting AI and quantum deployment
 - category: ai-research
-  description: Introducing Fairwind Program
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/
-  pub_date: '2026-09-02T15:40:00'
-  source: Google AI Blog
-  title: Proactive cyber defense for governments and enterprises
-- category: ai-research
   description: A new method, called CW-Net, translates the reasoning process of an
     autonomous vehicle's AI system into understandable concepts that explain its behavior.
   icon: fa-graduation-cap
@@ -162,4 +248,4 @@ articles:
   pub_date: '2026-09-01T04:00:00'
   source: MIT AI News
   title: 'Ila Kumar: Innovating with communities'
-last_updated: '2026-09-17T11:05:33.104352'
+last_updated: '2026-09-18T10:40:37.117627'
