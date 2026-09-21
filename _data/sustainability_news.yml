@@ -1,4 +1,31 @@
 articles:
+- category: circular
+  description: The Earthshot Prize has announced its 2026 finalists ahead of its Awards
+    Night in Mumbai on 17 November. The post Earthshot Prize announces 2026 finalists
+    ahead of November awards night appeared first...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/earthshot-prize-announces-2026-finalists-ahead-of-november-awards-night/
+  pub_date: '2026-09-21T11:40:05'
+  source: Circular Online
+  title: Earthshot Prize announces 2026 finalists ahead of November awards night
+- category: circular
+  description: A waste and recycling company in the West Midlands has been fined after
+    Craig Pearson, 37, was killed while discharging a fire extinguisher. The post
+    Recycling company fined after 'thoughtful and kind...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/recycling-company-fined-after-thoughtful-and-kind-man-killed-at-work/
+  pub_date: '2026-09-21T08:42:14'
+  source: Circular Online
+  title: Recycling company fined after ‘thoughtful and kind man’ killed at work
+- category: circular
+  description: Man who operated waste facility in Sheffield without an environmental
+    permit has been given a 39-week prison sentence, suspended for 18 months, The
+    post Illegal waste site operator in Sheffield senten...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/illegal-waste-site-operator-in-sheffield-sentenced/
+  pub_date: '2026-09-21T08:04:05'
+  source: Circular Online
+  title: Illegal waste site operator in Sheffield sentenced
 - category: supply-chain
   description: FedEx is using secure QR codes to verify recipients before releasing
     select high-value and sensitive packages.
@@ -141,31 +168,4 @@ articles:
   pub_date: '2026-09-09T08:05:44'
   source: Circular Online
   title: Councils criticise decision to ‘pause’ plans to reorganise local authorities
-- category: circular
-  description: Two men have been arrested in connection with the infamous illegal
-    waste site in Kidlington where more than 22,000 tonnes of waste was illegally
-    dumped. The post Two men arrested in connection with Ki...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/two-men-arrested-in-connection-with-kidlington-illegal-waste-site/
-  pub_date: '2026-09-09T07:30:00'
-  source: Circular Online
-  title: Two men arrested in connection with Kidlington illegal waste site
-- category: circular
-  description: A court order now prevents access to a former quarry in West Yorkshire
-    where waste has been dumped illegally. The restriction order bans waste from being
-    imported onto the site and access to the land ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/illegal-waste-site-at-former-yorkshire-quarry-shut-down/
-  pub_date: '2026-09-08T10:04:26'
-  source: Circular Online
-  title: Illegal waste site at former Yorkshire quarry shut down
-- category: circular
-  description: Virgin Media O2 is investing GBP3 million to help councils and community
-    organisations scale local networks to recover, refurbish and redistribute unwanted
-    devices. The post Virgin Media O2 commits to...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/virgin-media-o2-commits-to-investing-3m-in-tech-reuse-services/
-  pub_date: '2026-09-08T09:07:48'
-  source: Circular Online
-  title: Virgin Media O2 commits to investing £3m in tech reuse services
-last_updated: '2026-09-20T10:44:51.883543'
+last_updated: '2026-09-21T12:09:06.065273'
