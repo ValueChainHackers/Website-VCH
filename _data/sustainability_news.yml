@@ -1,5 +1,72 @@
 articles:
 - category: circular
+  description: A Birmingham waste company must pay nearly GBP24,000 after ignoring
+    waste permit regulations and orders to stop operations on its site. Greener Lifestyle
+    Limited was also ordered to comply with a Reme...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/birmingham-waste-company-to-clear-site-and-pay-nearly-24000/
+  pub_date: '2026-09-22T09:48:35'
+  source: Circular Online
+  title: Birmingham waste company to clear site and pay nearly £24,000
+- category: circular
+  description: Greater policy certainty, stronger markets, and more targeted public
+    investment are needed to accelerate reuse, repair and recycling infrastructure,
+    new research from CIWM finds. The post 'Coordinated...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/coordinated-action-needed-to-unlock-investment-in-uk-circular-economy-infrastructure/
+  pub_date: '2026-09-22T08:13:53'
+  source: Circular Online
+  title: ‘Coordinated action’ needed to unlock investment in UK circular economy infrastructure
+- category: circular
+  description: The Prime Minister, Andy Burnham, has said he is 'determined' that
+    the UK achieves its 2050 net zero target. The post Andy Burnham reaffirms commitment
+    to 2050 net zero target appeared first on Circul...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/andy-burnham-reaffirms-commitment-to-2050-net-zero-target/
+  pub_date: '2026-09-22T07:30:00'
+  source: Circular Online
+  title: Andy Burnham reaffirms commitment to 2050 net zero target
+- category: supply-chain
+  description: Kuehne+Nagel will manage logistics for Amazon data centers under a
+    long-term deal that includes an option tied to future business.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kuehnenagel-takes-larger-role-in-amazons-supply-chain
+  pub_date: '2026-09-21T13:40:00'
+  source: Supply Chain 24/7
+  title: Kuehne+Nagel Takes Larger Role in Amazon’s Supply Chain
+- category: supply-chain
+  description: Amazon is raising pay for operations employees by $1 an hour and adding
+    grocery discounts and a lifetime banking benefit for U.S. employees.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-raises-operations-pay-adds-employee-benefits
+  pub_date: '2026-09-21T12:34:00'
+  source: Supply Chain 24/7
+  title: Amazon Raises Minimum Starting Wage to $20/Hour for Full-Time Roles
+- category: supply-chain
+  description: Iowa approved incentives for six manufacturing projects expected to
+    generate nearly $246.5 million in investment and 346 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/iowa-six-manufacturing-projects-246-million-investment
+  pub_date: '2026-09-21T12:33:00'
+  source: Supply Chain 24/7
+  title: Iowa Approves Six Manufacturing Projects Worth Nearly $246 Million
+- category: supply-chain
+  description: SC Ports and Norfolk Southern have launched daily rail service linking
+    Charleston with Huntsville and nearby Southeast markets.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/sc-ports-norfolk-southern-huntsville-rail-service
+  pub_date: '2026-09-21T12:31:00'
+  source: Supply Chain 24/7
+  title: SC Ports, Norfolk Southern Relaunch Daily Huntsville Rail Service
+- category: supply-chain
+  description: Wegmans is investing $110 million in Rochester facilities while moving
+    general merchandise distribution to Pennsylvania.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/wegmans-110-million-rochester-supply-chain-investment
+  pub_date: '2026-09-21T12:10:00'
+  source: Supply Chain 24/7
+  title: Wegmans Invests $110 Million in Rochester Distribution Network
+- category: circular
   description: The Earthshot Prize has announced its 2026 finalists ahead of its Awards
     Night in Mumbai on 17 November. The post Earthshot Prize announces 2026 finalists
     ahead of November awards night appeared first...
@@ -66,46 +133,6 @@ articles:
   pub_date: '2026-09-18T12:54:00'
   source: Supply Chain 24/7
   title: Construction Begins on $669 Million Delaware Container Terminal
-- category: supply-chain
-  description: Reckitt plans to invest up to $600 million in U.S. manufacturing and
-    research projects in North Carolina and New Jersey.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/reckitt-600-million-us-manufacturing-expansion
-  pub_date: '2026-09-17T15:33:00'
-  source: Supply Chain 24/7
-  title: Reckitt Plans $600M Manufacturing Push in North Carolina and New Jersey
-- category: supply-chain
-  description: A 90-day federal waiver gives fuel truck drivers a 16-hour work window
-    as officials respond to supply concerns and record diesel prices.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-fuel-truck-driver-hours-waiver
-  pub_date: '2026-09-17T14:23:00'
-  source: Supply Chain 24/7
-  title: U.S. Extends Driving Window for Fuel-Truck Drivers
-- category: supply-chain
-  description: Logistics companies are rapidly expanding AI use and training, but
-    most workers still want human review before acting on its recommendations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/logistics-ai-use-adoption-trust-study
-  pub_date: '2026-09-17T14:05:00'
-  source: Supply Chain 24/7
-  title: 'Report: Logistics AI Use Surges, but Trust Hasn’t Caught Up'
-- category: supply-chain
-  description: WiseTech's new free dashboard gives shippers and freight forwarders
-    a four-week forecast of ocean freight risk across three major trade lanes.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/wisetech-ocean-freight-risk-outlook
-  pub_date: '2026-09-17T13:55:00'
-  source: Supply Chain 24/7
-  title: WiseTech Launches Tool That Forecasts Ocean Freight Capacity Risks
-- category: supply-chain
-  description: TaskUs' Nick Allen explains how fleets can safely expand autonomous
-    trucking while preparing people to step in when technology falls short.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/autonomous-truck-fleets-human-oversight-safety
-  pub_date: '2026-09-17T13:42:00'
-  source: Supply Chain 24/7
-  title: What Fleets Need Before Scaling Up Autonomous Truck Operations
 - category: circular
   description: Circular Online brings you the latest developments from the RWM Expo
     2026. The post Circular Online at RWM 2026 appeared first on Circular Online.
@@ -141,31 +168,4 @@ articles:
   pub_date: '2026-09-14T10:27:41'
   source: Circular Online
   title: CIWM calls for new resources and waste strategy for 2030s
-- category: circular
-  description: A House of Lords Committee has questioned if the new maximum fixed
-    penalty level of GBP5,000 for fly-tipping will act as a 'sufficient deterrent'.
-    The post Lords Committee doubts if GBP5,000 fines for...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/lords-committee-doubts-if-5000-fines-for-fly-tipping-will-deter-waste-criminals/
-  pub_date: '2026-09-14T09:17:31'
-  source: Circular Online
-  title: Lords Committee doubts if £5,000 fines for fly-tipping will deter waste criminals
-- category: circular
-  description: North Somerset Council has approved proposals to develop a new waste
-    depot and household waste recycling centre. The post Proposals agreed for new
-    GBP56m waste depot and recycling centre appeared firs...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/proposals-agreed-for-new-56m-waste-depot-and-recycling-centre/
-  pub_date: '2026-09-10T08:44:35'
-  source: Circular Online
-  title: Proposals agreed for new £56m waste depot and recycling centre
-- category: circular
-  description: The Local Government Association has said there is 'no excuse for the
-    government's mishandling' of the plan to reorganise local authorities. The post
-    Councils criticise decision to 'pause' plans to re...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/councils-criticise-decision-to-pause-plans-to-reorganise-local-authorities/
-  pub_date: '2026-09-09T08:05:44'
-  source: Circular Online
-  title: Councils criticise decision to ‘pause’ plans to reorganise local authorities
-last_updated: '2026-09-21T12:09:06.065273'
+last_updated: '2026-09-22T11:04:00.188601'
