@@ -1,4 +1,29 @@
 articles:
+- category: ai-research
+  description: Patricia and James Poitras '63 provide fellowships for graduate students
+    and postdocs who will shape the future of mental health research.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922
+  pub_date: '2026-09-22T19:00:00'
+  source: MIT AI News
+  title: Poitras Center to fuel early careers of 50 young scientists dedicated to
+    psychiatric disorders research
+- category: machine-learning
+  description: Learn about private AI browsing for data professionals.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/bravely-ai-browsing-with-leo
+  pub_date: '2026-09-22T14:00:29'
+  source: KDnuggets
+  title: Bravely AI Browsing with Leo
+- category: machine-learning
+  description: Explore seven open-source ChatGPT alternatives, from lightweight local
+    chat interfaces and document assistants to agent platforms, multi-user setups,
+    and complete self-hosted AI workspaces.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally
+  pub_date: '2026-09-22T12:00:28'
+  source: KDnuggets
+  title: 7 Open-Source Alternatives to ChatGPT You Can Run Locally
 - category: machine-learning
   description: A closer look at TypeSafe AI's Jev, what it actually does, what is
     genuinely new, and where the hype goes too far.
@@ -105,15 +130,6 @@ articles:
   pub_date: '2026-09-16T13:58:19'
   source: KDnuggets
   title: 'Estimators in Scikit-LLM: A KDnuggets Cheat Sheet'
-- category: machine-learning
-  description: Learn how to build effective evals for AI agents, from designing clear
-    tasks and choosing the right graders to building reliable eval harnesses and tracking
-    changes over time.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents
-  pub_date: '2026-09-16T12:00:50'
-  source: KDnuggets
-  title: How to Build Effective Evals for AI Agents
 - category: ai-research
   description: Naoki Egami has become a standout in political methodology, helping
     refine tools that give scholars durable results.
@@ -122,15 +138,6 @@ articles:
   pub_date: '2026-09-16T04:00:00'
   source: MIT AI News
   title: Measure by measure, studying society accurately
-- category: machine-learning
-  description: Explore how JONI approaches AI agent orchestration with persistent
-    runtimes, multi-model routing, execution capabilities, and reliability beyond
-    simple content generation.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer
-  pub_date: '2026-09-15T17:00:24'
-  source: KDnuggets
-  title: 'Orchestration and Execution: How JONI Approaches the Agent Layer'
 - category: ai-research
   description: Explore this collection to see how experts and local leaders are using
     AI breakthroughs to ensure everyone can share the opportunity of AI.
@@ -238,12 +245,4 @@ articles:
   pub_date: '2026-09-02T15:00:00'
   source: MIT AI News
   title: System helps humans predict when self-driving cars will make mistakes
-- category: ai-research
-  description: The senior lecturer, already director of the degree program, will now
-    oversee all aspects of the center's activities and operations.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901
-  pub_date: '2026-09-01T21:25:00'
-  source: MIT AI News
-  title: Walter Torous named executive director of MIT Center for Real Estate
-last_updated: '2026-09-22T11:04:01.503028'
+last_updated: '2026-09-23T10:53:36.221816'
