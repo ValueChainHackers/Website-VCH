@@ -1,5 +1,55 @@
 articles:
 - category: circular
+  description: The UK recycling rate for waste from households was 44.5% in 2024,
+    down 0.1 percentage points from 44.6% in 2023. The post UK recycling rate remains
+    stagnant at 44.5% appeared first on Circular Online...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-recycling-rate-remains-stagnant-at-44-5/
+  pub_date: '2026-09-23T09:34:55'
+  source: Circular Online
+  title: UK recycling rate remains stagnant at 44.5%
+- category: circular
+  description: The 'first-of-its-kind' initiative in Bristol will test whether a scheme
+    with no deposits or app can be replicated city-wide. The post Deposit-free, app-free
+    reusable cup scheme launches in Bristol ap...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/deposit-free-app-free-reusable-cup-scheme-launches-in-bristol/
+  pub_date: '2026-09-23T07:55:24'
+  source: Circular Online
+  title: Deposit-free, app-free reusable cup scheme launches in Bristol
+- category: supply-chain
+  description: Many warehouses use only half of their WMS functions. Five overlooked
+    features could improve inventory, labor, and order fulfillment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/five-wms-features-warehouses-are-not-using
+  pub_date: '2026-09-22T11:16:00'
+  source: Supply Chain 24/7
+  title: Five WMS Features You’re Already Paying For but Not Using
+- category: supply-chain
+  description: Lilly has started construction on a $6.5 billion Houston plant that
+    will produce drug ingredients and create more than 600 permanent jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/eli-lilly-breaks-ground-houston-drug-manufacturing-plant
+  pub_date: '2026-09-22T11:13:00'
+  source: Supply Chain 24/7
+  title: Eli Lilly Breaks Ground on $6.5 Billion Houston Manufacturing Site
+- category: supply-chain
+  description: The STB rejected requests to end its review of the Union Pacific-Norfolk
+    Southern merger but said it has not ruled on the deal's merits.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/stb-union-pacific-norfolk-southern-merger-review
+  pub_date: '2026-09-22T10:57:00'
+  source: Supply Chain 24/7
+  title: UP-Norfolk Southern Merger Survives Push for Early Rejection
+- category: supply-chain
+  description: A new survey finds logistics facilities are investing millions in automation
+    without the people and monitoring needed to keep it running.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-automation-maintenance-readiness-survey
+  pub_date: '2026-09-22T10:16:00'
+  source: Supply Chain 24/7
+  title: Warehouse Automation Is Outrunning Maintenance Teams, Survey Finds
+- category: circular
   description: A Birmingham waste company must pay nearly GBP24,000 after ignoring
     waste permit regulations and orders to stop operations on its site. Greener Lifestyle
     Limited was also ordered to comply with a Reme...
@@ -101,38 +151,6 @@ articles:
   pub_date: '2026-09-18T13:58:00'
   source: Supply Chain 24/7
   title: FedEx Adds QR Code Checks for High-Value Deliveries
-- category: supply-chain
-  description: Pete Bennett of Cardinal Health shares how Army service, unexpected
-    opportunities, and listening to employees shaped his approach to leadership.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/peter-bennett-cardinal-health-leadership-lessons
-  pub_date: '2026-09-18T13:44:00'
-  source: Supply Chain 24/7
-  title: 'Leadership Lessons: Peter Bennett of Cardinal Health'
-- category: supply-chain
-  description: A new Navy aircraft maintenance complex in Kinston is expected to create
-    400 jobs and generate $140 million annually.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/navy-aircraft-maintenance-complex-kinston-north-carolina
-  pub_date: '2026-09-18T13:30:00'
-  source: Supply Chain 24/7
-  title: Navy Unveils Aircraft Maintenance Complex in North Carolina
-- category: supply-chain
-  description: MISUMI Americas combines MISUMI's parts catalog with Fictiv's digital
-    manufacturing platform for prototypes and production orders.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/misumi-launches-americas-parts-sourcing-business
-  pub_date: '2026-09-18T13:05:00'
-  source: Supply Chain 24/7
-  title: MISUMI Launches Americas Business to Bring Parts Under One Roof
-- category: supply-chain
-  description: Construction is underway on a $669 million Delaware terminal designed
-    to handle 1.2 million TEUs annually beginning in 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/delaware-container-terminal-wilmington-groundbreaking
-  pub_date: '2026-09-18T12:54:00'
-  source: Supply Chain 24/7
-  title: Construction Begins on $669 Million Delaware Container Terminal
 - category: circular
   description: Circular Online brings you the latest developments from the RWM Expo
     2026. The post Circular Online at RWM 2026 appeared first on Circular Online.
@@ -150,22 +168,4 @@ articles:
   pub_date: '2026-09-15T08:30:43'
   source: Circular Online
   title: LARAC calls for ‘urgent review’ into impact of DRS on councils
-- category: circular
-  description: The operator of three illegal waste sites near Harleston, Norfolk,
-    has been fined GBP20,000 and handed a 12-month suspended prison sentence. The
-    post Company director handed 12-month suspended sentenc...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/company-director-handed-12-month-suspended-sentence-for-waste-offences/
-  pub_date: '2026-09-15T07:30:00'
-  source: Circular Online
-  title: Company director handed 12-month suspended sentence for waste offences
-- category: circular
-  description: CIWM is calling on the government to set a clear new strategic direction
-    for England's resources and waste sector through the 2030s. The post CIWM calls
-    for new resources and waste strategy for 2030s ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-calls-for-new-resources-and-waste-strategy-for-2030s/
-  pub_date: '2026-09-14T10:27:41'
-  source: Circular Online
-  title: CIWM calls for new resources and waste strategy for 2030s
-last_updated: '2026-09-22T11:04:00.188601'
+last_updated: '2026-09-23T10:53:35.079115'
