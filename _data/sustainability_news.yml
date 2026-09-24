@@ -1,5 +1,38 @@
 articles:
 - category: circular
+  description: New Look, M&S, Sainsbury's and Oxfam have partnered to launch a new
+    project to build circular textile value chains from second-hand clothing. The
+    post New Look, M&S, Sainsbury's and Oxfam launch joint...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-look-ms-sainsburys-and-oxfam-launch-joint-circular-textile-project/
+  pub_date: '2026-09-24T08:14:32'
+  source: Circular Online
+  title: New Look, M&S, Sainsbury’s and Oxfam launch joint circular textile project
+- category: supply-chain
+  description: Arvato's Andreas Podwojewski explains why customs expertise should
+    be part of North American fulfillment planning before goods reach the border.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/customs-expertise-north-american-supply-chains
+  pub_date: '2026-09-23T12:23:00'
+  source: Supply Chain 24/7
+  title: Why Customs Expertise Gives North American Supply Chains an Advantage
+- category: supply-chain
+  description: Amazon announced $1.9 billion more for delivery partners, with higher
+    expected driver pay and new safety and routing tools.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-delivery-partners-investment-driver-pay-safety-tools
+  pub_date: '2026-09-23T12:22:00'
+  source: Supply Chain 24/7
+  title: Amazon Adds $1.9 Billion for Delivery Partners and Driver Pay
+- category: supply-chain
+  description: Hanwha plans a $2.2 billion Arkansas munitions facility that would
+    make artillery components and create close to 400 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hanwha-arkansas-munitions-plant-pine-bluff-arsenal
+  pub_date: '2026-09-23T12:20:00'
+  source: Supply Chain 24/7
+  title: Hanwha Picks Arkansas Arsenal for $2.2 Billion Munitions Plant
+- category: circular
   description: The UK recycling rate for waste from households was 44.5% in 2024,
     down 0.1 percentage points from 44.6% in 2023. The post UK recycling rate remains
     stagnant at 44.5% appeared first on Circular Online...
@@ -100,22 +133,6 @@ articles:
   pub_date: '2026-09-21T12:33:00'
   source: Supply Chain 24/7
   title: Iowa Approves Six Manufacturing Projects Worth Nearly $246 Million
-- category: supply-chain
-  description: SC Ports and Norfolk Southern have launched daily rail service linking
-    Charleston with Huntsville and nearby Southeast markets.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/sc-ports-norfolk-southern-huntsville-rail-service
-  pub_date: '2026-09-21T12:31:00'
-  source: Supply Chain 24/7
-  title: SC Ports, Norfolk Southern Relaunch Daily Huntsville Rail Service
-- category: supply-chain
-  description: Wegmans is investing $110 million in Rochester facilities while moving
-    general merchandise distribution to Pennsylvania.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/wegmans-110-million-rochester-supply-chain-investment
-  pub_date: '2026-09-21T12:10:00'
-  source: Supply Chain 24/7
-  title: Wegmans Invests $110 Million in Rochester Distribution Network
 - category: circular
   description: The Earthshot Prize has announced its 2026 finalists ahead of its Awards
     Night in Mumbai on 17 November. The post Earthshot Prize announces 2026 finalists
@@ -143,14 +160,6 @@ articles:
   pub_date: '2026-09-21T08:04:05'
   source: Circular Online
   title: Illegal waste site operator in Sheffield sentenced
-- category: supply-chain
-  description: FedEx is using secure QR codes to verify recipients before releasing
-    select high-value and sensitive packages.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-qr-code-high-value-package-delivery
-  pub_date: '2026-09-18T13:58:00'
-  source: Supply Chain 24/7
-  title: FedEx Adds QR Code Checks for High-Value Deliveries
 - category: circular
   description: Circular Online brings you the latest developments from the RWM Expo
     2026. The post Circular Online at RWM 2026 appeared first on Circular Online.
@@ -159,13 +168,4 @@ articles:
   pub_date: '2026-09-16T10:25:50'
   source: Circular Online
   title: Circular Online at RWM 2026
-- category: circular
-  description: LARAC is calling for an urgent review into the impact of the UK's Deposit
-    Return Schemes (DRS) on councils. The post LARAC calls for 'urgent review' into
-    impact of DRS on councils appeared first on Ci...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/larac-calls-for-urgent-review-into-impact-of-drs-on-councils/
-  pub_date: '2026-09-15T08:30:43'
-  source: Circular Online
-  title: LARAC calls for ‘urgent review’ into impact of DRS on councils
-last_updated: '2026-09-23T10:53:35.079115'
+last_updated: '2026-09-24T11:13:06.273274'
