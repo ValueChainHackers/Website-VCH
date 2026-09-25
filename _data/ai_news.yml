@@ -1,5 +1,30 @@
 articles:
 - category: ai-research
+  description: A new language-processing tool could help identify the highest-risk
+    individuals from natural language, enabling swifter interventions.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924
+  pub_date: '2026-09-24T21:00:00'
+  source: MIT AI News
+  title: Estimating suicide risk from text
+- category: machine-learning
+  description: A visual guide to MCP that explains how it works, how to use it with
+    Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagrams
+    that make the whole concept easy for anyone to...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/mcp-explained-in-5-minutes
+  pub_date: '2026-09-24T14:00:51'
+  source: KDnuggets
+  title: MCP Explained in 5 Minutes
+- category: machine-learning
+  description: KDnuggets team member Shittu Olumide tested out DeepSeek Harness. Here's
+    what he found.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness
+  pub_date: '2026-09-24T12:00:31'
+  source: KDnuggets
+  title: What I’ve Learned About DeepSeek Harness
+- category: ai-research
   description: In their new book, "How AI Sees the City," the leaders of MIT's Senseable
     City Lab examine the technology's implications for researching urban life.
   icon: fa-graduation-cap
@@ -106,14 +131,6 @@ articles:
   pub_date: '2026-09-18T16:30:00'
   source: MIT AI News
   title: A new chapter for MIT Reads
-- category: machine-learning
-  description: In this second article in our short series on SLM optimization techniques
-    we focus on the reuse of the prompt prefix with a key-value cache.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/reusing-the-prompt-prefix-with-a-key-value-cache-for-slm-optimization
-  pub_date: '2026-09-18T14:00:34'
-  source: KDnuggets
-  title: Reusing the Prompt Prefix with a Key-Value Cache for SLM Optimization
 - category: ai-research
   description: Text "AI & Economy Research Program" all over a green grid background,
     with the Google G logo in the bottom right corner
@@ -129,15 +146,6 @@ articles:
   pub_date: '2026-09-18T13:00:00'
   source: Google AI Blog
   title: Co-creating the future of fashion with Google
-- category: machine-learning
-  description: 'This article covers five prompt optimization strategies such as: prompt
-    optimization, prompt engineering, LLM output quality, few-shot prompting, chain-of-thought,
-    structured outputs.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-prompt-optimization-strategies-that-actually-improve-llm-output
-  pub_date: '2026-09-18T12:00:22'
-  source: KDnuggets
-  title: 5 Prompt Optimization Strategies That Actually Improve LLM Output
 - category: ai-research
   description: UN System Data Commons Data webpage
   icon: fa-google
@@ -235,13 +243,4 @@ articles:
   source: MIT AI News
   title: Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer
     Award
-- category: ai-research
-  description: A weeklong summer workshop brought higher education faculty to campus
-    to explore how AI and machine learning materials can be adapted for their classrooms.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909
-  pub_date: '2026-09-09T20:40:00'
-  source: MIT AI News
-  title: MIT Schwarzman College of Computing launches pilot to help educators teach
-    AI across disciplines
-last_updated: '2026-09-24T11:13:07.410217'
+last_updated: '2026-09-25T11:17:51.756789'

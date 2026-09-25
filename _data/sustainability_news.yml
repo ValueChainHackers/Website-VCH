@@ -1,5 +1,14 @@
 articles:
 - category: circular
+  description: 15 new pilots to receive grants from the GBP565,031 2026 Electricals
+    Recycling Fund, Material Focus have announced. The post Electrical Recycling Fund
+    commits over GBP565,000 to 15 new pilots appeared...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/electrical-recycling-fund-commits-over-565000-to-15-new-pilots/
+  pub_date: '2026-09-25T08:26:40'
+  source: Circular Online
+  title: Electrical Recycling Fund commits over £565,000 to 15 new pilots
+- category: circular
   description: New Look, M&S, Sainsbury's and Oxfam have partnered to launch a new
     project to build circular textile value chains from second-hand clothing. The
     post New Look, M&S, Sainsbury's and Oxfam launch joint...
@@ -160,12 +169,4 @@ articles:
   pub_date: '2026-09-21T08:04:05'
   source: Circular Online
   title: Illegal waste site operator in Sheffield sentenced
-- category: circular
-  description: Circular Online brings you the latest developments from the RWM Expo
-    2026. The post Circular Online at RWM 2026 appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/live-news-from-rwm-2026/
-  pub_date: '2026-09-16T10:25:50'
-  source: Circular Online
-  title: Circular Online at RWM 2026
-last_updated: '2026-09-24T11:13:06.273274'
+last_updated: '2026-09-25T11:17:49.890918'
