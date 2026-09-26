@@ -1,5 +1,29 @@
 articles:
 - category: ai-research
+  description: The PKG Center for Social Impact expands Code.Tulsa experiential learning
+    program.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925
+  pub_date: '2026-09-25T20:15:00'
+  source: MIT AI News
+  title: MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma
+- category: machine-learning
+  description: We finish off our short series on SLM optimization with the third entry,
+    focused on batching by length instead of looping item by item.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization
+  pub_date: '2026-09-25T14:00:07'
+  source: KDnuggets
+  title: Batching by Length Instead of Looping Item by Item for SLM Optimization
+- category: machine-learning
+  description: Leveling up rarely means new syntax. It means learning what the language
+    already promised you.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills
+  pub_date: '2026-09-25T12:00:22'
+  source: KDnuggets
+  title: 7 Advanced Python Tricks to Level Up Your Coding Skills
+- category: ai-research
   description: A new language-processing tool could help identify the highest-risk
     individuals from natural language, enabling swifter interventions.
   icon: fa-graduation-cap
@@ -106,23 +130,6 @@ articles:
   pub_date: '2026-09-21T16:00:43'
   source: KDnuggets
   title: What Everyone Is Getting Wrong About TypeSafe AI’s Jev
-- category: machine-learning
-  description: Learn how to build a Python AI agent with the OpenAI Agents SDK, using
-    tool calling and function tools to automate multi-step workflows.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent
-  pub_date: '2026-09-21T14:00:07'
-  source: KDnuggets
-  title: How to Turn a Python Script Into an AI Agent
-- category: machine-learning
-  description: 'Almost every slow Polars script lacks in terms of one of these two:
-    its expression engine written and executing in Rust across every core at its disposal,
-    and its query optimizer that rewrites your wo...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation
-  pub_date: '2026-09-21T12:00:24'
-  source: KDnuggets
-  title: 3 Polars Tricks for High-Performance Data Manipulation
 - category: ai-research
   description: A new focus on fiction and memoir aims to help the MIT community celebrate
     the power of storytelling and strengthen social connection.
@@ -233,14 +240,4 @@ articles:
   pub_date: '2026-09-14T04:00:00'
   source: MIT AI News
   title: MIT spinout turns plastic waste into resilient building materials
-- category: ai-research
-  description: The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory
-    and Massachusetts General Hospital, promises improved health outcomes for injured
-    service members and civilians.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911
-  pub_date: '2026-09-11T13:45:00'
-  source: MIT AI News
-  title: Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer
-    Award
-last_updated: '2026-09-25T11:17:51.756789'
+last_updated: '2026-09-26T10:54:34.122557'

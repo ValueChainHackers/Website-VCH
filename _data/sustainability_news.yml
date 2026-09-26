@@ -1,4 +1,20 @@
 articles:
+- category: supply-chain
+  description: LEGO plans a $400 million-plus expansion of its Monterrey factory,
+    adding an automated warehouse, packing space, and 1,300 jobs by 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/lego-monterrey-mexico-factory-expansion
+  pub_date: '2026-09-25T11:35:00'
+  source: Supply Chain 24/7
+  title: LEGO Plans $400 Million Expansion at Monterrey, Mexico, Factory
+- category: supply-chain
+  description: Gartner expects autonomous supply chain planning to remain limited
+    through 2030 despite heavy spending on AI and automation.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-autonomous-supply-chain-planning-2030
+  pub_date: '2026-09-25T11:34:00'
+  source: Supply Chain 24/7
+  title: 'Gartner: Few Supply Chains Will Let AI Make Planning Calls by 2030'
 - category: circular
   description: 15 new pilots to receive grants from the GBP565,031 2026 Electricals
     Recycling Fund, Material Focus have announced. The post Electrical Recycling Fund
@@ -126,22 +142,6 @@ articles:
   pub_date: '2026-09-21T13:40:00'
   source: Supply Chain 24/7
   title: Kuehne+Nagel Takes Larger Role in Amazon’s Supply Chain
-- category: supply-chain
-  description: Amazon is raising pay for operations employees by $1 an hour and adding
-    grocery discounts and a lifetime banking benefit for U.S. employees.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-raises-operations-pay-adds-employee-benefits
-  pub_date: '2026-09-21T12:34:00'
-  source: Supply Chain 24/7
-  title: Amazon Raises Minimum Starting Wage to $20/Hour for Full-Time Roles
-- category: supply-chain
-  description: Iowa approved incentives for six manufacturing projects expected to
-    generate nearly $246.5 million in investment and 346 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/iowa-six-manufacturing-projects-246-million-investment
-  pub_date: '2026-09-21T12:33:00'
-  source: Supply Chain 24/7
-  title: Iowa Approves Six Manufacturing Projects Worth Nearly $246 Million
 - category: circular
   description: The Earthshot Prize has announced its 2026 finalists ahead of its Awards
     Night in Mumbai on 17 November. The post Earthshot Prize announces 2026 finalists
@@ -169,4 +169,4 @@ articles:
   pub_date: '2026-09-21T08:04:05'
   source: Circular Online
   title: Illegal waste site operator in Sheffield sentenced
-last_updated: '2026-09-25T11:17:49.890918'
+last_updated: '2026-09-26T10:54:33.076761'
