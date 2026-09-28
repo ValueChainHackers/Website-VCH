@@ -1,4 +1,22 @@
 articles:
+- category: machine-learning
+  description: 'When Numba code disappoints, it''s nearly never the compiler, and
+    usually ends up being the boundary around the compiled code: not crossing it,
+    not making it wide enough, or crossing it during every ru...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-numba-tricks-for-python-runtime-optimization
+  pub_date: '2026-09-28T12:00:43'
+  source: KDnuggets
+  title: 3 Numba Tricks for Python Runtime Optimization
+- category: ai-research
+  description: MIT engineers have found a way to stabilize the lipid nanoparticles
+    used to deliver RNA vaccines, which could allow the vaccines to be more widely
+    distributed.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928
+  pub_date: '2026-09-28T09:00:00'
+  source: MIT AI News
+  title: New formulation helps RNA vaccines withstand high temperatures
 - category: ai-research
   description: The PKG Center for Social Impact expands Code.Tulsa experiential learning
     program.
@@ -122,14 +140,6 @@ articles:
   pub_date: '2026-09-22T12:00:28'
   source: KDnuggets
   title: 7 Open-Source Alternatives to ChatGPT You Can Run Locally
-- category: machine-learning
-  description: A closer look at TypeSafe AI's Jev, what it actually does, what is
-    genuinely new, and where the hype goes too far.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev
-  pub_date: '2026-09-21T16:00:43'
-  source: KDnuggets
-  title: What Everyone Is Getting Wrong About TypeSafe AI’s Jev
 - category: ai-research
   description: A new focus on fiction and memoir aims to help the MIT community celebrate
     the power of storytelling and strengthen social connection.
@@ -232,12 +242,4 @@ articles:
   pub_date: '2026-09-14T04:00:00'
   source: MIT AI News
   title: New method enables AI for safety-critical situations
-- category: ai-research
-  description: Atlas Building Composites is commercializing MIT research to turn plastic
-    waste into parts for buildings and other infrastructure.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914
-  pub_date: '2026-09-14T04:00:00'
-  source: MIT AI News
-  title: MIT spinout turns plastic waste into resilient building materials
-last_updated: '2026-09-27T11:31:06.685626'
+last_updated: '2026-09-28T13:04:16.469014'

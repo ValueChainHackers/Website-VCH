@@ -1,4 +1,13 @@
 articles:
+- category: circular
+  description: Coffee pod recycling points are rolling out to more than 200 Co-op
+    stores following a trial between the retailer and coffee pod recycling service
+    Podback. The post Co-op and Podback expand coffee pod ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/co-op-and-podback-expand-coffee-pod-recycling-to-over-200-stores/
+  pub_date: '2026-09-28T09:44:23'
+  source: Circular Online
+  title: Co-op and Podback expand coffee pod recycling to over 200 stores
 - category: supply-chain
   description: LEGO plans a $400 million-plus expansion of its Monterrey factory,
     adding an automated warehouse, packing space, and 1,300 jobs by 2029.
@@ -160,13 +169,4 @@ articles:
   pub_date: '2026-09-21T08:42:14'
   source: Circular Online
   title: Recycling company fined after ‘thoughtful and kind man’ killed at work
-- category: circular
-  description: Man who operated waste facility in Sheffield without an environmental
-    permit has been given a 39-week prison sentence, suspended for 18 months, The
-    post Illegal waste site operator in Sheffield senten...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/illegal-waste-site-operator-in-sheffield-sentenced/
-  pub_date: '2026-09-21T08:04:05'
-  source: Circular Online
-  title: Illegal waste site operator in Sheffield sentenced
-last_updated: '2026-09-27T11:31:05.642814'
+last_updated: '2026-09-28T13:04:15.048528'
