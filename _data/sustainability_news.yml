@@ -1,5 +1,80 @@
 articles:
 - category: circular
+  description: Maidstone Borough Council and sustainable materials company RECOOL
+    are using old clothes to fix potholes in Maidstone's parks as part of a new trial.
+    The post Maidstone trialling pothole repair materi...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/maidstone-trialling-pothole-repair-material-made-from-recycled-textile-waste/
+  pub_date: '2026-09-29T09:03:03'
+  source: Circular Online
+  title: Maidstone trialling pothole repair material made from recycled textile waste
+- category: circular
+  description: A GBP24 million waste transfer station in Ware, Hertfordshire, is officially
+    operational. The post Construction completed on GBP24 million waste transfer station
+    appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/construction-completed-on-24-million-waste-transfer-station/
+  pub_date: '2026-09-29T08:24:14'
+  source: Circular Online
+  title: Construction completed on £24 million waste transfer station
+- category: supply-chain
+  description: DHL launched a U.S. health-systems service that combines a central
+    inventory facility with dedicated deliveries to hospitals and other care sites.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-health-systems-logistics-service-us
+  pub_date: '2026-09-28T14:27:00'
+  source: Supply Chain 24/7
+  title: DHL Launches Centralized Logistics Service for U.S. Health Systems
+- category: supply-chain
+  description: Adeptia's Tim Bond explains why messy incoming data can disrupt manufacturing
+    plans, worsen peak-season problems, and limit AI.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-first-mile-data-problem-tim-bond-adeptia
+  pub_date: '2026-09-28T13:55:00'
+  source: Supply Chain 24/7
+  title: How Messy Supplier Data Can Disrupt Production and Delivery
+- category: supply-chain
+  description: Amazon has added a direct rail route from Los Angeles to East Coast
+    fulfillment centers for eligible ocean freight bookings.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-adds-direct-rail-route-from-los-angeles-to-the-east-coast
+  pub_date: '2026-09-28T13:26:00'
+  source: Supply Chain 24/7
+  title: Amazon Adds Direct Rail Route From Los Angeles to the East Coast
+- category: supply-chain
+  description: Federal prosecutors charged a Nevada trucking business owner with fraud
+    and money laundering over an alleged $105 million semi-truck investment scheme.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nevada-man-indicted-semi-truck-investment-fraud
+  pub_date: '2026-09-28T13:17:00'
+  source: Supply Chain 24/7
+  title: Nevada Man Indicted in $105 Million Semi-Truck Investment Scheme
+- category: supply-chain
+  description: Lowe's has launched drone delivery near Charlotte, offering eligible
+    customers small tools and project supplies through DoorDash in as fast as 20 minutes.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/lowes-first-home-improvement-retailer-drone-delivery
+  pub_date: '2026-09-28T13:10:00'
+  source: Supply Chain 24/7
+  title: Lowe’s Becomes First Home Improvement Retailer to Offer Drone Delivery
+- category: circular
+  description: The dashboard allows Material Recovery Facilities (MRFs) to measure
+    Overall Equipment Effectiveness (OEE) continuously using real-time AI data. The
+    post Greyparrot launches live equipment effectivenes...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/greyparrot-launches-live-equipment-effectiveness-tracking-tool-for-mrfs/
+  pub_date: '2026-09-28T13:09:27'
+  source: Circular Online
+  title: Greyparrot launches live equipment effectiveness tracking tool for MRFs
+- category: supply-chain
+  description: Amazon plans to invest more than $100 million in a Greenwood, Indiana,
+    manufacturing site and create 300 jobs by the end of 2028.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-plans-100-million-manufacturing-facility-in-indiana
+  pub_date: '2026-09-28T13:02:00'
+  source: Supply Chain 24/7
+  title: Amazon Plans $100 Million Manufacturing Facility in Indiana
+- category: circular
   description: Coffee pod recycling points are rolling out to more than 200 Co-op
     stores following a trial between the retailer and coffee pod recycling service
     Podback. The post Co-op and Podback expand coffee pod ...
@@ -58,14 +133,6 @@ articles:
   pub_date: '2026-09-23T12:22:00'
   source: Supply Chain 24/7
   title: Amazon Adds $1.9 Billion for Delivery Partners and Driver Pay
-- category: supply-chain
-  description: Hanwha plans a $2.2 billion Arkansas munitions facility that would
-    make artillery components and create close to 400 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hanwha-arkansas-munitions-plant-pine-bluff-arsenal
-  pub_date: '2026-09-23T12:20:00'
-  source: Supply Chain 24/7
-  title: Hanwha Picks Arkansas Arsenal for $2.2 Billion Munitions Plant
 - category: circular
   description: The UK recycling rate for waste from households was 44.5% in 2024,
     down 0.1 percentage points from 44.6% in 2023. The post UK recycling rate remains
@@ -84,38 +151,6 @@ articles:
   pub_date: '2026-09-23T07:55:24'
   source: Circular Online
   title: Deposit-free, app-free reusable cup scheme launches in Bristol
-- category: supply-chain
-  description: Many warehouses use only half of their WMS functions. Five overlooked
-    features could improve inventory, labor, and order fulfillment.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/five-wms-features-warehouses-are-not-using
-  pub_date: '2026-09-22T11:16:00'
-  source: Supply Chain 24/7
-  title: Five WMS Features You’re Already Paying For but Not Using
-- category: supply-chain
-  description: Lilly has started construction on a $6.5 billion Houston plant that
-    will produce drug ingredients and create more than 600 permanent jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/eli-lilly-breaks-ground-houston-drug-manufacturing-plant
-  pub_date: '2026-09-22T11:13:00'
-  source: Supply Chain 24/7
-  title: Eli Lilly Breaks Ground on $6.5 Billion Houston Manufacturing Site
-- category: supply-chain
-  description: The STB rejected requests to end its review of the Union Pacific-Norfolk
-    Southern merger but said it has not ruled on the deal's merits.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/stb-union-pacific-norfolk-southern-merger-review
-  pub_date: '2026-09-22T10:57:00'
-  source: Supply Chain 24/7
-  title: UP-Norfolk Southern Merger Survives Push for Early Rejection
-- category: supply-chain
-  description: A new survey finds logistics facilities are investing millions in automation
-    without the people and monitoring needed to keep it running.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-automation-maintenance-readiness-survey
-  pub_date: '2026-09-22T10:16:00'
-  source: Supply Chain 24/7
-  title: Warehouse Automation Is Outrunning Maintenance Teams, Survey Finds
 - category: circular
   description: A Birmingham waste company must pay nearly GBP24,000 after ignoring
     waste permit regulations and orders to stop operations on its site. Greener Lifestyle
@@ -134,39 +169,4 @@ articles:
   pub_date: '2026-09-22T08:13:53'
   source: Circular Online
   title: ‘Coordinated action’ needed to unlock investment in UK circular economy infrastructure
-- category: circular
-  description: The Prime Minister, Andy Burnham, has said he is 'determined' that
-    the UK achieves its 2050 net zero target. The post Andy Burnham reaffirms commitment
-    to 2050 net zero target appeared first on Circul...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/andy-burnham-reaffirms-commitment-to-2050-net-zero-target/
-  pub_date: '2026-09-22T07:30:00'
-  source: Circular Online
-  title: Andy Burnham reaffirms commitment to 2050 net zero target
-- category: supply-chain
-  description: Kuehne+Nagel will manage logistics for Amazon data centers under a
-    long-term deal that includes an option tied to future business.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/kuehnenagel-takes-larger-role-in-amazons-supply-chain
-  pub_date: '2026-09-21T13:40:00'
-  source: Supply Chain 24/7
-  title: Kuehne+Nagel Takes Larger Role in Amazon’s Supply Chain
-- category: circular
-  description: The Earthshot Prize has announced its 2026 finalists ahead of its Awards
-    Night in Mumbai on 17 November. The post Earthshot Prize announces 2026 finalists
-    ahead of November awards night appeared first...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/earthshot-prize-announces-2026-finalists-ahead-of-november-awards-night/
-  pub_date: '2026-09-21T11:40:05'
-  source: Circular Online
-  title: Earthshot Prize announces 2026 finalists ahead of November awards night
-- category: circular
-  description: A waste and recycling company in the West Midlands has been fined after
-    Craig Pearson, 37, was killed while discharging a fire extinguisher. The post
-    Recycling company fined after 'thoughtful and kind...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/recycling-company-fined-after-thoughtful-and-kind-man-killed-at-work/
-  pub_date: '2026-09-21T08:42:14'
-  source: Circular Online
-  title: Recycling company fined after ‘thoughtful and kind man’ killed at work
-last_updated: '2026-09-28T13:04:15.048528'
+last_updated: '2026-09-29T12:14:36.270533'
