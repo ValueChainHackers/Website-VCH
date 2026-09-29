@@ -1,5 +1,45 @@
 articles:
 - category: machine-learning
+  description: Learn LLM fundamentals, AI engineering, RAG, MLOps, fine-tuning, and
+    deployment with five practical courses designed to help you become a stronger
+    AI and machine learning engineer.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering
+  pub_date: '2026-09-29T12:00:36'
+  source: KDnuggets
+  title: 5 Free Courses to Learn AI Engineering
+- category: ai-research
+  description: In a study focusing on hiring decisions, MIT researchers found the
+    use of a single algorithm by many firms could benefit job seekers in certain situations.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929
+  pub_date: '2026-09-29T04:00:00'
+  source: MIT AI News
+  title: The effects of an “algorithmic monoculture” depend on the details
+- category: ai-research
+  description: Professor Sherry Turkle's new book, "Artificial Intimacy," offers a
+    withering critique of chatbots and the antisocial dynamics she believes they encourage.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
+  pub_date: '2026-09-29T04:00:00'
+  source: MIT AI News
+  title: Who we become when we talk to machines
+- category: ai-research
+  description: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/
+  pub_date: '2026-09-28T19:00:00'
+  source: Google AI Blog
+  title: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
+- category: machine-learning
+  description: Here's how each got to where it is, a real use case and working code
+    for both, and a side-by-side on the numbers that actually matter.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/gemini-3-5-transcribe-vs-openais-gpt-transcribe
+  pub_date: '2026-09-28T14:00:06'
+  source: KDnuggets
+  title: Gemini 3.5 Transcribe vs OpenAI’s GPT-Transcribe
+- category: machine-learning
   description: 'When Numba code disappoints, it''s nearly never the compiler, and
     usually ends up being the boundary around the compiled code: not crossing it,
     not making it wide enough, or crossing it during every ru...'
@@ -124,22 +164,6 @@ articles:
   source: MIT AI News
   title: Poitras Center to fuel early careers of 50 young scientists dedicated to
     psychiatric disorders research
-- category: machine-learning
-  description: Learn about private AI browsing for data professionals.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/bravely-ai-browsing-with-leo
-  pub_date: '2026-09-22T14:00:29'
-  source: KDnuggets
-  title: Bravely AI Browsing with Leo
-- category: machine-learning
-  description: Explore seven open-source ChatGPT alternatives, from lightweight local
-    chat interfaces and document assistants to agent platforms, multi-user setups,
-    and complete self-hosted AI workspaces.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally
-  pub_date: '2026-09-22T12:00:28'
-  source: KDnuggets
-  title: 7 Open-Source Alternatives to ChatGPT You Can Run Locally
 - category: ai-research
   description: A new focus on fiction and memoir aims to help the MIT community celebrate
     the power of storytelling and strengthen social connection.
@@ -178,14 +202,6 @@ articles:
   pub_date: '2026-09-16T15:00:00'
   source: MIT AI News
   title: New AI technique could make minimally invasive surgeries safer and more precise
-- category: ai-research
-  description: Naoki Egami has become a standout in political methodology, helping
-    refine tools that give scholars durable results.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916
-  pub_date: '2026-09-16T04:00:00'
-  source: MIT AI News
-  title: Measure by measure, studying society accurately
 - category: ai-research
   description: Explore this collection to see how experts and local leaders are using
     AI breakthroughs to ensure everyone can share the opportunity of AI.
@@ -226,20 +242,4 @@ articles:
   source: Google AI Blog
   title: Watch astronaut Christina Koch and Google’s James Manyika discuss space,
     technology, and discovery.
-- category: ai-research
-  description: Animation of the text "{DevFest} 2026 Join us! Google Developer Groups"
-    with a globe icon, asterisk icon, icon
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/
-  pub_date: '2026-09-14T16:00:00'
-  source: Google AI Blog
-  title: DevFest is back
-- category: ai-research
-  description: The "HardFlow" algorithm could help generative AI models produce high-quality
-    outputs that obey strict requirements when "pretty close" doesn't cut it.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914
-  pub_date: '2026-09-14T04:00:00'
-  source: MIT AI News
-  title: New method enables AI for safety-critical situations
-last_updated: '2026-09-28T13:04:16.469014'
+last_updated: '2026-09-29T12:14:48.702953'
