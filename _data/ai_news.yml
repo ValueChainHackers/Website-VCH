@@ -1,13 +1,4 @@
 articles:
-- category: machine-learning
-  description: Learn LLM fundamentals, AI engineering, RAG, MLOps, fine-tuning, and
-    deployment with five practical courses designed to help you become a stronger
-    AI and machine learning engineer.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering
-  pub_date: '2026-09-29T12:00:36'
-  source: KDnuggets
-  title: 5 Free Courses to Learn AI Engineering
 - category: ai-research
   description: In a study focusing on hiring decisions, MIT researchers found the
     use of a single algorithm by many firms could benefit job seekers in certain situations.
@@ -31,23 +22,6 @@ articles:
   pub_date: '2026-09-28T19:00:00'
   source: Google AI Blog
   title: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
-- category: machine-learning
-  description: Here's how each got to where it is, a real use case and working code
-    for both, and a side-by-side on the numbers that actually matter.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/gemini-3-5-transcribe-vs-openais-gpt-transcribe
-  pub_date: '2026-09-28T14:00:06'
-  source: KDnuggets
-  title: Gemini 3.5 Transcribe vs OpenAI’s GPT-Transcribe
-- category: machine-learning
-  description: 'When Numba code disappoints, it''s nearly never the compiler, and
-    usually ends up being the boundary around the compiled code: not crossing it,
-    not making it wide enough, or crossing it during every ru...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-numba-tricks-for-python-runtime-optimization
-  pub_date: '2026-09-28T12:00:43'
-  source: KDnuggets
-  title: 3 Numba Tricks for Python Runtime Optimization
 - category: ai-research
   description: MIT engineers have found a way to stabilize the lipid nanoparticles
     used to deliver RNA vaccines, which could allow the vaccines to be more widely
@@ -65,22 +39,6 @@ articles:
   pub_date: '2026-09-25T20:15:00'
   source: MIT AI News
   title: MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma
-- category: machine-learning
-  description: We finish off our short series on SLM optimization with the third entry,
-    focused on batching by length instead of looping item by item.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization
-  pub_date: '2026-09-25T14:00:07'
-  source: KDnuggets
-  title: Batching by Length Instead of Looping Item by Item for SLM Optimization
-- category: machine-learning
-  description: Leveling up rarely means new syntax. It means learning what the language
-    already promised you.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills
-  pub_date: '2026-09-25T12:00:22'
-  source: KDnuggets
-  title: 7 Advanced Python Tricks to Level Up Your Coding Skills
 - category: ai-research
   description: A new language-processing tool could help identify the highest-risk
     individuals from natural language, enabling swifter interventions.
@@ -89,23 +47,6 @@ articles:
   pub_date: '2026-09-24T21:00:00'
   source: MIT AI News
   title: Estimating suicide risk from text
-- category: machine-learning
-  description: A visual guide to MCP that explains how it works, how to use it with
-    Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagrams
-    that make the whole concept easy for anyone to...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/mcp-explained-in-5-minutes
-  pub_date: '2026-09-24T14:00:51'
-  source: KDnuggets
-  title: MCP Explained in 5 Minutes
-- category: machine-learning
-  description: KDnuggets team member Shittu Olumide tested out DeepSeek Harness. Here's
-    what he found.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness
-  pub_date: '2026-09-24T12:00:31'
-  source: KDnuggets
-  title: What I’ve Learned About DeepSeek Harness
 - category: ai-research
   description: In their new book, "How AI Sees the City," the leaders of MIT's Senseable
     City Lab examine the technology's implications for researching urban life.
@@ -129,32 +70,6 @@ articles:
   pub_date: '2026-09-23T15:30:00'
   source: MIT AI News
   title: MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow
-- category: machine-learning
-  description: This article pulls together every verifiable number and detail from
-    Anthropic's announcement, the platform documentation, the system card, and independent
-    coverage, so you have one place to check the ...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/everything-claude-opus-5-5-actually-ships-with
-  pub_date: '2026-09-23T15:00:47'
-  source: KDnuggets
-  title: Everything Claude Opus 5.5 Actually Ships With
-- category: machine-learning
-  description: Six habits that keep a notebook runnable after you close the laptop.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/why-most-data-science-notebooks-die-after-day-one-how-to-build-ones-that-survive
-  pub_date: '2026-09-23T14:00:06'
-  source: KDnuggets
-  title: 'Why Most Data Science Notebooks Die After Day One: How to Build Ones That
-    Survive'
-- category: machine-learning
-  description: Polars is a DataFrame library written in Rust on the Apache Arrow memory
-    format, and the speed comes less from the language than from the model. The model?
-    Describe your work as expressions, and the P...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/high-performance-data-processing-with-polars-a-cheat-sheet
-  pub_date: '2026-09-23T12:00:19'
-  source: KDnuggets
-  title: 'High-Performance Data Processing with Polars: A KDnuggets Cheat Sheet'
 - category: ai-research
   description: Patricia and James Poitras '63 provide fellowships for graduate students
     and postdocs who will shape the future of mental health research.
@@ -242,4 +157,4 @@ articles:
   source: Google AI Blog
   title: Watch astronaut Christina Koch and Google’s James Manyika discuss space,
     technology, and discovery.
-last_updated: '2026-09-29T12:14:48.702953'
+last_updated: '2026-09-30T12:00:43.265213'

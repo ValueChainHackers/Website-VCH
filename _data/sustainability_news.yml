@@ -1,5 +1,73 @@
 articles:
 - category: circular
+  description: Exchange For Change has announced the creation of a new UK recycling
+    infrastructure that will support the delivery of the Deposit Return Scheme (DRS)
+    from October 2027. The post Exchange For Change an...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/exchange-for-change-announces-new-uk-recycling-infrastructure-for-drs/
+  pub_date: '2026-09-30T11:53:58'
+  source: Circular Online
+  title: Exchange For Change announces new UK recycling infrastructure for DRS
+- category: circular
+  description: The Or Foundation, adidas, BESTSELLER, H&M Group, and Inditex launch
+    the Apparel Recovery Coalition (ARC) in response to the impacts of post-consumer
+    textile exports. The post adidas and H&M part of g...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/adidas-and-hm-part-of-group-launching-apparel-recovery-coalition/
+  pub_date: '2026-09-30T10:06:58'
+  source: Circular Online
+  title: adidas and H&M part of group launching Apparel Recovery Coalition
+- category: circular
+  description: The BSI, the UK's national standards body, and the International Organisation
+    for Standardisation (ISO) have launched standardised processes to prevent food
+    waste. The post BSI and ISO launch internat...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/bsi-and-iso-launch-international-standard-to-prevent-food-waste/
+  pub_date: '2026-09-30T08:41:46'
+  source: Circular Online
+  title: BSI and ISO launch international standard to prevent food waste
+- category: supply-chain
+  description: Descartes added an AI agent to Datamyne that answers trade questions
+    and shows users the shipment records behind its findings.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/descartes-datamyne-ai-agent-global-trade-data
+  pub_date: '2026-09-29T14:51:00'
+  source: Supply Chain 24/7
+  title: Descartes Adds AI Agent Aims to Speed Up Supplier and Trade Research
+- category: supply-chain
+  description: A 3PL can bill every listed charge correctly and still miss revenue
+    from repacks, rush picks, and other work that never makes it onto an invoice.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/3pl-warehouse-work-missing-invoices
+  pub_date: '2026-09-29T14:03:00'
+  source: Supply Chain 24/7
+  title: Why Perfect Invoices Still Cost 3PLs Money They Already Earned
+- category: supply-chain
+  description: In a new SmartSense survey of 150 U.S. security leaders, 63% say cargo
+    theft has increased, while 40% report annual losses of at least $1 million.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/smartsense-cargo-theft-survey-fraudulent-pickups-losses
+  pub_date: '2026-09-29T13:37:00'
+  source: Supply Chain 24/7
+  title: Fake Pickups Top the Worry List as Cargo Theft Gets More Organized
+- category: supply-chain
+  description: Mesabi Metallics plans a $15 billion Iowa steel mill supplied by its
+    Minnesota iron ore mine, with first production expected in 2030.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/mesabi-metallics-15-billion-iowa-steel-mill
+  pub_date: '2026-09-29T13:07:00'
+  source: Supply Chain 24/7
+  title: White House Announces Plans for $15 Billion Steel Mill in Iowa
+- category: supply-chain
+  description: A new Netstock report found faster inventory turnover among its customers,
+    even as the share of surveyed businesses reporting high dead stock doubled since
+    2024.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/one-in-four-small-businesses-reports-high-dead-stock-study-finds
+  pub_date: '2026-09-29T12:25:00'
+  source: Supply Chain 24/7
+  title: One in Four Small Businesses Reports High Dead Stock, Study Finds
+- category: circular
   description: Maidstone Borough Council and sustainable materials company RECOOL
     are using old clothes to fix potholes in Maidstone's parks as part of a new trial.
     The post Maidstone trialling pothole repair materi...
@@ -66,14 +134,6 @@ articles:
   pub_date: '2026-09-28T13:09:27'
   source: Circular Online
   title: Greyparrot launches live equipment effectiveness tracking tool for MRFs
-- category: supply-chain
-  description: Amazon plans to invest more than $100 million in a Greenwood, Indiana,
-    manufacturing site and create 300 jobs by the end of 2028.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-plans-100-million-manufacturing-facility-in-indiana
-  pub_date: '2026-09-28T13:02:00'
-  source: Supply Chain 24/7
-  title: Amazon Plans $100 Million Manufacturing Facility in Indiana
 - category: circular
   description: Coffee pod recycling points are rolling out to more than 200 Co-op
     stores following a trial between the retailer and coffee pod recycling service
@@ -83,22 +143,6 @@ articles:
   pub_date: '2026-09-28T09:44:23'
   source: Circular Online
   title: Co-op and Podback expand coffee pod recycling to over 200 stores
-- category: supply-chain
-  description: LEGO plans a $400 million-plus expansion of its Monterrey factory,
-    adding an automated warehouse, packing space, and 1,300 jobs by 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lego-monterrey-mexico-factory-expansion
-  pub_date: '2026-09-25T11:35:00'
-  source: Supply Chain 24/7
-  title: LEGO Plans $400 Million Expansion at Monterrey, Mexico, Factory
-- category: supply-chain
-  description: Gartner expects autonomous supply chain planning to remain limited
-    through 2030 despite heavy spending on AI and automation.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-autonomous-supply-chain-planning-2030
-  pub_date: '2026-09-25T11:34:00'
-  source: Supply Chain 24/7
-  title: 'Gartner: Few Supply Chains Will Let AI Make Planning Calls by 2030'
 - category: circular
   description: 15 new pilots to receive grants from the GBP565,031 2026 Electricals
     Recycling Fund, Material Focus have announced. The post Electrical Recycling Fund
@@ -117,22 +161,6 @@ articles:
   pub_date: '2026-09-24T08:14:32'
   source: Circular Online
   title: New Look, M&S, Sainsbury’s and Oxfam launch joint circular textile project
-- category: supply-chain
-  description: Arvato's Andreas Podwojewski explains why customs expertise should
-    be part of North American fulfillment planning before goods reach the border.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/customs-expertise-north-american-supply-chains
-  pub_date: '2026-09-23T12:23:00'
-  source: Supply Chain 24/7
-  title: Why Customs Expertise Gives North American Supply Chains an Advantage
-- category: supply-chain
-  description: Amazon announced $1.9 billion more for delivery partners, with higher
-    expected driver pay and new safety and routing tools.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-delivery-partners-investment-driver-pay-safety-tools
-  pub_date: '2026-09-23T12:22:00'
-  source: Supply Chain 24/7
-  title: Amazon Adds $1.9 Billion for Delivery Partners and Driver Pay
 - category: circular
   description: The UK recycling rate for waste from households was 44.5% in 2024,
     down 0.1 percentage points from 44.6% in 2023. The post UK recycling rate remains
@@ -142,31 +170,4 @@ articles:
   pub_date: '2026-09-23T09:34:55'
   source: Circular Online
   title: UK recycling rate remains stagnant at 44.5%
-- category: circular
-  description: The 'first-of-its-kind' initiative in Bristol will test whether a scheme
-    with no deposits or app can be replicated city-wide. The post Deposit-free, app-free
-    reusable cup scheme launches in Bristol ap...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/deposit-free-app-free-reusable-cup-scheme-launches-in-bristol/
-  pub_date: '2026-09-23T07:55:24'
-  source: Circular Online
-  title: Deposit-free, app-free reusable cup scheme launches in Bristol
-- category: circular
-  description: A Birmingham waste company must pay nearly GBP24,000 after ignoring
-    waste permit regulations and orders to stop operations on its site. Greener Lifestyle
-    Limited was also ordered to comply with a Reme...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/birmingham-waste-company-to-clear-site-and-pay-nearly-24000/
-  pub_date: '2026-09-22T09:48:35'
-  source: Circular Online
-  title: Birmingham waste company to clear site and pay nearly £24,000
-- category: circular
-  description: Greater policy certainty, stronger markets, and more targeted public
-    investment are needed to accelerate reuse, repair and recycling infrastructure,
-    new research from CIWM finds. The post 'Coordinated...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/coordinated-action-needed-to-unlock-investment-in-uk-circular-economy-infrastructure/
-  pub_date: '2026-09-22T08:13:53'
-  source: Circular Online
-  title: ‘Coordinated action’ needed to unlock investment in UK circular economy infrastructure
-last_updated: '2026-09-29T12:14:36.270533'
+last_updated: '2026-09-30T12:00:42.350541'
