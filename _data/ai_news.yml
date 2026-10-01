@@ -1,4 +1,74 @@
 articles:
+- category: machine-learning
+  description: Get work done, and have seconds added back to your life since you won't
+    be writing second, third or - *gasp!* - fourth line follow-ups to your impeccable
+    typed line numero uno.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-python-one-liners-that-will-make-your-code-cleaner-and-faster
+  pub_date: '2026-10-01T12:00:14'
+  source: KDnuggets
+  title: 10 Python One-Liners That Will Make Your Code Cleaner and Faster
+- category: ai-research
+  description: With $2.1 million funding from Google.org, the open-source Public Transit
+    Intelligence Hub will unify public transit monitoring, operations, and passenger
+    communication.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930
+  pub_date: '2026-09-30T15:15:00'
+  source: MIT AI News
+  title: MIT Transit Lab to develop an AI platform for public transit agencies
+- category: ai-research
+  description: Able to defeat top-ranked human players and more efficient than other
+    models, the new system could help decision-makers in military maneuvers or business
+    negotiations.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930
+  pub_date: '2026-09-30T15:00:00'
+  source: MIT AI News
+  title: This game-playing AI is the new champ at Stratego
+- category: machine-learning
+  description: 'OpenAI''s agents reached a proposed solution in 88 hours. But the
+    human research that came before, and the controversy that followed, raise a harder
+    question: what actually counts as an AI discovery?'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems
+  pub_date: '2026-09-30T14:00:26'
+  source: KDnuggets
+  title: Did AI Just Solve One of Mathematics’ Biggest Problems?
+- category: machine-learning
+  description: Ollama pulls model weights, keeps an HTTP server on port 11434, and
+    hands any client an OpenAI-shaped endpoint pointed at your own machine. Learn
+    how to manage, configure, and optimize using Ollama ri...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/ollama-for-managing-local-language-models-a-kdnuggets-cheat-sheet
+  pub_date: '2026-09-30T12:00:18'
+  source: KDnuggets
+  title: 'Ollama for Managing Local Language Models: A KDnuggets Cheat Sheet'
+- category: machine-learning
+  description: Learn how to use Julius AI to analyze Excel data, verify key findings,
+    and turn them into an editable PowerPoint presentation.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai
+  pub_date: '2026-09-29T17:00:40'
+  source: KDnuggets
+  title: How to Turn Excel Data Into PowerPoint Presentations With AI
+- category: machine-learning
+  description: This is a summary of, and insights into, what I found digging into
+    the recently-released Superwhisper S1 family of voice-to-text models.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/superwhisper-s1-mini-the-600m-parameter-model-built-just-for-transcription
+  pub_date: '2026-09-29T14:00:00'
+  source: KDnuggets
+  title: 'SuperWhisper s1-mini: The 600M Parameter Model Built Just for Transcription'
+- category: machine-learning
+  description: Learn LLM fundamentals, AI engineering, RAG, MLOps, fine-tuning, and
+    deployment with five practical courses designed to help you become a stronger
+    AI and machine learning engineer.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering
+  pub_date: '2026-09-29T12:00:36'
+  source: KDnuggets
+  title: 5 Free Courses to Learn AI Engineering
 - category: ai-research
   description: In a study focusing on hiring decisions, MIT researchers found the
     use of a single algorithm by many firms could benefit job seekers in certain situations.
@@ -22,6 +92,23 @@ articles:
   pub_date: '2026-09-28T19:00:00'
   source: Google AI Blog
   title: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
+- category: machine-learning
+  description: Here's how each got to where it is, a real use case and working code
+    for both, and a side-by-side on the numbers that actually matter.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/gemini-3-5-transcribe-vs-openais-gpt-transcribe
+  pub_date: '2026-09-28T14:00:06'
+  source: KDnuggets
+  title: Gemini 3.5 Transcribe vs OpenAI’s GPT-Transcribe
+- category: machine-learning
+  description: 'When Numba code disappoints, it''s nearly never the compiler, and
+    usually ends up being the boundary around the compiled code: not crossing it,
+    not making it wide enough, or crossing it during every ru...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-numba-tricks-for-python-runtime-optimization
+  pub_date: '2026-09-28T12:00:43'
+  source: KDnuggets
+  title: 3 Numba Tricks for Python Runtime Optimization
 - category: ai-research
   description: MIT engineers have found a way to stabilize the lipid nanoparticles
     used to deliver RNA vaccines, which could allow the vaccines to be more widely
@@ -39,6 +126,22 @@ articles:
   pub_date: '2026-09-25T20:15:00'
   source: MIT AI News
   title: MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma
+- category: machine-learning
+  description: We finish off our short series on SLM optimization with the third entry,
+    focused on batching by length instead of looping item by item.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization
+  pub_date: '2026-09-25T14:00:07'
+  source: KDnuggets
+  title: Batching by Length Instead of Looping Item by Item for SLM Optimization
+- category: machine-learning
+  description: Leveling up rarely means new syntax. It means learning what the language
+    already promised you.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills
+  pub_date: '2026-09-25T12:00:22'
+  source: KDnuggets
+  title: 7 Advanced Python Tricks to Level Up Your Coding Skills
 - category: ai-research
   description: A new language-processing tool could help identify the highest-risk
     individuals from natural language, enabling swifter interventions.
@@ -80,14 +183,6 @@ articles:
   title: Poitras Center to fuel early careers of 50 young scientists dedicated to
     psychiatric disorders research
 - category: ai-research
-  description: A new focus on fiction and memoir aims to help the MIT community celebrate
-    the power of storytelling and strengthen social connection.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-chapter-mit-reads-0918
-  pub_date: '2026-09-18T16:30:00'
-  source: MIT AI News
-  title: A new chapter for MIT Reads
-- category: ai-research
   description: Text "AI & Economy Research Program" all over a green grid background,
     with the Google G logo in the bottom right corner
   icon: fa-google
@@ -109,14 +204,6 @@ articles:
   pub_date: '2026-09-17T20:00:00'
   source: Google AI Blog
   title: Making global data easier to explore
-- category: ai-research
-  description: This patient-specific method, called xvr, helps doctors use X-rays
-    for surgical navigation in fields such as orthopedics and neurosurgery.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916
-  pub_date: '2026-09-16T15:00:00'
-  source: MIT AI News
-  title: New AI technique could make minimally invasive surgeries safer and more precise
 - category: ai-research
   description: Explore this collection to see how experts and local leaders are using
     AI breakthroughs to ensure everyone can share the opportunity of AI.
@@ -157,4 +244,4 @@ articles:
   source: Google AI Blog
   title: Watch astronaut Christina Koch and Google’s James Manyika discuss space,
     technology, and discovery.
-last_updated: '2026-09-30T12:00:43.265213'
+last_updated: '2026-10-01T12:33:37.952077'

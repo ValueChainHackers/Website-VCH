@@ -1,5 +1,71 @@
 articles:
 - category: circular
+  description: Around 12,000 permitted waste receiving sites in England and Wales
+    are now required to use the new Digital Waste Tracking system. The post Digital
+    Tracking Waste system goes live for 12,000 operators ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/digital-tracking-waste-system-goes-live-for-12000-operators/
+  pub_date: '2026-10-01T08:18:44'
+  source: Circular Online
+  title: Digital Tracking Waste system goes live for 12,000 operators
+- category: supply-chain
+  description: Caterpillar plans to invest about $1 billion in North Carolina, including
+    a new Sanford factory for compact track loaders and telehandlers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/caterpillar-billion-north-carolina-sanford-factory
+  pub_date: '2026-09-30T14:45:00'
+  source: Supply Chain 24/7
+  title: Caterpillar Plans $1 Billion Manufacturing Push in North Carolina
+- category: supply-chain
+  description: The U.S. has banned selected Canadian alcohol, dairy products, and
+    motorcycles, affecting about $967 million in trade. Here's what's covered.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/canadian-products-banned-us-import-list
+  pub_date: '2026-09-30T14:34:00'
+  source: Supply Chain 24/7
+  title: Which Canadian Products Are Now Banned From the U.S.?
+- category: supply-chain
+  description: Trimble introduced AI tools for truck navigation, route planning, maintenance
+    invoices, trailer arrivals, and fleet administrative work.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/trimble-ai-fleet-routing-maintenance-trailer-updates
+  pub_date: '2026-09-30T14:04:00'
+  source: Supply Chain 24/7
+  title: Trimble Adds AI Tools for Drivers, Dispatchers, and Fleet Operations
+- category: supply-chain
+  description: Genentech broke ground on a $750 million Oregon manufacturing expansion
+    that will add drug device filling and begin operating in 2031.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/genentech-oregon-manufacturing-expansion-750-million
+  pub_date: '2026-09-30T13:46:00'
+  source: Supply Chain 24/7
+  title: Genentech Breaks Ground on $750 Million Oregon Manufacturing Project
+- category: supply-chain
+  description: BRG's Nathan Cray discusses how retailers weigh holiday inventory,
+    freight costs, tariffs, and the risk of buying more than shoppers want.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/holiday-retail-inventory-tariffs-freight-nathan-cray
+  pub_date: '2026-09-30T13:37:00'
+  source: Supply Chain 24/7
+  title: 'Holiday Inventory: How Early Is Too Early for Retailers to Buy?'
+- category: supply-chain
+  description: Flexport launched its new AI connection, which lets customers search
+    freight rates, book shipments, and check cargo status through their preferred
+    assistants.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/flexport-ai-assistants-freight-booking-tracking
+  pub_date: '2026-09-30T13:31:00'
+  source: Supply Chain 24/7
+  title: Flexport Opens Freight Booking to ChatGPT and Other AI Assistants
+- category: supply-chain
+  description: A new survey from Tive links real-time shipment monitoring to faster
+    cargo-theft responses and better recovery results.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tive-cargo-theft-survey-active-monitoring-recovery
+  pub_date: '2026-09-30T13:22:00'
+  source: Supply Chain 24/7
+  title: Most Companies Now Use AI for Cargo Security. How Far Should It Go?
+- category: circular
   description: Exchange For Change has announced the creation of a new UK recycling
     infrastructure that will support the delivery of the Deposit Return Scheme (DRS)
     from October 2027. The post Exchange For Change an...
@@ -50,23 +116,6 @@ articles:
   pub_date: '2026-09-29T13:37:00'
   source: Supply Chain 24/7
   title: Fake Pickups Top the Worry List as Cargo Theft Gets More Organized
-- category: supply-chain
-  description: Mesabi Metallics plans a $15 billion Iowa steel mill supplied by its
-    Minnesota iron ore mine, with first production expected in 2030.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/mesabi-metallics-15-billion-iowa-steel-mill
-  pub_date: '2026-09-29T13:07:00'
-  source: Supply Chain 24/7
-  title: White House Announces Plans for $15 Billion Steel Mill in Iowa
-- category: supply-chain
-  description: A new Netstock report found faster inventory turnover among its customers,
-    even as the share of surveyed businesses reporting high dead stock doubled since
-    2024.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/one-in-four-small-businesses-reports-high-dead-stock-study-finds
-  pub_date: '2026-09-29T12:25:00'
-  source: Supply Chain 24/7
-  title: One in Four Small Businesses Reports High Dead Stock, Study Finds
 - category: circular
   description: Maidstone Borough Council and sustainable materials company RECOOL
     are using old clothes to fix potholes in Maidstone's parks as part of a new trial.
@@ -85,46 +134,6 @@ articles:
   pub_date: '2026-09-29T08:24:14'
   source: Circular Online
   title: Construction completed on £24 million waste transfer station
-- category: supply-chain
-  description: DHL launched a U.S. health-systems service that combines a central
-    inventory facility with dedicated deliveries to hospitals and other care sites.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-health-systems-logistics-service-us
-  pub_date: '2026-09-28T14:27:00'
-  source: Supply Chain 24/7
-  title: DHL Launches Centralized Logistics Service for U.S. Health Systems
-- category: supply-chain
-  description: Adeptia's Tim Bond explains why messy incoming data can disrupt manufacturing
-    plans, worsen peak-season problems, and limit AI.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturing-first-mile-data-problem-tim-bond-adeptia
-  pub_date: '2026-09-28T13:55:00'
-  source: Supply Chain 24/7
-  title: How Messy Supplier Data Can Disrupt Production and Delivery
-- category: supply-chain
-  description: Amazon has added a direct rail route from Los Angeles to East Coast
-    fulfillment centers for eligible ocean freight bookings.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-adds-direct-rail-route-from-los-angeles-to-the-east-coast
-  pub_date: '2026-09-28T13:26:00'
-  source: Supply Chain 24/7
-  title: Amazon Adds Direct Rail Route From Los Angeles to the East Coast
-- category: supply-chain
-  description: Federal prosecutors charged a Nevada trucking business owner with fraud
-    and money laundering over an alleged $105 million semi-truck investment scheme.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nevada-man-indicted-semi-truck-investment-fraud
-  pub_date: '2026-09-28T13:17:00'
-  source: Supply Chain 24/7
-  title: Nevada Man Indicted in $105 Million Semi-Truck Investment Scheme
-- category: supply-chain
-  description: Lowe's has launched drone delivery near Charlotte, offering eligible
-    customers small tools and project supplies through DoorDash in as fast as 20 minutes.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lowes-first-home-improvement-retailer-drone-delivery
-  pub_date: '2026-09-28T13:10:00'
-  source: Supply Chain 24/7
-  title: Lowe’s Becomes First Home Improvement Retailer to Offer Drone Delivery
 - category: circular
   description: The dashboard allows Material Recovery Facilities (MRFs) to measure
     Overall Equipment Effectiveness (OEE) continuously using real-time AI data. The
@@ -161,13 +170,4 @@ articles:
   pub_date: '2026-09-24T08:14:32'
   source: Circular Online
   title: New Look, M&S, Sainsbury’s and Oxfam launch joint circular textile project
-- category: circular
-  description: The UK recycling rate for waste from households was 44.5% in 2024,
-    down 0.1 percentage points from 44.6% in 2023. The post UK recycling rate remains
-    stagnant at 44.5% appeared first on Circular Online...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-recycling-rate-remains-stagnant-at-44-5/
-  pub_date: '2026-09-23T09:34:55'
-  source: Circular Online
-  title: UK recycling rate remains stagnant at 44.5%
-last_updated: '2026-09-30T12:00:42.350541'
+last_updated: '2026-10-01T12:33:36.810160'
