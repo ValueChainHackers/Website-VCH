@@ -1,4 +1,46 @@
 articles:
+- category: ai-research
+  description: Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer,
+    a free platform for middle and high school students who want to learn about entrepreneurship.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002
+  pub_date: '2026-10-02T04:00:00'
+  source: MIT AI News
+  title: '3 Questions: A new resource to empower young entrepreneurs'
+- category: ai-research
+  description: '"InstructMesh" can generate designs for everyday objects that are
+    easy to edit and fabricate for both experts and newcomers to 3D modeling.'
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001
+  pub_date: '2026-10-01T22:00:00'
+  source: MIT AI News
+  title: New tool lets users repair AI-generated 3D models, then fabricate them just
+    the way they want
+- category: machine-learning
+  description: Describe your data needs in plain language and turn websites into a
+    continuous source of fresh data.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/09/browseractai/browseract-ai-web-scraper-in-2026-build-once-run-repeatedly
+  pub_date: '2026-10-01T17:42:13'
+  source: KDnuggets
+  title: 'BrowserAct AI Web Scraper in 2026: Build Once, Run Repeatedly'
+- category: machine-learning
+  description: Docling takes documents in whatever inconsistent format they arrive
+    in, and converts them into one unified, structured representation that both people
+    and AI systems can work with reliably, rather tha...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/from-messy-documents-to-structured-data-with-docling
+  pub_date: '2026-10-01T16:00:00'
+  source: KDnuggets
+  title: From Messy Documents to Structured Data with Docling
+- category: machine-learning
+  description: Learn how to use Marimo for interactive data analysis with Python,
+    Pandas, and Altair, and turn a reactive notebook into a simple shareable dashboard.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-use-marimo-for-interactive-data-analysis
+  pub_date: '2026-10-01T14:00:38'
+  source: KDnuggets
+  title: How to Use Marimo for Interactive Data Analysis
 - category: machine-learning
   description: Get work done, and have seconds added back to your life since you won't
     be writing second, third or - *gasp!* - fourth line follow-ups to your impeccable
@@ -100,15 +142,6 @@ articles:
   pub_date: '2026-09-28T14:00:06'
   source: KDnuggets
   title: Gemini 3.5 Transcribe vs OpenAI’s GPT-Transcribe
-- category: machine-learning
-  description: 'When Numba code disappoints, it''s nearly never the compiler, and
-    usually ends up being the boundary around the compiled code: not crossing it,
-    not making it wide enough, or crossing it during every ru...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-numba-tricks-for-python-runtime-optimization
-  pub_date: '2026-09-28T12:00:43'
-  source: KDnuggets
-  title: 3 Numba Tricks for Python Runtime Optimization
 - category: ai-research
   description: MIT engineers have found a way to stabilize the lipid nanoparticles
     used to deliver RNA vaccines, which could allow the vaccines to be more widely
@@ -126,22 +159,6 @@ articles:
   pub_date: '2026-09-25T20:15:00'
   source: MIT AI News
   title: MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma
-- category: machine-learning
-  description: We finish off our short series on SLM optimization with the third entry,
-    focused on batching by length instead of looping item by item.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization
-  pub_date: '2026-09-25T14:00:07'
-  source: KDnuggets
-  title: Batching by Length Instead of Looping Item by Item for SLM Optimization
-- category: machine-learning
-  description: Leveling up rarely means new syntax. It means learning what the language
-    already promised you.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills
-  pub_date: '2026-09-25T12:00:22'
-  source: KDnuggets
-  title: 7 Advanced Python Tricks to Level Up Your Coding Skills
 - category: ai-research
   description: A new language-processing tool could help identify the highest-risk
     individuals from natural language, enabling swifter interventions.
@@ -165,23 +182,6 @@ articles:
   pub_date: '2026-09-23T18:00:00'
   source: Google AI Blog
   title: Google Beam expands with new regions, partners, and customers
-- category: ai-research
-  description: Computer scientist, entrepreneur, and philanthropist will collaborate
-    with the MIT Schwarzman College of Computing to advance AI and scientific discovery.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923
-  pub_date: '2026-09-23T15:30:00'
-  source: MIT AI News
-  title: MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow
-- category: ai-research
-  description: Patricia and James Poitras '63 provide fellowships for graduate students
-    and postdocs who will shape the future of mental health research.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922
-  pub_date: '2026-09-22T19:00:00'
-  source: MIT AI News
-  title: Poitras Center to fuel early careers of 50 young scientists dedicated to
-    psychiatric disorders research
 - category: ai-research
   description: Text "AI & Economy Research Program" all over a green grid background,
     with the Google G logo in the bottom right corner
@@ -244,4 +244,4 @@ articles:
   source: Google AI Blog
   title: Watch astronaut Christina Koch and Google’s James Manyika discuss space,
     technology, and discovery.
-last_updated: '2026-10-01T12:33:37.952077'
+last_updated: '2026-10-02T11:58:56.038108'
