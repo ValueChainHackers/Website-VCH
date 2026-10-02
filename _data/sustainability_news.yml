@@ -1,5 +1,87 @@
 articles:
 - category: circular
+  description: News updates written by CIWM's commercial partners. Kapdaa Kapdaa continues
+    textiles recycling commercial trials with major brands and local authorities Greyparrot
+    Cheshire West Recycling uses waste i...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-october/
+  pub_date: '2026-10-02T07:22:31'
+  source: Circular Online
+  title: News in Brief | Commercial Partner News October
+- category: circular
+  description: A 32-year-old man has been arrested in connection with illegal waste
+    sites in Peterlee and Hartlepool, County Durham. The post Man arrested in connection
+    with North East illegal waste dumping appeared...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/man-arrested-in-connection-with-north-east-illegal-waste-dumping/
+  pub_date: '2026-10-02T07:00:28'
+  source: Circular Online
+  title: Man arrested in connection with North East illegal waste dumping
+- category: supply-chain
+  description: FedEx completed its $1.4 billion sale of FedEx Supply Chain to CMA
+    CGM, expanding CEVA's warehouse operations and establishing new freight agreements.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-supply-chain-sale-cma-cgm-ceva-completed
+  pub_date: '2026-10-01T20:43:00'
+  source: Supply Chain 24/7
+  title: CMA CGM Group Completes $1.4 Billion Acquisition of FedEx Supply Chain
+- category: supply-chain
+  description: A new NYC map links Amazon delivery vehicles to more than 14,000 citations
+    as advocates push for changes to driver hiring and safety rules.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-delivery-vehicles-nyc-traffic-tickets
+  pub_date: '2026-10-01T15:35:00'
+  source: Supply Chain 24/7
+  title: Amazon Delivery Vehicles Got Over 14,000 Citations in NYC, Analysis Finds
+- category: supply-chain
+  description: TikTok Shop has added Happy Returns, offering eligible shoppers box-free,
+    label-free returns at nearly 10,000 drop-off locations across the U.S.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tiktok-shop-happy-returns-box-free-returns
+  pub_date: '2026-10-01T15:09:00'
+  source: Supply Chain 24/7
+  title: TikTok Shop Adds Box-Free Returns at Nearly 10,000 U.S. Locations
+- category: supply-chain
+  description: Ultium plans a $1 billion Tennessee battery plant investment and 500
+    new jobs, with upgrades for new GM vehicle cells expected to finish in 2028.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ultium-tennessee-battery-plant-billion-investment
+  pub_date: '2026-10-01T14:32:00'
+  source: Supply Chain 24/7
+  title: Ultium Plans $1 Billion Investment at Tennessee Battery Factory
+- category: supply-chain
+  description: Executives from WHOOP, Hormel, and Fanatics share six lessons on buying
+    planning software, preparing teams, measuring savings, and budgeting for support.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/seven-lessons-buying-supply-chain-planning-software
+  pub_date: '2026-10-01T14:19:00'
+  source: Supply Chain 24/7
+  title: Six Things to Consider Before Buying Planning Software
+- category: supply-chain
+  description: Armada and Chorus launched PRO Connect to track individual products
+    using smart labels, sensors, and Armada's existing supply chain software.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/armada-chorus-smart-label-foodservice-tracking
+  pub_date: '2026-10-01T13:56:00'
+  source: Supply Chain 24/7
+  title: Armada Adds Smart Labels to Track Foodservice Goods Item by Item
+- category: supply-chain
+  description: FedEx ordered 2,000 Harbinger electric trucks worth more than $300
+    million for U.S. and Canadian delivery operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-orders-2000-harbinger-electric-trucks
+  pub_date: '2026-10-01T12:09:00'
+  source: Supply Chain 24/7
+  title: FedEx Orders 2,000 Electric Trucks in Deal Topping $300 Million
+- category: supply-chain
+  description: Avio USA broke ground on a Virginia rocket motor plant expected to
+    create 1,500 jobs and begin supplying U.S. missile programs in early 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/avio-virginia-rocket-motor-factory-groundbreaking
+  pub_date: '2026-10-01T12:03:00'
+  source: Supply Chain 24/7
+  title: Avio Breaks Ground on $500 Million Rocket Motor Plant in Virginia
+- category: circular
   description: Around 12,000 permitted waste receiving sites in England and Wales
     are now required to use the new Digital Waste Tracking system. The post Digital
     Tracking Waste system goes live for 12,000 operators ...
@@ -24,47 +106,6 @@ articles:
   pub_date: '2026-09-30T14:34:00'
   source: Supply Chain 24/7
   title: Which Canadian Products Are Now Banned From the U.S.?
-- category: supply-chain
-  description: Trimble introduced AI tools for truck navigation, route planning, maintenance
-    invoices, trailer arrivals, and fleet administrative work.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trimble-ai-fleet-routing-maintenance-trailer-updates
-  pub_date: '2026-09-30T14:04:00'
-  source: Supply Chain 24/7
-  title: Trimble Adds AI Tools for Drivers, Dispatchers, and Fleet Operations
-- category: supply-chain
-  description: Genentech broke ground on a $750 million Oregon manufacturing expansion
-    that will add drug device filling and begin operating in 2031.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/genentech-oregon-manufacturing-expansion-750-million
-  pub_date: '2026-09-30T13:46:00'
-  source: Supply Chain 24/7
-  title: Genentech Breaks Ground on $750 Million Oregon Manufacturing Project
-- category: supply-chain
-  description: BRG's Nathan Cray discusses how retailers weigh holiday inventory,
-    freight costs, tariffs, and the risk of buying more than shoppers want.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/holiday-retail-inventory-tariffs-freight-nathan-cray
-  pub_date: '2026-09-30T13:37:00'
-  source: Supply Chain 24/7
-  title: 'Holiday Inventory: How Early Is Too Early for Retailers to Buy?'
-- category: supply-chain
-  description: Flexport launched its new AI connection, which lets customers search
-    freight rates, book shipments, and check cargo status through their preferred
-    assistants.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/flexport-ai-assistants-freight-booking-tracking
-  pub_date: '2026-09-30T13:31:00'
-  source: Supply Chain 24/7
-  title: Flexport Opens Freight Booking to ChatGPT and Other AI Assistants
-- category: supply-chain
-  description: A new survey from Tive links real-time shipment monitoring to faster
-    cargo-theft responses and better recovery results.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tive-cargo-theft-survey-active-monitoring-recovery
-  pub_date: '2026-09-30T13:22:00'
-  source: Supply Chain 24/7
-  title: Most Companies Now Use AI for Cargo Security. How Far Should It Go?
 - category: circular
   description: Exchange For Change has announced the creation of a new UK recycling
     infrastructure that will support the delivery of the Deposit Return Scheme (DRS)
@@ -92,30 +133,6 @@ articles:
   pub_date: '2026-09-30T08:41:46'
   source: Circular Online
   title: BSI and ISO launch international standard to prevent food waste
-- category: supply-chain
-  description: Descartes added an AI agent to Datamyne that answers trade questions
-    and shows users the shipment records behind its findings.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/descartes-datamyne-ai-agent-global-trade-data
-  pub_date: '2026-09-29T14:51:00'
-  source: Supply Chain 24/7
-  title: Descartes Adds AI Agent Aims to Speed Up Supplier and Trade Research
-- category: supply-chain
-  description: A 3PL can bill every listed charge correctly and still miss revenue
-    from repacks, rush picks, and other work that never makes it onto an invoice.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/3pl-warehouse-work-missing-invoices
-  pub_date: '2026-09-29T14:03:00'
-  source: Supply Chain 24/7
-  title: Why Perfect Invoices Still Cost 3PLs Money They Already Earned
-- category: supply-chain
-  description: In a new SmartSense survey of 150 U.S. security leaders, 63% say cargo
-    theft has increased, while 40% report annual losses of at least $1 million.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/smartsense-cargo-theft-survey-fraudulent-pickups-losses
-  pub_date: '2026-09-29T13:37:00'
-  source: Supply Chain 24/7
-  title: Fake Pickups Top the Worry List as Cargo Theft Gets More Organized
 - category: circular
   description: Maidstone Borough Council and sustainable materials company RECOOL
     are using old clothes to fix potholes in Maidstone's parks as part of a new trial.
@@ -152,22 +169,4 @@ articles:
   pub_date: '2026-09-28T09:44:23'
   source: Circular Online
   title: Co-op and Podback expand coffee pod recycling to over 200 stores
-- category: circular
-  description: 15 new pilots to receive grants from the GBP565,031 2026 Electricals
-    Recycling Fund, Material Focus have announced. The post Electrical Recycling Fund
-    commits over GBP565,000 to 15 new pilots appeared...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/electrical-recycling-fund-commits-over-565000-to-15-new-pilots/
-  pub_date: '2026-09-25T08:26:40'
-  source: Circular Online
-  title: Electrical Recycling Fund commits over £565,000 to 15 new pilots
-- category: circular
-  description: New Look, M&S, Sainsbury's and Oxfam have partnered to launch a new
-    project to build circular textile value chains from second-hand clothing. The
-    post New Look, M&S, Sainsbury's and Oxfam launch joint...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/new-look-ms-sainsburys-and-oxfam-launch-joint-circular-textile-project/
-  pub_date: '2026-09-24T08:14:32'
-  source: Circular Online
-  title: New Look, M&S, Sainsbury’s and Oxfam launch joint circular textile project
-last_updated: '2026-10-01T12:33:36.810160'
+last_updated: '2026-10-02T11:58:54.635673'
