@@ -1,4 +1,52 @@
 articles:
+- category: supply-chain
+  description: It's National Manufacturing Day, and Travelers' Chris Hayes discusses
+    how manufacturers can protect new hires and make every shift safer.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-worker-safety-new-hires-training
+  pub_date: '2026-10-02T14:39:00'
+  source: Supply Chain 24/7
+  title: How Manufacturers Can Make the First Year on the Job Safer
+- category: supply-chain
+  description: Tesla launches high-volume Semi production at its Nevada factory, begins
+    customer deliveries, and plans to haul its own freight.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tesla-semi-high-volume-production-nevada-factory
+  pub_date: '2026-10-02T13:44:00'
+  source: Supply Chain 24/7
+  title: Tesla’s New Nevada Factory Built for 50,000 Semis a Year
+- category: supply-chain
+  description: FedEx completed its $1.4 billion sale of FedEx Supply Chain to CMA
+    CGM, expanding CEVA's warehouse operations and establishing new freight agreements.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-supply-chain-sale-cma-cgm-ceva-completed
+  pub_date: '2026-10-02T13:31:00'
+  source: Supply Chain 24/7
+  title: CMA CGM Group Completes $1.4 Billion Acquisition of FedEx Supply Chain
+- category: supply-chain
+  description: JPMorgan and Ford launched a Michigan supplier program with goals of
+    $1 billion in financing and $1 billion in supplier business.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/jpmorgan-ford-michigan-manufacturing-supplier-program
+  pub_date: '2026-10-02T13:19:00'
+  source: Supply Chain 24/7
+  title: JPMorgan, Ford Target $1 Billion Each to Grow Michigan Manufacturing
+- category: supply-chain
+  description: UPS launched Secure Commerce, combining shipping insurance and risk
+    tools to help businesses protect orders and reduce avoidable losses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-launches-to-help-shippers-cut-losses-and-fraud
+  pub_date: '2026-10-02T13:06:00'
+  source: Supply Chain 24/7
+  title: UPS Launches Secure Commerce to Help Shippers Cut Losses and Fraud
+- category: supply-chain
+  description: SpendHQ launched Savings Radar to identify procurement savings, rank
+    opportunities, and help buyers prepare to act on recommendations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/spendhq-savings-radar-procurement-ai
+  pub_date: '2026-10-02T11:48:00'
+  source: Supply Chain 24/7
+  title: SpendHQ Launches Savings Radar to Find Procurement Cost Savings
 - category: circular
   description: News updates written by CIWM's commercial partners. Kapdaa Kapdaa continues
     textiles recycling commercial trials with major brands and local authorities Greyparrot
@@ -17,14 +65,6 @@ articles:
   pub_date: '2026-10-02T07:00:28'
   source: Circular Online
   title: Man arrested in connection with North East illegal waste dumping
-- category: supply-chain
-  description: FedEx completed its $1.4 billion sale of FedEx Supply Chain to CMA
-    CGM, expanding CEVA's warehouse operations and establishing new freight agreements.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-supply-chain-sale-cma-cgm-ceva-completed
-  pub_date: '2026-10-01T20:43:00'
-  source: Supply Chain 24/7
-  title: CMA CGM Group Completes $1.4 Billion Acquisition of FedEx Supply Chain
 - category: supply-chain
   description: A new NYC map links Amazon delivery vehicles to more than 14,000 citations
     as advocates push for changes to driver hiring and safety rules.
@@ -57,30 +97,6 @@ articles:
   pub_date: '2026-10-01T14:19:00'
   source: Supply Chain 24/7
   title: Six Things to Consider Before Buying Planning Software
-- category: supply-chain
-  description: Armada and Chorus launched PRO Connect to track individual products
-    using smart labels, sensors, and Armada's existing supply chain software.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/armada-chorus-smart-label-foodservice-tracking
-  pub_date: '2026-10-01T13:56:00'
-  source: Supply Chain 24/7
-  title: Armada Adds Smart Labels to Track Foodservice Goods Item by Item
-- category: supply-chain
-  description: FedEx ordered 2,000 Harbinger electric trucks worth more than $300
-    million for U.S. and Canadian delivery operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-orders-2000-harbinger-electric-trucks
-  pub_date: '2026-10-01T12:09:00'
-  source: Supply Chain 24/7
-  title: FedEx Orders 2,000 Electric Trucks in Deal Topping $300 Million
-- category: supply-chain
-  description: Avio USA broke ground on a Virginia rocket motor plant expected to
-    create 1,500 jobs and begin supplying U.S. missile programs in early 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/avio-virginia-rocket-motor-factory-groundbreaking
-  pub_date: '2026-10-01T12:03:00'
-  source: Supply Chain 24/7
-  title: Avio Breaks Ground on $500 Million Rocket Motor Plant in Virginia
 - category: circular
   description: Around 12,000 permitted waste receiving sites in England and Wales
     are now required to use the new Digital Waste Tracking system. The post Digital
@@ -90,22 +106,6 @@ articles:
   pub_date: '2026-10-01T08:18:44'
   source: Circular Online
   title: Digital Tracking Waste system goes live for 12,000 operators
-- category: supply-chain
-  description: Caterpillar plans to invest about $1 billion in North Carolina, including
-    a new Sanford factory for compact track loaders and telehandlers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/caterpillar-billion-north-carolina-sanford-factory
-  pub_date: '2026-09-30T14:45:00'
-  source: Supply Chain 24/7
-  title: Caterpillar Plans $1 Billion Manufacturing Push in North Carolina
-- category: supply-chain
-  description: The U.S. has banned selected Canadian alcohol, dairy products, and
-    motorcycles, affecting about $967 million in trade. Here's what's covered.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/canadian-products-banned-us-import-list
-  pub_date: '2026-09-30T14:34:00'
-  source: Supply Chain 24/7
-  title: Which Canadian Products Are Now Banned From the U.S.?
 - category: circular
   description: Exchange For Change has announced the creation of a new UK recycling
     infrastructure that will support the delivery of the Deposit Return Scheme (DRS)
@@ -169,4 +169,4 @@ articles:
   pub_date: '2026-09-28T09:44:23'
   source: Circular Online
   title: Co-op and Podback expand coffee pod recycling to over 200 stores
-last_updated: '2026-10-02T11:58:54.635673'
+last_updated: '2026-10-03T11:12:07.920147'
