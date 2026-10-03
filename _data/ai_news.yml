@@ -1,5 +1,55 @@
 articles:
 - category: ai-research
+  description: Associate Professor Cathy Wu uses reinforcement learning to help map
+    out improvements to transportation and other multifaceted systems.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002
+  pub_date: '2026-10-02T19:30:00'
+  source: MIT AI News
+  title: Computational tools for society’s most complex challenges
+- category: ai-research
+  description: Writing as a participant and researcher, PhD student JS Tan SM '22
+    has co-authored a new book about the rise of tech worker protests and the employer
+    backlash that followed.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/documenting-tech-worker-movement-0918
+  pub_date: '2026-10-02T17:00:00'
+  source: MIT AI News
+  title: Documenting the tech worker movement
+- category: ai-research
+  description: A video showing the September AI updates
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/
+  pub_date: '2026-10-02T15:00:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in September 2026
+- category: machine-learning
+  description: This is the Python material that does not get left behind. Almost none
+    of it is replaced by a framework later. Learn it, and keep this cheat sheet close
+    by as a handy reference.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet
+  pub_date: '2026-10-02T14:00:17'
+  source: KDnuggets
+  title: 'Python Foundations for Engineering: A KDnuggets Cheat Sheet'
+- category: machine-learning
+  description: 'The forward deployed engineer: is this the hot new AI career, or has
+    the hype cycle rebranded?'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title
+  pub_date: '2026-10-02T14:00:04'
+  source: KDnuggets
+  title: 'Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a
+    Better Title?'
+- category: machine-learning
+  description: Reduce costs, improve response quality, and build leaner AI applications
+    with these prompt engineering strategies.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization
+  pub_date: '2026-10-02T12:00:00'
+  source: KDnuggets
+  title: 5 Proven Techniques for Token Compression and Prompt Optimization
+- category: ai-research
   description: Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer,
     a free platform for middle and high school students who want to learn about entrepreneurship.
   icon: fa-graduation-cap
@@ -94,23 +144,6 @@ articles:
   pub_date: '2026-09-29T17:00:40'
   source: KDnuggets
   title: How to Turn Excel Data Into PowerPoint Presentations With AI
-- category: machine-learning
-  description: This is a summary of, and insights into, what I found digging into
-    the recently-released Superwhisper S1 family of voice-to-text models.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/superwhisper-s1-mini-the-600m-parameter-model-built-just-for-transcription
-  pub_date: '2026-09-29T14:00:00'
-  source: KDnuggets
-  title: 'SuperWhisper s1-mini: The 600M Parameter Model Built Just for Transcription'
-- category: machine-learning
-  description: Learn LLM fundamentals, AI engineering, RAG, MLOps, fine-tuning, and
-    deployment with five practical courses designed to help you become a stronger
-    AI and machine learning engineer.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering
-  pub_date: '2026-09-29T12:00:36'
-  source: KDnuggets
-  title: 5 Free Courses to Learn AI Engineering
 - category: ai-research
   description: In a study focusing on hiring decisions, MIT researchers found the
     use of a single algorithm by many firms could benefit job seekers in certain situations.
@@ -134,14 +167,6 @@ articles:
   pub_date: '2026-09-28T19:00:00'
   source: Google AI Blog
   title: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
-- category: machine-learning
-  description: Here's how each got to where it is, a real use case and working code
-    for both, and a side-by-side on the numbers that actually matter.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/gemini-3-5-transcribe-vs-openais-gpt-transcribe
-  pub_date: '2026-09-28T14:00:06'
-  source: KDnuggets
-  title: Gemini 3.5 Transcribe vs OpenAI’s GPT-Transcribe
 - category: ai-research
   description: MIT engineers have found a way to stabilize the lipid nanoparticles
     used to deliver RNA vaccines, which could allow the vaccines to be more widely
@@ -159,22 +184,6 @@ articles:
   pub_date: '2026-09-25T20:15:00'
   source: MIT AI News
   title: MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma
-- category: ai-research
-  description: A new language-processing tool could help identify the highest-risk
-    individuals from natural language, enabling swifter interventions.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924
-  pub_date: '2026-09-24T21:00:00'
-  source: MIT AI News
-  title: Estimating suicide risk from text
-- category: ai-research
-  description: In their new book, "How AI Sees the City," the leaders of MIT's Senseable
-    City Lab examine the technology's implications for researching urban life.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
-  pub_date: '2026-09-24T04:00:00'
-  source: MIT AI News
-  title: The promise and peril of using visual AI to study cities
 - category: ai-research
   description: Google Beam promotional animation
   icon: fa-google
@@ -235,13 +244,4 @@ articles:
   pub_date: '2026-09-15T13:00:00'
   source: Google AI Blog
   title: New insights from Google’s AI & Economy ATLAS
-- category: ai-research
-  description: Christina Koch sits down with James Manyika, Google's Senior Vice President
-    of Research, Labs, Technology & Society.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/
-  pub_date: '2026-09-14T19:00:00'
-  source: Google AI Blog
-  title: Watch astronaut Christina Koch and Google’s James Manyika discuss space,
-    technology, and discovery.
-last_updated: '2026-10-02T11:58:56.038108'
+last_updated: '2026-10-03T11:12:08.692078'
