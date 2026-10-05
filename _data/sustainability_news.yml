@@ -1,4 +1,31 @@
 articles:
+- category: circular
+  description: John Baird, 61, has been handed a six-month prison sentence, suspended
+    for two years, after dumping scrap vehicles on his land. The post Farmer handed
+    suspended prison sentence for waste offences appe...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/farmer-handed-suspended-prison-sentence-for-waste-offences/
+  pub_date: '2026-10-05T11:28:56'
+  source: Circular Online
+  title: Farmer handed suspended prison sentence for waste offences
+- category: circular
+  description: The Shadow Chancellor Andrew Griffith is set to promise to scrap the
+    Environment Agency and abolish Extended Producer Responsibility for Packaging
+    (pEPR). The post Tories promise to scrap Environment ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/tories-to-promise-to-scrap-environment-agency-and-abolish-epr/
+  pub_date: '2026-10-05T09:34:08'
+  source: Circular Online
+  title: Tories promise to scrap Environment Agency and abolish EPR
+- category: circular
+  description: The Washed Aggregates Trade Association (WATA) has backed a call for
+    a government-led survey into the scale of the recycling to produce aggregates
+    in the UK. The post WATA backs call for government su...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wata-backs-call-for-government-survey-into-recycled-aggregates/
+  pub_date: '2026-10-05T08:29:04'
+  source: Circular Online
+  title: WATA backs call for government survey into recycled aggregates
 - category: supply-chain
   description: It's National Manufacturing Day, and Travelers' Chris Hayes discusses
     how manufacturers can protect new hires and make every shift safer.
@@ -142,31 +169,4 @@ articles:
   pub_date: '2026-09-29T09:03:03'
   source: Circular Online
   title: Maidstone trialling pothole repair material made from recycled textile waste
-- category: circular
-  description: A GBP24 million waste transfer station in Ware, Hertfordshire, is officially
-    operational. The post Construction completed on GBP24 million waste transfer station
-    appeared first on Circular Online.
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/construction-completed-on-24-million-waste-transfer-station/
-  pub_date: '2026-09-29T08:24:14'
-  source: Circular Online
-  title: Construction completed on £24 million waste transfer station
-- category: circular
-  description: The dashboard allows Material Recovery Facilities (MRFs) to measure
-    Overall Equipment Effectiveness (OEE) continuously using real-time AI data. The
-    post Greyparrot launches live equipment effectivenes...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/greyparrot-launches-live-equipment-effectiveness-tracking-tool-for-mrfs/
-  pub_date: '2026-09-28T13:09:27'
-  source: Circular Online
-  title: Greyparrot launches live equipment effectiveness tracking tool for MRFs
-- category: circular
-  description: Coffee pod recycling points are rolling out to more than 200 Co-op
-    stores following a trial between the retailer and coffee pod recycling service
-    Podback. The post Co-op and Podback expand coffee pod ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/co-op-and-podback-expand-coffee-pod-recycling-to-over-200-stores/
-  pub_date: '2026-09-28T09:44:23'
-  source: Circular Online
-  title: Co-op and Podback expand coffee pod recycling to over 200 stores
-last_updated: '2026-10-04T11:51:46.247068'
+last_updated: '2026-10-05T13:46:48.659268'

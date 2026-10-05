@@ -1,4 +1,12 @@
 articles:
+- category: machine-learning
+  description: A fitted statsmodels model computes a more than just the array of numbers
+    most code pulls out of it.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting
+  pub_date: '2026-10-05T12:00:37'
+  source: KDnuggets
+  title: 3 Statsmodels Tricks for Time Series Analysis & Forecasting
 - category: ai-research
   description: Associate Professor Cathy Wu uses reinforcement learning to help map
     out improvements to transportation and other multifaceted systems.
@@ -136,14 +144,6 @@ articles:
   pub_date: '2026-09-30T12:00:18'
   source: KDnuggets
   title: 'Ollama for Managing Local Language Models: A KDnuggets Cheat Sheet'
-- category: machine-learning
-  description: Learn how to use Julius AI to analyze Excel data, verify key findings,
-    and turn them into an editable PowerPoint presentation.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai
-  pub_date: '2026-09-29T17:00:40'
-  source: KDnuggets
-  title: How to Turn Excel Data Into PowerPoint Presentations With AI
 - category: ai-research
   description: In a study focusing on hiring decisions, MIT researchers found the
     use of a single algorithm by many firms could benefit job seekers in certain situations.
@@ -244,4 +244,4 @@ articles:
   pub_date: '2026-09-15T13:00:00'
   source: Google AI Blog
   title: New insights from Google’s AI & Economy ATLAS
-last_updated: '2026-10-04T11:51:47.460081'
+last_updated: '2026-10-05T13:46:50.032105'
