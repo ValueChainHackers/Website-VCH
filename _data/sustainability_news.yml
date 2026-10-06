@@ -1,5 +1,81 @@
 articles:
 - category: circular
+  description: Reclinker has raised GBP10 million in Series A funding to scale its
+    cement recycling process to full commercial production. The post GBP10m funding
+    secured to recycle demolition waste into cement appe...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/10m-funding-secured-to-recycle-demolition-waste-into-cement/
+  pub_date: '2026-10-06T11:30:00'
+  source: Circular Online
+  title: £10m funding secured to recycle demolition waste into cement
+- category: circular
+  description: Manchester-based manufacturer, Duo Packaging, says it has developed
+    a 'never seen before' graphene-enhanced flexible packaging film. The post Manufacturer
+    develops 'never seen before' next gen flexibl...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/manufacturer-develops-never-seen-before-next-gen-flexible-packaging/
+  pub_date: '2026-10-06T09:11:42'
+  source: Circular Online
+  title: Manufacturer develops ‘never seen before’ next gen flexible packaging
+- category: circular
+  description: TV presenter, physicist and oceanographer to explore the links between
+    resources, climate and the natural world at 2026 ISWA World Congress in London.
+    The post Helen Czerski to spotlight waste sector'...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/helen-czerski-to-spotlight-waste-sectors-role-in-protecting-the-planet/
+  pub_date: '2026-10-06T08:13:34'
+  source: Circular Online
+  title: Helen Czerski to spotlight waste sector’s role in protecting the planet
+- category: supply-chain
+  description: Amazon will pay $8.25 million to settle a D.C. lawsuit over slower
+    Prime deliveries and must disclose future delivery exclusions to customers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-dc-prime-delivery-settlement
+  pub_date: '2026-10-05T13:35:00'
+  source: Supply Chain 24/7
+  title: Amazon to Pay $8.25 Million in D.C. Prime Delivery Lawsuit Settlement
+- category: supply-chain
+  description: Bayer plans to invest $2.2 billion in a pharmaceutical factory in New
+    Albany, Ohio, that will create about 600 jobs and open in 2031.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bayer-ohio-drug-manufacturing-plant-investment
+  pub_date: '2026-10-05T13:33:00'
+  source: Supply Chain 24/7
+  title: Bayer Picks New Albany, Ohio, for $2.2 Billion Drug Manufacturing Site
+- category: supply-chain
+  description: Kenco's holiday survey finds more consumers plan to increase spending
+    while expecting free shipping, clear delivery updates, and easy returns.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kenco-survey-holiday-spending-shipping-returns-2026
+  pub_date: '2026-10-05T13:28:00'
+  source: Supply Chain 24/7
+  title: 'Survey: Shoppers Plan Bigger Holiday Budgets, Demand Free Shipping'
+- category: supply-chain
+  description: Tatiana Munoz of Hardis shares lessons from dispatching trucks, investigating
+    missing inventory, and helping warehouses choose the right technology.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tatiana-munoz-hardis-women-supply-chain
+  pub_date: '2026-10-05T13:18:00'
+  source: Supply Chain 24/7
+  title: 'Women in Supply Chain: Tatiana Munoz of Hardis Supply Chain'
+- category: supply-chain
+  description: Nearly one in two professional service robots sold in 2025 was for
+    transportation and logistics, according to IFR's new annual report.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/transportation-logistics-professional-robot-sales
+  pub_date: '2026-10-05T13:09:00'
+  source: Supply Chain 24/7
+  title: Transportation and Logistics Account for 47% of Professional Robot Sales
+- category: supply-chain
+  description: C.H. Robinson has agreed to acquire RXO in a $5.8 billion deal that
+    would expand its transportation services and target $300 million in annual cost
+    savings.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ch-robinson-rxo-acquisition
+  pub_date: '2026-10-05T11:36:00'
+  source: Supply Chain 24/7
+  title: C.H. Robinson Agrees to Buy RXO in $5.8 Billion Cash-and-Stock Deal
+- category: circular
   description: John Baird, 61, has been handed a six-month prison sentence, suspended
     for two years, after dumping scrap vehicles on his land. The post Farmer handed
     suspended prison sentence for waste offences appe...
@@ -58,22 +134,6 @@ articles:
   pub_date: '2026-10-02T13:19:00'
   source: Supply Chain 24/7
   title: JPMorgan, Ford Target $1 Billion Each to Grow Michigan Manufacturing
-- category: supply-chain
-  description: UPS launched Secure Commerce, combining shipping insurance and risk
-    tools to help businesses protect orders and reduce avoidable losses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-launches-to-help-shippers-cut-losses-and-fraud
-  pub_date: '2026-10-02T13:06:00'
-  source: Supply Chain 24/7
-  title: UPS Launches Secure Commerce to Help Shippers Cut Losses and Fraud
-- category: supply-chain
-  description: SpendHQ launched Savings Radar to identify procurement savings, rank
-    opportunities, and help buyers prepare to act on recommendations.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/spendhq-savings-radar-procurement-ai
-  pub_date: '2026-10-02T11:48:00'
-  source: Supply Chain 24/7
-  title: SpendHQ Launches Savings Radar to Find Procurement Cost Savings
 - category: circular
   description: News updates written by CIWM's commercial partners. Kapdaa Kapdaa continues
     textiles recycling commercial trials with major brands and local authorities Greyparrot
@@ -92,38 +152,6 @@ articles:
   pub_date: '2026-10-02T07:00:28'
   source: Circular Online
   title: Man arrested in connection with North East illegal waste dumping
-- category: supply-chain
-  description: A new NYC map links Amazon delivery vehicles to more than 14,000 citations
-    as advocates push for changes to driver hiring and safety rules.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-delivery-vehicles-nyc-traffic-tickets
-  pub_date: '2026-10-01T15:35:00'
-  source: Supply Chain 24/7
-  title: Amazon Delivery Vehicles Got Over 14,000 Citations in NYC, Analysis Finds
-- category: supply-chain
-  description: TikTok Shop has added Happy Returns, offering eligible shoppers box-free,
-    label-free returns at nearly 10,000 drop-off locations across the U.S.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tiktok-shop-happy-returns-box-free-returns
-  pub_date: '2026-10-01T15:09:00'
-  source: Supply Chain 24/7
-  title: TikTok Shop Adds Box-Free Returns at Nearly 10,000 U.S. Locations
-- category: supply-chain
-  description: Ultium plans a $1 billion Tennessee battery plant investment and 500
-    new jobs, with upgrades for new GM vehicle cells expected to finish in 2028.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ultium-tennessee-battery-plant-billion-investment
-  pub_date: '2026-10-01T14:32:00'
-  source: Supply Chain 24/7
-  title: Ultium Plans $1 Billion Investment at Tennessee Battery Factory
-- category: supply-chain
-  description: Executives from WHOOP, Hormel, and Fanatics share six lessons on buying
-    planning software, preparing teams, measuring savings, and budgeting for support.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/seven-lessons-buying-supply-chain-planning-software
-  pub_date: '2026-10-01T14:19:00'
-  source: Supply Chain 24/7
-  title: Six Things to Consider Before Buying Planning Software
 - category: circular
   description: Around 12,000 permitted waste receiving sites in England and Wales
     are now required to use the new Digital Waste Tracking system. The post Digital
@@ -142,31 +170,4 @@ articles:
   pub_date: '2026-09-30T11:53:58'
   source: Circular Online
   title: Exchange For Change announces new UK recycling infrastructure for DRS
-- category: circular
-  description: The Or Foundation, adidas, BESTSELLER, H&M Group, and Inditex launch
-    the Apparel Recovery Coalition (ARC) in response to the impacts of post-consumer
-    textile exports. The post adidas and H&M part of g...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/adidas-and-hm-part-of-group-launching-apparel-recovery-coalition/
-  pub_date: '2026-09-30T10:06:58'
-  source: Circular Online
-  title: adidas and H&M part of group launching Apparel Recovery Coalition
-- category: circular
-  description: The BSI, the UK's national standards body, and the International Organisation
-    for Standardisation (ISO) have launched standardised processes to prevent food
-    waste. The post BSI and ISO launch internat...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/bsi-and-iso-launch-international-standard-to-prevent-food-waste/
-  pub_date: '2026-09-30T08:41:46'
-  source: Circular Online
-  title: BSI and ISO launch international standard to prevent food waste
-- category: circular
-  description: Maidstone Borough Council and sustainable materials company RECOOL
-    are using old clothes to fix potholes in Maidstone's parks as part of a new trial.
-    The post Maidstone trialling pothole repair materi...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/maidstone-trialling-pothole-repair-material-made-from-recycled-textile-waste/
-  pub_date: '2026-09-29T09:03:03'
-  source: Circular Online
-  title: Maidstone trialling pothole repair material made from recycled textile waste
-last_updated: '2026-10-05T13:46:48.659268'
+last_updated: '2026-10-06T12:51:58.131232'
