@@ -1,5 +1,57 @@
 articles:
 - category: circular
+  description: A Highland company has been fined GBP32,100 after a Scottish Environment
+    Protection Agency investigation found it had dumped waste in a pond without any
+    environmental authorisation. The post Highland ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/highland-quarry-company-fined-32100-for-unauthorised-waste-disposal/
+  pub_date: '2026-10-07T10:55:49'
+  source: Circular Online
+  title: Highland quarry company fined £32,100 for unauthorised waste disposal
+- category: supply-chain
+  description: DoorDash has launched $7.99 home pickup for eligible retail returns,
+    with nationwide expansion expected in November, and unveiled a drone delivery
+    pilot.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/doordash-retail-returns-pickup-service
+  pub_date: '2026-10-06T14:39:00'
+  source: Supply Chain 24/7
+  title: DoorDash Expands Into Retail Returns With $7.99 Pickup From Your Door
+- category: supply-chain
+  description: ShipStation has launched Ship with Walmart, giving Walmart Marketplace
+    sellers discounted domestic shipping labels and up to $100 in eligible lost-item
+    protection.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/shipstation-walmart-shipping-rates-seller-protection
+  pub_date: '2026-10-06T14:36:00'
+  source: Supply Chain 24/7
+  title: ShipStation Launches Ship With Walmart for U.S. Marketplace Sellers
+- category: supply-chain
+  description: Sustainable sourcing can cut costs when buyers weigh freight, waste,
+    and returns alongside price, then test whether the savings hold up.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/when-sustainable-sourcing-lowers-supply-chain-costs
+  pub_date: '2026-10-06T14:27:00'
+  source: Supply Chain 24/7
+  title: Can Sustainable Sourcing Cut Costs Across the Supply Chain?
+- category: supply-chain
+  description: At o9's Chicago event, Fanatics explained how holding 175,000 Micah
+    Parsons jerseys highlighted the risk of committing to finished merchandise too
+    early.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fanatics-jersey-inventory-blank-apparel-planning
+  pub_date: '2026-10-06T13:35:00'
+  source: Supply Chain 24/7
+  title: How the Micah Parsons Trade Helped Shape Fanatics’ Inventory Plans
+- category: supply-chain
+  description: Anduril plans a $3.7 billion Maryland shipyard with 3,100 direct jobs
+    to make Navy submarine parts, with initial operations expected in 2030.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/anduril-maryland-shipyard-submarine-parts-investment
+  pub_date: '2026-10-06T12:14:00'
+  source: Supply Chain 24/7
+  title: Anduril Plans $3.7 Billion Maryland Shipyard to Make Submarine Parts
+- category: circular
   description: Reclinker has raised GBP10 million in Series A funding to scale its
     cement recycling process to full commercial production. The post GBP10m funding
     secured to recycle demolition waste into cement appe...
@@ -66,15 +118,6 @@ articles:
   pub_date: '2026-10-05T13:09:00'
   source: Supply Chain 24/7
   title: Transportation and Logistics Account for 47% of Professional Robot Sales
-- category: supply-chain
-  description: C.H. Robinson has agreed to acquire RXO in a $5.8 billion deal that
-    would expand its transportation services and target $300 million in annual cost
-    savings.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ch-robinson-rxo-acquisition
-  pub_date: '2026-10-05T11:36:00'
-  source: Supply Chain 24/7
-  title: C.H. Robinson Agrees to Buy RXO in $5.8 Billion Cash-and-Stock Deal
 - category: circular
   description: John Baird, 61, has been handed a six-month prison sentence, suspended
     for two years, after dumping scrap vehicles on his land. The post Farmer handed
@@ -102,38 +145,6 @@ articles:
   pub_date: '2026-10-05T08:29:04'
   source: Circular Online
   title: WATA backs call for government survey into recycled aggregates
-- category: supply-chain
-  description: It's National Manufacturing Day, and Travelers' Chris Hayes discusses
-    how manufacturers can protect new hires and make every shift safer.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturing-worker-safety-new-hires-training
-  pub_date: '2026-10-02T14:39:00'
-  source: Supply Chain 24/7
-  title: How Manufacturers Can Make the First Year on the Job Safer
-- category: supply-chain
-  description: Tesla launches high-volume Semi production at its Nevada factory, begins
-    customer deliveries, and plans to haul its own freight.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tesla-semi-high-volume-production-nevada-factory
-  pub_date: '2026-10-02T13:44:00'
-  source: Supply Chain 24/7
-  title: Tesla’s New Nevada Factory Built for 50,000 Semis a Year
-- category: supply-chain
-  description: FedEx completed its $1.4 billion sale of FedEx Supply Chain to CMA
-    CGM, expanding CEVA's warehouse operations and establishing new freight agreements.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-supply-chain-sale-cma-cgm-ceva-completed
-  pub_date: '2026-10-02T13:31:00'
-  source: Supply Chain 24/7
-  title: CMA CGM Group Completes $1.4 Billion Acquisition of FedEx Supply Chain
-- category: supply-chain
-  description: JPMorgan and Ford launched a Michigan supplier program with goals of
-    $1 billion in financing and $1 billion in supplier business.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/jpmorgan-ford-michigan-manufacturing-supplier-program
-  pub_date: '2026-10-02T13:19:00'
-  source: Supply Chain 24/7
-  title: JPMorgan, Ford Target $1 Billion Each to Grow Michigan Manufacturing
 - category: circular
   description: News updates written by CIWM's commercial partners. Kapdaa Kapdaa continues
     textiles recycling commercial trials with major brands and local authorities Greyparrot
@@ -161,13 +172,4 @@ articles:
   pub_date: '2026-10-01T08:18:44'
   source: Circular Online
   title: Digital Tracking Waste system goes live for 12,000 operators
-- category: circular
-  description: Exchange For Change has announced the creation of a new UK recycling
-    infrastructure that will support the delivery of the Deposit Return Scheme (DRS)
-    from October 2027. The post Exchange For Change an...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/exchange-for-change-announces-new-uk-recycling-infrastructure-for-drs/
-  pub_date: '2026-09-30T11:53:58'
-  source: Circular Online
-  title: Exchange For Change announces new UK recycling infrastructure for DRS
-last_updated: '2026-10-06T12:51:58.131232'
+last_updated: '2026-10-07T12:46:00.953250'
