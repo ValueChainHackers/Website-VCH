@@ -1,5 +1,39 @@
 articles:
 - category: machine-learning
+  description: Build a production-grade data science toolkit without spending a dollar,
+    using open-source AI tools that match, and sometimes exceed, their paid alternatives.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists
+  pub_date: '2026-10-09T12:00:00'
+  source: KDnuggets
+  title: 10 Free AI Tools That Replace Expensive Software for Data Scientists
+- category: ai-research
+  description: MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin
+    shares important considerations for departments and institutions.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925
+  pub_date: '2026-10-08T21:25:00'
+  source: MIT AI News
+  title: '3 Questions: What is the best path forward for AI in academia?'
+- category: machine-learning
+  description: Your models can be both cutting-edge and compliant if you stop treating
+    governance as the final hurdle and start building it into every stage of the ML
+    pipeline.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai
+  pub_date: '2026-10-08T16:00:00'
+  source: KDnuggets
+  title: Bridging Algorithmic Design and Regulatory Standards in Enterprise AI
+- category: machine-learning
+  description: 'Docker Agent is an open-source, Apache 2.0-licensed CLI plugin built
+    by Docker Engineering, installed and run as docker agent. Its own tagline states
+    the goal plainly: run AI agents like containers.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-ai-agents-with-docker-agent
+  pub_date: '2026-10-08T14:00:00'
+  source: KDnuggets
+  title: Building AI Agents with Docker Agent
+- category: machine-learning
   description: The next step for AI agents? Self-improvement. Here are 7 resources
     to get started.
   icon: fa-chart-bar
@@ -106,14 +140,6 @@ articles:
   pub_date: '2026-10-05T14:00:00'
   source: KDnuggets
   title: 'Meta Muse Explained: What It Is, How It Works, and What It Can Do'
-- category: machine-learning
-  description: A fitted statsmodels model computes a more than just the array of numbers
-    most code pulls out of it.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting
-  pub_date: '2026-10-05T12:00:37'
-  source: KDnuggets
-  title: 3 Statsmodels Tricks for Time Series Analysis & Forecasting
 - category: ai-research
   description: Associate Professor Cathy Wu uses reinforcement learning to help map
     out improvements to transportation and other multifaceted systems.
@@ -138,24 +164,6 @@ articles:
   pub_date: '2026-10-02T15:00:00'
   source: Google AI Blog
   title: The latest AI news we announced in September 2026
-- category: machine-learning
-  description: This is the Python material that does not get left behind. Almost none
-    of it is replaced by a framework later. Learn it, and keep this cheat sheet close
-    by as a handy reference.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet
-  pub_date: '2026-10-02T14:00:17'
-  source: KDnuggets
-  title: 'Python Foundations for Engineering: A KDnuggets Cheat Sheet'
-- category: machine-learning
-  description: 'The forward deployed engineer: is this the hot new AI career, or has
-    the hype cycle rebranded?'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title
-  pub_date: '2026-10-02T14:00:04'
-  source: KDnuggets
-  title: 'Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a
-    Better Title?'
 - category: ai-research
   description: Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer,
     a free platform for middle and high school students who want to learn about entrepreneurship.
@@ -173,15 +181,6 @@ articles:
   source: MIT AI News
   title: New tool lets users repair AI-generated 3D models, then fabricate them just
     the way they want
-- category: ai-research
-  description: With $2.1 million funding from Google.org, the open-source Public Transit
-    Intelligence Hub will unify public transit monitoring, operations, and passenger
-    communication.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930
-  pub_date: '2026-09-30T15:15:00'
-  source: MIT AI News
-  title: MIT Transit Lab to develop an AI platform for public transit agencies
 - category: ai-research
   description: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
   icon: fa-google
@@ -241,4 +240,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: AI for everyone in every language
-last_updated: '2026-10-08T12:54:53.062815'
+last_updated: '2026-10-09T12:40:46.288141'

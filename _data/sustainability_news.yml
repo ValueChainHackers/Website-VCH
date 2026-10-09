@@ -1,5 +1,54 @@
 articles:
 - category: circular
+  description: The 39,500-tonne illegal waste site in Hoad's Wood, Kent, has now been
+    cleared for GBP15 million. The post Illegal waste site clearance in Kent beauty
+    spot costs GBP15m appeared first on Circular Onli...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/illegal-waste-site-clearance-in-kent-beauty-spot-costs-15m/
+  pub_date: '2026-10-09T10:31:51'
+  source: Circular Online
+  title: Illegal waste site clearance in Kent beauty spot costs £15m
+- category: supply-chain
+  description: Kodiak and Charger USA are hauling freight between Dallas and Laredo
+    on a 435-mile route, with safety drivers aboard the autonomous trucks.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kodiak-charger-autonomous-trucking-dallas-laredo
+  pub_date: '2026-10-08T15:20:00'
+  source: Supply Chain 24/7
+  title: Kodiak Launches Autonomous Trucking Route Between Dallas and Laredo
+- category: supply-chain
+  description: B-Stock CEO Marcus Shen discusses how retailers can manage excess holiday
+    inventory, recover value, and prepare for the coming wave of returns.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/holiday-inventory-overstock-retailers-tariffs
+  pub_date: '2026-10-08T14:40:00'
+  source: Supply Chain 24/7
+  title: Retailers Bought Holiday Goods Early. What If They Don’t Sell?
+- category: supply-chain
+  description: UPS is hiring 100,000 seasonal workers for the holiday rush while adding
+    PIN-protected deliveries, package tracking, and pickup alerts.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-100000-seasonal-workers-holiday-shipping
+  pub_date: '2026-10-08T14:37:00'
+  source: Supply Chain 24/7
+  title: UPS to Hire 100,000 Seasonal Workers for Holiday Shipping Rush
+- category: supply-chain
+  description: Virginia will receive up to $89.7 million in federal loans to add truck
+    lanes, improve ramps, and replace aging bridges along I-81.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/virginia-i81-federal-loans-truck-lanes-bridge-upgrades
+  pub_date: '2026-10-08T14:01:00'
+  source: Supply Chain 24/7
+  title: Virginia Gets $90 Million in Loans to Fix I-81 Freight Bottlenecks
+- category: supply-chain
+  description: Novelis produced its first coil at a $5 billion Alabama aluminum plant,
+    with commercial shipments expected in the second quarter of 2027.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/novelis-first-coil-alabama-aluminum-plant
+  pub_date: '2026-10-08T11:01:00'
+  source: Supply Chain 24/7
+  title: Novelis Produces First Coil at $5 Billion Alabama Aluminum Plant
+- category: circular
   description: West Northamptonshire Council has successfully prosecuted a local resident
     for repeated fly-tipping in Northampton. The post Northamptonshire council prosecute
     woman for repeated fly-tipping appeared ...
@@ -57,49 +106,6 @@ articles:
   pub_date: '2026-10-07T10:55:49'
   source: Circular Online
   title: Highland quarry company fined £32,100 for unauthorised waste disposal
-- category: supply-chain
-  description: DoorDash has launched $7.99 home pickup for eligible retail returns,
-    with nationwide expansion expected in November, and unveiled a drone delivery
-    pilot.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/doordash-retail-returns-pickup-service
-  pub_date: '2026-10-06T14:39:00'
-  source: Supply Chain 24/7
-  title: DoorDash Expands Into Retail Returns With $7.99 Pickup From Your Door
-- category: supply-chain
-  description: ShipStation has launched Ship with Walmart, giving Walmart Marketplace
-    sellers discounted domestic shipping labels and up to $100 in eligible lost-item
-    protection.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/shipstation-walmart-shipping-rates-seller-protection
-  pub_date: '2026-10-06T14:36:00'
-  source: Supply Chain 24/7
-  title: ShipStation Launches Ship With Walmart for U.S. Marketplace Sellers
-- category: supply-chain
-  description: Sustainable sourcing can cut costs when buyers weigh freight, waste,
-    and returns alongside price, then test whether the savings hold up.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/when-sustainable-sourcing-lowers-supply-chain-costs
-  pub_date: '2026-10-06T14:27:00'
-  source: Supply Chain 24/7
-  title: Can Sustainable Sourcing Cut Costs Across the Supply Chain?
-- category: supply-chain
-  description: At o9's Chicago event, Fanatics explained how holding 175,000 Micah
-    Parsons jerseys highlighted the risk of committing to finished merchandise too
-    early.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fanatics-jersey-inventory-blank-apparel-planning
-  pub_date: '2026-10-06T13:35:00'
-  source: Supply Chain 24/7
-  title: How the Micah Parsons Trade Helped Shape Fanatics’ Inventory Plans
-- category: supply-chain
-  description: Anduril plans a $3.7 billion Maryland shipyard with 3,100 direct jobs
-    to make Navy submarine parts, with initial operations expected in 2030.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/anduril-maryland-shipyard-submarine-parts-investment
-  pub_date: '2026-10-06T12:14:00'
-  source: Supply Chain 24/7
-  title: Anduril Plans $3.7 Billion Maryland Shipyard to Make Submarine Parts
 - category: circular
   description: Reclinker has raised GBP10 million in Series A funding to scale its
     cement recycling process to full commercial production. The post GBP10m funding
@@ -163,13 +169,4 @@ articles:
   pub_date: '2026-10-02T07:22:31'
   source: Circular Online
   title: News in Brief | Commercial Partner News October
-- category: circular
-  description: A 32-year-old man has been arrested in connection with illegal waste
-    sites in Peterlee and Hartlepool, County Durham. The post Man arrested in connection
-    with North East illegal waste dumping appeared...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/man-arrested-in-connection-with-north-east-illegal-waste-dumping/
-  pub_date: '2026-10-02T07:00:28'
-  source: Circular Online
-  title: Man arrested in connection with North East illegal waste dumping
-last_updated: '2026-10-08T12:54:52.352597'
+last_updated: '2026-10-09T12:40:45.062217'
