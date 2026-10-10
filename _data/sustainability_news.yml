@@ -1,4 +1,44 @@
 articles:
+- category: supply-chain
+  description: Criteria finds that 45% of manufacturing hiring professionals struggle
+    with AI misrepresentation, while 69% use AI in recruiting or hiring.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturing-hiring-ai-job-applicants-criteria-survey
+  pub_date: '2026-10-09T15:54:00'
+  source: Supply Chain 24/7
+  title: Great Résumé, Wrong Hire? Manufacturers Face an AI Hiring Problem
+- category: supply-chain
+  description: Ten trends explore what shippers can expect in 2027, from practical
+    AI and improved shipment data to earlier warnings and expert guidance.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/10-logistics-trends-that-could-shape-freight-forwarding-in-2027
+  pub_date: '2026-10-09T13:30:00'
+  source: Supply Chain 24/7
+  title: 10 Logistics Trends That Could Shape Freight Forwarding in 2027
+- category: supply-chain
+  description: B-Stock CEO Marcus Shen discusses how retailers can manage excess holiday
+    inventory, recover value, and prepare for the coming wave of returns.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/holiday-inventory-overstock-retailers-tariffs
+  pub_date: '2026-10-09T13:27:00'
+  source: Supply Chain 24/7
+  title: Retailers Bought Holiday Goods Early. What If They Don’t Sell?
+- category: supply-chain
+  description: Walmart opened an automated fulfillment center in Stockton, California,
+    to speed West Coast shipping and create more than 1,000 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-stockton-california-automated-fulfillment-center
+  pub_date: '2026-10-09T12:20:00'
+  source: Supply Chain 24/7
+  title: Walmart Opens Massive Automated Center in Stockton, California
+- category: supply-chain
+  description: Gartner finds that procurement leaders expect AI-driven gains, but
+    most have not yet redesigned jobs to prepare employees for changing responsibilities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-procurement-ai-job-redesign-survey
+  pub_date: '2026-10-09T12:10:00'
+  source: Supply Chain 24/7
+  title: AI Is Reshaping Procurement Jobs, But Few Leaders Have Redesigned Them
 - category: circular
   description: The 39,500-tonne illegal waste site in Hoad's Wood, Kent, has now been
     cleared for GBP15 million. The post Illegal waste site clearance in Kent beauty
@@ -9,6 +49,14 @@ articles:
   source: Circular Online
   title: Illegal waste site clearance in Kent beauty spot costs £15m
 - category: supply-chain
+  description: Blue Origin plans a $554.78 million manufacturing complex in Hutto,
+    Texas, with more than 2,000 new jobs over the next decade.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/blue-origin-hutto-texas-manufacturing-investment
+  pub_date: '2026-10-09T10:26:00'
+  source: Supply Chain 24/7
+  title: Blue Origin Plans 1.3 Million-Square-Foot Factory in Hutto, Texas
+- category: supply-chain
   description: Kodiak and Charger USA are hauling freight between Dallas and Laredo
     on a 435-mile route, with safety drivers aboard the autonomous trucks.
   icon: fa-box
@@ -16,14 +64,6 @@ articles:
   pub_date: '2026-10-08T15:20:00'
   source: Supply Chain 24/7
   title: Kodiak Launches Autonomous Trucking Route Between Dallas and Laredo
-- category: supply-chain
-  description: B-Stock CEO Marcus Shen discusses how retailers can manage excess holiday
-    inventory, recover value, and prepare for the coming wave of returns.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/holiday-inventory-overstock-retailers-tariffs
-  pub_date: '2026-10-08T14:40:00'
-  source: Supply Chain 24/7
-  title: Retailers Bought Holiday Goods Early. What If They Don’t Sell?
 - category: supply-chain
   description: UPS is hiring 100,000 seasonal workers for the holiday rush while adding
     PIN-protected deliveries, package tracking, and pickup alerts.
@@ -57,46 +97,6 @@ articles:
   pub_date: '2026-10-08T07:30:00'
   source: Circular Online
   title: Northamptonshire council prosecute woman for repeated fly-tipping
-- category: supply-chain
-  description: Mediterranean Shipping Company holds the top spot in Alphaliner's 2026
-    ocean carrier rankings, followed by Maersk and CMA CGM.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-30-ocean-carriers-2026
-  pub_date: '2026-10-07T14:16:00'
-  source: Supply Chain 24/7
-  title: Ranking the Top 30 Ocean Carriers of 2026, MSC Holds the Top Spot
-- category: supply-chain
-  description: BD plans $19 billion in U.S. investment, including $3 billion for manufacturing
-    expansion, in a government deal tied to future tariff relief.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/bd-us-manufacturing-investment-tariff-relief
-  pub_date: '2026-10-07T13:50:00'
-  source: Supply Chain 24/7
-  title: BD’s New $19 Billion U.S. Investment Includes $1 Billion for Nebraska
-- category: supply-chain
-  description: Amazon bought a $195 million Chicago warehouse for a same-day delivery
-    center, with 200 jobs and an opening planned for late 2027 or early 2028.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-chicago-warehouse-same-day-delivery
-  pub_date: '2026-10-07T13:17:00'
-  source: Supply Chain 24/7
-  title: Amazon Buys $195 Million Chicago Warehouse for Same-Day Delivery
-- category: supply-chain
-  description: ProcureAbility's latest survey finds procurement teams are testing
-    AI, but few have formal AI plans or regularly tested supply chain resilience plans.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/procureability-survey-procurement-ai-planning-gap
-  pub_date: '2026-10-07T13:15:00'
-  source: Supply Chain 24/7
-  title: 'Survey: 68% of Procurement Teams Test AI Without a Formal Plan'
-- category: supply-chain
-  description: Learn how to ship food and beverages safely with this guide to packaging,
-    temperature control, paperwork, and preventing costly delays.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/food-beverage-shipping-guide
-  pub_date: '2026-10-07T12:59:00'
-  source: Supply Chain 24/7
-  title: 'Food and Beverage Shipping: A Guide to Safer, Smoother Deliveries'
 - category: circular
   description: A Highland company has been fined GBP32,100 after a Scottish Environment
     Protection Agency investigation found it had dumped waste in a pond without any
@@ -169,4 +169,4 @@ articles:
   pub_date: '2026-10-02T07:22:31'
   source: Circular Online
   title: News in Brief | Commercial Partner News October
-last_updated: '2026-10-09T12:40:45.062217'
+last_updated: '2026-10-10T11:59:52.912273'
