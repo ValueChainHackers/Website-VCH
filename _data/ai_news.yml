@@ -1,5 +1,21 @@
 articles:
 - category: machine-learning
+  description: Compare ChatGPT, Claude, and Gemini across the data science tasks that
+    matter most to statisticians and analysts.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/chatgpt-vs-claude-vs-gemini-for-data-science-work-heres-what-i-found
+  pub_date: '2026-10-12T14:00:00'
+  source: KDnuggets
+  title: 'ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found'
+- category: machine-learning
+  description: Explore 10 Hugging Face models used across text, vision, audio, and
+    retrieval in 2026.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026
+  pub_date: '2026-10-12T12:00:00'
+  source: KDnuggets
+  title: 10 Hugging Face Models Worth Knowing in 2026
+- category: machine-learning
   description: MCP just got simpler. Learn how to build a stateless MCP server in
     Python and expose tools, resources, and prompts over HTTP.
   icon: fa-chart-bar
@@ -124,23 +140,6 @@ articles:
   source: MIT AI News
   title: MIT announces the MIT for America initiative, to strengthen STEM education
     across the country
-- category: machine-learning
-  description: The fight is usually framed as whether data centers get built. The
-    harder question underneath it is "who pays and who decides?" The costs are intertwined.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/who-pays-for-ai-data-centers
-  pub_date: '2026-10-06T14:00:20'
-  source: KDnuggets
-  title: Who Pays for AI Data Centers?
-- category: machine-learning
-  description: This article covers building robust Python AI libraries specifically,
-    Python AI SDK best practices, and what separates a production-ready AI package
-    from one that only survives in its own demo.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries
-  pub_date: '2026-10-06T12:00:00'
-  source: KDnuggets
-  title: 5 Best Practices for Building Robust Python AI Libraries
 - category: ai-research
   description: Associate Professor Cathy Wu uses reinforcement learning to help map
     out improvements to transportation and other multifaceted systems.
@@ -241,4 +240,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: AI for everyone in every language
-last_updated: '2026-10-11T12:12:32.798917'
+last_updated: '2026-10-12T14:35:13.980775'
