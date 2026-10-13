@@ -1,36 +1,12 @@
 articles:
-- category: machine-learning
-  description: Compare ChatGPT, Claude, and Gemini across the data science tasks that
-    matter most to statisticians and analysts.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/chatgpt-vs-claude-vs-gemini-for-data-science-work-heres-what-i-found
-  pub_date: '2026-10-12T14:00:00'
-  source: KDnuggets
-  title: 'ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found'
-- category: machine-learning
-  description: Explore 10 Hugging Face models used across text, vision, audio, and
-    retrieval in 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026
-  pub_date: '2026-10-12T12:00:00'
-  source: KDnuggets
-  title: 10 Hugging Face Models Worth Knowing in 2026
-- category: machine-learning
-  description: MCP just got simpler. Learn how to build a stateless MCP server in
-    Python and expose tools, resources, and prompts over HTTP.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition
-  pub_date: '2026-10-09T14:00:00'
-  source: KDnuggets
-  title: Build Your First MCP Server in Python (Stateless Spec Edition)
-- category: machine-learning
-  description: Build a production-grade data science toolkit without spending a dollar,
-    using open-source AI tools that match, and sometimes exceed, their paid alternatives.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists
-  pub_date: '2026-10-09T12:00:00'
-  source: KDnuggets
-  title: 10 Free AI Tools That Replace Expensive Software for Data Scientists
+- category: ai-research
+  description: Professor Deb Roy contends there should be someone who is "answerable"
+    for every piece of text in public life, no matter its origins.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013
+  pub_date: '2026-10-13T04:00:00'
+  source: MIT AI News
+  title: 'Q&A: Building accountability behind our words — and AI’s — in civic conversations'
 - category: ai-research
   description: MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin
     shares important considerations for departments and institutions.
@@ -39,32 +15,6 @@ articles:
   pub_date: '2026-10-08T21:25:00'
   source: MIT AI News
   title: '3 Questions: What is the best path forward for AI in academia?'
-- category: machine-learning
-  description: Your models can be both cutting-edge and compliant if you stop treating
-    governance as the final hurdle and start building it into every stage of the ML
-    pipeline.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai
-  pub_date: '2026-10-08T16:00:00'
-  source: KDnuggets
-  title: Bridging Algorithmic Design and Regulatory Standards in Enterprise AI
-- category: machine-learning
-  description: 'Docker Agent is an open-source, Apache 2.0-licensed CLI plugin built
-    by Docker Engineering, installed and run as docker agent. Its own tagline states
-    the goal plainly: run AI agents like containers.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-ai-agents-with-docker-agent
-  pub_date: '2026-10-08T14:00:00'
-  source: KDnuggets
-  title: Building AI Agents with Docker Agent
-- category: machine-learning
-  description: The next step for AI agents? Self-improvement. Here are 7 resources
-    to get started.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents
-  pub_date: '2026-10-08T12:00:00'
-  source: KDnuggets
-  title: 7 Best Resources to Learn About Self-Evolving AI Agents
 - category: ai-research
   description: By rethinking how large cloud computing systems operate, Associate
     Professor Christina Delimitrou seeks to make data centers more energy efficient.
@@ -82,23 +32,6 @@ articles:
   pub_date: '2026-10-07T20:10:00'
   source: MIT AI News
   title: Discovering the value of humanistic inquiry
-- category: machine-learning
-  description: Dots promises a lot. Before you hand it the keys to your workflow,
-    here's what practitioners need to know.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/openai-dots-the-data-scientists-reality-check
-  pub_date: '2026-10-07T16:00:00'
-  source: KDnuggets
-  title: 'OpenAI Dots: The Data Scientist’s Reality Check'
-- category: machine-learning
-  description: Same job postings, different titles. Here's what each role actually
-    builds.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/ml-engineer-ai-engineer-or-llm-engineer-which-role-actually-builds-what-in-2026
-  pub_date: '2026-10-07T14:00:00'
-  source: KDnuggets
-  title: 'ML Engineer, AI Engineer, or LLM Engineer: Which Role Actually Builds What
-    in 2026?'
 - category: ai-research
   description: Overview of Playground
   icon: fa-google
@@ -106,14 +39,6 @@ articles:
   pub_date: '2026-10-07T12:00:00'
   source: Google AI Blog
   title: 'Introducing Playground: Create and play custom games'
-- category: machine-learning
-  description: Compare five AI coding assistants across real tasks to find which tool
-    fits your workflow.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/i-tested-5-ai-coding-assistants-for-a-month-heres-what-i-actually-found
-  pub_date: '2026-10-07T12:00:00'
-  source: KDnuggets
-  title: 'I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found'
 - category: ai-research
   description: An ongoing survey tracks the latest AI accelerator systems to keep
     hardware relevant for Lincoln Laboratory staff and sponsors.
@@ -173,15 +98,6 @@ articles:
   source: MIT AI News
   title: '3 Questions: A new resource to empower young entrepreneurs'
 - category: ai-research
-  description: '"InstructMesh" can generate designs for everyday objects that are
-    easy to edit and fabricate for both experts and newcomers to 3D modeling.'
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001
-  pub_date: '2026-10-01T22:00:00'
-  source: MIT AI News
-  title: New tool lets users repair AI-generated 3D models, then fabricate them just
-    the way they want
-- category: ai-research
   description: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/
@@ -240,4 +156,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: AI for everyone in every language
-last_updated: '2026-10-12T14:35:13.980775'
+last_updated: '2026-10-13T13:40:36.232062'
