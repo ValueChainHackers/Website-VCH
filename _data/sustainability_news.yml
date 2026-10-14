@@ -1,5 +1,14 @@
 articles:
 - category: circular
+  description: Another man has been arrested in connection with illegal waste dumping
+    in the North East. The post Further arrest made in connection with North East
+    illegal waste dumping appeared first on Circular On...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/further-arrest-made-in-connection-with-north-east-illegal-waste-dumping/
+  pub_date: '2026-10-14T08:32:00'
+  source: Circular Online
+  title: Further arrest made in connection with North East illegal waste dumping
+- category: circular
   description: Zero Waste Europe has renewed its call to halt new incineration capacity
     after research estimated a gap of almost 65 million tonnes between EU capacity
     and the amount of waste treated. The study, prep...
@@ -26,14 +35,6 @@ articles:
   pub_date: '2026-10-13T07:53:29'
   source: Circular Online
   title: PRN study links higher prices to export shift amid Defra intervention
-- category: supply-chain
-  description: The Port of Los Angeles posted its busiest month ever in September
-    as holiday imports and canal disruptions helped lift cargo volume by 18%.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/port-los-angeles-september-cargo-record
-  pub_date: '2026-10-13T05:22:00'
-  source: Supply Chain 24/7
-  title: Port of Los Angeles Posts Busiest Month in Its 118-Year History
 - category: circular
   description: The UK Government has reduced packaging recycling obligations for plastic,
     steel and wood over concerns that producers will be unable to meet their legal
@@ -61,78 +62,6 @@ articles:
   pub_date: '2026-10-12T08:44:14'
   source: Circular Online
   title: Start-up raises £2m for AI-guided tech turning waste into SAF
-- category: supply-chain
-  description: Zebra's Charlie Long explains how AI-powered cameras can help catch
-    defects in sports merchandise before products reach fans.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-sports-merchandise-quality-inspections-zebra
-  pub_date: '2026-10-12T08:25:00'
-  source: Supply Chain 24/7
-  title: How AI Can Catch Defective Sports Merchandise Before It Reaches Fans
-- category: supply-chain
-  description: GSK plans to invest more than $800 million in its Upper Merion, Pennsylvania,
-    site, adding drug manufacturing, research, and quality testing facilities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gsk-pennsylvania-800-million-drug-manufacturing-expansion
-  pub_date: '2026-10-12T05:42:00'
-  source: Supply Chain 24/7
-  title: GSK to Invest $800 Million in Pennsylvania Biologics Expansion
-- category: supply-chain
-  description: Hyundai Transys plans to invest nearly $560 million in West Point,
-    Georgia, adding a third plant for hybrid powertrain production.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hyundai-transys-georgia-west-point-expansion
-  pub_date: '2026-10-12T05:32:00'
-  source: Supply Chain 24/7
-  title: Hyundai Transys Plans Nearly $560 Million Expansion in Georgia
-- category: supply-chain
-  description: StockIQ launched Edison, an AI agent that uses company data to guide
-    inventory and purchasing decisions, with human review before taking action.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/stockiq-launches-edison-ai-agent-supply-chain-planning
-  pub_date: '2026-10-12T05:25:00'
-  source: Supply Chain 24/7
-  title: StockIQ Launches Edison AI Agent to Help Planners Manage Inventory
-- category: supply-chain
-  description: Criteria finds that 45% of manufacturing hiring professionals struggle
-    with AI misrepresentation, while 69% use AI in recruiting or hiring.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturing-hiring-ai-job-applicants-criteria-survey
-  pub_date: '2026-10-09T15:54:00'
-  source: Supply Chain 24/7
-  title: Great Résumé, Wrong Hire? Manufacturers Face an AI Hiring Problem
-- category: supply-chain
-  description: Ten trends explore what shippers can expect in 2027, from practical
-    AI and improved shipment data to earlier warnings and expert guidance.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/10-logistics-trends-that-could-shape-freight-forwarding-in-2027
-  pub_date: '2026-10-09T13:30:00'
-  source: Supply Chain 24/7
-  title: 10 Logistics Trends That Could Shape Freight Forwarding in 2027
-- category: supply-chain
-  description: B-Stock CEO Marcus Shen discusses how retailers can manage excess holiday
-    inventory, recover value, and prepare for the coming wave of returns.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/holiday-inventory-overstock-retailers-tariffs
-  pub_date: '2026-10-09T13:27:00'
-  source: Supply Chain 24/7
-  title: Retailers Bought Holiday Goods Early. What If They Don’t Sell?
-- category: supply-chain
-  description: Walmart opened an automated fulfillment center in Stockton, California,
-    to speed West Coast shipping and create more than 1,000 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-stockton-california-automated-fulfillment-center
-  pub_date: '2026-10-09T12:20:00'
-  source: Supply Chain 24/7
-  title: Walmart Opens Massive Automated Center in Stockton, California
-- category: supply-chain
-  description: Gartner finds that procurement leaders expect AI-driven gains, but
-    most have not yet redesigned jobs to prepare employees for changing responsibilities.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-procurement-ai-job-redesign-survey
-  pub_date: '2026-10-09T12:10:00'
-  source: Supply Chain 24/7
-  title: AI Is Reshaping Procurement Jobs, But Few Leaders Have Redesigned Them
 - category: circular
   description: The 39,500-tonne illegal waste site in Hoad's Wood, Kent, has now been
     cleared for GBP15 million. The post Illegal waste site clearance in Kent beauty
@@ -160,13 +89,4 @@ articles:
   pub_date: '2026-10-07T10:55:49'
   source: Circular Online
   title: Highland quarry company fined £32,100 for unauthorised waste disposal
-- category: circular
-  description: Reclinker has raised GBP10 million in Series A funding to scale its
-    cement recycling process to full commercial production. The post GBP10m funding
-    secured to recycle demolition waste into cement appe...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/10m-funding-secured-to-recycle-demolition-waste-into-cement/
-  pub_date: '2026-10-06T11:30:00'
-  source: Circular Online
-  title: £10m funding secured to recycle demolition waste into cement
-last_updated: '2026-10-13T13:40:35.078728'
+last_updated: '2026-10-14T11:19:03.738152'
