@@ -1,5 +1,36 @@
 articles:
 - category: ai-research
+  description: In a new book, Professor Eric So explores how the technology affects
+    our thinking skills.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015
+  pub_date: '2026-10-15T04:00:00'
+  source: MIT AI News
+  title: 'Q&A: The “collision” between AI, your brain, and society'
+- category: ai-research
+  description: A new machine-learning approach broke records for weather forecasting
+    for an important time frame in emergency planning.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014
+  pub_date: '2026-10-14T15:00:00'
+  source: MIT AI News
+  title: Researchers improve weather forecasts looking two to six weeks out
+- category: machine-learning
+  description: 'Leveraging Scikit-LLM for one of the simplest yet most practical text
+    classification tasks utilized in the modern AI landscape: few-shot classification.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/few-shot-text-classification-with-scikit-llm
+  pub_date: '2026-10-14T14:00:00'
+  source: KDnuggets
+  title: Few-Shot Text Classification with Scikit-LLM
+- category: machine-learning
+  description: Want to understand what makes LLMs fast? Build the systems yourself.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering
+  pub_date: '2026-10-14T12:00:00'
+  source: KDnuggets
+  title: 5 Fun Projects for LLM Inference Engineering
+- category: ai-research
   description: Machine-learning networks can learn without detailed instructions from
     a designer. Those that do may offer insight into how the brain reorganizes itself
     during learning.
@@ -106,23 +137,6 @@ articles:
   pub_date: '2026-10-08T16:00:00'
   source: KDnuggets
   title: Bridging Algorithmic Design and Regulatory Standards in Enterprise AI
-- category: machine-learning
-  description: 'Docker Agent is an open-source, Apache 2.0-licensed CLI plugin built
-    by Docker Engineering, installed and run as docker agent. Its own tagline states
-    the goal plainly: run AI agents like containers.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-ai-agents-with-docker-agent
-  pub_date: '2026-10-08T14:00:00'
-  source: KDnuggets
-  title: Building AI Agents with Docker Agent
-- category: machine-learning
-  description: The next step for AI agents? Self-improvement. Here are 7 resources
-    to get started.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents
-  pub_date: '2026-10-08T12:00:00'
-  source: KDnuggets
-  title: 7 Best Resources to Learn About Self-Evolving AI Agents
 - category: ai-research
   description: By rethinking how large cloud computing systems operate, Associate
     Professor Christina Delimitrou seeks to make data centers more energy efficient.
@@ -164,23 +178,6 @@ articles:
   source: MIT AI News
   title: Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the
     MIT Libraries
-- category: ai-research
-  description: The effort aims to help U.S. learners from kindergarten to community
-    college, with an emphasis on math, making, and the constructive use of AI.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006
-  pub_date: '2026-10-06T15:00:00'
-  source: MIT AI News
-  title: MIT announces the MIT for America initiative, to strengthen STEM education
-    across the country
-- category: ai-research
-  description: Associate Professor Cathy Wu uses reinforcement learning to help map
-    out improvements to transportation and other multifaceted systems.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002
-  pub_date: '2026-10-02T19:30:00'
-  source: MIT AI News
-  title: Computational tools for society’s most complex challenges
 - category: ai-research
   description: A video showing the September AI updates
   icon: fa-google
@@ -240,4 +237,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: Building AI to accelerate science and improve lives
-last_updated: '2026-10-14T11:19:04.873800'
+last_updated: '2026-10-15T10:56:53.733836'

@@ -1,5 +1,70 @@
 articles:
 - category: circular
+  description: The Circular Economy Institute (CEI) has appointed Iain Gulland, the
+    former CEO of Zero Waste Scotland, as Chair of its Strategic Advisory Forum. The
+    post CEI appoints Iain Gulland as Chair of Strateg...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/cei-appoints-iain-gulland-as-chair-of-strategic-advisory-forum/
+  pub_date: '2026-10-15T09:59:02'
+  source: Circular Online
+  title: CEI appoints Iain Gulland as Chair of Strategic Advisory Forum
+- category: supply-chain
+  description: Learn how growing warehouses can overcome rigid workflows, IT bottlenecks,
+    manual processes, and compliance challenges with a flexible WMS approach.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-growing-warehouses-choose-a-wms-that-scales
+  pub_date: '2026-10-14T19:35:00'
+  source: Supply Chain 24/7
+  title: How Should Growing Warehouses Choose a WMS That Scales?
+- category: supply-chain
+  description: At o9's Chicago event last month, five executives discussed what gets
+    overlooked in supply chain AI, from employee training to learning from decisions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/overlooked-supply-chain-ai-issues-o9-roundtable
+  pub_date: '2026-10-14T18:10:00'
+  source: Supply Chain 24/7
+  title: 'Roundtable: What’s Flying Under the Radar in Supply Chain?'
+- category: supply-chain
+  description: Corvid plans a $95 million North Carolina expansion, adding a 400,000-square-foot
+    factory and 423 jobs with average annual salaries of $81,550.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/corvid-north-carolina-factory-expansion-423-jobs
+  pub_date: '2026-10-14T17:16:00'
+  source: Supply Chain 24/7
+  title: Corvid Picks North Carolina for $95 Million Defense Plant Expansion
+- category: supply-chain
+  description: Japan will fund two planned New York chip factories operated by GlobalFoundries,
+    with the first expected to begin operating in 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/globalfoundries-japan-new-york-chip-factories
+  pub_date: '2026-10-14T13:37:00'
+  source: Supply Chain 24/7
+  title: GlobalFoundries to Run Two New York Chip Factories Funded by Japan
+- category: supply-chain
+  description: Walmart's warehouse automation push faces packaging problems, robot
+    repairs, and higher power bills as the retailer expands its rollout.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-warehouse-automation-packaging-robot-costs
+  pub_date: '2026-10-14T13:04:00'
+  source: Supply Chain 24/7
+  title: 'Report: Walmart’s Shipping Boxes Are Too Tall for Its Warehouse Robots'
+- category: supply-chain
+  description: New York City-based startup Evos raised $9 million to expand AI software
+    that learns from industrial teams and handles tasks such as freight invoice audits.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/evos-9-million-funding-ai-freight-manufacturing
+  pub_date: '2026-10-14T13:03:00'
+  source: Supply Chain 24/7
+  title: Evos Raises $9 Million to Automate Freight and Factory Work
+- category: supply-chain
+  description: Venti announced plans to launch driverless trucks at a U.S. rail yard
+    in 2026 and expand to more than 130 vehicles at eight sites by 2027.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/venti-driverless-trucks-us-rail-yards-2026
+  pub_date: '2026-10-14T12:54:00'
+  source: Supply Chain 24/7
+  title: Venti Targets U.S. Rail Yards for Driverless Truck Launch This Year
+- category: circular
   description: Another man has been arrested in connection with illegal waste dumping
     in the North East. The post Further arrest made in connection with North East
     illegal waste dumping appeared first on Circular On...
@@ -8,6 +73,31 @@ articles:
   pub_date: '2026-10-14T08:32:00'
   source: Circular Online
   title: Further arrest made in connection with North East illegal waste dumping
+- category: supply-chain
+  description: Assess peak season warehouse readiness across labor, productivity,
+    accuracy, visibility and resilience with a practical checklist, scoring guide
+    and timeline.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-ready-is-your-warehouse-for-peak-season-demand
+  pub_date: '2026-10-13T15:59:00'
+  source: Supply Chain 24/7
+  title: How Ready Is Your Warehouse for Peak Season Demand?
+- category: supply-chain
+  description: A new TrusTrace report finds shipment detentions and gaps in supplier
+    data among surveyed fashion brands selling into the United States.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/trustrace-fashion-brands-us-shipment-detentions
+  pub_date: '2026-10-13T15:34:00'
+  source: Supply Chain 24/7
+  title: One in Five Fashion Brands Surveyed Had a Shipment Held at U.S. Border
+- category: supply-chain
+  description: Explore how warehouse automation helps manage peak season labor shortages,
+    accelerate picking, shorten training, and scale fulfillment capacity with demand.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-can-warehouses-scale-operations-during-peak-season
+  pub_date: '2026-10-13T14:48:00'
+  source: Supply Chain 24/7
+  title: How Can Warehouses Scale Operations During Peak Season?
 - category: circular
   description: Zero Waste Europe has renewed its call to halt new incineration capacity
     after research estimated a gap of almost 65 million tonnes between EU capacity
@@ -80,13 +170,4 @@ articles:
   pub_date: '2026-10-08T07:30:00'
   source: Circular Online
   title: Northamptonshire council prosecute woman for repeated fly-tipping
-- category: circular
-  description: A Highland company has been fined GBP32,100 after a Scottish Environment
-    Protection Agency investigation found it had dumped waste in a pond without any
-    environmental authorisation. The post Highland ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/highland-quarry-company-fined-32100-for-unauthorised-waste-disposal/
-  pub_date: '2026-10-07T10:55:49'
-  source: Circular Online
-  title: Highland quarry company fined £32,100 for unauthorised waste disposal
-last_updated: '2026-10-14T11:19:03.738152'
+last_updated: '2026-10-15T10:56:52.470900'
