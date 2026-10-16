@@ -1,5 +1,49 @@
 articles:
 - category: ai-research
+  description: MIT's Center for Transportation and Logistics finds sustainability
+    commitments are strong, but governance gaps and external disruptions prevent execution.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015
+  pub_date: '2026-10-15T21:00:00'
+  source: MIT AI News
+  title: State of Supply Chain Sustainability Report finds corporate commitment at
+    record high, but governance lags behind
+- category: ai-research
+  description: A new computational approach reveals how cells communicate to assemble
+    into tissues. This could accelerate stem cell engineering, improve disease models,
+    and inform therapies.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015
+  pub_date: '2026-10-15T20:50:00'
+  source: MIT AI News
+  title: AI model decodes the language cells use to communicate
+- category: machine-learning
+  description: This review highlights the main critiques of Abacus AI, its price,
+    user reviews, reliability of workflows, and real-life use cases to assist you
+    in evaluating its advantages and disadvantages.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know
+  pub_date: '2026-10-15T17:00:59'
+  source: KDnuggets
+  title: 'Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know'
+- category: machine-learning
+  description: OGX is an open-source agentic API server for building OpenAI-compatible
+    AI applications, using any model and any infrastructure.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx
+  pub_date: '2026-10-15T14:00:00'
+  source: KDnuggets
+  title: Building AI Applications with OGX, the Open-Source Agentic API Server
+- category: machine-learning
+  description: Find open-source alternatives to OpenAI API, Midjourney, Claude Code,
+    Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-host
+    for more privacy, control, and lower cost.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions
+  pub_date: '2026-10-15T12:00:34'
+  source: KDnuggets
+  title: 7 Open-Source AI Tools That Can Replace Paid Subscriptions
+- category: ai-research
   description: In a new book, Professor Eric So explores how the technology affects
     our thinking skills.
   icon: fa-graduation-cap
@@ -104,22 +148,6 @@ articles:
   pub_date: '2026-10-12T12:00:00'
   source: KDnuggets
   title: 10 Hugging Face Models Worth Knowing in 2026
-- category: machine-learning
-  description: MCP just got simpler. Learn how to build a stateless MCP server in
-    Python and expose tools, resources, and prompts over HTTP.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition
-  pub_date: '2026-10-09T14:00:00'
-  source: KDnuggets
-  title: Build Your First MCP Server in Python (Stateless Spec Edition)
-- category: machine-learning
-  description: Build a production-grade data science toolkit without spending a dollar,
-    using open-source AI tools that match, and sometimes exceed, their paid alternatives.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists
-  pub_date: '2026-10-09T12:00:00'
-  source: KDnuggets
-  title: 10 Free AI Tools That Replace Expensive Software for Data Scientists
 - category: ai-research
   description: MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin
     shares important considerations for departments and institutions.
@@ -128,15 +156,6 @@ articles:
   pub_date: '2026-10-08T21:25:00'
   source: MIT AI News
   title: '3 Questions: What is the best path forward for AI in academia?'
-- category: machine-learning
-  description: Your models can be both cutting-edge and compliant if you stop treating
-    governance as the final hurdle and start building it into every stage of the ML
-    pipeline.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai
-  pub_date: '2026-10-08T16:00:00'
-  source: KDnuggets
-  title: Bridging Algorithmic Design and Regulatory Standards in Enterprise AI
 - category: ai-research
   description: By rethinking how large cloud computing systems operate, Associate
     Professor Christina Delimitrou seeks to make data centers more energy efficient.
@@ -161,23 +180,6 @@ articles:
   pub_date: '2026-10-07T12:00:00'
   source: Google AI Blog
   title: 'Introducing Playground: Create and play custom games'
-- category: ai-research
-  description: An ongoing survey tracks the latest AI accelerator systems to keep
-    hardware relevant for Lincoln Laboratory staff and sponsors.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006
-  pub_date: '2026-10-06T20:55:00'
-  source: MIT AI News
-  title: Supercomputing researchers document evolution of AI hardware
-- category: ai-research
-  description: As director, Bourg has focused on digital access, open and equitable
-    scholarly publishing, and expanded support for data-intensive research.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006
-  pub_date: '2026-10-06T17:00:00'
-  source: MIT AI News
-  title: Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the
-    MIT Libraries
 - category: ai-research
   description: A video showing the September AI updates
   icon: fa-google
@@ -237,4 +239,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: Building AI to accelerate science and improve lives
-last_updated: '2026-10-15T10:56:53.733836'
+last_updated: '2026-10-16T10:49:41.788357'
