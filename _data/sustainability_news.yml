@@ -1,4 +1,44 @@
 articles:
+- category: supply-chain
+  description: ITF Group's new report urges retailers to measure how freight partners
+    affect product returns, cargo damage, and peak-season costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/itf-group-report-retail-returns-freight-carrier-decisions
+  pub_date: '2026-10-15T19:10:00'
+  source: Supply Chain 24/7
+  title: Before Blaming Shoppers for Returns, Take a Look at the Freight
+- category: supply-chain
+  description: Merck plans a $2.9 billion Pennsylvania expansion through 2030, including
+    $550 million for West Point and Spring House research facilities.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/merck-pennsylvania-expansion-west-point
+  pub_date: '2026-10-15T16:11:00'
+  source: Supply Chain 24/7
+  title: Merck Commits $2.9 Billion to Pennsylvania Vaccine and Drug Sites
+- category: supply-chain
+  description: Maine Pointe and dSilo are expanding their AI partnership to connect
+    purchasing decisions with customer pricing, demand, and financial results.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maine-pointe-dsilo-ai-sourcing-partnership2
+  pub_date: '2026-10-15T15:04:00'
+  source: Supply Chain 24/7
+  title: Maine Pointe and dSilo Expand AI Partnership for Supply Chain Teams
+- category: supply-chain
+  description: The Port of Savannah won federal approval for a $2.3 billion container
+    terminal, with construction starting in 2028 and completion in the mid-2030s.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/savannah-container-terminal-federal-approval-2-billion
+  pub_date: '2026-10-15T11:53:00'
+  source: Supply Chain 24/7
+  title: Port of Savannah Wins Approval for $2.3 Billion Container Terminal
+- category: supply-chain
+  description: An MMH survey finds that 35% of respondents use more used pallets,
+    up from 18% last year, while some buyers report concerns about quality and supply.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/mmh-survey-used-pallets-2026
+  pub_date: '2026-10-15T10:57:00'
+  source: Supply Chain 24/7
+  title: More Companies Are Turning to Used Pallets, MMH Survey Finds
 - category: circular
   description: The Circular Economy Institute (CEI) has appointed Iain Gulland, the
     former CEO of Zero Waste Scotland, as Chair of its Strategic Advisory Forum. The
@@ -16,14 +56,6 @@ articles:
   pub_date: '2026-10-14T19:35:00'
   source: Supply Chain 24/7
   title: How Should Growing Warehouses Choose a WMS That Scales?
-- category: supply-chain
-  description: At o9's Chicago event last month, five executives discussed what gets
-    overlooked in supply chain AI, from employee training to learning from decisions.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/overlooked-supply-chain-ai-issues-o9-roundtable
-  pub_date: '2026-10-14T18:10:00'
-  source: Supply Chain 24/7
-  title: 'Roundtable: What’s Flying Under the Radar in Supply Chain?'
 - category: supply-chain
   description: Corvid plans a $95 million North Carolina expansion, adding a 400,000-square-foot
     factory and 423 jobs with average annual salaries of $81,550.
@@ -56,14 +88,6 @@ articles:
   pub_date: '2026-10-14T13:03:00'
   source: Supply Chain 24/7
   title: Evos Raises $9 Million to Automate Freight and Factory Work
-- category: supply-chain
-  description: Venti announced plans to launch driverless trucks at a U.S. rail yard
-    in 2026 and expand to more than 130 vehicles at eight sites by 2027.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/venti-driverless-trucks-us-rail-yards-2026
-  pub_date: '2026-10-14T12:54:00'
-  source: Supply Chain 24/7
-  title: Venti Targets U.S. Rail Yards for Driverless Truck Launch This Year
 - category: circular
   description: Another man has been arrested in connection with illegal waste dumping
     in the North East. The post Further arrest made in connection with North East
@@ -73,31 +97,6 @@ articles:
   pub_date: '2026-10-14T08:32:00'
   source: Circular Online
   title: Further arrest made in connection with North East illegal waste dumping
-- category: supply-chain
-  description: Assess peak season warehouse readiness across labor, productivity,
-    accuracy, visibility and resilience with a practical checklist, scoring guide
-    and timeline.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-ready-is-your-warehouse-for-peak-season-demand
-  pub_date: '2026-10-13T15:59:00'
-  source: Supply Chain 24/7
-  title: How Ready Is Your Warehouse for Peak Season Demand?
-- category: supply-chain
-  description: A new TrusTrace report finds shipment detentions and gaps in supplier
-    data among surveyed fashion brands selling into the United States.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trustrace-fashion-brands-us-shipment-detentions
-  pub_date: '2026-10-13T15:34:00'
-  source: Supply Chain 24/7
-  title: One in Five Fashion Brands Surveyed Had a Shipment Held at U.S. Border
-- category: supply-chain
-  description: Explore how warehouse automation helps manage peak season labor shortages,
-    accelerate picking, shorten training, and scale fulfillment capacity with demand.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-can-warehouses-scale-operations-during-peak-season
-  pub_date: '2026-10-13T14:48:00'
-  source: Supply Chain 24/7
-  title: How Can Warehouses Scale Operations During Peak Season?
 - category: circular
   description: Zero Waste Europe has renewed its call to halt new incineration capacity
     after research estimated a gap of almost 65 million tonnes between EU capacity
@@ -170,4 +169,4 @@ articles:
   pub_date: '2026-10-08T07:30:00'
   source: Circular Online
   title: Northamptonshire council prosecute woman for repeated fly-tipping
-last_updated: '2026-10-15T10:56:52.470900'
+last_updated: '2026-10-16T10:49:40.722787'
