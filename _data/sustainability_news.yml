@@ -1,5 +1,39 @@
 articles:
 - category: supply-chain
+  description: Explore supply chain degree programs at U.S. colleges, with links to
+    bachelor's and master's options and details on what each offers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-degree-programs-united-states
+  pub_date: '2026-10-16T13:57:00'
+  source: Supply Chain 24/7
+  title: 'Where to Earn a Supply Chain Degree: A State-by-State Guide'
+- category: supply-chain
+  description: A new ASCM and DSCI report finds 83% of respondents say their workers
+    aren't ready for AI, as skills gaps and unclear returns slow adoption.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-ai-workforce-readiness-ascm-dsci-report
+  pub_date: '2026-10-16T12:59:00'
+  source: Supply Chain 24/7
+  title: 83% of Supply Chain Leaders Say Their Workers Aren’t Ready for AI
+- category: supply-chain
+  description: Lockheed Martin is investing $300 million in Grand Prairie manufacturing
+    as it plans 6,000 new U.S. jobs, including 2,000 in Texas.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/lockheed-martin-texas-manufacturing-expansion
+  pub_date: '2026-10-16T12:57:00'
+  source: Supply Chain 24/7
+  title: Lockheed Martin Invests $300 Million to Expand Texas Manufacturing
+- category: circular
+  description: Growing washing machine repair offers a 'triple win' for households,
+    businesses and the environment, UCL study finds. The post Washing machine repair
+    offers a 'triple win' for households, businesses a...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/washing-machine-repair-offers-a-triple-win-for-households-businesses-and-the-environment-ucl-finds/
+  pub_date: '2026-10-16T11:01:06'
+  source: Circular Online
+  title: Washing machine repair offers a ‘triple win’ for households, businesses and
+    the environment, UCL finds
+- category: supply-chain
   description: ITF Group's new report urges retailers to measure how freight partners
     affect product returns, cargo damage, and peak-season costs.
   icon: fa-box
@@ -64,30 +98,6 @@ articles:
   pub_date: '2026-10-14T17:16:00'
   source: Supply Chain 24/7
   title: Corvid Picks North Carolina for $95 Million Defense Plant Expansion
-- category: supply-chain
-  description: Japan will fund two planned New York chip factories operated by GlobalFoundries,
-    with the first expected to begin operating in 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/globalfoundries-japan-new-york-chip-factories
-  pub_date: '2026-10-14T13:37:00'
-  source: Supply Chain 24/7
-  title: GlobalFoundries to Run Two New York Chip Factories Funded by Japan
-- category: supply-chain
-  description: Walmart's warehouse automation push faces packaging problems, robot
-    repairs, and higher power bills as the retailer expands its rollout.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-warehouse-automation-packaging-robot-costs
-  pub_date: '2026-10-14T13:04:00'
-  source: Supply Chain 24/7
-  title: 'Report: Walmart’s Shipping Boxes Are Too Tall for Its Warehouse Robots'
-- category: supply-chain
-  description: New York City-based startup Evos raised $9 million to expand AI software
-    that learns from industrial teams and handles tasks such as freight invoice audits.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/evos-9-million-funding-ai-freight-manufacturing
-  pub_date: '2026-10-14T13:03:00'
-  source: Supply Chain 24/7
-  title: Evos Raises $9 Million to Automate Freight and Factory Work
 - category: circular
   description: Another man has been arrested in connection with illegal waste dumping
     in the North East. The post Further arrest made in connection with North East
@@ -160,13 +170,4 @@ articles:
   pub_date: '2026-10-09T10:31:51'
   source: Circular Online
   title: Illegal waste site clearance in Kent beauty spot costs £15m
-- category: circular
-  description: West Northamptonshire Council has successfully prosecuted a local resident
-    for repeated fly-tipping in Northampton. The post Northamptonshire council prosecute
-    woman for repeated fly-tipping appeared ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/northamptonshire-council-prosecute-woman-for-repeated-fly-tipping/
-  pub_date: '2026-10-08T07:30:00'
-  source: Circular Online
-  title: Northamptonshire council prosecute woman for repeated fly-tipping
-last_updated: '2026-10-16T10:49:40.722787'
+last_updated: '2026-10-17T10:13:57.199215'

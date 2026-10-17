@@ -1,5 +1,29 @@
 articles:
 - category: ai-research
+  description: The 18th annual Kendall Square Association Annual Meeting explored
+    how new technologies could be a force for shared prosperity in society.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016
+  pub_date: '2026-10-16T16:00:00'
+  source: MIT AI News
+  title: Fostering community amid Kendall Square’s innovation
+- category: machine-learning
+  description: 'From static retrieval pipelines to autonomous reasoning engines: a
+    complete breakdown of how these two architectures work, where each falls short,
+    and how to choose the right one for your use case.'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself
+  pub_date: '2026-10-16T14:00:00'
+  source: KDnuggets
+  title: 'Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself'
+- category: machine-learning
+  description: World models could be the next big shift in AI. Learn more right now.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026
+  pub_date: '2026-10-16T12:00:00'
+  source: KDnuggets
+  title: 5 Best Resources to Learn About World Models in 2026
+- category: ai-research
   description: MIT's Center for Transportation and Logistics finds sustainability
     commitments are strong, but governance gaps and external disruptions prevent execution.
   icon: fa-graduation-cap
@@ -132,22 +156,6 @@ articles:
   pub_date: '2026-10-12T16:00:00'
   source: KDnuggets
   title: 'The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral'
-- category: machine-learning
-  description: Compare ChatGPT, Claude, and Gemini across the data science tasks that
-    matter most to statisticians and analysts.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/chatgpt-vs-claude-vs-gemini-for-data-science-work-heres-what-i-found
-  pub_date: '2026-10-12T14:00:00'
-  source: KDnuggets
-  title: 'ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found'
-- category: machine-learning
-  description: Explore 10 Hugging Face models used across text, vision, audio, and
-    retrieval in 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026
-  pub_date: '2026-10-12T12:00:00'
-  source: KDnuggets
-  title: 10 Hugging Face Models Worth Knowing in 2026
 - category: ai-research
   description: MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin
     shares important considerations for departments and institutions.
@@ -164,15 +172,6 @@ articles:
   pub_date: '2026-10-08T04:00:00'
   source: MIT AI News
   title: Using AI to mitigate the growing environmental threat of data centers
-- category: ai-research
-  description: Students in MIT's Concourse program delve deeply into the human condition,
-    debate challenging questions, and learn to develop judgment about issues that
-    can't be quantified.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007
-  pub_date: '2026-10-07T20:10:00'
-  source: MIT AI News
-  title: Discovering the value of humanistic inquiry
 - category: ai-research
   description: Overview of Playground
   icon: fa-google
@@ -239,4 +238,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: Building AI to accelerate science and improve lives
-last_updated: '2026-10-16T10:49:41.788357'
+last_updated: '2026-10-17T10:13:58.443514'
