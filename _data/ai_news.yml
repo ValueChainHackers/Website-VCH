@@ -1,5 +1,13 @@
 articles:
 - category: ai-research
+  description: New research can help AI models understand crystalline materials in
+    3D and reason about their properties.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018
+  pub_date: '2026-10-18T04:00:00'
+  source: MIT AI News
+  title: Giving AI a “crystal clear” view of the materials world
+- category: ai-research
   description: The 18th annual Kendall Square Association Annual Meeting explored
     how new technologies could be a force for shared prosperity in society.
   icon: fa-graduation-cap
@@ -165,14 +173,6 @@ articles:
   source: MIT AI News
   title: '3 Questions: What is the best path forward for AI in academia?'
 - category: ai-research
-  description: By rethinking how large cloud computing systems operate, Associate
-    Professor Christina Delimitrou seeks to make data centers more energy efficient.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008
-  pub_date: '2026-10-08T04:00:00'
-  source: MIT AI News
-  title: Using AI to mitigate the growing environmental threat of data centers
-- category: ai-research
   description: Overview of Playground
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/
@@ -238,4 +238,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: Building AI to accelerate science and improve lives
-last_updated: '2026-10-17T10:13:58.443514'
+last_updated: '2026-10-18T10:29:44.144218'
