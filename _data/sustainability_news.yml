@@ -1,4 +1,14 @@
 articles:
+- category: circular
+  description: Sherbourne Recycling is urging households not to dispose of weight-loss
+    jabs in recycling collections. The post Recycling company calls for action to
+    keep weight-loss jabs out of kerbside collections ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/recycling-company-calls-for-action-to-keep-weight-loss-jabs-out-of-kerbside-collections/
+  pub_date: '2026-10-19T08:35:32'
+  source: Circular Online
+  title: Recycling company calls for action to keep weight-loss jabs out of kerbside
+    collections
 - category: supply-chain
   description: Explore supply chain degree programs at U.S. colleges, with links to
     bachelor's and master's options and details on what each offers.
@@ -161,13 +171,4 @@ articles:
   pub_date: '2026-10-12T08:44:14'
   source: Circular Online
   title: Start-up raises £2m for AI-guided tech turning waste into SAF
-- category: circular
-  description: The 39,500-tonne illegal waste site in Hoad's Wood, Kent, has now been
-    cleared for GBP15 million. The post Illegal waste site clearance in Kent beauty
-    spot costs GBP15m appeared first on Circular Onli...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/illegal-waste-site-clearance-in-kent-beauty-spot-costs-15m/
-  pub_date: '2026-10-09T10:31:51'
-  source: Circular Online
-  title: Illegal waste site clearance in Kent beauty spot costs £15m
-last_updated: '2026-10-18T10:29:43.047943'
+last_updated: '2026-10-19T12:18:46.524474'
