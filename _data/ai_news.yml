@@ -1,4 +1,11 @@
 articles:
+- category: machine-learning
+  description: AI makes writing code cheap. Verifying it is still your job.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code
+  pub_date: '2026-10-19T12:00:43'
+  source: KDnuggets
+  title: 7 Checks to Run Before Trusting AI-Generated Code
 - category: ai-research
   description: New research can help AI models understand crystalline materials in
     3D and reason about their properties.
@@ -155,15 +162,6 @@ articles:
   pub_date: '2026-10-13T04:00:00'
   source: MIT AI News
   title: 'Q&A: Building accountability behind our words — and AI’s — in civic conversations'
-- category: machine-learning
-  description: REA and ArtCraft are two projects driving a wave of AI-built clones
-    that attempt to recreate Adobe and Microsoft software, letting developers reverse-engineer
-    and rebuild commercial tools without acce...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral
-  pub_date: '2026-10-12T16:00:00'
-  source: KDnuggets
-  title: 'The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral'
 - category: ai-research
   description: MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin
     shares important considerations for departments and institutions.
@@ -238,4 +236,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: Building AI to accelerate science and improve lives
-last_updated: '2026-10-18T10:29:44.144218'
+last_updated: '2026-10-19T12:18:47.873772'
