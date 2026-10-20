@@ -1,4 +1,30 @@
 articles:
+- category: ai-research
+  description: A model developed by researchers at MIT and Boston Children's Hospital
+    adjusts scans on the fly to track fetal movement, potentially sparing families
+    repeat hospital visits.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019
+  pub_date: '2026-10-19T18:20:00'
+  source: MIT AI News
+  title: Why teaching AI about symmetry could make prenatal diagnosis more reliable
+- category: machine-learning
+  description: Claude Haiku 5.5 cuts list prices by 90% and adds adaptive thinking
+    and a 1M token context window. Learn what broke from Haiku 4.5, and build classification,
+    extraction, and sub-agent workflows in Pyt...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows
+  pub_date: '2026-10-19T16:00:00'
+  source: KDnuggets
+  title: 'Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows'
+- category: machine-learning
+  description: 'Choosing the right framework for your large language model application
+    comes down to one question: what are you actually optimizing for?'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/langchain-vs-llamaindex-vs-building-from-scratch-heres-what-i-suggest
+  pub_date: '2026-10-19T14:00:00'
+  source: KDnuggets
+  title: 'LangChain vs. LlamaIndex vs. Building From Scratch: Here’s What I Suggest'
 - category: machine-learning
   description: AI makes writing code cheap. Verifying it is still your job.
   icon: fa-chart-bar
@@ -136,24 +162,6 @@ articles:
   pub_date: '2026-10-13T16:00:00'
   source: Google AI Blog
   title: 'Gemini 4 Argon: Built to solve your hardest problems'
-- category: machine-learning
-  description: A four-level technical roadmap for building agentic AI systems, from
-    single cognitive loops and stateful memory through multi-agent swarms and production
-    observability.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026
-  pub_date: '2026-10-13T14:00:00'
-  source: KDnuggets
-  title: The Roadmap to Mastering Agentic AI Systems in 2026
-- category: machine-learning
-  description: 'Five AutoHotkey v2 scripts that handle repetitive Windows desktop
-    work around data analysis: launching a project workspace, converting clipboard
-    IDs to Python or SQL lists, fixing file paths, and snap...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-autohotkey-scripts-for-data-scientists
-  pub_date: '2026-10-13T12:00:00'
-  source: KDnuggets
-  title: 5 AutoHotkey Scripts for Data Scientists
 - category: ai-research
   description: Professor Deb Roy contends there should be someone who is "answerable"
     for every piece of text in public life, no matter its origins.
@@ -162,14 +170,6 @@ articles:
   pub_date: '2026-10-13T04:00:00'
   source: MIT AI News
   title: 'Q&A: Building accountability behind our words — and AI’s — in civic conversations'
-- category: ai-research
-  description: MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin
-    shares important considerations for departments and institutions.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008
-  pub_date: '2026-10-08T21:25:00'
-  source: MIT AI News
-  title: '3 Questions: What is the best path forward for AI in academia?'
 - category: ai-research
   description: Overview of Playground
   icon: fa-google
@@ -236,4 +236,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: Building AI to accelerate science and improve lives
-last_updated: '2026-10-19T12:18:47.873772'
+last_updated: '2026-10-20T10:59:54.257379'
