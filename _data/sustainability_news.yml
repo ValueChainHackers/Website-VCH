@@ -1,5 +1,72 @@
 articles:
 - category: circular
+  description: The European Parliament has voted to change the rules on Extended Producer
+    Responsibility (EPR) for small businesses. MEPs want to exempt small businesses
+    from the requirement to appoint representativ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/meps-back-simplified-epr-rules-for-small-businesses/
+  pub_date: '2026-10-21T09:07:54'
+  source: Circular Online
+  title: MEPs back simplified EPR rules for small businesses
+- category: circular
+  description: enfinium announces new 10-year agreement to supply West Yorkshire Energy-from-Waste
+    facilities. The post enfinium announces 10-year supply agreement for Yorkshire
+    EfW facilities appeared first on Circ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/enfinium-announces-10-year-supply-agreement-for-yorkshire-efw-facilities/
+  pub_date: '2026-10-21T07:54:54'
+  source: Circular Online
+  title: enfinium announces 10-year supply agreement for Yorkshire EfW facilities
+- category: circular
+  description: Europe's fragmented waste taxes risk undermining efforts to reduce
+    landfill, strengthen recycling, and improve energy security, a new report warns.
+    The post Fragmented waste taxes distorting Europe's ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/fragmented-waste-taxes-distorting-europes-circular-economy-new-report-warns/
+  pub_date: '2026-10-21T07:30:00'
+  source: Circular Online
+  title: Fragmented waste taxes distorting Europe’s circular economy, new report warns
+- category: supply-chain
+  description: Apple announced a titanium agreement worth up to $100 million with
+    Perryman and expanded camera-materials production with Qnity Electronics.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/apple-pennsylvania-titanium-perryman-us-iphone-manufacturing
+  pub_date: '2026-10-20T14:22:00'
+  source: Supply Chain 24/7
+  title: Apple Commits Up to $100 Million to Pennsylvania Titanium Supplier
+- category: supply-chain
+  description: Locus Robotics finds 61% of Gen Z apparel shoppers have bought multiple
+    options to keep one, creating additional returns work for retailers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gen-z-shopping-returns-retail-fulfillment
+  pub_date: '2026-10-20T13:36:00'
+  source: Supply Chain 24/7
+  title: 'Buy More, Keep Less: Gen Z’s Shopping Habit Tests Retail Returns'
+- category: supply-chain
+  description: DOT announced $2.3 billion for 105 freight and passenger rail projects,
+    including bridge repairs, track upgrades, and port connections across 45 states.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dot-rail-grants-23-billion-freight-projects-45-states
+  pub_date: '2026-10-20T12:55:00'
+  source: Supply Chain 24/7
+  title: Ohio, Texas, and Arkansas Get Rail Upgrades in $2.3 Billion DOT Package
+- category: supply-chain
+  description: C.H. Robinson plans to appeal a $604 million judgment in a fatal truck
+    crash case that raises questions about how brokers select carriers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ch-robinson-604-million-truck-crash-judgment
+  pub_date: '2026-10-20T12:29:00'
+  source: Supply Chain 24/7
+  title: Texas Court Upholds $604 Million Award Against C.H. Robinson
+- category: supply-chain
+  description: TraceLink will launch a global competition in January 2027 offering
+    a $1 million prize for the best working AI-powered business process built on OPUS.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/tracelink-million-dollar-ai-business-process-challenge
+  pub_date: '2026-10-20T10:26:00'
+  source: Supply Chain 24/7
+  title: Can You Build a Better AI Business Process? TraceLink Offers $1 Million
+- category: circular
   description: Plans to develop a new 'state-of-the-art' recycling operations depot
     in Ystrad Mynach have taken a major step forward, with planning permission now
     formally granted. The post Planning permission grant...
@@ -68,46 +135,6 @@ articles:
   pub_date: '2026-10-19T07:30:00'
   source: Supply Chain 24/7
   title: Carrier Logistics and LSP44 Team Up to Cut Freight Tracking Calls
-- category: supply-chain
-  description: An Ivalua survey estimates manual procurement work costs $1.54 million
-    annually per organization, as unreliable data slows AI adoption.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ivalua-procurement-ai-survey-manual-work-costs
-  pub_date: '2026-10-19T07:04:00'
-  source: Supply Chain 24/7
-  title: Just 34% of Companies Have Put Procurement AI Into Everyday Use
-- category: supply-chain
-  description: Hitachi Energy plans a transformer insulation factory costing more
-    than $330 million in London, Ontario, with completion expected by 2028.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hitachi-energy-ontario-transformer-insulation-factory
-  pub_date: '2026-10-19T05:20:00'
-  source: Supply Chain 24/7
-  title: Hitachi Energy Plans $330 Million Transformer Parts Plant in Ontario
-- category: supply-chain
-  description: Explore supply chain degree programs at U.S. colleges, with links to
-    bachelor's and master's options and details on what each offers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-degree-programs-united-states
-  pub_date: '2026-10-16T13:57:00'
-  source: Supply Chain 24/7
-  title: 'Where to Earn a Supply Chain Degree: A State-by-State Guide'
-- category: supply-chain
-  description: A new ASCM and DSCI report finds 83% of respondents say their workers
-    aren't ready for AI, as skills gaps and unclear returns slow adoption.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-ai-workforce-readiness-ascm-dsci-report
-  pub_date: '2026-10-16T12:59:00'
-  source: Supply Chain 24/7
-  title: 83% of Supply Chain Leaders Say Their Workers Aren’t Ready for AI
-- category: supply-chain
-  description: Lockheed Martin is investing $300 million in Grand Prairie manufacturing
-    as it plans 6,000 new U.S. jobs, including 2,000 in Texas.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lockheed-martin-texas-manufacturing-expansion
-  pub_date: '2026-10-16T12:57:00'
-  source: Supply Chain 24/7
-  title: Lockheed Martin Invests $300 Million to Expand Texas Manufacturing
 - category: circular
   description: Growing washing machine repair offers a 'triple win' for households,
     businesses and the environment, UCL study finds. The post Washing machine repair
@@ -145,31 +172,4 @@ articles:
   pub_date: '2026-10-13T09:00:27'
   source: Circular Online
   title: EU incinerator moratorium urged over 65m-tonne surplus claim
-- category: circular
-  description: A new national hub will test robots on real waste streams, helping
-    recycling operators assess performance and potential payback before investing
-    in automation. Kingston University has been selected to...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/3-6m-robotics-hub-to-help-recyclers-test-before-they-invest/
-  pub_date: '2026-10-13T08:22:49'
-  source: Circular Online
-  title: £3.6m robotics hub to help recyclers test before they invest
-- category: circular
-  description: Higher packaging waste recycling note (PRN) prices are associated with
-    a greater share of material being exported for recycling, according to new research.
-    The post PRN study links higher prices to ex...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/prn-study-links-higher-prices-to-export-shift-amid-defra-intervention/
-  pub_date: '2026-10-13T07:53:29'
-  source: Circular Online
-  title: PRN study links higher prices to export shift amid Defra intervention
-- category: circular
-  description: The UK Government has reduced packaging recycling obligations for plastic,
-    steel and wood over concerns that producers will be unable to meet their legal
-    obligations for 2026. The post Defra announces...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/defra-announces-unprecedented-intervention-in-prn-markets/
-  pub_date: '2026-10-12T11:05:12'
-  source: Circular Online
-  title: Defra announces ‘unprecedented’ intervention in PRN markets
-last_updated: '2026-10-20T10:59:53.010499'
+last_updated: '2026-10-21T11:16:34.925603'
