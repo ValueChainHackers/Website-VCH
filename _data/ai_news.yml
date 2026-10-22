@@ -1,4 +1,20 @@
 articles:
+- category: machine-learning
+  description: Build standardized custom NER pipelines in a few simple steps, powered
+    by the reasoning capabilities of LLMs.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm
+  pub_date: '2026-10-21T14:00:00'
+  source: KDnuggets
+  title: Named Entity Recognition Using Scikit-LLM
+- category: machine-learning
+  description: Explore five popular AI agent skill collections that help coding agents
+    plan, test, debug, review, and build better software.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills
+  pub_date: '2026-10-21T12:00:00'
+  source: KDnuggets
+  title: 5 Best GitHub Repositories for AI Agent Skills
 - category: ai-research
   description: Cover image for the e-Conomy SEA 2026 report titled Building the intelligent
     economy by Google, Temasek, and Bain and Company. A 3D illustration features a
@@ -118,23 +134,6 @@ articles:
   pub_date: '2026-10-15T17:00:59'
   source: KDnuggets
   title: 'Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know'
-- category: machine-learning
-  description: OGX is an open-source agentic API server for building OpenAI-compatible
-    AI applications, using any model and any infrastructure.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx
-  pub_date: '2026-10-15T14:00:00'
-  source: KDnuggets
-  title: Building AI Applications with OGX, the Open-Source Agentic API Server
-- category: machine-learning
-  description: Find open-source alternatives to OpenAI API, Midjourney, Claude Code,
-    Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-host
-    for more privacy, control, and lower cost.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions
-  pub_date: '2026-10-15T12:00:34'
-  source: KDnuggets
-  title: 7 Open-Source AI Tools That Can Replace Paid Subscriptions
 - category: ai-research
   description: In a new book, Professor Eric So explores how the technology affects
     our thinking skills.
@@ -240,4 +239,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: AI for Societal Impact
-last_updated: '2026-10-21T11:16:37.049438'
+last_updated: '2026-10-22T11:15:26.507333'
