@@ -1,5 +1,62 @@
 articles:
 - category: circular
+  description: Market conditions in the UK waste wood sector remain challenging after
+    'unprecedented' levels of disruption in 2025, the Wood Recyclers' Association
+    (WRA) has warned. The post UK waste wood market con...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-waste-wood-market-conditions-remain-challenging-says-wra/
+  pub_date: '2026-10-22T08:21:40'
+  source: Circular Online
+  title: UK waste wood market conditions remain challenging, says WRA
+- category: supply-chain
+  description: MISUMI Americas has launched a $2 million foundation to fund scholarships,
+    hands-on manufacturing education, and partnerships between schools and industry.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/misumi-foundation-manufacturing-training-scholarships
+  pub_date: '2026-10-22T06:00:00'
+  source: Supply Chain 24/7
+  title: MISUMI Launches $2 Million Foundation to Fund Manufacturing Training
+- category: supply-chain
+  description: Manish Kapoor shares lessons from warehouse automation, including what
+    to fix first, how jobs change, and when robots are worth the investment.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-robots-automation-manish-kapoor-qa
+  pub_date: '2026-10-22T05:54:00'
+  source: Supply Chain 24/7
+  title: Before You Buy Warehouse Robots, Know What You’re Trying to Fix
+- category: supply-chain
+  description: Westinghouse is investing approximately $1 billion in a South Carolina
+    factory that will begin producing higher-enrichment nuclear fuel in 2030.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/westinghouse-billion-dollar-nuclear-fuel-factory-south-carolina
+  pub_date: '2026-10-22T04:11:00'
+  source: Supply Chain 24/7
+  title: Westinghouse Building $1 Billion Nuclear Fuel Plant in South Carolina
+- category: supply-chain
+  description: Fuel prices topped ATRI's 2026 trucking concerns ranking, followed
+    by lawsuit reform, carrier safety scores, insurance and driver shortages.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-10-trucking-industry-issues-2026
+  pub_date: '2026-10-21T12:30:00'
+  source: Supply Chain 24/7
+  title: The Top 10 Issues Facing the Trucking Industry in 2026
+- category: supply-chain
+  description: Route's Andrew Schmid discusses DoorDash's $7.99 return pickups, the
+    costs for retailers, and what makes the convenience worth paying for.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/doordash-adds-return-pickups-for-7.99-will-shoppers-pay-for-it
+  pub_date: '2026-10-21T11:31:00'
+  source: Supply Chain 24/7
+  title: DoorDash Adds Return Pickups for $7.99. Will Shoppers Pay for It?
+- category: supply-chain
+  description: Amazon plans more than 300,000 U.S. holiday hires, about 20% more than
+    last year, with seasonal workers earning an average of $20 per hour.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-holiday-hiring-300000-us-jobs-2026
+  pub_date: '2026-10-21T11:29:00'
+  source: Supply Chain 24/7
+  title: Amazon Seeks More Than 300,000 Workers Ahead of Holiday Rush
+- category: circular
   description: The European Parliament has voted to change the rules on Extended Producer
     Responsibility (EPR) for small businesses. MEPs want to exempt small businesses
     from the requirement to appoint representativ...
@@ -58,14 +115,6 @@ articles:
   pub_date: '2026-10-20T12:29:00'
   source: Supply Chain 24/7
   title: Texas Court Upholds $604 Million Award Against C.H. Robinson
-- category: supply-chain
-  description: TraceLink will launch a global competition in January 2027 offering
-    a $1 million prize for the best working AI-powered business process built on OPUS.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/tracelink-million-dollar-ai-business-process-challenge
-  pub_date: '2026-10-20T10:26:00'
-  source: Supply Chain 24/7
-  title: Can You Build a Better AI Business Process? TraceLink Offers $1 Million
 - category: circular
   description: Plans to develop a new 'state-of-the-art' recycling operations depot
     in Ystrad Mynach have taken a major step forward, with planning permission now
@@ -85,38 +134,6 @@ articles:
   pub_date: '2026-10-20T08:34:48'
   source: Circular Online
   title: Environment Agency organises first-ever Liverpool waste crime summit
-- category: supply-chain
-  description: Learn how Mariani centralized packaging artwork, approvals and revision
-    histories to improve productivity, collaboration, compliance and version control.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-can-digital-artwork-workflows-reduce-compliance-risk
-  pub_date: '2026-10-19T16:44:00'
-  source: Supply Chain 24/7
-  title: How Can Digital Artwork Workflows Reduce Compliance Risk?
-- category: supply-chain
-  description: DOT awarded $200 million for 14 truck parking projects across 12 states
-    to give drivers more places to stop and rest.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dot-200-million-truck-parking-grants-12-states
-  pub_date: '2026-10-19T13:13:00'
-  source: Supply Chain 24/7
-  title: DOT Awards $200 Million to Expand Truck Parking Across 12 States
-- category: supply-chain
-  description: Philadelphia's port plans an $837 million expansion with a new berth,
-    more land, and equipment to handle additional container and vehicle cargo.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/philadelphia-port-837-million-expansion-new-berth
-  pub_date: '2026-10-19T13:06:00'
-  source: Supply Chain 24/7
-  title: Pennsylvania Invests $371.5 Million Into Philadelphia Port Expansion
-- category: supply-chain
-  description: Ares is buying railcar lessor Infinity from KKR for $2.9 billion, taking
-    over a fleet of 50,000 cars leased to 350-plus customers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ares-infinity-railcar-leasing-deal
-  pub_date: '2026-10-19T11:08:00'
-  source: Supply Chain 24/7
-  title: 50,000 Railcars Change Hands as Ares Buys Infinity From KKR
 - category: circular
   description: Sherbourne Recycling is urging households not to dispose of weight-loss
     jabs in recycling collections. The post Recycling company calls for action to
@@ -127,14 +144,6 @@ articles:
   source: Circular Online
   title: Recycling company calls for action to keep weight-loss jabs out of kerbside
     collections
-- category: supply-chain
-  description: Carrier Logistics and LSP44 are using AI to find shipments with missing
-    tracking numbers and reduce calls and emails to carrier service teams.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/carrier-logistics-lsp44-ai-freight-tracking
-  pub_date: '2026-10-19T07:30:00'
-  source: Supply Chain 24/7
-  title: Carrier Logistics and LSP44 Team Up to Cut Freight Tracking Calls
 - category: circular
   description: Growing washing machine repair offers a 'triple win' for households,
     businesses and the environment, UCL study finds. The post Washing machine repair
@@ -163,13 +172,4 @@ articles:
   pub_date: '2026-10-14T08:32:00'
   source: Circular Online
   title: Further arrest made in connection with North East illegal waste dumping
-- category: circular
-  description: Zero Waste Europe has renewed its call to halt new incineration capacity
-    after research estimated a gap of almost 65 million tonnes between EU capacity
-    and the amount of waste treated. The study, prep...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/eu-incinerator-moratorium-urged-over-65m-tonne-surplus-claim/
-  pub_date: '2026-10-13T09:00:27'
-  source: Circular Online
-  title: EU incinerator moratorium urged over 65m-tonne surplus claim
-last_updated: '2026-10-21T11:16:34.925603'
+last_updated: '2026-10-22T11:15:25.775267'
