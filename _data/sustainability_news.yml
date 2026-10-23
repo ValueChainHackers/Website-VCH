@@ -1,5 +1,22 @@
 articles:
 - category: circular
+  description: refurbed, the European marketplace for refurbished technology and household
+    products, is launching across the UK in November. The post European Marketplace
+    refurbed launches in UK following 3bn sales ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/european-marketplace-refurbed-launches-in-uk-following-e3bn-sales-milestone/
+  pub_date: '2026-10-23T09:57:36'
+  source: Circular Online
+  title: European Marketplace refurbed launches in UK following €3bn sales milestone
+- category: supply-chain
+  description: Explore how warehouse automation helps manage peak season labor shortages,
+    accelerate picking, shorten training, and scale fulfillment capacity with demand.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-can-warehouses-scale-operations-during-peak-season
+  pub_date: '2026-10-22T19:06:00'
+  source: Supply Chain 24/7
+  title: How Can Warehouses Scale Operations During Peak Season?
+- category: circular
   description: Market conditions in the UK waste wood sector remain challenging after
     'unprecedented' levels of disruption in 2025, the Wood Recyclers' Association
     (WRA) has warned. The post UK waste wood market con...
@@ -17,8 +34,8 @@ articles:
   source: Supply Chain 24/7
   title: MISUMI Launches $2 Million Foundation to Fund Manufacturing Training
 - category: supply-chain
-  description: Manish Kapoor shares lessons from warehouse automation, including what
-    to fix first, how jobs change, and when robots are worth the investment.
+  description: Lessons from warehouse automation, including what to fix first, how
+    jobs change, and when robots are worth the investment.
   icon: fa-box
   link: https://www.supplychain247.com/article/warehouse-robots-automation-manish-kapoor-qa
   pub_date: '2026-10-22T05:54:00'
@@ -84,6 +101,15 @@ articles:
   source: Circular Online
   title: Fragmented waste taxes distorting Europe’s circular economy, new report warns
 - category: supply-chain
+  description: Learn how autonomous robots work, how they differ from traditional
+    automation, and how they support warehouse productivity, logistics, and manufacturing
+    workflows.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-do-autonomous-robots-improve-warehouse-productivity
+  pub_date: '2026-10-20T16:53:00'
+  source: Supply Chain 24/7
+  title: How Do Autonomous Robots Improve Warehouse Productivity?
+- category: supply-chain
   description: Apple announced a titanium agreement worth up to $100 million with
     Perryman and expanded camera-materials production with Qnity Electronics.
   icon: fa-box
@@ -99,22 +125,6 @@ articles:
   pub_date: '2026-10-20T13:36:00'
   source: Supply Chain 24/7
   title: 'Buy More, Keep Less: Gen Z’s Shopping Habit Tests Retail Returns'
-- category: supply-chain
-  description: DOT announced $2.3 billion for 105 freight and passenger rail projects,
-    including bridge repairs, track upgrades, and port connections across 45 states.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dot-rail-grants-23-billion-freight-projects-45-states
-  pub_date: '2026-10-20T12:55:00'
-  source: Supply Chain 24/7
-  title: Ohio, Texas, and Arkansas Get Rail Upgrades in $2.3 Billion DOT Package
-- category: supply-chain
-  description: C.H. Robinson plans to appeal a $604 million judgment in a fatal truck
-    crash case that raises questions about how brokers select carriers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ch-robinson-604-million-truck-crash-judgment
-  pub_date: '2026-10-20T12:29:00'
-  source: Supply Chain 24/7
-  title: Texas Court Upholds $604 Million Award Against C.H. Robinson
 - category: circular
   description: Plans to develop a new 'state-of-the-art' recycling operations depot
     in Ystrad Mynach have taken a major step forward, with planning permission now
@@ -163,13 +173,4 @@ articles:
   pub_date: '2026-10-15T09:59:02'
   source: Circular Online
   title: CEI appoints Iain Gulland as Chair of Strategic Advisory Forum
-- category: circular
-  description: Another man has been arrested in connection with illegal waste dumping
-    in the North East. The post Further arrest made in connection with North East
-    illegal waste dumping appeared first on Circular On...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/further-arrest-made-in-connection-with-north-east-illegal-waste-dumping/
-  pub_date: '2026-10-14T08:32:00'
-  source: Circular Online
-  title: Further arrest made in connection with North East illegal waste dumping
-last_updated: '2026-10-22T11:15:25.775267'
+last_updated: '2026-10-23T11:06:41.319113'
