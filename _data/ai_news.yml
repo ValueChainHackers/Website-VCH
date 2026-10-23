@@ -1,20 +1,22 @@
 articles:
-- category: machine-learning
-  description: Build standardized custom NER pipelines in a few simple steps, powered
-    by the reasoning capabilities of LLMs.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm
-  pub_date: '2026-10-21T14:00:00'
-  source: KDnuggets
-  title: Named Entity Recognition Using Scikit-LLM
-- category: machine-learning
-  description: Explore five popular AI agent skill collections that help coding agents
-    plan, test, debug, review, and build better software.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills
-  pub_date: '2026-10-21T12:00:00'
-  source: KDnuggets
-  title: 5 Best GitHub Repositories for AI Agent Skills
+- category: ai-research
+  description: Assistant Professor Benjamin Lindquist studies how engineers deliberately
+    injected randomness into early AI, giving rise to deep-learning models that sometimes
+    hallucinate.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023
+  pub_date: '2026-10-23T04:00:00'
+  source: MIT AI News
+  title: 'Q&A: How AI came to model the “messy” human mind'
+- category: ai-research
+  description: '"X-Hinges" helps design and 3D print items like lamps and gloves with
+    an interactive twist: automatically embedded sensors that perceive and adaptively
+    respond to human contact.'
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022
+  pub_date: '2026-10-22T20:45:00'
+  source: MIT AI News
+  title: This design software reimagines everyday objects as self-aware devices
 - category: ai-research
   description: Cover image for the e-Conomy SEA 2026 report titled Building the intelligent
     economy by Google, Temasek, and Bain and Company. A 3D illustration features a
@@ -24,24 +26,6 @@ articles:
   pub_date: '2026-10-21T04:00:00'
   source: Google AI Blog
   title: Southeast Asia’s digital economy to hit $368 billion
-- category: machine-learning
-  description: A structured four-phase roadmap for building the technical fluency,
-    evaluation skills, and governance literacy needed to succeed as an AI product
-    manager in 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026
-  pub_date: '2026-10-20T14:00:00'
-  source: KDnuggets
-  title: The Roadmap to Becoming an AI Product Manager in 2026
-- category: machine-learning
-  description: Five self-hosted Docker containers replace the public utility sites
-    where developer data quietly leaks. Learn which ones handle JWT decoding, data
-    transformation, file conversion, API testing, and dia...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-docker-containers-for-devs
-  pub_date: '2026-10-20T12:00:00'
-  source: KDnuggets
-  title: 5 Docker Containers for Devs
 - category: ai-research
   description: A model developed by researchers at MIT and Boston Children's Hospital
     adjusts scans on the fly to track fetal movement, potentially sparing families
@@ -51,30 +35,6 @@ articles:
   pub_date: '2026-10-19T18:20:00'
   source: MIT AI News
   title: Why teaching AI about symmetry could make prenatal diagnosis more reliable
-- category: machine-learning
-  description: Claude Haiku 5.5 cuts list prices by 90% and adds adaptive thinking
-    and a 1M token context window. Learn what broke from Haiku 4.5, and build classification,
-    extraction, and sub-agent workflows in Pyt...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows
-  pub_date: '2026-10-19T16:00:00'
-  source: KDnuggets
-  title: 'Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows'
-- category: machine-learning
-  description: 'Choosing the right framework for your large language model application
-    comes down to one question: what are you actually optimizing for?'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/langchain-vs-llamaindex-vs-building-from-scratch-heres-what-i-suggest
-  pub_date: '2026-10-19T14:00:00'
-  source: KDnuggets
-  title: 'LangChain vs. LlamaIndex vs. Building From Scratch: Here’s What I Suggest'
-- category: machine-learning
-  description: AI makes writing code cheap. Verifying it is still your job.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code
-  pub_date: '2026-10-19T12:00:43'
-  source: KDnuggets
-  title: 7 Checks to Run Before Trusting AI-Generated Code
 - category: ai-research
   description: New research can help AI models understand crystalline materials in
     3D and reason about their properties.
@@ -91,22 +51,6 @@ articles:
   pub_date: '2026-10-16T16:00:00'
   source: MIT AI News
   title: Fostering community amid Kendall Square’s innovation
-- category: machine-learning
-  description: 'From static retrieval pipelines to autonomous reasoning engines: a
-    complete breakdown of how these two architectures work, where each falls short,
-    and how to choose the right one for your use case.'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself
-  pub_date: '2026-10-16T14:00:00'
-  source: KDnuggets
-  title: 'Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself'
-- category: machine-learning
-  description: World models could be the next big shift in AI. Learn more right now.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026
-  pub_date: '2026-10-16T12:00:00'
-  source: KDnuggets
-  title: 5 Best Resources to Learn About World Models in 2026
 - category: ai-research
   description: MIT's Center for Transportation and Logistics finds sustainability
     commitments are strong, but governance gaps and external disruptions prevent execution.
@@ -125,15 +69,6 @@ articles:
   pub_date: '2026-10-15T20:50:00'
   source: MIT AI News
   title: AI model decodes the language cells use to communicate
-- category: machine-learning
-  description: This review highlights the main critiques of Abacus AI, its price,
-    user reviews, reliability of workflows, and real-life use cases to assist you
-    in evaluating its advantages and disadvantages.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know
-  pub_date: '2026-10-15T17:00:59'
-  source: KDnuggets
-  title: 'Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know'
 - category: ai-research
   description: In a new book, Professor Eric So explores how the technology affects
     our thinking skills.
@@ -160,27 +95,12 @@ articles:
   source: MIT AI News
   title: How artificial neural networks build their own learning machinery
 - category: ai-research
-  description: Roadshow event highlights Massachusetts' defense-biotechnology ecosystem.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013
-  pub_date: '2026-10-13T20:40:00'
-  source: MIT AI News
-  title: MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology
-- category: ai-research
   description: TBD
   icon: fa-google
   link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
   pub_date: '2026-10-13T16:00:00'
   source: Google AI Blog
   title: 'Gemini 4 Argon: Built to solve your hardest problems'
-- category: ai-research
-  description: Professor Deb Roy contends there should be someone who is "answerable"
-    for every piece of text in public life, no matter its origins.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013
-  pub_date: '2026-10-13T04:00:00'
-  source: MIT AI News
-  title: 'Q&A: Building accountability behind our words — and AI’s — in civic conversations'
 - category: ai-research
   description: Overview of Playground
   icon: fa-google
@@ -239,4 +159,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: AI for Societal Impact
-last_updated: '2026-10-22T11:15:26.507333'
+last_updated: '2026-10-23T11:06:42.588025'
