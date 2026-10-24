@@ -1,4 +1,28 @@
 articles:
+- category: supply-chain
+  description: Massachusetts lawmakers want a pause on drone delivery approvals as
+    Amazon plans up to 1,000 daily drone deliveries from its Westborough site.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/massachusetts-lawmakers-amazon-drone-delivery-freeze
+  pub_date: '2026-10-23T13:50:00'
+  source: Supply Chain 24/7
+  title: Massachusetts Wants to Hit Pause on Amazon’s Drone Delivery Plans
+- category: supply-chain
+  description: Fuel prices topped ATRI's 2026 trucking concerns ranking, followed
+    by lawsuit reform, carrier safety scores, insurance and driver shortages.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/top-10-trucking-industry-issues-2026
+  pub_date: '2026-10-23T12:13:00'
+  source: Supply Chain 24/7
+  title: The Top 10 Issues Facing the Trucking Industry in 2026
+- category: supply-chain
+  description: Blue Bird plans to invest approximately $300 million in a Fort Valley,
+    Georgia, school bus factory that will create 375 jobs over three years.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/blue-bird-georgia-school-bus-factory-300-million
+  pub_date: '2026-10-23T12:10:00'
+  source: Supply Chain 24/7
+  title: Blue Bird Plans $300 Million School Bus Factory in Fort Valley, Georgia
 - category: circular
   description: refurbed, the European marketplace for refurbished technology and household
     products, is launching across the UK in November. The post European Marketplace
@@ -49,14 +73,6 @@ articles:
   pub_date: '2026-10-22T04:11:00'
   source: Supply Chain 24/7
   title: Westinghouse Building $1 Billion Nuclear Fuel Plant in South Carolina
-- category: supply-chain
-  description: Fuel prices topped ATRI's 2026 trucking concerns ranking, followed
-    by lawsuit reform, carrier safety scores, insurance and driver shortages.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-10-trucking-industry-issues-2026
-  pub_date: '2026-10-21T12:30:00'
-  source: Supply Chain 24/7
-  title: The Top 10 Issues Facing the Trucking Industry in 2026
 - category: supply-chain
   description: Route's Andrew Schmid discusses DoorDash's $7.99 return pickups, the
     costs for retailers, and what makes the convenience worth paying for.
@@ -109,22 +125,6 @@ articles:
   pub_date: '2026-10-20T16:53:00'
   source: Supply Chain 24/7
   title: How Do Autonomous Robots Improve Warehouse Productivity?
-- category: supply-chain
-  description: Apple announced a titanium agreement worth up to $100 million with
-    Perryman and expanded camera-materials production with Qnity Electronics.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/apple-pennsylvania-titanium-perryman-us-iphone-manufacturing
-  pub_date: '2026-10-20T14:22:00'
-  source: Supply Chain 24/7
-  title: Apple Commits Up to $100 Million to Pennsylvania Titanium Supplier
-- category: supply-chain
-  description: Locus Robotics finds 61% of Gen Z apparel shoppers have bought multiple
-    options to keep one, creating additional returns work for retailers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gen-z-shopping-returns-retail-fulfillment
-  pub_date: '2026-10-20T13:36:00'
-  source: Supply Chain 24/7
-  title: 'Buy More, Keep Less: Gen Z’s Shopping Habit Tests Retail Returns'
 - category: circular
   description: Plans to develop a new 'state-of-the-art' recycling operations depot
     in Ystrad Mynach have taken a major step forward, with planning permission now
@@ -173,4 +173,4 @@ articles:
   pub_date: '2026-10-15T09:59:02'
   source: Circular Online
   title: CEI appoints Iain Gulland as Chair of Strategic Advisory Forum
-last_updated: '2026-10-23T11:06:41.319113'
+last_updated: '2026-10-24T10:23:24.187999'
