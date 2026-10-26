@@ -18,23 +18,6 @@ articles:
   pub_date: '2026-10-23T19:35:00'
   source: MIT AI News
   title: Reinforcing the value of human understanding at MIT
-- category: machine-learning
-  description: What employers actually mean when job postings list "AI experience"
-    as a requirement.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience
-  pub_date: '2026-10-23T14:00:00'
-  source: KDnuggets
-  title: What Companies Actually Mean When They Say They Want “AI Experience”
-- category: machine-learning
-  description: Access powerful open-source and proprietary models through OpenCode
-    Zen, Gemini's free quota, Kilo Gateway, Cline Provider, and Charm Hyper without
-    paying for API access upfront.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026
-  pub_date: '2026-10-23T12:00:00'
-  source: KDnuggets
-  title: 5 Free AI Coding Agents You Should Try in 2026
 - category: ai-research
   description: Assistant Professor Benjamin Lindquist studies how engineers deliberately
     injected randomness into early AI, giving rise to deep-learning models that sometimes
@@ -53,39 +36,6 @@ articles:
   pub_date: '2026-10-22T20:45:00'
   source: MIT AI News
   title: This design software reimagines everyday objects as self-aware devices
-- category: machine-learning
-  description: I loaded a large JSON file in Python and watched memory jump from 43
-    MB to 808 MB. Here's what happened and how streaming changed everything.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson
-  pub_date: '2026-10-22T14:00:00'
-  source: KDnuggets
-  title: How to Process Large JSON Files in Python With ijson
-- category: machine-learning
-  description: Google's Harness lets AI agents improve their prompts, tools, memory,
-    and scripts through two recursive loops without touching model weights. Learn
-    more, including how to run the free demo yourself.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining
-  pub_date: '2026-10-22T12:00:00'
-  source: KDnuggets
-  title: 'Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining'
-- category: machine-learning
-  description: Build standardized custom NER pipelines in a few simple steps, powered
-    by the reasoning capabilities of LLMs.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm
-  pub_date: '2026-10-21T14:00:00'
-  source: KDnuggets
-  title: Named Entity Recognition Using Scikit-LLM
-- category: machine-learning
-  description: Explore five popular AI agent skill collections that help coding agents
-    plan, test, debug, review, and build better software.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills
-  pub_date: '2026-10-21T12:00:00'
-  source: KDnuggets
-  title: 5 Best GitHub Repositories for AI Agent Skills
 - category: ai-research
   description: Cover image for the e-Conomy SEA 2026 report titled Building the intelligent
     economy by Google, Temasek, and Bain and Company. A 3D illustration features a
@@ -95,24 +45,6 @@ articles:
   pub_date: '2026-10-21T04:00:00'
   source: Google AI Blog
   title: Southeast Asia’s digital economy to hit $368 billion
-- category: machine-learning
-  description: A structured four-phase roadmap for building the technical fluency,
-    evaluation skills, and governance literacy needed to succeed as an AI product
-    manager in 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026
-  pub_date: '2026-10-20T14:00:00'
-  source: KDnuggets
-  title: The Roadmap to Becoming an AI Product Manager in 2026
-- category: machine-learning
-  description: Five self-hosted Docker containers replace the public utility sites
-    where developer data quietly leaks. Learn which ones handle JWT decoding, data
-    transformation, file conversion, API testing, and dia...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-docker-containers-for-devs
-  pub_date: '2026-10-20T12:00:00'
-  source: KDnuggets
-  title: 5 Docker Containers for Devs
 - category: ai-research
   description: A model developed by researchers at MIT and Boston Children's Hospital
     adjusts scans on the fly to track fetal movement, potentially sparing families
@@ -122,23 +54,6 @@ articles:
   pub_date: '2026-10-19T18:20:00'
   source: MIT AI News
   title: Why teaching AI about symmetry could make prenatal diagnosis more reliable
-- category: machine-learning
-  description: Claude Haiku 5.5 cuts list prices by 90% and adds adaptive thinking
-    and a 1M token context window. Learn what broke from Haiku 4.5, and build classification,
-    extraction, and sub-agent workflows in Pyt...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows
-  pub_date: '2026-10-19T16:00:00'
-  source: KDnuggets
-  title: 'Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows'
-- category: machine-learning
-  description: 'Choosing the right framework for your large language model application
-    comes down to one question: what are you actually optimizing for?'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/langchain-vs-llamaindex-vs-building-from-scratch-heres-what-i-suggest
-  pub_date: '2026-10-19T14:00:00'
-  source: KDnuggets
-  title: 'LangChain vs. LlamaIndex vs. Building From Scratch: Here’s What I Suggest'
 - category: ai-research
   description: New research can help AI models understand crystalline materials in
     3D and reason about their properties.
@@ -246,4 +161,4 @@ articles:
   pub_date: '2026-09-15T16:00:00'
   source: Google AI Blog
   title: AI for Societal Impact
-last_updated: '2026-10-25T10:51:11.467034'
+last_updated: '2026-10-26T12:21:55.412171'
