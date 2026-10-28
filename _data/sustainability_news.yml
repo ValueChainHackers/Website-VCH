@@ -1,5 +1,78 @@
 articles:
 - category: circular
+  description: SUEZ's Greater Manchester Renew Hub has now generated over GBP3 million
+    in sales and prevented almost 600,000 items from going to waste since launching
+    in 2021. The post Greater Manchester reuse proje...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/greater-manchester-reuse-project-hits-3m-in-sales/
+  pub_date: '2026-10-28T10:32:18'
+  source: Circular Online
+  title: Greater Manchester reuse project hits £3m in sales
+- category: supply-chain
+  description: Krber is investing in NAiSE to expand software that coordinates robots
+    and manually operated vehicles across warehouses and factories.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/koerber-invests-naise-warehouse-robot-fleet-management
+  pub_date: '2026-10-28T07:14:00'
+  source: Supply Chain 24/7
+  title: Körber Buys Stake in NAiSE, Expanding Its Warehouse Software Lineup
+- category: supply-chain
+  description: These 10 practical AI prompts can help supply chain teams compare bids,
+    review inventory, draft emails, and handle other routine work.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-to-use-ai-for-supply-chain-tasks
+  pub_date: '2026-10-28T00:34:00'
+  source: Supply Chain 24/7
+  title: How to Use AI for 10 Everyday Supply Chain Tasks
+- category: supply-chain
+  description: UPS will raise daily shipping rates an average of 5.9% on Dec. 21,
+    alongside changes to weight minimums, shipping zones, and fees.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-shipping-rate-increase-december-2026
+  pub_date: '2026-10-27T14:53:00'
+  source: Supply Chain 24/7
+  title: UPS to Raise Shipping Rates 5.9% Just Four Days Before Christmas
+- category: supply-chain
+  description: o9's Brent Hasenkamp explores what keeps AI from daily use and how
+    planning tools can help teams manage excess inventory and weigh tariff costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-supply-chain-planning-excess-inventory-tariffs
+  pub_date: '2026-10-27T13:54:00'
+  source: Supply Chain 24/7
+  title: Why Supply Chain Teams Need More Than AI to Make Better Decisions
+- category: supply-chain
+  description: A BSI and CIPS report finds widespread labor violations in food supply
+    chains and gaps in proving that companies' responses help workers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/food-drink-supply-chain-labor-violations-report
+  pub_date: '2026-10-27T13:43:00'
+  source: Supply Chain 24/7
+  title: 'Report: 97% of Food and Drink Firms Find Supply Chain Labor Violations'
+- category: supply-chain
+  description: Shein has agreed to a $100 million settlement of an FTC investigation
+    into delivery delays and other customer complaints, Reuters reported.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/shein-100-million-ftc-settlement-delivery-complaints
+  pub_date: '2026-10-27T13:20:00'
+  source: Supply Chain 24/7
+  title: Shein Agrees to $100 Million Settlement Over U.S. Delivery Complaints
+- category: supply-chain
+  description: Deposco found parcel rates fell 3.3% in Q3, but heavier packages and
+    faster services limited actual shipping cost savings to just 0.6%.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/parcel-rates-fall-shippers-see-little-savings-deposco
+  pub_date: '2026-10-27T13:13:00'
+  source: Supply Chain 24/7
+  title: Parcel Rates Dropped 3.3%. Why Did Shipping Costs Barely Budge?
+- category: supply-chain
+  description: U.S. online grocery sales climbed 20.7% in the third quarter, with
+    delivery driving most of the growth and spending share reaching a record.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/online-grocery-sales-q3-2026-delivery-growth
+  pub_date: '2026-10-27T11:30:00'
+  source: Supply Chain 24/7
+  title: 'Report: Online Grocery Takes Record 20.9% of U.S. Grocery Spending'
+- category: circular
   description: SEPA figures show Scotland's household recycling rate fell by 1.5 percentage
     points in 2025, while incineration increased and the amount sent to landfill continued
     to decline. Scotland's household rec...
@@ -27,6 +100,14 @@ articles:
   source: Circular Online
   title: Veolia wins CO₂ purification contract for Protos carbon capture project
 - category: supply-chain
+  description: The Transportation Department awarded $498 million to 35 port projects
+    across 19 states to upgrade docks, terminals, cargo equipment, and rail connections.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-port-projects-498-million-federal-funding
+  pub_date: '2026-10-27T07:51:00'
+  source: Supply Chain 24/7
+  title: DOT Awards $498 Million to Modernize 35 Port Projects in 19 States
+- category: supply-chain
   description: TRAFFIX forecasts trucking rates could rise 5% to 8% in 2027 as limited
     truck availability keeps prices up despite relatively flat freight demand.
   icon: fa-box
@@ -34,38 +115,6 @@ articles:
   pub_date: '2026-10-26T14:12:00'
   source: Supply Chain 24/7
   title: Trucking Rates Could Climb in 2027, Even Without More Freight to Move
-- category: supply-chain
-  description: Amazon is expanding smart delivery glasses that let drivers scan packages,
-    follow walking directions, and capture delivery photos hands-free.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-smart-delivery-glasses-driver-rollout
-  pub_date: '2026-10-26T13:38:00'
-  source: Supply Chain 24/7
-  title: Amazon Plans 20,000 Smart Glasses for Delivery Drivers by 2027
-- category: supply-chain
-  description: Cleo estimates that missed retail delivery requirements cost U.S. and
-    Canadian food and consumer goods manufacturers about $100 billion annually.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cleo-report-late-incomplete-deliveries-manufacturers-100-billion
-  pub_date: '2026-10-26T13:26:00'
-  source: Supply Chain 24/7
-  title: Late and Incomplete Deliveries Cost Manufacturers $100 Billion a Year
-- category: supply-chain
-  description: Overhaul's October report details more than $150 million in recorded
-    losses of AI equipment cargo and the methods used to commit shipment theft.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-hardware-cargo-theft-overhaul-report
-  pub_date: '2026-10-26T13:18:00'
-  source: Supply Chain 24/7
-  title: AI Equipment Thefts Rise 34% as Criminals Pursue More Valuable Loads
-- category: supply-chain
-  description: Audi plans to invest approximately $4 billion in its first U.S. factory
-    in Peach County, Georgia, creating about 4,500 jobs to build premium SUVs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/audi-georgia-factory-4-billion-4500-jobs
-  pub_date: '2026-10-26T12:59:00'
-  source: Supply Chain 24/7
-  title: Audi Plans $4 Billion Georgia Factory to Build SUVs, Add 4,500 Jobs
 - category: circular
   description: Acumen Waste Service Limited have started preparatory works to clear
     an illegal waste site in Bickershaw, Wigan. The post Work begins to clear illegal
@@ -75,30 +124,6 @@ articles:
   pub_date: '2026-10-26T10:50:27'
   source: Circular Online
   title: Work begins to clear illegal waste site on King’s land
-- category: supply-chain
-  description: Massachusetts lawmakers want a pause on drone delivery approvals as
-    Amazon plans up to 1,000 daily drone deliveries from its Westborough site.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/massachusetts-lawmakers-amazon-drone-delivery-freeze
-  pub_date: '2026-10-23T13:50:00'
-  source: Supply Chain 24/7
-  title: Massachusetts Wants to Hit Pause on Amazon’s Drone Delivery Plans
-- category: supply-chain
-  description: Fuel prices topped ATRI's 2026 trucking concerns ranking, followed
-    by lawsuit reform, carrier safety scores, insurance and driver shortages.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/top-10-trucking-industry-issues-2026
-  pub_date: '2026-10-23T12:13:00'
-  source: Supply Chain 24/7
-  title: The Top 10 Issues Facing the Trucking Industry in 2026
-- category: supply-chain
-  description: Blue Bird plans to invest approximately $300 million in a Fort Valley,
-    Georgia, school bus factory that will create 375 jobs over three years.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/blue-bird-georgia-school-bus-factory-300-million
-  pub_date: '2026-10-23T12:10:00'
-  source: Supply Chain 24/7
-  title: Blue Bird Plans $300 Million School Bus Factory in Fort Valley, Georgia
 - category: circular
   description: refurbed, the European marketplace for refurbished technology and household
     products, is launching across the UK in November. The post European Marketplace
@@ -108,14 +133,6 @@ articles:
   pub_date: '2026-10-23T09:57:36'
   source: Circular Online
   title: European Marketplace refurbed launches in UK following €3bn sales milestone
-- category: supply-chain
-  description: Explore how warehouse automation helps manage peak season labor shortages,
-    accelerate picking, shorten training, and scale fulfillment capacity with demand.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-can-warehouses-scale-operations-during-peak-season
-  pub_date: '2026-10-22T19:06:00'
-  source: Supply Chain 24/7
-  title: How Can Warehouses Scale Operations During Peak Season?
 - category: circular
   description: Market conditions in the UK waste wood sector remain challenging after
     'unprecedented' levels of disruption in 2025, the Wood Recyclers' Association
@@ -125,14 +142,6 @@ articles:
   pub_date: '2026-10-22T08:21:40'
   source: Circular Online
   title: UK waste wood market conditions remain challenging, says WRA
-- category: supply-chain
-  description: MISUMI Americas has launched a $2 million foundation to fund scholarships,
-    hands-on manufacturing education, and partnerships between schools and industry.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/misumi-foundation-manufacturing-training-scholarships
-  pub_date: '2026-10-22T06:00:00'
-  source: Supply Chain 24/7
-  title: MISUMI Launches $2 Million Foundation to Fund Manufacturing Training
 - category: circular
   description: The European Parliament has voted to change the rules on Extended Producer
     Responsibility (EPR) for small businesses. MEPs want to exempt small businesses
@@ -160,14 +169,4 @@ articles:
   pub_date: '2026-10-21T07:30:00'
   source: Circular Online
   title: Fragmented waste taxes distorting Europe’s circular economy, new report warns
-- category: circular
-  description: Plans to develop a new 'state-of-the-art' recycling operations depot
-    in Ystrad Mynach have taken a major step forward, with planning permission now
-    formally granted. The post Planning permission grant...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/planning-permission-granted-for-state-of-the-art-recycling-facility-in-wales/
-  pub_date: '2026-10-20T09:38:03'
-  source: Circular Online
-  title: ​Planning permission granted for ‘state-of-the-art’ recycling facility in
-    Wales
-last_updated: '2026-10-27T11:41:15.973870'
+last_updated: '2026-10-28T12:13:46.260697'

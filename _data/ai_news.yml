@@ -1,4 +1,49 @@
 articles:
+- category: machine-learning
+  description: Can a free, open-source AI humanizer beat paid tools? We tested a 12B
+    model locally and compared the results against AI detectors to see if the hype
+    is real.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally
+  pub_date: '2026-10-28T12:00:00'
+  source: KDnuggets
+  title: Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally
+- category: machine-learning
+  description: A local language model is one whose actual weights, the enormous file
+    of learned numbers that constitutes the trained model, you download and run entirely
+    on your own hardware.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks
+  pub_date: '2026-10-28T12:00:00'
+  source: KDnuggets
+  title: Which Local LMs are Best For Which Tasks
+- category: ai-research
+  description: Professor Paris Smaragdis develops computers with superhuman hearing
+    for applications like speech recognition, music understanding, and environmental
+    monitoring.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028
+  pub_date: '2026-10-28T04:00:00'
+  source: MIT AI News
+  title: Making machines that can listen
+- category: ai-research
+  description: Prabha Jha used her experience with MIT Open Learning's program for
+    senior executives to develop AI solutions for her employer, Verizon, and to write
+    a book.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027
+  pub_date: '2026-10-27T20:55:00'
+  source: MIT AI News
+  title: Learner collaborates with MIT peers to develop book of AI insights
+- category: machine-learning
+  description: Gemini Omni is a member of Google's Gemini generative model family,
+    built specifically to create output from any combination of input types, starting
+    with video.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares
+  pub_date: '2026-10-27T12:00:00'
+  source: KDnuggets
+  title: 'Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares'
 - category: ai-research
   description: A cross-section of the MIT community convened discussions on topics
     ranging from data centers and super pollutants to agriculture and education.
@@ -113,22 +158,6 @@ articles:
   pub_date: '2026-10-22T12:00:00'
   source: KDnuggets
   title: 'Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining'
-- category: machine-learning
-  description: Build standardized custom NER pipelines in a few simple steps, powered
-    by the reasoning capabilities of LLMs.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm
-  pub_date: '2026-10-21T14:00:00'
-  source: KDnuggets
-  title: Named Entity Recognition Using Scikit-LLM
-- category: machine-learning
-  description: Explore five popular AI agent skill collections that help coding agents
-    plan, test, debug, review, and build better software.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills
-  pub_date: '2026-10-21T12:00:00'
-  source: KDnuggets
-  title: 5 Best GitHub Repositories for AI Agent Skills
 - category: ai-research
   description: Cover image for the e-Conomy SEA 2026 report titled Building the intelligent
     economy by Google, Temasek, and Bain and Company. A 3D illustration features a
@@ -138,15 +167,6 @@ articles:
   pub_date: '2026-10-21T04:00:00'
   source: Google AI Blog
   title: Southeast Asia’s digital economy to hit $368 billion
-- category: machine-learning
-  description: A structured four-phase roadmap for building the technical fluency,
-    evaluation skills, and governance literacy needed to succeed as an AI product
-    manager in 2026.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026
-  pub_date: '2026-10-20T14:00:00'
-  source: KDnuggets
-  title: The Roadmap to Becoming an AI Product Manager in 2026
 - category: ai-research
   description: A model developed by researchers at MIT and Boston Children's Hospital
     adjusts scans on the fly to track fetal movement, potentially sparing families
@@ -172,24 +192,6 @@ articles:
   pub_date: '2026-10-16T16:00:00'
   source: MIT AI News
   title: Fostering community amid Kendall Square’s innovation
-- category: ai-research
-  description: MIT's Center for Transportation and Logistics finds sustainability
-    commitments are strong, but governance gaps and external disruptions prevent execution.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015
-  pub_date: '2026-10-15T21:00:00'
-  source: MIT AI News
-  title: State of Supply Chain Sustainability Report finds corporate commitment at
-    record high, but governance lags behind
-- category: ai-research
-  description: A new computational approach reveals how cells communicate to assemble
-    into tissues. This could accelerate stem cell engineering, improve disease models,
-    and inform therapies.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015
-  pub_date: '2026-10-15T20:50:00'
-  source: MIT AI News
-  title: AI model decodes the language cells use to communicate
 - category: ai-research
   description: TBD
   icon: fa-google
@@ -247,4 +249,4 @@ articles:
   pub_date: '2026-09-17T20:00:00'
   source: Google AI Blog
   title: Making global data easier to explore
-last_updated: '2026-10-27T11:41:17.074526'
+last_updated: '2026-10-28T12:13:46.990233'
