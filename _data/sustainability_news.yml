@@ -1,5 +1,63 @@
 articles:
 - category: circular
+  description: The Chancellor has announced he will fund the Landfill Tax liabilities
+    that arise from the clearance of illegal waste sites for Defra and local authorities.
+    The post Government announces landfill tax ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/government-announces-landfill-tax-rebate-scheme-for-defra-and-councils/
+  pub_date: '2026-10-29T09:41:43'
+  source: Circular Online
+  title: Government announces landfill tax rebate scheme for Defra and Councils
+- category: circular
+  description: A waste operator in Cheltenham must pay GBP47,000 in costs after dumping
+    illegal red diesel across its site. The post Waste operator must pay 47,000 after
+    dumping illegal red diesel appeared first on ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-operator-must-pay-47000-after-dumping-illegal-red-diesel/
+  pub_date: '2026-10-29T08:30:00'
+  source: Circular Online
+  title: Waste operator must pay 47,000 after dumping illegal red diesel
+- category: supply-chain
+  description: These 10 practical AI prompts can help supply chain teams compare bids,
+    review inventory, draft emails, and handle other routine work.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-to-use-ai-for-supply-chain-tasks
+  pub_date: '2026-10-28T14:31:00'
+  source: Supply Chain 24/7
+  title: 10 Routine Supply Chain Tasks You Should Use AI For
+- category: supply-chain
+  description: GM says its Lansing-area spending will top $2 billion as it prepares
+    to build hybrids at its Delta Township SUV plant in the years ahead.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gm-lansing-delta-township-hybrid-production
+  pub_date: '2026-10-28T14:07:00'
+  source: Supply Chain 24/7
+  title: GM Bets $2 Billion on Lansing, Gets Its SUV Plant Ready for Hybrids
+- category: supply-chain
+  description: Gartner found that 47% of surveyed supply chains cut staff primarily
+    due to AI, while 66% of leaders reported fewer entry-level employees.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-ai-supply-chain-headcount-entry-level-jobs
+  pub_date: '2026-10-28T13:17:00'
+  source: Supply Chain 24/7
+  title: 'Gartner: Nearly Half of Supply Chains Cut Staff Because of AI'
+- category: supply-chain
+  description: Krber is investing in NAiSE to expand software that coordinates robots
+    and manually operated vehicles across warehouses and factories.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/koerber-invests-naise-warehouse-robot-fleet-management
+  pub_date: '2026-10-28T12:52:00'
+  source: Supply Chain 24/7
+  title: Körber Buys Stake in NAiSE, Expanding Its Warehouse Software Lineup
+- category: supply-chain
+  description: Bracco will invest $230 million in a plant in Sanford, North Carolina,
+    to manufacture injectable contrast media and create 200 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bracco-230-million-north-carolina-contrast-media-plant
+  pub_date: '2026-10-28T12:50:00'
+  source: Supply Chain 24/7
+  title: Bracco Picks North Carolina for $230 Million Contrast Media Plant
+- category: circular
   description: SUEZ's Greater Manchester Renew Hub has now generated over GBP3 million
     in sales and prevented almost 600,000 items from going to waste since launching
     in 2021. The post Greater Manchester reuse proje...
@@ -8,22 +66,6 @@ articles:
   pub_date: '2026-10-28T10:32:18'
   source: Circular Online
   title: Greater Manchester reuse project hits £3m in sales
-- category: supply-chain
-  description: Krber is investing in NAiSE to expand software that coordinates robots
-    and manually operated vehicles across warehouses and factories.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/koerber-invests-naise-warehouse-robot-fleet-management
-  pub_date: '2026-10-28T07:14:00'
-  source: Supply Chain 24/7
-  title: Körber Buys Stake in NAiSE, Expanding Its Warehouse Software Lineup
-- category: supply-chain
-  description: These 10 practical AI prompts can help supply chain teams compare bids,
-    review inventory, draft emails, and handle other routine work.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-to-use-ai-for-supply-chain-tasks
-  pub_date: '2026-10-28T00:34:00'
-  source: Supply Chain 24/7
-  title: How to Use AI for 10 Everyday Supply Chain Tasks
 - category: supply-chain
   description: UPS will raise daily shipping rates an average of 5.9% on Dec. 21,
     alongside changes to weight minimums, shipping zones, and fees.
@@ -64,14 +106,6 @@ articles:
   pub_date: '2026-10-27T13:13:00'
   source: Supply Chain 24/7
   title: Parcel Rates Dropped 3.3%. Why Did Shipping Costs Barely Budge?
-- category: supply-chain
-  description: U.S. online grocery sales climbed 20.7% in the third quarter, with
-    delivery driving most of the growth and spending share reaching a record.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/online-grocery-sales-q3-2026-delivery-growth
-  pub_date: '2026-10-27T11:30:00'
-  source: Supply Chain 24/7
-  title: 'Report: Online Grocery Takes Record 20.9% of U.S. Grocery Spending'
 - category: circular
   description: SEPA figures show Scotland's household recycling rate fell by 1.5 percentage
     points in 2025, while incineration increased and the amount sent to landfill continued
@@ -99,22 +133,6 @@ articles:
   pub_date: '2026-10-27T09:32:01'
   source: Circular Online
   title: Veolia wins CO₂ purification contract for Protos carbon capture project
-- category: supply-chain
-  description: The Transportation Department awarded $498 million to 35 port projects
-    across 19 states to upgrade docks, terminals, cargo equipment, and rail connections.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-port-projects-498-million-federal-funding
-  pub_date: '2026-10-27T07:51:00'
-  source: Supply Chain 24/7
-  title: DOT Awards $498 Million to Modernize 35 Port Projects in 19 States
-- category: supply-chain
-  description: TRAFFIX forecasts trucking rates could rise 5% to 8% in 2027 as limited
-    truck availability keeps prices up despite relatively flat freight demand.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trucking-rates-2027-flat-freight-demand-traffix
-  pub_date: '2026-10-26T14:12:00'
-  source: Supply Chain 24/7
-  title: Trucking Rates Could Climb in 2027, Even Without More Freight to Move
 - category: circular
   description: Acumen Waste Service Limited have started preparatory works to clear
     an illegal waste site in Bickershaw, Wigan. The post Work begins to clear illegal
@@ -151,22 +169,4 @@ articles:
   pub_date: '2026-10-21T09:07:54'
   source: Circular Online
   title: MEPs back simplified EPR rules for small businesses
-- category: circular
-  description: enfinium announces new 10-year agreement to supply West Yorkshire Energy-from-Waste
-    facilities. The post enfinium announces 10-year supply agreement for Yorkshire
-    EfW facilities appeared first on Circ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/enfinium-announces-10-year-supply-agreement-for-yorkshire-efw-facilities/
-  pub_date: '2026-10-21T07:54:54'
-  source: Circular Online
-  title: enfinium announces 10-year supply agreement for Yorkshire EfW facilities
-- category: circular
-  description: Europe's fragmented waste taxes risk undermining efforts to reduce
-    landfill, strengthen recycling, and improve energy security, a new report warns.
-    The post Fragmented waste taxes distorting Europe's ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/fragmented-waste-taxes-distorting-europes-circular-economy-new-report-warns/
-  pub_date: '2026-10-21T07:30:00'
-  source: Circular Online
-  title: Fragmented waste taxes distorting Europe’s circular economy, new report warns
-last_updated: '2026-10-28T12:13:46.260697'
+last_updated: '2026-10-29T12:23:23.335519'
