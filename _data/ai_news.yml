@@ -1,5 +1,32 @@
 articles:
 - category: machine-learning
+  description: Learn which five Docker containers make a reliable home AI lab, from
+    Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does,
+    and the first mistake to avoid with each.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab
+  pub_date: '2026-10-29T12:00:00'
+  source: KDnuggets
+  title: 5 Docker Containers You Need for a Home AI Lab
+- category: ai-research
+  description: Professor Ali Jadbabaie describes how AI, digital transformation, climate
+    change, and complex geopolitics are forcing engineers and policymakers to rethink
+    how infrastructure is designed, built, and m...
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028
+  pub_date: '2026-10-28T16:00:00'
+  source: MIT AI News
+  title: '3 Questions: Why infrastructure is entering a defining era'
+- category: machine-learning
+  description: Learn how to get started with the OpenRouter API to call multiple AI
+    models through one API, compare responses, switch models, and set up automatic
+    fallbacks.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter
+  pub_date: '2026-10-28T14:00:00'
+  source: KDnuggets
+  title: Access Multiple AI Models in Your Python Apps Using OpenRouter
+- category: machine-learning
   description: Can a free, open-source AI humanizer beat paid tools? We tested a 12B
     model locally and compared the results against AI detectors to see if the hype
     is real.
@@ -141,23 +168,6 @@ articles:
   pub_date: '2026-10-22T20:45:00'
   source: MIT AI News
   title: This design software reimagines everyday objects as self-aware devices
-- category: machine-learning
-  description: I loaded a large JSON file in Python and watched memory jump from 43
-    MB to 808 MB. Here's what happened and how streaming changed everything.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson
-  pub_date: '2026-10-22T14:00:00'
-  source: KDnuggets
-  title: How to Process Large JSON Files in Python With ijson
-- category: machine-learning
-  description: Google's Harness lets AI agents improve their prompts, tools, memory,
-    and scripts through two recursive loops without touching model weights. Learn
-    more, including how to run the free demo yourself.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining
-  pub_date: '2026-10-22T12:00:00'
-  source: KDnuggets
-  title: 'Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining'
 - category: ai-research
   description: Cover image for the e-Conomy SEA 2026 report titled Building the intelligent
     economy by Google, Temasek, and Bain and Company. A 3D illustration features a
@@ -184,14 +194,6 @@ articles:
   pub_date: '2026-10-18T04:00:00'
   source: MIT AI News
   title: Giving AI a “crystal clear” view of the materials world
-- category: ai-research
-  description: The 18th annual Kendall Square Association Annual Meeting explored
-    how new technologies could be a force for shared prosperity in society.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016
-  pub_date: '2026-10-16T16:00:00'
-  source: MIT AI News
-  title: Fostering community amid Kendall Square’s innovation
 - category: ai-research
   description: TBD
   icon: fa-google
@@ -249,4 +251,4 @@ articles:
   pub_date: '2026-09-17T20:00:00'
   source: Google AI Blog
   title: Making global data easier to explore
-last_updated: '2026-10-28T12:13:46.990233'
+last_updated: '2026-10-29T12:23:24.340840'
