@@ -1,5 +1,63 @@
 articles:
 - category: circular
+  description: The developer received a 13-month prison sentence, suspended for two
+    years, and was ordered to clean up 25,000 tonnes of waste, including asbestos,
+    he dumped in Cornwall. The post Cornwall man given s...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/cornwall-man-given-suspended-sentence-after-dumping-asbestos/
+  pub_date: '2026-10-30T10:42:58'
+  source: Circular Online
+  title: Cornwall man given suspended sentence after dumping asbestos
+- category: supply-chain
+  description: DoorDash has agreed to acquire Instacart for about $17 billion, combining
+    grocery technology with its delivery and fulfillment business.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/doordash-instacart-acquisition-17-billion
+  pub_date: '2026-10-29T14:12:00'
+  source: Supply Chain 24/7
+  title: DoorDash to Buy Instacart for $17 Billion in Grocery Delivery Push
+- category: supply-chain
+  description: Project44's Jonathan Scherr shares lessons on showing up, owning problems,
+    and giving teams credit, drawn from a career across several industries.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-jonathan-scherr
+  pub_date: '2026-10-29T13:56:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Jonathan Scherr of project44'
+- category: supply-chain
+  description: Sphera has added AI tools to help companies identify which suppliers,
+    products and operations are at risk of disruption and prioritize their response
+    efforts.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/sphera-ai-supply-chain-risk-management-tools
+  pub_date: '2026-10-29T13:48:00'
+  source: Supply Chain 24/7
+  title: Sphera Launches New AI Tools to Speed Up Supply Chain Risk Decisions
+- category: supply-chain
+  description: Explore 50 lean warehouse productivity tips to reduce wasted motion,
+    improve picking accuracy, strengthen inventory control, and support safer operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-can-warehouses-improve-productivity-and-reduce-waste
+  pub_date: '2026-10-29T13:45:00'
+  source: Supply Chain 24/7
+  title: How Can Warehouses Improve Productivity and Reduce Waste?
+- category: supply-chain
+  description: Procurious research finds procurement teams face rising AI skills demands
+    while tight budgets and heavy workloads limit training.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/procurement-ai-skills-training-gap-2030
+  pub_date: '2026-10-29T13:41:00'
+  source: Supply Chain 24/7
+  title: Procurement Leaders See AI Skills as Essential, but Few Feel Ready
+- category: supply-chain
+  description: Blue Yonder's survey links AI-recommended purchases to product description
+    complaints and finds strong resistance to return fees and restrictions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/blue-yonder-ai-shopping-retail-returns-survey-2026
+  pub_date: '2026-10-29T13:23:00'
+  source: Supply Chain 24/7
+  title: Nearly Half of U.S. AI Shoppers Have Returned a Recommended Product
+- category: circular
   description: The Chancellor has announced he will fund the Landfill Tax liabilities
     that arise from the clearance of illegal waste sites for Defra and local authorities.
     The post Government announces landfill tax ...
@@ -49,14 +107,6 @@ articles:
   pub_date: '2026-10-28T12:52:00'
   source: Supply Chain 24/7
   title: Körber Buys Stake in NAiSE, Expanding Its Warehouse Software Lineup
-- category: supply-chain
-  description: Bracco will invest $230 million in a plant in Sanford, North Carolina,
-    to manufacture injectable contrast media and create 200 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/bracco-230-million-north-carolina-contrast-media-plant
-  pub_date: '2026-10-28T12:50:00'
-  source: Supply Chain 24/7
-  title: Bracco Picks North Carolina for $230 Million Contrast Media Plant
 - category: circular
   description: SUEZ's Greater Manchester Renew Hub has now generated over GBP3 million
     in sales and prevented almost 600,000 items from going to waste since launching
@@ -66,46 +116,6 @@ articles:
   pub_date: '2026-10-28T10:32:18'
   source: Circular Online
   title: Greater Manchester reuse project hits £3m in sales
-- category: supply-chain
-  description: UPS will raise daily shipping rates an average of 5.9% on Dec. 21,
-    alongside changes to weight minimums, shipping zones, and fees.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-shipping-rate-increase-december-2026
-  pub_date: '2026-10-27T14:53:00'
-  source: Supply Chain 24/7
-  title: UPS to Raise Shipping Rates 5.9% Just Four Days Before Christmas
-- category: supply-chain
-  description: o9's Brent Hasenkamp explores what keeps AI from daily use and how
-    planning tools can help teams manage excess inventory and weigh tariff costs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-supply-chain-planning-excess-inventory-tariffs
-  pub_date: '2026-10-27T13:54:00'
-  source: Supply Chain 24/7
-  title: Why Supply Chain Teams Need More Than AI to Make Better Decisions
-- category: supply-chain
-  description: A BSI and CIPS report finds widespread labor violations in food supply
-    chains and gaps in proving that companies' responses help workers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/food-drink-supply-chain-labor-violations-report
-  pub_date: '2026-10-27T13:43:00'
-  source: Supply Chain 24/7
-  title: 'Report: 97% of Food and Drink Firms Find Supply Chain Labor Violations'
-- category: supply-chain
-  description: Shein has agreed to a $100 million settlement of an FTC investigation
-    into delivery delays and other customer complaints, Reuters reported.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/shein-100-million-ftc-settlement-delivery-complaints
-  pub_date: '2026-10-27T13:20:00'
-  source: Supply Chain 24/7
-  title: Shein Agrees to $100 Million Settlement Over U.S. Delivery Complaints
-- category: supply-chain
-  description: Deposco found parcel rates fell 3.3% in Q3, but heavier packages and
-    faster services limited actual shipping cost savings to just 0.6%.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/parcel-rates-fall-shippers-see-little-savings-deposco
-  pub_date: '2026-10-27T13:13:00'
-  source: Supply Chain 24/7
-  title: Parcel Rates Dropped 3.3%. Why Did Shipping Costs Barely Budge?
 - category: circular
   description: SEPA figures show Scotland's household recycling rate fell by 1.5 percentage
     points in 2025, while incineration increased and the amount sent to landfill continued
@@ -160,13 +170,4 @@ articles:
   pub_date: '2026-10-22T08:21:40'
   source: Circular Online
   title: UK waste wood market conditions remain challenging, says WRA
-- category: circular
-  description: The European Parliament has voted to change the rules on Extended Producer
-    Responsibility (EPR) for small businesses. MEPs want to exempt small businesses
-    from the requirement to appoint representativ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/meps-back-simplified-epr-rules-for-small-businesses/
-  pub_date: '2026-10-21T09:07:54'
-  source: Circular Online
-  title: MEPs back simplified EPR rules for small businesses
-last_updated: '2026-10-29T12:23:23.335519'
+last_updated: '2026-10-30T12:14:26.389744'
