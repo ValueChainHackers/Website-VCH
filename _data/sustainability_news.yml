@@ -1,4 +1,36 @@
 articles:
+- category: supply-chain
+  description: Amazon, Uber, and Instacart sued to block NYC rules governing delivery
+    worker removals, including reviews of past deactivations.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-uber-instacart-nyc-delivery-worker-law-lawsuit
+  pub_date: '2026-10-30T14:04:00'
+  source: Supply Chain 24/7
+  title: Amazon, Uber, and Instacart Sue NYC Over Delivery Worker Protections
+- category: supply-chain
+  description: Matching equipment to the job and cutting idle time can help fleets
+    control costs, reduce emissions, and prepare for fuel supply disruptions.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/how-fleets-cut-costs-emissions-improve-reliability
+  pub_date: '2026-10-30T13:47:00'
+  source: Supply Chain 24/7
+  title: How Fleets Can Cut Costs and Keep Trucks on the Road
+- category: supply-chain
+  description: Honeywell Aerospace will invest $500 million in a 300,000-square-foot
+    plant in Tempe, Ariz., set to open in late 2028 and add about 600 jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/honeywell-aerospace-500-million-tempe-manufacturing-facility
+  pub_date: '2026-10-30T13:24:00'
+  source: Supply Chain 24/7
+  title: Honeywell Aerospace Plans $500 Million Factory on Its Tempe Campus
+- category: supply-chain
+  description: Walmart commits about $6 billion to expand its Symbotic agreement,
+    including added automation at 25 U.S. distribution centers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-symbotic-6-billion-warehouse-automation
+  pub_date: '2026-10-30T13:20:00'
+  source: Supply Chain 24/7
+  title: Walmart Taps Symbotic for More Automation at 25 U.S. Warehouse Sites
 - category: circular
   description: The developer received a 13-month prison sentence, suspended for two
     years, and was ordered to clean up 25,000 tonnes of waste, including asbestos,
@@ -75,38 +107,6 @@ articles:
   pub_date: '2026-10-29T08:30:00'
   source: Circular Online
   title: Waste operator must pay 47,000 after dumping illegal red diesel
-- category: supply-chain
-  description: These 10 practical AI prompts can help supply chain teams compare bids,
-    review inventory, draft emails, and handle other routine work.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-to-use-ai-for-supply-chain-tasks
-  pub_date: '2026-10-28T14:31:00'
-  source: Supply Chain 24/7
-  title: 10 Routine Supply Chain Tasks You Should Use AI For
-- category: supply-chain
-  description: GM says its Lansing-area spending will top $2 billion as it prepares
-    to build hybrids at its Delta Township SUV plant in the years ahead.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gm-lansing-delta-township-hybrid-production
-  pub_date: '2026-10-28T14:07:00'
-  source: Supply Chain 24/7
-  title: GM Bets $2 Billion on Lansing, Gets Its SUV Plant Ready for Hybrids
-- category: supply-chain
-  description: Gartner found that 47% of surveyed supply chains cut staff primarily
-    due to AI, while 66% of leaders reported fewer entry-level employees.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-ai-supply-chain-headcount-entry-level-jobs
-  pub_date: '2026-10-28T13:17:00'
-  source: Supply Chain 24/7
-  title: 'Gartner: Nearly Half of Supply Chains Cut Staff Because of AI'
-- category: supply-chain
-  description: Krber is investing in NAiSE to expand software that coordinates robots
-    and manually operated vehicles across warehouses and factories.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/koerber-invests-naise-warehouse-robot-fleet-management
-  pub_date: '2026-10-28T12:52:00'
-  source: Supply Chain 24/7
-  title: Körber Buys Stake in NAiSE, Expanding Its Warehouse Software Lineup
 - category: circular
   description: SUEZ's Greater Manchester Renew Hub has now generated over GBP3 million
     in sales and prevented almost 600,000 items from going to waste since launching
@@ -170,4 +170,4 @@ articles:
   pub_date: '2026-10-22T08:21:40'
   source: Circular Online
   title: UK waste wood market conditions remain challenging, says WRA
-last_updated: '2026-10-30T12:14:26.389744'
+last_updated: '2026-10-31T11:46:11.456458'
