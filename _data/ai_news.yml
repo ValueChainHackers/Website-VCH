@@ -1,5 +1,55 @@
 articles:
 - category: ai-research
+  description: Five MIT faculty members and two additional alumni are honored with
+    fellowships to advance research on beneficial AI.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030
+  pub_date: '2026-10-30T20:15:00'
+  source: MIT AI News
+  title: MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows
+- category: ai-research
+  description: MIT professors Adam Berinsky and Chara Podimata discuss a new project
+    to track how AI chatbots are responding to questions about the 2026 U.S. midterm
+    elections.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030
+  pub_date: '2026-10-30T19:00:00'
+  source: MIT AI News
+  title: 'Q&A: Hey AI, who should I vote for this year?'
+- category: machine-learning
+  description: Vibe coding is a workflow where you describe what you want in natural
+    language and let an AI agent handle code generation, execution, and iteration
+    rather than typing every line yourself.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant
+  pub_date: '2026-10-30T14:00:00'
+  source: KDnuggets
+  title: 'Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant'
+- category: machine-learning
+  description: 4 bugs that pass every null check, duplicate check, and schema test.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline
+  pub_date: '2026-10-30T12:00:00'
+  source: KDnuggets
+  title: Silent Data Errors That Survive Every Cleaning Pipeline
+- category: machine-learning
+  description: Which AI skills appear most often in job postings right now, and what
+    do they mean for your career?
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now
+  pub_date: '2026-10-29T14:00:00'
+  source: KDnuggets
+  title: The AI Skills That Actually Show Up in Job Postings Right Now
+- category: machine-learning
+  description: Learn which five Docker containers make a reliable home AI lab, from
+    Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does,
+    and the first mistake to avoid with each.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab
+  pub_date: '2026-10-29T12:00:00'
+  source: KDnuggets
+  title: 5 Docker Containers You Need for a Home AI Lab
+- category: ai-research
   description: Professor Ali Jadbabaie describes how AI, digital transformation, climate
     change, and complex geopolitics are forcing engineers and policymakers to rethink
     how infrastructure is designed, built, and m...
@@ -8,6 +58,33 @@ articles:
   pub_date: '2026-10-28T16:00:00'
   source: MIT AI News
   title: '3 Questions: Why infrastructure is entering a defining era'
+- category: machine-learning
+  description: Learn how to get started with the OpenRouter API to call multiple AI
+    models through one API, compare responses, switch models, and set up automatic
+    fallbacks.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter
+  pub_date: '2026-10-28T14:00:00'
+  source: KDnuggets
+  title: How to Access Multiple AI Models in Your Python Apps Using OpenRouter
+- category: machine-learning
+  description: Can a free, open-source AI humanizer beat paid tools? We tested a 12B
+    model locally and compared the results against AI detectors to see if the hype
+    is real.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally
+  pub_date: '2026-10-28T12:00:00'
+  source: KDnuggets
+  title: Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally
+- category: machine-learning
+  description: A local language model is one whose actual weights, the enormous file
+    of learned numbers that constitutes the trained model, you download and run entirely
+    on your own hardware.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks
+  pub_date: '2026-10-28T12:00:00'
+  source: KDnuggets
+  title: Which Local LMs are Best For Which Tasks
 - category: ai-research
   description: Professor Paris Smaragdis develops computers with superhuman hearing
     for applications like speech recognition, music understanding, and environmental
@@ -26,6 +103,15 @@ articles:
   pub_date: '2026-10-27T20:55:00'
   source: MIT AI News
   title: Learner collaborates with MIT peers to develop book of AI insights
+- category: machine-learning
+  description: Gemini Omni is a member of Google's Gemini generative model family,
+    built specifically to create output from any combination of input types, starting
+    with video.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares
+  pub_date: '2026-10-27T12:00:00'
+  source: KDnuggets
+  title: 'Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares'
 - category: ai-research
   description: A cross-section of the MIT community convened discussions on topics
     ranging from data centers and super pollutants to agriculture and education.
@@ -42,6 +128,24 @@ articles:
   pub_date: '2026-10-26T16:00:00'
   source: Google AI Blog
   title: 'Our newest AI Quest: Mapping the human brain'
+- category: machine-learning
+  description: A four-stage technical roadmap for becoming a computer vision engineer,
+    from spatial mathematics and ViTs through 3D neural rendering and edge deployment
+    optimization.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026
+  pub_date: '2026-10-26T14:00:00'
+  source: KDnuggets
+  title: The Roadmap to Becoming a Computer Vision Engineer in 2026
+- category: machine-learning
+  description: Build your first AI agent in Python with the OpenAI Agents SDK, adding
+    web search, Python tools, conversation memory, and tracing in a simple end-to-end
+    workflow.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk
+  pub_date: '2026-10-26T14:00:00'
+  source: KDnuggets
+  title: Building Your First AI Agent in Python with the OpenAI Agents SDK
 - category: ai-research
   description: In Compton Lecture, the distinguished legal scholar warns of potential
     "loss of the Enlightenment" while suggesting ways innovations can meet our civic
@@ -88,23 +192,6 @@ articles:
   pub_date: '2026-10-21T04:00:00'
   source: Google AI Blog
   title: Southeast Asia’s digital economy to hit $368 billion
-- category: ai-research
-  description: A model developed by researchers at MIT and Boston Children's Hospital
-    adjusts scans on the fly to track fetal movement, potentially sparing families
-    repeat hospital visits.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019
-  pub_date: '2026-10-19T18:20:00'
-  source: MIT AI News
-  title: Why teaching AI about symmetry could make prenatal diagnosis more reliable
-- category: ai-research
-  description: New research can help AI models understand crystalline materials in
-    3D and reason about their properties.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018
-  pub_date: '2026-10-18T04:00:00'
-  source: MIT AI News
-  title: Giving AI a “crystal clear” view of the materials world
 - category: ai-research
   description: TBD
   icon: fa-google
@@ -162,4 +249,4 @@ articles:
   pub_date: '2026-09-17T20:00:00'
   source: Google AI Blog
   title: Making global data easier to explore
-last_updated: '2026-10-30T12:14:27.641097'
+last_updated: '2026-10-31T11:46:12.843573'
