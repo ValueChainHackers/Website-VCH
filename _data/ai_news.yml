@@ -1,4 +1,12 @@
 articles:
+- category: machine-learning
+  description: A data-backed guide to the credentials that actually move the needle
+    for data scientists and machine learning practitioners.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-ai-certifications-worth-paying-for-in-2026-and-which-to-skip
+  pub_date: '2026-11-02T13:00:00'
+  source: KDnuggets
+  title: 5 AI Certifications Worth Paying For in 2026 (And Which to Skip)
 - category: ai-research
   description: Five MIT faculty members and two additional alumni are honored with
     fellowships to advance research on beneficial AI.
@@ -137,15 +145,6 @@ articles:
   pub_date: '2026-10-26T14:00:00'
   source: KDnuggets
   title: The Roadmap to Becoming a Computer Vision Engineer in 2026
-- category: machine-learning
-  description: Build your first AI agent in Python with the OpenAI Agents SDK, adding
-    web search, Python tools, conversation memory, and tracing in a simple end-to-end
-    workflow.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk
-  pub_date: '2026-10-26T14:00:00'
-  source: KDnuggets
-  title: Building Your First AI Agent in Python with the OpenAI Agents SDK
 - category: ai-research
   description: In Compton Lecture, the distinguished legal scholar warns of potential
     "loss of the Enlightenment" while suggesting ways innovations can meet our civic
@@ -249,4 +248,4 @@ articles:
   pub_date: '2026-09-17T20:00:00'
   source: Google AI Blog
   title: Making global data easier to explore
-last_updated: '2026-11-01T12:45:36.395494'
+last_updated: '2026-11-02T14:54:35.803126'
