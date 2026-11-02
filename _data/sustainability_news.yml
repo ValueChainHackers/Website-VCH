@@ -1,4 +1,31 @@
 articles:
+- category: circular
+  description: The Environmental Services Association has urged the Home Secretary
+    to ban the retail sale of nitrous oxide canisters. The post Ban nitrous oxide
+    canisters completely, ESA tells government appeared fi...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ban-nitrous-oxide-cannisters-completely-esa-tells-government/
+  pub_date: '2026-11-02T11:58:34'
+  source: Circular Online
+  title: Ban nitrous oxide canisters completely, ESA tells government
+- category: circular
+  description: The UK could generate GBP93 billion in Gross Value Added (GVA) by taking
+    steps towards a circular economy, new WRAP report finds. The post Circular economy
+    could generate over GBP93bn in UK, WRAP repo...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/circular-economy-could-generate-over-93bn-in-uk-wrap-report-says/
+  pub_date: '2026-11-02T09:12:26'
+  source: Circular Online
+  title: Circular economy could generate over £93bn in UK, WRAP report says
+- category: circular
+  description: 'News updates written by CIWM''s commercial partners. Fleetclear Waste
+    company evolves smarter, safer service with Fleetclear Greyparrot Closing the
+    17-point aerosol recovery gap: Unlocking high-value m...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-november/
+  pub_date: '2026-11-02T08:30:00'
+  source: Circular Online
+  title: News in Brief | Commercial Partner News November
 - category: supply-chain
   description: Amazon, Uber, and Instacart sued to block NYC rules governing delivery
     worker removals, including reviews of past deactivations.
@@ -143,31 +170,4 @@ articles:
   pub_date: '2026-10-27T09:32:01'
   source: Circular Online
   title: Veolia wins CO₂ purification contract for Protos carbon capture project
-- category: circular
-  description: Acumen Waste Service Limited have started preparatory works to clear
-    an illegal waste site in Bickershaw, Wigan. The post Work begins to clear illegal
-    waste site on King's land appeared first on Circu...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/work-begins-to-clear-illegal-waste-site-on-kings-land/
-  pub_date: '2026-10-26T10:50:27'
-  source: Circular Online
-  title: Work begins to clear illegal waste site on King’s land
-- category: circular
-  description: refurbed, the European marketplace for refurbished technology and household
-    products, is launching across the UK in November. The post European Marketplace
-    refurbed launches in UK following 3bn sales ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/european-marketplace-refurbed-launches-in-uk-following-e3bn-sales-milestone/
-  pub_date: '2026-10-23T09:57:36'
-  source: Circular Online
-  title: European Marketplace refurbed launches in UK following €3bn sales milestone
-- category: circular
-  description: Market conditions in the UK waste wood sector remain challenging after
-    'unprecedented' levels of disruption in 2025, the Wood Recyclers' Association
-    (WRA) has warned. The post UK waste wood market con...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-waste-wood-market-conditions-remain-challenging-says-wra/
-  pub_date: '2026-10-22T08:21:40'
-  source: Circular Online
-  title: UK waste wood market conditions remain challenging, says WRA
-last_updated: '2026-11-01T12:45:35.528243'
+last_updated: '2026-11-02T14:54:34.715680'
