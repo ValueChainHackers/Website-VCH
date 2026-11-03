@@ -1,5 +1,39 @@
 articles:
 - category: machine-learning
+  description: Compare LLM inference frameworks for production serving, request batching,
+    KV cache management, and efficient deployment.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026
+  pub_date: '2026-11-03T13:00:00'
+  source: KDnuggets
+  title: 8 LLM Inference Frameworks You Should Try in 2026
+- category: ai-research
+  description: From a nuclear revival to qubits, the MIT Energy Initiative's annual
+    research conference tracked deployment of today's technologies to discovery of
+    tomorrow's breakthroughs.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102
+  pub_date: '2026-11-02T19:55:00'
+  source: MIT AI News
+  title: Powering up for a pivotal moment
+- category: ai-research
+  description: Animated carousel of images from AI posts in October
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/
+  pub_date: '2026-11-02T17:45:00'
+  source: Google AI Blog
+  title: The latest AI news we announced in October 2026
+- category: machine-learning
+  description: Cohere caught Alibaba's Qwen model unexpectedly attempting to upload
+    a test payload to Alibaba Cloud storage during a cybersecurity task, but the sandbox
+    blocked the request, leaving questions about w...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals
+  pub_date: '2026-11-02T17:00:00'
+  source: KDnuggets
+  title: 'Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study
+    Reveals'
+- category: machine-learning
   description: A data-backed guide to the credentials that actually move the needle
     for data scientists and machine learning practitioners.
   icon: fa-chart-bar
@@ -7,6 +41,16 @@ articles:
   pub_date: '2026-11-02T13:00:00'
   source: KDnuggets
   title: 5 AI Certifications Worth Paying For in 2026 (And Which to Skip)
+- category: ai-research
+  description: The MIT professors collaborated to identify the first AI-discovered
+    antibiotic, a scientific breakthrough that is widely recognized as a milestone
+    in AI-driven drug discovery.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102
+  pub_date: '2026-11-02T05:35:00'
+  source: MIT AI News
+  title: Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research
+    Excellence for work in AI-enabled antibiotic discovery
 - category: ai-research
   description: Five MIT faculty members and two additional alumni are honored with
     fellowships to advance research on beneficial AI.
@@ -111,15 +155,6 @@ articles:
   pub_date: '2026-10-27T20:55:00'
   source: MIT AI News
   title: Learner collaborates with MIT peers to develop book of AI insights
-- category: machine-learning
-  description: Gemini Omni is a member of Google's Gemini generative model family,
-    built specifically to create output from any combination of input types, starting
-    with video.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares
-  pub_date: '2026-10-27T12:00:00'
-  source: KDnuggets
-  title: 'Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares'
 - category: ai-research
   description: A cross-section of the MIT community convened discussions on topics
     ranging from data centers and super pollutants to agriculture and education.
@@ -136,15 +171,6 @@ articles:
   pub_date: '2026-10-26T16:00:00'
   source: Google AI Blog
   title: 'Our newest AI Quest: Mapping the human brain'
-- category: machine-learning
-  description: A four-stage technical roadmap for becoming a computer vision engineer,
-    from spatial mathematics and ViTs through 3D neural rendering and edge deployment
-    optimization.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026
-  pub_date: '2026-10-26T14:00:00'
-  source: KDnuggets
-  title: The Roadmap to Becoming a Computer Vision Engineer in 2026
 - category: ai-research
   description: In Compton Lecture, the distinguished legal scholar warns of potential
     "loss of the Enlightenment" while suggesting ways innovations can meet our civic
@@ -164,24 +190,6 @@ articles:
   pub_date: '2026-10-23T19:35:00'
   source: MIT AI News
   title: Reinforcing the value of human understanding at MIT
-- category: ai-research
-  description: Assistant Professor Benjamin Lindquist studies how engineers deliberately
-    injected randomness into early AI, giving rise to deep-learning models that sometimes
-    hallucinate.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023
-  pub_date: '2026-10-23T04:00:00'
-  source: MIT AI News
-  title: 'Q&A: How AI came to model the “messy” human mind'
-- category: ai-research
-  description: '"X-Hinges" helps design and 3D print items like lamps and gloves with
-    an interactive twist: automatically embedded sensors that perceive and adaptively
-    respond to human contact.'
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022
-  pub_date: '2026-10-22T20:45:00'
-  source: MIT AI News
-  title: This design software reimagines everyday objects as self-aware devices
 - category: ai-research
   description: Cover image for the e-Conomy SEA 2026 report titled Building the intelligent
     economy by Google, Temasek, and Bain and Company. A 3D illustration features a
@@ -241,11 +249,4 @@ articles:
   pub_date: '2026-09-18T13:00:00'
   source: Google AI Blog
   title: Co-creating the future of fashion with Google
-- category: ai-research
-  description: UN System Data Commons Data webpage
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/
-  pub_date: '2026-09-17T20:00:00'
-  source: Google AI Blog
-  title: Making global data easier to explore
-last_updated: '2026-11-02T14:54:35.803126'
+last_updated: '2026-11-03T13:43:45.189035'
