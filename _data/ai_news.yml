@@ -1,5 +1,32 @@
 articles:
 - category: machine-learning
+  description: 'Build a local multi-agent travel planner with Hermes Agent and Ollama:
+    a coordinator and three specialist agents that research destinations, suggest
+    stays, and generate real Google Flights search link...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models
+  pub_date: '2026-11-05T13:00:00'
+  source: KDnuggets
+  title: What I Did with Hermes Agent, Ollama & Local Models
+- category: ai-research
+  description: A new system identifies and corrects unreliable object descriptions
+    stored in a robot's memory, improving the robot's ability to interact with its
+    environment.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105
+  pub_date: '2026-11-05T05:00:00'
+  source: MIT AI News
+  title: Clearing up a robot’s fuzzy memory
+- category: machine-learning
+  description: A round-by-round breakdown of how the hiring process has shifted, from
+    AI-assisted coding rounds to GenAI evaluation questions, and what you need to
+    do differently to be ready.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare
+  pub_date: '2026-11-04T15:00:00'
+  source: KDnuggets
+  title: 'The Data Science Interview in 2026: What’s Changed and How to Prepare'
+- category: machine-learning
   description: Meet seven open specialist models under 10 billion parameters that
     rival much bigger systems at one job each, from transcription and OCR to routing
     and speech.
@@ -119,15 +146,6 @@ articles:
   pub_date: '2026-10-29T14:00:00'
   source: KDnuggets
   title: The AI Skills That Actually Show Up in Job Postings Right Now
-- category: machine-learning
-  description: Learn which five Docker containers make a reliable home AI lab, from
-    Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does,
-    and the first mistake to avoid with each.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab
-  pub_date: '2026-10-29T12:00:00'
-  source: KDnuggets
-  title: 5 Docker Containers You Need for a Home AI Lab
 - category: ai-research
   description: Professor Ali Jadbabaie describes how AI, digital transformation, climate
     change, and complex geopolitics are forcing engineers and policymakers to rethink
@@ -137,15 +155,6 @@ articles:
   pub_date: '2026-10-28T16:00:00'
   source: MIT AI News
   title: '3 Questions: Why infrastructure is entering a defining era'
-- category: machine-learning
-  description: Learn how to get started with the OpenRouter API to call multiple AI
-    models through one API, compare responses, switch models, and set up automatic
-    fallbacks.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter
-  pub_date: '2026-10-28T14:00:00'
-  source: KDnuggets
-  title: How to Access Multiple AI Models in Your Python Apps Using OpenRouter
 - category: ai-research
   description: Professor Paris Smaragdis develops computers with superhuman hearing
     for applications like speech recognition, music understanding, and environmental
@@ -180,16 +189,6 @@ articles:
   pub_date: '2026-10-26T16:00:00'
   source: Google AI Blog
   title: 'Our newest AI Quest: Mapping the human brain'
-- category: ai-research
-  description: In Compton Lecture, the distinguished legal scholar warns of potential
-    "loss of the Enlightenment" while suggesting ways innovations can meet our civic
-    and cultural needs.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023
-  pub_date: '2026-10-23T21:00:00'
-  source: MIT AI News
-  title: At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming
-    AI
 - category: ai-research
   description: Cover image for the e-Conomy SEA 2026 report titled Building the intelligent
     economy by Google, Temasek, and Bain and Company. A 3D illustration features a
@@ -249,4 +248,4 @@ articles:
   pub_date: '2026-09-18T13:00:00'
   source: Google AI Blog
   title: Co-creating the future of fashion with Google
-last_updated: '2026-11-04T13:51:45.307475'
+last_updated: '2026-11-05T14:05:30.601572'
