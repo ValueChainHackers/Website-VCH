@@ -1,5 +1,79 @@
 articles:
 - category: circular
+  description: New research from ReBound finds half of retailers write off, destroy
+    or discard between 6% and 40% of returned items. The post Half of retailers write
+    off up to 40% of returned stock appeared first on...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/half-of-retailers-write-off-up-to-40-of-returned-stock/
+  pub_date: '2026-11-05T09:47:53'
+  source: Circular Online
+  title: Half of retailers write off up to 40% of returned stock
+- category: circular
+  description: Ministers, police, Mayors and local authorities to target organised
+    waste crime as part of new Waste Crime Crackdown Group. The post Environment Secretary
+    forms new Waste Crime Crackdown Group appeare...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/environment-secretary-forms-new-waste-crime-crackdown-group/
+  pub_date: '2026-11-05T08:47:55'
+  source: Circular Online
+  title: Environment Secretary forms new Waste Crime Crackdown Group
+- category: supply-chain
+  description: Amazon says that no third parties will ever process or review images
+    from the glasses, which are optional for all drivers.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/last-mile-delivery/article/16424315/amazon-to-equip-5k-delivery-drivers-with-smart-glasses
+  pub_date: '2026-11-05T08:00:00'
+  source: SupplyChainBrain
+  title: Amazon to Equip 5K Delivery Drivers With Smart Glasses
+- category: supply-chain
+  description: 'One change that would benefit the global supply chain, if the incoming
+    Democrats put their shoulder to the wheel: the war in Iran...'
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/article/16424361/us-midterm-rout-unlikely-to-change-trumps-trade-policy
+  pub_date: '2026-11-05T05:00:00'
+  source: SupplyChainBrain
+  title: U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy
+- category: supply-chain
+  description: CVS Health CEO David Joyner acknowledged that political and regulatory
+    pressure factored into the decision to separate the company's...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/article/16424300/cvs-to-split-up-pharmacy-and-health-benefits-businesses
+  pub_date: '2026-11-04T19:18:16'
+  source: SupplyChainBrain
+  title: CVS To Split Up Pharmacy and Health Benefits Businesses
+- category: supply-chain
+  description: The explosion sent a large plume of black smoke into the air, with
+    the county issuing a shelter-in-place order for those in the...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/chemicals-energy/article/16424282/crews-respond-to-explosion-at-mississippi-chemical-plant
+  pub_date: '2026-11-04T18:30:49'
+  source: SupplyChainBrain
+  title: Crews Respond to Explosion at Mississippi Chemical Plant
+- category: supply-chain
+  description: MMH's 2026 salary survey found that average materials handling pay
+    fell to $99,550 as fewer respondents received raises and expected bonuses shrank.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/materials-handling-salary-survey-2026
+  pub_date: '2026-11-04T16:44:00'
+  source: Supply Chain 24/7
+  title: '2026 Salary Survey: Average Materials Handling Pay Dips Under $100K'
+- category: supply-chain
+  description: A 16-month bridge closure starting Nov. 7 will reroute container trucks
+    serving Los Angeles and Long Beach while cargo terminals stay open.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/vincent-thomas-bridge-closure-los-angeles-port-truck-detours
+  pub_date: '2026-11-04T16:23:00'
+  source: Supply Chain 24/7
+  title: Los Angeles Port Trucks Face 16-Month Detour as Bridge Shuts Down
+- category: supply-chain
+  description: FedEx has added five weekly Asia-U.S. freighter flights and a Dallas-Fort
+    Worth connection ahead of the year-end shipping rush.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fedex-asia-us-cargo-flights-peak-season
+  pub_date: '2026-11-04T13:41:00'
+  source: Supply Chain 24/7
+  title: FedEx Adds Five Weekly Asia-U.S. Cargo Flights Before Peak Season
+- category: circular
   description: Battery fires cost the EU's waste sector over GBP2.6 billion in damages
     last year, new figures show. The post Battery fires cost the European waste sector
     over 2.6bn a year appeared first on Circular ...
@@ -8,6 +82,14 @@ articles:
   pub_date: '2026-11-04T10:44:26'
   source: Circular Online
   title: Battery fires cost the European waste sector over €2.6bn a year
+- category: supply-chain
+  description: FourKites and Chorus launched a service that tracks retail promotional
+    displays and helps brands recover missing or stalled displays during a campaign.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/fourkites-chorus-retail-promotional-display-tracking
+  pub_date: '2026-11-04T09:50:00'
+  source: Supply Chain 24/7
+  title: New FourKites and Chorus Service Helps Reroute Misdelivered Displays
 - category: circular
   description: People are more willing to pay for sustainable products if they perceive
     them as enjoyable and appealing, a new study finds. The post Enjoyment makes people
@@ -66,14 +148,6 @@ articles:
   pub_date: '2026-11-03T20:29:25'
   source: SupplyChainBrain
   title: Panama Canal Water Levels Rebound Following Rainy October
-- category: supply-chain
-  description: Apple's new CEO predicted that memory costs in Q4 2026 would be even
-    higher than in the previous three months.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/high-tech-electronics/article/16424166/apple-warns-of-everhigher-prices-for-memory-chips
-  pub_date: '2026-11-03T20:22:22'
-  source: SupplyChainBrain
-  title: Apple Warns of Ever-Higher Prices for Memory Chips
 - category: supply-chain
   description: A GS1 US study finds supply chain automation and AI adoption are outpacing
     the data systems companies need to put those tools to wider use.
@@ -142,30 +216,6 @@ articles:
   source: Circular Online
   title: Suspended prison sentence for rogue skip hire operator
 - category: supply-chain
-  description: 'In the years ahead, every supply chain leader will be faced with the
-    question: Will you innovate? Or will you be innovated?'
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/global-supply-chain-management/article/16020553/supply-chain-innovation-2026-a-mandate-for-creativity-and-change
-  pub_date: '2026-11-03T08:00:00'
-  source: SupplyChainBrain
-  title: 'Supply Chain Innovation 2026: A Mandate for Creativity and Change'
-- category: supply-chain
-  description: The company will use the investment to increase its production capacity
-    for a range of missile platforms and defense systems.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/global-supply-chain-management/article/16319712/lockheed-martin-to-spend-420m-on-growing-production-in-arkansas
-  pub_date: '2026-11-03T05:00:00'
-  source: SupplyChainBrain
-  title: Lockheed Martin to Spend $420M on Growing Production in Arkansas
-- category: supply-chain
-  description: Over more than 1,700 inspections, authorities identified 330 unqualified
-    or unauthorized drivers, as well as 74 immigration violations...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/ltl-truckload-services/article/16319711/arkansas-pulls-393-truckers-out-of-service-in-two-day-enforcement-operation
-  pub_date: '2026-11-03T05:00:00'
-  source: SupplyChainBrain
-  title: Arkansas Pulls 393 Truckers Out of Service in Two-Day Enforcement Operation
-- category: supply-chain
   description: I-94 topped Trucker Path's ranking of 19 U.S. trucking corridors, which
     compared parking availability, truck stop ratings, and fuel prices.
   icon: fa-box
@@ -173,38 +223,6 @@ articles:
   pub_date: '2026-11-03T01:59:00'
   source: Supply Chain 24/7
   title: 'Ranking the Top 10 U.S. Trucking Corridors: I-94 Takes First'
-- category: supply-chain
-  description: Carolyn Marvin, 78, was arrested in Philadelphia for blocking a delivery
-    robot and says she plans to continue her sidewalk protests.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/78-year-old-philadelphia-woman-arrested-for-blocking-delivery-robot
-  pub_date: '2026-11-02T14:47:00'
-  source: Supply Chain 24/7
-  title: 78-Year-Old Philadelphia Woman Arrested for Blocking Delivery Robot
-- category: supply-chain
-  description: Dematic's Adam Brown discusses how simulation, flexible automation,
-    and inventory planning can help warehouses prepare for disruption.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-disruption-planning-adam-brown-dematic
-  pub_date: '2026-11-02T14:33:00'
-  source: Supply Chain 24/7
-  title: How to Prepare Your Warehouse for Disruptions You Can’t Predict
-- category: supply-chain
-  description: One in four supply chain leaders regret their warehouse automation
-    choice, while 94% say switching providers would be prohibitively expensive.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-automation-regret-exotec-report
-  pub_date: '2026-11-02T14:31:00'
-  source: Supply Chain 24/7
-  title: 'Report: One in Four Leaders Regret Their Warehouse Automation Choice'
-- category: supply-chain
-  description: U.S. Steel broke ground on a $1.9 billion Arkansas iron plant that
-    will supply Big River 2 and create about 200 full-time jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-steel-arkansas-iron-plant-19-billion-big-river
-  pub_date: '2026-11-02T14:19:00'
-  source: Supply Chain 24/7
-  title: U.S. Steel Breaks Ground on $1.9 Billion Iron Plant in Osceola, Arkansas
 - category: circular
   description: The Environmental Services Association has urged the Home Secretary
     to ban the retail sale of nitrous oxide canisters. The post Ban nitrous oxide
@@ -232,22 +250,4 @@ articles:
   pub_date: '2026-11-02T08:30:00'
   source: Circular Online
   title: News in Brief | Commercial Partner News November
-- category: circular
-  description: The developer received a 13-month prison sentence, suspended for two
-    years, and was ordered to clean up 25,000 tonnes of waste, including asbestos,
-    he dumped in Cornwall. The post Cornwall man given s...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/cornwall-man-given-suspended-sentence-after-dumping-asbestos/
-  pub_date: '2026-10-30T10:42:58'
-  source: Circular Online
-  title: Cornwall man given suspended sentence after dumping asbestos
-- category: circular
-  description: The Chancellor has announced he will fund the Landfill Tax liabilities
-    that arise from the clearance of illegal waste sites for Defra and local authorities.
-    The post Government announces landfill tax ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/government-announces-landfill-tax-rebate-scheme-for-defra-and-councils/
-  pub_date: '2026-10-29T09:41:43'
-  source: Circular Online
-  title: Government announces landfill tax rebate scheme for Defra and Councils
-last_updated: '2026-11-04T13:51:44.604233'
+last_updated: '2026-11-05T14:05:29.466521'
