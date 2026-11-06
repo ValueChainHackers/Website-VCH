@@ -1,4 +1,109 @@
 articles:
+- category: supply-chain
+  description: Parliament's investigation identified significant bottlenecks in the
+    processing stage for seven categories of minerals.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/supply-chains-in-crisis/article/16424459/mps-sound-alarm-over-uks-reliance-on-china-for-critical-minerals
+  pub_date: '2026-11-06T08:00:00'
+  source: SupplyChainBrain
+  title: MPs Sound Alarm Over U.K.’s Reliance on China for Critical Minerals
+- category: supply-chain
+  description: The company is hoping to increase its manufacturing capacity for the
+    components that support its chips by 2.5 times over the next...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/global-supply-chain-management/article/16424438/nvidia-to-work-with-supply-chain-partners-to-boost-production
+  pub_date: '2026-11-06T08:00:00'
+  source: SupplyChainBrain
+  title: NVIDIA to Work With Supply Chain Partners to Boost Production
+- category: supply-chain
+  description: 'null'
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/podcasts/article/16424232/podcast-how-physical-ai-is-transforming-human-roles-in-the-warehouse
+  pub_date: '2026-11-06T08:00:00'
+  source: SupplyChainBrain
+  title: Podcast | How Physical AI Is Transforming Human Roles in the Warehouse
+- category: supply-chain
+  description: 'As shippers and LSPs continue to adopt AI, they should not overlook
+    the digital foundation: connected data, real-time visibility...'
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/transportation-distribution/blog/15883218/building-the-foundation-for-ai-adoption-in-transportation
+  pub_date: '2026-11-06T08:00:00'
+  source: SupplyChainBrain
+  title: Building the Foundation for AI Adoption in Transportation
+- category: supply-chain
+  description: The White House wants to enable at least 1,000 launches and re-entries
+    annually by 2030, up from 178 launches last year.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/aerospace-defense/article/16424458/us-proposes-space-launch-rule-changes-in-potential-boost-for-spacex
+  pub_date: '2026-11-05T20:02:04'
+  source: SupplyChainBrain
+  title: U.S. Proposes Space Launch Rule Changes in Potential Boost for SpaceX
+- category: supply-chain
+  description: The strike deadline for about 250 watchmen at Los Angeles and Long
+    Beach has moved to Friday night, with federal mediation set to continue.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/los-angeles-long-beach-port-strike-deadline-moves-to-friday-night
+  pub_date: '2026-11-05T19:28:00'
+  source: Supply Chain 24/7
+  title: Los Angeles, Long Beach Port Strike Deadline Moves to Friday Night
+- category: supply-chain
+  description: Negotiations are expected to continue with the help of federal mediators,
+    with hopes of reaching a long-term deal.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16424433/la-long-beach-port-watchmen-agree-to-push-strike-deadline-another-day
+  pub_date: '2026-11-05T18:54:21'
+  source: SupplyChainBrain
+  title: LA, Long Beach Port Watchmen Agree to Push Strike Deadline Another Day
+- category: supply-chain
+  description: John Deere plans two manufacturing closures in Iowa and production
+    moves across U.S. factories, with sugar cane harvester production shifting to
+    Brazil.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/john-deere-iowa-plant-closures-production-moves-brazil
+  pub_date: '2026-11-05T17:23:00'
+  source: Supply Chain 24/7
+  title: John Deere Plans Two Iowa Plant Closures and Moves Work to Brazil
+- category: supply-chain
+  description: At the heart of the matter is how the U.K. balances left-leaning policies
+    to reduce greenhouse gases, while also seeking independence...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/home/top-stories/article/16424400/uk-bans-further-oil-gas-drilling-in-north-sea
+  pub_date: '2026-11-05T15:26:00'
+  source: SupplyChainBrain
+  title: U.K. Bans Further Oil & Gas Drilling in North Sea
+- category: supply-chain
+  description: Walmart plans 300 new Zipline drone delivery sites as the company raises
+    $1.5 billion to expand U.S. manufacturing, hiring, and service.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/walmart-zipline-300-drone-delivery-sites-funding
+  pub_date: '2026-11-05T14:55:00'
+  source: Supply Chain 24/7
+  title: Walmart Plans 300 New Drone Delivery Sites With Zipline
+- category: supply-chain
+  description: Packsize and Swisslog are partnering to build on-demand box making
+    into automated warehouse systems so workers can pick directly into shipping cartons.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/packsize-swisslog-warehouse-packaging-partnership
+  pub_date: '2026-11-05T14:06:00'
+  source: Supply Chain 24/7
+  title: Packsize and Swisslog Team Up to Build Box-Making Into Warehouses
+- category: supply-chain
+  description: Gartner says limited power supply could delay supply chain expansion
+    and increase costs by 20% to 30% without advanced energy management.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/gartner-power-shortages-supply-chain-growth
+  pub_date: '2026-11-05T14:04:00'
+  source: Supply Chain 24/7
+  title: Power Shortages Could Slow Growth at Factories and Warehouses
+- category: supply-chain
+  description: Freeport approved a $4.5B expansion of its Bagdad mine in Arizona to
+    increase U.S. copper and molybdenum production, with initial output targeted for
+    mid-2030.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/freeport-bagdad-arizona-copper-mine-expansion
+  pub_date: '2026-11-05T13:57:00'
+  source: Supply Chain 24/7
+  title: Freeport Approves $4.5 Billion Copper Mine Expansion in Arizona
 - category: circular
   description: New research from ReBound finds half of retailers write off, destroy
     or discard between 6% and 40% of returned items. The post Half of retailers write
@@ -32,7 +137,7 @@ articles:
   link: https://www.supplychainbrain.com/general-scm/regulation-compliance/article/16424361/us-midterm-rout-unlikely-to-change-trumps-trade-policy
   pub_date: '2026-11-05T05:00:00'
   source: SupplyChainBrain
-  title: U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy
+  title: U.S. Midterm Rout Unlikely to Change Trump’s Trade Policy
 - category: supply-chain
   description: CVS Health CEO David Joyner acknowledged that political and regulatory
     pressure factored into the decision to separate the company's...
@@ -41,14 +146,6 @@ articles:
   pub_date: '2026-11-04T19:18:16'
   source: SupplyChainBrain
   title: CVS To Split Up Pharmacy and Health Benefits Businesses
-- category: supply-chain
-  description: The explosion sent a large plume of black smoke into the air, with
-    the county issuing a shelter-in-place order for those in the...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/chemicals-energy/article/16424282/crews-respond-to-explosion-at-mississippi-chemical-plant
-  pub_date: '2026-11-04T18:30:49'
-  source: SupplyChainBrain
-  title: Crews Respond to Explosion at Mississippi Chemical Plant
 - category: supply-chain
   description: MMH's 2026 salary survey found that average materials handling pay
     fell to $99,550 as fewer respondents received raises and expected bonuses shrank.
@@ -99,87 +196,6 @@ articles:
   pub_date: '2026-11-04T08:39:31'
   source: Circular Online
   title: Enjoyment makes people more willing to pay for sustainability
-- category: supply-chain
-  description: The union warns that a strike would impact hundreds of deliveries for
-    local restaurants, hospitals and schools across the region...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16424165/us-foods-delivery-drivers-in-new-york-authorize-strike
-  pub_date: '2026-11-04T08:00:00'
-  source: SupplyChainBrain
-  title: US Foods Delivery Drivers in New York Authorize Strike
-- category: supply-chain
-  description: 'Start by asking your team one question: When the forecast changes,
-    how long until the production schedule does?'
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/artificial-intelligence/blog/16170249/the-forecast-was-right-the-decision-was-nine-days-late
-  pub_date: '2026-11-04T08:00:00'
-  source: SupplyChainBrain
-  title: The Forecast Was Right. The Decision Was Nine Days Late.
-- category: supply-chain
-  description: Supply chain leaders who start by looking at how their own events become
-    invoices will likely find the answer to a cash flow problem...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/logistics-outsourcing/blog/15883210/the-cash-flow-fix-hiding-in-your-operations-data
-  pub_date: '2026-11-04T08:00:00'
-  source: SupplyChainBrain
-  title: The Cash Flow Fix Hiding in Your Operations Data
-- category: supply-chain
-  description: But most say their teams are not ready, and over half lack a structured,
-    future-focused training plan.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/home/top-stories/article/16424190/procurement-leaders-say-ai-and-digital-fluency-will-be-most-needed-skill-in-2030
-  pub_date: '2026-11-04T05:00:00'
-  source: SupplyChainBrain
-  title: Procurement Leaders Say AI and Digital Fluency Will Be Most Needed Skill
-    in 2030
-- category: supply-chain
-  description: If approved, the agreement would represent the most significant reset
-    of post-Brexit policies to date.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/home/top-stories/article/16424173/eu-uk-reach-draft-deal-to-cut-red-tape-for-food-exports
-  pub_date: '2026-11-03T20:35:10'
-  source: SupplyChainBrain
-  title: EU, U.K. Reach Draft Deal to Cut Red Tape for Food Exports
-- category: supply-chain
-  description: According to data from the Panama Canal Authority (ACP), water levels
-    at Gatun Lake - which serves as the canal's main reservoir...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/home/top-stories/article/16424171/panama-canal-water-levels-rebound-following-rainy-october
-  pub_date: '2026-11-03T20:29:25'
-  source: SupplyChainBrain
-  title: Panama Canal Water Levels Rebound Following Rainy October
-- category: supply-chain
-  description: A GS1 US study finds supply chain automation and AI adoption are outpacing
-    the data systems companies need to put those tools to wider use.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gs1-study-supply-chain-ai-automation-data-readiness-gap
-  pub_date: '2026-11-03T15:57:00'
-  source: Supply Chain 24/7
-  title: AI and Automation Move Ahead While Supply Chain Data Falls Behind
-- category: supply-chain
-  description: Ryder acquired Efficiency Enterprises, adding six East Coast locations,
-    about 50 technicians, and roughly 1,200 fleet units.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ryder-acquires-efficiency-enterprises-east-coast
-  pub_date: '2026-11-03T14:10:00'
-  source: Supply Chain 24/7
-  title: Ryder Buys Efficiency Enterprises, Adding Six East Coast Locations
-- category: supply-chain
-  description: U.S. manufacturing grew for a 10th straight month in October, but high
-    prices and slow supplier deliveries made it harder to fill orders.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/u.s-manufacturing-grows-for-10th-month-but-high-prices-persist
-  pub_date: '2026-11-03T14:06:00'
-  source: Supply Chain 24/7
-  title: U.S. Manufacturing Grows for 10th Month, but High Prices Persist
-- category: supply-chain
-  description: Amazon opened a 1-million-square-foot distribution center in Kelso,
-    Washington, that will create more than 1,500 jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-kelso-washington-distribution-center-1500-jobs
-  pub_date: '2026-11-03T13:58:00'
-  source: Supply Chain 24/7
-  title: Amazon Opens New Distribution Center in Kelso, Washington
 - category: circular
   description: Waste management company Biffa has agreed a deal to acquire Enva's
     general recycling businesses in Scotland and England. Enva's general recycling
@@ -189,14 +205,6 @@ articles:
   pub_date: '2026-11-03T13:49:30'
   source: Circular Online
   title: Biffa to acquire Enva’s general recycling businesses
-- category: supply-chain
-  description: Lockheed Martin plans a $420 million expansion in Camden, Arkansas,
-    to increase missile production capacity and add 650 jobs over five years.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/lockheed-martin-camden-arkansas-missile-manufacturing-expansion
-  pub_date: '2026-11-03T11:12:00'
-  source: Supply Chain 24/7
-  title: Lockheed Martin Plans $420 Million Expansion in Camden, Arkansas
 - category: circular
   description: The Waste Crime and Circular Economy Minister Emma Hardy MP will deliver
     a keynote address at the ISWA World Congress 2026 in London next week. The post
@@ -215,14 +223,6 @@ articles:
   pub_date: '2026-11-03T08:35:48'
   source: Circular Online
   title: Suspended prison sentence for rogue skip hire operator
-- category: supply-chain
-  description: I-94 topped Trucker Path's ranking of 19 U.S. trucking corridors, which
-    compared parking availability, truck stop ratings, and fuel prices.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/trucker-path-best-us-trucking-corridors-2026
-  pub_date: '2026-11-03T01:59:00'
-  source: Supply Chain 24/7
-  title: 'Ranking the Top 10 U.S. Trucking Corridors: I-94 Takes First'
 - category: circular
   description: The Environmental Services Association has urged the Home Secretary
     to ban the retail sale of nitrous oxide canisters. The post Ban nitrous oxide
@@ -250,4 +250,4 @@ articles:
   pub_date: '2026-11-02T08:30:00'
   source: Circular Online
   title: News in Brief | Commercial Partner News November
-last_updated: '2026-11-05T14:05:29.466521'
+last_updated: '2026-11-06T13:49:20.502190'
