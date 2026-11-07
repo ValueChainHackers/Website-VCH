@@ -1,5 +1,61 @@
 articles:
 - category: supply-chain
+  description: Congestion, fuel prices, equipment availability, and local transportation
+    conditions continue to affect the movement of goods...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/home/top-stories/article/16424535/maersk-market-update-shows-uneven-conditions
+  pub_date: '2026-11-06T19:00:00'
+  source: SupplyChainBrain
+  title: Maersk Market Update Shows “Uneven” Conditions
+- category: supply-chain
+  description: The impact of the new pledges may be limited, as they cover only sites
+    that OpenAI actually owns, which are relatively few.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/home/top-stories/article/16424520/openai-promises-greater-transparency-community-engagement-on-data-centers
+  pub_date: '2026-11-06T15:57:27'
+  source: SupplyChainBrain
+  title: OpenAI Promises Greater Transparency, Community Engagement on Data Centers
+- category: supply-chain
+  description: Three major packaging suppliers disclosed grand jury subpoenas this
+    week as federal investigators examine the price of paper used to make boxes.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/federal-probe-shipping-box-paper-prices
+  pub_date: '2026-11-06T14:56:00'
+  source: Supply Chain 24/7
+  title: Justice Department Probes Pricing of Paper Used in Shipping Boxes
+- category: supply-chain
+  description: MMH's 2026 salary survey found 91% of respondents like their jobs and
+    88% report at least some stress, with workload the top source of stress.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/materials-handling-job-satisfaction-and-stress
+  pub_date: '2026-11-06T14:55:00'
+  source: Supply Chain 24/7
+  title: Materials Handling Workers Like Their Jobs. They’re Also Stressed.
+- category: supply-chain
+  description: The strike deadline for about 250 watchmen at Los Angeles and Long
+    Beach has moved to Friday night, with federal mediation set to continue.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/los-angeles-long-beach-port-strike-deadline-moves-to-friday-night
+  pub_date: '2026-11-06T14:15:00'
+  source: Supply Chain 24/7
+  title: Los Angeles, Long Beach Port Strike Deadline Is Tonight
+- category: supply-chain
+  description: Agility Robotics began trading on Nasdaq after raising about $465 million
+    to build more Digit robots and put them to work at more customer sites.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/agility-robotics-debuts-on-nasdaq-after-raising-about-465-million
+  pub_date: '2026-11-06T14:12:00'
+  source: Supply Chain 24/7
+  title: Agility Robotics Debuts on Nasdaq After Raising About $465 Million
+- category: supply-chain
+  description: China blocked SoftBank's purchase of ABB's local robotics business,
+    putting the $5.4 billion deal for the global robotics division in doubt.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/china-blocks-softbank-abb-robotics-deal
+  pub_date: '2026-11-06T14:10:00'
+  source: Supply Chain 24/7
+  title: China Puts SoftBank’s $5.4 Billion ABB Robotics Deal in Doubt
+- category: supply-chain
   description: Parliament's investigation identified significant bottlenecks in the
     processing stage for seven categories of minerals.
   icon: fa-truck
@@ -18,7 +74,7 @@ articles:
 - category: supply-chain
   description: 'null'
   icon: fa-truck
-  link: https://www.supplychainbrain.com/podcasts/article/16424232/podcast-how-physical-ai-is-transforming-human-roles-in-the-warehouse
+  link: https://www.supplychainbrain.com/the-supplychainbrain-podcasts/article/16424232/podcast-how-physical-ai-is-transforming-human-roles-in-the-warehouse
   pub_date: '2026-11-06T08:00:00'
   source: SupplyChainBrain
   title: Podcast | How Physical AI Is Transforming Human Roles in the Warehouse
@@ -38,14 +94,6 @@ articles:
   pub_date: '2026-11-05T20:02:04'
   source: SupplyChainBrain
   title: U.S. Proposes Space Launch Rule Changes in Potential Boost for SpaceX
-- category: supply-chain
-  description: The strike deadline for about 250 watchmen at Los Angeles and Long
-    Beach has moved to Friday night, with federal mediation set to continue.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/los-angeles-long-beach-port-strike-deadline-moves-to-friday-night
-  pub_date: '2026-11-05T19:28:00'
-  source: Supply Chain 24/7
-  title: Los Angeles, Long Beach Port Strike Deadline Moves to Friday Night
 - category: supply-chain
   description: Negotiations are expected to continue with the help of federal mediators,
     with hopes of reaching a long-term deal.
@@ -130,46 +178,6 @@ articles:
   pub_date: '2026-11-05T08:00:00'
   source: SupplyChainBrain
   title: Amazon to Equip 5K Delivery Drivers With Smart Glasses
-- category: supply-chain
-  description: 'One change that would benefit the global supply chain, if the incoming
-    Democrats put their shoulder to the wheel: the war in Iran...'
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/article/16424361/us-midterm-rout-unlikely-to-change-trumps-trade-policy
-  pub_date: '2026-11-05T05:00:00'
-  source: SupplyChainBrain
-  title: U.S. Midterm Rout Unlikely to Change Trump’s Trade Policy
-- category: supply-chain
-  description: CVS Health CEO David Joyner acknowledged that political and regulatory
-    pressure factored into the decision to separate the company's...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/article/16424300/cvs-to-split-up-pharmacy-and-health-benefits-businesses
-  pub_date: '2026-11-04T19:18:16'
-  source: SupplyChainBrain
-  title: CVS To Split Up Pharmacy and Health Benefits Businesses
-- category: supply-chain
-  description: MMH's 2026 salary survey found that average materials handling pay
-    fell to $99,550 as fewer respondents received raises and expected bonuses shrank.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/materials-handling-salary-survey-2026
-  pub_date: '2026-11-04T16:44:00'
-  source: Supply Chain 24/7
-  title: '2026 Salary Survey: Average Materials Handling Pay Dips Under $100K'
-- category: supply-chain
-  description: A 16-month bridge closure starting Nov. 7 will reroute container trucks
-    serving Los Angeles and Long Beach while cargo terminals stay open.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/vincent-thomas-bridge-closure-los-angeles-port-truck-detours
-  pub_date: '2026-11-04T16:23:00'
-  source: Supply Chain 24/7
-  title: Los Angeles Port Trucks Face 16-Month Detour as Bridge Shuts Down
-- category: supply-chain
-  description: FedEx has added five weekly Asia-U.S. freighter flights and a Dallas-Fort
-    Worth connection ahead of the year-end shipping rush.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fedex-asia-us-cargo-flights-peak-season
-  pub_date: '2026-11-04T13:41:00'
-  source: Supply Chain 24/7
-  title: FedEx Adds Five Weekly Asia-U.S. Cargo Flights Before Peak Season
 - category: circular
   description: Battery fires cost the EU's waste sector over GBP2.6 billion in damages
     last year, new figures show. The post Battery fires cost the European waste sector
@@ -179,14 +187,6 @@ articles:
   pub_date: '2026-11-04T10:44:26'
   source: Circular Online
   title: Battery fires cost the European waste sector over €2.6bn a year
-- category: supply-chain
-  description: FourKites and Chorus launched a service that tracks retail promotional
-    displays and helps brands recover missing or stalled displays during a campaign.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/fourkites-chorus-retail-promotional-display-tracking
-  pub_date: '2026-11-04T09:50:00'
-  source: Supply Chain 24/7
-  title: New FourKites and Chorus Service Helps Reroute Misdelivered Displays
 - category: circular
   description: People are more willing to pay for sustainable products if they perceive
     them as enjoyable and appealing, a new study finds. The post Enjoyment makes people
@@ -250,4 +250,4 @@ articles:
   pub_date: '2026-11-02T08:30:00'
   source: Circular Online
   title: News in Brief | Commercial Partner News November
-last_updated: '2026-11-06T13:49:20.502190'
+last_updated: '2026-11-07T12:32:51.800651'

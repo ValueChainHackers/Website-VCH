@@ -1,5 +1,40 @@
 articles:
 - category: ai-research
+  description: A machine-learning approach called CheMeleon provides a practical way
+    to develop new drugs or other molecules with much less detailed, expensive experimentation.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106
+  pub_date: '2026-11-06T19:00:00'
+  source: MIT AI News
+  title: How to predict the behavior of molecules from scant data
+- category: machine-learning
+  description: Get unlimited free access to 365 Data Science's complete AI and data
+    learning platform, including 134 courses, hands-on projects, and certifications,
+    through November 20.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/10/365careers/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20
+  pub_date: '2026-11-06T18:00:34'
+  source: KDnuggets
+  title: 'Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until
+    Nov 20'
+- category: machine-learning
+  description: Learn how to give AI agents long-term memory using the OpenAI Agents
+    SDK, Mem0, and MCP to remember preferences, context, and important information
+    across sessions.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-give-your-ai-agent-memory
+  pub_date: '2026-11-06T15:00:00'
+  source: KDnuggets
+  title: How to Give Your AI Agent Memory
+- category: machine-learning
+  description: Working with time series data? These Python libraries cover everything
+    from classical forecasting to deep learning and anomaly detection.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-7-python-libraries-for-time-series-analysis-and-modeling
+  pub_date: '2026-11-06T13:00:00'
+  source: KDnuggets
+  title: Top 7 Python Libraries for Time Series Analysis and Modeling
+- category: ai-research
   description: Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images
     of a beehive, animals in conversation, a squid, and a woman walking down a street
   icon: fa-google
@@ -7,6 +42,23 @@ articles:
   pub_date: '2026-11-05T17:00:00'
   source: Google AI Blog
   title: 'Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips'
+- category: machine-learning
+  description: Scrape thousands of pages in a few minutes with the Olostep Batch API,
+    download Markdown, and measure what actually finished.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep
+  pub_date: '2026-11-05T15:00:01'
+  source: KDnuggets
+  title: Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep
+- category: machine-learning
+  description: 'Build a local multi-agent travel planner with Hermes Agent and Ollama:
+    a coordinator and three specialist agents that research destinations, suggest
+    stays, and generate real Google Flights search link...'
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models
+  pub_date: '2026-11-05T13:00:00'
+  source: KDnuggets
+  title: What I Did with Hermes Agent, Ollama & Local Models
 - category: ai-research
   description: A new system identifies and corrects unreliable object descriptions
     stored in a robot's memory, improving the robot's ability to interact with its
@@ -16,6 +68,24 @@ articles:
   pub_date: '2026-11-05T05:00:00'
   source: MIT AI News
   title: Clearing up a robot’s fuzzy memory
+- category: machine-learning
+  description: A round-by-round breakdown of how the hiring process has shifted, from
+    AI-assisted coding rounds to GenAI evaluation questions, and what you need to
+    do differently to be ready.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare
+  pub_date: '2026-11-04T15:00:00'
+  source: KDnuggets
+  title: 'The Data Science Interview in 2026: What’s Changed and How to Prepare'
+- category: machine-learning
+  description: Meet seven open specialist models under 10 billion parameters that
+    rival much bigger systems at one job each, from transcription and OCR to routing
+    and speech.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job
+  pub_date: '2026-11-04T13:00:00'
+  source: KDnuggets
+  title: 7 Small Specialist Models That Beat Giant LLMs at One Job
 - category: ai-research
   description: MIT.nano and the Northeast Microelectronics Coalition gathered facility
     leaders and technology professionals from across the nation to explore ways to
@@ -25,6 +95,23 @@ articles:
   pub_date: '2026-11-03T19:30:00'
   source: MIT AI News
   title: Building connections across the research infrastructure
+- category: machine-learning
+  description: Learn how to build an architecture that blends Scikit-LLM estimators
+    for text summarization with traditional scikit-learn methods into a single, unified
+    pipeline for summarizing and classifying raw, m...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm
+  pub_date: '2026-11-03T15:00:00'
+  source: KDnuggets
+  title: Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM
+- category: machine-learning
+  description: Compare LLM inference frameworks for production serving, request batching,
+    KV cache management, and efficient deployment.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026
+  pub_date: '2026-11-03T13:00:00'
+  source: KDnuggets
+  title: 8 LLM Inference Frameworks You Should Try in 2026
 - category: ai-research
   description: From a nuclear revival to qubits, the MIT Energy Initiative's annual
     research conference tracked deployment of today's technologies to discovery of
@@ -41,6 +128,16 @@ articles:
   pub_date: '2026-11-02T17:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in October 2026
+- category: machine-learning
+  description: Cohere caught Alibaba's Qwen model unexpectedly attempting to upload
+    a test payload to Alibaba Cloud storage during a cybersecurity task, but the sandbox
+    blocked the request, leaving questions about w...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals
+  pub_date: '2026-11-02T17:00:00'
+  source: KDnuggets
+  title: 'Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study
+    Reveals'
 - category: ai-research
   description: The MIT professors collaborated to identify the first AI-discovered
     antibiotic, a scientific breakthrough that is widely recognized as a milestone
@@ -95,14 +192,6 @@ articles:
   pub_date: '2026-10-27T20:55:00'
   source: MIT AI News
   title: Learner collaborates with MIT peers to develop book of AI insights
-- category: ai-research
-  description: A cross-section of the MIT community convened discussions on topics
-    ranging from data centers and super pollutants to agriculture and education.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026
-  pub_date: '2026-10-26T19:00:00'
-  source: MIT AI News
-  title: At New York Climate Week 2026, MIT connects with a global network
 - category: ai-research
   description: An illustration of a planet rotating to show various cartoon figures
     waving. At the top is the text "AI Quests"
@@ -163,4 +252,4 @@ articles:
   pub_date: '2026-09-18T14:00:00'
   source: Google AI Blog
   title: New experts join Google’s AI & Economy team
-last_updated: '2026-11-06T13:49:21.429865'
+last_updated: '2026-11-07T12:32:52.247409'
