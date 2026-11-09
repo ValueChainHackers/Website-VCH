@@ -1,4 +1,36 @@
 articles:
+- category: machine-learning
+  description: 4 classic leaks, planted in real data, tested cold on 4 models.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy
+  pub_date: '2026-11-09T15:00:00'
+  source: KDnuggets
+  title: Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?
+- category: machine-learning
+  description: Learn how to use Python scripts to automate repetitive tasks, organize
+    files, process images, and simplify daily workflows.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners
+  pub_date: '2026-11-09T13:00:00'
+  source: KDnuggets
+  title: 5 Useful Python Automation Scripts for Beginners
+- category: ai-research
+  description: By learning how matter moves, the WorldParticle system could assist
+    with developing soft robots, medicines, and more.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109
+  pub_date: '2026-11-09T05:00:00'
+  source: MIT AI News
+  title: A single AI model simulates the behavior of many substances, from sliding
+    sand to folding proteins
+- category: ai-research
+  description: The new approach, known as FLEX, could lead to more intuitive, interactive
+    household and assistive robots.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109
+  pub_date: '2026-11-09T05:00:00'
+  source: MIT AI News
+  title: AI-assisted learning platform helps robots reason beyond literal commands
 - category: ai-research
   description: A machine-learning approach called CheMeleon provides a practical way
     to develop new drugs or other molecules with much less detailed, expensive experimentation.
@@ -104,14 +136,6 @@ articles:
   pub_date: '2026-11-03T15:00:00'
   source: KDnuggets
   title: Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM
-- category: machine-learning
-  description: Compare LLM inference frameworks for production serving, request batching,
-    KV cache management, and efficient deployment.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026
-  pub_date: '2026-11-03T13:00:00'
-  source: KDnuggets
-  title: 8 LLM Inference Frameworks You Should Try in 2026
 - category: ai-research
   description: From a nuclear revival to qubits, the MIT Energy Initiative's annual
     research conference tracked deployment of today's technologies to discovery of
@@ -128,16 +152,6 @@ articles:
   pub_date: '2026-11-02T17:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in October 2026
-- category: machine-learning
-  description: Cohere caught Alibaba's Qwen model unexpectedly attempting to upload
-    a test payload to Alibaba Cloud storage during a cybersecurity task, but the sandbox
-    blocked the request, leaving questions about w...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals
-  pub_date: '2026-11-02T17:00:00'
-  source: KDnuggets
-  title: 'Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study
-    Reveals'
 - category: ai-research
   description: The MIT professors collaborated to identify the first AI-discovered
     antibiotic, a scientific breakthrough that is widely recognized as a milestone
@@ -174,24 +188,6 @@ articles:
   pub_date: '2026-10-28T16:00:00'
   source: MIT AI News
   title: '3 Questions: Why infrastructure is entering a defining era'
-- category: ai-research
-  description: Professor Paris Smaragdis develops computers with superhuman hearing
-    for applications like speech recognition, music understanding, and environmental
-    monitoring.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028
-  pub_date: '2026-10-28T04:00:00'
-  source: MIT AI News
-  title: Making machines that can listen
-- category: ai-research
-  description: Prabha Jha used her experience with MIT Open Learning's program for
-    senior executives to develop AI solutions for her employer, Verizon, and to write
-    a book.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027
-  pub_date: '2026-10-27T20:55:00'
-  source: MIT AI News
-  title: Learner collaborates with MIT peers to develop book of AI insights
 - category: ai-research
   description: An illustration of a planet rotating to show various cartoon figures
     waving. At the top is the text "AI Quests"
@@ -252,4 +248,4 @@ articles:
   pub_date: '2026-09-18T14:00:00'
   source: Google AI Blog
   title: New experts join Google’s AI & Economy team
-last_updated: '2026-11-08T12:51:04.611442'
+last_updated: '2026-11-09T15:22:38.489002'

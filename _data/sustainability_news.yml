@@ -1,5 +1,56 @@
 articles:
 - category: supply-chain
+  description: This is the second time in less than a month that an Aramco skyscraper
+    has been damaged by a missile or drone attack from the...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/home/top-stories/article/16424898/houthis-hit-aramco-tower-in-riyadh
+  pub_date: '2026-11-09T14:55:46'
+  source: SupplyChainBrain
+  title: Houthis Hit Aramco Tower in Riyadh
+- category: circular
+  description: 'Former European Environment Commissioner tells ISWA World Congress
+    that recycling alone cannot deliver resource security and urges a wider approach
+    to circularity. The post ISWA: Potonik calls for mat...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/iswa-potocnik-calls-for-material-footprint-targets-to-cut-resource-demand/
+  pub_date: '2026-11-09T12:30:13'
+  source: Circular Online
+  title: 'ISWA: Potočnik calls for material footprint targets to cut resource demand'
+- category: circular
+  description: 'Circular Online brings you the latest live updates from the ISWA World
+    Congress 2026 as it returns to London for the first time in 30 years. The post
+    LIVE: ISWA World Congress London 2026 - Day 1 appe...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/live-iswa-world-congress-london-2026/
+  pub_date: '2026-11-09T09:56:24'
+  source: Circular Online
+  title: 'LIVE: ISWA World Congress London 2026 – Day 1'
+- category: supply-chain
+  description: Manufacturers are jumping aboard the artificial intelligence bandwagon.
+    But are they moving too fast?
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/scb-features/article/16424533/are-manufacturers-acting-too-hastily-in-adopting-ai
+  pub_date: '2026-11-09T05:00:00'
+  source: SupplyChainBrain
+  title: Are Manufacturers Acting Too Hastily in Adopting AI?
+- category: supply-chain
+  description: Right to repair is forcing part of this conversation, but the pressure
+    was already there from three other directions.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/customer-relationship-management/blog/15883271/extended-service-agreements-not-right-to-repair-are-the-real-aftermarket-story
+  pub_date: '2026-11-09T05:00:00'
+  source: SupplyChainBrain
+  title: Extended Service Agreements, Not Right to Repair, Are the Real Aftermarket
+    Story
+- category: supply-chain
+  description: Fraudsters no longer need to hack into systems. They simply mimic trusted
+    business processes, allowing fraudulent payments to...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/artificial-intelligence/blog/15883221/how-socialengineering-fraudsters-are-targeting-supply-chains
+  pub_date: '2026-11-09T05:00:00'
+  source: SupplyChainBrain
+  title: How Social-Engineering Fraudsters Are Targeting Supply Chains
+- category: supply-chain
   description: Congestion, fuel prices, equipment availability, and local transportation
     conditions continue to affect the movement of goods...
   icon: fa-truck
@@ -87,22 +138,6 @@ articles:
   source: SupplyChainBrain
   title: Building the Foundation for AI Adoption in Transportation
 - category: supply-chain
-  description: The White House wants to enable at least 1,000 launches and re-entries
-    annually by 2030, up from 178 launches last year.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/aerospace-defense/article/16424458/us-proposes-space-launch-rule-changes-in-potential-boost-for-spacex
-  pub_date: '2026-11-05T20:02:04'
-  source: SupplyChainBrain
-  title: U.S. Proposes Space Launch Rule Changes in Potential Boost for SpaceX
-- category: supply-chain
-  description: Negotiations are expected to continue with the help of federal mediators,
-    with hopes of reaching a long-term deal.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16424433/la-long-beach-port-watchmen-agree-to-push-strike-deadline-another-day
-  pub_date: '2026-11-05T18:54:21'
-  source: SupplyChainBrain
-  title: LA, Long Beach Port Watchmen Agree to Push Strike Deadline Another Day
-- category: supply-chain
   description: John Deere plans two manufacturing closures in Iowa and production
     moves across U.S. factories, with sugar cane harvester production shifting to
     Brazil.
@@ -111,14 +146,6 @@ articles:
   pub_date: '2026-11-05T17:23:00'
   source: Supply Chain 24/7
   title: John Deere Plans Two Iowa Plant Closures and Moves Work to Brazil
-- category: supply-chain
-  description: At the heart of the matter is how the U.K. balances left-leaning policies
-    to reduce greenhouse gases, while also seeking independence...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/home/top-stories/article/16424400/uk-bans-further-oil-gas-drilling-in-north-sea
-  pub_date: '2026-11-05T15:26:00'
-  source: SupplyChainBrain
-  title: U.K. Bans Further Oil & Gas Drilling in North Sea
 - category: supply-chain
   description: Walmart plans 300 new Zipline drone delivery sites as the company raises
     $1.5 billion to expand U.S. manufacturing, hiring, and service.
@@ -170,14 +197,6 @@ articles:
   pub_date: '2026-11-05T08:47:55'
   source: Circular Online
   title: Environment Secretary forms new Waste Crime Crackdown Group
-- category: supply-chain
-  description: Amazon says that no third parties will ever process or review images
-    from the glasses, which are optional for all drivers.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/last-mile-delivery/article/16424315/amazon-to-equip-5k-delivery-drivers-with-smart-glasses
-  pub_date: '2026-11-05T08:00:00'
-  source: SupplyChainBrain
-  title: Amazon to Equip 5K Delivery Drivers With Smart Glasses
 - category: circular
   description: Battery fires cost the EU's waste sector over GBP2.6 billion in damages
     last year, new figures show. The post Battery fires cost the European waste sector
@@ -232,22 +251,4 @@ articles:
   pub_date: '2026-11-02T11:58:34'
   source: Circular Online
   title: Ban nitrous oxide canisters completely, ESA tells government
-- category: circular
-  description: The UK could generate GBP93 billion in Gross Value Added (GVA) by taking
-    steps towards a circular economy, new WRAP report finds. The post Circular economy
-    could generate over GBP93bn in UK, WRAP repo...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/circular-economy-could-generate-over-93bn-in-uk-wrap-report-says/
-  pub_date: '2026-11-02T09:12:26'
-  source: Circular Online
-  title: Circular economy could generate over £93bn in UK, WRAP report says
-- category: circular
-  description: 'News updates written by CIWM''s commercial partners. Fleetclear Waste
-    company evolves smarter, safer service with Fleetclear Greyparrot Closing the
-    17-point aerosol recovery gap: Unlocking high-value m...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/news-in-brief-commercial-partner-news-november/
-  pub_date: '2026-11-02T08:30:00'
-  source: Circular Online
-  title: News in Brief | Commercial Partner News November
-last_updated: '2026-11-08T12:51:03.872767'
+last_updated: '2026-11-09T15:22:37.858666'
