@@ -1,4 +1,40 @@
 articles:
+- category: ai-research
+  description: Google and Adobe are integrating creative and productivity tools. Edit
+    PDFs in Drive and use Adobe AI in Gemini. See what's new in this partnership.
+  icon: fa-google
+  link: https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/
+  pub_date: '2026-11-10T14:00:00'
+  source: Google AI Blog
+  title: We’re bringing Adobe’s creative and productivity tools closer to your everyday
+    Google apps.
+- category: ai-research
+  description: Google Cloud launches Gemini for healthcare to unify clinical data
+    and automate workflows. Reduce administrative burnout. See how it works.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/
+  pub_date: '2026-11-10T13:00:00'
+  source: Google AI Blog
+  title: Google Cloud launches Gemini for healthcare.
+- category: machine-learning
+  description: Learn five practical ways to fine-tune LLMs on a budget, from LoRA
+    and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each
+    technique.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank
+  pub_date: '2026-11-10T13:00:00'
+  source: KDnuggets
+  title: 5 Techniques for Fine-Tuning LLMs Without Breaking the Bank
+- category: ai-research
+  description: With up to $53 million from ARPA-H, the researchers will use AI to
+    generate safer herbicides that reduce dependence on imports and improve the security
+    of the U.S. food supply.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110
+  pub_date: '2026-11-10T05:00:00'
+  source: MIT AI News
+  title: MIT-led team receives funding to develop next-generation alternatives to
+    modern weed killers
 - category: machine-learning
   description: 4 classic leaks, planted in real data, tested cold on 4 models.
   icon: fa-chart-bar
@@ -127,15 +163,6 @@ articles:
   pub_date: '2026-11-03T19:30:00'
   source: MIT AI News
   title: Building connections across the research infrastructure
-- category: machine-learning
-  description: Learn how to build an architecture that blends Scikit-LLM estimators
-    for text summarization with traditional scikit-learn methods into a single, unified
-    pipeline for summarizing and classifying raw, m...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm
-  pub_date: '2026-11-03T15:00:00'
-  source: KDnuggets
-  title: Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM
 - category: ai-research
   description: From a nuclear revival to qubits, the MIT Energy Initiative's annual
     research conference tracked deployment of today's technologies to discovery of
@@ -179,15 +206,6 @@ articles:
   pub_date: '2026-10-30T19:00:00'
   source: MIT AI News
   title: 'Q&A: Hey AI, who should I vote for this year?'
-- category: ai-research
-  description: Professor Ali Jadbabaie describes how AI, digital transformation, climate
-    change, and complex geopolitics are forcing engineers and policymakers to rethink
-    how infrastructure is designed, built, and m...
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028
-  pub_date: '2026-10-28T16:00:00'
-  source: MIT AI News
-  title: '3 Questions: Why infrastructure is entering a defining era'
 - category: ai-research
   description: An illustration of a planet rotating to show various cartoon figures
     waving. At the top is the text "AI Quests"
@@ -233,19 +251,4 @@ articles:
   pub_date: '2026-09-28T19:00:00'
   source: Google AI Blog
   title: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
-- category: ai-research
-  description: Google Beam promotional animation
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/
-  pub_date: '2026-09-23T18:00:00'
-  source: Google AI Blog
-  title: Google Beam expands with new regions, partners, and customers
-- category: ai-research
-  description: Text "AI & Economy Research Program" all over a green grid background,
-    with the Google G logo in the bottom right corner
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/
-  pub_date: '2026-09-18T14:00:00'
-  source: Google AI Blog
-  title: New experts join Google’s AI & Economy team
-last_updated: '2026-11-09T15:22:38.489002'
+last_updated: '2026-11-10T14:26:12.339999'
