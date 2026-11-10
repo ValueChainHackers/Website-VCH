@@ -1,4 +1,110 @@
 articles:
+- category: circular
+  description: The UK government is preparing an intervention over the impact of packaging
+    extended producer responsibility (pEPR) on glass manufacturers and hospitality
+    businesses, according to reports by The Groce...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/government-poised-to-intervene-over-glass-epr-costs-according-to-reports/
+  pub_date: '2026-11-10T12:37:21'
+  source: Circular Online
+  title: Government poised to intervene over glass EPR costs, according to reports
+- category: circular
+  description: 'Circular Online brings you live updates from day 2 of the ISWA World
+    Congress 2026 as it returns to London for the first time in 30 years. The post
+    LIVE: ISWA World Congress London 2026 - Day 2 appear...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/live-iswa-world-congress-london-2026-day-2/
+  pub_date: '2026-11-10T09:05:40'
+  source: Circular Online
+  title: 'LIVE: ISWA World Congress London 2026 – Day 2'
+- category: supply-chain
+  description: Asia would likely be hit the hardest, the report says, with China,
+    India, Pakistan and Southeast Asia accounting for two-thirds...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/supply-chains-in-crisis/article/16424978/record-super-el-nio-could-cost-4t-in-economic-losses
+  pub_date: '2026-11-10T08:00:00'
+  source: SupplyChainBrain
+  title: Record Super El Niño Could Cost $4T in Economic Losses
+- category: supply-chain
+  description: Drone company Wing says it's already used a portion of those funds
+    to build a new 15,000 square-foot manufacturing facility in...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/robotics/article/16424963/wing-to-invest-125m-in-us-manufacturing-footprint
+  pub_date: '2026-11-10T08:00:00'
+  source: SupplyChainBrain
+  title: Wing to Invest $125M in U.S. Manufacturing Footprint
+- category: supply-chain
+  description: When a supply chain can move quickly, working capital tied up in resilience
+    efforts can be deployed elsewhere. Yet faster decision-making...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/inventory-planning-optimization/blog/15883276/how-supply-chain-leaders-can-turn-fast-decisionmaking-into-competitive-advantage
+  pub_date: '2026-11-10T08:00:00'
+  source: SupplyChainBrain
+  title: How Supply Chain Leaders Can Turn Fast Decision-Making Into Competitive Advantage
+- category: supply-chain
+  description: Once published, AI-generated claims can be picked up and repeated by
+    the AI tools that buyers use for research.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/artificial-intelligence/blog/15883273/when-ai-invents-facts-whose-fault-is-it
+  pub_date: '2026-11-10T08:00:00'
+  source: SupplyChainBrain
+  title: When AI Invents Facts, Whose Fault Is It?
+- category: supply-chain
+  description: This marks the third extension from the International Longshore and
+    Warehouse Union Local 26 in recent days.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16424929/long-beach-la-port-watchmen-push-strike-deadline-to-november-20
+  pub_date: '2026-11-09T20:40:19'
+  source: SupplyChainBrain
+  title: Long Beach, LA Port Watchmen Push Strike Deadline to November 20
+- category: supply-chain
+  description: Explore 50 lean warehouse productivity tips to reduce wasted motion,
+    improve picking accuracy, strengthen inventory control, and support safer operations.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-can-warehouses-improve-productivity-and-reduce-waste
+  pub_date: '2026-11-09T20:02:00'
+  source: Supply Chain 24/7
+  title: How Can Warehouses Improve Productivity and Reduce Waste?
+- category: supply-chain
+  description: The trade truce was initially due to expire on November 10, ahead of
+    a meeting between Chinese and U.S. leaders at the APEC summit...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16424927/china-extends-us-trade-truce-by-two-months
+  pub_date: '2026-11-09T17:41:36'
+  source: SupplyChainBrain
+  title: China Extends U.S. Trade Truce By Two Months
+- category: supply-chain
+  description: Vessel launched an excess-inventory donation service that screens nonprofits
+    and handles freight, promising lower costs than disposal.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/vessel-excess-inventory-donation-service
+  pub_date: '2026-11-09T16:59:00'
+  source: Supply Chain 24/7
+  title: Vessel Raises $5 Million to Help Brands Donate Their Excess Inventory
+- category: supply-chain
+  description: Union Pacific must release records after its CEO threatened higher
+    rates for merger opponents, prompting scrutiny of the Norfolk Southern deal.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/union-pacific-ceo-rate-threat-merger-records
+  pub_date: '2026-11-09T15:57:00'
+  source: Supply Chain 24/7
+  title: Did Union Pacific CEO’s Remarks Put a Giant Merger in Jeopardy?
+- category: supply-chain
+  description: Pfizer will spend $650 million on a 220,000-square-foot center in Groton,
+    Conn., to manufacture drugs for clinical trials, which will open in mid-2031.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/pfizer-650-million-groton-clinical-manufacturing-center
+  pub_date: '2026-11-09T15:37:00'
+  source: Supply Chain 24/7
+  title: Pfizer Plans $650 Million Manufacturing Center in Groton, Connecticut
+- category: supply-chain
+  description: Only 4% of port and terminal leaders can show an earnings gain from
+    AI, even as use spreads, a new BCG and TIC4.0 survey of 103 experts finds.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ports-are-all-in-on-ai-but-only-4-can-show-its-paying-off
+  pub_date: '2026-11-09T15:36:00'
+  source: Supply Chain 24/7
+  title: Ports Are All In on AI, but Only 4% Can Show It’s Paying Off
 - category: supply-chain
   description: This is the second time in less than a month that an Aramco skyscraper
     has been damaged by a missile or drone attack from the...
@@ -7,6 +113,14 @@ articles:
   pub_date: '2026-11-09T14:55:46'
   source: SupplyChainBrain
   title: Houthis Hit Aramco Tower in Riyadh
+- category: supply-chain
+  description: One in six leaders surveyed by InstaLILY reported an AI incident involving
+    supplier or customer data, even as confidence in data controls remained high.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-ai-data-incidents-survey
+  pub_date: '2026-11-09T13:07:00'
+  source: Supply Chain 24/7
+  title: One in Six Supply Chain Leaders Report an AI Data Incident in Past Year
 - category: circular
   description: 'Former European Environment Commissioner tells ISWA World Congress
     that recycling alone cannot deliver resource security and urges a wider approach
@@ -51,22 +165,6 @@ articles:
   source: SupplyChainBrain
   title: How Social-Engineering Fraudsters Are Targeting Supply Chains
 - category: supply-chain
-  description: Congestion, fuel prices, equipment availability, and local transportation
-    conditions continue to affect the movement of goods...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/home/top-stories/article/16424535/maersk-market-update-shows-uneven-conditions
-  pub_date: '2026-11-06T19:00:00'
-  source: SupplyChainBrain
-  title: Maersk Market Update Shows “Uneven” Conditions
-- category: supply-chain
-  description: The impact of the new pledges may be limited, as they cover only sites
-    that OpenAI actually owns, which are relatively few.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/home/top-stories/article/16424520/openai-promises-greater-transparency-community-engagement-on-data-centers
-  pub_date: '2026-11-06T15:57:27'
-  source: SupplyChainBrain
-  title: OpenAI Promises Greater Transparency, Community Engagement on Data Centers
-- category: supply-chain
   description: Three major packaging suppliers disclosed grand jury subpoenas this
     week as federal investigators examine the price of paper used to make boxes.
   icon: fa-box
@@ -98,87 +196,6 @@ articles:
   pub_date: '2026-11-06T14:12:00'
   source: Supply Chain 24/7
   title: Agility Robotics Debuts on Nasdaq After Raising About $465 Million
-- category: supply-chain
-  description: China blocked SoftBank's purchase of ABB's local robotics business,
-    putting the $5.4 billion deal for the global robotics division in doubt.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/china-blocks-softbank-abb-robotics-deal
-  pub_date: '2026-11-06T14:10:00'
-  source: Supply Chain 24/7
-  title: China Puts SoftBank’s $5.4 Billion ABB Robotics Deal in Doubt
-- category: supply-chain
-  description: Parliament's investigation identified significant bottlenecks in the
-    processing stage for seven categories of minerals.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/supply-chains-in-crisis/article/16424459/mps-sound-alarm-over-uks-reliance-on-china-for-critical-minerals
-  pub_date: '2026-11-06T08:00:00'
-  source: SupplyChainBrain
-  title: MPs Sound Alarm Over U.K.’s Reliance on China for Critical Minerals
-- category: supply-chain
-  description: The company is hoping to increase its manufacturing capacity for the
-    components that support its chips by 2.5 times over the next...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/global-supply-chain-management/article/16424438/nvidia-to-work-with-supply-chain-partners-to-boost-production
-  pub_date: '2026-11-06T08:00:00'
-  source: SupplyChainBrain
-  title: NVIDIA to Work With Supply Chain Partners to Boost Production
-- category: supply-chain
-  description: 'null'
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/the-supplychainbrain-podcasts/article/16424232/podcast-how-physical-ai-is-transforming-human-roles-in-the-warehouse
-  pub_date: '2026-11-06T08:00:00'
-  source: SupplyChainBrain
-  title: Podcast | How Physical AI Is Transforming Human Roles in the Warehouse
-- category: supply-chain
-  description: 'As shippers and LSPs continue to adopt AI, they should not overlook
-    the digital foundation: connected data, real-time visibility...'
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/transportation-distribution/blog/15883218/building-the-foundation-for-ai-adoption-in-transportation
-  pub_date: '2026-11-06T08:00:00'
-  source: SupplyChainBrain
-  title: Building the Foundation for AI Adoption in Transportation
-- category: supply-chain
-  description: John Deere plans two manufacturing closures in Iowa and production
-    moves across U.S. factories, with sugar cane harvester production shifting to
-    Brazil.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/john-deere-iowa-plant-closures-production-moves-brazil
-  pub_date: '2026-11-05T17:23:00'
-  source: Supply Chain 24/7
-  title: John Deere Plans Two Iowa Plant Closures and Moves Work to Brazil
-- category: supply-chain
-  description: Walmart plans 300 new Zipline drone delivery sites as the company raises
-    $1.5 billion to expand U.S. manufacturing, hiring, and service.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/walmart-zipline-300-drone-delivery-sites-funding
-  pub_date: '2026-11-05T14:55:00'
-  source: Supply Chain 24/7
-  title: Walmart Plans 300 New Drone Delivery Sites With Zipline
-- category: supply-chain
-  description: Packsize and Swisslog are partnering to build on-demand box making
-    into automated warehouse systems so workers can pick directly into shipping cartons.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/packsize-swisslog-warehouse-packaging-partnership
-  pub_date: '2026-11-05T14:06:00'
-  source: Supply Chain 24/7
-  title: Packsize and Swisslog Team Up to Build Box-Making Into Warehouses
-- category: supply-chain
-  description: Gartner says limited power supply could delay supply chain expansion
-    and increase costs by 20% to 30% without advanced energy management.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/gartner-power-shortages-supply-chain-growth
-  pub_date: '2026-11-05T14:04:00'
-  source: Supply Chain 24/7
-  title: Power Shortages Could Slow Growth at Factories and Warehouses
-- category: supply-chain
-  description: Freeport approved a $4.5B expansion of its Bagdad mine in Arizona to
-    increase U.S. copper and molybdenum production, with initial output targeted for
-    mid-2030.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/freeport-bagdad-arizona-copper-mine-expansion
-  pub_date: '2026-11-05T13:57:00'
-  source: Supply Chain 24/7
-  title: Freeport Approves $4.5 Billion Copper Mine Expansion in Arizona
 - category: circular
   description: New research from ReBound finds half of retailers write off, destroy
     or discard between 6% and 40% of returned items. The post Half of retailers write
@@ -233,22 +250,4 @@ articles:
   pub_date: '2026-11-03T09:04:57'
   source: Circular Online
   title: Waste Crime Minister to speak at ISWA World Congress 2026
-- category: circular
-  description: Skip hire operator handed 14-week prison sentence, suspended for two
-    years, for mishandling waste that led to serious fire. The post Suspended prison
-    sentence for rogue skip hire operator appeared fir...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/suspended-prison-sentence-for-rogue-skip-hire-operator/
-  pub_date: '2026-11-03T08:35:48'
-  source: Circular Online
-  title: Suspended prison sentence for rogue skip hire operator
-- category: circular
-  description: The Environmental Services Association has urged the Home Secretary
-    to ban the retail sale of nitrous oxide canisters. The post Ban nitrous oxide
-    canisters completely, ESA tells government appeared fi...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ban-nitrous-oxide-cannisters-completely-esa-tells-government/
-  pub_date: '2026-11-02T11:58:34'
-  source: Circular Online
-  title: Ban nitrous oxide canisters completely, ESA tells government
-last_updated: '2026-11-09T15:22:37.858666'
+last_updated: '2026-11-10T14:26:11.424882'
