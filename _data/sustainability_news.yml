@@ -1,5 +1,141 @@
 articles:
 - category: circular
+  description: The Institution of Mechanical Engineers (IMechE) has called for changes
+    to government policy and investment to help UK industry recover and reuse more
+    materials. The institution said businesses lacked...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/imeche-calls-for-policy-reforms-to-support-circular-economy/
+  pub_date: '2026-11-11T11:05:09'
+  source: Circular Online
+  title: IMechE calls for policy reforms to support circular economy
+- category: circular
+  description: Transitioning to a circular economy is a 'national security issue',
+    the Minister of State in Defra Emma Hardy MP has told the ISWA World Congress.
+    The post Circular economy is a 'national security iss...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/circular-economy-is-a-national-security-issue-emma-hardy-mp-tells-iswa-world-congress/
+  pub_date: '2026-11-11T10:24:55'
+  source: Circular Online
+  title: Circular economy is a ‘national security issue’, Emma Hardy MP tells ISWA
+    World Congress
+- category: circular
+  description: 'Circular Online brings you live updates from day 3 of the ISWA World
+    Congress 2026 as it returns to London for the first time in 30 years. The post
+    LIVE: ISWA World Congress London 2026 - Day 3 appear...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/live-iswa-world-congress-london-2026-day-3/
+  pub_date: '2026-11-11T08:51:33'
+  source: Circular Online
+  title: 'LIVE: ISWA World Congress London 2026 – Day 3'
+- category: circular
+  description: WRAP has called on governments at COP31 to strengthen national food
+    waste reduction plans, include food loss and waste in climate commitments and
+    increase investment in prevention. The post WRAP calls...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/wrap-calls-for-stronger-food-waste-commitments-at-cop31/
+  pub_date: '2026-11-11T08:04:02'
+  source: Circular Online
+  title: WRAP calls for stronger food waste commitments at COP31
+- category: supply-chain
+  description: Learn how serialization improves supply chain traceability, reduces
+    counterfeit risk, protects brands, and supports recalls through track-and-trace
+    visibility.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/the-business-case-for-serialization-beyond-pharmaceuticals
+  pub_date: '2026-11-10T20:32:00'
+  source: Supply Chain 24/7
+  title: The Business Case for Serialization Beyond Pharmaceuticals
+- category: supply-chain
+  description: Bain study finds most U.S. fleets are getting ready to spend on trucks,
+    with fuel costs, TCO, and openness to Tesla shaping what they buy.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bain-2026-us-truck-study-fleets-plan-major-investments
+  pub_date: '2026-11-10T19:32:00'
+  source: Supply Chain 24/7
+  title: 'Bain Study: Nearly 80% of U.S. Fleets Plan Major Truck Investments'
+- category: supply-chain
+  description: Exports exceeded imports by $105.3 billion in October, although that
+    was down from the previous month, when the country recorded...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16425090/china-trade-surplus-crests-1t-mark-in-2026
+  pub_date: '2026-11-10T18:37:53'
+  source: SupplyChainBrain
+  title: China Trade Surplus Crests $1T Mark in 2026
+- category: supply-chain
+  description: Explore how trusted AI improves pharmaceutical recipe digitization
+    while maintaining GxP compliance, numerical accuracy, traceability, and human
+    oversight.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/what-makes-ai-trustworthy-in-regulated-manufacturing
+  pub_date: '2026-11-10T18:01:00'
+  source: Supply Chain 24/7
+  title: What Makes AI Trustworthy in Regulated Manufacturing?
+- category: supply-chain
+  description: A new Locus survey finds 54% of shoppers abandoned carts over delivery
+    doubts, and 40% care more about a sure arrival date than speed.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/holiday-delivery-doubts-locus-survey-2026
+  pub_date: '2026-11-10T16:00:00'
+  source: Supply Chain 24/7
+  title: Uncertain Delivery Dates Are Costing Retailers Holiday Sales, Survey Says
+- category: supply-chain
+  description: Almost all major carriers have resumed Asia-Europe routes through the
+    Red Sea, and traffic via the Suez Canal is back to around...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/ocean-transportation/article/16425057/ocean-traffic-returns-to-nearnormal-through-red-sea
+  pub_date: '2026-11-10T15:50:47'
+  source: SupplyChainBrain
+  title: Ocean Traffic Returns to Near-Normal through Red Sea
+- category: supply-chain
+  description: Restrictions on moving oversized equipment could delay Germany's wind
+    power expansion even if the roadworks disrupting motorways...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/home/top-stories/article/16425002/germanys-onshore-wind-boom-faces-logistical-hurdles-as-turbine-orders-surge
+  pub_date: '2026-11-10T14:47:00'
+  source: SupplyChainBrain
+  title: Germany's Onshore Wind Boom Faces Logistical Hurdles as Turbine Orders Surge
+- category: circular
+  description: Check out our write-up of the exciting and interesting 'Publishing
+    Waste and Circularity Science in the Age of AI' panel from day 2 of the ISWA World
+    Congress 2026. AI is the defining technological in...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ai-is-the-defining-technology-of-our-age-how-does-resources-waste-respond/
+  pub_date: '2026-11-10T14:34:38'
+  source: Circular Online
+  title: 'AI is the defining technology of our age: How should resources & waste respond?'
+- category: supply-chain
+  description: Daptic CEO Baptiste Bouvier discusses how AI could help manufacturers
+    catch compliance problems before they lead to costly product rework.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ai-manufacturing-product-compliance-rework
+  pub_date: '2026-11-10T14:07:00'
+  source: Supply Chain 24/7
+  title: Can AI Help Manufacturers Catch Compliance Problems Before Production?
+- category: supply-chain
+  description: Honda plans a $3 billion Ohio auto plant and upgrades to existing factories
+    to expand U.S. hybrid vehicle, engine, and transmission production.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/honda-ohio-plant-hybrid-production-expansion
+  pub_date: '2026-11-10T13:59:00'
+  source: Supply Chain 24/7
+  title: Honda Plans $3 Billion Ohio Plant to Expand U.S. Hybrid Production
+- category: supply-chain
+  description: Mars plans to invest $1.4 billion in U.S. manufacturing and operations
+    in 2027, the largest single-year investment the company has ever made.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/mars-1-4-billion-us-manufacturing-investment-2027
+  pub_date: '2026-11-10T13:14:00'
+  source: Supply Chain 24/7
+  title: From Waco to Salt Lake City, Mars Plans Record $1.4 Billion US Spend
+- category: supply-chain
+  description: Simtra opened its $250M+ Building H in Bloomington, adding syringe,
+    vial, and freeze-drying lines as it grows from 11 filling lines to 18.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/simtra-opens-250-million-building-h-bloomington-sterile-injectables
+  pub_date: '2026-11-10T13:04:00'
+  source: Supply Chain 24/7
+  title: Indiana Lands $250M Boost as Simtra Cuts Ribbon on New Building
+- category: circular
   description: The UK government is preparing an intervention over the impact of packaging
     extended producer responsibility (pEPR) on glass manufacturers and hospitality
     businesses, according to reports by The Groce...
@@ -82,30 +218,6 @@ articles:
   source: Supply Chain 24/7
   title: Vessel Raises $5 Million to Help Brands Donate Their Excess Inventory
 - category: supply-chain
-  description: Union Pacific must release records after its CEO threatened higher
-    rates for merger opponents, prompting scrutiny of the Norfolk Southern deal.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/union-pacific-ceo-rate-threat-merger-records
-  pub_date: '2026-11-09T15:57:00'
-  source: Supply Chain 24/7
-  title: Did Union Pacific CEO’s Remarks Put a Giant Merger in Jeopardy?
-- category: supply-chain
-  description: Pfizer will spend $650 million on a 220,000-square-foot center in Groton,
-    Conn., to manufacture drugs for clinical trials, which will open in mid-2031.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/pfizer-650-million-groton-clinical-manufacturing-center
-  pub_date: '2026-11-09T15:37:00'
-  source: Supply Chain 24/7
-  title: Pfizer Plans $650 Million Manufacturing Center in Groton, Connecticut
-- category: supply-chain
-  description: Only 4% of port and terminal leaders can show an earnings gain from
-    AI, even as use spreads, a new BCG and TIC4.0 survey of 103 experts finds.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ports-are-all-in-on-ai-but-only-4-can-show-its-paying-off
-  pub_date: '2026-11-09T15:36:00'
-  source: Supply Chain 24/7
-  title: Ports Are All In on AI, but Only 4% Can Show It’s Paying Off
-- category: supply-chain
   description: This is the second time in less than a month that an Aramco skyscraper
     has been damaged by a missile or drone attack from the...
   icon: fa-truck
@@ -113,14 +225,6 @@ articles:
   pub_date: '2026-11-09T14:55:46'
   source: SupplyChainBrain
   title: Houthis Hit Aramco Tower in Riyadh
-- category: supply-chain
-  description: One in six leaders surveyed by InstaLILY reported an AI incident involving
-    supplier or customer data, even as confidence in data controls remained high.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-ai-data-incidents-survey
-  pub_date: '2026-11-09T13:07:00'
-  source: Supply Chain 24/7
-  title: One in Six Supply Chain Leaders Report an AI Data Incident in Past Year
 - category: circular
   description: 'Former European Environment Commissioner tells ISWA World Congress
     that recycling alone cannot deliver resource security and urges a wider approach
@@ -139,63 +243,6 @@ articles:
   pub_date: '2026-11-09T09:56:24'
   source: Circular Online
   title: 'LIVE: ISWA World Congress London 2026 – Day 1'
-- category: supply-chain
-  description: Manufacturers are jumping aboard the artificial intelligence bandwagon.
-    But are they moving too fast?
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/scb-features/article/16424533/are-manufacturers-acting-too-hastily-in-adopting-ai
-  pub_date: '2026-11-09T05:00:00'
-  source: SupplyChainBrain
-  title: Are Manufacturers Acting Too Hastily in Adopting AI?
-- category: supply-chain
-  description: Right to repair is forcing part of this conversation, but the pressure
-    was already there from three other directions.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/customer-relationship-management/blog/15883271/extended-service-agreements-not-right-to-repair-are-the-real-aftermarket-story
-  pub_date: '2026-11-09T05:00:00'
-  source: SupplyChainBrain
-  title: Extended Service Agreements, Not Right to Repair, Are the Real Aftermarket
-    Story
-- category: supply-chain
-  description: Fraudsters no longer need to hack into systems. They simply mimic trusted
-    business processes, allowing fraudulent payments to...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/artificial-intelligence/blog/15883221/how-socialengineering-fraudsters-are-targeting-supply-chains
-  pub_date: '2026-11-09T05:00:00'
-  source: SupplyChainBrain
-  title: How Social-Engineering Fraudsters Are Targeting Supply Chains
-- category: supply-chain
-  description: Three major packaging suppliers disclosed grand jury subpoenas this
-    week as federal investigators examine the price of paper used to make boxes.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/federal-probe-shipping-box-paper-prices
-  pub_date: '2026-11-06T14:56:00'
-  source: Supply Chain 24/7
-  title: Justice Department Probes Pricing of Paper Used in Shipping Boxes
-- category: supply-chain
-  description: MMH's 2026 salary survey found 91% of respondents like their jobs and
-    88% report at least some stress, with workload the top source of stress.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/materials-handling-job-satisfaction-and-stress
-  pub_date: '2026-11-06T14:55:00'
-  source: Supply Chain 24/7
-  title: Materials Handling Workers Like Their Jobs. They’re Also Stressed.
-- category: supply-chain
-  description: The strike deadline for about 250 watchmen at Los Angeles and Long
-    Beach has moved to Friday night, with federal mediation set to continue.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/los-angeles-long-beach-port-strike-deadline-moves-to-friday-night
-  pub_date: '2026-11-06T14:15:00'
-  source: Supply Chain 24/7
-  title: Los Angeles, Long Beach Port Strike Deadline Is Tonight
-- category: supply-chain
-  description: Agility Robotics began trading on Nasdaq after raising about $465 million
-    to build more Digit robots and put them to work at more customer sites.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/agility-robotics-debuts-on-nasdaq-after-raising-about-465-million
-  pub_date: '2026-11-06T14:12:00'
-  source: Supply Chain 24/7
-  title: Agility Robotics Debuts on Nasdaq After Raising About $465 Million
 - category: circular
   description: New research from ReBound finds half of retailers write off, destroy
     or discard between 6% and 40% of returned items. The post Half of retailers write
@@ -205,49 +252,4 @@ articles:
   pub_date: '2026-11-05T09:47:53'
   source: Circular Online
   title: Half of retailers write off up to 40% of returned stock
-- category: circular
-  description: Ministers, police, Mayors and local authorities to target organised
-    waste crime as part of new Waste Crime Crackdown Group. The post Environment Secretary
-    forms new Waste Crime Crackdown Group appeare...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/environment-secretary-forms-new-waste-crime-crackdown-group/
-  pub_date: '2026-11-05T08:47:55'
-  source: Circular Online
-  title: Environment Secretary forms new Waste Crime Crackdown Group
-- category: circular
-  description: Battery fires cost the EU's waste sector over GBP2.6 billion in damages
-    last year, new figures show. The post Battery fires cost the European waste sector
-    over 2.6bn a year appeared first on Circular ...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/battery-fires-cost-the-european-waste-sector-over-e2-6bn-a-year/
-  pub_date: '2026-11-04T10:44:26'
-  source: Circular Online
-  title: Battery fires cost the European waste sector over €2.6bn a year
-- category: circular
-  description: People are more willing to pay for sustainable products if they perceive
-    them as enjoyable and appealing, a new study finds. The post Enjoyment makes people
-    more willing to pay for sustainability appe...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/enjoyment-makes-people-more-willing-to-pay-for-sustainability/
-  pub_date: '2026-11-04T08:39:31'
-  source: Circular Online
-  title: Enjoyment makes people more willing to pay for sustainability
-- category: circular
-  description: Waste management company Biffa has agreed a deal to acquire Enva's
-    general recycling businesses in Scotland and England. Enva's general recycling
-    businesses in Scotland and England provide commercial,...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/biffa-to-acquire-envas-general-recycling-businesses/
-  pub_date: '2026-11-03T13:49:30'
-  source: Circular Online
-  title: Biffa to acquire Enva’s general recycling businesses
-- category: circular
-  description: The Waste Crime and Circular Economy Minister Emma Hardy MP will deliver
-    a keynote address at the ISWA World Congress 2026 in London next week. The post
-    Waste Crime Minister to speak at ISWA World Con...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/waste-crime-minister-to-speak-at-iswa-world-congress-2026/
-  pub_date: '2026-11-03T09:04:57'
-  source: Circular Online
-  title: Waste Crime Minister to speak at ISWA World Congress 2026
-last_updated: '2026-11-10T14:26:11.424882'
+last_updated: '2026-11-11T13:39:48.215166'
