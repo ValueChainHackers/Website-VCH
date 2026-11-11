@@ -1,4 +1,46 @@
 articles:
+- category: machine-learning
+  description: Learn how to measure LLM inference performance using key metrics and
+    formulas for latency, token generation speed, and system load.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes
+  pub_date: '2026-11-11T13:00:00'
+  source: KDnuggets
+  title: 9 Key LLM Inference Metrics Explained in 5 Minutes
+- category: ai-research
+  description: A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of
+    Curatorial, Public and Visual Cultures, Wits School of Arts, University of the
+    Witwatersrand
+  icon: fa-google
+  link: https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/
+  pub_date: '2026-11-11T09:00:00'
+  source: Google AI Blog
+  title: Experience the art and legacy of Dr. Esther Mahlangu
+- category: ai-research
+  description: A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/
+  pub_date: '2026-11-10T19:00:00'
+  source: Google AI Blog
+  title: 'Gemini Intelligence: New features, on more devices'
+- category: machine-learning
+  description: Learn how AI can make enterprise business intelligence more accessible,
+    automate reporting, uncover insights faster, and improve decision-making with
+    the right governance.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi
+  pub_date: '2026-11-10T18:00:30'
+  source: KDnuggets
+  title: How to Use AI for Enterprise BI
+- category: machine-learning
+  description: Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline
+    for multilingual text classification, guided by two pre-trained language models
+    handled by Scikit-LLM for translation and zer...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm
+  pub_date: '2026-11-10T15:00:00'
+  source: KDnuggets
+  title: Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM
 - category: ai-research
   description: Google and Adobe are integrating creative and productivity tools. Edit
     PDFs in Drive and use Adobe AI in Gemini. See what's new in this partnership.
@@ -118,15 +160,6 @@ articles:
   pub_date: '2026-11-05T15:00:01'
   source: KDnuggets
   title: Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep
-- category: machine-learning
-  description: 'Build a local multi-agent travel planner with Hermes Agent and Ollama:
-    a coordinator and three specialist agents that research destinations, suggest
-    stays, and generate real Google Flights search link...'
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models
-  pub_date: '2026-11-05T13:00:00'
-  source: KDnuggets
-  title: What I Did with Hermes Agent, Ollama & Local Models
 - category: ai-research
   description: A new system identifies and corrects unreliable object descriptions
     stored in a robot's memory, improving the robot's ability to interact with its
@@ -136,24 +169,6 @@ articles:
   pub_date: '2026-11-05T05:00:00'
   source: MIT AI News
   title: Clearing up a robot’s fuzzy memory
-- category: machine-learning
-  description: A round-by-round breakdown of how the hiring process has shifted, from
-    AI-assisted coding rounds to GenAI evaluation questions, and what you need to
-    do differently to be ready.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare
-  pub_date: '2026-11-04T15:00:00'
-  source: KDnuggets
-  title: 'The Data Science Interview in 2026: What’s Changed and How to Prepare'
-- category: machine-learning
-  description: Meet seven open specialist models under 10 billion parameters that
-    rival much bigger systems at one job each, from transcription and OCR to routing
-    and speech.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job
-  pub_date: '2026-11-04T13:00:00'
-  source: KDnuggets
-  title: 7 Small Specialist Models That Beat Giant LLMs at One Job
 - category: ai-research
   description: MIT.nano and the Northeast Microelectronics Coalition gathered facility
     leaders and technology professionals from across the nation to explore ways to
@@ -237,18 +252,4 @@ articles:
   pub_date: '2026-10-07T12:00:00'
   source: Google AI Blog
   title: 'Introducing Playground: Create and play custom games'
-- category: ai-research
-  description: A video showing the September AI updates
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/
-  pub_date: '2026-10-02T15:00:00'
-  source: Google AI Blog
-  title: The latest AI news we announced in September 2026
-- category: ai-research
-  description: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/
-  pub_date: '2026-09-28T19:00:00'
-  source: Google AI Blog
-  title: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
-last_updated: '2026-11-10T14:26:12.339999'
+last_updated: '2026-11-11T13:39:49.105165'
