@@ -1,12 +1,30 @@
 articles:
-- category: machine-learning
-  description: Learn how to measure LLM inference performance using key metrics and
-    formulas for latency, token generation speed, and system load.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes
-  pub_date: '2026-11-11T13:00:00'
-  source: KDnuggets
-  title: 9 Key LLM Inference Metrics Explained in 5 Minutes
+- category: ai-research
+  description: MIT scientists developed a training method to generate models that
+    simulate the effects of human activities on climate much more quickly than other
+    approaches.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112
+  pub_date: '2026-11-12T05:00:00'
+  source: MIT AI News
+  title: New research could lead to faster, trustworthy AI models for climate prediction
+- category: ai-research
+  description: Meet the Gemini Decisions API, powered by our state-of-the-art model
+    Gemini Decision for fast, calibrated multimodal decisions.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
+  pub_date: '2026-11-11T18:00:00'
+  source: Google AI Blog
+  title: 'Gemini Decisions API: Fast, calibrated multimodal decisions'
+- category: ai-research
+  description: Tabletop is a new Google Labs experiment for group collaboration. Build
+    interactive itineraries, polls, and brackets with your team. Join the waitlist.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/
+  pub_date: '2026-11-11T16:00:00'
+  source: Google AI Blog
+  title: 'Try Tabletop: Customizable, collaborative spaces for groups to plan, play
+    and do more together.'
 - category: ai-research
   description: A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of
     Curatorial, Public and Visual Cultures, Wits School of Arts, University of the
@@ -23,24 +41,6 @@ articles:
   pub_date: '2026-11-10T19:00:00'
   source: Google AI Blog
   title: 'Gemini Intelligence: New features, on more devices'
-- category: machine-learning
-  description: Learn how AI can make enterprise business intelligence more accessible,
-    automate reporting, uncover insights faster, and improve decision-making with
-    the right governance.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi
-  pub_date: '2026-11-10T18:00:30'
-  source: KDnuggets
-  title: How to Use AI for Enterprise BI
-- category: machine-learning
-  description: Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline
-    for multilingual text classification, guided by two pre-trained language models
-    handled by Scikit-LLM for translation and zer...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm
-  pub_date: '2026-11-10T15:00:00'
-  source: KDnuggets
-  title: Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM
 - category: ai-research
   description: Google and Adobe are integrating creative and productivity tools. Edit
     PDFs in Drive and use Adobe AI in Gemini. See what's new in this partnership.
@@ -58,15 +58,6 @@ articles:
   pub_date: '2026-11-10T13:00:00'
   source: Google AI Blog
   title: Google Cloud launches Gemini for healthcare.
-- category: machine-learning
-  description: Learn five practical ways to fine-tune LLMs on a budget, from LoRA
-    and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each
-    technique.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank
-  pub_date: '2026-11-10T13:00:00'
-  source: KDnuggets
-  title: 5 Techniques for Fine-Tuning LLMs Without Breaking the Bank
 - category: ai-research
   description: With up to $53 million from ARPA-H, the researchers will use AI to
     generate safer herbicides that reduce dependence on imports and improve the security
@@ -77,21 +68,6 @@ articles:
   source: MIT AI News
   title: MIT-led team receives funding to develop next-generation alternatives to
     modern weed killers
-- category: machine-learning
-  description: 4 classic leaks, planted in real data, tested cold on 4 models.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy
-  pub_date: '2026-11-09T15:00:00'
-  source: KDnuggets
-  title: Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?
-- category: machine-learning
-  description: Learn how to use Python scripts to automate repetitive tasks, organize
-    files, process images, and simplify daily workflows.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners
-  pub_date: '2026-11-09T13:00:00'
-  source: KDnuggets
-  title: 5 Useful Python Automation Scripts for Beginners
 - category: ai-research
   description: By learning how matter moves, the WorldParticle system could assist
     with developing soft robots, medicines, and more.
@@ -117,33 +93,6 @@ articles:
   pub_date: '2026-11-06T19:00:00'
   source: MIT AI News
   title: How to predict the behavior of molecules from scant data
-- category: machine-learning
-  description: Get unlimited free access to 365 Data Science's complete AI and data
-    learning platform, including 134 courses, hands-on projects, and certifications,
-    through November 20.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/10/365careers/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20
-  pub_date: '2026-11-06T18:00:34'
-  source: KDnuggets
-  title: 'Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until
-    Nov 20'
-- category: machine-learning
-  description: Learn how to give AI agents long-term memory using the OpenAI Agents
-    SDK, Mem0, and MCP to remember preferences, context, and important information
-    across sessions.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-give-your-ai-agent-memory
-  pub_date: '2026-11-06T15:00:00'
-  source: KDnuggets
-  title: How to Give Your AI Agent Memory
-- category: machine-learning
-  description: Working with time series data? These Python libraries cover everything
-    from classical forecasting to deep learning and anomaly detection.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/top-7-python-libraries-for-time-series-analysis-and-modeling
-  pub_date: '2026-11-06T13:00:00'
-  source: KDnuggets
-  title: Top 7 Python Libraries for Time Series Analysis and Modeling
 - category: ai-research
   description: Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images
     of a beehive, animals in conversation, a squid, and a woman walking down a street
@@ -152,14 +101,6 @@ articles:
   pub_date: '2026-11-05T17:00:00'
   source: Google AI Blog
   title: 'Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips'
-- category: machine-learning
-  description: Scrape thousands of pages in a few minutes with the Olostep Batch API,
-    download Markdown, and measure what actually finished.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep
-  pub_date: '2026-11-05T15:00:01'
-  source: KDnuggets
-  title: Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep
 - category: ai-research
   description: A new system identifies and corrects unreliable object descriptions
     stored in a robot's memory, improving the robot's ability to interact with its
@@ -213,15 +154,6 @@ articles:
   source: MIT AI News
   title: MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows
 - category: ai-research
-  description: MIT professors Adam Berinsky and Chara Podimata discuss a new project
-    to track how AI chatbots are responding to questions about the 2026 U.S. midterm
-    elections.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030
-  pub_date: '2026-10-30T19:00:00'
-  source: MIT AI News
-  title: 'Q&A: Hey AI, who should I vote for this year?'
-- category: ai-research
   description: An illustration of a planet rotating to show various cartoon figures
     waving. At the top is the text "AI Quests"
   icon: fa-google
@@ -238,18 +170,4 @@ articles:
   pub_date: '2026-10-21T04:00:00'
   source: Google AI Blog
   title: Southeast Asia’s digital economy to hit $368 billion
-- category: ai-research
-  description: TBD
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
-  pub_date: '2026-10-13T16:00:00'
-  source: Google AI Blog
-  title: 'Gemini 4 Argon: Built to solve your hardest problems'
-- category: ai-research
-  description: Overview of Playground
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/
-  pub_date: '2026-10-07T12:00:00'
-  source: Google AI Blog
-  title: 'Introducing Playground: Create and play custom games'
-last_updated: '2026-11-11T13:39:49.105165'
+last_updated: '2026-11-12T14:43:33.276492'

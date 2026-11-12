@@ -1,4 +1,85 @@
 articles:
+- category: supply-chain
+  description: In Europe and the Middle East, the same cost crossover isn't expected
+    to occur until closer to 2030 and 2032 respectively.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/ltl-truckload-services/article/16425135/autonomous-trucks-could-be-cheaper-than-human-drivers-in-us-by-2028
+  pub_date: '2026-11-12T08:00:00'
+  source: SupplyChainBrain
+  title: Autonomous Trucks Could Be Cheaper Than Human Drivers in U.S. by 2028
+- category: supply-chain
+  description: The company will also look to consolidate sugar cane harvester production
+    in Catalo, Brazil, to move manufacturing closer to...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/business-strategy-alignment/article/16425103/john-deere-to-close-pair-of-iowa-factories
+  pub_date: '2026-11-12T08:00:00'
+  source: SupplyChainBrain
+  title: John Deere to Close Pair of Iowa Factories
+- category: supply-chain
+  description: Owning the building a business operates in is a capital allocation
+    decision, not a given.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/blogs/think-tank/blog/16425019/rethinking-owned-warehouses-as-a-capital-allocation-decision
+  pub_date: '2026-11-12T08:00:00'
+  source: SupplyChainBrain
+  title: Rethinking Owned Warehouses as a Capital Allocation Decision
+- category: supply-chain
+  description: A product plan can be accurate in aggregate and wrong in the locations
+    where inventory sits.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/blogs/think-tank/blog/16425018/using-weather-forecasts-to-sharpen-regional-demand-planning
+  pub_date: '2026-11-12T08:00:00'
+  source: SupplyChainBrain
+  title: Using Weather Forecasts to Sharpen Regional Demand Planning
+- category: supply-chain
+  description: Some of the clearest evidence of whether the operating model is actually
+    working sits in inventory, receivables and the cash conversion...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/forecasting-demand-planning/blog/15883280/what-your-balance-sheet-says-about-supply-chain-execution
+  pub_date: '2026-11-12T08:00:00'
+  source: SupplyChainBrain
+  title: What Your Balance Sheet Says About Supply Chain Execution
+- category: supply-chain
+  description: DHL Supply Chain is piloting adaptive warehouse robots and putting
+    AI software to work coordinating employees and equipment at operating warehouses.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-adaptive-warehouse-robots-ai-orchestration
+  pub_date: '2026-11-11T15:32:00'
+  source: Supply Chain 24/7
+  title: DHL Tests Warehouse Robots That Can Decide What to Do When Plans Shift
+- category: circular
+  description: 'Circular Online brings you live updates from day 3 of the ISWA World
+    Congress 2026 as it returns to London for the first time in 30 years. The post
+    LIVE: ISWA World Congress London 2026 - Day 3 appear...'
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/live-iswa-world-congress-london-2026-day-3/
+  pub_date: '2026-11-11T15:13:47'
+  source: Circular Online
+  title: 'LIVE: ISWA World Congress London 2026 – Day 3'
+- category: supply-chain
+  description: USPS narrowed its annual loss to $6.5 billion as higher rates and Ground
+    Advantage growth lifted revenue despite a drop in overall parcel volume.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-2026-loss-package-revenue-ground-advantage
+  pub_date: '2026-11-11T13:53:00'
+  source: Supply Chain 24/7
+  title: USPS Lost $6.5 Billion Despite a $2.4 Billion Revenue Gain
+- category: supply-chain
+  description: Retail and manufacturing leaders rate their AI readiness at just 4.9
+    out of 10, with governance the weakest area, a new RELEX survey finds.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/relex-survey-supply-chain-ai-readiness-governance-gap
+  pub_date: '2026-11-11T13:27:00'
+  source: Supply Chain 24/7
+  title: Supply Chain Leaders Give Their AI Readiness a 4.9 Out of 10 Score
+- category: supply-chain
+  description: In a UK pilot, Kuehne+Nagel's electric trucks charged at Amazon sites
+    during loading and unloading, hitting a 90% charging success rate.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/kuehne-nagel-amazon-shared-electric-truck-charging-pilot-uk
+  pub_date: '2026-11-11T13:20:00'
+  source: Supply Chain 24/7
+  title: Amazon and Kuehne+Nagel Test Shared Truck Charging in the UK
 - category: circular
   description: The Institution of Mechanical Engineers (IMechE) has called for changes
     to government policy and investment to help UK industry recover and reuse more
@@ -18,15 +99,6 @@ articles:
   source: Circular Online
   title: Circular economy is a ‘national security issue’, Emma Hardy MP tells ISWA
     World Congress
-- category: circular
-  description: 'Circular Online brings you live updates from day 3 of the ISWA World
-    Congress 2026 as it returns to London for the first time in 30 years. The post
-    LIVE: ISWA World Congress London 2026 - Day 3 appear...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/live-iswa-world-congress-london-2026-day-3/
-  pub_date: '2026-11-11T08:51:33'
-  source: Circular Online
-  title: 'LIVE: ISWA World Congress London 2026 – Day 3'
 - category: circular
   description: WRAP has called on governments at COP31 to strengthen national food
     waste reduction plans, include food loss and waste in climate commitments and
@@ -119,22 +191,6 @@ articles:
   pub_date: '2026-11-10T13:59:00'
   source: Supply Chain 24/7
   title: Honda Plans $3 Billion Ohio Plant to Expand U.S. Hybrid Production
-- category: supply-chain
-  description: Mars plans to invest $1.4 billion in U.S. manufacturing and operations
-    in 2027, the largest single-year investment the company has ever made.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/mars-1-4-billion-us-manufacturing-investment-2027
-  pub_date: '2026-11-10T13:14:00'
-  source: Supply Chain 24/7
-  title: From Waco to Salt Lake City, Mars Plans Record $1.4 Billion US Spend
-- category: supply-chain
-  description: Simtra opened its $250M+ Building H in Bloomington, adding syringe,
-    vial, and freeze-drying lines as it grows from 11 filling lines to 18.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/simtra-opens-250-million-building-h-bloomington-sterile-injectables
-  pub_date: '2026-11-10T13:04:00'
-  source: Supply Chain 24/7
-  title: Indiana Lands $250M Boost as Simtra Cuts Ribbon on New Building
 - category: circular
   description: The UK government is preparing an intervention over the impact of packaging
     extended producer responsibility (pEPR) on glass manufacturers and hospitality
@@ -169,62 +225,6 @@ articles:
   pub_date: '2026-11-10T08:00:00'
   source: SupplyChainBrain
   title: Wing to Invest $125M in U.S. Manufacturing Footprint
-- category: supply-chain
-  description: When a supply chain can move quickly, working capital tied up in resilience
-    efforts can be deployed elsewhere. Yet faster decision-making...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/inventory-planning-optimization/blog/15883276/how-supply-chain-leaders-can-turn-fast-decisionmaking-into-competitive-advantage
-  pub_date: '2026-11-10T08:00:00'
-  source: SupplyChainBrain
-  title: How Supply Chain Leaders Can Turn Fast Decision-Making Into Competitive Advantage
-- category: supply-chain
-  description: Once published, AI-generated claims can be picked up and repeated by
-    the AI tools that buyers use for research.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/artificial-intelligence/blog/15883273/when-ai-invents-facts-whose-fault-is-it
-  pub_date: '2026-11-10T08:00:00'
-  source: SupplyChainBrain
-  title: When AI Invents Facts, Whose Fault Is It?
-- category: supply-chain
-  description: This marks the third extension from the International Longshore and
-    Warehouse Union Local 26 in recent days.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16424929/long-beach-la-port-watchmen-push-strike-deadline-to-november-20
-  pub_date: '2026-11-09T20:40:19'
-  source: SupplyChainBrain
-  title: Long Beach, LA Port Watchmen Push Strike Deadline to November 20
-- category: supply-chain
-  description: Explore 50 lean warehouse productivity tips to reduce wasted motion,
-    improve picking accuracy, strengthen inventory control, and support safer operations.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-can-warehouses-improve-productivity-and-reduce-waste
-  pub_date: '2026-11-09T20:02:00'
-  source: Supply Chain 24/7
-  title: How Can Warehouses Improve Productivity and Reduce Waste?
-- category: supply-chain
-  description: The trade truce was initially due to expire on November 10, ahead of
-    a meeting between Chinese and U.S. leaders at the APEC summit...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16424927/china-extends-us-trade-truce-by-two-months
-  pub_date: '2026-11-09T17:41:36'
-  source: SupplyChainBrain
-  title: China Extends U.S. Trade Truce By Two Months
-- category: supply-chain
-  description: Vessel launched an excess-inventory donation service that screens nonprofits
-    and handles freight, promising lower costs than disposal.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/vessel-excess-inventory-donation-service
-  pub_date: '2026-11-09T16:59:00'
-  source: Supply Chain 24/7
-  title: Vessel Raises $5 Million to Help Brands Donate Their Excess Inventory
-- category: supply-chain
-  description: This is the second time in less than a month that an Aramco skyscraper
-    has been damaged by a missile or drone attack from the...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/home/top-stories/article/16424898/houthis-hit-aramco-tower-in-riyadh
-  pub_date: '2026-11-09T14:55:46'
-  source: SupplyChainBrain
-  title: Houthis Hit Aramco Tower in Riyadh
 - category: circular
   description: 'Former European Environment Commissioner tells ISWA World Congress
     that recycling alone cannot deliver resource security and urges a wider approach
@@ -252,4 +252,4 @@ articles:
   pub_date: '2026-11-05T09:47:53'
   source: Circular Online
   title: Half of retailers write off up to 40% of returned stock
-last_updated: '2026-11-11T13:39:48.215166'
+last_updated: '2026-11-12T14:43:32.500283'
