@@ -1,4 +1,102 @@
 articles:
+- category: circular
+  description: Government-funded operation begins to remove 18,000 tonnes of waste
+    from illegal site spread across land owned by Wigan Council and King Charles.
+    The post Major clean-up begins at notorious illegal wa...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/major-clean-up-begins-at-notorious-illegal-waste-site-in-wigan/
+  pub_date: '2026-11-13T10:55:21'
+  source: Circular Online
+  title: Major clean-up begins at notorious illegal waste site in Wigan
+- category: supply-chain
+  description: From June through October, the Port processed nearly 5 million TEUs,
+    the strongest five-month stretch in its history.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/global-gateways/article/16425480/backtoback-million-teu-months-at-pola-set-record
+  pub_date: '2026-11-13T05:00:00'
+  source: SupplyChainBrain
+  title: Back-to-Back Million+ TEU Months at PoLA Set Record
+- category: supply-chain
+  description: Shipping economics belong in promotional planning, and the estimates
+    used to approve an offer need to reflect the charges the...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/blogs/think-tank/blog/15883282/the-shipping-line-item-that-erases-cyber-monday-profit
+  pub_date: '2026-11-13T05:00:00'
+  source: SupplyChainBrain
+  title: The Shipping Line Item That Erases Cyber Monday Profit
+- category: supply-chain
+  description: Geopolitical uncertainty requires organizations to construct highly
+    adaptive resilience frameworks.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/blogs/think-tank/blog/15883288/how-geopolitical-friction-is-redefining-cyber-resilience
+  pub_date: '2026-11-12T20:18:27'
+  source: SupplyChainBrain
+  title: How Geopolitical Friction Is Redefining Cyber Resilience
+- category: supply-chain
+  description: Chinese government subsidies for automakers building cars running on
+    fuels other than gasoline prompted a huge increase in supply...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/automotive/article/16425426/nissan-reports-tough-market-conditions-in-china
+  pub_date: '2026-11-12T18:18:15'
+  source: SupplyChainBrain
+  title: Nissan Reports Tough Market Conditions in China
+- category: supply-chain
+  description: U.S. container imports set an October record of 2.67 million TEUs as
+    shipments from China climbed and East and Gulf Coast ports gained share.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-container-imports-record-october-2026
+  pub_date: '2026-11-12T17:41:00'
+  source: Supply Chain 24/7
+  title: U.S. Container Imports Break a Four-Year Volume Record in October
+- category: supply-chain
+  description: Last month, Asia's oil costs surged after freight rates across all
+    types of tankers hit record levels.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/ocean-transportation/article/16425380/asia-buys-up-african-brazilian-oil-as-shipping-costs-fall
+  pub_date: '2026-11-12T15:07:56'
+  source: SupplyChainBrain
+  title: Asia Buys up African, Brazilian Oil as Shipping Costs Fall
+- category: supply-chain
+  description: Driverless trucks could match conventional U.S. trucking costs by 2028,
+    but slower fleet growth could push that date to 2032, Kearney says.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/driverless-trucking-costs-kearney-study-2028
+  pub_date: '2026-11-12T14:47:00'
+  source: Supply Chain 24/7
+  title: Driverless Trucks Could Match Conventional Trucking Costs by 2028
+- category: supply-chain
+  description: Maersk confirmed hackers took data from a legacy system it acquired,
+    as a new ransomware group demands $5 million to keep it quiet.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/maersk-data-breach-legacy-system-ransomware
+  pub_date: '2026-11-12T14:09:00'
+  source: Supply Chain 24/7
+  title: Maersk Confirms Data Theft as Hackers Demand $5 Million
+- category: supply-chain
+  description: STG Logistics CEO Jack Holmes explains why truckers are passing on
+    loads and how a rush to restock could strain truck and rail capacity.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/truckload-capacity-intermodal-rail-freight
+  pub_date: '2026-11-12T14:03:00'
+  source: Supply Chain 24/7
+  title: Truckers Are Getting Pickier. Can Rail Pick Up the Slack?
+- category: supply-chain
+  description: H.B. Fuller will close seven manufacturing sites and reorganize North
+    American distribution around six regional centers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/hb-fuller-seven-plant-closures-distribution-consolidation
+  pub_date: '2026-11-12T14:02:00'
+  source: Supply Chain 24/7
+  title: H.B. Fuller to Shut Down Seven Plants in North America and Europe
+- category: supply-chain
+  description: BASF opened a new chemical plant in Geismar, Louisiana, completing
+    a $1 billion expansion that nearly doubles the site's capacity for a key polyurethane
+    ingredient.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/basf-opens-geismar-louisiana-chemical-plant
+  pub_date: '2026-11-12T13:59:00'
+  source: Supply Chain 24/7
+  title: BASF Opens $1 Billion Chemical Plant at Its Geismar, Louisiana, Site
 - category: supply-chain
   description: In Europe and the Middle East, the same cost crossover isn't expected
     to occur until closer to 2030 and 2032 respectively.
@@ -108,64 +206,6 @@ articles:
   pub_date: '2026-11-11T08:04:02'
   source: Circular Online
   title: WRAP calls for stronger food waste commitments at COP31
-- category: supply-chain
-  description: Learn how serialization improves supply chain traceability, reduces
-    counterfeit risk, protects brands, and supports recalls through track-and-trace
-    visibility.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/the-business-case-for-serialization-beyond-pharmaceuticals
-  pub_date: '2026-11-10T20:32:00'
-  source: Supply Chain 24/7
-  title: The Business Case for Serialization Beyond Pharmaceuticals
-- category: supply-chain
-  description: Bain study finds most U.S. fleets are getting ready to spend on trucks,
-    with fuel costs, TCO, and openness to Tesla shaping what they buy.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/bain-2026-us-truck-study-fleets-plan-major-investments
-  pub_date: '2026-11-10T19:32:00'
-  source: Supply Chain 24/7
-  title: 'Bain Study: Nearly 80% of U.S. Fleets Plan Major Truck Investments'
-- category: supply-chain
-  description: Exports exceeded imports by $105.3 billion in October, although that
-    was down from the previous month, when the country recorded...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16425090/china-trade-surplus-crests-1t-mark-in-2026
-  pub_date: '2026-11-10T18:37:53'
-  source: SupplyChainBrain
-  title: China Trade Surplus Crests $1T Mark in 2026
-- category: supply-chain
-  description: Explore how trusted AI improves pharmaceutical recipe digitization
-    while maintaining GxP compliance, numerical accuracy, traceability, and human
-    oversight.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/what-makes-ai-trustworthy-in-regulated-manufacturing
-  pub_date: '2026-11-10T18:01:00'
-  source: Supply Chain 24/7
-  title: What Makes AI Trustworthy in Regulated Manufacturing?
-- category: supply-chain
-  description: A new Locus survey finds 54% of shoppers abandoned carts over delivery
-    doubts, and 40% care more about a sure arrival date than speed.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/holiday-delivery-doubts-locus-survey-2026
-  pub_date: '2026-11-10T16:00:00'
-  source: Supply Chain 24/7
-  title: Uncertain Delivery Dates Are Costing Retailers Holiday Sales, Survey Says
-- category: supply-chain
-  description: Almost all major carriers have resumed Asia-Europe routes through the
-    Red Sea, and traffic via the Suez Canal is back to around...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/ocean-transportation/article/16425057/ocean-traffic-returns-to-nearnormal-through-red-sea
-  pub_date: '2026-11-10T15:50:47'
-  source: SupplyChainBrain
-  title: Ocean Traffic Returns to Near-Normal through Red Sea
-- category: supply-chain
-  description: Restrictions on moving oversized equipment could delay Germany's wind
-    power expansion even if the roadworks disrupting motorways...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/home/top-stories/article/16425002/germanys-onshore-wind-boom-faces-logistical-hurdles-as-turbine-orders-surge
-  pub_date: '2026-11-10T14:47:00'
-  source: SupplyChainBrain
-  title: Germany's Onshore Wind Boom Faces Logistical Hurdles as Turbine Orders Surge
 - category: circular
   description: Check out our write-up of the exciting and interesting 'Publishing
     Waste and Circularity Science in the Age of AI' panel from day 2 of the ISWA World
@@ -175,22 +215,6 @@ articles:
   pub_date: '2026-11-10T14:34:38'
   source: Circular Online
   title: 'AI is the defining technology of our age: How should resources & waste respond?'
-- category: supply-chain
-  description: Daptic CEO Baptiste Bouvier discusses how AI could help manufacturers
-    catch compliance problems before they lead to costly product rework.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ai-manufacturing-product-compliance-rework
-  pub_date: '2026-11-10T14:07:00'
-  source: Supply Chain 24/7
-  title: Can AI Help Manufacturers Catch Compliance Problems Before Production?
-- category: supply-chain
-  description: Honda plans a $3 billion Ohio auto plant and upgrades to existing factories
-    to expand U.S. hybrid vehicle, engine, and transmission production.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/honda-ohio-plant-hybrid-production-expansion
-  pub_date: '2026-11-10T13:59:00'
-  source: Supply Chain 24/7
-  title: Honda Plans $3 Billion Ohio Plant to Expand U.S. Hybrid Production
 - category: circular
   description: The UK government is preparing an intervention over the impact of packaging
     extended producer responsibility (pEPR) on glass manufacturers and hospitality
@@ -209,22 +233,6 @@ articles:
   pub_date: '2026-11-10T09:05:40'
   source: Circular Online
   title: 'LIVE: ISWA World Congress London 2026 – Day 2'
-- category: supply-chain
-  description: Asia would likely be hit the hardest, the report says, with China,
-    India, Pakistan and Southeast Asia accounting for two-thirds...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/supply-chains-in-crisis/article/16424978/record-super-el-nio-could-cost-4t-in-economic-losses
-  pub_date: '2026-11-10T08:00:00'
-  source: SupplyChainBrain
-  title: Record Super El Niño Could Cost $4T in Economic Losses
-- category: supply-chain
-  description: Drone company Wing says it's already used a portion of those funds
-    to build a new 15,000 square-foot manufacturing facility in...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/robotics/article/16424963/wing-to-invest-125m-in-us-manufacturing-footprint
-  pub_date: '2026-11-10T08:00:00'
-  source: SupplyChainBrain
-  title: Wing to Invest $125M in U.S. Manufacturing Footprint
 - category: circular
   description: 'Former European Environment Commissioner tells ISWA World Congress
     that recycling alone cannot deliver resource security and urges a wider approach
@@ -243,13 +251,4 @@ articles:
   pub_date: '2026-11-09T09:56:24'
   source: Circular Online
   title: 'LIVE: ISWA World Congress London 2026 – Day 1'
-- category: circular
-  description: New research from ReBound finds half of retailers write off, destroy
-    or discard between 6% and 40% of returned items. The post Half of retailers write
-    off up to 40% of returned stock appeared first on...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/half-of-retailers-write-off-up-to-40-of-returned-stock/
-  pub_date: '2026-11-05T09:47:53'
-  source: Circular Online
-  title: Half of retailers write off up to 40% of returned stock
-last_updated: '2026-11-12T14:43:32.500283'
+last_updated: '2026-11-13T14:00:14.228920'
