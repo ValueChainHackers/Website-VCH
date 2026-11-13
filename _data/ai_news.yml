@@ -1,4 +1,64 @@
 articles:
+- category: machine-learning
+  description: Looking for a free alternative to Jev? Here are 5 open-source decision
+    models you can run locally, from high-accuracy options to lightweight models for
+    AI agents.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev
+  pub_date: '2026-11-13T13:00:00'
+  source: KDnuggets
+  title: 5 FREE Open-Source Alternatives to Jev
+- category: ai-research
+  description: The system asks humans for feedback to increase trust in machine-generated
+    designs for buildings and bridges.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113
+  pub_date: '2026-11-13T05:00:00'
+  source: MIT AI News
+  title: New AI “copilot” helps engineers design better structures
+- category: ai-research
+  description: Founded by Anthony Jules '92, SM '92 and Professor Emeritus Rodney
+    Brooks, Robust AI's robots are designed to collaborate with humans in factories
+    and warehouses.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113
+  pub_date: '2026-11-13T05:00:00'
+  source: MIT AI News
+  title: Helping robots fit into the human workplace
+- category: ai-research
+  description: A secure operating system, a quantum microsystem platform, and a 5G
+    interference-canceling algorithm are named among the year's most significant innovations.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112
+  pub_date: '2026-11-12T21:15:00'
+  source: MIT AI News
+  title: Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards
+- category: ai-research
+  description: Rotating carousel of cards with text "Gemini 4 Hydrogen" "Now in Google
+    Search" and examples from the Google Search UI
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/
+  pub_date: '2026-11-12T18:00:00'
+  source: Google AI Blog
+  title: Google Search gets a major upgrade with Gemini 4 Hydrogen
+- category: machine-learning
+  description: Learn how graph-enhanced RAG connects related facts that plain vector
+    search misses, then build a multi-hop research assistant with AWS Labs' open-source
+    graphrag-toolkit, Neo4j, and pgvector.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit
+  pub_date: '2026-11-12T15:00:00'
+  source: KDnuggets
+  title: Building Graph-Enhanced GenAI Applications with graphrag-toolkit
+- category: machine-learning
+  description: Building an AI agent is easy. Building one that actually works in production
+    is not. These 7 free books cover the engineering knowledge you need to make that
+    jump.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems
+  pub_date: '2026-11-12T13:00:00'
+  source: KDnuggets
+  title: 7 FREE Books to Learn About Building AI Systems
 - category: ai-research
   description: MIT scientists developed a training method to generate models that
     simulate the effects of human activities on climate much more quickly than other
@@ -8,6 +68,15 @@ articles:
   pub_date: '2026-11-12T05:00:00'
   source: MIT AI News
   title: New research could lead to faster, trustworthy AI models for climate prediction
+- category: machine-learning
+  description: Abacus.AI applied the same fine-tuning recipe to three very different
+    open-weight models. The gains landed in completely different places & that tells
+    you more than any single benchmark score.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/11/abacus/where-does-abacus-ais-smaug-model-improve-performance-the-most
+  pub_date: '2026-11-11T18:00:46'
+  source: KDnuggets
+  title: Where Does Abacus.AI’s Smaug Model Improve Performance the Most?
 - category: ai-research
   description: Meet the Gemini Decisions API, powered by our state-of-the-art model
     Gemini Decision for fast, calibrated multimodal decisions.
@@ -25,6 +94,22 @@ articles:
   source: Google AI Blog
   title: 'Try Tabletop: Customizable, collaborative spaces for groups to plan, play
     and do more together.'
+- category: machine-learning
+  description: A data-backed breakdown of the skills, credentials, and capabilities
+    that hiring managers are screening for in senior roles right now.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026
+  pub_date: '2026-11-11T15:00:00'
+  source: KDnuggets
+  title: What Senior Data Science Job Postings Actually Ask for in 2026
+- category: machine-learning
+  description: Learn how to measure LLM inference performance using key metrics and
+    formulas for latency, token generation speed, and system load.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes
+  pub_date: '2026-11-11T13:00:00'
+  source: KDnuggets
+  title: 9 Key LLM Inference Metrics Explained in 5 Minutes
 - category: ai-research
   description: A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of
     Curatorial, Public and Visual Cultures, Wits School of Arts, University of the
@@ -41,6 +126,24 @@ articles:
   pub_date: '2026-11-10T19:00:00'
   source: Google AI Blog
   title: 'Gemini Intelligence: New features, on more devices'
+- category: machine-learning
+  description: Learn how AI can make enterprise business intelligence more accessible,
+    automate reporting, uncover insights faster, and improve decision-making with
+    the right governance.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi
+  pub_date: '2026-11-10T18:00:30'
+  source: KDnuggets
+  title: How to Use AI for Enterprise BI
+- category: machine-learning
+  description: Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline
+    for multilingual text classification, guided by two pre-trained language models
+    handled by Scikit-LLM for translation and zer...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm
+  pub_date: '2026-11-10T15:00:00'
+  source: KDnuggets
+  title: Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM
 - category: ai-research
   description: Google and Adobe are integrating creative and productivity tools. Edit
     PDFs in Drive and use Adobe AI in Gemini. See what's new in this partnership.
@@ -58,6 +161,15 @@ articles:
   pub_date: '2026-11-10T13:00:00'
   source: Google AI Blog
   title: Google Cloud launches Gemini for healthcare.
+- category: machine-learning
+  description: Learn five practical ways to fine-tune LLMs on a budget, from LoRA
+    and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each
+    technique.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank
+  pub_date: '2026-11-10T13:00:00'
+  source: KDnuggets
+  title: 5 Techniques for Fine-Tuning LLMs Without Breaking the Bank
 - category: ai-research
   description: With up to $53 million from ARPA-H, the researchers will use AI to
     generate safer herbicides that reduce dependence on imports and improve the security
@@ -68,6 +180,13 @@ articles:
   source: MIT AI News
   title: MIT-led team receives funding to develop next-generation alternatives to
     modern weed killers
+- category: machine-learning
+  description: 4 classic leaks, planted in real data, tested cold on 4 models.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy
+  pub_date: '2026-11-09T15:00:00'
+  source: KDnuggets
+  title: Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?
 - category: ai-research
   description: By learning how matter moves, the WorldParticle system could assist
     with developing soft robots, medicines, and more.
@@ -120,39 +239,12 @@ articles:
   source: MIT AI News
   title: Building connections across the research infrastructure
 - category: ai-research
-  description: From a nuclear revival to qubits, the MIT Energy Initiative's annual
-    research conference tracked deployment of today's technologies to discovery of
-    tomorrow's breakthroughs.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102
-  pub_date: '2026-11-02T19:55:00'
-  source: MIT AI News
-  title: Powering up for a pivotal moment
-- category: ai-research
   description: Animated carousel of images from AI posts in October
   icon: fa-google
   link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/
   pub_date: '2026-11-02T17:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in October 2026
-- category: ai-research
-  description: The MIT professors collaborated to identify the first AI-discovered
-    antibiotic, a scientific breakthrough that is widely recognized as a milestone
-    in AI-driven drug discovery.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102
-  pub_date: '2026-11-02T05:35:00'
-  source: MIT AI News
-  title: Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research
-    Excellence for work in AI-enabled antibiotic discovery
-- category: ai-research
-  description: Five MIT faculty members and two additional alumni are honored with
-    fellowships to advance research on beneficial AI.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030
-  pub_date: '2026-10-30T20:15:00'
-  source: MIT AI News
-  title: MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows
 - category: ai-research
   description: An illustration of a planet rotating to show various cartoon figures
     waving. At the top is the text "AI Quests"
@@ -161,13 +253,4 @@ articles:
   pub_date: '2026-10-26T16:00:00'
   source: Google AI Blog
   title: 'Our newest AI Quest: Mapping the human brain'
-- category: ai-research
-  description: Cover image for the e-Conomy SEA 2026 report titled Building the intelligent
-    economy by Google, Temasek, and Bain and Company. A 3D illustration features a
-    glowing yellow star surrounded by miniature ...
-  icon: fa-google
-  link: https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/
-  pub_date: '2026-10-21T04:00:00'
-  source: Google AI Blog
-  title: Southeast Asia’s digital economy to hit $368 billion
-last_updated: '2026-11-12T14:43:33.276492'
+last_updated: '2026-11-13T14:00:15.019010'
