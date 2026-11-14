@@ -1,5 +1,14 @@
 articles:
 - category: machine-learning
+  description: DuckLake is an open lakehouse table format from the DuckDB team. It
+    keeps table metadata in a SQL database and the data in Parquet files. DuckLake
+    1.0 shipped in April 2026 with a stable specification...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour
+  pub_date: '2026-11-13T15:00:00'
+  source: KDnuggets
+  title: 'Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour'
+- category: machine-learning
   description: Looking for a free alternative to Jev? Here are 5 open-source decision
     models you can run locally, from high-accuracy options to lightweight models for
     AI agents.
@@ -180,13 +189,6 @@ articles:
   source: MIT AI News
   title: MIT-led team receives funding to develop next-generation alternatives to
     modern weed killers
-- category: machine-learning
-  description: 4 classic leaks, planted in real data, tested cold on 4 models.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy
-  pub_date: '2026-11-09T15:00:00'
-  source: KDnuggets
-  title: Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?
 - category: ai-research
   description: By learning how matter moves, the WorldParticle system could assist
     with developing soft robots, medicines, and more.
@@ -253,4 +255,4 @@ articles:
   pub_date: '2026-10-26T16:00:00'
   source: Google AI Blog
   title: 'Our newest AI Quest: Mapping the human brain'
-last_updated: '2026-11-13T14:00:15.019010'
+last_updated: '2026-11-14T13:02:37.142713'

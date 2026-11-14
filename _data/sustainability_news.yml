@@ -1,4 +1,60 @@
 articles:
+- category: supply-chain
+  description: Microsoft categorically denied the outage was the result of a malicious
+    cyber attack.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/all-technology/article/16425635/microsoft-outage-a-reminder-of-fragility-of-web-technology
+  pub_date: '2026-11-13T19:41:56'
+  source: SupplyChainBrain
+  title: Microsoft Outage a Reminder of Fragility of Web Technology
+- category: supply-chain
+  description: Rules-based forecasting has served retailers well for decades. However,
+    as the industry grows, forecasting is becoming more and...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/blogs/think-tank/blog/15883286/turning-better-forecasts-into-better-supply-chain-decisions
+  pub_date: '2026-11-13T17:00:00'
+  source: SupplyChainBrain
+  title: Turning Better Forecasts Into Better Supply Chain Decisions
+- category: supply-chain
+  description: Whether consumers should share in the $166 billion of refunds soon
+    became a point of contention.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/article/16425536/ftc-urged-to-probe-companies-not-sharing-tariff-refunds-with-consumers
+  pub_date: '2026-11-13T14:37:52'
+  source: SupplyChainBrain
+  title: FTC Urged to Probe Companies Not Sharing Tariff Refunds With Consumers
+- category: supply-chain
+  description: USPS plans to raise parcel prices 5.9% in January and make its fuel
+    surcharge permanent at 11%, pending regulatory review.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/usps-2027-shipping-price-increase-fuel-surcharge
+  pub_date: '2026-11-13T14:10:00'
+  source: Supply Chain 24/7
+  title: USPS to Make Fuel Surcharge Permanent, Raise Parcel Prices 5.9% in 2027
+- category: supply-chain
+  description: UPS sued the U.S. government to recover IEEPA tariff refunds, with
+    interest, on entries Customs can't process through its automated system.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-sues-government-ieepa-tariff-refunds
+  pub_date: '2026-11-13T14:05:00'
+  source: Supply Chain 24/7
+  title: UPS Sues U.S. Government to Recover Outstanding Trump Tariff Refunds
+- category: supply-chain
+  description: Six freight management trends to watch in 2027 include more driverless
+    trucks and new ways to spot delays, find carriers, and reroute shipments.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/freight-management-trends-2027
+  pub_date: '2026-11-13T14:01:00'
+  source: Supply Chain 24/7
+  title: Six Freight Management Trends Shippers Should Watch in 2027
+- category: supply-chain
+  description: Arkestro's Edmund Zagorin shares how his years on a high school debate
+    team shaped the way he listens to suppliers and negotiates deals.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/leadership-lessons-edmund-zagorin-arkestro
+  pub_date: '2026-11-13T13:03:00'
+  source: Supply Chain 24/7
+  title: 'Leadership Lessons: Edmund Zagorin of Arkestro'
 - category: circular
   description: Government-funded operation begins to remove 18,000 tonnes of waste
     from illegal site spread across land owned by Wigan Council and King Charles.
@@ -8,6 +64,14 @@ articles:
   pub_date: '2026-11-13T10:55:21'
   source: Circular Online
   title: Major clean-up begins at notorious illegal waste site in Wigan
+- category: supply-chain
+  description: The departure of Huang could deprive the AI industry of one of its
+    most vocal champions.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/high-tech-electronics/article/16425499/nvidias-asian-supply-chain-prepares-for-life-after-huang
+  pub_date: '2026-11-13T05:00:00'
+  source: SupplyChainBrain
+  title: Nvidia's Asian Supply Chain Prepares for Life after Huang
 - category: supply-chain
   description: From June through October, the Port processed nearly 5 million TEUs,
     the strongest five-month stretch in its history.
@@ -105,46 +169,6 @@ articles:
   pub_date: '2026-11-12T08:00:00'
   source: SupplyChainBrain
   title: Autonomous Trucks Could Be Cheaper Than Human Drivers in U.S. by 2028
-- category: supply-chain
-  description: The company will also look to consolidate sugar cane harvester production
-    in Catalo, Brazil, to move manufacturing closer to...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/business-strategy-alignment/article/16425103/john-deere-to-close-pair-of-iowa-factories
-  pub_date: '2026-11-12T08:00:00'
-  source: SupplyChainBrain
-  title: John Deere to Close Pair of Iowa Factories
-- category: supply-chain
-  description: Owning the building a business operates in is a capital allocation
-    decision, not a given.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/blogs/think-tank/blog/16425019/rethinking-owned-warehouses-as-a-capital-allocation-decision
-  pub_date: '2026-11-12T08:00:00'
-  source: SupplyChainBrain
-  title: Rethinking Owned Warehouses as a Capital Allocation Decision
-- category: supply-chain
-  description: A product plan can be accurate in aggregate and wrong in the locations
-    where inventory sits.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/blogs/think-tank/blog/16425018/using-weather-forecasts-to-sharpen-regional-demand-planning
-  pub_date: '2026-11-12T08:00:00'
-  source: SupplyChainBrain
-  title: Using Weather Forecasts to Sharpen Regional Demand Planning
-- category: supply-chain
-  description: Some of the clearest evidence of whether the operating model is actually
-    working sits in inventory, receivables and the cash conversion...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/forecasting-demand-planning/blog/15883280/what-your-balance-sheet-says-about-supply-chain-execution
-  pub_date: '2026-11-12T08:00:00'
-  source: SupplyChainBrain
-  title: What Your Balance Sheet Says About Supply Chain Execution
-- category: supply-chain
-  description: DHL Supply Chain is piloting adaptive warehouse robots and putting
-    AI software to work coordinating employees and equipment at operating warehouses.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/dhl-adaptive-warehouse-robots-ai-orchestration
-  pub_date: '2026-11-11T15:32:00'
-  source: Supply Chain 24/7
-  title: DHL Tests Warehouse Robots That Can Decide What to Do When Plans Shift
 - category: circular
   description: 'Circular Online brings you live updates from day 3 of the ISWA World
     Congress 2026 as it returns to London for the first time in 30 years. The post
@@ -154,30 +178,6 @@ articles:
   pub_date: '2026-11-11T15:13:47'
   source: Circular Online
   title: 'LIVE: ISWA World Congress London 2026 – Day 3'
-- category: supply-chain
-  description: USPS narrowed its annual loss to $6.5 billion as higher rates and Ground
-    Advantage growth lifted revenue despite a drop in overall parcel volume.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usps-2026-loss-package-revenue-ground-advantage
-  pub_date: '2026-11-11T13:53:00'
-  source: Supply Chain 24/7
-  title: USPS Lost $6.5 Billion Despite a $2.4 Billion Revenue Gain
-- category: supply-chain
-  description: Retail and manufacturing leaders rate their AI readiness at just 4.9
-    out of 10, with governance the weakest area, a new RELEX survey finds.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/relex-survey-supply-chain-ai-readiness-governance-gap
-  pub_date: '2026-11-11T13:27:00'
-  source: Supply Chain 24/7
-  title: Supply Chain Leaders Give Their AI Readiness a 4.9 Out of 10 Score
-- category: supply-chain
-  description: In a UK pilot, Kuehne+Nagel's electric trucks charged at Amazon sites
-    during loading and unloading, hitting a 90% charging success rate.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/kuehne-nagel-amazon-shared-electric-truck-charging-pilot-uk
-  pub_date: '2026-11-11T13:20:00'
-  source: Supply Chain 24/7
-  title: Amazon and Kuehne+Nagel Test Shared Truck Charging in the UK
 - category: circular
   description: The Institution of Mechanical Engineers (IMechE) has called for changes
     to government policy and investment to help UK industry recover and reuse more
@@ -251,4 +251,4 @@ articles:
   pub_date: '2026-11-09T09:56:24'
   source: Circular Online
   title: 'LIVE: ISWA World Congress London 2026 – Day 1'
-last_updated: '2026-11-13T14:00:14.228920'
+last_updated: '2026-11-14T13:02:36.442124'
