@@ -1,5 +1,13 @@
 articles:
 - category: supply-chain
+  description: Chips, memory and some key components are currently tight, which is
+    a challenge facing the industry as a whole.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/high-tech-electronics/article/16425695/taiwans-foxconn-bullish-on-outlook-but-warns-about-supply-chain-tightness
+  pub_date: '2026-11-15T05:00:00'
+  source: SupplyChainBrain
+  title: Taiwan's Foxconn Bullish on Outlook But Warns About Supply Chain Tightness
+- category: supply-chain
   description: Microsoft categorically denied the outage was the result of a malicious
     cyber attack.
   icon: fa-truck
@@ -161,14 +169,6 @@ articles:
   pub_date: '2026-11-12T13:59:00'
   source: Supply Chain 24/7
   title: BASF Opens $1 Billion Chemical Plant at Its Geismar, Louisiana, Site
-- category: supply-chain
-  description: In Europe and the Middle East, the same cost crossover isn't expected
-    to occur until closer to 2030 and 2032 respectively.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/ltl-truckload-services/article/16425135/autonomous-trucks-could-be-cheaper-than-human-drivers-in-us-by-2028
-  pub_date: '2026-11-12T08:00:00'
-  source: SupplyChainBrain
-  title: Autonomous Trucks Could Be Cheaper Than Human Drivers in U.S. by 2028
 - category: circular
   description: 'Circular Online brings you live updates from day 3 of the ISWA World
     Congress 2026 as it returns to London for the first time in 30 years. The post
@@ -251,4 +251,4 @@ articles:
   pub_date: '2026-11-09T09:56:24'
   source: Circular Online
   title: 'LIVE: ISWA World Congress London 2026 – Day 1'
-last_updated: '2026-11-14T13:02:36.442124'
+last_updated: '2026-11-15T13:30:51.115278'
