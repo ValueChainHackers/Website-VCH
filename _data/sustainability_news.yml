@@ -1,4 +1,46 @@
 articles:
+- category: circular
+  description: The UK Government missed its recycling target for 2024/25, recycling
+    56% of waste from its estate and operations against a goal of at least 70%. Defra's
+    Greening Government Commitments report, publish...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/uk-government-misses-70-recycling-target-despite-cutting-waste/
+  pub_date: '2026-11-16T09:21:11'
+  source: Circular Online
+  title: UK Government misses 70% recycling target despite cutting waste
+- category: circular
+  description: Biffa has announced plans to offer up to 2,000 roles for young people
+    across the UK through the Government's Youth Guarantee. The post Biffa announces
+    up to 2,000 youth roles amid sector recruitment c...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/biffa-announces-up-to-2000-youth-roles-amid-sector-recruitment-challenge/
+  pub_date: '2026-11-16T09:13:48'
+  source: Circular Online
+  title: Biffa announces up to 2,000 youth roles amid sector recruitment challenge
+- category: supply-chain
+  description: Nevoya and Meta partner to deploy 25 electric Class 8 trucks on I-10,
+    powered by renewable energy-matched charging.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/green-energy/article/16425622/nevoya-to-support-meta-with-25-bevs-on-southwestern-route
+  pub_date: '2026-11-16T05:00:00'
+  source: SupplyChainBrain
+  title: Nevoya to Support Meta with 25 BEVs on Southwestern Route
+- category: supply-chain
+  description: Are dire predictions about the rising cost and shrinking availability
+    of critical metals justifiable this time around?
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/scb-features/article/16425608/are-critical-industrial-metals-in-for-a-decadelong-price-rise
+  pub_date: '2026-11-16T05:00:00'
+  source: SupplyChainBrain
+  title: Are Critical Industrial Metals in for a Decade-Long Price Rise?
+- category: supply-chain
+  description: An authority matrix tells the system what it may do. An accountability
+    map tells the organization who answers when it does it.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/blogs/think-tank/blog/15883289/ai-decisionmaking-in-supply-chains-who-answers-when-the-algorithm-decides
+  pub_date: '2026-11-16T05:00:00'
+  source: SupplyChainBrain
+  title: 'AI Decision-Making in Supply Chains: Who Answers When the Algorithm Decides?'
 - category: supply-chain
   description: Chips, memory and some key components are currently tight, which is
     a challenge facing the industry as a whole.
@@ -97,22 +139,6 @@ articles:
   source: SupplyChainBrain
   title: The Shipping Line Item That Erases Cyber Monday Profit
 - category: supply-chain
-  description: Geopolitical uncertainty requires organizations to construct highly
-    adaptive resilience frameworks.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/blogs/think-tank/blog/15883288/how-geopolitical-friction-is-redefining-cyber-resilience
-  pub_date: '2026-11-12T20:18:27'
-  source: SupplyChainBrain
-  title: How Geopolitical Friction Is Redefining Cyber Resilience
-- category: supply-chain
-  description: Chinese government subsidies for automakers building cars running on
-    fuels other than gasoline prompted a huge increase in supply...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/automotive/article/16425426/nissan-reports-tough-market-conditions-in-china
-  pub_date: '2026-11-12T18:18:15'
-  source: SupplyChainBrain
-  title: Nissan Reports Tough Market Conditions in China
-- category: supply-chain
   description: U.S. container imports set an October record of 2.67 million TEUs as
     shipments from China climbed and East and Gulf Coast ports gained share.
   icon: fa-box
@@ -120,14 +146,6 @@ articles:
   pub_date: '2026-11-12T17:41:00'
   source: Supply Chain 24/7
   title: U.S. Container Imports Break a Four-Year Volume Record in October
-- category: supply-chain
-  description: Last month, Asia's oil costs surged after freight rates across all
-    types of tankers hit record levels.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/ocean-transportation/article/16425380/asia-buys-up-african-brazilian-oil-as-shipping-costs-fall
-  pub_date: '2026-11-12T15:07:56'
-  source: SupplyChainBrain
-  title: Asia Buys up African, Brazilian Oil as Shipping Costs Fall
 - category: supply-chain
   description: Driverless trucks could match conventional U.S. trucking costs by 2028,
     but slower fleet growth could push that date to 2032, Kearney says.
@@ -233,22 +251,4 @@ articles:
   pub_date: '2026-11-10T09:05:40'
   source: Circular Online
   title: 'LIVE: ISWA World Congress London 2026 – Day 2'
-- category: circular
-  description: 'Former European Environment Commissioner tells ISWA World Congress
-    that recycling alone cannot deliver resource security and urges a wider approach
-    to circularity. The post ISWA: Potonik calls for mat...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/iswa-potocnik-calls-for-material-footprint-targets-to-cut-resource-demand/
-  pub_date: '2026-11-09T12:30:13'
-  source: Circular Online
-  title: 'ISWA: Potočnik calls for material footprint targets to cut resource demand'
-- category: circular
-  description: 'Circular Online brings you the latest live updates from the ISWA World
-    Congress 2026 as it returns to London for the first time in 30 years. The post
-    LIVE: ISWA World Congress London 2026 - Day 1 appe...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/live-iswa-world-congress-london-2026/
-  pub_date: '2026-11-09T09:56:24'
-  source: Circular Online
-  title: 'LIVE: ISWA World Congress London 2026 – Day 1'
-last_updated: '2026-11-15T13:30:51.115278'
+last_updated: '2026-11-16T14:58:12.800259'

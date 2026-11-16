@@ -1,4 +1,19 @@
 articles:
+- category: ai-research
+  description: tbd
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/
+  pub_date: '2026-11-16T14:00:00'
+  source: Google AI Blog
+  title: New Ask Maps features to help with holiday travel and prep
+- category: machine-learning
+  description: Learn agentic system design with this 7-step roadmap covering tools,
+    memory, control loops, multi-agent coordination, evaluation, and deployment.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap
+  pub_date: '2026-11-16T13:00:00'
+  source: KDnuggets
+  title: 'Agentic System Design: A Self-Study Roadmap'
 - category: machine-learning
   description: DuckLake is an open lakehouse table format from the DuckDB team. It
     keeps table metadata in a SQL database and the data in Parquet files. DuckLake
@@ -170,15 +185,6 @@ articles:
   pub_date: '2026-11-10T13:00:00'
   source: Google AI Blog
   title: Google Cloud launches Gemini for healthcare.
-- category: machine-learning
-  description: Learn five practical ways to fine-tune LLMs on a budget, from LoRA
-    and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each
-    technique.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank
-  pub_date: '2026-11-10T13:00:00'
-  source: KDnuggets
-  title: 5 Techniques for Fine-Tuning LLMs Without Breaking the Bank
 - category: ai-research
   description: With up to $53 million from ARPA-H, the researchers will use AI to
     generate safer herbicides that reduce dependence on imports and improve the security
@@ -247,12 +253,4 @@ articles:
   pub_date: '2026-11-02T17:45:00'
   source: Google AI Blog
   title: The latest AI news we announced in October 2026
-- category: ai-research
-  description: An illustration of a planet rotating to show various cartoon figures
-    waving. At the top is the text "AI Quests"
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/
-  pub_date: '2026-10-26T16:00:00'
-  source: Google AI Blog
-  title: 'Our newest AI Quest: Mapping the human brain'
-last_updated: '2026-11-15T13:30:51.813331'
+last_updated: '2026-11-16T14:58:13.458223'
