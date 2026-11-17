@@ -1,4 +1,136 @@
 articles:
+- category: supply-chain
+  description: Secretary Duffy said the installation at an FAA radio communications
+    site in El Dorado, Arkansas, led to an overload of a key...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/air-cargo/article/16541747/us-senators-urge-faa-to-pause-new-router-deployment-pending-testing
+  pub_date: '2026-11-17T14:32:36'
+  source: SupplyChainBrain
+  title: U.S. Senators Urge FAA to Pause New Router Deployment Pending Testing
+- category: circular
+  description: CIWM and the Circular Economy Institute (CEI) have launched a joint
+    report at COP31 calling for a shift towards resource stewardship. The post CIWM
+    and CEI launch circular economy vision for 2050 at C...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/ciwm-and-cei-launch-circular-economy-vision-for-2050-at-cop31/
+  pub_date: '2026-11-17T09:31:30'
+  source: Circular Online
+  title: CIWM and CEI launch circular economy vision for 2050 at COP31
+- category: supply-chain
+  description: The event came just weeks after Audi announced plans for a new manufacturing
+    facility in central Georgia.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/global-gateways/article/16541688/brunswick-state-of-the-port-touts-georgias-booming-auto-industry
+  pub_date: '2026-11-17T08:00:00'
+  source: SupplyChainBrain
+  title: Brunswick State of the Port Touts Georgia's Booming Auto Industry
+- category: supply-chain
+  description: Can newly-elected Democrats in Congress actually force an end to the
+    ongoing conflict in Iran?
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/supply-chains-in-crisis/article/16425411/fate-of-hormuz-remains-in-limbo-following-midterm-sweep-for-democrats
+  pub_date: '2026-11-17T08:00:00'
+  source: SupplyChainBrain
+  title: Fate of Hormuz Remains in Limbo Following Midterm Sweep for Democrats
+- category: supply-chain
+  description: Sometimes the smarter way to reduce logistics risk isn't to add another
+    provider, but to get more from the right one.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/logistics-outsourcing/blog/16170251/fewer-providers-fewer-handoffs-a-smarter-approach-to-logistics-risk
+  pub_date: '2026-11-17T08:00:00'
+  source: SupplyChainBrain
+  title: 'Fewer Providers, Fewer Handoffs: A Smarter Approach to Logistics Risk'
+- category: supply-chain
+  description: Internet of things sensors make supply chain resilience practical when
+    every important measurement connects to a specific decision...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/data-management-big-data-iot-blockchain/blog/16095508/how-iot-sensors-boost-supply-chain-resilience
+  pub_date: '2026-11-17T08:00:00'
+  source: SupplyChainBrain
+  title: How IoT Sensors Boost Supply Chain Resilience
+- category: supply-chain
+  description: Carney noted that while negotiations with the U.S. remain a priority,
+    China, Japan and Europe could offer attractive alternatives...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/automotive/article/16541635/canada-could-court-chinese-automakers-if-us-talks-fail
+  pub_date: '2026-11-16T20:00:00'
+  source: SupplyChainBrain
+  title: Canada Could Court Chinese Automakers if U.S. Talks Fail
+- category: supply-chain
+  description: Workers are demanding a monthly minimum wage of 30,000 taka ($241),
+    up from the current monthly wage of 12,500 taka.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16541607/labor-strike-shuts-down-dozens-of-bangladesh-garment-factories
+  pub_date: '2026-11-16T18:21:23'
+  source: SupplyChainBrain
+  title: Labor Strike Shuts Down Dozens of Bangladesh Garment Factories
+- category: supply-chain
+  description: Nearly a third of respondents named the shipping dock their most congested
+    area, up from 9% a year earlier, as peak warehouse space use fell.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-shipping-dock-congestion-survey-2026
+  pub_date: '2026-11-16T16:22:00'
+  source: Supply Chain 24/7
+  title: Shipping Docks Are Now the Most Congested Part of the Warehouse
+- category: circular
+  description: Measures to prevent waste, extend product lifetimes and reduce demand
+    for new materials could avoid 149 billion tonnes of greenhouse gas emissions between
+    2025 and 2050, according to research released...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/zero-waste-measures-could-avoid-149-billion-tonnes-of-emissions-by-2050-report-estimates/
+  pub_date: '2026-11-16T15:14:48'
+  source: Circular Online
+  title: Zero waste measures could avoid 149 billion tonnes of emissions by 2050,
+    report estimates
+- category: supply-chain
+  description: Trump often unleashes punitive tech threats or action against Beijing
+    ahead of meetings with Xi.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/artificial-intelligence/article/16541570/us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia
+  pub_date: '2026-11-16T15:08:03'
+  source: SupplyChainBrain
+  title: U.S. to Curb China's Access to AI Chips as Trump Heads to Asia
+- category: supply-chain
+  description: AI can help supply chain teams respond faster to demand shifts and
+    shortages by handling routine moves and sending riskier decisions to planners.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supply-chain-decisions-between-planning-meetings
+  pub_date: '2026-11-16T14:31:00'
+  source: Supply Chain 24/7
+  title: Supply Chain Decisions Can’t Wait for the Next Planning Meeting
+- category: supply-chain
+  description: BMW opened its Woodruff, S.C., battery plant, which supplies Gen6 batteries
+    for the iX5, the first fully electric BMW built in the U.S.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/bmw-woodruff-south-carolina-battery-plant
+  pub_date: '2026-11-16T14:18:00'
+  source: Supply Chain 24/7
+  title: BMW Opens $700M South Carolina Battery Plant to Supply Electric SUVs
+- category: supply-chain
+  description: Savannah's airport opened a $80 million air cargo complex with two
+    freight buildings, space for wide-body planes, and a taxiway bridge.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/savannah-airport-air-cargo-complex-opens
+  pub_date: '2026-11-16T14:09:00'
+  source: Supply Chain 24/7
+  title: Savannah Airport Opens $80 Million Air Cargo Hub on a 36-Acre Site
+- category: supply-chain
+  description: GlobalFoundries broke ground on a Japan-backed, $10 billion chip plant
+    in Malta, New York, with production expected to start in 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/globalfoundries-breaks-ground-on-10-billion-chip-fab-in-new-york
+  pub_date: '2026-11-16T14:06:00'
+  source: Supply Chain 24/7
+  title: GlobalFoundries Breaks Ground on $10 Billion Chip Fab in New York
+- category: supply-chain
+  description: Learn how Ward Transport modernized its cost intelligence to improve
+    pricing decisions, network analysis, scalability, and organizational decision-making.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-can-ltl-carriers-modernize-cost-intelligence-without-replacing-proven-processes
+  pub_date: '2026-11-16T13:01:00'
+  source: Supply Chain 24/7
+  title: How Can LTL Carriers Modernize Cost Intelligence Without Replacing Proven
+    Processes?
 - category: circular
   description: The UK Government missed its recycling target for 2024/25, recycling
     56% of waste from its estate and operations against a goal of at least 70%. Defra's
@@ -29,50 +161,10 @@ articles:
   description: Are dire predictions about the rising cost and shrinking availability
     of critical metals justifiable this time around?
   icon: fa-truck
-  link: https://www.supplychainbrain.com/scb-features/article/16425608/are-critical-industrial-metals-in-for-a-decadelong-price-rise
+  link: https://www.supplychainbrain.com/scb-feature/article/16425608/are-critical-industrial-metals-in-for-a-decadelong-price-rise
   pub_date: '2026-11-16T05:00:00'
   source: SupplyChainBrain
   title: Are Critical Industrial Metals in for a Decade-Long Price Rise?
-- category: supply-chain
-  description: An authority matrix tells the system what it may do. An accountability
-    map tells the organization who answers when it does it.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/blogs/think-tank/blog/15883289/ai-decisionmaking-in-supply-chains-who-answers-when-the-algorithm-decides
-  pub_date: '2026-11-16T05:00:00'
-  source: SupplyChainBrain
-  title: 'AI Decision-Making in Supply Chains: Who Answers When the Algorithm Decides?'
-- category: supply-chain
-  description: Chips, memory and some key components are currently tight, which is
-    a challenge facing the industry as a whole.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/high-tech-electronics/article/16425695/taiwans-foxconn-bullish-on-outlook-but-warns-about-supply-chain-tightness
-  pub_date: '2026-11-15T05:00:00'
-  source: SupplyChainBrain
-  title: Taiwan's Foxconn Bullish on Outlook But Warns About Supply Chain Tightness
-- category: supply-chain
-  description: Microsoft categorically denied the outage was the result of a malicious
-    cyber attack.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/all-technology/article/16425635/microsoft-outage-a-reminder-of-fragility-of-web-technology
-  pub_date: '2026-11-13T19:41:56'
-  source: SupplyChainBrain
-  title: Microsoft Outage a Reminder of Fragility of Web Technology
-- category: supply-chain
-  description: Rules-based forecasting has served retailers well for decades. However,
-    as the industry grows, forecasting is becoming more and...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/blogs/think-tank/blog/15883286/turning-better-forecasts-into-better-supply-chain-decisions
-  pub_date: '2026-11-13T17:00:00'
-  source: SupplyChainBrain
-  title: Turning Better Forecasts Into Better Supply Chain Decisions
-- category: supply-chain
-  description: Whether consumers should share in the $166 billion of refunds soon
-    became a point of contention.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/article/16425536/ftc-urged-to-probe-companies-not-sharing-tariff-refunds-with-consumers
-  pub_date: '2026-11-13T14:37:52'
-  source: SupplyChainBrain
-  title: FTC Urged to Probe Companies Not Sharing Tariff Refunds With Consumers
 - category: supply-chain
   description: USPS plans to raise parcel prices 5.9% in January and make its fuel
     surcharge permanent at 11%, pending regulatory review.
@@ -114,79 +206,6 @@ articles:
   pub_date: '2026-11-13T10:55:21'
   source: Circular Online
   title: Major clean-up begins at notorious illegal waste site in Wigan
-- category: supply-chain
-  description: The departure of Huang could deprive the AI industry of one of its
-    most vocal champions.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/high-tech-electronics/article/16425499/nvidias-asian-supply-chain-prepares-for-life-after-huang
-  pub_date: '2026-11-13T05:00:00'
-  source: SupplyChainBrain
-  title: Nvidia's Asian Supply Chain Prepares for Life after Huang
-- category: supply-chain
-  description: From June through October, the Port processed nearly 5 million TEUs,
-    the strongest five-month stretch in its history.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/global-gateways/article/16425480/backtoback-million-teu-months-at-pola-set-record
-  pub_date: '2026-11-13T05:00:00'
-  source: SupplyChainBrain
-  title: Back-to-Back Million+ TEU Months at PoLA Set Record
-- category: supply-chain
-  description: Shipping economics belong in promotional planning, and the estimates
-    used to approve an offer need to reflect the charges the...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/blogs/think-tank/blog/15883282/the-shipping-line-item-that-erases-cyber-monday-profit
-  pub_date: '2026-11-13T05:00:00'
-  source: SupplyChainBrain
-  title: The Shipping Line Item That Erases Cyber Monday Profit
-- category: supply-chain
-  description: U.S. container imports set an October record of 2.67 million TEUs as
-    shipments from China climbed and East and Gulf Coast ports gained share.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/us-container-imports-record-october-2026
-  pub_date: '2026-11-12T17:41:00'
-  source: Supply Chain 24/7
-  title: U.S. Container Imports Break a Four-Year Volume Record in October
-- category: supply-chain
-  description: Driverless trucks could match conventional U.S. trucking costs by 2028,
-    but slower fleet growth could push that date to 2032, Kearney says.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/driverless-trucking-costs-kearney-study-2028
-  pub_date: '2026-11-12T14:47:00'
-  source: Supply Chain 24/7
-  title: Driverless Trucks Could Match Conventional Trucking Costs by 2028
-- category: supply-chain
-  description: Maersk confirmed hackers took data from a legacy system it acquired,
-    as a new ransomware group demands $5 million to keep it quiet.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/maersk-data-breach-legacy-system-ransomware
-  pub_date: '2026-11-12T14:09:00'
-  source: Supply Chain 24/7
-  title: Maersk Confirms Data Theft as Hackers Demand $5 Million
-- category: supply-chain
-  description: STG Logistics CEO Jack Holmes explains why truckers are passing on
-    loads and how a rush to restock could strain truck and rail capacity.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/truckload-capacity-intermodal-rail-freight
-  pub_date: '2026-11-12T14:03:00'
-  source: Supply Chain 24/7
-  title: Truckers Are Getting Pickier. Can Rail Pick Up the Slack?
-- category: supply-chain
-  description: H.B. Fuller will close seven manufacturing sites and reorganize North
-    American distribution around six regional centers.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/hb-fuller-seven-plant-closures-distribution-consolidation
-  pub_date: '2026-11-12T14:02:00'
-  source: Supply Chain 24/7
-  title: H.B. Fuller to Shut Down Seven Plants in North America and Europe
-- category: supply-chain
-  description: BASF opened a new chemical plant in Geismar, Louisiana, completing
-    a $1 billion expansion that nearly doubles the site's capacity for a key polyurethane
-    ingredient.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/basf-opens-geismar-louisiana-chemical-plant
-  pub_date: '2026-11-12T13:59:00'
-  source: Supply Chain 24/7
-  title: BASF Opens $1 Billion Chemical Plant at Its Geismar, Louisiana, Site
 - category: circular
   description: 'Circular Online brings you live updates from day 3 of the ISWA World
     Congress 2026 as it returns to London for the first time in 30 years. The post
@@ -233,22 +252,4 @@ articles:
   pub_date: '2026-11-10T14:34:38'
   source: Circular Online
   title: 'AI is the defining technology of our age: How should resources & waste respond?'
-- category: circular
-  description: The UK government is preparing an intervention over the impact of packaging
-    extended producer responsibility (pEPR) on glass manufacturers and hospitality
-    businesses, according to reports by The Groce...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/government-poised-to-intervene-over-glass-epr-costs-according-to-reports/
-  pub_date: '2026-11-10T12:37:21'
-  source: Circular Online
-  title: Government poised to intervene over glass EPR costs, according to reports
-- category: circular
-  description: 'Circular Online brings you live updates from day 2 of the ISWA World
-    Congress 2026 as it returns to London for the first time in 30 years. The post
-    LIVE: ISWA World Congress London 2026 - Day 2 appear...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/live-iswa-world-congress-london-2026-day-2/
-  pub_date: '2026-11-10T09:05:40'
-  source: Circular Online
-  title: 'LIVE: ISWA World Congress London 2026 – Day 2'
-last_updated: '2026-11-16T14:58:12.800259'
+last_updated: '2026-11-17T15:34:54.757822'
