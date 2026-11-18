@@ -1,5 +1,95 @@
 articles:
 - category: supply-chain
+  description: At the APEC Summit in China, President Sheinbaum also pointed to what
+    she described as Mexico's "privileged geographical position...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/rail-intermodal/article/16541899/mexicos-sheinbaum-celebrates-development-of-interoceanic-corridor
+  pub_date: '2026-11-18T13:57:00'
+  source: SupplyChainBrain
+  title: Mexico’s Sheinbaum Celebrates Development of Interoceanic Corridor
+- category: circular
+  description: The Prince and Princess of Wales have celebrated the five winners of
+    this year's Earthshot Prize at a ceremony in Mumbai, India. The post Earthshot
+    Prize announces 2026 winners appeared first on Circu...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/earthshot-prize-announces-2026-winners/
+  pub_date: '2026-11-18T10:43:17'
+  source: Circular Online
+  title: Earthshot Prize announces 2026 winners
+- category: circular
+  description: Material Focus estimates battery fires rose 135% to 2,839 incidents
+    in 2025, with around a quarter occurring in bin lorries and most councils surveyed
+    reporting a growing challenge. The post Battery f...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/battery-fires-in-uk-waste-system-cost-2-37bn-a-year-research-estimates/
+  pub_date: '2026-11-18T09:19:42'
+  source: Circular Online
+  title: Battery fires in UK waste system cost £2.37bn a year, research estimates
+- category: supply-chain
+  description: The announcement came following a meeting between French President
+    Emmanuel Macron and Malaysian Prime Minister Anwar Ibrahim...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16541875/malaysia-loosens-rare-earths-curbs-for-france
+  pub_date: '2026-11-18T08:00:00'
+  source: SupplyChainBrain
+  title: Malaysia Loosens Rare Earths Curbs for France
+- category: supply-chain
+  description: When asked what matters most in purchasing decisions, fuel efficiency
+    topped the list at 45%, followed by reliability/uptime at...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/ltl-truckload-services/article/16541860/survey-us-trucking-operators-expect-fleets-to-grow-over-next-year
+  pub_date: '2026-11-18T08:00:00'
+  source: SupplyChainBrain
+  title: 'Survey: U.S. Trucking Operators Expect Fleets to Grow Over Next Year'
+- category: supply-chain
+  description: A battery passport isn't the destination. It's the foundation for a
+    more transparent, efficient and scalable battery ecosystem...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/data-management-big-data-iot-blockchain/blog/16170255/digital-passports-set-the-stage-for-the-future-of-battery-recycling
+  pub_date: '2026-11-18T08:00:00'
+  source: SupplyChainBrain
+  title: Digital Passports Set the Stage for the Future of Battery Recycling
+- category: supply-chain
+  description: Geography is still a useful starting point for conducting supplier
+    risk assessments, but the evaluation process can't end there...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/blog/16170254/you-need-more-than-geography-to-measure-supplier-risk
+  pub_date: '2026-11-18T08:00:00'
+  source: SupplyChainBrain
+  title: You Need More Than Geography to Measure Supplier Risk
+- category: supply-chain
+  description: U.S. retail sales rose by just 0.2% month-to-month in October, down
+    from September's 0.8% increase.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16541824/us-retail-spending-slows-in-october
+  pub_date: '2026-11-17T19:06:14'
+  source: SupplyChainBrain
+  title: U.S. Retail Spending Slows in October
+- category: supply-chain
+  description: Retail holding corporation TJX Companies is getting $331 million in
+    tariff refunds, but plans to spend $112 million of that on...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16541799/companies-earmark-millions-in-tariff-refunds-for-corporate-bonuses
+  pub_date: '2026-11-17T18:18:28'
+  source: SupplyChainBrain
+  title: Companies Earmark Millions in Tariff Refunds for Corporate Bonuses
+- category: supply-chain
+  description: A MIT and Mecalux survey finds that companies are giving AI more authority
+    over warehouse decisions such as moving inventory and correcting records.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/warehouse-ai-decisions-mit-mecalux-survey
+  pub_date: '2026-11-17T14:55:00'
+  source: Supply Chain 24/7
+  title: Most Firms Expect AI to Handle More Warehouse Decisions by 2028
+- category: supply-chain
+  description: An Assent survey found that 70% of manufacturing specialists still
+    use spreadsheets for product compliance, and bad data is their top reporting challenge.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/manufacturers-spreadsheets-product-compliance-survey
+  pub_date: '2026-11-17T14:39:00'
+  source: Supply Chain 24/7
+  title: Seven in 10 Manufacturers Still Use Spreadsheets for Compliance
+- category: supply-chain
   description: Secretary Duffy said the installation at an FAA radio communications
     site in El Dorado, Arkansas, led to an overload of a key...
   icon: fa-truck
@@ -7,6 +97,22 @@ articles:
   pub_date: '2026-11-17T14:32:36'
   source: SupplyChainBrain
   title: U.S. Senators Urge FAA to Pause New Router Deployment Pending Testing
+- category: supply-chain
+  description: Amazon opened its first Puerto Rico delivery station in Dorado, where
+    workers sort packages for faster delivery across the San Juan area.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/amazon-puerto-rico-delivery-station-dorado
+  pub_date: '2026-11-17T14:27:00'
+  source: Supply Chain 24/7
+  title: Amazon Opens Its First Puerto Rico Delivery Station
+- category: supply-chain
+  description: Loftware agreed to buy Seagull Software, adding BarTender's barcode
+    printing and item-level tracking tools to its labeling business.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/loftware-acquires-seagull-software-bartender
+  pub_date: '2026-11-17T14:14:00'
+  source: Supply Chain 24/7
+  title: Loftware Agrees to Buy Seagull Software, the Company Behind BarTender
 - category: circular
   description: CIWM and the Circular Economy Institute (CEI) have launched a joint
     report at COP31 calling for a shift towards resource stewardship. The post CIWM
@@ -25,45 +131,13 @@ articles:
   source: SupplyChainBrain
   title: Brunswick State of the Port Touts Georgia's Booming Auto Industry
 - category: supply-chain
-  description: Can newly-elected Democrats in Congress actually force an end to the
-    ongoing conflict in Iran?
+  description: Although the Acro's voyage represented a significant milestone for
+    South Korea's Arctic ambitions, the trial still fell short...
   icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/supply-chains-in-crisis/article/16425411/fate-of-hormuz-remains-in-limbo-following-midterm-sweep-for-democrats
+  link: https://www.supplychainbrain.com/logistics/ocean-transportation/article/16541671/south-korean-carrier-weighs-selling-ship-after-first-arctic-journey
   pub_date: '2026-11-17T08:00:00'
   source: SupplyChainBrain
-  title: Fate of Hormuz Remains in Limbo Following Midterm Sweep for Democrats
-- category: supply-chain
-  description: Sometimes the smarter way to reduce logistics risk isn't to add another
-    provider, but to get more from the right one.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/logistics-outsourcing/blog/16170251/fewer-providers-fewer-handoffs-a-smarter-approach-to-logistics-risk
-  pub_date: '2026-11-17T08:00:00'
-  source: SupplyChainBrain
-  title: 'Fewer Providers, Fewer Handoffs: A Smarter Approach to Logistics Risk'
-- category: supply-chain
-  description: Internet of things sensors make supply chain resilience practical when
-    every important measurement connects to a specific decision...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/data-management-big-data-iot-blockchain/blog/16095508/how-iot-sensors-boost-supply-chain-resilience
-  pub_date: '2026-11-17T08:00:00'
-  source: SupplyChainBrain
-  title: How IoT Sensors Boost Supply Chain Resilience
-- category: supply-chain
-  description: Carney noted that while negotiations with the U.S. remain a priority,
-    China, Japan and Europe could offer attractive alternatives...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/automotive/article/16541635/canada-could-court-chinese-automakers-if-us-talks-fail
-  pub_date: '2026-11-16T20:00:00'
-  source: SupplyChainBrain
-  title: Canada Could Court Chinese Automakers if U.S. Talks Fail
-- category: supply-chain
-  description: Workers are demanding a monthly minimum wage of 30,000 taka ($241),
-    up from the current monthly wage of 12,500 taka.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16541607/labor-strike-shuts-down-dozens-of-bangladesh-garment-factories
-  pub_date: '2026-11-16T18:21:23'
-  source: SupplyChainBrain
-  title: Labor Strike Shuts Down Dozens of Bangladesh Garment Factories
+  title: South Korean Carrier Weighs Selling Ship After First Arctic Journey
 - category: supply-chain
   description: Nearly a third of respondents named the shipping dock their most congested
     area, up from 9% a year earlier, as peak warehouse space use fell.
@@ -82,14 +156,6 @@ articles:
   source: Circular Online
   title: Zero waste measures could avoid 149 billion tonnes of emissions by 2050,
     report estimates
-- category: supply-chain
-  description: Trump often unleashes punitive tech threats or action against Beijing
-    ahead of meetings with Xi.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/artificial-intelligence/article/16541570/us-to-curb-chinas-access-to-ai-chips-as-trump-heads-to-asia
-  pub_date: '2026-11-16T15:08:03'
-  source: SupplyChainBrain
-  title: U.S. to Curb China's Access to AI Chips as Trump Heads to Asia
 - category: supply-chain
   description: AI can help supply chain teams respond faster to demand shifts and
     shortages by handling routine moves and sending riskier decisions to planners.
@@ -149,54 +215,6 @@ articles:
   pub_date: '2026-11-16T09:13:48'
   source: Circular Online
   title: Biffa announces up to 2,000 youth roles amid sector recruitment challenge
-- category: supply-chain
-  description: Nevoya and Meta partner to deploy 25 electric Class 8 trucks on I-10,
-    powered by renewable energy-matched charging.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/green-energy/article/16425622/nevoya-to-support-meta-with-25-bevs-on-southwestern-route
-  pub_date: '2026-11-16T05:00:00'
-  source: SupplyChainBrain
-  title: Nevoya to Support Meta with 25 BEVs on Southwestern Route
-- category: supply-chain
-  description: Are dire predictions about the rising cost and shrinking availability
-    of critical metals justifiable this time around?
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/scb-feature/article/16425608/are-critical-industrial-metals-in-for-a-decadelong-price-rise
-  pub_date: '2026-11-16T05:00:00'
-  source: SupplyChainBrain
-  title: Are Critical Industrial Metals in for a Decade-Long Price Rise?
-- category: supply-chain
-  description: USPS plans to raise parcel prices 5.9% in January and make its fuel
-    surcharge permanent at 11%, pending regulatory review.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/usps-2027-shipping-price-increase-fuel-surcharge
-  pub_date: '2026-11-13T14:10:00'
-  source: Supply Chain 24/7
-  title: USPS to Make Fuel Surcharge Permanent, Raise Parcel Prices 5.9% in 2027
-- category: supply-chain
-  description: UPS sued the U.S. government to recover IEEPA tariff refunds, with
-    interest, on entries Customs can't process through its automated system.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/ups-sues-government-ieepa-tariff-refunds
-  pub_date: '2026-11-13T14:05:00'
-  source: Supply Chain 24/7
-  title: UPS Sues U.S. Government to Recover Outstanding Trump Tariff Refunds
-- category: supply-chain
-  description: Six freight management trends to watch in 2027 include more driverless
-    trucks and new ways to spot delays, find carriers, and reroute shipments.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/freight-management-trends-2027
-  pub_date: '2026-11-13T14:01:00'
-  source: Supply Chain 24/7
-  title: Six Freight Management Trends Shippers Should Watch in 2027
-- category: supply-chain
-  description: Arkestro's Edmund Zagorin shares how his years on a high school debate
-    team shaped the way he listens to suppliers and negotiates deals.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/leadership-lessons-edmund-zagorin-arkestro
-  pub_date: '2026-11-13T13:03:00'
-  source: Supply Chain 24/7
-  title: 'Leadership Lessons: Edmund Zagorin of Arkestro'
 - category: circular
   description: Government-funded operation begins to remove 18,000 tonnes of waste
     from illegal site spread across land owned by Wigan Council and King Charles.
@@ -234,22 +252,4 @@ articles:
   source: Circular Online
   title: Circular economy is a ‘national security issue’, Emma Hardy MP tells ISWA
     World Congress
-- category: circular
-  description: WRAP has called on governments at COP31 to strengthen national food
-    waste reduction plans, include food loss and waste in climate commitments and
-    increase investment in prevention. The post WRAP calls...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/wrap-calls-for-stronger-food-waste-commitments-at-cop31/
-  pub_date: '2026-11-11T08:04:02'
-  source: Circular Online
-  title: WRAP calls for stronger food waste commitments at COP31
-- category: circular
-  description: Check out our write-up of the exciting and interesting 'Publishing
-    Waste and Circularity Science in the Age of AI' panel from day 2 of the ISWA World
-    Congress 2026. AI is the defining technological in...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ai-is-the-defining-technology-of-our-age-how-does-resources-waste-respond/
-  pub_date: '2026-11-10T14:34:38'
-  source: Circular Online
-  title: 'AI is the defining technology of our age: How should resources & waste respond?'
-last_updated: '2026-11-17T15:34:54.757822'
+last_updated: '2026-11-18T15:11:45.454406'
