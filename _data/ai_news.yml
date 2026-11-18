@@ -1,4 +1,62 @@
 articles:
+- category: machine-learning
+  description: Why models ace Olympiad math and still fumble simple everyday tasks.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next
+  pub_date: '2026-11-18T15:00:00'
+  source: KDnuggets
+  title: 'Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next'
+- category: machine-learning
+  description: A data-backed breakdown of compensation across roles, experience levels,
+    industries, and geographies, so you know where you stand and where the premium
+    opportunities are.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning
+  pub_date: '2026-11-18T13:00:00'
+  source: KDnuggets
+  title: 'AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning'
+- category: ai-research
+  description: A more flexible training method can make AI text detectors more robust
+    when new models emerge or AI-generated text is disguised to appear human.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118
+  pub_date: '2026-11-18T05:00:00'
+  source: MIT AI News
+  title: Helping AI text detectors keep up with changing conditions
+- category: ai-research
+  description: Supported by the MIT Human Insight Collaborative, scholars are exploring
+    how AI is impacting the human experience and reshaping higher education.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117
+  pub_date: '2026-11-17T20:40:00'
+  source: MIT AI News
+  title: Putting a spotlight on AI, society, and humanity
+- category: ai-research
+  description: A user interface displaying the prompt "What can I get done for you?"
+    above an input box containing placeholder text "Describe a task".
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
+  pub_date: '2026-11-17T17:00:00'
+  source: Google AI Blog
+  title: Put Gemini to work for you
+- category: machine-learning
+  description: In this tutorial, you will train two scikit-learn classifiers on a
+    real dataset, expose their miscalibration with a reliability diagram and a Brier
+    score, and fix it with Platt scaling and isotonic re...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn
+  pub_date: '2026-11-17T15:00:00'
+  source: KDnuggets
+  title: How to Calibrate Your Classifier’s Probabilities in Scikit-learn
+- category: machine-learning
+  description: Compare affordable AI coding agents, AI-powered IDEs, open-source tools,
+    and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed,
+    and Xiaomi MiMo.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026
+  pub_date: '2026-11-17T13:00:00'
+  source: KDnuggets
+  title: 7 Best AI Coding Plans for $10 or Less in 2026
 - category: ai-research
   description: Assistant Professor John Urschel explains why learning the fundamental
     skills of mathematics is still essential despite the evolution of AI tools.
@@ -16,6 +74,23 @@ articles:
   pub_date: '2026-11-17T05:00:00'
   source: MIT AI News
   title: Learning the language of machine learning
+- category: machine-learning
+  description: Five governance problems emerge when AI agents begin taking real-world
+    actions, from unmanaged access and identity sprawl to approval bottlenecks and
+    manual oversight.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own
+  pub_date: '2026-11-16T18:00:47'
+  source: KDnuggets
+  title: 5 Things That Break When AI Agents Start Acting on Their Own
+- category: machine-learning
+  description: Stop wasting tokens debugging outdated code. Give Claude Code up-to-date
+    docs with Context7.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7
+  pub_date: '2026-11-16T15:00:00'
+  source: KDnuggets
+  title: How to Give Claude Code Up-to-Date Documentation With Context7
 - category: ai-research
   description: tbd
   icon: fa-google
@@ -23,6 +98,32 @@ articles:
   pub_date: '2026-11-16T14:00:00'
   source: Google AI Blog
   title: New Ask Maps features to help with holiday travel and prep
+- category: machine-learning
+  description: Learn agentic system design with this 7-step roadmap covering tools,
+    memory, control loops, multi-agent coordination, evaluation, and deployment.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap
+  pub_date: '2026-11-16T13:00:00'
+  source: KDnuggets
+  title: 'Agentic System Design: A Self-Study Roadmap'
+- category: machine-learning
+  description: DuckLake is an open lakehouse table format from the DuckDB team. It
+    keeps table metadata in a SQL database and the data in Parquet files. DuckLake
+    1.0 shipped in April 2026 with a stable specification...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour
+  pub_date: '2026-11-13T15:00:00'
+  source: KDnuggets
+  title: 'Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour'
+- category: machine-learning
+  description: Looking for a free alternative to Jev? Here are 5 open-source decision
+    models you can run locally, from high-accuracy options to lightweight models for
+    AI agents.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev
+  pub_date: '2026-11-13T13:00:00'
+  source: KDnuggets
+  title: 5 FREE Open-Source Alternatives to Jev
 - category: ai-research
   description: The system asks humans for feedback to increase trust in machine-generated
     designs for buildings and bridges.
@@ -56,6 +157,15 @@ articles:
   pub_date: '2026-11-12T18:00:00'
   source: Google AI Blog
   title: Google Search gets a major upgrade with Gemini 4 Hydrogen
+- category: machine-learning
+  description: Learn how graph-enhanced RAG connects related facts that plain vector
+    search misses, then build a multi-hop research assistant with AWS Labs' open-source
+    graphrag-toolkit, Neo4j, and pgvector.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit
+  pub_date: '2026-11-12T15:00:00'
+  source: KDnuggets
+  title: Building Graph-Enhanced GenAI Applications with graphrag-toolkit
 - category: ai-research
   description: MIT scientists developed a training method to generate models that
     simulate the effects of human activities on climate much more quickly than other
@@ -135,22 +245,6 @@ articles:
   title: A single AI model simulates the behavior of many substances, from sliding
     sand to folding proteins
 - category: ai-research
-  description: The new approach, known as FLEX, could lead to more intuitive, interactive
-    household and assistive robots.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109
-  pub_date: '2026-11-09T05:00:00'
-  source: MIT AI News
-  title: AI-assisted learning platform helps robots reason beyond literal commands
-- category: ai-research
-  description: A machine-learning approach called CheMeleon provides a practical way
-    to develop new drugs or other molecules with much less detailed, expensive experimentation.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106
-  pub_date: '2026-11-06T19:00:00'
-  source: MIT AI News
-  title: How to predict the behavior of molecules from scant data
-- category: ai-research
   description: Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images
     of a beehive, animals in conversation, a squid, and a woman walking down a street
   icon: fa-google
@@ -158,11 +252,4 @@ articles:
   pub_date: '2026-11-05T17:00:00'
   source: Google AI Blog
   title: 'Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips'
-- category: ai-research
-  description: Animated carousel of images from AI posts in October
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/
-  pub_date: '2026-11-02T17:45:00'
-  source: Google AI Blog
-  title: The latest AI news we announced in October 2026
-last_updated: '2026-11-17T15:34:55.314718'
+last_updated: '2026-11-18T15:11:46.494688'
