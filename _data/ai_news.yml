@@ -1,5 +1,58 @@
 articles:
 - category: machine-learning
+  description: Learn to build AI agents with Gemini and Google's ADK through this
+    free course, covering tools, memory, evaluation, and deployment.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course
+  pub_date: '2026-11-19T15:00:00'
+  source: KDnuggets
+  title: What I Learned From Kaggle + Google’s Free Agentic AI Course
+- category: ai-research
+  description: Researchers find air pollution from data center electricity use can
+    affect communities far from the facilities, with some of the highest impacts in
+    the Midwest.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119
+  pub_date: '2026-11-19T14:00:00'
+  source: MIT AI News
+  title: Study reveals data centers’ long-distance damage to air quality
+- category: machine-learning
+  description: Run BigQuery, Apache Spark, and Trino on one Apache Iceberg table in
+    Google Cloud's Lakehouse runtime catalog, with no copies or sync jobs, and see
+    how Iceberg handles concurrent commits between engin...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy
+  pub_date: '2026-11-19T13:00:00'
+  source: KDnuggets
+  title: 'One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single
+    Iceberg Copy'
+- category: ai-research
+  description: The speedy microrobot flies without an attached motion-capture system,
+    moving it closer to applications like agriculture or industrial surveillance.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118
+  pub_date: '2026-11-18T19:00:00'
+  source: MIT AI News
+  title: This featherweight, flying robot carries its own sensors and computers
+- category: ai-research
+  description: The Google Gemini app now supports lower-memory Android devices. Access
+    Gemini Live and custom image creation on your phone. Download the app today.
+  icon: fa-google
+  link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/
+  pub_date: '2026-11-18T17:00:00'
+  source: Google AI Blog
+  title: The Gemini app is now available on lower-memory Android devices.
+- category: machine-learning
+  description: Google's newest model has one job, and it never writes a word doing
+    it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass,
+    up to 262,144 input tokens per request.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them
+  pub_date: '2026-11-18T17:00:00'
+  source: KDnuggets
+  title: 'Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing
+    Them'
+- category: machine-learning
   description: Why models ace Olympiad math and still fumble simple everyday tasks.
   icon: fa-chart-bar
   link: https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next
@@ -106,24 +159,6 @@ articles:
   pub_date: '2026-11-16T13:00:00'
   source: KDnuggets
   title: 'Agentic System Design: A Self-Study Roadmap'
-- category: machine-learning
-  description: DuckLake is an open lakehouse table format from the DuckDB team. It
-    keeps table metadata in a SQL database and the data in Parquet files. DuckLake
-    1.0 shipped in April 2026 with a stable specification...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour
-  pub_date: '2026-11-13T15:00:00'
-  source: KDnuggets
-  title: 'Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour'
-- category: machine-learning
-  description: Looking for a free alternative to Jev? Here are 5 open-source decision
-    models you can run locally, from high-accuracy options to lightweight models for
-    AI agents.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev
-  pub_date: '2026-11-13T13:00:00'
-  source: KDnuggets
-  title: 5 FREE Open-Source Alternatives to Jev
 - category: ai-research
   description: The system asks humans for feedback to increase trust in machine-generated
     designs for buildings and bridges.
@@ -157,15 +192,6 @@ articles:
   pub_date: '2026-11-12T18:00:00'
   source: Google AI Blog
   title: Google Search gets a major upgrade with Gemini 4 Hydrogen
-- category: machine-learning
-  description: Learn how graph-enhanced RAG connects related facts that plain vector
-    search misses, then build a multi-hop research assistant with AWS Labs' open-source
-    graphrag-toolkit, Neo4j, and pgvector.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit
-  pub_date: '2026-11-12T15:00:00'
-  source: KDnuggets
-  title: Building Graph-Enhanced GenAI Applications with graphrag-toolkit
 - category: ai-research
   description: MIT scientists developed a training method to generate models that
     simulate the effects of human activities on climate much more quickly than other
@@ -225,31 +251,4 @@ articles:
   pub_date: '2026-11-10T13:00:00'
   source: Google AI Blog
   title: Google Cloud launches Gemini for healthcare.
-- category: ai-research
-  description: With up to $53 million from ARPA-H, the researchers will use AI to
-    generate safer herbicides that reduce dependence on imports and improve the security
-    of the U.S. food supply.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110
-  pub_date: '2026-11-10T05:00:00'
-  source: MIT AI News
-  title: MIT-led team receives funding to develop next-generation alternatives to
-    modern weed killers
-- category: ai-research
-  description: By learning how matter moves, the WorldParticle system could assist
-    with developing soft robots, medicines, and more.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109
-  pub_date: '2026-11-09T05:00:00'
-  source: MIT AI News
-  title: A single AI model simulates the behavior of many substances, from sliding
-    sand to folding proteins
-- category: ai-research
-  description: Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images
-    of a beehive, animals in conversation, a squid, and a woman walking down a street
-  icon: fa-google
-  link: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
-  pub_date: '2026-11-05T17:00:00'
-  source: Google AI Blog
-  title: 'Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips'
-last_updated: '2026-11-18T15:11:46.494688'
+last_updated: '2026-11-19T15:19:53.541487'
