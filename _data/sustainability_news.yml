@@ -1,5 +1,81 @@
 articles:
 - category: supply-chain
+  description: The announcement came following a two-day working visit to the Philippines
+    for the ASEAN Summit.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/aerospace-defense/article/16542129/trump-unveils-17-billion-of-southeast-asia-deals-for-us-firms-white-house-says
+  pub_date: '2026-11-19T15:09:07'
+  source: SupplyChainBrain
+  title: Trump Unveils $17 billion of Southeast Asia Deals for U.S. firms, White House
+    Says
+- category: supply-chain
+  description: Overall risk for the ocean freight trade lane registers as "high,"
+    as capacity tightens, and booking acceptance risk stays high...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/ocean-transportation/article/16542062/report-asianorth-america-trade-lane-presents-high-risk-level
+  pub_date: '2026-11-19T09:59:00'
+  source: SupplyChainBrain
+  title: 'Report: Asia-North America Trade Lane Presents High Risk Level'
+- category: supply-chain
+  description: Canada is taking a "step-by-step" approach to re-engage with China
+    after years of strained relations.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16542049/canada-adjusts-china-ties-carney-says-aiming-to-clinch-right-deal-with-us
+  pub_date: '2026-11-19T09:36:00'
+  source: SupplyChainBrain
+  title: Canada Adjusts China Ties, Carney Says, Aiming To Clinch Right Deal with
+    U.S.
+- category: supply-chain
+  description: For all the appeal of building machines in our own image, manufacturers
+    will have to judge how well humanoid robots can actually...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/robotics/article/16541973/can-humanoid-robots-earn-their-keep-on-the-factory-floor
+  pub_date: '2026-11-19T09:06:00'
+  source: SupplyChainBrain
+  title: Can Humanoid Robots Earn Their Keep on the Factory Floor?
+- category: supply-chain
+  description: The transition relies on giving people ways to check recommendations
+    and gradually expand what agents can do.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/artificial-intelligence/article/16425619/the-five-barriers-keeping-ai-agents-out-of-supply-chain-planning
+  pub_date: '2026-11-19T08:49:00'
+  source: SupplyChainBrain
+  title: The Five Barriers Keeping AI Agents Out of Supply Chain Planning
+- category: supply-chain
+  description: The PMA said ILWU Local 26 has indicated an unwillingness to extend
+    the contract beyond its expiration at 12:01 a.m. on Saturday...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16542029/southern-california-port-employers-say-no-movement-on-watchmen-contract-talks-as-strike-risk-grows
+  pub_date: '2026-11-18T20:12:33'
+  source: SupplyChainBrain
+  title: Southern California Port Employers Say No Movement on Watchmen Contract Talks
+    as Strike Risk Grows
+- category: supply-chain
+  description: The filing with the Surface Transportation Board includes a brief supported
+    by more than 130 exhibits, declarations from BNSF...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/rail-intermodal/article/16541991/bnsf-files-detailed-opposition-to-upns-merger
+  pub_date: '2026-11-18T19:29:00'
+  source: SupplyChainBrain
+  title: BNSF Files Detailed Opposition to UP-NS Merger
+- category: supply-chain
+  description: California's Department of Motor Vehicles has banned Waymo's driverless
+    taxis from state freeways, after a number of incidents...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/last-mile-delivery/article/16542003/waymo-suspends-all-driverless-taxis-from-us-freeways
+  pub_date: '2026-11-18T19:06:54'
+  source: SupplyChainBrain
+  title: Waymo Suspends All Driverless Taxis from U.S. Freeways
+- category: supply-chain
+  description: Duffy said the Federal Aviation Administration has paused installations
+    of Juniper routers as testing continues
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/air-cargo/article/16541982/transportation-secretary-duffy-says-us-taking-steps-to-avoid-future-aviation-disruptions
+  pub_date: '2026-11-18T17:51:02'
+  source: SupplyChainBrain
+  title: Transportation Secretary Duffy Says U.S. Taking Steps to Avoid Future Aviation
+    Disruptions
+- category: supply-chain
   description: At the APEC Summit in China, President Sheinbaum also pointed to what
     she described as Mexico's "privileged geographical position...
   icon: fa-truck
@@ -7,6 +83,47 @@ articles:
   pub_date: '2026-11-18T13:57:00'
   source: SupplyChainBrain
   title: Mexico’s Sheinbaum Celebrates Development of Interoceanic Corridor
+- category: supply-chain
+  description: DHL Express now lets U.S. shippers snap a photo of an item and get
+    a customs-ready description in seconds, cutting a common cause of delays.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/dhl-express-ai-item-identification-customs-descriptions
+  pub_date: '2026-11-18T13:46:00'
+  source: Supply Chain 24/7
+  title: New DHL Express Tool Turns a Product Photo Into a Customs Description
+- category: supply-chain
+  description: GEODIS launched a quarterly U.S. Final Mile Index that tracks parcel
+    and local trucking prices and puts the third-quarter increase at 10.5% year over
+    year.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/geodis-us-final-mile-index-delivery-prices
+  pub_date: '2026-11-18T13:41:00'
+  source: Supply Chain 24/7
+  title: GEODIS Starts Tracking What U.S. Shippers Pay for Last-Mile Delivery
+- category: supply-chain
+  description: LIMiK Capital will invest $327.7 million in a South Carolina power
+    transformer plant expected to create 400 jobs and start production in early 2028.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/limik-power-transformer-plant-gaffney-south-carolina
+  pub_date: '2026-11-18T13:34:00'
+  source: Supply Chain 24/7
+  title: LIMiK Plans $327.7 Million Power Transformer Plant in Gaffney, S.C.
+- category: supply-chain
+  description: J. J. Keller shares cargo security tips to help carriers protect loaded
+    trailers and parked trucks over the Thanksgiving holiday.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/thanksgiving-cargo-theft-prevention-tips
+  pub_date: '2026-11-18T13:21:00'
+  source: Supply Chain 24/7
+  title: How to Keep Cargo Safe Over Thanksgiving Weekend
+- category: supply-chain
+  description: Siemens opened a Raleigh-area factory to build and test power equipment
+    for data centers and expects it to create up to 200 manufacturing jobs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/siemens-raleigh-data-center-power-equipment-factory
+  pub_date: '2026-11-18T13:17:00'
+  source: Supply Chain 24/7
+  title: Siemens Opens Raleigh-Area Factory for Data Center Power Equipment
 - category: circular
   description: The Prince and Princess of Wales have celebrated the five winners of
     this year's Earthshot Prize at a ceremony in Mumbai, India. The post Earthshot
@@ -26,54 +143,6 @@ articles:
   source: Circular Online
   title: Battery fires in UK waste system cost £2.37bn a year, research estimates
 - category: supply-chain
-  description: The announcement came following a meeting between French President
-    Emmanuel Macron and Malaysian Prime Minister Anwar Ibrahim...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16541875/malaysia-loosens-rare-earths-curbs-for-france
-  pub_date: '2026-11-18T08:00:00'
-  source: SupplyChainBrain
-  title: Malaysia Loosens Rare Earths Curbs for France
-- category: supply-chain
-  description: When asked what matters most in purchasing decisions, fuel efficiency
-    topped the list at 45%, followed by reliability/uptime at...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/ltl-truckload-services/article/16541860/survey-us-trucking-operators-expect-fleets-to-grow-over-next-year
-  pub_date: '2026-11-18T08:00:00'
-  source: SupplyChainBrain
-  title: 'Survey: U.S. Trucking Operators Expect Fleets to Grow Over Next Year'
-- category: supply-chain
-  description: A battery passport isn't the destination. It's the foundation for a
-    more transparent, efficient and scalable battery ecosystem...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/data-management-big-data-iot-blockchain/blog/16170255/digital-passports-set-the-stage-for-the-future-of-battery-recycling
-  pub_date: '2026-11-18T08:00:00'
-  source: SupplyChainBrain
-  title: Digital Passports Set the Stage for the Future of Battery Recycling
-- category: supply-chain
-  description: Geography is still a useful starting point for conducting supplier
-    risk assessments, but the evaluation process can't end there...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/blog/16170254/you-need-more-than-geography-to-measure-supplier-risk
-  pub_date: '2026-11-18T08:00:00'
-  source: SupplyChainBrain
-  title: You Need More Than Geography to Measure Supplier Risk
-- category: supply-chain
-  description: U.S. retail sales rose by just 0.2% month-to-month in October, down
-    from September's 0.8% increase.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16541824/us-retail-spending-slows-in-october
-  pub_date: '2026-11-17T19:06:14'
-  source: SupplyChainBrain
-  title: U.S. Retail Spending Slows in October
-- category: supply-chain
-  description: Retail holding corporation TJX Companies is getting $331 million in
-    tariff refunds, but plans to spend $112 million of that on...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16541799/companies-earmark-millions-in-tariff-refunds-for-corporate-bonuses
-  pub_date: '2026-11-17T18:18:28'
-  source: SupplyChainBrain
-  title: Companies Earmark Millions in Tariff Refunds for Corporate Bonuses
-- category: supply-chain
   description: A MIT and Mecalux survey finds that companies are giving AI more authority
     over warehouse decisions such as moving inventory and correcting records.
   icon: fa-box
@@ -89,14 +158,6 @@ articles:
   pub_date: '2026-11-17T14:39:00'
   source: Supply Chain 24/7
   title: Seven in 10 Manufacturers Still Use Spreadsheets for Compliance
-- category: supply-chain
-  description: Secretary Duffy said the installation at an FAA radio communications
-    site in El Dorado, Arkansas, led to an overload of a key...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/air-cargo/article/16541747/us-senators-urge-faa-to-pause-new-router-deployment-pending-testing
-  pub_date: '2026-11-17T14:32:36'
-  source: SupplyChainBrain
-  title: U.S. Senators Urge FAA to Pause New Router Deployment Pending Testing
 - category: supply-chain
   description: Amazon opened its first Puerto Rico delivery station in Dorado, where
     workers sort packages for faster delivery across the San Juan area.
@@ -123,22 +184,6 @@ articles:
   source: Circular Online
   title: CIWM and CEI launch circular economy vision for 2050 at COP31
 - category: supply-chain
-  description: The event came just weeks after Audi announced plans for a new manufacturing
-    facility in central Georgia.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/global-gateways/article/16541688/brunswick-state-of-the-port-touts-georgias-booming-auto-industry
-  pub_date: '2026-11-17T08:00:00'
-  source: SupplyChainBrain
-  title: Brunswick State of the Port Touts Georgia's Booming Auto Industry
-- category: supply-chain
-  description: Although the Acro's voyage represented a significant milestone for
-    South Korea's Arctic ambitions, the trial still fell short...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/ocean-transportation/article/16541671/south-korean-carrier-weighs-selling-ship-after-first-arctic-journey
-  pub_date: '2026-11-17T08:00:00'
-  source: SupplyChainBrain
-  title: South Korean Carrier Weighs Selling Ship After First Arctic Journey
-- category: supply-chain
   description: Nearly a third of respondents named the shipping dock their most congested
     area, up from 9% a year earlier, as peak warehouse space use fell.
   icon: fa-box
@@ -156,47 +201,6 @@ articles:
   source: Circular Online
   title: Zero waste measures could avoid 149 billion tonnes of emissions by 2050,
     report estimates
-- category: supply-chain
-  description: AI can help supply chain teams respond faster to demand shifts and
-    shortages by handling routine moves and sending riskier decisions to planners.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/supply-chain-decisions-between-planning-meetings
-  pub_date: '2026-11-16T14:31:00'
-  source: Supply Chain 24/7
-  title: Supply Chain Decisions Can’t Wait for the Next Planning Meeting
-- category: supply-chain
-  description: BMW opened its Woodruff, S.C., battery plant, which supplies Gen6 batteries
-    for the iX5, the first fully electric BMW built in the U.S.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/bmw-woodruff-south-carolina-battery-plant
-  pub_date: '2026-11-16T14:18:00'
-  source: Supply Chain 24/7
-  title: BMW Opens $700M South Carolina Battery Plant to Supply Electric SUVs
-- category: supply-chain
-  description: Savannah's airport opened a $80 million air cargo complex with two
-    freight buildings, space for wide-body planes, and a taxiway bridge.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/savannah-airport-air-cargo-complex-opens
-  pub_date: '2026-11-16T14:09:00'
-  source: Supply Chain 24/7
-  title: Savannah Airport Opens $80 Million Air Cargo Hub on a 36-Acre Site
-- category: supply-chain
-  description: GlobalFoundries broke ground on a Japan-backed, $10 billion chip plant
-    in Malta, New York, with production expected to start in 2029.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/globalfoundries-breaks-ground-on-10-billion-chip-fab-in-new-york
-  pub_date: '2026-11-16T14:06:00'
-  source: Supply Chain 24/7
-  title: GlobalFoundries Breaks Ground on $10 Billion Chip Fab in New York
-- category: supply-chain
-  description: Learn how Ward Transport modernized its cost intelligence to improve
-    pricing decisions, network analysis, scalability, and organizational decision-making.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-can-ltl-carriers-modernize-cost-intelligence-without-replacing-proven-processes
-  pub_date: '2026-11-16T13:01:00'
-  source: Supply Chain 24/7
-  title: How Can LTL Carriers Modernize Cost Intelligence Without Replacing Proven
-    Processes?
 - category: circular
   description: The UK Government missed its recycling target for 2024/25, recycling
     56% of waste from its estate and operations against a goal of at least 70%. Defra's
@@ -252,4 +256,4 @@ articles:
   source: Circular Online
   title: Circular economy is a ‘national security issue’, Emma Hardy MP tells ISWA
     World Congress
-last_updated: '2026-11-18T15:11:45.454406'
+last_updated: '2026-11-19T15:19:52.862778'
