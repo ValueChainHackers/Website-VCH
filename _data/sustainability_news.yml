@@ -1,5 +1,87 @@
 articles:
 - category: supply-chain
+  description: The news comes as part of a string of hiccups and blackouts in some
+    of the most ubiquitous and ingrained computer systems that...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/artificial-intelligence/article/16542303/ai-finds-critical-flaw-in-java-computer-language
+  pub_date: '2026-11-20T14:41:42'
+  source: SupplyChainBrain
+  title: AI Finds Critical Flaw in Java Computer Language
+- category: supply-chain
+  description: The CEO said surging diesel and transportation costs had added about
+    $2 billion in expenses this year, partly offset by nearly...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/e-commerce-omni-channel/article/16542243/walmart-warns-of-fuel-cost-pressure-lifts-annual-targets-ahead-of-holidays
+  pub_date: '2026-11-20T10:09:00'
+  source: SupplyChainBrain
+  title: Walmart Warns of Fuel Cost Pressure, Lifts Annual Targets Ahead of Holidays
+- category: circular
+  description: PackUK has proposed increasing charges for harder-to-recycle household
+    packaging sooner than previously planned. The post PackUK proposes faster increase
+    in EPR fees for harder-to-recycle packaging ap...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/packuk-proposes-faster-increase-in-epr-fees-for-harder-to-recycle-packaging/
+  pub_date: '2026-11-20T09:56:01'
+  source: Circular Online
+  title: PackUK proposes faster increase in EPR fees for harder-to-recycle packaging
+- category: supply-chain
+  description: More than 30 labor union leaders from 19 countries are calling on governments
+    to stop awarding public contracts to Amazon and...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16542232/global-unions-target-amazons-poor-labor-history
+  pub_date: '2026-11-20T09:38:00'
+  source: SupplyChainBrain
+  title: Global Unions Target Amazon’s Poor Labor History
+- category: supply-chain
+  description: The challenge is to secure what takes time, while keeping hard-to-reverse
+    choices open until the business needs to commit.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/special-report/article/16425617/inventory-that-keeps-your-options-open-five-ways-to-protect-service-without-committing-too-soon
+  pub_date: '2026-11-20T08:58:00'
+  source: SupplyChainBrain
+  title: 'Inventory That Keeps Your Options Open: Five Ways to Protect Service Without
+    Committing Too Soon'
+- category: supply-chain
+  description: Retailer deductions should not be treated as an unavoidable cost of
+    doing business. They should be managed as an enterprise performance...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/blogs/think-tank/article/16541986/the-sale-was-made-then-the-margin-disappeared
+  pub_date: '2026-11-20T08:53:00'
+  source: SupplyChainBrain
+  title: The Sale Was Made. Then the Margin Disappeared
+- category: supply-chain
+  description: Learn how growing warehouses can overcome rigid workflows, IT bottlenecks,
+    manual processes, and compliance challenges with a flexible WMS approach.
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/how-should-growing-warehouses-choose-a-wms-that-scales
+  pub_date: '2026-11-19T20:02:00'
+  source: Supply Chain 24/7
+  title: How Should Growing Warehouses Choose a WMS That Scales?
+- category: supply-chain
+  description: Higher-performing organizations more often report scenario planning,
+    early-warning indicators, and the capacity to move resources...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/sc-security-risk-mgmt/article/16542171/survey-profound-gap-between-knowing-supply-chain-risks-and-acting-on-them
+  pub_date: '2026-11-19T18:16:24'
+  source: SupplyChainBrain
+  title: 'Survey: Profound Gap Between Knowing Supply Chain Risks and Acting on Them'
+- category: supply-chain
+  description: A NYC bill would require licenses and direct hiring at some last-mile
+    facilities, putting Amazon's contracts with over 40 local delivery firms at risk.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/nyc-amazon-delivery-contractor-bill
+  pub_date: '2026-11-19T17:39:00'
+  source: Supply Chain 24/7
+  title: Amazon Says NYC Delivery Bill Could Add Up to $5 per Order
+- category: supply-chain
+  description: A Senate panel advanced a bipartisan bill that would give truck drivers
+    access to existing restrooms at covered businesses during pickups and deliveries.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/senate-panel-advances-trucker-bathroom-access-bill
+  pub_date: '2026-11-19T15:42:00'
+  source: Supply Chain 24/7
+  title: Senate Panel Advances Bill to Give Truck Drivers Restroom Access
+- category: supply-chain
   description: The announcement came following a two-day working visit to the Philippines
     for the ASEAN Summit.
   icon: fa-truck
@@ -8,6 +90,31 @@ articles:
   source: SupplyChainBrain
   title: Trump Unveils $17 billion of Southeast Asia Deals for U.S. firms, White House
     Says
+- category: supply-chain
+  description: AdventHealth leads Gartner's 2026 healthcare supply chain rankings
+    for a third year, and Kaiser Permanente makes its debut at No. 6.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/adventhealth-2026-healthcare-supply-chain-top-25
+  pub_date: '2026-11-19T14:27:00'
+  source: Supply Chain 24/7
+  title: Top 25 Healthcare Supply Chains of 2026, AdventHealth Takes Top Spot
+- category: supply-chain
+  description: Accenture found that 72% of operations leaders see more potential for
+    AI to grow revenue than to cut costs, while only 15% are redesigning processes
+    around it.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/survey-few-executives-are-building-their-work-processes-around-ai
+  pub_date: '2026-11-19T13:58:00'
+  source: Supply Chain 24/7
+  title: 'Survey: Few Executives Are Building Their Work Processes Around AI'
+- category: supply-chain
+  description: UPS agreed to buy Smartways Logistics, a courier that delivers medical
+    devices and other urgent healthcare shipments across Australia and New Zealand.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/ups-acquires-smartways-healthcare-logistics
+  pub_date: '2026-11-19T13:31:00'
+  source: Supply Chain 24/7
+  title: UPS Agrees to Buy Smartways Logistics to Expand Healthcare Delivery
 - category: supply-chain
   description: Overall risk for the ocean freight trade lane registers as "high,"
     as capacity tightens, and booking acceptance risk stays high...
@@ -33,56 +140,6 @@ articles:
   pub_date: '2026-11-19T09:06:00'
   source: SupplyChainBrain
   title: Can Humanoid Robots Earn Their Keep on the Factory Floor?
-- category: supply-chain
-  description: The transition relies on giving people ways to check recommendations
-    and gradually expand what agents can do.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/artificial-intelligence/article/16425619/the-five-barriers-keeping-ai-agents-out-of-supply-chain-planning
-  pub_date: '2026-11-19T08:49:00'
-  source: SupplyChainBrain
-  title: The Five Barriers Keeping AI Agents Out of Supply Chain Planning
-- category: supply-chain
-  description: The PMA said ILWU Local 26 has indicated an unwillingness to extend
-    the contract beyond its expiration at 12:01 a.m. on Saturday...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16542029/southern-california-port-employers-say-no-movement-on-watchmen-contract-talks-as-strike-risk-grows
-  pub_date: '2026-11-18T20:12:33'
-  source: SupplyChainBrain
-  title: Southern California Port Employers Say No Movement on Watchmen Contract Talks
-    as Strike Risk Grows
-- category: supply-chain
-  description: The filing with the Surface Transportation Board includes a brief supported
-    by more than 130 exhibits, declarations from BNSF...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/rail-intermodal/article/16541991/bnsf-files-detailed-opposition-to-upns-merger
-  pub_date: '2026-11-18T19:29:00'
-  source: SupplyChainBrain
-  title: BNSF Files Detailed Opposition to UP-NS Merger
-- category: supply-chain
-  description: California's Department of Motor Vehicles has banned Waymo's driverless
-    taxis from state freeways, after a number of incidents...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/last-mile-delivery/article/16542003/waymo-suspends-all-driverless-taxis-from-us-freeways
-  pub_date: '2026-11-18T19:06:54'
-  source: SupplyChainBrain
-  title: Waymo Suspends All Driverless Taxis from U.S. Freeways
-- category: supply-chain
-  description: Duffy said the Federal Aviation Administration has paused installations
-    of Juniper routers as testing continues
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/air-cargo/article/16541982/transportation-secretary-duffy-says-us-taking-steps-to-avoid-future-aviation-disruptions
-  pub_date: '2026-11-18T17:51:02'
-  source: SupplyChainBrain
-  title: Transportation Secretary Duffy Says U.S. Taking Steps to Avoid Future Aviation
-    Disruptions
-- category: supply-chain
-  description: At the APEC Summit in China, President Sheinbaum also pointed to what
-    she described as Mexico's "privileged geographical position...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/rail-intermodal/article/16541899/mexicos-sheinbaum-celebrates-development-of-interoceanic-corridor
-  pub_date: '2026-11-18T13:57:00'
-  source: SupplyChainBrain
-  title: Mexico’s Sheinbaum Celebrates Development of Interoceanic Corridor
 - category: supply-chain
   description: DHL Express now lets U.S. shippers snap a photo of an item and get
     a customs-ready description in seconds, cutting a common cause of delays.
@@ -116,14 +173,6 @@ articles:
   pub_date: '2026-11-18T13:21:00'
   source: Supply Chain 24/7
   title: How to Keep Cargo Safe Over Thanksgiving Weekend
-- category: supply-chain
-  description: Siemens opened a Raleigh-area factory to build and test power equipment
-    for data centers and expects it to create up to 200 manufacturing jobs.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/siemens-raleigh-data-center-power-equipment-factory
-  pub_date: '2026-11-18T13:17:00'
-  source: Supply Chain 24/7
-  title: Siemens Opens Raleigh-Area Factory for Data Center Power Equipment
 - category: circular
   description: The Prince and Princess of Wales have celebrated the five winners of
     this year's Earthshot Prize at a ceremony in Mumbai, India. The post Earthshot
@@ -142,38 +191,6 @@ articles:
   pub_date: '2026-11-18T09:19:42'
   source: Circular Online
   title: Battery fires in UK waste system cost £2.37bn a year, research estimates
-- category: supply-chain
-  description: A MIT and Mecalux survey finds that companies are giving AI more authority
-    over warehouse decisions such as moving inventory and correcting records.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-ai-decisions-mit-mecalux-survey
-  pub_date: '2026-11-17T14:55:00'
-  source: Supply Chain 24/7
-  title: Most Firms Expect AI to Handle More Warehouse Decisions by 2028
-- category: supply-chain
-  description: An Assent survey found that 70% of manufacturing specialists still
-    use spreadsheets for product compliance, and bad data is their top reporting challenge.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/manufacturers-spreadsheets-product-compliance-survey
-  pub_date: '2026-11-17T14:39:00'
-  source: Supply Chain 24/7
-  title: Seven in 10 Manufacturers Still Use Spreadsheets for Compliance
-- category: supply-chain
-  description: Amazon opened its first Puerto Rico delivery station in Dorado, where
-    workers sort packages for faster delivery across the San Juan area.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/amazon-puerto-rico-delivery-station-dorado
-  pub_date: '2026-11-17T14:27:00'
-  source: Supply Chain 24/7
-  title: Amazon Opens Its First Puerto Rico Delivery Station
-- category: supply-chain
-  description: Loftware agreed to buy Seagull Software, adding BarTender's barcode
-    printing and item-level tracking tools to its labeling business.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/loftware-acquires-seagull-software-bartender
-  pub_date: '2026-11-17T14:14:00'
-  source: Supply Chain 24/7
-  title: Loftware Agrees to Buy Seagull Software, the Company Behind BarTender
 - category: circular
   description: CIWM and the Circular Economy Institute (CEI) have launched a joint
     report at COP31 calling for a shift towards resource stewardship. The post CIWM
@@ -183,14 +200,6 @@ articles:
   pub_date: '2026-11-17T09:31:30'
   source: Circular Online
   title: CIWM and CEI launch circular economy vision for 2050 at COP31
-- category: supply-chain
-  description: Nearly a third of respondents named the shipping dock their most congested
-    area, up from 9% a year earlier, as peak warehouse space use fell.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-shipping-dock-congestion-survey-2026
-  pub_date: '2026-11-16T16:22:00'
-  source: Supply Chain 24/7
-  title: Shipping Docks Are Now the Most Congested Part of the Warehouse
 - category: circular
   description: Measures to prevent waste, extend product lifetimes and reduce demand
     for new materials could avoid 149 billion tonnes of greenhouse gas emissions between
@@ -246,14 +255,4 @@ articles:
   pub_date: '2026-11-11T11:05:09'
   source: Circular Online
   title: IMechE calls for policy reforms to support circular economy
-- category: circular
-  description: Transitioning to a circular economy is a 'national security issue',
-    the Minister of State in Defra Emma Hardy MP has told the ISWA World Congress.
-    The post Circular economy is a 'national security iss...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/circular-economy-is-a-national-security-issue-emma-hardy-mp-tells-iswa-world-congress/
-  pub_date: '2026-11-11T10:24:55'
-  source: Circular Online
-  title: Circular economy is a ‘national security issue’, Emma Hardy MP tells ISWA
-    World Congress
-last_updated: '2026-11-19T15:19:52.862778'
+last_updated: '2026-11-20T14:58:21.729516'
