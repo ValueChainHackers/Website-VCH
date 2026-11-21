@@ -1,4 +1,40 @@
 articles:
+- category: ai-research
+  description: Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing
+    Research Lab collaboration connects perception and language, and addresses the
+    shortcoming of current models.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120
+  pub_date: '2026-11-20T21:00:00'
+  source: MIT AI News
+  title: 'Q&A: Enabling more human-like interactions and understanding in multimodal
+    foundation models'
+- category: ai-research
+  description: Enforcing physics-based constraints prevents AI models from generating
+    unreliable predictions for complex nonlinear systems in weather, climate, and
+    turbulent flows.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120
+  pub_date: '2026-11-20T20:00:00'
+  source: MIT AI News
+  title: New approach enables physically consistent AI models of chaotic systems
+- category: ai-research
+  description: A panel discussion at MIT explored AI's implications for mathematical
+    discovery and the people who make it their profession.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120
+  pub_date: '2026-11-20T15:20:00'
+  source: MIT AI News
+  title: Following the “mathocalypse,” mathematicians consider the future
+- category: machine-learning
+  description: A practical guide to choosing between open-weight and commercial models,
+    built around the four questions that actually determine the right answer for your
+    use case.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026
+  pub_date: '2026-11-20T15:00:00'
+  source: KDnuggets
+  title: 'Open Source vs. Proprietary LLMs: A Decision Framework for 2026'
 - category: machine-learning
   description: Learn how decision models work, how they turn LLMs into faster decision-making
     systems, and how to run open-source alternatives locally.
@@ -168,14 +204,6 @@ articles:
   pub_date: '2026-11-16T18:00:47'
   source: KDnuggets
   title: 5 Things That Break When AI Agents Start Acting on Their Own
-- category: machine-learning
-  description: Stop wasting tokens debugging outdated code. Give Claude Code up-to-date
-    docs with Context7.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7
-  pub_date: '2026-11-16T15:00:00'
-  source: KDnuggets
-  title: How to Give Claude Code Up-to-Date Documentation With Context7
 - category: ai-research
   description: tbd
   icon: fa-google
@@ -183,31 +211,6 @@ articles:
   pub_date: '2026-11-16T14:00:00'
   source: Google AI Blog
   title: New Ask Maps features to help with holiday travel and prep
-- category: ai-research
-  description: The system asks humans for feedback to increase trust in machine-generated
-    designs for buildings and bridges.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113
-  pub_date: '2026-11-13T05:00:00'
-  source: MIT AI News
-  title: New AI “copilot” helps engineers design better structures
-- category: ai-research
-  description: Founded by Anthony Jules '92, SM '92 and Professor Emeritus Rodney
-    Brooks, Robust AI's robots are designed to collaborate with humans in factories
-    and warehouses.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113
-  pub_date: '2026-11-13T05:00:00'
-  source: MIT AI News
-  title: Helping robots fit into the human workplace
-- category: ai-research
-  description: A secure operating system, a quantum microsystem platform, and a 5G
-    interference-canceling algorithm are named among the year's most significant innovations.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112
-  pub_date: '2026-11-12T21:15:00'
-  source: MIT AI News
-  title: Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards
 - category: ai-research
   description: Rotating carousel of cards with text "Gemini 4 Hydrogen" "Now in Google
     Search" and examples from the Google Search UI
@@ -249,4 +252,4 @@ articles:
   pub_date: '2026-11-10T19:00:00'
   source: Google AI Blog
   title: 'Gemini Intelligence: New features, on more devices'
-last_updated: '2026-11-20T14:58:22.310791'
+last_updated: '2026-11-21T14:17:49.453117'
