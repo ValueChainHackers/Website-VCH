@@ -1,5 +1,47 @@
 articles:
 - category: supply-chain
+  description: Smaller grocers are competing to offer similar deals, hoping shoppers
+    will fill their baskets with other, more profitable, items...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/food-beverage/article/16542469/big-grocers-offer-lossleading-deals-on-thanksgiving-dinner
+  pub_date: '2026-11-23T14:35:23'
+  source: SupplyChainBrain
+  title: Big Grocers Offer Loss-Leading Deals on Thanksgiving Dinner
+- category: supply-chain
+  description: The President said he would impose a "tremendous tax" on companies
+    that build data centers abroad.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/technology/artificial-intelligence/article/16542394/trump-says-us-to-penalize-firms-building-data-centers-abroad
+  pub_date: '2026-11-23T13:19:24'
+  source: SupplyChainBrain
+  title: Trump Says U.S. to Penalize Firms Building Data Centers Abroad
+- category: circular
+  description: New data reveals Haringey Council reported 94,065 fly-tipping incidents
+    over the last five years, the most for any London Borough. The post New data shows
+    which London boroughs reported most fly-tippi...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/new-data-shows-which-london-boroughs-reported-most-fly-tipping-incidents/
+  pub_date: '2026-11-23T10:37:09'
+  source: Circular Online
+  title: New data shows which London boroughs reported most fly-tipping incidents
+- category: circular
+  description: Biffa has announced Sarwjit Sambhi will replace Michael Topham as CEO
+    after eight years in the role. The post Biffa announces new CEO after Michael
+    Topham steps down appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/biffa-announces-new-ceo-after-michael-topham-steps-down/
+  pub_date: '2026-11-23T09:07:50'
+  source: Circular Online
+  title: Biffa announces new CEO after Michael Topham steps down
+- category: supply-chain
+  description: Warehouses that insist on sticking with aging equipment are especially
+    vulnerable to the techniques of modern-day cyber attackers...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/scb-feature/article/16542153/how-old-materialhandling-equipment-is-exposing-warehouses-to-cyber-risk
+  pub_date: '2026-11-23T07:40:00'
+  source: SupplyChainBrain
+  title: How Old Material-Handling Equipment Is Exposing Warehouses to Cyber Risk
+- category: supply-chain
   description: On-and-off tariff threats under U.S. President Donald Trump's second
     term in office have thrown long-established supply chains...
   icon: fa-truck
@@ -133,14 +175,6 @@ articles:
   source: Supply Chain 24/7
   title: How Should Growing Warehouses Choose a WMS That Scales?
 - category: supply-chain
-  description: Higher-performing organizations more often report scenario planning,
-    early-warning indicators, and the capacity to move resources...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/sc-security-risk-mgmt/article/16542171/survey-profound-gap-between-knowing-supply-chain-risks-and-acting-on-them
-  pub_date: '2026-11-19T18:16:24'
-  source: SupplyChainBrain
-  title: 'Survey: Profound Gap Between Knowing Supply Chain Risks and Acting on Them'
-- category: supply-chain
   description: Compare portable power systems for warehouses, including lithium vs.
     lead acid batteries, runtime, charging options, and mobile workstation requirements.
   icon: fa-box
@@ -164,23 +198,6 @@ articles:
   pub_date: '2026-11-19T15:42:00'
   source: Supply Chain 24/7
   title: Senate Panel Advances Bill to Give Truck Drivers Restroom Access
-- category: supply-chain
-  description: The announcement came following a two-day working visit to the Philippines
-    for the ASEAN Summit.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/aerospace-defense/article/16542129/trump-unveils-17-billion-of-southeast-asia-deals-for-us-firms-white-house-says
-  pub_date: '2026-11-19T15:09:07'
-  source: SupplyChainBrain
-  title: Trump Unveils $17 billion of Southeast Asia Deals for U.S. firms, White House
-    Says
-- category: supply-chain
-  description: Overall risk for the ocean freight trade lane registers as "high,"
-    as capacity tightens, and booking acceptance risk stays high...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/ocean-transportation/article/16542062/report-asianorth-america-trade-lane-presents-high-risk-level
-  pub_date: '2026-11-19T09:59:00'
-  source: SupplyChainBrain
-  title: 'Report: Asia-North America Trade Lane Presents High Risk Level'
 - category: circular
   description: The Prince and Princess of Wales have celebrated the five winners of
     this year's Earthshot Prize at a ceremony in Mumbai, India. The post Earthshot
@@ -236,22 +253,4 @@ articles:
   pub_date: '2026-11-16T09:13:48'
   source: Circular Online
   title: Biffa announces up to 2,000 youth roles amid sector recruitment challenge
-- category: circular
-  description: Government-funded operation begins to remove 18,000 tonnes of waste
-    from illegal site spread across land owned by Wigan Council and King Charles.
-    The post Major clean-up begins at notorious illegal wa...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/major-clean-up-begins-at-notorious-illegal-waste-site-in-wigan/
-  pub_date: '2026-11-13T10:55:21'
-  source: Circular Online
-  title: Major clean-up begins at notorious illegal waste site in Wigan
-- category: circular
-  description: 'Circular Online brings you live updates from day 3 of the ISWA World
-    Congress 2026 as it returns to London for the first time in 30 years. The post
-    LIVE: ISWA World Congress London 2026 - Day 3 appear...'
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/live-iswa-world-congress-london-2026-day-3/
-  pub_date: '2026-11-11T15:13:47'
-  source: Circular Online
-  title: 'LIVE: ISWA World Congress London 2026 – Day 3'
-last_updated: '2026-11-22T14:09:05.517309'
+last_updated: '2026-11-23T17:30:37.053348'

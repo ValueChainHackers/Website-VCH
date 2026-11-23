@@ -1,5 +1,40 @@
 articles:
 - category: ai-research
+  description: Google Search bar with the text "Personal Intelligence" surrounded
+    by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and
+    Google G logo icons
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/
+  pub_date: '2026-11-23T17:00:00'
+  source: Google AI Blog
+  title: A more tailored Google Search that’s uniquely yours
+- category: machine-learning
+  description: Discover how to combine AI assistants, coding tools, and adaptive platforms
+    to cut your learning curve and build practical skills more efficiently.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026
+  pub_date: '2026-11-23T15:00:00'
+  source: KDnuggets
+  title: How to Use AI Tools to Learn Data Science Faster in 2026
+- category: machine-learning
+  description: Compare five lightweight ways to give AI agents tools without an MCP
+    server, from a Python dispatcher to framework tools, REST adapters, subprocesses,
+    and webhooks, and learn when MCP becomes worth ad...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools
+  pub_date: '2026-11-23T13:00:00'
+  source: KDnuggets
+  title: 5 Lightweight Alternatives to MCP for Giving AI Agents Tools
+- category: ai-research
+  description: The "SLIC" training method enables a small LLM to compete with much
+    more resource-intensive models in complex circuit design tasks.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123
+  pub_date: '2026-11-23T05:00:00'
+  source: MIT AI News
+  title: AI-driven technique could help engineers design analog chips faster and with
+    less expense
+- category: ai-research
   description: Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing
     Research Lab collaboration connects perception and language, and addresses the
     shortcoming of current models.
@@ -169,15 +204,6 @@ articles:
   pub_date: '2026-11-17T15:00:00'
   source: KDnuggets
   title: How to Calibrate Your Classifier’s Probabilities in Scikit-learn
-- category: machine-learning
-  description: Compare affordable AI coding agents, AI-powered IDEs, open-source tools,
-    and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed,
-    and Xiaomi MiMo.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026
-  pub_date: '2026-11-17T13:00:00'
-  source: KDnuggets
-  title: 7 Best AI Coding Plans for $10 or Less in 2026
 - category: ai-research
   description: Assistant Professor John Urschel explains why learning the fundamental
     skills of mathematics is still essential despite the evolution of AI tools.
@@ -186,24 +212,6 @@ articles:
   pub_date: '2026-11-17T05:00:00'
   source: MIT AI News
   title: 'Q&A: Why building math muscles remains important in the AI era'
-- category: ai-research
-  description: By studying the computational foundations of language learning, Associate
-    Professor Jacob Andreas builds intelligent systems that can communicate effectively
-    with humans.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117
-  pub_date: '2026-11-17T05:00:00'
-  source: MIT AI News
-  title: Learning the language of machine learning
-- category: machine-learning
-  description: Five governance problems emerge when AI agents begin taking real-world
-    actions, from unmanaged access and identity sprawl to approval bottlenecks and
-    manual oversight.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own
-  pub_date: '2026-11-16T18:00:47'
-  source: KDnuggets
-  title: 5 Things That Break When AI Agents Start Acting on Their Own
 - category: ai-research
   description: tbd
   icon: fa-google
@@ -245,11 +253,4 @@ articles:
   pub_date: '2026-11-11T09:00:00'
   source: Google AI Blog
   title: Experience the art and legacy of Dr. Esther Mahlangu
-- category: ai-research
-  description: A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'
-  icon: fa-google
-  link: https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/
-  pub_date: '2026-11-10T19:00:00'
-  source: Google AI Blog
-  title: 'Gemini Intelligence: New features, on more devices'
-last_updated: '2026-11-22T14:09:06.371029'
+last_updated: '2026-11-23T17:30:37.965811'
