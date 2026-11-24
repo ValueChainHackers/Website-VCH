@@ -1,5 +1,71 @@
 articles:
 - category: supply-chain
+  description: Anwar told the South China Morning Post that Malaysia was not leaning
+    to either China or the U.S., though he found it generally...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16542673/us-chip-curbs-wont-impact-malaysias-china-ties-pm-says
+  pub_date: '2026-11-24T16:34:53'
+  source: SupplyChainBrain
+  title: U.S. Chip Curbs Won't Impact Malaysia's China Ties, PM Says
+- category: circular
+  description: A man who dumped 1,200 tonnes of waste on a World War II airfield in
+    Suffolk has been handed a six-month prison term, suspended for a year. The post
+    Suspended sentence for man who dumped waste on WWII...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/suspended-sentence-for-man-who-dumped-waste-on-wwii-airfield/
+  pub_date: '2026-11-24T10:33:23'
+  source: Circular Online
+  title: Suspended sentence for man who dumped waste on WWII airfield
+- category: circular
+  description: The EU and UK have announced an agreement to link their Emissions Trading
+    Schemes (ETS), with the aim of going operational by 2028. The post EU and UK agree
+    to link Emissions Trading Schemes appeared ...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/eu-and-uk-agree-to-link-emissions-trading-schemes/
+  pub_date: '2026-11-24T09:11:35'
+  source: Circular Online
+  title: EU and UK agree to link Emissions Trading Schemes
+- category: supply-chain
+  description: In the year since the IMO delayed its adoption of the NZF, several
+    nations have nevertheless introduced or advanced their own...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/green-energy/article/16542512/world-shipping-council-pushes-for-deal-on-global-shipping-emissions
+  pub_date: '2026-11-24T08:00:00'
+  source: SupplyChainBrain
+  title: World Shipping Council Pushes for Deal on Global Shipping Emissions
+- category: supply-chain
+  description: Truckers have more control over how much fuel they consume than they
+    might realize.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/article/16424475/how-physical-ai-can-help-control-what-truckers-burn
+  pub_date: '2026-11-24T08:00:00'
+  source: SupplyChainBrain
+  title: How Physical AI Can Help Control What Truckers Burn
+- category: supply-chain
+  description: Unmonitored and undisclosed vendor AI adoption is creating new challenges
+    for third-party risk management.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/sourcing-procurement-srm/article/16424301/how-ai-creates-hidden-risks-in-multitier-supply-networks
+  pub_date: '2026-11-24T08:00:00'
+  source: SupplyChainBrain
+  title: How AI Creates Hidden Risks in Multi-Tier Supply Networks
+- category: supply-chain
+  description: The two Southern California ports averted a strike just before a November
+    20 strike deadline set by the union.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16542504/watchmen-at-la-long-beach-ports-agree-to-tentative-labor-deal
+  pub_date: '2026-11-23T19:30:00'
+  source: SupplyChainBrain
+  title: Watchmen at LA, Long Beach Ports Agree to Tentative Labor Deal
+- category: supply-chain
+  description: Members of the ring allegedly sold more than $1 million in stolen Nike
+    sneakers and other merchandise to an unnamed Los Angeles-based...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/logistics/rail-intermodal/article/16542489/nike-sneakers-milwaukee-tools-among-225m-haul-in-staggering-train-heist
+  pub_date: '2026-11-23T18:41:00'
+  source: SupplyChainBrain
+  title: Nike Sneakers, Milwaukee Tools Among $22.5M Haul in 'Staggering' Train Heist
+- category: supply-chain
   description: Smaller grocers are competing to offer similar deals, hoping shoppers
     will fill their baskets with other, more profitable, items...
   icon: fa-truck
@@ -7,6 +73,14 @@ articles:
   pub_date: '2026-11-23T14:35:23'
   source: SupplyChainBrain
   title: Big Grocers Offer Loss-Leading Deals on Thanksgiving Dinner
+- category: supply-chain
+  description: Highway congestion cost U.S. trucking $128.2 billion in 2024, or nearly
+    $8,000 per registered truck, according to ATRI.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/highway-congestion-cost-us-trucking-128-billion-2024
+  pub_date: '2026-11-23T13:55:00'
+  source: Supply Chain 24/7
+  title: Highway Traffic Cost U.S. Trucking $128.2 Billion in 2024, Study Finds
 - category: supply-chain
   description: The President said he would impose a "tremendous tax" on companies
     that build data centers abroad.
@@ -67,30 +141,6 @@ articles:
   source: Supply Chain 24/7
   title: How Can Manufacturers Manage Labeling Across Multiple Sites?
 - category: supply-chain
-  description: Students will prepare for the Massachusetts 1B Hoisting License and
-    forklift certification.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/education-professional-development/article/16542326/bristol-community-college-grant-removes-costs-for-skilledtrades-students
-  pub_date: '2026-11-20T17:10:06'
-  source: SupplyChainBrain
-  title: Bristol Community College Grant Removes Costs for Skilled-Trades Students
-- category: supply-chain
-  description: Highway congestion cost U.S. trucking $128.2 billion in 2024, or nearly
-    $8,000 per registered truck, according to ATRI.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/highway-congestion-cost-us-trucking-128-billion-2024
-  pub_date: '2026-11-20T14:54:00'
-  source: Supply Chain 24/7
-  title: Highway Traffic Cost U.S. Trucking $128.2 Billion in 2024, Study Finds
-- category: supply-chain
-  description: The news comes as part of a string of hiccups and blackouts in some
-    of the most ubiquitous and ingrained computer systems that...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/artificial-intelligence/article/16542303/ai-finds-critical-flaw-in-java-computer-language
-  pub_date: '2026-11-20T14:41:42'
-  source: SupplyChainBrain
-  title: AI Finds Critical Flaw in Java Computer Language
-- category: supply-chain
   description: From clearer aisle markings to stronger rack protection, five physical
     upgrades can make warehouses safer as they add robots and software.
   icon: fa-box
@@ -124,14 +174,6 @@ articles:
   pub_date: '2026-11-20T12:27:00'
   source: Supply Chain 24/7
   title: COSCO’s Two New Deals Build on Warehouse Work in L.A. and Panama
-- category: supply-chain
-  description: The CEO said surging diesel and transportation costs had added about
-    $2 billion in expenses this year, partly offset by nearly...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/e-commerce-omni-channel/article/16542243/walmart-warns-of-fuel-cost-pressure-lifts-annual-targets-ahead-of-holidays
-  pub_date: '2026-11-20T10:09:00'
-  source: SupplyChainBrain
-  title: Walmart Warns of Fuel Cost Pressure, Lifts Annual Targets Ahead of Holidays
 - category: circular
   description: PackUK has proposed increasing charges for harder-to-recycle household
     packaging sooner than previously planned. The post PackUK proposes faster increase
@@ -141,31 +183,6 @@ articles:
   pub_date: '2026-11-20T09:56:01'
   source: Circular Online
   title: PackUK proposes faster increase in EPR fees for harder-to-recycle packaging
-- category: supply-chain
-  description: More than 30 labor union leaders from 19 countries are calling on governments
-    to stop awarding public contracts to Amazon and...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16542232/global-unions-target-amazons-poor-labor-history
-  pub_date: '2026-11-20T09:38:00'
-  source: SupplyChainBrain
-  title: Global Unions Target Amazon’s Poor Labor History
-- category: supply-chain
-  description: The challenge is to secure what takes time, while keeping hard-to-reverse
-    choices open until the business needs to commit.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/special-report/article/16425617/inventory-that-keeps-your-options-open-five-ways-to-protect-service-without-committing-too-soon
-  pub_date: '2026-11-20T08:58:00'
-  source: SupplyChainBrain
-  title: 'Inventory That Keeps Your Options Open: Five Ways to Protect Service Without
-    Committing Too Soon'
-- category: supply-chain
-  description: Retailer deductions should not be treated as an unavoidable cost of
-    doing business. They should be managed as an enterprise performance...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/blogs/think-tank/article/16541986/the-sale-was-made-then-the-margin-disappeared
-  pub_date: '2026-11-20T08:53:00'
-  source: SupplyChainBrain
-  title: The Sale Was Made. Then the Margin Disappeared
 - category: supply-chain
   description: Learn how growing warehouses can overcome rigid workflows, IT bottlenecks,
     manual processes, and compliance challenges with a flexible WMS approach.
@@ -235,22 +252,4 @@ articles:
   source: Circular Online
   title: Zero waste measures could avoid 149 billion tonnes of emissions by 2050,
     report estimates
-- category: circular
-  description: The UK Government missed its recycling target for 2024/25, recycling
-    56% of waste from its estate and operations against a goal of at least 70%. Defra's
-    Greening Government Commitments report, publish...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/uk-government-misses-70-recycling-target-despite-cutting-waste/
-  pub_date: '2026-11-16T09:21:11'
-  source: Circular Online
-  title: UK Government misses 70% recycling target despite cutting waste
-- category: circular
-  description: Biffa has announced plans to offer up to 2,000 roles for young people
-    across the UK through the Government's Youth Guarantee. The post Biffa announces
-    up to 2,000 youth roles amid sector recruitment c...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/biffa-announces-up-to-2000-youth-roles-amid-sector-recruitment-challenge/
-  pub_date: '2026-11-16T09:13:48'
-  source: Circular Online
-  title: Biffa announces up to 2,000 youth roles amid sector recruitment challenge
-last_updated: '2026-11-23T17:30:37.053348'
+last_updated: '2026-11-24T17:02:41.071047'

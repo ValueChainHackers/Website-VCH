@@ -1,4 +1,45 @@
 articles:
+- category: machine-learning
+  description: American open-source AI is making a comeback, and this powerful local
+    LLM is proving that fast inference, AI coding agents, and impressive results don't
+    require expensive APIs.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio
+  pub_date: '2026-11-24T17:00:00'
+  source: KDnuggets
+  title: How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio
+- category: ai-research
+  description: Google Gemini partners with Golden State to power fan experiences and
+    business operations for the Warriors, Valkyries, and Chase Center. See the news.
+  icon: fa-google
+  link: https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/
+  pub_date: '2026-11-24T16:00:00'
+  source: Google AI Blog
+  title: How Gemini is changing the game for Golden State's organization and fans.
+- category: machine-learning
+  description: The process of building a bulletproof Python loader based on Pandas'
+    read_csv() function to turn messy data into pristine data.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/from-messy-to-clean-taming-real-world-csv-files-with-pandas-read_csv
+  pub_date: '2026-11-24T15:00:00'
+  source: KDnuggets
+  title: 'From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()'
+- category: machine-learning
+  description: The most downloaded AI models on Hugging Face aren't the ones you'd
+    expect. Discover why smaller, older, and specialized models dominate the rankings.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face
+  pub_date: '2026-11-24T13:00:00'
+  source: KDnuggets
+  title: 7 Most Downloaded AI Models on Hugging Face
+- category: ai-research
+  description: Analyzing speakers of 21 languages, an MIT study using multilingual
+    AI finds the human brain may represent meaning in much the same way.
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/many-languages-one-common-neural-code-1123
+  pub_date: '2026-11-23T21:15:00'
+  source: MIT AI News
+  title: Many languages, one common neural code
 - category: ai-research
   description: Google Search bar with the text "Personal Intelligence" surrounded
     by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and
@@ -155,22 +196,6 @@ articles:
   source: KDnuggets
   title: 'Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing
     Them'
-- category: machine-learning
-  description: Why models ace Olympiad math and still fumble simple everyday tasks.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next
-  pub_date: '2026-11-18T15:00:00'
-  source: KDnuggets
-  title: 'Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next'
-- category: machine-learning
-  description: A data-backed breakdown of compensation across roles, experience levels,
-    industries, and geographies, so you know where you stand and where the premium
-    opportunities are.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning
-  pub_date: '2026-11-18T13:00:00'
-  source: KDnuggets
-  title: 'AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning'
 - category: ai-research
   description: A more flexible training method can make AI text detectors more robust
     when new models emerge or AI-generated text is disguised to appear human.
@@ -195,23 +220,6 @@ articles:
   pub_date: '2026-11-17T17:00:00'
   source: Google AI Blog
   title: Put Gemini to work for you
-- category: machine-learning
-  description: In this tutorial, you will train two scikit-learn classifiers on a
-    real dataset, expose their miscalibration with a reliability diagram and a Brier
-    score, and fix it with Platt scaling and isotonic re...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn
-  pub_date: '2026-11-17T15:00:00'
-  source: KDnuggets
-  title: How to Calibrate Your Classifier’s Probabilities in Scikit-learn
-- category: ai-research
-  description: Assistant Professor John Urschel explains why learning the fundamental
-    skills of mathematics is still essential despite the evolution of AI tools.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117
-  pub_date: '2026-11-17T05:00:00'
-  source: MIT AI News
-  title: 'Q&A: Why building math muscles remains important in the AI era'
 - category: ai-research
   description: tbd
   icon: fa-google
@@ -244,13 +252,4 @@ articles:
   source: Google AI Blog
   title: 'Try Tabletop: Customizable, collaborative spaces for groups to plan, play
     and do more together.'
-- category: ai-research
-  description: A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of
-    Curatorial, Public and Visual Cultures, Wits School of Arts, University of the
-    Witwatersrand
-  icon: fa-google
-  link: https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/
-  pub_date: '2026-11-11T09:00:00'
-  source: Google AI Blog
-  title: Experience the art and legacy of Dr. Esther Mahlangu
-last_updated: '2026-11-23T17:30:37.965811'
+last_updated: '2026-11-24T17:02:41.924896'
