@@ -1,13 +1,13 @@
 articles:
-- category: machine-learning
-  description: American open-source AI is making a comeback, and this powerful local
-    LLM is proving that fast inference, AI coding agents, and impressive results don't
-    require expensive APIs.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio
-  pub_date: '2026-11-24T17:00:00'
-  source: KDnuggets
-  title: How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio
+- category: ai-research
+  description: '"TangiMap" uses an AI agent to reprogram how buttons, knobs, and sliders
+    are used, helping users do things like edit photos and perform music in a more
+    dynamic, tactile way.'
+  icon: fa-graduation-cap
+  link: https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124
+  pub_date: '2026-11-24T19:30:00'
+  source: MIT AI News
+  title: Agentic system personalizes physical controls to help users “DJ their art”
 - category: ai-research
   description: Google Gemini partners with Golden State to power fan experiences and
     business operations for the Warriors, Valkyries, and Chase Center. See the news.
@@ -16,22 +16,6 @@ articles:
   pub_date: '2026-11-24T16:00:00'
   source: Google AI Blog
   title: How Gemini is changing the game for Golden State's organization and fans.
-- category: machine-learning
-  description: The process of building a bulletproof Python loader based on Pandas'
-    read_csv() function to turn messy data into pristine data.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/from-messy-to-clean-taming-real-world-csv-files-with-pandas-read_csv
-  pub_date: '2026-11-24T15:00:00'
-  source: KDnuggets
-  title: 'From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()'
-- category: machine-learning
-  description: The most downloaded AI models on Hugging Face aren't the ones you'd
-    expect. Discover why smaller, older, and specialized models dominate the rankings.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face
-  pub_date: '2026-11-24T13:00:00'
-  source: KDnuggets
-  title: 7 Most Downloaded AI Models on Hugging Face
 - category: ai-research
   description: Analyzing speakers of 21 languages, an MIT study using multilingual
     AI finds the human brain may represent meaning in much the same way.
@@ -49,23 +33,6 @@ articles:
   pub_date: '2026-11-23T17:00:00'
   source: Google AI Blog
   title: A more tailored Google Search that’s uniquely yours
-- category: machine-learning
-  description: Discover how to combine AI assistants, coding tools, and adaptive platforms
-    to cut your learning curve and build practical skills more efficiently.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026
-  pub_date: '2026-11-23T15:00:00'
-  source: KDnuggets
-  title: How to Use AI Tools to Learn Data Science Faster in 2026
-- category: machine-learning
-  description: Compare five lightweight ways to give AI agents tools without an MCP
-    server, from a Python dispatcher to framework tools, REST adapters, subprocesses,
-    and webhooks, and learn when MCP becomes worth ad...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools
-  pub_date: '2026-11-23T13:00:00'
-  source: KDnuggets
-  title: 5 Lightweight Alternatives to MCP for Giving AI Agents Tools
 - category: ai-research
   description: The "SLIC" training method enables a small LLM to compete with much
     more resource-intensive models in complex circuit design tasks.
@@ -102,23 +69,6 @@ articles:
   pub_date: '2026-11-20T15:20:00'
   source: MIT AI News
   title: Following the “mathocalypse,” mathematicians consider the future
-- category: machine-learning
-  description: A practical guide to choosing between open-weight and commercial models,
-    built around the four questions that actually determine the right answer for your
-    use case.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026
-  pub_date: '2026-11-20T15:00:00'
-  source: KDnuggets
-  title: 'Open Source vs. Proprietary LLMs: A Decision Framework for 2026'
-- category: machine-learning
-  description: Learn how decision models work, how they turn LLMs into faster decision-making
-    systems, and how to run open-source alternatives locally.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/decision-ai-explained-in-5-minutes
-  pub_date: '2026-11-20T13:00:00'
-  source: KDnuggets
-  title: Decision AI Explained in 5 Minutes
 - category: ai-research
   description: An MIT and Dana-Farber Institute-led team used large language models
     to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps
@@ -143,14 +93,6 @@ articles:
   pub_date: '2026-11-19T17:00:00'
   source: Google AI Blog
   title: Walter Isaacson on curiosity and creativity in the AI age.
-- category: machine-learning
-  description: Learn to build AI agents with Gemini and Google's ADK through this
-    free course, covering tools, memory, evaluation, and deployment.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course
-  pub_date: '2026-11-19T15:00:00'
-  source: KDnuggets
-  title: What I Learned From Kaggle + Google’s Free Agentic AI Course
 - category: ai-research
   description: Researchers find air pollution from data center electricity use can
     affect communities far from the facilities, with some of the highest impacts in
@@ -160,16 +102,6 @@ articles:
   pub_date: '2026-11-19T14:00:00'
   source: MIT AI News
   title: Study reveals data centers’ long-distance damage to air quality
-- category: machine-learning
-  description: Run BigQuery, Apache Spark, and Trino on one Apache Iceberg table in
-    Google Cloud's Lakehouse runtime catalog, with no copies or sync jobs, and see
-    how Iceberg handles concurrent commits between engin...
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy
-  pub_date: '2026-11-19T13:00:00'
-  source: KDnuggets
-  title: 'One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single
-    Iceberg Copy'
 - category: ai-research
   description: The speedy microrobot flies without an attached motion-capture system,
     moving it closer to applications like agriculture or industrial surveillance.
@@ -186,16 +118,6 @@ articles:
   pub_date: '2026-11-18T17:00:00'
   source: Google AI Blog
   title: The Gemini app is now available on lower-memory Android devices.
-- category: machine-learning
-  description: Google's newest model has one job, and it never writes a word doing
-    it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass,
-    up to 262,144 input tokens per request.
-  icon: fa-chart-bar
-  link: https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them
-  pub_date: '2026-11-18T17:00:00'
-  source: KDnuggets
-  title: 'Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing
-    Them'
 - category: ai-research
   description: A more flexible training method can make AI text detectors more robust
     when new models emerge or AI-generated text is disguised to appear human.
@@ -204,14 +126,6 @@ articles:
   pub_date: '2026-11-18T05:00:00'
   source: MIT AI News
   title: Helping AI text detectors keep up with changing conditions
-- category: ai-research
-  description: Supported by the MIT Human Insight Collaborative, scholars are exploring
-    how AI is impacting the human experience and reshaping higher education.
-  icon: fa-graduation-cap
-  link: https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117
-  pub_date: '2026-11-17T20:40:00'
-  source: MIT AI News
-  title: Putting a spotlight on AI, society, and humanity
 - category: ai-research
   description: A user interface displaying the prompt "What can I get done for you?"
     above an input box containing placeholder text "Describe a task".
@@ -252,4 +166,4 @@ articles:
   source: Google AI Blog
   title: 'Try Tabletop: Customizable, collaborative spaces for groups to plan, play
     and do more together.'
-last_updated: '2026-11-24T17:02:41.924896'
+last_updated: '2026-11-25T16:52:27.123556'

@@ -1,5 +1,70 @@
 articles:
 - category: supply-chain
+  description: The post-Thanksgiving spree has long represented a lucrative sales
+    opportunity, but more frequent and sophisticated cyberattacks...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/sc-security-risk-mgmt/article/16543011/retailers-face-rising-ai-cyberattack-threat-ahead-of-black-friday-many-uninsured
+  pub_date: '2026-11-25T14:27:03'
+  source: SupplyChainBrain
+  title: Retailers Face Rising AI Cyberattack Threat Ahead of Black Friday, Many Uninsured
+- category: circular
+  description: The European Union has banned the export of plastic waste to non-OECD
+    countries until at least May 2029. The post EU bans plastic waste exports to non-OECD
+    countries appeared first on Circular Online.
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/eu-bans-plastic-waste-exports-to-non-oecd-countries/
+  pub_date: '2026-11-25T09:27:58'
+  source: Circular Online
+  title: EU bans plastic waste exports to non-OECD countries
+- category: supply-chain
+  description: The FTC also accused Shein of making unsubstantiated claims about its
+    supply chain.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/article/16542744/shein-to-pay-100m-to-settle-us-shipping-customer-service-claims
+  pub_date: '2026-11-25T08:00:00'
+  source: SupplyChainBrain
+  title: Shein to Pay $100M to Settle U.S. Shipping, Customer Service Claims
+- category: supply-chain
+  description: The first batch of Tesla trucks is scheduled to arrive before the end
+    of the year, with the remaining vehicles coming in 2027.
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/green-energy/article/16542737/port-of-oakland-to-purchase-fleet-of-tesla-ev-semitrucks
+  pub_date: '2026-11-25T08:00:00'
+  source: SupplyChainBrain
+  title: Port of Oakland to Purchase Fleet of Tesla EV Semi-Trucks
+- category: supply-chain
+  description: Supply-chain leaders can't predict every event that will affect them
+    next year. They can decide how prepared they'll be when something...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/blogs/think-tank/article/16425350/the-holiday-supply-chain-lesson-plan-to-a-longer-horizon
+  pub_date: '2026-11-25T08:00:00'
+  source: SupplyChainBrain
+  title: 'The Holiday Supply Chain Lesson: Plan to a Longer Horizon'
+- category: supply-chain
+  description: Critical U.S. organizations are absorbing cyberattacks, and their supply
+    chains are taking a disproportionate share of the hits...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/regulation-compliance/article/16424477/how-will-the-supply-chain-be-impacted-by-ai-threats
+  pub_date: '2026-11-25T08:00:00'
+  source: SupplyChainBrain
+  title: How Will the Supply Chain Be Impacted by AI Threats?
+- category: supply-chain
+  description: The quotas will be in effect for 200 days starting on December 1, while
+    the EU conducts an investigation into the economic impacts...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/industries/automotive/article/16542694/eu-to-temporarily-cap-hybrid-vehicle-imports-from-china
+  pub_date: '2026-11-24T18:46:05'
+  source: SupplyChainBrain
+  title: EU to Temporarily Cap Hybrid Vehicle Imports from China
+- category: supply-chain
+  description: Although it's unclear when exactly the new tariffs might be announced,
+    the levies could include China, Japan, South Korea, and...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16542691/trump-admin-expected-to-raise-tariffs-against-dozens-of-nations
+  pub_date: '2026-11-24T17:50:32'
+  source: SupplyChainBrain
+  title: Trump Admin Expected to Raise Tariffs Against Dozens of Nations
+- category: supply-chain
   description: Anwar told the South China Morning Post that Malaysia was not leaning
     to either China or the U.S., though he found it generally...
   icon: fa-truck
@@ -7,6 +72,64 @@ articles:
   pub_date: '2026-11-24T16:34:53'
   source: SupplyChainBrain
   title: U.S. Chip Curbs Won't Impact Malaysia's China Ties, PM Says
+- category: supply-chain
+  description: Modern supply chains are being tested from every direction. Rising
+    operating costs, capacity constraints, cargo theft and fraud, cybersecurity threats
+    and increasingly demanding customer expectations ...
+  icon: fa-box
+  link: https://www.supplychain247.com/paper/beyond-the-rate-five-measures-of-transportation-quality-that-matter-more-than-ever
+  pub_date: '2026-11-24T16:00:00'
+  source: Supply Chain 24/7
+  title: 'Beyond the Rate: Five Measures of Transportation Quality That Matter More
+    Than Ever'
+- category: supply-chain
+  description: RELEX has bought London-based autone and is folding it into RELEX Lifestyle,
+    a new unit built for fashion, sports, and lifestyle brands.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/relex-acquires-autone-fashion-inventory-planning
+  pub_date: '2026-11-24T15:31:00'
+  source: Supply Chain 24/7
+  title: RELEX Acquires Autone, Launches New Unit for Fashion and Lifestyle
+- category: supply-chain
+  description: Descartes Spot turns a port pair into a full freight quote, letting
+    forwarders answer 90% of requests in 30 seconds or less.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/descartes-spot-freight-forwarder-quoting-tool
+  pub_date: '2026-11-24T15:14:00'
+  source: Supply Chain 24/7
+  title: Descartes Launches Spot to Help Forwarders Win the Race to Quote
+- category: supply-chain
+  description: Manufacturers can prepare for supplier disruptions by identifying the
+    parts that could halt production and securing backup sources ahead of time.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/supplier-risk-management-manufacturing
+  pub_date: '2026-11-24T14:20:00'
+  source: Supply Chain 24/7
+  title: Could Your Factory Keep Running Through a Three-Week Supplier Shock?
+- category: supply-chain
+  description: A tentative deal covering about 250 port watchmen eases the strike
+    threat at six Los Angeles and Long Beach terminals while a union vote is pending.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/los-angeles-long-beach-port-strike-tentative-deal
+  pub_date: '2026-11-24T14:19:00'
+  source: Supply Chain 24/7
+  title: LA and Long Beach Port Watchmen Reach Tentative Labor Deal
+- category: supply-chain
+  description: Niron Magnetics will build a $1.8 billion rare-earth-free magnet plant
+    in Dothan, Alabama, with about 700 jobs and production in 2029.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/niron-magnetics-dothan-alabama-magnet-plant
+  pub_date: '2026-11-24T13:34:00'
+  source: Supply Chain 24/7
+  title: Niron Magnetics Picks Alabama for $1.8 Billion Magnet Plant
+- category: supply-chain
+  description: ATCC opened a $55 million center in Manassas, Virginia, to make and
+    distribute biological materials for medical research and public health programs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/atcc-opens-biomanufacturing-center-manassas-virginia
+  pub_date: '2026-11-24T11:28:00'
+  source: Supply Chain 24/7
+  title: ATCC Opens $55 Million Biomanufacturing Center in Manassas, Virginia
 - category: circular
   description: A man who dumped 1,200 tonnes of waste on a World War II airfield in
     Suffolk has been handed a six-month prison term, suspended for a year. The post
@@ -42,38 +165,6 @@ articles:
   source: SupplyChainBrain
   title: How Physical AI Can Help Control What Truckers Burn
 - category: supply-chain
-  description: Unmonitored and undisclosed vendor AI adoption is creating new challenges
-    for third-party risk management.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/sourcing-procurement-srm/article/16424301/how-ai-creates-hidden-risks-in-multitier-supply-networks
-  pub_date: '2026-11-24T08:00:00'
-  source: SupplyChainBrain
-  title: How AI Creates Hidden Risks in Multi-Tier Supply Networks
-- category: supply-chain
-  description: The two Southern California ports averted a strike just before a November
-    20 strike deadline set by the union.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16542504/watchmen-at-la-long-beach-ports-agree-to-tentative-labor-deal
-  pub_date: '2026-11-23T19:30:00'
-  source: SupplyChainBrain
-  title: Watchmen at LA, Long Beach Ports Agree to Tentative Labor Deal
-- category: supply-chain
-  description: Members of the ring allegedly sold more than $1 million in stolen Nike
-    sneakers and other merchandise to an unnamed Los Angeles-based...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/rail-intermodal/article/16542489/nike-sneakers-milwaukee-tools-among-225m-haul-in-staggering-train-heist
-  pub_date: '2026-11-23T18:41:00'
-  source: SupplyChainBrain
-  title: Nike Sneakers, Milwaukee Tools Among $22.5M Haul in 'Staggering' Train Heist
-- category: supply-chain
-  description: Smaller grocers are competing to offer similar deals, hoping shoppers
-    will fill their baskets with other, more profitable, items...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/industries/food-beverage/article/16542469/big-grocers-offer-lossleading-deals-on-thanksgiving-dinner
-  pub_date: '2026-11-23T14:35:23'
-  source: SupplyChainBrain
-  title: Big Grocers Offer Loss-Leading Deals on Thanksgiving Dinner
-- category: supply-chain
   description: Highway congestion cost U.S. trucking $128.2 billion in 2024, or nearly
     $8,000 per registered truck, according to ATRI.
   icon: fa-box
@@ -81,14 +172,6 @@ articles:
   pub_date: '2026-11-23T13:55:00'
   source: Supply Chain 24/7
   title: Highway Traffic Cost U.S. Trucking $128.2 Billion in 2024, Study Finds
-- category: supply-chain
-  description: The President said he would impose a "tremendous tax" on companies
-    that build data centers abroad.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/technology/artificial-intelligence/article/16542394/trump-says-us-to-penalize-firms-building-data-centers-abroad
-  pub_date: '2026-11-23T13:19:24'
-  source: SupplyChainBrain
-  title: Trump Says U.S. to Penalize Firms Building Data Centers Abroad
 - category: circular
   description: New data reveals Haringey Council reported 94,065 fly-tipping incidents
     over the last five years, the most for any London Borough. The post New data shows
@@ -107,22 +190,6 @@ articles:
   pub_date: '2026-11-23T09:07:50'
   source: Circular Online
   title: Biffa announces new CEO after Michael Topham steps down
-- category: supply-chain
-  description: Warehouses that insist on sticking with aging equipment are especially
-    vulnerable to the techniques of modern-day cyber attackers...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/scb-feature/article/16542153/how-old-materialhandling-equipment-is-exposing-warehouses-to-cyber-risk
-  pub_date: '2026-11-23T07:40:00'
-  source: SupplyChainBrain
-  title: How Old Material-Handling Equipment Is Exposing Warehouses to Cyber Risk
-- category: supply-chain
-  description: On-and-off tariff threats under U.S. President Donald Trump's second
-    term in office have thrown long-established supply chains...
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16542364/eus-hansen-says-us-trade-uncertainty-is-drawing-mexico-europe-closer
-  pub_date: '2026-11-21T07:39:00'
-  source: SupplyChainBrain
-  title: EU's Hansen Says U.S. Trade Uncertainty Is Drawing Mexico, Europe Closer
 - category: circular
   description: Nearly a third of councils are unable to meet demand for fridge and
     freezer disposal services, a survey by the Local Government Association found.
@@ -148,32 +215,6 @@ articles:
   pub_date: '2026-11-20T14:12:00'
   source: Supply Chain 24/7
   title: Five Warehouse Safety Upgrades to Plan Alongside Automation
-- category: supply-chain
-  description: A Krber survey of 2,000 U.S. and German leaders found that 76% say
-    decisions have become more complex and 73% are uneasy giving technology the final
-    say.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/korber-survey-ai-decision-making-complexity
-  pub_date: '2026-11-20T14:06:00'
-  source: Supply Chain 24/7
-  title: Nearly 3 in 4 Leaders Want People, Not AI, to Have the Final Say
-- category: supply-chain
-  description: Rockwell Automation agreed to buy AGILOX from Carlyle, adding more
-    driverless forklifts to its OTTO lineup and expanding its robotics business in
-    Europe.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/rockwell-automation-acquires-agilox-mobile-robots
-  pub_date: '2026-11-20T14:04:00'
-  source: Supply Chain 24/7
-  title: Rockwell Automation Agrees to Buy Austrian Mobile Robot Maker AGILOX
-- category: supply-chain
-  description: COSCO signed agreements with Western Post and Xiaomi to expand logistics
-    work that began with warehouse partnerships in Los Angeles and Panama.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/cosco-western-post-xiaomi-logistics-agreements
-  pub_date: '2026-11-20T12:27:00'
-  source: Supply Chain 24/7
-  title: COSCO’s Two New Deals Build on Warehouse Work in L.A. and Panama
 - category: circular
   description: PackUK has proposed increasing charges for harder-to-recycle household
     packaging sooner than previously planned. The post PackUK proposes faster increase
@@ -183,38 +224,6 @@ articles:
   pub_date: '2026-11-20T09:56:01'
   source: Circular Online
   title: PackUK proposes faster increase in EPR fees for harder-to-recycle packaging
-- category: supply-chain
-  description: Learn how growing warehouses can overcome rigid workflows, IT bottlenecks,
-    manual processes, and compliance challenges with a flexible WMS approach.
-  icon: fa-box
-  link: https://www.supplychain247.com/paper/how-should-growing-warehouses-choose-a-wms-that-scales
-  pub_date: '2026-11-19T20:02:00'
-  source: Supply Chain 24/7
-  title: How Should Growing Warehouses Choose a WMS That Scales?
-- category: supply-chain
-  description: Compare portable power systems for warehouses, including lithium vs.
-    lead acid batteries, runtime, charging options, and mobile workstation requirements.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-should-warehouses-choose-portable-power-systems
-  pub_date: '2026-11-19T17:57:00'
-  source: Supply Chain 24/7
-  title: How Should Warehouses Choose Portable Power Systems?
-- category: supply-chain
-  description: A NYC bill would require licenses and direct hiring at some last-mile
-    facilities, putting Amazon's contracts with over 40 local delivery firms at risk.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/nyc-amazon-delivery-contractor-bill
-  pub_date: '2026-11-19T17:39:00'
-  source: Supply Chain 24/7
-  title: Amazon Says NYC Delivery Bill Could Add Up to $5 per Order
-- category: supply-chain
-  description: A Senate panel advanced a bipartisan bill that would give truck drivers
-    access to existing restrooms at covered businesses during pickups and deliveries.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/senate-panel-advances-trucker-bathroom-access-bill
-  pub_date: '2026-11-19T15:42:00'
-  source: Supply Chain 24/7
-  title: Senate Panel Advances Bill to Give Truck Drivers Restroom Access
 - category: circular
   description: The Prince and Princess of Wales have celebrated the five winners of
     this year's Earthshot Prize at a ceremony in Mumbai, India. The post Earthshot
@@ -242,14 +251,4 @@ articles:
   pub_date: '2026-11-17T09:31:30'
   source: Circular Online
   title: CIWM and CEI launch circular economy vision for 2050 at COP31
-- category: circular
-  description: Measures to prevent waste, extend product lifetimes and reduce demand
-    for new materials could avoid 149 billion tonnes of greenhouse gas emissions between
-    2025 and 2050, according to research released...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/zero-waste-measures-could-avoid-149-billion-tonnes-of-emissions-by-2050-report-estimates/
-  pub_date: '2026-11-16T15:14:48'
-  source: Circular Online
-  title: Zero waste measures could avoid 149 billion tonnes of emissions by 2050,
-    report estimates
-last_updated: '2026-11-24T17:02:41.071047'
+last_updated: '2026-11-25T16:52:26.530624'
