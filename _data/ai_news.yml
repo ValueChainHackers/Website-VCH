@@ -1,4 +1,45 @@
 articles:
+- category: machine-learning
+  description: The skills that keep you irreplaceable when AI handles the boilerplate.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work
+  pub_date: '2026-11-26T15:00:00'
+  source: KDnuggets
+  title: How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work
+- category: machine-learning
+  description: Explore top open-source alternatives to OpenAI Dots for building always-on
+    AI agents with persistent memory, task automation, custom skills, and local deployment.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots
+  pub_date: '2026-11-26T13:00:00'
+  source: KDnuggets
+  title: Top 5 Open-Source Alternatives to OpenAI Dots
+- category: machine-learning
+  description: Discover how Alaio Vibecode, an AI app builder for Bitrix24, helps
+    teams create custom CRM analytics dashboards, reporting tools, lead scoring apps,
+    and AI agents.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents
+  pub_date: '2026-11-25T18:00:33'
+  source: KDnuggets
+  title: 'Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps,
+    and AI Agents'
+- category: machine-learning
+  description: Pressure disrupts recall in interviews. Timed mock interviews let you
+    rehearse it.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know
+  pub_date: '2026-11-25T15:00:00'
+  source: KDnuggets
+  title: Why Data Job Candidates Freeze on Questions They Already Know
+- category: machine-learning
+  description: From cybersecurity foundations to defending machine learning systems,
+    agentic pipelines, and large language model applications.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026
+  pub_date: '2026-11-25T13:00:00'
+  source: KDnuggets
+  title: The Roadmap to Becoming an AI Security Engineer in 2027
 - category: ai-research
   description: '"TangiMap" uses an AI agent to reprogram how buttons, knobs, and sliders
     are used, helping users do things like edit photos and perform music in a more
@@ -8,6 +49,15 @@ articles:
   pub_date: '2026-11-24T19:30:00'
   source: MIT AI News
   title: Agentic system personalizes physical controls to help users “DJ their art”
+- category: machine-learning
+  description: American open-source AI is making a comeback, and this powerful local
+    LLM is proving that fast inference, AI coding agents, and impressive results don't
+    require expensive APIs.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio
+  pub_date: '2026-11-24T17:00:00'
+  source: KDnuggets
+  title: How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio
 - category: ai-research
   description: Google Gemini partners with Golden State to power fan experiences and
     business operations for the Warriors, Valkyries, and Chase Center. See the news.
@@ -16,6 +66,22 @@ articles:
   pub_date: '2026-11-24T16:00:00'
   source: Google AI Blog
   title: How Gemini is changing the game for Golden State's organization and fans.
+- category: machine-learning
+  description: The process of building a bulletproof Python loader based on Pandas'
+    read_csv() function to turn messy data into pristine data.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/from-messy-to-clean-taming-real-world-csv-files-with-pandas-read_csv
+  pub_date: '2026-11-24T15:00:00'
+  source: KDnuggets
+  title: 'From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()'
+- category: machine-learning
+  description: The most downloaded AI models on Hugging Face aren't the ones you'd
+    expect. Discover why smaller, older, and specialized models dominate the rankings.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face
+  pub_date: '2026-11-24T13:00:00'
+  source: KDnuggets
+  title: 7 Most Downloaded AI Models on Hugging Face
 - category: ai-research
   description: Analyzing speakers of 21 languages, an MIT study using multilingual
     AI finds the human brain may represent meaning in much the same way.
@@ -33,6 +99,23 @@ articles:
   pub_date: '2026-11-23T17:00:00'
   source: Google AI Blog
   title: A more tailored Google Search that’s uniquely yours
+- category: machine-learning
+  description: Discover how to combine AI assistants, coding tools, and adaptive platforms
+    to cut your learning curve and build practical skills more efficiently.
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026
+  pub_date: '2026-11-23T15:00:00'
+  source: KDnuggets
+  title: How to Use AI Tools to Learn Data Science Faster in 2026
+- category: machine-learning
+  description: Compare five lightweight ways to give AI agents tools without an MCP
+    server, from a Python dispatcher to framework tools, REST adapters, subprocesses,
+    and webhooks, and learn when MCP becomes worth ad...
+  icon: fa-chart-bar
+  link: https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools
+  pub_date: '2026-11-23T13:00:00'
+  source: KDnuggets
+  title: 5 Lightweight Alternatives to MCP for Giving AI Agents Tools
 - category: ai-research
   description: The "SLIC" training method enables a small LLM to compete with much
     more resource-intensive models in complex circuit design tasks.
@@ -166,4 +249,4 @@ articles:
   source: Google AI Blog
   title: 'Try Tabletop: Customizable, collaborative spaces for groups to plan, play
     and do more together.'
-last_updated: '2026-11-25T16:52:27.123556'
+last_updated: '2026-11-26T16:29:44.934805'

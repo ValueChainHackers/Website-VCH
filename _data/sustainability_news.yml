@@ -1,4 +1,30 @@
 articles:
+- category: circular
+  description: Waste carrier licence applications more than doubled following the
+    launch of the first phase of mandatory Digital Waste Tracking (DWT), new data
+    shows. The post Waste carrier licence applications more...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/waste-carrier-licence-applications-more-than-double-following-dwt/
+  pub_date: '2026-11-26T10:34:41'
+  source: Circular Online
+  title: Waste carrier licence applications more than double following DWT
+- category: circular
+  description: Minister's plans to potentially abolish the Environment Agency and
+    Natural England are based on 'flawed logic', CIWM warns. The post Proposals to
+    abolish Environment Agency based on 'flawed logic', CI...
+  icon: fa-recycle
+  link: https://www.circularonline.co.uk/news/proposals-to-abolish-environment-agency-based-on-flawed-logic-ciwm-warns/
+  pub_date: '2026-11-26T08:30:00'
+  source: Circular Online
+  title: Proposals to abolish Environment Agency based on ‘flawed logic’, CIWM warns
+- category: supply-chain
+  description: The IMO finds that even a light layer of small calcareous growth on
+    a container ship can increase greenhouse gas emissions by...
+  icon: fa-truck
+  link: https://www.supplychainbrain.com/general-scm/sustainability-corporate-social-responsibility/article/16543062/eu-decision-on-biocide-antifoulings-prompts-objection-from-manufacturer
+  pub_date: '2026-11-25T18:11:54'
+  source: SupplyChainBrain
+  title: EU Decision on Biocide Anti-Foulings Prompts Objection from Manufacturer
 - category: supply-chain
   description: The post-Thanksgiving spree has long represented a lucrative sales
     opportunity, but more frequent and sophisticated cyberattacks...
@@ -7,6 +33,30 @@ articles:
   pub_date: '2026-11-25T14:27:03'
   source: SupplyChainBrain
   title: Retailers Face Rising AI Cyberattack Threat Ahead of Black Friday, Many Uninsured
+- category: supply-chain
+  description: Shein will pay $100 million to settle FTC charges over late deliveries,
+    deleted bad reviews, and a customer service line staffed by five people.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/shein-ftc-100-million-settlement-shipping-reviews
+  pub_date: '2026-11-25T12:12:00'
+  source: Supply Chain 24/7
+  title: Shein to Pay $100 Million Over Late Packages and Deleted Bad Reviews
+- category: supply-chain
+  description: Retailers expect 19% of holiday sales to be returned as they prepare
+    for more fraud and try to keep returns easy for shoppers.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/holiday-returns-fraud-happy-returns-2026
+  pub_date: '2026-11-25T12:11:00'
+  source: Supply Chain 24/7
+  title: Retailers Expect 19% of 2026 Holiday Sales to Come Back as Returns
+- category: supply-chain
+  description: The U.S. revised its 50% tariff list for Canadian goods on October
+    30, giving importers a reason to recheck product codes and landed costs.
+  icon: fa-box
+  link: https://www.supplychain247.com/article/us-canada-tariff-changes-importer-compliance
+  pub_date: '2026-11-25T12:04:00'
+  source: Supply Chain 24/7
+  title: U.S. Tariffs on Canadian Goods Have Changed. What Should Importers Do?
 - category: circular
   description: The European Union has banned the export of plastic waste to non-OECD
     countries until at least May 2029. The post EU bans plastic waste exports to non-OECD
@@ -156,22 +206,6 @@ articles:
   pub_date: '2026-11-24T08:00:00'
   source: SupplyChainBrain
   title: World Shipping Council Pushes for Deal on Global Shipping Emissions
-- category: supply-chain
-  description: Truckers have more control over how much fuel they consume than they
-    might realize.
-  icon: fa-truck
-  link: https://www.supplychainbrain.com/logistics/article/16424475/how-physical-ai-can-help-control-what-truckers-burn
-  pub_date: '2026-11-24T08:00:00'
-  source: SupplyChainBrain
-  title: How Physical AI Can Help Control What Truckers Burn
-- category: supply-chain
-  description: Highway congestion cost U.S. trucking $128.2 billion in 2024, or nearly
-    $8,000 per registered truck, according to ATRI.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/highway-congestion-cost-us-trucking-128-billion-2024
-  pub_date: '2026-11-23T13:55:00'
-  source: Supply Chain 24/7
-  title: Highway Traffic Cost U.S. Trucking $128.2 Billion in 2024, Study Finds
 - category: circular
   description: New data reveals Haringey Council reported 94,065 fly-tipping incidents
     over the last five years, the most for any London Borough. The post New data shows
@@ -199,22 +233,6 @@ articles:
   pub_date: '2026-11-21T01:01:00'
   source: Circular Online
   title: 29% of councils unable to meet demand for fridge and freezer disposal
-- category: supply-chain
-  description: Manage enterprise labeling across multiple sites with centralized templates,
-    consistent approvals, and connected workflows as supply chains grow and evolve.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/how-can-manufacturers-manage-labeling-across-multiple-sites
-  pub_date: '2026-11-20T17:54:00'
-  source: Supply Chain 24/7
-  title: How Can Manufacturers Manage Labeling Across Multiple Sites?
-- category: supply-chain
-  description: From clearer aisle markings to stronger rack protection, five physical
-    upgrades can make warehouses safer as they add robots and software.
-  icon: fa-box
-  link: https://www.supplychain247.com/article/warehouse-safety-upgrades-automation
-  pub_date: '2026-11-20T14:12:00'
-  source: Supply Chain 24/7
-  title: Five Warehouse Safety Upgrades to Plan Alongside Automation
 - category: circular
   description: PackUK has proposed increasing charges for harder-to-recycle household
     packaging sooner than previously planned. The post PackUK proposes faster increase
@@ -233,22 +251,4 @@ articles:
   pub_date: '2026-11-18T10:43:17'
   source: Circular Online
   title: Earthshot Prize announces 2026 winners
-- category: circular
-  description: Material Focus estimates battery fires rose 135% to 2,839 incidents
-    in 2025, with around a quarter occurring in bin lorries and most councils surveyed
-    reporting a growing challenge. The post Battery f...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/battery-fires-in-uk-waste-system-cost-2-37bn-a-year-research-estimates/
-  pub_date: '2026-11-18T09:19:42'
-  source: Circular Online
-  title: Battery fires in UK waste system cost £2.37bn a year, research estimates
-- category: circular
-  description: CIWM and the Circular Economy Institute (CEI) have launched a joint
-    report at COP31 calling for a shift towards resource stewardship. The post CIWM
-    and CEI launch circular economy vision for 2050 at C...
-  icon: fa-recycle
-  link: https://www.circularonline.co.uk/news/ciwm-and-cei-launch-circular-economy-vision-for-2050-at-cop31/
-  pub_date: '2026-11-17T09:31:30'
-  source: Circular Online
-  title: CIWM and CEI launch circular economy vision for 2050 at COP31
-last_updated: '2026-11-25T16:52:26.530624'
+last_updated: '2026-11-26T16:29:44.281545'
